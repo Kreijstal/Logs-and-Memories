@@ -1,0 +1,673 @@
+Session Start: Sat Feb 21 12:36:44 2015
+Session Ident: ##math
+[12:36.44] * You have joined ##math
+[12:36.44] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[12:36.44] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[12:36.45] Channel modes for ##math are :+Ccnt
+[12:36.45] Channel Created on: 8:42 PM 1/29/2010
+[12:36.45] * very_anon_math (~anon_math@ip68-7-134-6.sd.sd.cox.net) has joined channel ##math
+[12:37.11] <p0a> Jaood: yes, the more restricted substatement wins
+[12:37.32] <p0a> Jaood: continuous & uniformly continuous = uniformly continuous
+[12:37.39] <int-e> Ozera: as an additive group, 12Z is isomorphic to Z. But the quotient Z/12Z equates a,b in Z if a - b is an element of 12Z, that is, if they are equal modulo 12.
+[12:38.22] * shikhin_ is now known as shikhin
+[12:38.38] * rudi95 (~rudi95@unaffiliated/rudi95) has joined channel ##math
+[12:39.29] * agjacome (~agjacome@151.175.20.95.dynamic.jazztel.es) has joined channel ##math
+[12:40.00] * redjuggler (~redjuggle@203.Red-79-158-90.staticIP.rima-tde.net) has joined channel ##math
+[12:40.04] <Jaood> hmm
+[12:40.22] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) Quit ()
+[12:40.33] <Ozera> int-e, why are the elements of 3Z/12Z this: {0,2,6,9} ?
+[12:41.12] <Janital>  anyone aware of a practical example in the real-world where knowing gcd of two numbers is really crucial?  but a nice example, not sth like  " one needs to know what is a number of ppl such that if we choose to split two quantities for that number of ppl, each ppl will receive integer money "
+[12:42.42] <Jaood> raskol: so by your last statement you mean something like like (x < 4) & (x < 6) would be  (x < 4) ?
+[12:43.00] <metallic> Janital, Diofantic equations
+[12:43.16] <int-e> Ozera: you made a typo, right?
+[12:43.23] <Jaood> p0a: wouldn't continous be more restricted than uniformly continous?
+[12:43.26] * petersr (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) has joined channel ##math
+[12:43.31] <Janital> diofantic equation is not a practical example in the real world, it is an abstract formula which might appear in the real-world
+[12:43.40] <raskol> Jaood: yes, I affirmed your statement with a negative, sorry if that was confusing
+[12:43.53] <Ozera> int-e, yes. A 3 instead of a 2
+[12:43.53] <p0a> Jaood: no, why?
+[12:44.12] * agjacome (~agjacome@151.175.20.95.dynamic.jazztel.es) Quit (Ping timeout: 252 seconds)
+[12:44.18] <metallic> Janital, lol maybe you do not know as much as you think the "real world"
+[12:44.25] * rfk (~fgk@li667-207.members.linode.com) Quit (Quit: leaving)
+[12:44.30] <metallic> Janital, gcd is also useful for Bezout identities
+[12:44.49] <int-e> Ozera: the elements of 3Z are {0,3,-3,6,-6,9,-9,...}; 3Z/12Z equates any two of those if they are equal modulo 12. { 0, 3, 6, 9 } happens to cover every residue class modulo 12 whose elements are divisible by 3 (i.e. elements of 3Z).
+[12:44.52] <Janital> real-world problems in highschool
+[12:44.57] <Janital> have you heard about those metallic
+[12:45.02] <Janital> im looking for those
+[12:45.05] <Janital> Jane had a restaurant ..
+[12:45.06] <Janital> etc
+[12:45.09] <metallic> aaaah highschool problems are shit
+[12:45.11] <metallic> XD
+[12:45.13] <Janital> i want shit
+[12:45.17] <metallic> lol
+[12:45.19] <Jaood> p0a: does the words continous and uniform has meaning in this context?
+[12:45.23] <Ozera> int-e, ah okay
+[12:45.27] <Jaood> *have
+[12:45.58] * rebs (~rebs@cpe-69-204-33-166.buffalo.res.rr.com) has joined channel ##math
+[12:45.59] <p0a> Jaood: forget about it. Try this: I'm a little happy AND I'm very happy. Therefore I'm very happy
+[12:46.11] <metallic> Janital, all I can think of is arithmetic concepts like modular rings... :( Sorry, I left highschool much time ago
+[12:46.18] <p0a> Jaood: much happiness is more to ask than little happiness
+[12:46.27] <p0a> Jaood: therefore more happiness is more restrictive
+[12:46.48] <rebs> if i see an existential operator followed by an '!', should i read that is there doesnt exist, or as  there exists a unique
+[12:46.56] <Janital> so apparently there isnt a easy to grasp application of gcd that kids can learn
+[12:46.56] <p0a> rebs: unique I believe
+[12:47.00] <Janital> for lcm there is
+[12:47.03] <Ozera> To check if Q[x]/(x^2 - x - 6) is a field, I have to check if x^2 - x - 6 is reducible in Q right? I know how to check reducibility, but how do I check it for Q?
+[12:47.11] <rebs> ok ty p0a
+[12:47.15] * _kmh_ (~kilian@p5B35A48F.dip0.t-ipconnect.de) Quit (Quit: Leaving)
+[12:47.29] <metallic> But for the record, highschool problems cannot be "real-world alike" because if they were, highschool students would not be able to handle them
+[12:47.32] <p0a> Janital: usually we put the prime divisors of n and m in two bins and show the kids that the product of those "in common" are the gcd
+[12:47.38] <Jaood> p0a: oh got it
+[12:47.45] <Ozera> Janital, what? Just tell them what it is and they will be like "oh, okay why didn't you just tell me that instead of a fucking 'real life application story'
+[12:47.48] <Jaood> ty guys
+[12:48.03] <int-e> Ozera: it's a quadratic, so you can simply find its roots; if they are rational, then the polynomial is reducible in Q.
+[12:48.33] * masenn (328e8a2c@gateway/web/freenode/ip.50.142.138.44) has joined channel ##math
+[12:48.37] * nitro_gif (~nitro_gif@S0106c8fb267863f9.cg.shawcable.net) Quit (Quit: Leaving)
+[12:48.37] * mimer (~Mimer@unaffiliated/mimer) has joined channel ##math
+[12:48.42] * slurik (~slurik@135-23-94-120.cpe.pppoe.ca) Quit (Remote host closed the connection)
+[12:48.49] * jollyjoe (5679181f@gateway/web/freenode/ip.86.121.24.31) has joined channel ##math
+[12:49.21] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 250 seconds)
+[12:49.23] <Ozera> int-e, well, that polynomial reduces to (x-3)(x+2) and -3,2 are rational so it is not reducible over Q. Hence Q[x]/(x^2 - x - 6) is not a field
+[12:49.28] <int-e> Ozera: you can also use the rational roots theorem here.
+[12:49.34] <int-e> Ozera: right
+[12:49.35] <jollyjoe> hey there. is there a deep connection between formal systems and turing machines? i've read a bit about how formal systems work and have programmed before and it feels like there's a connection there.
+[12:50.02] <Ozera> Ah bugger, I forgot the rrt. I don't know how since it was pounded into my head for forever
+[12:50.04] <metallic> jollyjoe, do you mean formal LANGUAGES?
+[12:50.08] <masenn> [~masenn@unaffiliated/masenn] has quit [Ping timeout: 3.14159265358979323846 seconds]
+[12:50.10] <Ozera> also eisenstien criterion oh noo
+[12:50.39] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[12:50.50] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[12:51.07] * kmels (~kmels@186.151.61.248) Quit (Read error: Connection reset by peer)
+[12:51.28] <int-e> Ozera: note that finding roots is not enough for degrees larger than 3. then you need proper irreducibility criteria (like Eisenstein's)
+[12:52.21] <jollyjoe> metallic: you mean both are classes of formal languages?
+[12:53.03] <metallic> jollyjoe, I know what a Turing machine is, but I have no idea what a "formal system" is, that's why I asked you whether you meant "formal languages"
+[12:53.06] <int-e> Ozera: For example, x^4+4 has no rational roots, but x^4+4 = (x^2 + 2)^2 - (2x)^2 = (x^2 - 2x + 2) (x^2 + 2x + 2).
+[12:53.23] <Ozera> :o !
+[12:53.26] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Quit: Zzzzz...)
+[12:53.31] * code_zombie (~code_zomb@c-174-58-144-184.hsd1.ks.comcast.net) has joined channel ##math
+[12:53.49] * p0a (9334974c@gateway/web/freenode/ip.147.52.151.76) Quit ()
+[12:53.50] <jollyjoe> metallic: that's a surprising statement. ＋＋http://en.wikipedia.org/wiki/Formal_system，，
+[12:54.06] * et09 (~mike@unaffiliated/endolphin) has joined channel ##math
+[12:54.18] * Balzy (~Balzy@host53-166-dynamic.8-87-r.retail.telecomitalia.it) has joined channel ##math
+[12:54.25] * TheLoneMilkMan_ (Gamemaster@129.21.94.19) Quit (Ping timeout: 246 seconds)
+[12:54.43] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##math
+[12:55.23] <Ozera> int-e, what about instead of Q, we have Z_5 ? The next exercise is to find all c  \in Z_5 s.t. Z_5[x] / <x^3 + cx^2 + 1> is a field. So we need to find c s.t. x^3 + cx^2 + 1 is irreducible.
+[12:55.35] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) has joined channel ##math
+[12:55.36] <jollyjoe> metallic: basically, a formal system is a formal language with deductions (e.g., mathematics)
+[12:55.37] <Ozera> We can't use Eisenstiens because that is for Q only
+[12:55.38] <metallic> jollyjoe, so a formal system is a formal language with a logic, right?
+[12:55.46] <jollyjoe> yes
+[12:55.49] <Ozera> oh wait, we still can
+[12:56.02] <Ozera> if we show irreducible for Q we show it for Z
+[12:56.09] <int-e> Ozera: right, but the polynomial is cubic; any factorization has a linear factor, so finding roots is still sufficient.
+[12:56.27] <Ozera> int-e, i'm going to have to check c=1,2,3,4,5 :/ oh well
+[12:56.37] <Ozera> er, no 5
+[12:56.42] <metallic> jollyjoe, in fact Turing machine can be used to see whether a theory (formal system) is decidable or not
+[12:56.49] <Ozera> 0 instead
+[12:57.10] <metallic> that is a very interesting field, though pretty complicated
+[12:57.18] * jailbot (~textual@50.247.131.163) Quit (Ping timeout: 244 seconds)
+[12:57.40] <jollyjoe> metallic: yeah, i've read about undecidable problems
+[12:57.48] <jollyjoe> i'm just now learning about incompleteness and such
+[12:57.49] <int-e> Ozera: There may be a trick, but I don't see it.
+[12:57.55] <jollyjoe> so it's still a mistery to me
+[12:57.58] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 252 seconds)
+[12:58.10] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 250 seconds)
+[12:58.14] <Janital> metallic no, a formal system is a formal language plus rules of inference ( ways to go from "words" in the language to another words )
+[12:58.20] <Janital> those rules of inference might be logical ones or not
+[12:58.32] * Travisty (~anonymous@c-73-183-50-181.hsd1.pa.comcast.net) has joined channel ##math
+[12:58.46] <jollyjoe> depends on how you define "logical"
+[12:58.50] <metallic> oh dude, then you know more than I do, I want to take a subject on ZF set theory :)
+[12:58.55] <Janital> no, logical is well defined as in classical logic
+[12:58.59] * Tarap (~bgg@roa76-6-82-238-233-207.fbx.proxad.net) has joined channel ##math
+[12:59.00] <Janital> or modular logic
+[12:59.02] <Janital> or quantum logic
+[12:59.05] <Janital> its not a ambiguous term
+[12:59.08] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:59.22] * zz_ezio is now known as ezio
+[12:59.25] <Janital> but the allowed operations in a turing machine are not logic
+[12:59.26] * oalvarez (~alvarezp@pdpc/supporter/active/alvarezp) Quit (Ping timeout: 252 seconds)
+[12:59.31] <Janital> that is for sure
+[12:59.35] <Janital> the rules of inference*
+[12:59.38] <jollyjoe> i'd be surprised if people didn't use the word "logic" for something that doesn't apply in the real world
+[12:59.45] * oriig (~oriig@78-83-49-71.spectrumnet.bg) Quit (Ping timeout: 250 seconds)
+[12:59.55] * et09 (~mike@unaffiliated/endolphin) Quit (Quit: leaving)
+[01:00.10] <int-e> Ozera: ah, at least you can turn it around: for each x=0,+-1,+-2, compute which c (if any) makes the polynomial zero.
+[01:00.32] <metallic> jollyjoe, so you have studied Gödel theorems?
+[01:01.01] <jollyjoe> i know what they say but i'm still reading on godel numbers
+[01:01.11] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Read error: Connection reset by peer)
+[01:01.14] <jollyjoe> so i'm not yet knowledgeable about the proofs
+[01:01.14] * masenn (328e8a2c@gateway/web/freenode/ip.50.142.138.44) Quit (Quit: Page closed)
+[01:01.34] * br0d1n (~mikaj@173-171-162-247.res.bhn.net) has joined channel ##math
+[01:01.39] <Ozera> int-e, so to be irreducible in Z_5, the roots can't be integers? Do they also have be some number in Z_5?
+[01:01.56] <metallic> me either, I just know what they say, also I know there is a connection between Turing machines and Gödel numbers, but I didn't exploit that :/
+[01:02.21] * agjacome (~agjacome@182.171.20.95.dynamic.jazztel.es) has joined channel ##math
+[01:02.24] <jollyjoe> well undecidability in the turing sense was also proved with godel numbers
+[01:02.28] <int-e> Ozera: It's a field, so you can consider monic factors (x-a). If (x-a) divides x^3 + cx^2 + 1 then a is a root of x^3 + cx^2 + 1.
+[01:02.41] * mimer (~Mimer@unaffiliated/mimer) Quit (Quit: L�mnar)
+[01:03.16] <metallic> That is an interesting topic, how the logic evolved until what it is today
+[01:03.21] <int-e> Ozera: (starting with the observation that if the polynomial is reducible then it has a linear factor. That's where the (x-a) comes from.)
+[01:03.28] * Orpheon (~Orpheon@80-219-40-81.dclient.hispeed.ch) Quit (Ping timeout: 252 seconds)
+[01:03.58] <int-e> Ozera: in any case, yes, you'll be finding roots over Z_5
+[01:03.59] <jollyjoe> metallic: yeah, the foundations seem very interesting
+[01:04.05] * notalanturing (~agon@2001:41b8:83f:1000::ffff:e9a) Quit (Ping timeout: 250 seconds)
+[01:04.13] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##math
+[01:04.29] * agjacome_ (~agjacome@251.162.20.95.dynamic.jazztel.es) has joined channel ##math
+[01:04.40] <int-e> Ozera: x^2+1 is irreducible in Q, but equal to (x-2)(x+2) in Z_5, hence reducible.
+[01:04.43] <Ozera> int-e, right, but for our previous example of Q[x]/<x^2 - x - 6>, we had the condition that the roots had to be rational in order for the polynomial to be reducible in Q.
+[01:05.06] * topmytopology (4a085a3c@gateway/web/cgi-irc/kiwiirc.com/ip.74.8.90.60) has joined channel ##math
+[01:05.08] <int-e> Ozera: and indeed 2^2+1 = 5 = 0 (mod 5).
+[01:05.32] <Ozera> mm
+[01:06.34] <Ozera> int-e, what if the polynomail had roots which were fractions?
+[01:06.41] * agjacome (~agjacome@182.171.20.95.dynamic.jazztel.es) Quit (Ping timeout: 250 seconds)
+[01:07.21] * agjacome (~agjacome@31.162.20.95.dynamic.jazztel.es) has joined channel ##math
+[01:07.42] * Bashar^ (~christoph@dslb-088-073-072-121.088.073.pools.vodafone-ip.de) has joined channel ##math
+[01:08.08] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) has joined channel ##math
+[01:08.29] <int-e> Ozera: In Q?
+[01:08.35] <meoblast001> i'm a bit confused on something here in group theory... i can't see how it's possible to prove that there cannot be two elements of order 2 in a group.... i can even think of a counterexample... Z_{1} = { 0, 1} under addition... 0 + 0 = 0, 1 + 1 = 0...
+[01:08.42] <meoblast001> is my logic off or something?
+[01:08.51] * agjacome_ (~agjacome@251.162.20.95.dynamic.jazztel.es) Quit (Ping timeout: 250 seconds)
+[01:08.51] <Ozera> int-e, sorry, for Z_5
+[01:08.54] * Mmango (~user@rrcs-98-100-153-182.central.biz.rr.com) has joined channel ##math
+[01:09.02] <Ozera> or if they were complex roots
+[01:09.08] <int-e> Ozera: Z_5 is a field, you don't need fractions.
+[01:09.09] * athan (~quassel@75-166-23-91.hlrn.qwest.net) Quit (Remote host closed the connection)
+[01:09.18] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##math
+[01:09.28] <tensorpudding> meoblast001: In which group? There are lots of groups with more than one unique element of order 2 in it.
+[01:09.33] <Ozera> int-e, but what if our polynomial had non-integer roots?
+[01:09.51] <meoblast001> tensorpudding: well. what i'm trying to prove is that no group can have exactly two elements of order 2
+[01:09.53] <int-e> Ozera: "
+[01:10.01] <int-e> Ozera: "integer" is not applicable here, really.
+[01:10.04] * timlyg (~timlyg@ool-45716958.dyn.optonline.net) Quit (Quit: leaving)
+[01:10.08] <meoblast001> isn't the group i presented a counter example?
+[01:10.13] * Ozera squints
+[01:10.16] <meoblast001> it's a group containing two elements where both have order 2
+[01:10.45] <int-e> Ozera: The polynomial either has roots in Z_5, or not. But in the latter case the roots won't be fractions; they'll be more complicated (square roots, say).
+[01:10.59] * metallic at first read "Ozera squirts"
+[01:11.19] <tensorpudding> meoblast001: The identity can't count as an element of order 2.
+[01:11.29] <int-e> Ozera: For example 2x - 1 has x=3 as a root in Z_5.
+[01:11.39] <int-e> Ozera: not 1/2.
+[01:11.44] * jagob (~jacob@109.57.227.28.mobile.3.dk) Quit (Ping timeout: 255 seconds)
+[01:11.44] <meoblast001> oooh, you're right, te
+[01:11.46] <meoblast001> tensorpudding: *
+[01:11.46] * agjacome (~agjacome@31.162.20.95.dynamic.jazztel.es) Quit (Ping timeout: 244 seconds)
+[01:11.47] <meoblast001> thanks
+[01:11.50] <meoblast001> that would have order 1
+[01:12.29] * agjacome (~agjacome@74.159.216.87.dynamic.jazztel.es) has joined channel ##math
+[01:12.30] * agjacome (~agjacome@74.159.216.87.dynamic.jazztel.es) Quit (Client Quit)
+[01:12.33] * WizJin (~WizJinAFK@103.21.160.239) has joined channel ##math
+[01:12.40] * andul (andul@cm-84.215.91.133.getinternet.no) has joined channel ##math
+[01:13.20] <tensorpudding> You would probably show that if a and b in a group are of order 2, that you can construct another element that is order 2.
+[01:13.33] * hiptobecubic (~john@unaffiliated/hiptobecubic) Quit (Ping timeout: 264 seconds)
+[01:14.21] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) Quit (Ping timeout: 244 seconds)
+[01:14.30] * Bajo (~bajo@unaffiliated/bajo) Quit ()
+[01:14.37] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[01:14.37] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[01:14.42] * Macuser (~textual@unaffiliated/macuser) Quit (Max SendQ exceeded)
+[01:15.14] * hugofirth is now known as hugofirth|away
+[01:15.18] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[01:16.14] <meoblast001> tensorpudding: hm. yeah.. i was thinking some dihedral groups could be a counterexample... but probably not because i'd be able to find another element of order 2
+[01:16.20] <meoblast001> thanks.. i'll think that over more
+[01:16.25] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) has joined channel ##math
+[01:16.30] <tensorpudding> Consider bab or aba
+[01:16.50] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) Quit (Client Quit)
+[01:16.51] * cerebrum (~cerebrum@p5B335A83.dip0.t-ipconnect.de) Quit (Remote host closed the connection)
+[01:17.44] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 264 seconds)
+[01:18.22] * ButterQuark (~peterh@2607:ea00:104:3c00:21e:4cff:fe63:eb85) has joined channel ##math
+[01:19.05] * music2myear (~quassel@mail.mertzok.com) has joined channel ##math
+[01:19.28] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[01:19.29] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##math
+[01:20.27] <tensorpudding> If the group is abelian, then ab is an element of order 2 distinct from a and b; if the group is not abelian, bab is an element of order 2 distinct from a and b.
+[01:20.40] * rudi95 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 246 seconds)
+[01:20.40] <Ozera> int-e, are prime ideals simply ideals which have prime generators?
+[01:20.42] * math088 (adeec1c2@gateway/web/freenode/ip.173.238.193.194) has joined channel ##math
+[01:21.00] <math088> Hi.
+[01:21.28] * bluesnow (~bluesnow@nat-130-132-173-242.central.yale.edu) has joined channel ##math
+[01:21.39] <math088> Calculus question: what would the limit of 5 be as x approaches 4? Is it possible to get the limit of a constant, or would that limit simply be 5?
+[01:21.41] <tensorpudding> Err, in the non-abelian case, either ab or bab is that element. It depends on if a commutes with b.
+[01:21.48] <bluesnow> Hi, I'm kind of confused about a math model that's used in my linguistics textbook
+[01:22.20] <bluesnow> It's a bigram model where the probability of a word occuring next in a sequence is modeled as a conditional probability on the previous word
+[01:22.49] <bluesnow> And then the prob of an entire sequence of words is P(w_1..n) = product of the sequence from k=1 to n of P(w_k|w_k-1)
+[01:23.07] * linear4 (L@unaffiliated/lynear) Quit (Ping timeout: 246 seconds)
+[01:23.22] <bluesnow> My textbook then says we need to add a special symbol <s> at the beginning to give the bigram context of the first word, and it also says we need to add a special end-symbol to make the bigram grammar a true probability distribution
+[01:23.37] <bluesnow> "Without an end-symbol, the sentece probabilities for all sentences of a given length would sum to one.."
+[01:23.50] <bluesnow> The requirement for the end-symbol is what I'm confused about
+[01:24.10] <bluesnow> I don't see why the sentence probabilities for all sentences of a given length would sum to 1 otherwise, and I don't see how the end symbol fixes it
+[01:24.23] <raskol> bluesnow: if you have an end symbol you might end the sentence before the given length
+[01:24.26] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:24.27] <bluesnow> Sorry if this is too off topic for #math. I wasn't sure where to ask this, but it seemed like a mostly math question.
+[01:24.33] <int-e> Ozera: I have not thought it through, but Wikipedia thinks so: "A nonzero principal ideal is prime if and only if it is generated by a prime element. In a UFD, every nonzero prime ideal contains a prime element." ＋＋https://en.wikipedia.org/wiki/Prime_ideal，，
+[01:24.48] * rudi95 (~rudi95@unaffiliated/rudi95) has joined channel ##math
+[01:24.55] * linear4 (L@unaffiliated/lynear) has joined channel ##math
+[01:25.02] <bluesnow> raskol: Well, my understanding is that we put the end symbol where the sentence ends
+[01:25.17] <bluesnow> It functions like a quasi period I guess. So I don't see how that fixes the probability distribution problem
+[01:25.23] <Ozera> int-e, thanks
+[01:25.29] <math088> Does anybody know?
+[01:25.33] <raskol> bluesnow: if you have an end symbol and you generate it before the nth term you get a sentence of less than n words
+[01:25.57] * Stantheman (~Emperor@host-87-242-253-224.ppp.onetel.net.uk) has joined channel ##math
+[01:26.04] <bluesnow> raskol: Sure. But they're not really "generating" the end symbol. They're just appending the end symbol to where the sentence would have ended anyway
+[01:26.07] <raskol> bluesnow: however, if you consider all sentences of length n and there's no way to stop it sooner, obviously once you exhaust the possibilities you have a total probability of 1
+[01:26.12] <raskol> bluesnow: you are having it backwards
+[01:26.22] * hugofirth|away is now known as hugofirth
+[01:26.25] * struktured (~carm@2604:2000:dd21:3e00:a4df:c00f:b4ab:fd5) Quit (Ping timeout: 265 seconds)
+[01:26.26] <raskol> bluesnow: you CAN'T have an end symbol generated in order to have that property
+[01:26.45] * oriba (~oliver@e178005243.adsl.alicedsl.de) has joined channel ##math
+[01:27.01] * Sweet_Ride_ (~Sweet@199.47.65.62) has joined channel ##math
+[01:27.13] <bluesnow> raskol: What property? And wouldn't a period serve the same function?
+[01:27.13] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[01:27.26] <bluesnow> I get that I'm looking at this wrong somehow, but I'm not sure what my book means
+[01:27.33] <raskol> bluesnow: imagine instead of words it is dice with uniform bigram property but yous top when you roll a 6
+[01:27.46] <raskol> versus dice with 5 sides
+[01:27.53] * topmytopology (4a085a3c@gateway/web/cgi-irc/kiwiirc.com/ip.74.8.90.60) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[01:28.04] <raskol> what's the sum of the probabilities of strings of dice of length 2 in the first case?
+[01:28.07] <Ozera> int-e, is this true. Say we have the quotient group Z/12Z. Then it has order 12/1 = 12. It's elements are {0,1,2,3,4,5,6,..., 11}
+[01:28.10] <raskol> what's the sum in the second case?
+[01:28.18] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 244 seconds)
+[01:28.23] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 255 seconds)
+[01:28.37] * kexmex (~kexmex@178.136.234.6) Quit (Quit: Computer has gone to sleep.)
+[01:28.47] * Sweet_Ride (~Sweet@199.47.65.59) Quit (Ping timeout: 250 seconds)
+[01:28.57] <bluesnow> raskol: In the second case the sum is 1. In the first case, I'd need to calculate it out a little.
+[01:28.57] * Sweet_Ride_ is now known as Sweet_Ride
+[01:29.01] <raskol> bluesnow: exactly
+[01:29.05] <raskol> but it's definitely not 1
+[01:29.08] * Tamae (~Tamae@mna75-1-81-57-129-31.fbx.proxad.net) has joined channel ##math
+[01:29.09] <bluesnow> right
+[01:29.10] <raskol> because 1/6th of the time yous top
+[01:29.14] <raskol> okay, that's what they're saying
+[01:29.15] <bluesnow> yeah
+[01:29.28] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 246 seconds)
+[01:29.28] <raskol> the period / end symbol is the "you rolled a 6" case
+[01:29.34] <bluesnow> ah
+[01:29.36] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[01:29.41] <bluesnow> okay I think I see
+[01:29.44] * alephnull (89a5a70c@gateway/web/freenode/ip.137.165.167.12) has joined channel ##math
+[01:29.47] <bluesnow> thanks
+[01:29.51] <raskol> hth!
+[01:30.00] <alephnull> hey hows it going
+[01:30.06] * Nik05 (~Nik05@unaffiliated/nik05) has joined channel ##math
+[01:30.30] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##math
+[01:31.45] <raj> if 3+2 = 216; 4+5=1000; what is 2+2 ?
+[01:31.46] * Dann20 (68cf8873@gateway/web/cgi-irc/kiwiirc.com/ip.104.207.136.115) has joined channel ##math
+[01:31.58] <Dann20> Morning all
+[01:32.02] * komarov (~komarov@95-55-8-122.dynamic.avangarddsl.ru) has joined channel ##math
+[01:32.37] <toccatanfugue> Good morning
+[01:32.39] <Dann20> Someone help me finish this proof?
+[01:32.41] <Dann20> ＋＋http://mathb.in/27914，，
+[01:33.07] <Dann20> Let e > 0.  |Xn + Yn - (L-M)| < e
+[01:33.39] <metallic> Dann20, use the triangular inequality
+[01:33.47] <Dann20> |Xn - L + Yn - M| <= |Xn -L| + |Yn-M|
+[01:33.52] <metallic> good
+[01:34.05] <Dann20> So |Xn-L| < e/2
+[01:34.13] <Dann20> and so is |Yn-L|
+[01:34.14] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##math
+[01:34.16] <Dann20> M*
+[01:34.29] <Dann20> But from there i'm not sure what to do
+[01:35.12] <math088> Calculus question: what would the limit of 5 be as x approaches 4? Is it possible to get the limit of a constant, or would that limit simply be 5?
+[01:35.36] <metallic> Dann20, by definition of convergence, for every E > 0 there is a K (natural number) verifying that "n > K implies |Xn - L| < E"
+[01:35.36] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 265 seconds)
+[01:35.51] * moqq (~anonymous@unaffiliated/moqq) Quit (Quit: moqq)
+[01:35.52] <Dann20> Correct
+[01:35.54] <metallic> and so for Yn
+[01:35.55] <Koen_> math088: is is 5
+[01:36.26] <math088> So the limit of a constant is the constant? It sounded like common sense, but I always like to verify.
+[01:36.31] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##math
+[01:36.36] <Koen_> just think of 5 as a function of x
+[01:36.38] <metallic> so if you choose K' = max(K(X), K(Y) )...
+[01:36.41] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) Quit (Remote host closed the connection)
+[01:36.42] <Koen_> f : x -> f(x) = 5
+[01:36.58] <math088> That makes sense. Thanks!
+[01:37.10] <Dann20> K = max{K1, K2}
+[01:37.11] <Dann20> ?
+[01:37.14] * Nazral (~tyruiop@tyruiop.eu) Quit (Ping timeout: 245 seconds)
+[01:37.17] <Koen_> note that sometimes we talk about "speed of convergence"
+[01:37.20] <Dann20> But what exactly are K1 and K2?
+[01:37.36] <Koen_> for instance, 5-1/x converges to 5, but slower than 5-1/x^2
+[01:38.00] * Birdo_ (47ca6a82@gateway/web/freenode/ip.71.202.106.130) has joined channel ##math
+[01:38.04] <Koen_> and in that case, 5 converges to 5 much faster than all other sequences since it's already there
+[01:38.19] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Ping timeout: 250 seconds)
+[01:38.28] <metallic> Dann20, for every E>0 there is a natural Kx verifying "n>Kx implies |Xn - L| < E"
+[01:38.51] <Birdo_> Is it okay to post images in here of problems/solutions? I've got a screenshot of a solution that I don't think is correct and I'd love if someone could verify.
+[01:38.56] * alephnull (89a5a70c@gateway/web/freenode/ip.137.165.167.12) Quit (Quit: Page closed)
+[01:38.58] <Birdo_> love it*
+[01:39.06] <metallic> Dann20, for every E>0 there is a natural Ky verifying "n>Ky implies |Yn - M| < E"
+[01:39.30] <Dann20> Hmm okay
+[01:39.30] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[01:39.56] <Dann20> So where do i go now?
+[01:39.59] * kexmex (~kexmex@178.136.234.6) has joined channel ##math
+[01:40.11] <metallic> Dann20, if you want to prove that Yn + Xn tends to L+M you must prove that for every E>0 there is a K' such that n>K' implies |Xn + Yn -L - M| <E
+[01:40.26] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 265 seconds)
+[01:40.44] <metallic> so if you pick E > 0 and K' = max(Kx, Ky) you are done
+[01:40.49] * samsama (~samsama@host-2-101-141-222.as13285.net) has joined channel ##math
+[01:41.21] <Dann20> How does that prove the |Xn - L| < e?
+[01:41.27] <Dann20> that part so
+[01:41.36] * samsama_ (~samsama@host-2-101-141-222.as13285.net) Quit (Ping timeout: 252 seconds)
+[01:41.36] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit ()
+[01:41.36] <Dann20> |Xn + Yn -L - M| <E
+[01:41.51] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##math
+[01:42.06] <Bashar^> you need to pick your Kx, Ky st. the respective distance is < e/2; then use the triangle inequality
+[01:42.24] * SmoMo (~smomo@host86-155-162-60.range86-155.btcentralplus.com) Quit (Read error: Connection reset by peer)
+[01:42.29] <metallic> well, using the triangular inequality you can do: |Xn + Yn - L - M| <= |Xn -L| + |Yn - M|
+[01:42.30] * Ozera is now known as Ozera_zz
+[01:42.37] <Dann20> Yes
+[01:42.40] <Dann20> I have that written down
+[01:42.52] * komarov (~komarov@95-55-8-122.dynamic.avangarddsl.ru) Quit (Ping timeout: 252 seconds)
+[01:42.55] * SmoMo (~smomo@host86-155-162-60.range86-155.btcentralplus.com) has joined channel ##math
+[01:42.57] <Dann20> So |Xn -L| and |Yn-M| are both < e/2
+[01:43.12] <metallic> Dann20, yes, as long as n is greater than K'
+[01:43.17] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 244 seconds)
+[01:43.24] <Dann20> What is n in this proof?
+[01:43.38] <metallic> n is the n-th term of your sequence
+[01:43.52] <Koen_> Dann20: you're missing a "forall n > K'" quantifier
+[01:44.19] <Dann20> Hm
+[01:44.31] * bluesnow (~bluesnow@nat-130-132-173-242.central.yale.edu) Quit (Ping timeout: 246 seconds)
+[01:44.35] <Koen_> the idea is "after some time, all terms are close enough to the limit
+[01:44.46] <Dann20> Yeah i get the idea to an extent
+[01:44.50] <Dann20> have a good graph of it
+[01:45.01] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##math
+[01:45.19] <Dann20> N must greater than K for these points to converge (Be in the range of L-e to L=E
+[01:45.28] <Dann20> L+e)*
+[01:45.34] <Koen_> hence the forall n > K' which means "this inequality holds for all terms starting after the rank K'
+[01:45.57] * LACAN (Dr@87.239.82.88) has joined channel ##math
+[01:46.03] <metallic> well, using the triangular inequality you can do: |Xn + Yn - L - M| <= |Xn -L| + |Yn - M|. If n is greater than Kx and Ky, then you can assure that |Xn + Yn - L - M| <= |Xn -L| + |Yn - M| < 2E
+[01:46.16] <Koen_> it's not exactly that n "must be" greater thank K for it to work
+[01:46.22] * felixr (~felix@cpc6-trow5-2-0-cust66.aztw.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[01:46.28] <metallic> lol, it is :/
+[01:46.37] <Koen_> it's that if you can prove that it does work when n is greater than K, you've proven the sequence converges
+[01:46.43] <Dann20> So i just assume forall n > K
+[01:46.44] <Dann20> ?
+[01:46.50] <Koen_> you don't assume, you prove it
+[01:46.58] <Dann20> That's the part i'm not understanding then
+[01:47.06] <Dann20> How do i prove forall n > K
+[01:47.08] * jitta (~jitta@95.90.246.116) Quit (Ping timeout: 264 seconds)
+[01:47.14] * _earthprog (~sync@c-67-184-213-171.hsd1.il.comcast.net) Quit (Ping timeout: 245 seconds)
+[01:47.21] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) has joined channel ##math
+[01:47.22] * iamninja (~iamninja@178-209-54.dynamic.cyta.gr) has joined channel ##math
+[01:47.26] <Koen_> what you assumed is that (Xn)_n and (Yn)_n both converge
+[01:47.38] <metallic> forall n > k, P equals n > k implies P. :/
+[01:47.39] <Koen_> to limits L and M
+[01:47.45] <Dann20> Ohhh
+[01:47.48] <Dann20> So n > K
+[01:47.57] <Dann20> because if it didn't they wouldn't converge
+[01:48.10] <Koen_> so you fix some epsilon
+[01:48.19] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[01:48.48] <Koen_> and now, since you know (Xn)_n converges to L, you know that after some time, (Xn)_n becomes close enough to L
+[01:48.52] <Koen_> ie closer than e/2
+[01:49.20] <Koen_> which formally we write "there exists some K, such that for all n > K, |Xn-L| < e/2
+[01:49.35] <Koen_> err call that K1
+[01:49.40] * vocodork (~vocoder@94-227-99-249.access.telenet.be) has joined channel ##math
+[01:50.10] <Koen_> and since you also know that (Yn)_n converges to M, "there exists some K2, such that for all n > K2, |Yn-M| < e/2
+[01:51.00] <Dann20> So you pick the bigger of the two K values?
+[01:51.02] <Koen_> and what you want to prove is that there exists some K such that for all n > K, |Xn+Yn - (L+M)| < e
+[01:51.04] <Koen_> exactly
+[01:51.05] <Dann20> hence max{k1,k2}
+[01:51.11] * SmoMo_ (~smomo@host86-152-224-157.range86-152.btcentralplus.com) has joined channel ##math
+[01:51.31] * jfischoff_ (~jfischoff@pool-108-41-231-87.nycmny.fios.verizon.net) Quit (Quit: jfischoff_)
+[01:52.09] * jfischoff_ (~jfischoff@pool-108-41-231-87.nycmny.fios.verizon.net) has joined channel ##math
+[01:52.20] <Dann20> Hm okay
+[01:52.21] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[01:52.21] <Koen_> and now you've got for all n > K = max(K1, K2), |Xn+Yn - (L+M)| <= |Xn - L| + |Yn - M| < e/2 + e/2
+[01:52.27] * paulmadore (~phm@206.255.73.147) has joined channel ##math
+[01:52.39] <paulmadore> hello math geniuses
+[01:52.47] <Dann20> which is | | < e, as desired
+[01:52.52] <mefistofeles> he's talking to me
+[01:53.08] * SmoMo (~smomo@host86-155-162-60.range86-155.btcentralplus.com) Quit (Ping timeout: 245 seconds)
+[01:53.19] <Dann20> ?
+[01:53.23] <Koen_> yes
+[01:53.29] <Koen_> err
+[01:53.32] <Koen_> e/2 + e/2 = e
+[01:53.43] <Koen_> (that's why we used e/2 and not e right away)
+[01:53.56] <Dann20> Yeah
+[01:54.00] * Zupoman (~mistrzmag@unaffiliated/zupoman) Quit (Quit: Plan B failed, time for Plan 9!)
+[01:54.49] <Koen_> so what we're proven so far is that given any e, we can find some K such that all terms after K are close enough to L+M
+[01:54.52] * refried_ (~textual@lawn-128-61-35-51.lawn.gatech.edu) has joined channel ##math
+[01:55.04] <Koen_> and that's exactly the definition of convergence to L+M
+[01:55.29] <Dann20> Okay cool
+[01:55.36] <Dann20> Now just to convey all of that in a proof haha
+[01:55.59] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 245 seconds)
+[01:56.38] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Ping timeout: 252 seconds)
+[01:56.58] * WizJin (~WizJinAFK@103.21.160.239) Quit (Quit: Leaving)
+[01:57.33] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##math
+[01:58.00] <Dann20> Should i how i chose my K first or | | < e
+[01:58.02] <Dann20> ?
+[01:58.11] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) has joined channel ##math
+[01:58.12] <Dann20> SHould i say how*
+[01:58.14] <Dann20> how*
+[01:58.22] <Koen_> First of all you say "Let e > 0."
+[01:58.26] <Dann20> Have that
+[01:58.30] * Mmango (~user@rrcs-98-100-153-182.central.biz.rr.com) Quit (Quit: In another dimension)
+[01:58.33] <Koen_> because you have to prove that this works for any e
+[01:58.51] * Mmango (~user@rrcs-98-100-153-182.central.biz.rr.com) has joined channel ##math
+[01:58.52] <Koen_> then you need to show that there exists K such that...
+[01:59.01] <Dann20> Okay
+[01:59.05] * Zupoman (~mistrzmag@unaffiliated/zupoman) has joined channel ##math
+[04:36.15] *** Server disconnected on irc.freenode.net
+[06:48.20] * You have joined ##math
+[06:48.20] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[06:48.20] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[06:48.22] Channel modes for ##math are :+Ccnt
+[06:48.22] Channel Created on: 8:42 PM 1/29/2010
+[06:49.35] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) Quit (Remote host closed the connection)
+[06:50.07] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[06:50.12] * schleppel (~quassel@141.39.226.237) Quit (Read error: Connection reset by peer)
+[06:50.16] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[06:50.30] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 265 seconds)
+[06:52.09] * broken_symlink (~broken_sy@73.165.69.3) has joined channel ##math
+[06:52.21] * broken_symlink (~broken_sy@73.165.69.3) Quit (Remote host closed the connection)
+[06:55.06] * hiptobecubic (~john@unaffiliated/hiptobecubic) has joined channel ##math
+[06:56.20] * rigor789|away is now known as rigor789
+[06:56.48] * oriba (~oliver@e178005243.adsl.alicedsl.de) has joined channel ##math
+[06:58.38] * rrn (~rrn@unaffiliated/rrn) has joined channel ##math
+[06:58.48] <dbelange> is one of those u supposed to be an r
+[06:59.48] * boni (~boni@90.222.106.84) Quit (Quit:  )
+[07:00.01] * Betal (~Beta@unaffiliated/betal) Quit (Ping timeout: 264 seconds)
+[07:00.29] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##math
+[07:02.22] * nso95 (~nso95@unaffiliated/nathan1995) has joined channel ##math
+[07:03.37] * CheckDavid (uid14990@gateway/web/irccloud.com/x-idudtlzjcpgqpdfr) has joined channel ##math
+[07:03.46] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[07:04.29] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[07:05.00] * LACAN (Dr@87.239.82.88) has joined channel ##math
+[07:05.03] * NightRa (uid40361@gateway/web/irccloud.com/x-ifclolojsplpeexy) Quit (Quit: Connection closed for inactivity)
+[07:05.49] * edon (~user@albalug/edon) Quit (Ping timeout: 252 seconds)
+[07:07.09] * zeezey (~textual@unaffiliated/zeezey) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:07.27] * ScottSteiner (s@wikipedia/ScottSteiner) Quit (Ping timeout: 265 seconds)
+[07:07.35] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) Quit (Quit: resttime)
+[07:08.17] * nso95 (~nso95@unaffiliated/nathan1995) Quit ()
+[07:08.38] * cameronfr (~cameronfr@125.32.134.27.ap.yournet.ne.jp) has joined channel ##math
+[07:09.01] * Betal (~Beta@unaffiliated/betal) has joined channel ##math
+[07:10.37] * jasonjckn (~jasonjckn@173-164-196-202-SFBA.hfc.comcastbusiness.net) has joined channel ##math
+[07:10.57] * emirypi is now known as episplit
+[07:11.20] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Ping timeout: 265 seconds)
+[07:12.36] * LogUse (~LogUse@190.190.32.227) has joined channel ##math
+[07:12.57] * pyon is now known as idem-pyon-tent
+[07:13.00] * jasonjckn (~jasonjckn@173-164-196-202-SFBA.hfc.comcastbusiness.net) Quit (Remote host closed the connection)
+[07:13.17] * jasonjckn (~jasonjckn@173-164-196-202-SFBA.hfc.comcastbusiness.net) has joined channel ##math
+[07:14.33] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[07:14.51] * haximusprime (~haximuspr@unaffiliated/haximusprime) has joined channel ##math
+[07:15.38] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[07:15.52] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:16.09] <haximusprime> hi yes hello, can someone help me understand what is going on in this second step? ＋＋http://i.imgur.com/EwGnrYq.png，，
+[07:16.30] <haximusprime> what are they factoring out of the numerator and denominator?
+[07:17.24] <meingtsla> haximusprime: 2x, as the final result suggests
+[07:17.50] * WarpZone (~WarpZone@97-91-141-202.dhcp.stls.mo.charter.com) has joined channel ##math
+[07:17.53] <meingtsla> Hm
+[07:18.06] * Euthyphro (~Crito___@71.81.200.100) Quit (Quit: Leaving)
+[07:18.21] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[07:18.24] <haximusprime> i dont see anywhere you can pull 2x out of though?
+[07:18.52] * contingodoll is now known as contingocat
+[07:20.44] <django_> if you have a 4x4 matrix and one row has all zero elements how can you use that for det of that amtrix
+[07:20.58] * w3bcrawler (~w3bcrawle@mctnnbsa59w-142134185226.dhcp-dynamic.FibreOP.nb.bellaliant.net) has joined channel ##math
+[07:21.00] <meingtsla> haximusprime: Then make it so that you see where you can pull a 2x out.  Rewrite each term so that it has a 2x in it.
+[07:21.16] <Koen_> django_: what definition of the determinant do you have?
+[07:21.35] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) has joined channel ##math
+[07:22.07] * chill|out (~chill@unaffiliated/chill0ut) Quit (Disconnected by services)
+[07:22.17] <haximusprime> meingtsla: but that’s what im asking :(
+[07:22.47] <django_> Koen_ minor and cofactor?
+[07:22.48] <Bashar^> (1/x - 1/2) = (2-x)/2x is much easier, no idea what they are doing there
+[07:23.10] * chill|out (~chill@unaffiliated/chill0ut) has joined channel ##math
+[07:23.11] <Koen_> django_: if you have a formula to calculate the determinant using the coefficients of the matrix, it should be quite easy to convince yourself that if one entire row is full of zeroes, the determinant is 0
+[07:23.39] <Koen_> also, "a matrix is inversible if and only if its determinant is inversible" and the matrix can't be inversible if one of the rows is full of zeroes
+[07:24.01] <haximusprime> bashar^: ty; i understand that much better
+[07:24.05] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 244 seconds)
+[07:24.22] * Haldrik (~haldrik@unaffiliated/haldrik) Quit (Quit: Haldrik)
+[07:24.27] <illustion> is any element of a group of order 1 is the identity ?
+[07:24.55] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) Quit (Read error: Connection reset by peer)
+[07:25.01] * gemurdock (~gemurdock@24.53.68.45) Quit (Quit: Leaving)
+[07:25.03] <django_> Koen_ for this one: ＋＋https://www.dropbox.com/s/lzfaj58aogdr90w/pic2.PNG?dl=0，，
+[07:25.15] <django_> in the third step
+[07:25.20] <django_> they go from 4x4 to 3x3
+[07:25.31] <Koen_> oh
+[07:25.39] * agjacome_ (~agjacome@207.175.20.95.dynamic.jazztel.es) has joined channel ##math
+[07:25.49] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[07:25.58] <Koen_> the row is not full of zeroes django_
+[07:26.28] * shikhin_ is now known as shikhin
+[07:26.32] * kkuno (~m3l720@78-134-100-225.v4.ngi.it) Quit (Quit: Konversation terminated!)
+[07:26.37] * agjacome_ (~agjacome@207.175.20.95.dynamic.jazztel.es) Quit (Client Quit)
+[07:27.02] * copt (~copt@unaffiliated/copt) Quit ()
+[07:27.14] <Koen_> django_: they used the Laplace expansion
+[07:27.20] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) has joined channel ##math
+[07:28.20] <Koen_> I'm gonna assume they described it earlier in this book
+[07:28.32] * agjacome (~agjacome@141.167.20.95.dynamic.jazztel.es) Quit (Ping timeout: 246 seconds)
+[07:28.59] <django_> Koen_ yeah but i cant find where they use that rule
+[07:29.04] <django_> well..set that rule
+[07:29.13] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[07:30.03] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 252 seconds)
+[07:30.12] <Koen_> hmmm try to read this: ＋＋https://en.wikipedia.org/wiki/Laplace_expansion，，
+[07:30.27] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[07:30.32] <django_> Koen_ they say this ＋＋https://www.dropbox.com/s/qys5nvnl6bz1ond/pic1.PNG?dl=0，，
+[07:30.39] <django_> but dont give a defn for nxn
+[07:31.33] <Koen_> I would need to draw matrices to explain it to you, irc is not really adequate
+[07:31.48] * blbrown_win3 (~blbrown_w@c-50-167-152-60.hsd1.ga.comcast.net) Quit (Ping timeout: 250 seconds)
+[07:32.50] <django_> no worries
+[07:33.02] <Koen_> the idea is to rewrite the formula for the determinant as a sum of determinants of smaller matrices
+[07:33.22] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[07:35.16] * _Atom_ (~jawat@cpe-72-182-59-185.austin.res.rr.com) has joined channel ##math
+[07:35.17] <Koen_> ie if you have A = [[a1, a2, a3], [b1, b2, b3], [c1, c2, c3]] you can write det(A) = a1 det([[b2, b3], [c2, c3]]) - b1 det([[a2, a3], [c2, c3]]) + c1 det([[a2, a3], [b2, b3]])
+[07:35.44] <Koen_> (note that the signs alternate)
+[07:35.58] <Koen_> you can do this with any column or row, here I did it with the first column
+[07:36.23] <Koen_> the smaller matrices are the matrices you get by "barring out" the line and column of the coefficient you're considering
+[07:36.52] <Koen_> so if the first column was 0, 1, 0 for instance
+[07:37.05] <Koen_> ie a1=0, c1=0, b1=1
+[07:37.38] <Koen_> then this simplifies to det(A) = -b1 det([[a2, a3], [c2, c3]])
+[07:37.38] <django_> Koen_ if you want the cofactor matrix
+[07:37.43] <django_> how is it defined?
+[07:38.00] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 246 seconds)
+[07:38.04] * srd| (~srd@cpc7-sgyl32-2-0-cust435.18-2.cable.virginm.net) has joined channel ##math
+[07:38.29] <mefistofeles> django_: use google
+[07:38.31] <mefistofeles> xD
+[07:38.51] <Koen_> django_: read ＋＋https://en.wikipedia.org/wiki/Laplace_expansion，，
+[07:38.56] * rudi94 (~rudi95@unaffiliated/rudi95) has joined channel ##math
+[07:39.10] * fenris_kcf is now known as fenris_afk
+[07:40.38] * math185 (816ef233@gateway/web/freenode/ip.129.110.242.51) Quit (Ping timeout: 246 seconds)
+[07:40.50] * Puffton (~textual@c-5dd9e355.05-70-73746f60.cust.bredbandsbolaget.se) has joined channel ##math
+[07:40.53] * rudi95 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 264 seconds)
+[07:42.13] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Ping timeout: 246 seconds)
+[07:42.15] <Koen_> good luck
+[07:42.17] <django_> Koen_ there isnt an equation C =...
+[07:42.23] <django_> even here: ＋＋https://en.wikipedia.org/wiki/Minor_(linear_algebra)#Applications_of_minors_and_cofactors，，
+[07:42.23] * terencetao (~qed@unaffiliated/terencetao) Quit (Ping timeout: 252 seconds)
+[07:42.32] * Koen_ (~Koen@vbo91-6-78-245-243-132.fbx.proxad.net) Quit (Quit: The struct held his beloved integer in his strong, protecting arms, his eyes like sapphire orbs staring into her own. "W-will you... Will you union me?")
+[07:44.00] <lyxia> django_: C_ij = (-1)^(i+j) M_ij is an equation
+[07:44.07] * chill|out (~chill@unaffiliated/chill0ut) has left ##math ()
+[07:44.13] * momomomomo (~momomomom@c-24-118-111-124.hsd1.mn.comcast.net) Quit (Quit: momomomomo)
+[07:44.31] <django_> lyxia is it on the wiki page?
+[07:44.55] <lyxia> Laplace expansion, introduction.
+[07:45.20] <django_> lol
+[07:45.32] * skinkitten (~jose@c-66-176-219-52.hsd1.fl.comcast.net) has joined channel ##math
+[07:45.44] * idem-pyon-tent (~suckmy@unaffiliated/pyon) Quit (Quit: fix config)
+[07:46.29] * mabino-pyon (~suckmy@unaffiliated/pyon) has joined channel ##math
+[07:46.32] * chill|out (~chill@unaffiliated/chill0ut) has joined channel ##math
+[07:47.18] * finitist-pyon (b3074a10@gateway/web/freenode/ip.179.7.74.16) Quit (Ping timeout: 246 seconds)
+[07:47.40] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) has joined channel ##math
+[07:47.56] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) has joined channel ##math
+[07:48.07] * LogUse (~LogUse@190.190.32.227) Quit (Ping timeout: 264 seconds)
+[07:48.34] * LogUse (~LogUse@190.190.32.227) has joined channel ##math
+[07:49.10] * haximusprime (~haximuspr@unaffiliated/haximusprime) Quit (Quit: haximusprime)
+[07:49.47] * yfound (~dan@68-184-220-249.dhcp.stls.mo.charter.com) has joined channel ##math
+[07:49.57] <yfound> ＋＋http://slader.com/textbook/9780538497817-stewart-calculus-7th-edition/162/exercises/35/#，， can someone explain the last few steps of this
+[07:51.57] * Ozera_zz is now known as Ozera
+[07:51.59] <meingtsla> Can you be more precise as to which step you're stuck on?
+[07:52.11] * _1k5 (~mdl@gtng-4d08d5ce.pool.mediaWays.net) Quit (Ping timeout: 245 seconds)
+[07:52.20] * django_ (~proz@69-84-110-170-dhcp.mia.fl.atlanticbb.net) Quit (Changing host)
+[07:52.20] * django_ (~proz@unaffiliated/django-/x-8345756) has joined channel ##math
+[07:52.53] * TheLoneMilkMan_ (Gamemaster@vincelaptop.rh.rit.edu) has joined channel ##math
+[07:53.04] <yfound> meingtsla: i see how they got to y'' but they say "substitute the original equation" and suddenly it's -81/y^3 = y''
+[07:53.16] * greenbagels_ (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[07:54.19] * Isacco (~quassel@24-176-234-48.dhcp.atsc.ca.charter.com) has joined channel ##math
+[07:54.22] <Minimoa> Anyone major in pure mathematics?
+[07:54.56] <meingtsla> yfound: The last line I'm able to view is 9 + 81x^2/y^2 + yy'' = 0.
+[07:55.59] * TheLoneMilkMan (Gamemaster@129.21.93.221) Quit (Ping timeout: 252 seconds)
+[07:56.24] * Flannel (~flannel@ubuntu/member/flannel) Quit (Read error: Connection reset by peer)
+[07:56.30] <yfound> ＋＋http://gyazo.com/60acb15cb57e3246c32feb1d2f4ee1df，， meingtsla
+[07:56.46] * Flannel (~flannel@mta-76-176-45-160.san.rr.com) has joined channel ##math
+[07:57.10] * LABurn (~laburn@50.102.58.191) Quit (Ping timeout: 240 seconds)
+[07:57.39] <antonfire> yfound: what is the problem
+[07:57.57] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[07:58.15] * gumbi (~zachgelin@107-203-223-85.lightspeed.dybhfl.sbcglobal.net) has joined channel ##math
+[07:58.41] <django_> lyxia trying to solve c^T / det(A) = A^-1
+[07:58.44] * oriig (~oriig@78-83-49-71.spectrumnet.bg) has joined channel ##math
+[07:58.47] <django_> how is c^T defined
+[07:58.49] <yfound> antonfire: ＋＋http://slader.com/textbook/9780538497817-stewart-calculus-7th-edition/162/exercises/35/#，， we have this and the step that says "substitute the original equation" i do not understnad
+[07:58.53] * PJBoy (~PJBoy@unaffiliated/pjboy) has joined channel ##math
+[07:59.05] <antonfire> what is the problem that "this" is supposed to be the solution to?
+[07:59.12] <meingtsla> yfound: So what issues are you having with the substitution?
+[07:59.20] <lyxia> django_: as the transpose of C.
+[07:59.25] <django_> lol
+[07:59.28] <django_> how is c defined
+[07:59.33] <Travisty> Is there a simple algorithm for sampling from the uniform distribution over the unit ball in n-dimensions?
+[07:59.34] <django_> is the same dimension as A?
+[07:59.36] <lyxia> django_: And C is defined as a square matrix with coefficients C_ij
+[07:59.37] <yfound> if you don't know the answer you don't know the answer
+[10:03.25] *** Server disconnected on irc.freenode.net
+[11:50.06] * You have joined ##math
+[11:50.06] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[11:50.06] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[11:50.07] Channel modes for ##math are :+Ccnt
+[11:50.07] Channel Created on: 8:42 PM 1/29/2010
+[11:50.08] <mrdata> ugh
+[11:50.10] <gumbi> OxE6: Is there another factorization, where you don’t imply that z != 1
+[11:50.12] <cads> Litt: some authors will use the ⊂ symbol to denote both proper an improper subsets
+[11:50.15] <Litt> sorry guys I just see blank spaces where you put the actual symbol
+[11:50.22] <cads> d'oh!
+[11:50.35] <Litt> yeah :'(
+[11:50.44] <exaction> i wonder if that's a charset thing
+[11:50.45] <mrdata> snafu
+[11:50.52] <mrdata> yes
+[11:50.55] <exaction> didn't we have a discussion about this the other day?
+[11:51.06] <Litt> okay so A is a subset of A, but A is NOT a proper subset of A ?
+[11:51.19] <cads> Litt: A C_ B typically means "A is a subset of B that might equal B" (subset),  while  A C B means "A is a subset of be not equal to B" (proper subset)
+[11:51.34] <cads> where C_ is the subset/equality symbol
+[11:51.52] <Litt> oh so i got it the other way round
+[11:51.57] <Litt> okay sweet thanks a lot
+[11:52.10] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[11:52.20] <cads> Litt: that's right
+[11:53.08] <zHafydd> \subseteq always denotes "possibly improper subset", while \subset sometimes denotes "proper subset", but is commonly used for any kind of subset. So really, if you want to be clear, use either \subseteq or \subsetneq. Where \subseteq is ＋＋http://upload.wikimedia.org/math/1/d/6/1d692925920a6f5ff7d9b834b166debc.png,，， \subsetneq is ＋＋http://upload.wikimedia.org/math/5/0/d/50de602089f264acf40e7c74aa0a8c49.png,，， and \subset looks like "C".
+[11:53.33] * jfischoff_ (~jfischoff@pool-108-41-231-87.nycmny.fios.verizon.net) Quit (Quit: jfischoff_)
+[11:53.42] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##math
+[11:54.02] <Dann20> cads:  this good?  ＋＋http://mathb.in/27963，，
+[11:54.37] <cads> authors that use the nonstandard sense of  C will typically tell you, or are presenting math that's advanced enough they expect you to figure it out :)
+[11:55.00] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[11:55.22] <shij020l> well, we know that the universe is no older than 10^17 seconds and physicists agree there are no more than 10^82 particles in the universe, assuming that the maximum number of interactions each particle has is 10^20 per second then the absolute probability limit is 1 chance in 10^119, ignoring the less than 1 in 10^50 impossibility accepted by statisticians
+[11:55.45] * rudi94 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 264 seconds)
+[11:55.54] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[11:56.09] * gumbi (~zachgelin@107-203-223-85.lightspeed.dybhfl.sbcglobal.net) has left ##math ()
+[11:56.22] * darwin (d@206.63.237.146) Quit (Ping timeout: 264 seconds)
+[11:56.23] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##math
+[11:56.30] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 252 seconds)
+[11:56.40] <cads> Dann20: look at a reference for some proofs by contradiction
+[11:57.33] <Dann20> Basis right though?
+[11:57.39] <cads> yep
+[11:57.42] <cads> very close
+[11:57.45] * refs (~refs@dslb-188-103-204-192.188.103.pools.vodafone-ip.de) Quit (Quit: refs)
+[11:57.56] <Dann20> Why do i even need the -x part
+[11:57.59] <cads> I would close the proof by presenting the nature of the contradiction, and then stating the fact that we proved
+[11:58.28] <cads> Dann20: can you answer that question for me?
+[11:58.35] <cads> simplify
+[11:58.46] * spudzee1111 (~spudzee11@12.7.32.3) has joined channel ##math
+[11:58.57] <Dann20> I don't think i need the -Xn
+[11:59.09] <spudzee1111> I have a question about this equation: e^(ix) = cosx + isinx
+[11:59.12] <cads> (x+y) - x = y
+[11:59.30] <cads> since by assumption, (x+y) and x are convergent, so is y
+[11:59.40] <spudzee1111> why da hell does it work?
+[11:59.43] * Drew| (~drew@2602:306:367f:b170:78b2:bf95:47bc:dcc6) has joined channel ##math
+[11:59.50] * LogUse (~LogUse@190.190.32.227) has joined channel ##math
+[11:59.51] <cads> but by assumption, y is not convergent
+[11:59.53] <Dann20> Ohh you set X+Y = X+Y

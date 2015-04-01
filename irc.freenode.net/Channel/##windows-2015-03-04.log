@@ -1,0 +1,270 @@
+Session Start: Wed Mar 04 08:22:20 2015
+Session Ident: ##windows
+[08:22.20] * You have joined ##windows
+[08:22.20] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[08:22.20] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[08:22.21] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[08:22.21] Channel Created on: 7:11 PM 10/7/2005
+[08:22.45] * VaccinesHARM is now known as VaccinesKILL
+[08:22.57] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:23.04] * CTtechguy (~CTtechguy@unaffiliated/cttechguy) has joined channel ##windows
+[08:23.51] * ThomasB2 (~ThomasB@xpress47212.htc.net) Quit (Ping timeout: 240 seconds)
+[08:24.08] * wolfman2000 (~wolfman20@c-71-59-43-79.hsd1.ga.comcast.net) has joined channel ##windows
+[08:24.46] * wrenny2 (~wrenny@2607:fb90:1901:96ce:0:2b:255:bb01) Quit (Quit: Bye)
+[08:25.20] * khanman (~khan@74.215.219.231) Quit (Read error: Connection reset by peer)
+[08:25.47] * khanman (~khan@74.215.219.231) has joined channel ##windows
+[08:26.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[08:27.05] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[08:29.01] * Dipole-MA (~Dipole-MA@cpe-67-240-48-99.nycap.res.rr.com) has joined channel ##windows
+[08:30.41] * blape (~blape@207.55.120.20.nen.peak.org) Quit (Quit: Leaving)
+[08:30.48] * Sweet_Ride (~Sweet@162.212.119.0) Quit (Ping timeout: 246 seconds)
+[08:33.04] * berz3rk (~berz3rk@dslb-088-077-152-128.088.077.pools.vodafone-ip.de) Quit (Remote host closed the connection)
+[08:35.13] * Defunk (defunk@telnetd.org) has left ##windows ()
+[08:36.55] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) Quit (Quit: Leaving)
+[08:37.19] * Elimin8er (~eliminate@173-169-158-128.res.bhn.net) Quit (Remote host closed the connection)
+[08:37.26] * WIGamer (~WIGamer@96-42-43-226.dhcp.ftbg.wi.charter.com) Quit (Quit: Leaving)
+[08:38.32] * sphenxes01 (~sphenxes@193-81-148-140.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[08:38.32] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) Quit (Remote host closed the connection)
+[08:39.27] * kerframil (~kerframil@gentoo/user/kerframil) Quit (Quit: Leaving)
+[08:39.29] * Ussat (~Ussat@pdpc/supporter/active/ussat) Quit (Remote host closed the connection)
+[08:39.54] * plasticle (~plasticle@2606:a000:a200:6800:1d1a:c954:eaf9:d189) has joined channel ##windows
+[08:39.55] * Elimin8er (~eliminate@173-169-158-128.res.bhn.net) has joined channel ##windows
+[08:40.42] * pazooza (~pazooza@cpe-198-255-180-145.maine.res.rr.com) Quit (Quit: +++++++++++++++++++＋＋http://pastebin.com/c3zLBJB1++++++++++++++++，，)
+[08:41.58] * shahidbhavwala (~shahidbha@182.74.245.210) Quit (Quit: Leaving)
+[08:42.13] <Stryyker> obnauticus: msconfig has some boot config options
+[08:43.07] <obnauticus> Stryyker: for whatever reason when I set "Maximum memory" in msconfig to 4096, it boots with 2.2GB of memory (as per the performance monitor)
+[08:43.22] <Stryyker> Do you have integrated video?
+[08:43.33] <obnauticus> Not sure if this has eDRAM. Let me check.
+[08:44.27] * menys (menys@187.252.108.149) has joined channel ##windows
+[08:44.40] <Stryyker> Are you using 64 bit Windows?
+[08:44.49] <obnauticus> Yes
+[08:45.25] * cute_korean_girl (~joseon@218.53.30.191) has joined channel ##windows
+[08:46.26] <obnauticus> Stryyker: It is windows 8, 64bit. Also, "8192" becomes 6.2
+[08:46.40] <menys> i have a malware on my pc: ＋＋http://postimg.org/image/mg1h0qv0x/，，   after 1,2 minutes in the bar i see a message: loading a krd.semantichelper.com   anyone know how to remove? thanks
+[08:47.00] * alpha (~alpha@unaffiliated/alpha) Quit (Quit: Peace m8)
+[08:47.25] <obnauticus> a
+[08:47.40] <menys> other message: loading image2.pubmatic.com any advice?
+[08:47.41] <Stryyker> obnauticus: what video cards?
+[08:48.04] <Stryyker> menys: Which browsers have you tried?
+[08:48.11] <menys> chrome
+[08:48.25] * nealshire (~Nealshire@unaffiliated/nealshire) has joined channel ##windows
+[08:48.39] <menys> internet explorer
+[08:48.52] <nealshire> what is powershell useful for? Is it a replacement for virtual basic scripting?
+[08:48.59] <Stryyker> Are you using a proxy? Are you using ISP DNS or 3rd party?
+[08:49.00] <menys> mozilla
+[08:49.43] <sepeck> nealshire: ＋＋http://social.technet.microsoft.com/wiki/contents/articles/183.windows-powershell-survival-guide.aspx，，
+[08:49.45] <menys> Stryyker no proxy direct connection..
+[08:50.09] <sepeck> nealshire: it is the administrative scripting language for ALL Microsoft products since 2012
+[08:50.32] <sepeck> nealshire: VBS (Visual Basic Scripting) hasn't been updtaed in more then 12 years
+[08:50.50] <nealshire> no wonder its been depreciated ;p
+[08:50.59] <nealshire> err deprecated
+[08:51.18] <menys> Stryyker:  ＋＋http://postimg.org/image/e9a7vkvsv/，，    horrible webpage see?
+[08:51.24] <sepeck> ＋＋http://www.freenode-windows.org/resources/scripting，，  <-- several links, including 2 to MVA for 16 hours of video training free
+[08:51.29] <obnauticus> Stryyker: i cannot say
+[08:52.29] * S_SubZero (~no@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[08:52.34] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) has joined channel ##windows
+[08:52.35] <Stryyker> obnauticus: dxdiag may tell you
+[08:53.12] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:53.25] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##windows
+[08:53.55] <Stryyker> menys: What version & edition of Windows? What security products are in stalled? From earlier, are you using ISP DNS settings?
+[08:54.37] <menys> win 8.1 64 bits
+[08:55.40] <obnauticus> Stryyker: as in i cannot say what the video card is...
+[08:56.03] <menys> Stryyker: default configuration ＋＋http://pastie.org/10001003，，
+[08:56.39] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:56.52] * ebz (~ebz@136.173.151.77.rev.sfr.net) Quit (Remote host closed the connection)
+[08:56.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##windows
+[08:57.26] <menys> i use avast
+[08:58.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:59.07] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##windows
+[08:59.36] * Ecauu (~Ecauu@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:00.37] <menys> Stryyker is a malware? or?
+[09:01.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[09:01.08] <Stryyker> menys: Is the router configured to use 3rd party DNS? It may be malware if it happens in all browsers.
+[09:01.17] * GinoMan (~quassel@50.144.1.139) Quit (Ping timeout: 252 seconds)
+[09:01.42] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##windows
+[09:02.11] * ryan_46 (~R@64-13-88-186.mfd.clearwire-dns.net) has joined channel ##windows
+[09:02.18] <Stryyker> obnauticus: Not even the model/chip info for GPU?
+[09:02.40] <obnauticus> Stryyker:  as in unreleased hw.
+[09:02.44] <menys> not
+[09:02.45] <obnauticus> NDA.
+[09:02.47] <obnauticus> :(
+[09:03.06] <Stryyker> You signed a non-disclosure agreement?
+[09:03.06] <obnauticus> i think i figured it out
+[09:03.08] * Ecauu (~Ecauu@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:03.12] <obnauticus> Yes.
+[09:03.16] <menys> Stryyker for me?
+[09:03.23] <menys> not know its a friend pc
+[09:03.33] <obnauticus> I think I figured it out, though.
+[09:03.44] <obnauticus> The system is just pretty bloated.
+[09:03.45] <Stryyker> menys: Did you run a full scan? Did you check for plugins/extensions in the browsers?
+[09:04.02] <menys> yes disabled
+[09:04.05] <Stryyker> obnauticus: Is it the GPU using RAM?
+[09:04.13] <Stryyker> menys: what is disabled?
+[09:04.18] * jzl (~jzl@2604:180:2:3c5::94b6) Quit (Ping timeout: 250 seconds)
+[09:04.22] <menys> run ccleaner,
+[09:04.28] <menys> Avast
+[09:04.41] <menys> disabled plugins on internet explorer by sample
+[09:04.54] <obnauticus> Stryyker: probably. I'll ask some of the other arch people here.
+[09:04.56] <Stryyker> and IE still has the issues? Does Avast update correctly?
+[09:05.02] <menys> yes
+[09:05.13] <menys> see this image:
+[09:05.26] <menys> ＋＋http://postimg.org/image/e9a7vkvsv/，，
+[09:05.28] <menys> ?
+[09:06.32] * ccnp (~ccnp@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:06.36] * RingtailedFox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) Quit (Quit: Leaving)
+[09:06.46] <mota> menys: how is tht about Windows?
+[09:07.17] * ccnp (~ccnp@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:07.21] <menys> its original
+[09:07.32] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[09:07.48] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[09:08.01] * Faylite (~Faylite@48-137-212.connect.netcom.no) Quit (Read error: Connection reset by peer)
+[09:08.01] <ryan_46> Why has optional update KB3000850 become mandatory? I have read a lot of bad results from it.
+[09:08.02] <Stryyker> Does it happen with other sites?
+[09:08.27] * Faylite (~Faylite@48-137-212.connect.netcom.no) has joined channel ##windows
+[09:09.11] <menys> Stryyker: ＋＋http://www.mobile.citrino.mx/inicio/，，   and in local modem webpagem i enter to ebay.com and here the webpage is clear.
+[09:09.22] * CookieJar (~CookieJar@wnklmb01dc1-188-48.dynamic.mtsallstream.net) Quit (Ping timeout: 246 seconds)
+[09:09.57] <Stryyker> menys: I mean is only ＋＋http://www.mobile.citrino.mx/inicio/，， having issues? Do normally clean sites have issues? Maybe that site has a fault.
+[09:10.08] * Elimin8er (~eliminate@173-169-158-128.res.bhn.net) Quit (Remote host closed the connection)
+[09:11.08] <menys> i test this site on my cell phone and is clear
+[09:11.27] * bigwax (~bigwax__@blk-222-117-211.eastlink.ca) Quit (Quit: Going offline, see ya! (＋＋www.adiirc.com，，))
+[09:11.49] * Ogpu (~Ogpu@105.157.218.247) has joined channel ##windows
+[09:11.54] * Ogpu (~Ogpu@105.157.218.247) Quit (Excess Flood)
+[09:12.21] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[09:12.27] <menys> the site is clear
+[09:12.28] <Stryyker> Then try the Kaspersky and Microsoft bootable AV scanners.
+[09:12.44] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) has joined channel ##windows
+[09:12.55] * CookieJar (~CookieJar@wnklmb01dc1-188-48.dynamic.mtsallstream.net) has joined channel ##windows
+[09:13.00] <Stryyker> ＋＋http://windows.microsoft.com/en-AU/windows/what-is-windows-defender-offline，， - also think about what software you have installed.
+[09:13.48] * dnukem (~duke@c-24-60-81-45.hsd1.ma.comcast.net) Quit (Quit: Leaving)
+[09:13.59] * Elimin8er (~eliminate@173-169-158-128.res.bhn.net) has joined channel ##windows
+[09:14.01] * Rlfa (~Rlfa@105.157.218.247) has joined channel ##windows
+[09:14.11] * p0rkbell_ (~p0rkbelly@pool-96-250-86-97.nwrknj.fios.verizon.net) has joined channel ##windows
+[09:15.29] * bazhang__ (~bazhang@unaffiliated/bazhang) has joined channel ##windows
+[09:16.33] <menys> ooo i access to teamviewer.com
+[09:16.40] <menys> and too are infected :)
+[09:16.43] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[09:17.05] * Cyrus1 (~Cyrus@104.236.10.76) has joined channel ##windows
+[09:17.26] * filadome__ (~filadome_@216.151.180.53) has joined channel ##windows
+[09:17.38] * Lugubrious (~AndChat66@69.171.166.212) Quit (Read error: Connection reset by peer)
+[09:17.42] * usrJayRay_ (~usrJayRay@150.200.74.127) has joined channel ##windows
+[09:17.57] * Lugubrious (~AndChat66@69.171.166.212) has joined channel ##windows
+[09:18.00] * Lugubrious (~AndChat66@69.171.166.212) Quit (Max SendQ exceeded)
+[09:18.14] * filadome (~filadome_@pool-173-70-161-59.nwrknj.fios.verizon.net) Quit (Ping timeout: 255 seconds)
+[09:18.32] * Lugubrious (~AndChat66@69.171.166.212) has joined channel ##windows
+[09:18.36] * Lugubrious (~AndChat66@69.171.166.212) Quit (Max SendQ exceeded)
+[09:18.58] * hid3 (~arnoldas@78.157.71.116) Quit (Ping timeout: 265 seconds)
+[09:19.43] * lkjh1 (~lkjh@178.62.38.128) has joined channel ##windows
+[09:19.44] * EdLin_ (~EdLin@burke.packetsense.net) has joined channel ##windows
+[09:20.13] * ruo91^ (~ruo91@222.111.30.201) Quit (Ping timeout: 246 seconds)
+[09:20.19] * r3m_ (~r3m@irssi/user/r3m) has joined channel ##windows
+[09:20.33] * nForce_ (~nforce@arch.bloemendal.me) has joined channel ##windows
+[09:21.15] * Rlfa (~Rlfa@105.157.218.247) Quit (Remote host closed the connection)
+[09:21.21] * EdLin (~EdLin@burke.packetsense.net) Quit (Ping timeout: 250 seconds)
+[09:21.21] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) Quit (Ping timeout: 250 seconds)
+[09:21.21] * lkjh0 (~lkjh@178.62.38.128) Quit (Ping timeout: 250 seconds)
+[09:21.21] * nForce (~nforce@arch.bloemendal.me) Quit (Ping timeout: 250 seconds)
+[09:21.21] * usrJayRay (~usrJayRay@150.200.74.127) Quit (Ping timeout: 250 seconds)
+[09:21.21] * cadeskywalker (~madoka@APuteaux-653-1-130-94.w82-124.abo.wanadoo.fr) Quit (Ping timeout: 250 seconds)
+[09:21.21] * r3m (~r3m@irssi/user/r3m) Quit (Ping timeout: 250 seconds)
+[09:21.21] * Cyrus (~Cyrus@unaffiliated/cyrus) Quit (Ping timeout: 250 seconds)
+[09:21.21] * bazhang_ (~bazhang@unaffiliated/bazhang) Quit (Ping timeout: 250 seconds)
+[09:21.22] * usrJayRay_ is now known as usrJayRay
+[09:21.24] * r3m_ is now known as r3m
+[09:21.56] * cadeskywalker (~madoka@APuteaux-653-1-130-94.w82-124.abo.wanadoo.fr) has joined channel ##windows
+[09:22.03] * ruo91^ (~ruo91@222.111.30.201) has joined channel ##windows
+[09:22.07] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[09:22.42] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) Quit (Ping timeout: 256 seconds)
+[09:23.38] * Lugubrious (~AndChat66@69.171.166.212) has joined channel ##windows
+[09:23.42] * Lugubrious (~AndChat66@69.171.166.212) Quit (Max SendQ exceeded)
+[09:23.53] * aoeu (4a38393b@gateway/web/freenode/ip.74.56.57.59) Quit (Ping timeout: 246 seconds)
+[09:24.56] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Read error: Connection reset by peer)
+[09:25.13] * Tech1000 (49227766@gateway/web/freenode/ip.73.34.119.102) has joined channel ##windows
+[09:25.18] * bigbadjudas (~666@pool-98-115-142-29.phlapa.fios.verizon.net) Quit (Quit: Leaving)
+[09:25.19] <Tech1000> sup
+[09:25.20] <Tech1000> peeps
+[09:25.29] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##windows
+[09:25.33] * Apzld (~Apzld@105.157.218.247) has joined channel ##windows
+[09:26.18] * user1138 (~user1138@unaffiliated/user1138) has joined channel ##windows
+[09:26.40] * obnauticus (~obnauticu@unaffiliated/obnauticus) Quit (Quit: leaving)
+[09:27.15] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[09:28.39] <Tech1000> anyhone need help
+[09:28.41] <Tech1000> anyone
+[09:29.30] <menys> i need help
+[09:30.07] <Tech1000> ok with what
+[09:30.09] * Apzld (~Apzld@105.157.218.247) Quit (Remote host closed the connection)
+[09:30.43] * dropdrive (~dropdrive@cpe-72-229-31-172.nyc.res.rr.com) Quit (Quit: leaving)
+[09:30.51] * phre4k (~phre4k@55d43d94.access.ecotel.net) Quit (Ping timeout: 240 seconds)
+[09:30.55] <menys> ＋＋http://postimg.org/image/e9a7vkvsv/，，    horrible webpage see? horribleee any advice how to remove?
+[09:31.12] * phre4k (~phre4k@55d4269c.access.ecotel.net) has joined channel ##windows
+[09:31.42] * Picdm (~Picdm@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##windows
+[09:31.46] * Picdm (~Picdm@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Remote host closed the connection)
+[09:32.13] <mota> menys: Are .. are you asking us to shut down a web page?
+[09:32.42] <menys> mota
+[09:32.53] <menys> i am infected i want remove the malware
+[09:33.44] <mota> I don't see how your screenshot of a web page has something to do with malware.
+[09:34.02] <Tech1000> menys: do you have antivirus or malware removal?
+[09:34.15] <menys> avast antivirus
+[09:34.24] * Panicky (~user@31.205.26.31) has left ##windows (("Killed buffer"))
+[09:34.51] <Tech1000> i use avg, maybe try that free edition, and download spybot s&D search and destroy free version and all the updates then run it and try to delete the spyware virus
+[09:35.38] <menys> ok
+[09:35.41] <menys> thanks
+[09:35.48] * xsup (~xsup@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:36.04] <Tech1000> menys: ＋＋http://www.safer-networking.org/mirrors/，，
+[09:36.14] <thingfish> why does this channel have two # instead of just one, like other channels?
+[09:36.36] <Tech1000> menys: ＋＋http://www.safer-networking.org/dl/，，
+[09:37.07] <Tech1000> ＋＋http://free.avg.com，，
+[09:37.25] <Tech1000> menys: ＋＋http://free.avg.com，，
+[09:37.45] * aeon-ltd (~freenode@0544e2e6.skybroadband.com) has joined channel ##windows
+[09:38.20] <menys> ok
+[09:38.33] <thingfish> ah, never mind.  I found the answer.
+[09:39.00] * Alucard___ (68df01f8@gateway/web/freenode/ip.104.223.1.248) has joined channel ##windows
+[09:39.30] <Alucard___> hi I got from an IPS display laptop to a TN Panel laptop and the screen strains my eyes the second i lay eyes on it.
+[09:39.47] * xsup (~xsup@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:40.50] <Alucard___> blue tint glow from the tn panel screen makes me tear my eyeballs out.
+[09:41.04] * Xan (~Xan@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:41.25] * wyre (wyre@81.172.90.37.dyn.user.ono.com) Quit (Ping timeout: 252 seconds)
+[09:42.18] * Xan (~Xan@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[09:42.33] * pereba (~pereba@unaffiliated/pereba) Quit (Quit: AdiIRC is your next irc client! (＋＋www.adiirc.com，，))
+[09:43.30] * Qgd (~Qgd@136.173.151.77.rev.sfr.net) has joined channel ##windows
+[09:43.39] * Qgd (~Qgd@136.173.151.77.rev.sfr.net) Quit (Remote host closed the connection)
+[09:43.52] * bigbadjudas (~666@fra1.racingvpn.com) Quit (Quit: Leaving)
+[09:43.53] * APerson_ (~APerson_@wikipedia/APerson) has joined channel ##windows
+[09:44.04] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##windows
+[09:44.04] * tus (~tus@unaffiliated/tus) Quit ()
+[09:44.54] <Alucard___> a sacrifice of a beautiful display for better performance.
+[09:46.00] * fhed (~fhed@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:46.15] <ryan_46> Why has optional update KB3000850 become mandatory? I have read a lot of bad results from it.
+[09:47.31] * usrJayRay (~usrJayRay@150.200.74.127) Quit (Quit: usrJayRay)
+[09:48.18] * menys (menys@187.252.108.149) Quit ()
+[09:48.46] * fhed (~fhed@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:48.54] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) has joined channel ##windows
+[09:49.23] <drale> where are you finding its mandatory
+[09:49.38] * Alucard___ (68df01f8@gateway/web/freenode/ip.104.223.1.248) has left ##windows ()
+[09:50.30] <ryan_46> drale: It'sshowing up in my non optional updates on 2 computers.
+[09:50.35] * bazhang__ is now known as bazhang
+[09:51.18] * Gershwin (~Donkey@unaffiliated/gershwin) Quit (Quit: Quartersawn)
+[09:52.35] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 244 seconds)
+[09:52.38] * plasticle (~plasticle@2606:a000:a200:6800:1d1a:c954:eaf9:d189) Quit (Remote host closed the connection)
+[09:52.59] * Vtte (~Vtte@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##windows
+[09:53.53] * GouldFish (~GouldFish@cpc15-brig15-2-0-cust222.3-3.cable.virginm.net) Quit (Ping timeout: 252 seconds)
+[09:55.35] * pinPoint (~pinPoint@about/windows/regular/pinpoint) Quit (Remote host closed the connection)
+[09:55.51] * GouldFish (~GouldFish@cpc15-brig15-2-0-cust222.3-3.cable.virginm.net) has joined channel ##windows
+[09:57.04] <thingfish> Guys, I can't figure this one out.  All my music is backed up to OneDrive, but I actually play music out of the default Music directory on the main disk drive.  Everything is normal in WMP - except for two albums by the same group (recent addition).  They always appear in duplicate in WMP unless I delete them from the OneDrive Music folder.  I'm stumped.
+[09:57.31] <thingfish> No other duplicates from any other mp3s.
+[09:57.59] * sikio (~sikio@unaffiliated/sikio) Quit (Quit: WeeChat 0.4.2)
+[09:58.12] <thingfish> Why would WMP see files on OneDrive anyway?
+[09:58.19] * Log1x (~Log1x@unaffiliated/log1x) has joined channel ##windows
+[09:58.41] <thingfish> I mean unless you pointed your default user directories to their corresponding OneDrive directories.
+[09:58.46] * Jakey69 (uid1475@gateway/web/irccloud.com/x-iqnxawjyfccheunn) has joined channel ##windows
+[09:59.05] * pinPoint (~pinPoint@about/windows/regular/pinpoint) has joined channel ##windows
+[09:59.05] <aeon-ltd> is the 'music' folder a library or does wmp look up libraries not just folders?
+[09:59.31] <thingfish> oh good question
+[09:59.55] <thingfish> yes but why would it not do this for all the songs on the drive?  It just does it for these two albums.
+[10:00.12] <aeon-ltd> depends what folders are part of the library
+[10:00.28] * p0rkbell_ (~p0rkbelly@pool-96-250-86-97.nwrknj.fios.verizon.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[10:01.33] <thingfish> well true, of course, but these albums are in the same place as every other album I have.
+[10:02.17] <thingfish> maybe it's a feature.  Windows knows I really like the music and figures I'll want to hear every song twice.  :)
+[10:02.47] <thingfish> anyway it's no biggie.  It's just that I'd sure like to figure it out.
+[10:04.06] * ZeReEbRiL (~ZeReEbRiL@192.237.162.92) Quit (Remote host closed the connection)
+[10:04.54] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[11:38.53] *** Server disconnected on tepper.freenode.net

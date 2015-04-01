@@ -1,0 +1,566 @@
+Session Start: Sun Feb 15 09:44:59 2015
+Session Ident: ##physics
+[09:44.59] * You have joined ##physics
+[09:44.59] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[09:44.59] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[09:45.00] Channel modes for ##physics are :+Ccgnt
+[09:45.00] Channel Created on: 4:02 AM 12/19/2007
+[09:45.14] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[09:46.37] * Grimshaw (~Grimshaw@bl17-41-219.dsl.telepac.pt) Quit (Quit: Leaving)
+[09:49.34] * Cs1177 (~Cs1177@104.240.34.43) has joined channel ##physics
+[09:51.22] * The_Mad_Pirate (~leandro@181.167.77.56) has joined channel ##physics
+[09:54.06] * wikiemol (~wikiemol@75.102.129.139) Quit (Quit: Lost terminal)
+[09:55.36] * hrolf (~hrolf@unaffiliated/hrolf) Quit (Ping timeout: 255 seconds)
+[09:56.01] * s3v3n62mm (~s3v3n62mm@p5DDC022A.dip0.t-ipconnect.de) has joined channel ##physics
+[09:56.02] * fahadash (~sgrA@unaffiliated/fahadash) Quit (Ping timeout: 252 seconds)
+[09:57.26] * hrolf (~hrolf@unaffiliated/hrolf) has joined channel ##physics
+[09:57.49] * napster (~textual@117.253.166.239) has joined channel ##physics
+[10:03.11] * Cirus (~Cirus@2601:9:80:101c:e841:672:584e:7ab) has joined channel ##physics
+[10:03.50] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) has joined channel ##physics
+[10:05.50] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) has joined channel ##physics
+[10:07.02] * mrdata (~mrdata@unaffiliated/mrdata) Quit (Ping timeout: 245 seconds)
+[10:17.57] * gb73d (~gb73d@81-178-188-185.dsl.pipex.com) has joined channel ##physics
+[10:19.31] * _Atom_ (~jawat@172.56.9.172) has joined channel ##physics
+[10:20.38] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-rdlsmvhbblbjysjs) Quit (Quit: Connection closed for inactivity)
+[10:26.23] * govg (~govg@unaffiliated/govg) Quit (Quit: leaving)
+[10:29.34] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) has joined channel ##physics
+[10:31.49] * r0bby_ (~wakawaka@guifications/user/r0bby) Quit (Ping timeout: 250 seconds)
+[10:32.18] * c4pt (~c4pt@c-71-224-151-64.hsd1.nj.comcast.net) Quit (Ping timeout: 245 seconds)
+[10:33.07] * km00000 (~km00000@ip-18-16.net.ksu.edu) has joined channel ##physics
+[10:36.51] * fiaan (~fiaan@119.30.38.71) has joined channel ##physics
+[10:37.05] * fiaan (~fiaan@119.30.38.71) has left ##physics ()
+[10:38.34] * _Atom_ (~jawat@172.56.9.172) Quit (Ping timeout: 246 seconds)
+[10:39.18] * Lyn (~Alc@unaffiliated/lyn) Quit (Ping timeout: 252 seconds)
+[10:41.25] * _Atom_ (~jawat@172.56.8.4) has joined channel ##physics
+[10:42.49] * giusef (~Giuseppe@dynamic-adsl-62-10-78-70.clienti.tiscali.it) Quit (Ping timeout: 244 seconds)
+[10:43.25] * napster (~textual@117.253.166.239) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[10:49.20] * BrainDamage (~BrainDama@unaffiliated/braindamage) Quit (Ping timeout: 256 seconds)
+[10:53.57] * azzuz (974c231a@gateway/web/cgi-irc/kiwiirc.com/ip.151.76.35.26) has joined channel ##physics
+[10:55.00] * azzuz (974c231a@gateway/web/cgi-irc/kiwiirc.com/ip.151.76.35.26) Quit (Client Quit)
+[10:55.04] * chewyDelicious (~nooblet@101.98.199.224) Quit (Ping timeout: 246 seconds)
+[10:56.44] * r0bby_ (~wakawaka@guifications/user/r0bby) has joined channel ##physics
+[10:57.41] * chewyDelicious (~nooblet@101.98.199.224) has joined channel ##physics
+[11:01.52] * r0bby_ (~wakawaka@guifications/user/r0bby) Quit (Ping timeout: 250 seconds)
+[11:02.22] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Ping timeout: 256 seconds)
+[11:05.34] * osoba (~me@79.175.74.42) Quit (Read error: Connection reset by peer)
+[11:11.31] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 245 seconds)
+[11:12.24] * BlueLobster (medea@unaffiliated/fellini) has left ##physics ()
+[11:12.47] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##physics
+[11:14.45] * massless (~loop3@177.97.184.45) has joined channel ##physics
+[11:21.45] * napster (~textual@117.253.166.239) has joined channel ##physics
+[11:22.59] * Klas4 (~Klas5@c-c5fae555.029-236-73746f1.cust.bredbandsbolaget.se) has joined channel ##physics
+[11:26.30] * Klas5 (~Klas5@c-c5fae555.029-236-73746f1.cust.bredbandsbolaget.se) Quit (Ping timeout: 255 seconds)
+[11:27.23] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[11:28.22] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[11:28.57] <nvon> Can anyone suggest a book with a very good take on entropy?
+[11:29.58] * BrainDamage (~BrainDama@unaffiliated/braindamage) has joined channel ##physics
+[11:30.08] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[11:30.15] * UidX (~UidX@unaffiliated/uidx) Quit (Remote host closed the connection)
+[11:32.50] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[11:33.07] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Excess Flood)
+[11:34.17] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[11:37.06] <sw0rdfish> so we assume that since thats the case for electrons it also has to be the case for large objects?
+[11:37.21] <sw0rdfish> to be in a "superposition of both"
+[11:37.25] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[11:37.33] <sw0rdfish> xihr?
+[11:37.55] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[11:38.26] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[11:38.52] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[11:41.50] * jackal^ (jackal@jackal6.efnet.at) Quit (Read error: Connection reset by peer)
+[11:41.58] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[11:42.50] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) has joined channel ##physics
+[11:44.40] * jitta (~jitta@95.90.246.116) has joined channel ##physics
+[11:47.32] * chindy (~chindy@193-80-82-174.adsl.highway.telekom.at) Quit (Quit: Leaving)
+[11:48.33] * napster (~textual@117.253.166.239) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[11:51.27] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)
+[11:51.55] * heez (~abc@unaffiliated/yj) has joined channel ##physics
+[11:52.19] * enthropy (~aavogt@65.92.35.183) has joined channel ##physics
+[11:57.54] * KornKage (KornKage@bl13-78-166.dsl.telepac.pt) has joined channel ##physics
+[11:59.32] * pierre1_ (~pierre1@189.122.208.96) has joined channel ##physics
+[11:59.43] * lh_ (~lh@119.163.8.234) has joined channel ##physics
+[11:59.58] * jakr (~Matt@unaffiliated/jakr) Quit (Read error: Connection reset by peer)
+[12:01.54] * Vivex_ (~Vivex@173-16-176-63.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[12:02.51] * BrainDamage (~BrainDama@unaffiliated/braindamage) Quit (Ping timeout: 240 seconds)
+[12:04.22] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-eznihfurzidlkxmm) has joined channel ##physics
+[12:04.46] * BrainDamage (~BrainDama@unaffiliated/braindamage) has joined channel ##physics
+[12:05.21] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[12:06.38] * Noldorin (~noldorin@unaffiliated/noldorin) has joined channel ##physics
+[12:08.28] * sbellina (~sbellina@66.29.187.52.static.utbb.net) has joined channel ##physics
+[12:09.13] * Thooms (~thooms@salle106.atilla.org) Quit (Read error: No route to host)
+[12:09.35] * Thooms (~thooms@salle106.atilla.org) has joined channel ##physics
+[12:14.15] * napster (~textual@117.253.166.239) has joined channel ##physics
+[12:18.25] <Xionaba> never ever read physics in school just started with elementary level physics. the math explained by the physics class is extremely bad compared to just pure math classes
+[12:19.16] <Xionaba> it will be a long and annoying time with this
+[12:19.17] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 250 seconds)
+[12:19.32] <Slereah> That's because you are reading elementary physics.
+[12:19.39] <Slereah> You can do physics with pure math
+[12:19.52] <Slereah> It's just not that useful at an elementary level
+[12:20.18] <Xionaba> ah :(
+[12:24.48] * wsr (250ec40e@gateway/web/cgi-irc/kiwiirc.com/ip.37.14.196.14) has joined channel ##physics
+[12:24.59] * wsr (250ec40e@gateway/web/cgi-irc/kiwiirc.com/ip.37.14.196.14) has left ##physics ()
+[12:25.53] <loose> cd
+[12:26.01] <Slereah> IIRC there's a book called "physics for mathematicians"
+[12:27.51] * nebbia (~giuseppe@net-37-117-20-119.cust.vodafonedsl.it) has joined channel ##physics
+[12:27.54] * lh_ (~lh@119.163.8.234) Quit (Quit: Leaving)
+[12:29.18] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##physics
+[12:29.54] <nebbia>  hi everyone, can sombody please explain me the physical meaning of the phase of the wavefunction ?
+[12:31.05] <Slereah> Depends
+[12:31.36] <Slereah> a wavefunction by itself doesn't care for the phase, because the probability gets rid of it
+[12:31.54] <Slereah> But you can get interferences of phases from a basis for instance
+[12:32.25] <nebbia> ok but since it doesn't play  a role, who cares about interference ?
+[12:32.33] <nebbia> can you please be more precise
+[12:32.33] * Cs1177 (~Cs1177@104.240.34.43) Quit (Remote host closed the connection)
+[12:36.53] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[12:37.17] * jj_konk (~jj@37.228.204.29) Quit (Read error: Connection reset by peer)
+[12:37.36] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[12:37.46] * heez (~abc@unaffiliated/yj) Quit (Ping timeout: 245 seconds)
+[12:37.59] * jackal^ (jackal@jackal6.efnet.at) has joined channel ##physics
+[12:39.31] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Quit: tmager)
+[12:40.43] <Xionaba> Slereah ooh, can someone who only read calculus read iut?
+[12:43.32] <shminux> nebbia, what matters is that wave function/amplitude is a complex number, not the phase specifically
+[12:43.33] * Vutral (~ss@mirbsd/special/Vutral) Quit (Excess Flood)
+[12:44.37] * boozo (~c2leader@user88.c7.kamnik.kabelnet.net) has joined channel ##physics
+[12:44.43] * boozo (~c2leader@user88.c7.kamnik.kabelnet.net) Quit (Disconnected by services)
+[12:44.53] * boozo (~c2leader@89-212-90-45.static.t-2.net) has joined channel ##physics
+[12:45.25] <shminux> and the physical meaning of the wave function is that its square magnitude is probability
+[12:46.09] * jj_konk (~jj@37.228.204.29) Quit (Ping timeout: 250 seconds)
+[12:46.21] <nvon> density
+[12:46.28] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[12:51.54] * Vutral (~ss@mirbsd/special/Vutral) Quit (Excess Flood)
+[12:54.54] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (Ping timeout: 264 seconds)
+[12:59.22] * Astr0 (uid27657@gateway/web/irccloud.com/x-uvodfkosjikhvgyc) has joined channel ##physics
+[12:59.31] * Thooms (~thooms@salle106.atilla.org) Quit (Quit: WeeChat 1.0.1)
+[12:59.31] <Astr0> Hi\
+[01:01.09] <Astr0> I have a question. When you boil water to 100degrees, you need a certain amount of energy E. Now, when it's at 100degrees, another energy E_2 is needed to make the water to gas form from liquid form. What does this mean? Does this mean that water can't get hotter than 100 degrees and the rest of the energy added once it's 100 degrees will go to make water
+[01:01.10] <Astr0> gas?
+[01:02.05] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[01:04.52] * hrolf (~hrolf@unaffiliated/hrolf) Quit (Ping timeout: 252 seconds)
+[01:08.00] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:09.03] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) has joined channel ##physics
+[01:10.11] * asd5a (~asd5a@unaffiliated/asd6a) has joined channel ##physics
+[01:10.34] * _Atom_ (~jawat@172.56.8.4) Quit (Ping timeout: 244 seconds)
+[01:13.29] * osoba (~me@79.175.67.41) has joined channel ##physics
+[01:16.46] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Ping timeout: 244 seconds)
+[01:18.38] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[01:20.13] * depate (~depate@p2003004DEB1C8401863A4BFFFE677B48.dip0.t-ipconnect.de) Quit (Read error: Connection reset by peer)
+[01:20.30] * cbot` (~FS@ool-4355a0bf.dyn.optonline.net) has joined channel ##physics
+[01:20.57] * km00000 (~km00000@ip-18-61.net.ksu.edu) has joined channel ##physics
+[01:21.09] <acg> yea that sounds right
+[01:24.56] * acg (~micronesi@unaffiliated/acg) Quit ()
+[01:25.14] * micronesia (~micronesi@pool-96-241-189-203.washdc.fios.verizon.net) has joined channel ##physics
+[01:25.21] * MagneticDuck (~guest@a95-95-113-8.cpe.netcabo.pt) has joined channel ##physics
+[01:25.33] * micronesia is now known as acg
+[01:25.36] * acg (~micronesi@pool-96-241-189-203.washdc.fios.verizon.net) Quit (Changing host)
+[01:25.36] * acg (~micronesi@unaffiliated/acg) has joined channel ##physics
+[01:25.59] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Read error: Connection reset by peer)
+[01:27.23] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[01:29.53] * _Atom_ (~jawat@172.56.7.139) has joined channel ##physics
+[01:30.13] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) has joined channel ##physics
+[01:35.17] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[01:36.43] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:37.18] * bigbadjudas (~666@garza.riseup.net) has joined channel ##physics
+[01:44.04] * fiaan (~fiaan@119.30.39.22) has joined channel ##physics
+[01:44.22] * fiaan (~fiaan@119.30.39.22) Quit (Remote host closed the connection)
+[01:46.43] * CO2 (~CO2@unaffiliated/antior) has joined channel ##physics
+[01:52.18] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) Quit (Ping timeout: 255 seconds)
+[01:52.27] * sbellina (~sbellina@66.29.187.52.static.utbb.net) Quit (Ping timeout: 250 seconds)
+[01:56.26] * disorder20 (~m3l720@78-134-97-53.v4.ngi.it) has joined channel ##physics
+[01:58.36] * bigbadjudas (~666@garza.riseup.net) Quit (Ping timeout: 256 seconds)
+[01:59.09] * asandweech (~thissand@ip-18-16.net.ksu.edu) has joined channel ##physics
+[01:59.09] * asandweech (~thissand@ip-18-16.net.ksu.edu) Quit (Changing host)
+[01:59.09] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##physics
+[02:00.46] <_Atom_> is there  a term for a single planet solar system?
+[02:00.48] * micronesia (~micronesi@pool-96-241-189-203.washdc.fios.verizon.net) has joined channel ##physics
+[02:01.12] * acg (~micronesi@unaffiliated/acg) Quit (Ping timeout: 244 seconds)
+[02:05.09] * Verttone_ (~Verttone@188.235.1.7) Quit (Read error: Connection reset by peer)
+[02:05.41] * Verttone (~Verttone@188.235.1.7) has joined channel ##physics
+[02:06.19] <Slereah> Not that I know
+[02:06.24] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) has joined channel ##physics
+[02:07.04] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) Quit (Quit: Leaving)
+[02:07.08] * BojackTheCodeman (adb759eb@gateway/web/cgi-irc/kiwiirc.com/ip.173.183.89.235) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[02:07.25] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) has joined channel ##physics
+[02:08.14] * Cs1177 (~Cs1177@104.240.34.43) has joined channel ##physics
+[02:08.30] * shikhin_ (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[02:09.53] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[02:34.11] *** Server disconnected on irc.freenode.net
+[04:07.38] * You have joined ##physics
+[04:07.38] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[04:07.38] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[04:07.38] Channel modes for ##physics are :+Ccgnt
+[04:07.38] Channel Created on: 4:02 AM 12/19/2007
+[04:09.45] * dardevelin (~dardeveli@unaffiliated/dardevelin) has joined channel ##physics
+[04:10.26] * Emrakul (~NomZ@unaffiliated/nomz) has joined channel ##physics
+[04:11.02] * Zapp (~gianluca@host100-47-dynamic.3-87-r.retail.telecomitalia.it) has joined channel ##physics
+[04:14.18] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[04:14.32] * slyv (~slyv@c-50-172-187-199.hsd1.il.comcast.net) has joined channel ##physics
+[04:15.01] * mykul (~mykul@2601:1:8a82:5580:c53d:b0b:583b:b8d7) has joined channel ##physics
+[04:15.04] * Zapp (~gianluca@host100-47-dynamic.3-87-r.retail.telecomitalia.it) Quit (Quit: Leaving)
+[04:16.58] * RedShift (~redshift@d8D86B84F.access.telenet.be) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[04:18.03] * giusef (~Giuseppe@dynamic-adsl-62-10-78-70.clienti.tiscali.it) Quit (Quit: Leaving)
+[04:18.41] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 250 seconds)
+[04:19.05] * asd5a (~asd5a@unaffiliated/asd6a) Quit (Read error: Connection reset by peer)
+[04:20.21] * CO2 (~CO2@unaffiliated/antior) Quit (Remote host closed the connection)
+[04:21.27] * spagett (~spagett@unaffiliated/spagett) Quit (Quit: leaving)
+[04:22.55] * Rah8r (~Rah8r@p5B3D4E70.dip0.t-ipconnect.de) Quit (Remote host closed the connection)
+[04:23.26] * cryptovigilante (~cryptovig@bl14-203-27.dsl.telepac.pt) has joined channel ##physics
+[04:26.15] * unreal_ (~unreal@unaffiliated/unreal) has joined channel ##physics
+[04:26.38] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[04:27.45] * kreiGT (~kreig@201.216.140.134) has joined channel ##physics
+[04:27.59] * fireballs (~fireballs@173-15-26-62-Illinois.hfc.comcastbusiness.net) Quit (Ping timeout: 245 seconds)
+[04:28.03] * gb73d (~gb73d@81-178-188-185.dsl.pipex.com) Quit ()
+[04:28.08] * Cs1177 (~Cs1177@104.240.34.43) Quit (Remote host closed the connection)
+[04:28.09] * unreal (~unreal@unaffiliated/unreal) Quit (Ping timeout: 246 seconds)
+[04:30.55] * _Atom_ (~jawat@cpe-72-182-50-65.austin.res.rr.com) Quit (Remote host closed the connection)
+[04:31.59] * Guest73308 is now known as Levite
+[04:32.01] * Levite is now known as Levite_
+[04:32.08] * Levite_ is now known as Levite
+[04:36.16] * depate (~depate@wprt-5d837f53.pool.mediaWays.net) has joined channel ##physics
+[04:40.18] * joile (~pyramid@141.255.164.66) has joined channel ##physics
+[04:40.39] * Vutral (~ss@mirbsd/special/Vutral) Quit (Excess Flood)
+[04:43.42] * slyv (~slyv@c-50-172-187-199.hsd1.il.comcast.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[04:46.01] * km00000 (~km00000@ip-18-61.net.ksu.edu) Quit (Read error: Connection reset by peer)
+[04:48.17] * km00000 (~km00000@ip-18-61.net.ksu.edu) has joined channel ##physics
+[04:49.45] * phees (~phees@unaffiliated/phees) has joined channel ##physics
+[04:50.54] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-eznihfurzidlkxmm) Quit (Quit: Connection closed for inactivity)
+[04:52.40] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[04:53.04] * jj_konk (~jj@37.228.204.29) Quit (Max SendQ exceeded)
+[04:53.57] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[04:57.24] * BojackTheCodeman (adb759eb@gateway/web/cgi-irc/kiwiirc.com/ip.173.183.89.235) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[05:01.39] * pierre1_ (~pierre1@189.122.208.96) has joined channel ##physics
+[05:04.22] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[05:05.37] * km00000 (~km00000@ip-18-61.net.ksu.edu) Quit (Read error: Connection reset by peer)
+[05:06.51] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) has joined channel ##physics
+[05:07.22] * km00000 (~km00000@ip-18-61.net.ksu.edu) has joined channel ##physics
+[05:07.54] * phees (~phees@unaffiliated/phees) Quit (Quit: Leaving)
+[05:08.40] * nvon_ (~nvon@jimthorpe.fmh.utl.pt) has joined channel ##physics
+[05:09.33] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 245 seconds)
+[05:11.22] * mueslo (~mueslo@p54B42247.dip0.t-ipconnect.de) Quit (Ping timeout: 250 seconds)
+[05:11.56] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) Quit (Ping timeout: 252 seconds)
+[05:12.41] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##physics
+[05:13.28] * apoplexy (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##physics
+[05:14.15] * MagneticDuck (~guest@a95-95-113-8.cpe.netcabo.pt) Quit (Ping timeout: 250 seconds)
+[05:14.24] * nvon_ (~nvon@jimthorpe.fmh.utl.pt) Quit (Ping timeout: 264 seconds)
+[05:15.14] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Remote host closed the connection)
+[05:15.42] * depate (~depate@wprt-5d837f53.pool.mediaWays.net) Quit (Ping timeout: 250 seconds)
+[05:15.55] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[05:16.00] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) Quit (Ping timeout: 255 seconds)
+[05:17.52] * km00000 (~km00000@ip-18-61.net.ksu.edu) Quit (Read error: Connection reset by peer)
+[05:19.27] * km00000 (~km00000@ip-18-97.net.ksu.edu) has joined channel ##physics
+[05:20.06] * ryu (~chris@unaffiliated/ryu) Quit (Quit: Quit)
+[05:20.14] * FourFire (~FourFire@46.157.48.5.tmi.telenormobil.no) has joined channel ##physics
+[05:20.34] * FourFire (~FourFire@46.157.48.5.tmi.telenormobil.no) has left ##physics ()
+[05:21.59] * uv (~uv@178-164-143-233.pool.digikabel.hu) Quit (Remote host closed the connection)
+[05:23.02] * BojackTheCodeman (adb759eb@gateway/web/cgi-irc/kiwiirc.com/ip.173.183.89.235) has joined channel ##physics
+[05:23.18] <sorressean> A dog covers A dog covers the distance between two points, which are 7 m apart. The time it takes from point a to point b is 7 seconds. It's speed as it passes through the second point is 15.0 m/s. What is it's speed as it passes through the first point? to get this I needed to figure out the accellleration (which is constant): 15 = 7+a*7 = 8=a*7;a=8/7. I'm confused how I get the first speed through t
+[05:23.24] <sorressean> he point though.
+[05:25.41] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-kmiwdwxsjigjpihe) has joined channel ##physics
+[05:26.43] * ryu (~ryu@unaffiliated/ryu) has joined channel ##physics
+[05:29.51] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[05:31.26] * joile (~pyramid@141.255.164.66) Quit (Ping timeout: 245 seconds)
+[05:35.01] * __jim__ (~Jim@75.87.93.139) has joined channel ##physics
+[05:36.04] <__jim__> How does Bell's spaceship paradox work? Why does the string break?
+[05:37.08] * root (~root@unaffiliated/local-host/x-6680386) has joined channel ##physics
+[05:37.28] * root is now known as Guest95726
+[05:38.29] <sorressean> any ideas?
+[05:39.15] * Guest95726 (~root@unaffiliated/local-host/x-6680386) has left ##physics ()
+[05:39.20] * Guest95726 (~root@unaffiliated/local-host/x-6680386) has joined channel ##physics
+[05:39.22] * Guest95726 (~root@unaffiliated/local-host/x-6680386) has left ##physics ()
+[05:39.47] * local_host (~root@unaffiliated/local-host/x-6680386) has joined channel ##physics
+[05:41.12] <fahadash> that is a fast dog
+[05:42.57] <__jim__> I guess what I'm confused about is that the ships move at the same velocity, so I would think their reference frames are more or less the same
+[05:44.06] <away> sorressean, i imagine you'd combine the two kinematic equations
+[05:44.32] <fahadash> sorressean, I think you need Vi
+[05:44.37] * githogori_ (~githogori@c-98-207-180-67.hsd1.ca.comcast.net) has joined channel ##physics
+[05:44.43] * githogori_ (~githogori@c-98-207-180-67.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)
+[05:44.45] <away> x = x_0 + v_0 * t + 0.5at^2 and v = v_0 + at and then solve for v_0
+[05:45.13] <away> er, solve for a
+[05:45.41] <fahadash> away, Does he not need to compute x_0?
+[05:46.09] <away> i guess he could assume x_0 = 0 ?
+[05:46.14] <away> and x = 7m
+[05:46.52] <fahadash> The problem never said the dog was stationary at point a, in fact it is asking for its velocity at point a, isn't it?
+[05:47.02] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[05:47.24] * githogori (~githogori@c-76-126-237-72.hsd1.ca.comcast.net) Quit (Ping timeout: 250 seconds)
+[05:47.25] <away> you have two unknown variables, v_0 and a
+[05:49.14] * local_host (~root@unaffiliated/local-host/x-6680386) has left ##physics (("1/sqrt(2)(|+1/2>+|-1/2>)"))
+[05:50.22] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[05:51.35] * rawfodog (~rawfodog@modemcable186.163-59-74.mc.videotron.ca) has joined channel ##physics
+[05:53.49] <away> i
+[05:53.58] <away> 'm getting 11.8m/s for v_0
+[05:54.11] <away> then again it's 1pm and I've been drinking so don't quote me
+[05:54.47] * sbellina (~sbellina@66.29.187.48.static.utbb.net) Quit (Ping timeout: 250 seconds)
+[05:55.42] * heez (~abc@unaffiliated/yj) has joined channel ##physics
+[05:56.54] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 252 seconds)
+[05:57.50] * Grimshaw (~Grimshaw@bl17-41-219.dsl.telepac.pt) Quit (Quit: Leaving)
+[05:57.51] * KornKage (~KornKageQ@bl13-78-166.dsl.telepac.pt) Quit (Ping timeout: 252 seconds)
+[05:58.24] * KornKage (~KornKageQ@bl13-78-166.dsl.telepac.pt) has joined channel ##physics
+[05:59.27] <nebbia> sorressean sorry i can't get the problem...
+[06:02.07] * nfk (~nfk@unaffiliated/nfk) Quit (Quit: yawn)
+[06:03.11] <nebbia> k is it an assumption that acceleration is constant ?
+[06:04.21] * foul_owl (~kerry@c-71-227-170-157.hsd1.wa.comcast.net) Quit (Read error: Connection reset by peer)
+[06:04.40] * Cirus (~Cirus@2601:9:80:74:687c:4ac1:38e2:c5c) has joined channel ##physics
+[06:04.41] * __jim__ (~Jim@75.87.93.139) Quit (Quit: Leaving)
+[06:05.25] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[06:06.45] * YarnFive8 (YarnFive8@unaffiliated/yarnfive8) has joined channel ##physics
+[06:06.45] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[06:07.18] <The_DarkKnight> Your instructor rides on a merry-go-round turning at a constant rate. In which direction does the net force on your instructor point?
+[06:07.26] <The_DarkKnight> Is "Away from the center" correct?
+[06:08.26] <nebbia> tangential to the circumference
+[06:08.55] * apoplexy (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has left ##physics (("I wear mothafuckin sean john jeans kid"))
+[06:08.57] <nebbia> no sorry i was talking about velocirt
+[06:09.06] <The_DarkKnight> Hmm
+[06:11.29] <The_DarkKnight> So?
+[06:14.30] * ryu (~ryu@unaffiliated/ryu) Quit (Quit: Leaving)
+[06:15.23] * foreignFunction (~ai@ip-4761.sunline.net.ua) Quit (Quit: Leaving.)
+[06:16.40] * joshdee is now known as joshd
+[06:18.17] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[06:18.47] * githogori (~githogori@c-98-207-180-93.hsd1.ca.comcast.net) has joined channel ##physics
+[06:21.32] * BojackTheCodeman (adb759eb@gateway/web/cgi-irc/kiwiirc.com/ip.173.183.89.235) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[06:21.35] * githogori_ (~githogori@c-98-234-68-44.hsd1.ca.comcast.net) has joined channel ##physics
+[06:23.23] * _Adam_ (~Adam@96-35-189-12.static.stls.mo.charter.com) has joined channel ##physics
+[06:23.42] <sorressean> what do you mean combine the two?
+[06:23.59] <The_DarkKnight> O.o
+[06:24.50] * githogori (~githogori@c-98-207-180-93.hsd1.ca.comcast.net) Quit (Ping timeout: 252 seconds)
+[06:28.14] * Erraunt (~main@acqe164.neoplus.adsl.tpnet.pl) has joined channel ##physics
+[06:28.59] * Thooms (~thooms@2a01:e35:8bbc:f430:9e4e:36ff:feb9:69f4) Quit (Quit: WeeChat 1.0.1)
+[06:29.13] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[06:29.15] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) has joined channel ##physics
+[06:31.11] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[06:31.42] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Remote host closed the connection)
+[06:34.00] <The_DarkKnight> Is this statement correct? In projectile motion the acceleration is vertical, while the velocity can be in any direction.
+[06:37.30] * puddle (uid22609@gateway/web/irccloud.com/x-kweisxbyzprulpdy) has joined channel ##physics
+[06:37.46] <puddle> Anyone well-versed in natural magnetism here?
+[06:38.49] * root (~root@unaffiliated/local-host/x-6680386) has joined channel ##physics
+[06:38.54] * root is now known as Guest57871
+[06:38.59] <Padawan-> Go ahead.
+[06:39.28] <puddle> I was hoping someone here could write a practice problem for me with numbers changed from one I've been assigned so I could solve it and check if I got the algebra right, to be honest
+[06:39.48] * Guest57871 (~root@unaffiliated/local-host/x-6680386) has left ##physics ()
+[06:41.09] * Adam_ (~Adam@96-35-189-12.static.stls.mo.charter.com) has joined channel ##physics
+[06:41.09] * hrolf (~hrolf@unaffiliated/hrolf) has joined channel ##physics
+[06:41.22] <puddle> Hold on, I'll type it up with general variables
+[06:42.10] <puddle> In it, a paramagnetic crystal of fayalite (Fe2SiO4) of volume V with magnetic susceptibility X is introduced to a magnetic field of strength H at a temperature of T. Find the magnetic moment of the crystal.
+[06:42.15] <puddle> M, that is
+[06:42.32] <puddle> and I am to report answers in cgs, then in SI
+[06:44.06] * _Adam_ (~Adam@96-35-189-12.static.stls.mo.charter.com) Quit (Ping timeout: 256 seconds)
+[06:44.42] <puddle> In part b, the same type of crystal is subjected to a stronger magnetic field H at a higher temperature T, but magnetic susceptibility X at the new temperature is not given. This time the task is to find the magnetization J of the crystal.
+[06:45.18] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[06:45.23] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##physics
+[06:45.58] <puddle> It just comes from a book with no practice or example problems or solutions manual like my physics and math textbooks had
+[06:47.32] * Adam_ (~Adam@96-35-189-12.static.stls.mo.charter.com) Quit (Quit: Leaving)
+[06:48.40] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 245 seconds)
+[06:50.46] * fireballs (~fireballs@128.135.100.112) has joined channel ##physics
+[06:52.17] * __jim__ (~Jim@75.87.93.139) has joined channel ##physics
+[06:52.18] <puddle> Hm
+[06:56.47] * fraktylX (~skyflex0r@78-60-51-72.static.zebra.lt) has joined channel ##physics
+[06:58.14] * heez (~abc@unaffiliated/yj) has left ##physics (("Leaving"))
+[06:59.47] * __jim__ (~Jim@75.87.93.139) Quit (Quit: Leaving)
+[06:59.50] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[07:03.24] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[07:04.17] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[07:04.48] * ZShurp (~ZShurp@c-73-163-128-3.hsd1.de.comcast.net) has joined channel ##physics
+[07:04.55] * Hypfer (~hypfer@unaffiliated/hypfer) has joined channel ##physics
+[07:04.57] <puddle> the powers of ##chemistry and ##electronics also had no idea
+[07:05.02] <Hypfer> good eveging anyone.
+[07:05.42] <Hypfer> so.. imagine a pipe which transports air. well. it should to. to achieve that lets put a pc fan in the middle of it which is able to move 90m³/h
+[07:06.06] <Hypfer> if i put 2 of those right behind each other.. will it do 180 or just 90?
+[07:06.12] <Hypfer> or something inbetween?
+[07:06.22] * nebbia (~giuseppe@net-37-117-20-119.cust.vodafonedsl.it) Quit (Quit: Leaving)
+[07:07.13] <ZShurp> probably not much at all -- the particles are already moving too fast, they fly through the 2nd fan before the blade can hit it
+[07:07.18] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[07:07.34] <ZShurp> minor acceleration on the slow particles
+[07:07.43] <Hypfer> ZShurp: so what would be the best way to increase airflow? more intakes? bigger fan?
+[07:08.02] <ZShurp> in a PC?  The best way to increase airflow is to remove the case.
+[07:08.16] <Hypfer> ZShurp: nono. its just a pc fan :-)
+[07:08.25] <niston> puddle: try ##physics ?
+[07:08.30] <ZShurp> second best is more fans, third larger fans
+[07:08.39] <niston> err wrong chan :P
+[07:08.41] <ZShurp> niston, that's ##here :)
+[07:08.53] <Hypfer> one part of my room is a lot colder than the rest so I was thinking about laying a pipe from a to b and move air around, ZShurp
+[07:09.46] * Alcc (~Alc@dyn59-454.yok.fi) has joined channel ##physics
+[07:09.46] * Alcc (~Alc@dyn59-454.yok.fi) Quit (Changing host)
+[07:09.46] * Alcc (~Alc@unaffiliated/lyn) has joined channel ##physics
+[07:09.50] <ZShurp> a table fan will circulate the air better
+[07:10.12] <Hypfer> b..b..but thats not half as cool
+[07:10.17] <ZShurp> heh
+[07:10.22] <Hypfer> well I guess you're right
+[07:10.24] <Hypfer> thanks
+[07:10.25] * Hypfer (~hypfer@unaffiliated/hypfer) has left ##physics ()
+[07:10.26] <ZShurp> well, you could also just put a heater in the cold part of the room
+[07:10.45] <puddle> I guess it's a geophysics/natural magnetism problem so the equations are probably obscure here
+[07:10.54] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) has joined channel ##physics
+[07:12.24] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 245 seconds)
+[07:13.12] * Lyn (~Alc@unaffiliated/lyn) Quit (Ping timeout: 250 seconds)
+[07:16.49] * Cs1177 (~Cs1177@104.240.34.43) has joined channel ##physics
+[07:20.46] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Read error: Connection reset by peer)
+[07:21.11] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Quit: Ex-Chat)
+[07:21.37] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[07:23.02] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[07:26.04] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##physics
+[07:27.05] <s1dev> anyone heard of a LaTeX plugin for IRC clients?
+[07:29.42] * olabaz (~olabaz@146.201.163.42) has joined channel ##physics
+[07:31.11] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[07:32.20] * ZShurp (~ZShurp@c-73-163-128-3.hsd1.de.comcast.net) Quit ()
+[07:32.29] * Niebuhr (~p@host86-129-194-54.range86-129.btcentralplus.com) Quit (Quit: Leaving)
+[07:35.07] * oleo is now known as Guest75895
+[07:36.34] * oleo__ (~oleo@unaffiliated/oleo) has joined channel ##physics
+[07:38.46] * Guest75895 (~oleo@unaffiliated/oleo) Quit (Ping timeout: 264 seconds)
+[07:39.04] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[07:42.40] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[07:45.03] * osoba (~me@79.175.67.41) Quit (Remote host closed the connection)
+[07:46.52] * fraktylX (~skyflex0r@78-60-51-72.static.zebra.lt) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[07:47.13] <nvon> s1dev, is there any?
+[07:47.35] <s1dev> don't think so, else I might look into writing one
+[07:49.28] <Hatamoto> I believe there's some html-based ones that'll make use of whatever latex interpreter you have installed
+[07:49.38] <Hatamoto> Haven't seen it myself tho
+[07:50.38] <mefistofeles> wrong channel, btw
+[07:55.53] * oinil (~noinil@fold.biophys.kyoto-u.ac.jp) has joined channel ##physics
+[08:00.39] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:01.30] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[08:02.01] * Klas4 (~Klas5@c-c5fae555.029-236-73746f1.cust.bredbandsbolaget.se) Quit (Ping timeout: 252 seconds)
+[08:09.07] * disorder20 (~m3l720@78-134-97-53.v4.ngi.it) Quit (Quit: Konversation terminated!)
+[08:09.15] * shikhin_ (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[08:10.53] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) Quit (Max SendQ exceeded)
+[08:10.55] * pinkmuffinere is now known as dank
+[08:11.18] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[08:11.18] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[08:12.05] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 252 seconds)
+[08:12.26] * mark_vh (~pi@a91-152-110-124.elisa-laajakaista.fi) Quit (Ping timeout: 264 seconds)
+[08:13.08] * mark_vh (~pi@a91-152-110-124.elisa-laajakaista.fi) has joined channel ##physics
+[08:13.59] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) has joined channel ##physics
+[08:14.14] * oinil (~noinil@fold.biophys.kyoto-u.ac.jp) Quit (Ping timeout: 264 seconds)
+[08:15.08] * dank is now known as dank|4|lyfe
+[08:16.20] * firenedo (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) has joined channel ##physics
+[08:18.30] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 240 seconds)
+[08:19.48] * dank|4|lyfe is now known as {-_-}
+[08:22.40] * {-_-} is now known as {Dank|4|Lyfe}
+[08:24.03] * sbellina (~sbellina@66.29.187.48.static.utbb.net) Quit (Ping timeout: 252 seconds)
+[08:25.50] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##physics
+[08:26.36] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[08:29.47] * Haswell (~Haswell@unaffiliated/haswell) Quit (Quit: Saliendo)
+[08:31.56] * mykul (~mykul@2601:1:8a82:5580:c53d:b0b:583b:b8d7) has left ##physics (("Leaving"))
+[08:34.44] * {Dank|4|Lyfe} is now known as pinkmuffinere
+[08:36.23] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Quit: Leaving)
+[08:40.12] * zorg24 (~zorg24@130.253.34.111) Quit (Ping timeout: 246 seconds)
+[08:40.37] * Hatinabox_ (~androirc@86-41-159-9-dynamic.b-ras2.srl.dublin.eircom.net) has joined channel ##physics
+[08:41.05] * merzo (~merzo@159-59-133-95.pool.ukrtel.net) Quit (Remote host closed the connection)
+[08:41.29] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) Quit (Quit: Leaving)
+[08:43.37] * Hatinabox_ (~androirc@86-41-159-9-dynamic.b-ras2.srl.dublin.eircom.net) has left ##physics (("AndroIRC"))
+[08:49.34] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 252 seconds)
+[08:51.20] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-kmiwdwxsjigjpihe) Quit (Quit: Connection closed for inactivity)
+[08:55.09] * ChanServ sets mode -q *!*@a95-95-113-*.cpe.netcabo.pt for ##physics
+[08:55.55] * jj_konk (~jj@37.228.204.29) Quit (Read error: Connection reset by peer)
+[08:56.57] * sbellina (~sbellina@66.29.187.51.static.utbb.net) has joined channel ##physics
+[08:57.08] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[08:59.57] * out0xCF8 (~out0xCF8@pool-96-228-36-233.rcmdva.fios.verizon.net) has joined channel ##physics
+[09:00.52] * foul_owl (~kerry@c-71-227-170-157.hsd1.wa.comcast.net) has joined channel ##physics
+[09:01.28] * km00000 (~km00000@ip-18-97.net.ksu.edu) Quit (Ping timeout: 244 seconds)
+[09:02.17] <fahadash> I need help in refreshing my memory, the derivative of r(t) function would be called distance?
+[09:02.45] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[09:03.14] <fahadash> found it, its velocity not distance
+[09:09.59] <demophobia> fahadash: r(t) is not really universal notation for distance as a function of time
+[09:10.16] <demophobia> for example, one might also use x(t) if teaching students in one dimension
+[09:10.38] <linux_dream> \vec {r} (t) is more like the position in function of time
+[09:11.20] <fahadash> yes, position. Not distance
+[09:11.40] <fahadash> I never said r was a function of distance, or may be I did. Sorry
+[09:13.34] <xihr> you figured it out yourself, so it's all right
+[09:16.36] * km00000 (~km00000@ip-18-16.net.ksu.edu) has joined channel ##physics
+[09:17.43] * Carbonflux (~BOB@174-21-30-114.tukw.qwest.net) has joined channel ##physics
+[09:20.57] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 264 seconds)
+[09:23.27] * boB_K7IQ (~IceChat9@50.125.42.5) has joined channel ##physics
+[09:24.40] * kriskropd (~kris@unaffiliated/kriskropd) has joined channel ##physics
+[09:25.40] * curiousguy13 (~curiousgu@120.59.238.180) Quit (Ping timeout: 264 seconds)
+[09:30.10] * chewyDelicious (~nooblet@101.98.199.224) Quit (Ping timeout: 252 seconds)
+[09:31.05] * hrolf (~hrolf@unaffiliated/hrolf) Quit (Ping timeout: 264 seconds)
+[09:31.37] * chewyDelicious (~nooblet@101.98.199.224) has joined channel ##physics
+[09:32.45] * hrolf (~hrolf@unaffiliated/hrolf) has joined channel ##physics
+[09:33.54] * haggis (uid6619@wikimedia/Addihockey10) Quit (Quit: Connection closed for inactivity)
+[09:36.40] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Ping timeout: 244 seconds)
+[09:37.25] * curiousguy13 (~curiousgu@120.59.226.135) has joined channel ##physics
+[09:38.53] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[09:39.12] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) Quit (Read error: Connection timed out)
+[09:42.57] * wordsToLiveBy (~wordsToLi@cpe-71-74-253-1.neo.res.rr.com) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[09:44.50] * hrolf (~hrolf@unaffiliated/hrolf) Quit (Quit: Lost terminal)
+[09:46.10] * studmuf (~studmuf@c-68-61-110-101.hsd1.mi.comcast.net) has joined channel ##physics
+[09:50.18] * AyraXaryA (~AyraXaryA@c-50-156-7-51.hsd1.ca.comcast.net) has joined channel ##physics
+[09:50.28] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) has joined channel ##physics
+[09:51.23] * Levite (levite@gateway/shell/panicbnc/x-jfqencbohmffazsa) Quit (Remote host closed the connection)
+[09:54.42] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) Quit (Ping timeout: 250 seconds)
+[09:56.31] * ^peter^ (peter@30.0.168.125.sta.wbroadband.net.au) Quit ()
+[09:56.49] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##physics
+[09:57.59] * annoymouse (uid11754@gateway/web/irccloud.com/x-gcepgtctjmuhrhoz) has joined channel ##physics
+[09:59.41] * piareround (neoshadow@162.242.10.163) has joined channel ##physics
+[10:03.07] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) has joined channel ##physics
+[10:07.52] <shminux> yes! yes!
+[10:09.02] <shminux> finally correctly calculated the momentum constraint for the t=const hypersurface in Minkowski-Penrose metric
+[10:09.16] <shminux> (using Maple)
+[10:09.39] * haggis (uid6619@wikimedia/Addihockey10) has joined channel ##physics
+[10:10.14] * levite- (levite@gateway/shell/panicbnc/x-woyvgslxwbtfbdxk) has joined channel ##physics
+[10:10.28] <shminux> a small step, but I'll take it
+[10:13.34] <mefistofeles> nice
+[10:13.37] <mefistofeles> whatever that means
+[10:13.42] <mefistofeles> also, show-off
+[10:13.44] <mefistofeles> xD
+[10:14.04] <mefistofeles> shminux: nah, j/k, I get it, you must feel happy about it... congrats
+[10:14.28] * out0xCF8 (~out0xCF8@pool-96-228-36-233.rcmdva.fios.verizon.net) Quit (Quit: Linkinus - ＋＋http://linkinus.com，，)
+[10:14.55] * napster (~textual@117.253.166.239) has joined channel ##physics
+[10:15.00] * diprotic (~monoproti@unaffiliated/monoprotic) Quit (Quit: bite me)
+[10:17.05] <fahadash> yup, I am happy that you got some dopamine released in your brain. I am still trying to get my maths right on newtonian mechanics
+[10:19.05] <mefistofeles> lol
+[10:21.41] * ^peter^ (peter@30.0.168.125.sta.wbroadband.net.au) has joined channel ##physics
+[10:25.02] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) Quit (Quit: Leaving.)
+[10:25.29] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) has joined channel ##physics
+[10:26.38] <linux_dream> and me in electrodynamics :/
+[10:27.25] <Maverick> i trhink i'm going to take an ambien tonight
+[10:27.30] <Maverick> need sleep
+[10:27.33] <xihr> congratulations
+[10:27.34] <Maverick> oh wrong room this isn't uh
+[10:27.37] <Maverick> sorry
+[10:27.46] <Maverick> one channel up
+[10:28.54] * fireballs (~fireballs@128.135.100.112) Quit (Ping timeout: 246 seconds)
+[10:29.51] * BojackTheCodeman (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) has joined channel ##physics
+[10:37.05] * Extreme (extreme7@unaffiliated/extreme7) Quit (Excess Flood)
+[10:37.07] * s3v3n62mm2 (~s3v3n62mm@p5DDC2820.dip0.t-ipconnect.de) has joined channel ##physics
+[10:37.50] * Emrakul (~NomZ@unaffiliated/nomz) Quit (Quit: Leaving)
+[10:37.54] * s3v3n62mm (~s3v3n62mm@p5DDC022A.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[10:40.36] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Quit: Leaving)
+[10:41.33] * Extreme (extreme7@unaffiliated/extreme7) has joined channel ##physics
+[10:42.00] * Extreme (extreme7@unaffiliated/extreme7) Quit (Max SendQ exceeded)
+[10:42.18] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[10:46.04] * Extreme (extreme7@unaffiliated/extreme7) has joined channel ##physics
+[10:46.55] * dk0r (~dk0r@unaffiliated/dk0r) has joined channel ##physics
+[10:47.02] <dk0r> what's that site we use for drawing?
+[10:47.11] <dk0r> what's that site we use for drawing?
+[10:48.09] * Extreme (extreme7@unaffiliated/extreme7) Quit (Max SendQ exceeded)
+[10:48.45] <fahadash> depends on what you're trying to draw
+[10:48.54] <fahadash> Google Drawing might suffice
+[10:50.53] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) Quit (Remote host closed the connection)
+[10:53.35] * spooky (spooky@i.didnt.start.the.firrre.com) Quit (Changing host)
+[10:53.35] * spooky (spooky@unaffiliated/socksoff) has joined channel ##physics
+[10:54.45] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) Quit (Read error: Connection reset by peer)
+[10:56.15] <mefistofeles> dk0r: twiddla?
+[10:56.31] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) Quit (Quit: Leaving)
+[11:01.43] * curiousguy13 (~curiousgu@120.59.226.135) Quit (Ping timeout: 250 seconds)
+[11:03.43] * diprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##physics
+[11:03.47] * fireballs (~fireballs@128.135.100.112) has joined channel ##physics
+[11:07.24] * cryptovigilante (~cryptovig@bl14-203-27.dsl.telepac.pt) Quit (Read error: Connection reset by peer)
+[11:09.43] * Gyro (~Gus@d024208.adsl.hansenet.de) Quit (Ping timeout: 252 seconds)
+[11:19.35] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (Ping timeout: 245 seconds)
+[11:20.43] * mortdeus (~mortdeus@74.196.96.188) Quit (Quit: Leaving)
+[11:20.46] * puddle (uid22609@gateway/web/irccloud.com/x-kweisxbyzprulpdy) has left ##physics ()
+[11:21.29] * studmuf (~studmuf@c-68-61-110-101.hsd1.mi.comcast.net) Quit ()
+[11:21.33] * Gyro (~Gus@d022046.adsl.hansenet.de) has joined channel ##physics
+[11:22.58] * Se-bash (~seba@unaffiliated/se-bash) Quit (Ping timeout: 246 seconds)
+[11:23.26] * KAHR-Alpha (~chatzilla@AReims-652-1-198-168.w86-192.abo.wanadoo.fr) Quit (Ping timeout: 255 seconds)
+[11:26.38] * mxiia (~mxiia@unaffiliated/mxiia) Quit (Remote host closed the connection)
+[11:26.57] * mxiia (~mxiia@unaffiliated/mxiia) has joined channel ##physics
+[11:27.23] * Cs1177 (~Cs1177@104.240.34.43) Quit (Remote host closed the connection)
+[11:28.52] * fireballs (~fireballs@128.135.100.112) Quit (Ping timeout: 246 seconds)
+[11:31.45] * sqrt2 (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[11:31.53] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[11:39.21] * shikhin_ is now known as shikhin
+[11:47.49] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##physics
+[11:49.15] * Extreme (extreme7@unaffiliated/extreme7) has joined channel ##physics
+[11:49.47] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) Quit (Quit: Leaving)
+[11:50.03] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) has joined channel ##physics
+[11:51.02] * Noldorin (~noldorin@unaffiliated/noldorin) Quit (Quit: –)
+[11:56.34] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Quit: Leaving)
+[11:59.01] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) Quit (Ping timeout: 244 seconds)

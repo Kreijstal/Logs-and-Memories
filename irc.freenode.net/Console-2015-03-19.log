@@ -1,0 +1,194 @@
+Session Start: Thu Mar 19 02:29:07 2015
+[02:29.07] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (38.229.70.22) on port 6667
+[02:29.07] -irc.freenode.net- Sending User Registration Information
+[02:29.07] --card.freenode.net-- *** Looking up your hostname...
+[02:29.07] --card.freenode.net-- *** Checking Ident
+[02:29.07] --card.freenode.net-- *** Couldn't look up your hostname
+[02:29.13] --card.freenode.net-- *** No Ident response
+[02:29.13] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[02:29.13] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[02:29.13] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[02:29.13] -card.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[02:29.14] -card.freenode.net- Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.3
+[02:29.14] -card.freenode.net- This server was created Thu Sep 18 2014 at 18:48:25 UTC
+[02:29.14] -card.freenode.net- card.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[02:29.14] -card.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[02:29.14] -card.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[02:29.14] -card.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[02:29.14] -card.freenode.net- There are 163 users and 85604 invisible on 26 servers
+[02:29.14] -card.freenode.net- There are 27 IRC Operators online
+[02:29.14] -card.freenode.net- There are 3 unknown connection(s)
+[02:29.14] -card.freenode.net- There are 54273 channels formed
+[02:29.14] -card.freenode.net- I have 4981 clients and 1 servers
+[02:29.14] -card.freenode.net- Current local users 4981, max 8011
+[02:29.14] -card.freenode.net- Current global users 85767, max 101901
+[02:29.14] -card.freenode.net- Highest connection count: 8015 (8011 clients) (2879484 connections received)
+[02:29.14] -card.freenode.net- You have successfully connected to card.freenode.net
+[02:29.14] * Your mode is now +i
+[02:29.14] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[02:29.19] Rainb resolved to 190.9.202.85
+[02:29.20] *** card.freenode.net [freenode-info] why register and identify? your IRC nick is how people know you. ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[02:29.21] --Romulus-- Welcome to #boinc, Rainb. I am Romulus the bot, and I will try to be helpful.
+[02:29.21] --ChanServ-- [##economics] Hiya. Welcome to ##economics -- Freenode's channel based upon economic policy,basics,macro,micro,markets,trading & math in economics. Enjoy your stay ! Econbot makes stats @ ＋＋http://www.teralaser.net/economics/stats/，， but no public logs
+[02:29.21] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[02:29.21] --ChanServ-- [##physics] Don't ask to ask... ask!
+[02:29.21] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[02:29.22] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[02:29.22] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[02:29.22] --ChanServ-- [#boinc] Welcome to boinc! If you haven't set a custom nickname yet, type /nick followed by a name for yourself, then /msg nickserv for help on registering your name. Happy crunching. :-)
+[02:29.22] --ChanServ-- [##latin] If you can and want to speak Latin please go to ##latinitas , but English is forbidden there and speaking is obligatory! This channel ##Latin is hereafter 'about Latin' and 'for learning Latin'. Speaking Latin is possible so you can exercise.
+[02:29.37] --George__-- logged in with account (George__)
+[02:30.25] *** card.freenode.net [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: ＋＋http://freenode.net/faq.shtml#gettinghelp，，
+[02:30.28] *** card.freenode.net [freenode-info] please register your nickname...don't forget to auto-identify! ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[02:35.34] --fce-- logged in with account (fce)
+[02:43.59] --dark_cat-- logged in with account (ph0ne)
+[02:45.14] --VegetarianFalcon-- logged in with account (VegetarianFalcon)
+[02:45.17] --z0kk-- logged in with account (z0kk)
+[02:46.05] --sbrg-- logged in with account (identity)
+[02:46.06] --Loetmichel-- logged in with account (Loetmichel)
+[02:48.40] --CorySimmons-- logged in with account (CorySimmons)
+[02:49.04] --SiberianTiger-- logged out of account
+[02:49.05] --SiberianTiger-- logged in with account (SiberianTiger)
+[02:53.01] --Haudegen-- logged in with account (haudegen)
+[02:54.14] --MrMobius-- logged in with account (MrMobius)
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.11] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.11] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.12] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.13] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.13] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.14] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[03:04.14] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.14] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.14] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.14] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.14] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.14] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.14] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.15] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.16] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.16] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.17] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.17] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.17] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.17] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.18] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.18] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.18] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.19] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.19] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[03:04.19] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.20] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[03:04.20] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.20] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.20] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[03:04.20] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.20] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.20] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.44) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.21] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.21] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[03:04.22] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (84.240.3.129) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[03:04.22] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (193.219.128.49) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (193.219.128.49) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.22] ERROR: Null Socket - Can not Connect
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[03:04.22] ERROR: Null Socket - Can not Connect

@@ -1,0 +1,195 @@
+Session Start: Thu Mar 19 02:35:23 2015
+[02:35.23] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[02:35.23] -irc.ponychat.net- Sending User Registration Information
+[02:35.23] --applejack.ponychat.net-- *** Looking up your hostname...
+[02:35.24] --applejack.ponychat.net-- *** Couldn't look up your hostname
+[02:35.24] -irc.ponychat.net- Capabilities supported: account-notify away-notify extended-join multi-prefix sasl
+[02:35.24] -irc.ponychat.net- Capabilities requested: account-notify away-notify extended-join multi-prefix
+[02:35.24] -irc.ponychat.net- Capabilities acknowledged: account-notify away-notify extended-join multi-prefix 
+[02:35.24] -applejack.ponychat.net- Welcome to the PonyChat Internet Relay Chat Network Rainb
+[02:35.25] -applejack.ponychat.net- Your host is applejack.ponychat.net[10.217.155.35/6667], running version ponychat-ircd-6.5.1
+[02:35.25] -applejack.ponychat.net- This server was created Sun Oct 27 2013 at 05:00:14 UTC
+[02:35.25] -applejack.ponychat.net- applejack.ponychat.net ponychat-ircd-6.5.1 BCDGQRSVZagilopswxz CDEFGIJKLOPQSTbcdefghijklmnopqrstvz ybefhjklovqI
+[02:35.25] -applejack.ponychat.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CDEFGJKLOPQSTcdgimnprstz CHANLIMIT=#:50 PREFIX=(yohv)~@%+ MAXLIST=bqeI:50 MODES=4 NETWORK=PonyChat KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[02:35.25] -applejack.ponychat.net- CASEMAPPING=rfc1459 NICKLEN=20 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=50 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjorsxz :are supported by this server
+[02:35.25] -applejack.ponychat.net- WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[02:35.25] -applejack.ponychat.net- There are 5 users and 499 invisible on 6 servers
+[02:35.25] -applejack.ponychat.net- There are 7 IRC Operators online
+[02:35.25] -applejack.ponychat.net- There are 400 channels formed
+[02:35.25] -applejack.ponychat.net- I have 151 clients and 1 servers
+[02:35.25] -applejack.ponychat.net- Current local users 151, max 872
+[02:35.25] -applejack.ponychat.net- Current global users 504, max 4935
+[02:35.25] -applejack.ponychat.net- Highest connection count: 873 (872 clients) (214023 connections received)
+[02:35.25] -applejack.ponychat.net- You have successfully connected to applejack.ponychat.net
+[02:35.25] -applejack.ponychat.net- Auto-joining Channels
+[02:35.25] * Your mode is now +ix
+[02:35.25] -applejack.ponychat.net- 190.9.hvk.pk is now your hidden host
+[02:35.25] --InfoServ-- *** Message(s) of the Day ***
+[02:35.25] --InfoServ-- [PonyChat News] Notice from Kabaka, posted 23:58 on 11/06/2013:
+[02:35.25] --InfoServ-- PonyChat has been nominated for the Pony Awards Best Site category (thanks, everyone!). To vote in this and other categories, visit ＋＋https://www.surveymonkey.com/s/VW7D5FB，， for the fan community and ＋＋https://www.surveymonkey.com/s/VRT52RJ，， for show staff. For more info, see ＋＋http://fav.me/d6nk3n0.，， Being nominated is an honor, and we're all quite excited to be a part of this community!
+[02:35.25] --InfoServ-- [PonyChat News] Notice from Kabaka, posted 04:30 on 10/31/2013:
+[02:35.25] --InfoServ-- We have recently completed upgrades of our IRC server software, and are currently working on polishing other aspects of our infrastructure. In the coming days, we will post information about the changes on our web site and here. Stay tuned!
+[02:35.25] --InfoServ-- *** End of Message(s) of the Day ***
+[02:35.25] Rainb resolved to 190.9.202.85
+[02:38.01] -applejack.ponychat.net- SiliconChip is set as away (Auto away at Thu Mar 19 18:37:51 2015)
+[02:38.01] -applejack.ponychat.net- Daring is set as away (Auto away at Thu Mar 19 03:37:51 2015)
+[02:40.20] -applejack.ponychat.net- Sparkler is set as away (Detached from screen since 2015-03-19 00:40:10-0700)
+[02:45.51] -applejack.ponychat.net- Tails_Away is set as away (Auto away at Thu Mar 19 00:45:41 2015)
+[02:48.12] -applejack.ponychat.net- Phena is set as away ("I bet Jesus has great nipples." ...56 translations later we get: "Of course, a dream come true.")
+[02:50.56] -applejack.ponychat.net- Apple_Bloom is set as away (I'm probably asleep.)
+[02:51.17] --alexxm-- logged in with account (:alexxm)
+[02:53.20] -applejack.ponychat.net- Nataniel|Offline is no longer away
+[03:01.33] -applejack.ponychat.net- Quora is set as away (Idle)
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.10] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.10] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.10] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.10] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.10] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.10] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.10] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.11] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.12] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.12] -irc.ponychat.net- *** Server disconnected on irc.ponychat.net
+[03:04.12] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.12] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.13] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.13] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.14] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.14] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.14] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.14] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.15] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.16] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.16] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.16] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.16] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.16] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.16] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.17] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.17] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.17] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.18] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.18] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.18] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.18] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.19] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.19] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.19] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.19] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.19] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.19] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.19] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.19] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.19] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] -irc.ponychat.net- Sending User Registration Information
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.20] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.20] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.20] --applejack.ponychat.net-- *** Looking up your hostname...
+[03:04.20] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+[03:04.21] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.21] -irc.ponychat.net- *** Server disconnected on irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.21] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.21] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.21] -irc.ponychat.net- *** Server disconnected on irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.21] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.21] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.ponychat.net- Sending User Registration Information
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.22] --applejack.ponychat.net-- *** Looking up your hostname...
+[03:04.22] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+[03:04.22] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.22] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.22] -irc.ponychat.net- *** Server disconnected on irc.ponychat.net
+[03:04.23] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.23] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.23] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.23] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.23] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.23] ERROR: Parameter name: asyncResult
+[03:04.23] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.23] ERROR: Parameter name: asyncResult
+[03:04.23] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.23] -irc.ponychat.net- *** Attempting to re-connect to irc.ponychat.net
+[03:04.23] -irc.ponychat.net- *** Attempting to connect to irc.ponychat.net (54.245.235.170) on port 6667
+[03:04.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.23] ERROR: Parameter name: asyncResult
+[03:04.23] -irc.ponychat.net- Waiting 60 seconds to re-connect to (irc.ponychat.net)
+[03:04.23] ERROR: Null Socket - Can not Connect

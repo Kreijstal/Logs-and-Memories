@@ -1,0 +1,53 @@
+Session Start: Thu Mar 19 02:30:27 2015
+Session Ident: #hexchat
+[02:30.27] * You have joined #hexchat
+[02:30.27] Topic: HexChat IRC Client: ＋＋http://hexchat.github.io，， | Current release: 2.10.2 | Documentation: ＋＋http://hexchat.rtfd.org，， | Test builds: ＋＋http://goo.gl/JLwNo5，，
+[02:30.27] Channel Topic Set by: TingPing!tingping@fedora/pdpc.professional.tingping on 6:31 PM 11/25/2014
+[02:30.28] Channel URL is ＋＋http://hexchat.github.io，，
+[02:30.28] Channel modes for #hexchat are :+Cnt
+[02:30.28] Channel Created on: 11:02 AM 7/7/2012
+[02:32.55] * DGMurdockIII (~dgmurdock@c-73-168-14-247.hsd1.in.comcast.net) Quit (Quit: Leaving)
+[02:34.14] * StathisA_ (~StathisA@athedsl-375404.home.otenet.gr) has joined channel #hexchat
+[02:34.44] * ariezkaandexo_ (~ariezkaan@125.167.193.137) Quit (Quit: Leaving)
+[02:34.59] * StathisA (~StathisA@athedsl-375404.home.otenet.gr) Quit (Ping timeout: 246 seconds)
+[02:36.47] <Briman> ohey, i just downloaded your JS hexchat plugin
+[02:36.54] <Briman> fancy seeing you in the hexchat IRC channel.
+[02:37.29] <TingPing> i saw
+[02:37.58] <TingPing> Briman, btw i would never suggest that JS plugin over python
+[02:38.04] <Briman> i can't stand python
+[02:38.14] <Briman> and i'm not really planning on making any super complex plugin
+[02:38.37] <Briman> and i can't get the Lua plugin to compile, so JS is the next best option :P
+[02:38.39] <TingPing> id hope not since JS has no sort of built in functionality
+[02:38.50] <Briman> has enough for what i need
+[02:39.01] <Briman> and i don't mind coding my own if i need something else; i'm a C++ programmer
+[02:39.39] <TingPing> Briman, finish migrating my JS plugin to mozjs 24 then, its built against an ancient release
+[02:40.00] <Briman> possibly :P i'm not familiar with mozjs but i'm sure i could if i had the time
+[02:40.36] <TingPing> i know nothing about JS or spidermonkey, i just wrote that out of boredom
+[02:45.41] * nulloverflow (~nulloverf@ip68-96-60-212.ph.ph.cox.net) Quit (Ping timeout: 250 seconds)
+[02:46.08] * neumann_ (~neumann@p200300562F033CA8D8A5D1AEC8A8AB28.dip0.t-ipconnect.de) has joined channel #hexchat
+[02:46.13] * langdon (~langdon@107.191.37.196) Quit (Ping timeout: 265 seconds)
+[02:46.21] * neumann_ (~neumann@p200300562F033CA8D8A5D1AEC8A8AB28.dip0.t-ipconnect.de) Quit (Client Quit)
+[02:47.10] * langdon (~langdon@107.191.37.196) has joined channel #hexchat
+[02:47.17] * shantyswarya (~khan@125.167.193.137) Quit (Quit: Leaving)
+[02:48.41] * agilsamsulmuncen (~asm@125.167.193.137) Quit (Read error: Connection reset by peer)
+[02:49.04] * Tiger[0] (~Nicholas@199-96-206-93.fidnet.com) has joined channel #hexchat
+[02:49.05] * SiberianTiger (~Nicholas@199-96-206-93.fidnet.com) Quit (Killed (card.freenode.net (Nickname regained by services)))
+[02:49.05] * Tiger[0] is now known as SiberianTiger
+[02:53.33] * notanoldman (~notanoldm@cpe-45-37-4-214.nc.res.rr.com) has joined channel #hexchat
+[02:53.37] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) Quit (Quit: Huntyz)
+[02:56.01] * notanoldman (~notanoldm@cpe-45-37-4-214.nc.res.rr.com) Quit (Client Quit)
+[02:57.25] * tiana_ (~tiana@125.167.193.137) Quit (Quit: Leaving)
+[02:57.59] * fresi_30 (~fresi@125.167.193.137) Quit (Read error: Connection reset by peer)
+[02:58.11] * nurfitri_indawat (~fitri@125.167.193.137) Quit (Quit: Leaving)
+[02:58.27] * jesmin (~jesmin@125.167.193.137) Quit (Read error: Connection reset by peer)
+[02:58.28] * Vitha (~User@125.167.193.137) Quit (Quit: Leaving)
+[02:58.33] * DaemonFC (~DaemonFC@unaffiliated/daemonfc) Quit (Read error: Connection reset by peer)
+[02:58.36] * supiani (~User@125.167.193.137) Quit (Read error: Connection reset by peer)
+[02:58.44] * ariezkaandexo (~ariezkaan@125.167.193.137) Quit (Read error: Connection reset by peer)
+[02:58.47] * hary (~User@125.167.193.137) Quit (Read error: Connection reset by peer)
+[03:00.30] * WifiBrain (brain@cortex.brainbox.cc) has joined channel #hexchat
+[03:02.56] * aznawiiskhak (~aznawi@125.167.193.137) Quit (Ping timeout: 245 seconds)
+[03:03.02] * ahmad (~User@125.167.193.137) Quit (Ping timeout: 246 seconds)
+[03:03.23] * sulis_rita (~Administr@125.167.193.137) Quit (Ping timeout: 256 seconds)
+[03:03.23] * lia (~User@125.167.193.137) Quit (Ping timeout: 256 seconds)
+[03:04.13] *** Server disconnected on irc.freenode.net

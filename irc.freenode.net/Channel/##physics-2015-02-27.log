@@ -1,0 +1,122 @@
+Session Start: Fri Feb 27 05:16:28 2015
+Session Ident: ##physics
+[05:16.28] * You have joined ##physics
+[05:16.28] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[05:16.28] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[05:16.29] Channel modes for ##physics are :+Ccgnt
+[05:16.29] Channel Created on: 4:02 AM 12/19/2007
+[05:16.39] <SpeedEvil> sorry - I'm not up to detailed questions - need more coffee
+[05:16.59] <ehrenhaft> ok
+[05:17.12] * micronesia_x (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:17.23] <ehrenhaft> can anyone help me with it
+[05:17.23] <ehrenhaft> ?
+[05:17.24] <ehrenhaft> ＋＋http://postimg.org/image/tob2y4ikt/，，
+[05:18.28] <atomicalloy> ehrenhaft: I can't read sht from the text
+[05:18.37] * micronesia_q (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:19.07] <ehrenhaft> atomicalow, im suppoed to work out the angular velocity at any time t
+[05:19.33] <ehrenhaft> atomicalloy I tried doing it like this, the distance travelled at any time is equal to the integral of angular velocity multiplied by the radius of the ball
+[05:19.44] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 264 seconds)
+[05:20.02] <ehrenhaft> atomicalloy which should be equal to the integral of the integral of net force creating the torque (rotational motion) divided by mass (m)
+[05:20.11] <ehrenhaft> atomic alloy then solve for integral of angular velocity
+[05:20.22] <ehrenhaft> atomic alloy but im not sure how to find the net force creating the motion of the ball down the hill
+[05:20.37] <ehrenhaft> atomic alloy is it just the frictional force? since that creates the torque that causes the ball to rotate
+[05:21.07] <ehrenhaft> atomicalloy or do I consider Friction - mgsin( theta), the component of weight in the direction of the inclined plane
+[05:22.07] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-pdwzxilnhzykqidn) Quit ()
+[05:23.16] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:24.02] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 245 seconds)
+[05:24.37] <ehrenhaft> atomicalloy help pls
+[05:25.12] * micronesia_q (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 250 seconds)
+[05:26.12] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[05:26.55] * micronesia_i (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:27.05] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)
+[05:27.58] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:28.01] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[05:30.20] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:31.32] * micronesia_i (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 250 seconds)
+[05:31.43] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Ping timeout: 272 seconds)
+[05:33.36] * micronesia_t (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:34.40] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 252 seconds)
+[05:34.57] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[05:35.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[05:35.21] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[05:36.44] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##physics
+[05:38.10] * micronesia_t (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:38.25] * Vutral (~ss@mirbsd/special/Vutral) Quit (Excess Flood)
+[05:41.06] * rooferdave (~rooferdav@174-150-10-154.pools.spcsdns.net) Quit (Ping timeout: 265 seconds)
+[05:41.47] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[05:43.51] * cynicalcats (~cynicalca@c-73-14-74-68.hsd1.co.comcast.net) has joined channel ##physics
+[05:45.32] * busmart (~n01dable@108-237-242-120.lightspeed.frokca.sbcglobal.net) Quit (Ping timeout: 264 seconds)
+[05:46.05] * disorder20 (~m3l720@95.233.179.11) has joined channel ##physics
+[05:48.25] <django_> anyone here
+[05:48.54] * garFF (~garFF@x1-6-9c-d3-6d-c6-89-4a.cpe.webspeed.dk) Quit (Remote host closed the connection)
+[05:49.00] * busmart (~n01dable@108-237-242-120.lightspeed.frokca.sbcglobal.net) has joined channel ##physics
+[05:51.38] * uv (~uv@51B6036F.dsl.pool.telekom.hu) Quit (Ping timeout: 250 seconds)
+[05:54.02] * norkle (~norkle@unaffiliated/norkle) has joined channel ##physics
+[05:54.47] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[05:54.56] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 250 seconds)
+[05:56.22] <SpeedEvil> no
+[05:56.53] <Ammonia> Depends, are you unchained?
+[05:57.36] * SpeedEvil is wearing chains.
+[05:58.15] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##physics
+[06:02.00] * rooferdave (~rooferdav@174.150.10.154) has joined channel ##physics
+[06:04.46] * govg (~govg@unaffiliated/govg) Quit (Ping timeout: 244 seconds)
+[06:07.47] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[06:09.05] * delphinas (~delphinas@5.151.2.84) has joined channel ##physics
+[06:10.08] * lapideviridi (~lapide_vi@139.98.2.55) has joined channel ##physics
+[06:12.24] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 255 seconds)
+[06:12.44] * Ammonia (~Ammonia@202-232.eduroam.umb.no) Quit ()
+[06:13.12] * delphinas (~delphinas@5.151.2.84) Quit (Ping timeout: 245 seconds)
+[06:13.33] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 244 seconds)
+[06:14.10] * Guest66212 (~Imk0tter@ool-2f12e944.dyn.optonline.net) Quit (Ping timeout: 250 seconds)
+[06:14.26] * garFF (~garFF@80.161.137.211) has joined channel ##physics
+[06:14.38] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[06:14.50] * Thooms (~thooms@salle106.atilla.org) has joined channel ##physics
+[06:15.06] * garFF (~garFF@80.161.137.211) Quit (Read error: Connection reset by peer)
+[06:15.25] <django_> SpeedEvil you know a thing or two about e&m right
+[06:15.43] * garFF (~garFF@x1-6-9c-d3-6d-c6-89-4a.cpe.webspeed.dk) has joined channel ##physics
+[06:15.45] <SpeedEvil> Technically correct.
+[06:16.29] <Slereah> I know exactly two things about EM
+[06:16.36] <Slereah> I hope your question is about one of those things
+[06:16.59] * garFF (~garFF@x1-6-9c-d3-6d-c6-89-4a.cpe.webspeed.dk) Quit (Remote host closed the connection)
+[06:18.21] * uv (~uv@51B6036F.dsl.pool.telekom.hu) has joined channel ##physics
+[06:18.24] <django_> why the work to assemble charge proportional to E^2
+[06:19.52] * delphinas (~delphinas@5.151.2.84) has joined channel ##physics
+[06:20.30] <xihr> "E"?
+[06:20.59] <django_> EdotE
+[06:21.04] <django_> Electric field
+[06:21.32] <xihr> what's the energy associated with an electric field?
+[06:23.05] <django_> same thing
+[06:23.08] <django_> proportional to E^2
+[06:23.15] <xihr> well there you go
+[06:23.29] * napster (~textual@117.253.166.239) has joined channel ##physics
+[06:25.02] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##physics
+[06:28.36] * lapideviridi (~lapide_vi@139.98.2.55) Quit (Ping timeout: 255 seconds)
+[06:29.08] * TheBigDeal (~quassel@unaffiliated/innocent99) Quit (Remote host closed the connection)
+[06:32.39] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 255 seconds)
+[06:39.56] * Juris4cm (ROMA@213.180.118.42) Quit (Ping timeout: 252 seconds)
+[06:40.10] * ^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) Quit ()
+[06:41.04] * delphinas (~delphinas@5.151.2.84) Quit (Quit: Be back later ...)
+[06:41.48] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[06:42.04] * kaffeetrauma (~Thunderbi@ip-37-24-206-234.hsi14.unitymediagroup.de) Quit (Quit: kaffeetrauma)
+[06:43.12] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 250 seconds)
+[06:43.34] * CvP (CvP@203.76.123.238) Quit (Read error: Connection reset by peer)
+[06:45.04] * CvP (CvP@203.76.123.238) has joined channel ##physics
+[06:59.01] * Kompton (~Kompton@unaffiliated/condenado) has joined channel ##physics
+[06:59.46] * rooferdave (~rooferdav@174.150.10.154) Quit (Ping timeout: 256 seconds)
+[06:59.58] * disorder20 (~m3l720@95.233.179.11) Quit (Quit: Konversation terminated!)
+[07:03.37] * atomicalloy (atomicallo@c-d6a571d5.123-3-64736c10.cust.bredbandsbolaget.se) Quit (Ping timeout: 245 seconds)
+[07:05.17] * wukong (~wukong@228.sub-70-196-8.myvzw.com) Quit (Ping timeout: 245 seconds)
+[07:05.22] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##physics
+[07:07.12] * wukong (~wukong@228.sub-70-196-8.myvzw.com) has joined channel ##physics
+[07:08.52] * Thooms (~thooms@salle106.atilla.org) Quit (Ping timeout: 240 seconds)
+[07:09.49] * MulleDK20 (MulleDK19@90.185.28.70) has joined channel ##physics
+[07:10.00] * napster (~textual@117.253.166.239) Quit (Ping timeout: 252 seconds)
+[07:11.45] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##physics
+[07:11.56] * MulleDK19 (~MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 264 seconds)
+[07:13.08] * MulleDK20 is now known as MulleDK19
+[07:13.20] * Thooms (~thooms@salle106.atilla.org) has joined channel ##physics
+[07:14.51] * napster (~textual@117.253.166.239) has joined channel ##physics
+[07:33.02] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[07:35.44] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[07:37.39] * napster (~textual@117.253.166.239) has joined channel ##physics
+[08:15.00] *** Server disconnected on irc.freenode.net

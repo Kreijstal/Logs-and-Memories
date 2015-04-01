@@ -1,0 +1,152 @@
+Session Start: Thu Mar 19 02:34:20 2015
+[02:34.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[02:34.20] -irc.yolo-swag.com- Sending User Registration Information
+[02:34.20] --rudimental.yolo-swag.com-- *** Looking up your hostname...
+[02:34.20] --rudimental.yolo-swag.com-- *** Checking Ident
+[02:34.21] --rudimental.yolo-swag.com-- *** Couldn't look up your hostname
+[02:34.30] --rudimental.yolo-swag.com-- *** No Ident response
+[02:34.30] -irc.yolo-swag.com- Capabilities supported: account-notify extended-join multi-prefix sasl
+[02:34.30] -irc.yolo-swag.com- Capabilities requested: account-notify extended-join multi-prefix
+[02:34.31] -irc.yolo-swag.com- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[02:34.31] -rudimental.yolo-swag.com- Welcome to the ShadowNET Internet Relay Chat Network Rainb
+[02:34.31] -rudimental.yolo-swag.com- Your host is rudimental.yolo-swag.com[rudimental.yolo-swag.com/6667], running version elemental-ircd-6.6
+[02:34.31] -rudimental.yolo-swag.com- This server was created Wed Sep 17 2014 at 03:33:11 UTC
+[02:34.31] -rudimental.yolo-swag.com- rudimental.yolo-swag.com elemental-ircd-6.6 BCDGIQRSVZagilopswxz CDEFGIJKLMNOPQSTabcdefghijklmnopqrstuvyz yabefhjklovqI
+[02:34.31] -rudimental.yolo-swag.com- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CDEFGJKLMNOPQSTcdgimnpstuz CHANLIMIT=#:50 PREFIX=(yaohv)~!@%+ OWNER=y MAXLIST=bqeI:500 MODES=4 NETWORK=ShadowNET KNOCK STATUSMSG=@+ :are supported by this server
+[02:34.31] -rudimental.yolo-swag.com- CALLERID=g CASEMAPPING=rfc1459 NICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[02:34.31] -rudimental.yolo-swag.com- EXTBAN=$,acjorsxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[02:34.31] -rudimental.yolo-swag.com- There are 6 users and 65 invisible on 9 servers
+[02:34.31] -rudimental.yolo-swag.com- There are 10 IRC Operators online
+[02:34.31] -rudimental.yolo-swag.com- There are 46 channels formed
+[02:34.31] -rudimental.yolo-swag.com- I have 5 clients and 1 servers
+[02:34.31] -rudimental.yolo-swag.com- Current local users 5, max 18
+[02:34.31] -rudimental.yolo-swag.com- Current global users 71, max 169
+[02:34.31] -rudimental.yolo-swag.com- Highest connection count: 19 (18 clients) (2198 connections received)
+[02:34.31] -rudimental.yolo-swag.com- You have successfully connected to rudimental.yolo-swag.com
+[02:34.32] -rudimental.yolo-swag.com- Auto-joining Channels
+[02:34.32] * Your mode is now +ix
+[02:34.32] -rudimental.yolo-swag.com- 190.9.hvk.pk is now your hidden host
+[02:34.32] --InfoServ-- *** Message(s) of the Day ***
+[02:34.32] --InfoServ-- [New Website] Notice from Xe, posted 13:37 on 03/16/2015:
+[02:34.32] --InfoServ-- We have upgraded out website! ＋＋http://yolo-swag.com，， and for any issues with it please report them to ＋＋https://github.com/shadownet-irc/yolo-swag.com，，
+[02:34.32] --InfoServ-- [Hidden Service] Notice from Xe, posted 01:41 on 12/17/2014:
+[02:34.32] --InfoServ-- ShadowNET is testing an anonymous hidden service for clients who wish to have their IP address hidden. This works with or without SASL. Point your client to shadow6xku2uei7e.onion and let us know if it works!
+[02:34.32] --InfoServ-- [New Services] Notice from Xe, posted 23:18 on 11/02/2014:
+[02:34.32] --InfoServ-- Tetra has replaced Cod as our extended services. The new channel for its development is #tetra.
+[02:34.32] --InfoServ-- *** End of Message(s) of the Day ***
+[02:34.32] --NickServ-- Welcome to ShadowNET, Rainb! Here on ShadowNET, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+[02:34.32] Rainb resolved to 190.9.202.85
+[02:34.33] [SegfaultServ] VERSION
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.10] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.10] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.10] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.11] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.11] -irc.yolo-swag.com- *** Server disconnected on irc.yolo-swag.com
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.12] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.12] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.12] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.13] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.13] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.14] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.14] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.14] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.15] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.15] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.16] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.16] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.17] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.17] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.17] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.18] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.18] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (23.226.230.75) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (23.226.230.75) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (23.226.230.75) on port 6667
+[03:04.20] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (107.161.16.168) on port 6667
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.21] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[03:04.21] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.21] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (107.161.16.168) on port 6667
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (107.161.16.168) on port 6667
+[03:04.21] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (192.3.10.125) on port 6667
+[03:04.21] -irc.yolo-swag.com- *** Attempting to re-connect to irc.yolo-swag.com
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.yolo-swag.com- *** Attempting to connect to irc.yolo-swag.com (23.226.230.75) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.yolo-swag.com- Waiting 60 seconds to re-connect to (irc.yolo-swag.com)
+[03:04.22] ERROR: Null Socket - Can not Connect

@@ -1,0 +1,87 @@
+Session Start: Fri Mar 06 09:41:37 2015
+[09:41.37] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[09:41.39] ERROR: Socket Exception Error: No connection could be made because the target machine actively refused it 66.150.164.216:6667
+[09:41.39] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[09:41.39] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[09:41.39] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (170.75.152.154) on port 6667
+[09:41.39] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[09:41.39] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (198.245.51.167) on port 6667
+[09:41.39] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[09:41.39] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[09:41.39] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[09:41.39] ERROR: Parameter name: asyncResult
+[09:41.39] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[09:41.39] ERROR: Null Socket - Can not Connect
+[09:41.39] ERROR: Null Socket - Can not Connect
+[09:42.28] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (170.75.152.154) on port 6667
+[09:42.28] -irc.snoonet.org- Sending User Registration Information
+[09:42.28] --chapek.snoonet.org-- *** Looking up your hostname...
+[09:42.28] -irc.snoonet.org- Capabilities supported: invite-notify away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+[09:42.29] -irc.snoonet.org- Capabilities requested: account-notify away-notify extended-join multi-prefix
+[09:42.29] --chapek.snoonet.org-- *** Could not resolve your hostname: Domain name not found; using your IP address (181.50.196.58) instead.
+[09:42.29] --chapek.snoonet.org-- *** If you are having problems connecting due to ping timeouts, please type /quote PONG EI~|[^]srv or /raw PONG EI~|[^]srv now.
+[09:42.29] -irc.snoonet.org- Capabilities acknowledged: away-notify extended-join account-notify multi-prefix
+[09:42.30] --chapek.snoonet.org-- Welcome to Snoonet!
+[09:42.30] -chapek.snoonet.org- Welcome to the Snoonet IRC Network Rainb!IceChat9@181.50.196.58
+[09:42.30] -chapek.snoonet.org- Your host is chapek.snoonet.org, running version InspIRCd-2.0
+[09:42.30] -chapek.snoonet.org- This server was created 19:49:17 Jan 19 2015
+[09:42.30] -chapek.snoonet.org- chapek.snoonet.org InspIRCd-2.0 BGHILORSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+[09:42.30] -chapek.snoonet.org- AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+[09:42.30] -chapek.snoonet.org- KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+[09:42.30] -chapek.snoonet.org- SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+[09:42.30] -chapek.snoonet.org- your unique ID 1CHAAR0Z5
+[09:42.30] -chapek.snoonet.org- You have successfully connected to chapek.snoonet.org
+[09:42.30] -chapek.snoonet.org- Auto-joining Channels
+[09:42.31] -chapek.snoonet.org- There are 82 users and 2916 invisible on 9 servers
+[09:42.31] -chapek.snoonet.org- There are 26 operator(s) online
+[09:42.31] -chapek.snoonet.org- There are 1577 channels formed
+[09:42.31] -chapek.snoonet.org- I have 347 clients and 1 servers
+[09:42.31] -chapek.snoonet.org- Current Local Users: 347  Max: 663
+[09:42.31] -chapek.snoonet.org- Current Global Users: 2998  Max: 3565
+[09:42.31] -chapek.snoonet.org- Snoonet-gan.vgj.k6q1d3.IP is now your displayed host
+[09:42.31] * Your mode is now +xiw
+[09:42.31] --NickServ-- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+[09:42.31] [StatServ] VERSION
+[09:42.32] Rainb (Snoonet-gan.vgj.k6q1d3.IP) can not be resolved
+[09:42.32] *** chapek.snoonet.org Replaying up to 30 lines of pre-join history spanning up to 300 seconds
+[09:42.33] *** chapek.snoonet.org Replaying up to 20 lines of pre-join history spanning up to 600 seconds
+[09:44.15] -chapek.snoonet.org- fumyl is set as away (auto-away: send me a pm and I'll get back to you 03/06/2015 8:44pm)
+[09:44.22] -chapek.snoonet.org- prenetic is set as away (Auto away at Fri Mar  6 18:44:24 2015)
+[09:44.24] * You have left #casualconversations - You will be missed ()
+[09:45.49] -chapek.snoonet.org- fumyl is no longer away
+[09:46.09] ERROR: H :Unknown command
+[09:47.57] -chapek.snoonet.org- Rick is no longer away
+[09:48.24] -chapek.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[09:49.15] -chapek.snoonet.org- xadammr is no longer away
+[09:50.38] -chapek.snoonet.org- End of Channel List
+[09:50.50] -chapek.snoonet.org- runfromnowhere is set as away (not here...)
+[09:51.09] -chapek.snoonet.org- x_minus_one is set as away (Auto-away)
+[09:51.50] -chapek.snoonet.org- Ari|Vacation is no longer away
+[09:52.23] -chapek.snoonet.org- Evan is no longer away
+[09:53.34] *** chapek.snoonet.org Replaying up to 10 lines of pre-join history spanning up to 999 seconds
+[09:57.00] -chapek.snoonet.org- hamrove is set as away (Be back later)
+[09:57.43] -chapek.snoonet.org- Rick is set as away (Auto-away)
+[09:57.43] -chapek.snoonet.org- theaudi0slave is no longer away
+[09:58.55] -chapek.snoonet.org- flotwig is no longer away
+[09:59.26] -chapek.snoonet.org- muggy is no longer away
+[10:01.24] -chapek.snoonet.org- The0x539 is no longer away
+[10:03.07] -chapek.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[10:03.40] -chapek.snoonet.org- GhostyOne is set as away (Disconnected from Snoonet ZNC since Fri Mar  6 22:03:42 2015)
+[10:03.55] -chapek.snoonet.org- GhostyOne is no longer away
+[10:05.18] -chapek.snoonet.org- GhostyOne is set as away (Disconnected from Snoonet ZNC since Fri Mar  6 22:05:20 2015)
+[10:05.18] -chapek.snoonet.org- GhostyOne is no longer away
+[10:05.33] -chapek.snoonet.org- Aharoni is set as away (Auto-away)
+[10:11.24] -chapek.snoonet.org- The0x539 is set as away (Auto-away)
+[10:11.37] -chapek.snoonet.org- muggy is set as away (Auto-away)
+[10:14.19] -chapek.snoonet.org- x_minus_one is no longer away
+[10:14.27] -chapek.snoonet.org- Myst1 is set as away (I am currently at the computer.)
+[10:19.16] -chapek.snoonet.org- Biskits-phone is no longer away
+[10:19.27] -chapek.snoonet.org- moparx is set as away (Idle)
+[10:19.55] -chapek.snoonet.org- momoyome is no longer away
+[10:22.12] -chapek.snoonet.org- muggy is no longer away
+[10:24.31] -chapek.snoonet.org- noeatnosleep is no longer away
+[10:24.50] --felis-- logged in with account (felis)
+[10:24.51] -chapek.snoonet.org- FeudalCrayon is no longer away
+[10:25.42] -chapek.snoonet.org- LewsTherin is set as away (Auto Away at Fri Mar  6 19:25:44 2015)
+[10:26.55] -chapek.snoonet.org- remlap is no longer away
+[10:27.54] -chapek.snoonet.org- Ari|Vacation is no longer away

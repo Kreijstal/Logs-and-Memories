@@ -1,0 +1,654 @@
+Session Start: Fri Feb 27 05:16:20 2015
+Session Ident: ##programming
+[05:16.20] --rajaniemi.freenode.net-- *** No Ident response
+[05:16.27] * You have joined ##programming
+[05:16.28] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[05:16.28] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[05:16.28] Channel modes for ##programming are :+cntf ##overflow
+[05:16.29] Channel Created on: 5:23 AM 2/4/2007
+[05:16.48] <txdv> i hope you get some money from those bastards
+[05:17.11] <IamTrying> It cold be a BUG, because i was using there products since they started txdv
+[05:17.42] <IamTrying> never mind, thanks. shocking experience with google products
+[05:17.50] <txdv> Put something on the internet
+[05:17.54] <txdv> be shocked that it is on the internet
+[05:18.15] <Plastefuchs> IamTrying: check if there is a sharing option used, disable it. it should close the option to open up the files from the link.
+[05:18.32] <Plastefuchs> txdv: well, if you set it to be not be able to be shared, i'd be shocked too (when it is about google, ms, etc)
+[05:18.37] * pyon wonders if a future is possible in which users have more control over where their information ends up.
+[05:18.48] <Plastefuchs> pyon: ahahaha
+[05:18.50] <Plastefuchs> ha :(
+[05:18.53] <txdv> a bit is a bit
+[05:19.01] <txdv> if you copy it to another computer, you lost all control over it
+[05:19.06] <pyon> Oh, sure.
+[05:19.06] <myrl> Plastefuchs: That moment when you laugh at a joke, and you cry at reality.
+[05:19.09] <txdv> unless you have direct control of that computer
+[05:19.20] <pyon> txdv: The point is having more control over who you share your data with.
+[05:19.22] <Plastefuchs> and even then you cannot be sure
+[05:19.31] <pyon> txdv: Not having to trust Google / Facebook / whomever.
+[05:19.36] <txdv> pyon: encrypt, give decryption keys only to certain parties
+[05:19.44] <Plastefuchs> pyon: amg, that is diaspora !1!!!
+[05:19.45] * cougarten (~q@46.115.182.253) has joined channel ##programming
+[05:19.55] <Plastefuchs> txdv: how do you make sure certain parties don't share your stuff?
+[05:20.01] <pyon> txdv: I mean, making the Internet less hostile, so that these prevention measures don't have to be taken.
+[05:20.13] <Plastefuchs> txdv: this is how we got new image formats with `digital eraser` built in :V
+[05:20.14] * Gluesticky (~IceChat9@unaffiliated/gluesticky) has joined channel ##programming
+[05:20.26] <txdv> digital eraser?
+[05:21.05] <txdv> there is no way that that thing is not circumventable
+[05:21.10] <myrl> I haven't been seeing SeabassChan lately.
+[05:21.21] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) Quit (Read error: No route to host)
+[05:21.22] <pyon> myrl: You want to see him? :-P
+[05:21.34] <Rainb> Can you do nested functions in math
+[05:21.40] <myrl> pyon: For some reason, yes.
+[05:21.45] <txdv> the nice part of the internet is that distribution has 0 cost
+[05:21.52] <txdv> and that makes distribution uncontrollable
+[05:22.20] * paulp_000 (~quassel@2.94.177.119) has joined channel ##programming
+[05:22.22] <txdv> in order to distribute a physical document you have invest much more resources
+[05:22.27] <Rainb> distribution has some cost at the electricity and cycles level
+[05:22.31] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) has joined channel ##programming
+[05:22.36] <txdv> if you take the cost away, controlling shit becomes more difficult
+[05:22.51] <pyon> Rainb: "nested functions in math" --> It's done all the time.
+[05:22.52] * smustafa (~mustafa@110.93.212.98) has joined channel ##programming
+[05:22.58] <txdv> Rainb: Well, yeah, but much less than physically someone mailing a letter
+[05:23.07] * unix (~unix@r74-192-181-148.htvlcmta01.hnvitx.tl.dh.suddenlink.net) Quit (Quit: Leaving)
+[05:23.13] <pyon> Rainb: Programming languages have been really slow to keep up with these developments from the last couple of centuries.
+[05:23.31] <Rainb> Rainb: wat
+[05:23.33] <txdv> its neglectible
+[05:23.41] <myrl> pyon: There are some people who I consider smug but would hate it if they're gone, an example of this is aoseki.
+[05:23.42] <Rainb> I self-pinged
+[05:23.55] <txdv> its a nice thing, because it creates something that comunism always strived for
+[05:23.58] <pyon> myrl: Oh, well.
+[05:24.01] <Rainb> pyon: b-but programming languages are from the last centuries wtf
+[05:24.10] * paulp_000_ (~quassel@176.15.138.132) Quit (Ping timeout: 250 seconds)
+[05:24.11] <myrl> aoseki: Woah, I got your name correctly without even checking.
+[05:24.19] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[05:24.47] * zadock (~zadock@muscalu.tuiasi.ro) has joined channel ##programming
+[05:24.49] <pyon> myrl: I like optimal things. Optimally running programs. Optimally defined and analyzed algorithms. Optimally nice people too.
+[05:25.01] <Rainb> pyon: I want to do this math function like this ＋＋http://www.wolframalpha.com/input/?i=%2815-15%2F60w%29%2B%2810-10%2F20z%29+and+w%2Bz%3Dx，，
+[05:25.12] <myrl> pyon: hahaha.
+[05:25.13] * ninjahatodi (~androirc@117.201.165.253) has joined channel ##programming
+[05:25.13] <pyon> myrl: Kinda rich from me, since I'm a jerk most of the time, though. :-P
+[05:25.20] <txdv> do you like optimally unoptimized programms too?
+[05:25.28] * luktgf (~vfbtgn@86.121.71.139) Quit (Ping timeout: 250 seconds)
+[05:25.31] <ninjahatodi> I am ninja
+[05:25.45] <ninjahatodi> I do unopposed programmes,
+[05:25.46] <myrl> pyon: RIP Wader8.
+[05:25.47] <ninjahatodi> Ok
+[05:26.00] <pyon> lol
+[05:26.03] <ninjahatodi> Pyon: gagged
+[05:26.09] <ninjahatodi> Nigger
+[05:26.24] <ninjahatodi> I am not racing
+[05:26.33] <ninjahatodi> hhh
+[05:26.38] <ninjahatodi> Hahaha
+[05:26.50] <ninjahatodi> hhhfjv
+[05:26.56] <ninjahatodi> Cuck
+[05:27.05] <ninjahatodi> Ban me
+[05:27.06] <txdv> That is emberassing, even for the low standards of this channel
+[05:27.10] <ams> coffee ..
+[05:27.15] <ninjahatodi> If you can
+[05:27.22] * kaushal (~kaushal@111.93.155.244) has joined channel ##programming
+[05:27.22] --kaushal-- logged in with account (kaushal)
+[05:27.22] <ninjahatodi> nigger
+[05:27.33] <ninjahatodi> 9,8anal sex
+[05:27.38] <txdv> age sex location?
+[05:27.48] <ninjahatodi> anal sex
+[05:27.52] <ams> txdv: you working on antyhing cool?
+[05:27.54] <myrl> lol
+[05:27.57] <ninjahatodi> no
+[05:28.01] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##programming
+[05:28.02] <ninjahatodi> 0,0hh
+[05:28.09] <txdv> ams: i dont know what you consider cool
+[05:28.14] <ninjahatodi> Die in a firr
+[05:28.22] <ninjahatodi> Ams: suck me
+[05:28.30] <myrl> ninjahatodi: male or female? I personalley prefer camel.
+[05:28.35] <ninjahatodi> Suck my juicy nippes
+[05:28.37] <ams> txdv: well, you can start of with what you are working on :-)
+[05:28.43] <ninjahatodi> I am gay bdw
+[05:29.02] <ninjahatodi> Big juicy gay man
+[05:29.09] <ninjahatodi> Kiss my nipple
+[05:29.11] <ninjahatodi> Ok
+[05:29.13] * hrumph (~hrumph@d67-193-128-5.home3.cgocable.net) Quit (Quit: Leaving)
+[05:29.18] --HenriettaSalt-- logged in with account (HenriettaSalt)
+[05:29.20] <ninjahatodi> Hahaha
+[05:29.24] <ninjahatodi> He quite
+[05:29.27] <ninjahatodi> Qhit
+[05:29.28] * Airon (51821015@gateway/web/freenode/ip.81.130.16.21) has joined channel ##programming
+[05:29.29] <ninjahatodi> Quit
+[05:29.40] <ninjahatodi> hjjf
+[05:29.52] <ninjahatodi> Thanks
+[05:30.00] <ninjahatodi> rghfjvtj
+[05:30.02] <ninjahatodi> Ok
+[05:30.03] <ninjahatodi> See
+[05:30.11] <ninjahatodi> The administration is worse
+[05:30.13] <txdv> i contribute to libuv
+[05:30.22] <ninjahatodi> Libuv sucks
+[05:30.27] <ninjahatodi> Install gentoo
+[05:30.39] <ninjahatodi> Txdv: install gentoo
+[05:30.40] <myrl> Alreadu did, thanks.
+[05:30.41] <ninjahatodi> Ok?
+[05:30.49] <txdv> i'm into that entire async fetish
+[05:30.51] <ninjahatodi> Now
+[05:30.56] <txdv> but I don't think that most languages do it right
+[05:30.57] <ams> txdv: cool
+[05:31.03] <ninjahatodi> Use socket io
+[05:31.09] <ninjahatodi> It os async
+[05:31.12] * ninjahatodi (~androirc@117.201.165.253) Quit (Quit: Leaving)
+[05:31.22] <txdv> except maybe erlang
+[05:31.25] <myrl> txdv: Correction, async is never right.
+[05:31.28] <ams> txdv: i used libuv in a common lisp project
+[05:31.37] * Dylo (~Dylo@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) has joined channel ##programming
+[05:32.04] <Rainb> pyon: Now that I think of it, I just want to use the results of the function in wolframalpha, as it seems for me, it doesn't seem wrong
+[05:32.06] <ams> i am not sure what to think about async really... erlang is nice in that regard, but i think the language as such is horrible
+[05:32.19] * Dylo (~Dylo@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) Quit (Excess Flood)
+[05:32.46] * Iodt (~Iodt@89-159-36-45.rev.dartybox.com) has joined channel ##programming
+[05:32.47] * greensnow (5bd895b2@gateway/web/freenode/ip.91.216.149.178) has joined channel ##programming
+[05:33.09] * greensnow (5bd895b2@gateway/web/freenode/ip.91.216.149.178) Quit (Client Quit)
+[05:33.10] <pyon> ams: It's sad that the language only groks concurrency, but not data parallelism.
+[05:33.14] <txdv> myrl: I don't know, creating a thread and putting it into "BLOCKING" state just so you can control your state of the programm ... is a bit wasteful
+[05:33.16] <ams> pyon: yeah
+[05:33.52] * Iodt (~Iodt@89-159-36-45.rev.dartybox.com) Quit (Excess Flood)
+[05:34.11] * Iazrq (~Iazrq@89-93-136-125.hfc.dyn.abo.bbox.fr) has joined channel ##programming
+[05:34.13] <ams> anyway, time to hack some ..
+[05:34.16] <myrl> txdv: Thing is, all async is done with polling in underlying hardware.
+[05:34.16] <txdv> ams: was that project paid for or did you do it for fun?
+[05:34.27] <myrl> Or software.
+[05:34.39] <txdv> i dont think so
+[05:34.45] <myrl> Interrupts for example, is not really async.
+[05:34.50] * Iazrq (~Iazrq@89-93-136-125.hfc.dyn.abo.bbox.fr) Quit (Excess Flood)
+[05:35.05] <myrl> Interrupts are checked on the falling edge.
+[05:35.09] * xao (~xao@89-93-136-125.hfc.dyn.abo.bbox.fr) has joined channel ##programming
+[05:35.21] <myrl> are* not really async.
+[05:35.24] * qoio (~qoio@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Ping timeout: 252 seconds)
+[05:35.32] <ams> txdv: paid for
+[05:35.33] * xao is now known as Guest92960
+[05:35.41] <myrl> And simply by that, one can conclude that no real async exists in software.
+[05:35.59] <txdv> who pays for lisp?
+[05:36.18] <ams> people who needs to get stuff done :-)
+[05:36.20] <txdv> myrl: before you claim that you should probably define what you think async is
+[05:36.21] <ams> and companies
+[05:36.38] <myrl> txdv: Async mean no reliance on a clock.
+[05:37.22] <txdv> since every operation on a cpu takes some time to compute, that definition is unrealistic for computers
+[05:37.33] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[05:37.46] --Baronawesome-- logged in with account (Baronawesome)
+[05:37.50] <myrl> txdv: Every operation, however, relies on the clock as an I/O.
+[05:38.03] <txdv> wat
+[05:38.04] <myrl> Sure, one may say that every pipeline stage is async.
+[05:38.50] <myrl> txdv: You disagree that every operation relies on the clock as an I/O sync?
+[05:39.15] * ninjahatodi (~androirc@117.201.165.253) has joined channel ##programming
+[05:39.21] <pyon> myrl: I thought "async" meant "no reliance on synchronized completion".
+[05:39.31] <ninjahatodi> Im back async fuckers
+[05:39.35] * ninjahatodi (~androirc@117.201.165.253) has left ##programming ()
+[05:39.53] <myrl> txdv: Synchronized completion?
+[05:40.33] * paulp_000_ (~quassel@78-106-31-103.broadband.corbina.ru) has joined channel ##programming
+[05:40.34] * thecoolguy (~thecoolgu@97-100-26-90.res.bhn.net) Quit ()
+[05:40.45] * Anton_ (~aaaa@185.9.184.62) has joined channel ##programming
+[05:40.51] <txdv> i give up, i wont win this
+[05:40.59] <myrl> txdv: You won't win what?
+[05:41.06] * rooferdave (~rooferdav@174-150-10-154.pools.spcsdns.net) Quit (Ping timeout: 265 seconds)
+[05:41.47] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##programming
+[05:42.05] <pyon> myrl: Like, you don't care when concurrent tasks complete, relative to each other.
+[05:42.23] <myrl> txdv: Ah, I get what you mean.
+[05:42.24] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 264 seconds)
+[05:42.34] * paulp_000 (~quassel@2.94.177.119) Quit (Ping timeout: 252 seconds)
+[05:42.36] <txdv> ams: did you create those lisp libuv bindings?
+[05:42.46] <txdv> what lisp runtime did you use?
+[05:42.52] <txdv> did you open source the lisp bindings?
+[05:43.02] <myrl> txdv: I guess in that context, it's true.
+[05:43.24] <ams> txdv: i used cl-libuv, and use sbcl normally.
+[05:43.59] <ams> txdv: cl-async was on the map, but decided against it since it tried to much imho
+[05:44.15] * redeemed (~msh@82.208.188.40) has joined channel ##programming
+[05:44.16] --redeemed-- logged in with account (redeemed)
+[05:45.27] <txdv> this thing? ＋＋https://github.com/orthecreedence/cl-libuv/，，
+[05:45.39] <txdv> myrl: I don't look at it on a hardware level
+[05:45.47] <ams> txdv: yes
+[05:46.18] * ninjahatodi (~androirc@117.201.165.253) has joined channel ##programming
+[05:46.26] <ninjahatodi> ASYNC
+[05:46.28] * ninjahatodi (~androirc@117.201.165.253) has left ##programming ()
+[05:46.28] <txdv> why don't these people put themselfs on the libuv wiki
+[05:46.39] <txdv> Look, this guy understand async completely
+[05:46.50] <ams> you will need to ask them :-)
+[05:46.56] <txdv> I won't
+[05:46.59] <txdv> ill just add it to the wiki
+[05:47.05] <ams> add cl-async too
+[05:47.31] <txdv> its by the same guy
+[05:47.34] * tus (~tus@unaffiliated/tus) has joined channel ##programming
+[05:47.39] <txdv> are you sure that cl-async is not just an abstraction on top of cl-libuv?
+[05:47.40] <ams> cl-libuv is just ffi over libuv, and cl-async is more sane functions over cl-libuv
+[05:48.04] <txdv> but you decided against cl-async because it was too much?
+[05:48.11] <ams> for what i needed yes
+[05:49.07] <txdv> and what did you need?
+[05:50.25] * Trudko_ (~chatzilla@nat-88-212-37-105.antik.sk) Quit (Remote host closed the connection)
+[05:50.44] * pedro_ (~quassel@a95-94-145-198.cpe.netcabo.pt) Quit (Ping timeout: 246 seconds)
+[05:50.49] <ams> just basic async operations
+[05:50.53] * oujh (~vfbtgn@86.126.1.121) has joined channel ##programming
+[05:51.29] <txdv> don't you get the nested callback hell with cl-libuv?
+[05:51.56] * luktgf (~vfbtgn@188.25.36.90) has joined channel ##programming
+[05:52.14] * paulp_000 (~quassel@78-106-31-6.broadband.corbina.ru) has joined channel ##programming
+[05:53.16] * VaticanCameos (~pritishc@103.245.118.154) Quit (Quit: Leaving)
+[05:53.21] <txdv> project looks kinda alive
+[05:53.30] <myrl> pyon: A system update in gentoo takes hours. lol.
+[05:53.30] <txdv> we have like 5 ruby bindings and all of them are dead
+[05:53.33] * petersaints (~quassel@a95-94-145-198.cpe.netcabo.pt) has joined channel ##programming
+[05:53.42] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[05:53.54] <txdv> I'll probably take personally one into my own care
+[05:54.18] <txdv> ruby has a very nice built in functionality to play with the stack
+[05:54.18] * paulp_000_ (~quassel@78-106-31-103.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[05:54.30] <ams> txdv: i didn't have any issues
+[05:55.08] <txdv> Can you show me a snippet of some code with cl-libuv? How it looks?
+[05:55.17] * oujh (~vfbtgn@86.126.1.121) Quit (Ping timeout: 246 seconds)
+[05:56.13] * paulp_000_ (~quassel@95-31-169-162.broadband.corbina.ru) has joined channel ##programming
+[05:56.16] <ams> not atm, it was a few months back
+[05:57.17] <txdv> ＋＋https://github.com/txdv/LibuvSharp/blob/master/Examples/TcpAsync.cs#L17-L32，，
+[05:57.25] <txdv> the beauty of await/async
+[05:57.50] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[05:57.58] * paulp_000 (~quassel@78-106-31-6.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[05:58.00] <txdv> the only proble with C# await/async is that they are too fat of an abstraction and introduce a substational amount of overhead for simple operations like "read something into a buffer"
+[05:58.14] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##programming
+[05:58.18] * zork_ (736fd3aa@gateway/web/freenode/ip.115.111.211.170) Quit (Quit: Page closed)
+[05:58.30] <txdv> also the bindings are slow because apparently creating pointers to functions in the clr world is slow
+[05:58.34] <txdv> at least in mono
+[05:58.52] * Trustnoone (~NOONE@60-240-24-30.static.tpgi.com.au) has left ##programming (("Leaving"))
+[05:59.31] <txdv> I'm waiting for even pull based API
+[05:59.53] <txdv> but the devs of libuv ... have a rather tight schedule personal lifes
+[06:01.09] * paulp_000 (~quassel@2.94.177.223) has joined channel ##programming
+[06:01.16] * paulp_000_ (~quassel@95-31-169-162.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[06:01.38] * mvaenskae (~mvaenskae@unaffiliated/mvaenskae) Quit (Ping timeout: 252 seconds)
+[06:01.55] * rtypo (~alex@unaffiliated/rtypo) Quit (Read error: Connection reset by peer)
+[06:01.58] * rooferdave (~rooferdav@174.150.10.154) has joined channel ##programming
+[06:02.44] <txdv> ams: looks like i drowned everyone else in chatter too
+[06:03.02] <ams> :-)
+[06:03.27] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[06:03.30] <myrl> lel
+[06:04.10] <txdv> its just ... nobody wants to hang around with the c# guy in ##programming
+[06:04.16] <txdv> everyone is cool and lispy in here
+[06:04.46] * govg (~govg@unaffiliated/govg) Quit (Ping timeout: 244 seconds)
+[06:04.57] <rindolf> txdv: I am cool and Perly . ;-)
+[06:05.08] <rindolf> txdv: and many people here are Haskell enthusiasts.
+[06:05.24] <txdv> yeah, that language is nice imo
+[06:05.44] <txdv> but never used it really outside of unviersity
+[06:05.57] * phantombeta (~Mercer@177.39.244.213) Quit (Read error: Connection reset by peer)
+[06:06.05] <pyon> myrl: "takes hours" --> Well, your fault for using Gentoo.
+[06:06.29] <pyon> myrl: I want to try Gentoo too, but not on my main machine.
+[06:06.31] <myrl> pyon: lol.
+[06:07.21] <myrl> pyon: I'm not particularly bothered though.
+[06:07.25] <pyon> :-O
+[06:07.31] <txdv> what cpu do you have myrl ?
+[06:07.37] <myrl> txdv: A p4. :D
+[06:07.43] <txdv> and you use gentoo?
+[06:07.48] <myrl> Yeeeeep.
+[06:07.50] <txdv> are you coocking eggs on that thing?
+[06:08.18] <txdv> I remember last time I tried gentoo ... that was on a pentium 3 1ghz
+[06:08.28] * baum (~baum@2a02:d40:9:159::bd4e) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[06:08.45] <txdv> I was still in school and during that week of compilation ... I did all my homework
+[06:08.56] <rindolf> txdv: heh, heh.
+[06:09.10] * baum (~baum@2a02:d40:9:159::bd4e) has joined channel ##programming
+[06:09.13] <rindolf> "Gentoo Installation Week".
+[06:09.19] <pyon> lmao
+[06:09.25] * thered (~redjuggle@95.Red-81-32-80.dynamicIP.rima-tde.net) has joined channel ##programming
+[06:09.37] <txdv> but i was cool after that week!
+[06:09.37] <pyon> Dammit, I don't want to go to work...
+[06:09.44] * rindolf wonders if anyone still remember Linux Installation Days.
+[06:09.47] <txdv> I went to school and proclaimed to my nerd friend that i finally finished compiling!
+[06:10.08] * lapideviridi (~lapide_vi@139.98.2.55) has joined channel ##programming
+[06:10.09] <pyon> rindolf: I don't. I was a happy Windows user in the 90's and even early 2000's.
+[06:10.10] <rindolf> txdv: Cool People never say they are cool. It's uncool.
+[06:10.20] <rindolf> pyon: ah.
+[06:10.29] <txdv> Well I didn't say that I was cool for doing that, I just said that I finally finished compiling gentoo.
+[06:10.38] <rindolf> pyon: ignorance is bliss.
+[06:11.05] <myrl> lol
+[06:11.12] <pyon> rindolf: Indeed.
+[06:11.33] <pyon> rindolf: I was also happy using C++ and then C#.
+[06:11.42] <rindolf> "In Soviet Russia, Gentoo compiles you!"
+[06:11.48] <rindolf> pyon: ah.
+[06:11.55] <pyon> Actually, not even idiomatic C++. Rather, Microsoft-style C++. More precisely, MFC-style C++.
+[06:12.02] <rindolf> pyon: oh.
+[06:12.05] <txdv> In Soviet Russia people don't use the source code, they use the binary code.
+[06:12.09] <rindolf> I remmeber that.
+[06:12.24] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 255 seconds)
+[06:12.37] <txdv> In Soviet Russia gentoo comes only with binaries. Because that is the source code for Russian coders.
+[06:12.43] * roxlu (~textual@5ED2B568.cm-7-3c.dynamic.ziggo.nl) has joined channel ##programming
+[06:12.52] <txdv> That version is better
+[06:12.59] <txdv> even explains it
+[06:13.12] <myrl> txdv: Good jokes are not explained. :P
+[06:13.15] <pyon> txdv: My former systems theory professor is Ukrainian - she wrote programs that controlled mining wagons directly in machine code.
+[06:13.33] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 244 seconds)
+[06:13.55] <roxlu> Hey, I'm trying to create this droplet like effect:  ＋＋https://m1.behance.net/rendition/modules/152914221/disp/fef5101ed3f98ecb4776be6b15011590.gif，，  I've got a function which I use to create this: ＋＋https://www.flickr.com/photos/diederick/16475110949/，，  but now I want to add the circle shape and wondering if someone around has an idea how to do that?
+[06:13.57] <txdv> myrl: well, In Soviet Russian Gentoo comes only with binaries.
+[06:13.59] * JanC (~janc@lugwv/member/JanC) Quit (Ping timeout: 265 seconds)
+[06:14.00] <myrl> pyon: Cool.
+[06:14.10] * Guest66212 (~Imk0tter@ool-2f12e944.dyn.optonline.net) Quit (Ping timeout: 250 seconds)
+[06:14.19] <pyon> txdv: And, yes, she. Quite possibly the only attractive female programmer I ever met, despite her age.
+[06:14.38] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[06:14.42] <txdv> Eastern European girls are all attractive
+[06:15.23] <myrl> highschool girls?
+[06:15.23] <pyon> She is more than twice my age, and was probably thrice my age when I was her student.
+[06:15.36] <myrl> pyon: ._.
+[06:15.43] <myrl> So, she's ~50?
+[06:15.55] <pyon> myrl: I was her student when I was roughly 20.
+[06:15.58] <myrl> Naw, more like ~60.
+[06:15.59] <pyon> myrl: So more than 50.
+[06:16.23] <pyon> OK, then she wasn't thrice my age when I was her student - "just" almost thrice.
+[06:16.40] * Thiht (~Thunderbi@ARennes-655-1-163-25.w92-139.abo.wanadoo.fr) has joined channel ##programming
+[06:16.53] <txdv> The only thing with eastern european girls is that some of them turn to babushkas with age
+[06:17.06] <txdv> so you kinda need to take a good look at her mom before you marry one
+[06:17.06] <pyon> lol
+[06:17.08] <myrl> babushkas?
+[06:17.23] <txdv> babushkas
+[06:17.29] <myrl> Ah, babushkas.
+[06:18.02] <ams> all women turn into "babushkas"
+[06:18.12] <ams> it just means old woman, nothing more.
+[06:18.33] <myrl> ams: You misunderstand.
+[06:18.39] <myrl> He means that some don't grow at all
+[06:19.25] <txdv> ams: visit lithuania and I will show you what a real babushka is
+[06:19.25] <ams> no, i didn't, the problem is that the word is used incorrectly, there is nothing negative about it
+[06:19.25] <txdv> You will understand immediately
+[06:19.25] <txdv> We will go to the local community market where potatoes are sold directly by the people who pick them
+[06:19.29] * snhmib (~jurjen@a83-163-200-186.adsl.xs4all.nl) has joined channel ##programming
+[06:19.49] <txdv> And I will show you the world of babushkas
+[06:20.25] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[06:20.57] <ams> txdv: i am from a world of babushkas, where my summers where spent picking potatoes by hand, selling them at markets
+[06:21.21] <txdv> are you from latvia?
+[06:21.22] * RumpledElf (~leethacks@unaffiliated/leethacksaw) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[06:21.31] <ams> txdv: threshing crops by hand as well
+[06:21.32] <ams> no
+[06:21.48] * baum (~baum@2a02:d40:9:159::bd4e) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[06:21.49] <txdv> Did you throw the horse shit with your own hands on the crops?
+[06:22.22] <ams> yup
+[06:22.25] * baum (~baum@2a02:d40:9:159::bd4e) has joined channel ##programming
+[06:22.34] * baum (~baum@2a02:d40:9:159::bd4e) Quit (Client Quit)
+[06:22.43] * SZero (~Chris@131.204.254.73) has joined channel ##programming
+[06:22.51] <txdv> got to disperse that shit by hand for maximum efficiency
+[06:23.37] <ams> mm.. the smell of fresh gnoj ... mmm... :-)
+[06:23.38] * VM_funky (~VM_funky@unaffiliated/vm-funky/x-7703164) Quit (Ping timeout: 246 seconds)
+[06:24.17] * baum (~baum@2a02:d40:9:159::bd4e) has joined channel ##programming
+[06:24.31] * Eremox (~Eremox@212.3.18.75) has joined channel ##programming
+[06:24.58] <txdv> you are a gnu guy
+[06:25.03] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##programming
+[06:25.06] <txdv> that is why the conversation went silent when i mentioned c#
+[06:25.06] * abs25 (~absof25_@141-136-143-44.dsl.iskon.hr) has joined channel ##programming
+[06:25.12] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[06:25.14] <ams> ha
+[06:25.32] <txdv> dont you like the giant wooden horse?
+[06:25.39] <ams> funny :-)
+[06:25.53] <txdv> Look at my horse, my horse is amazing.
+[06:25.57] <myrl> Oh my God. lol.
+[06:26.05] <myrl> Installing git will take me another 1 hour.
+[06:26.15] * paulp_000_ (~quassel@128-73-242-172.broadband.corbina.ru) has joined channel ##programming
+[06:26.15] <txdv> gentoo?
+[06:26.27] <myrl> txdv: Yep.
+[06:26.37] <txdv> myrl: you see after that 1 week gento installation process
+[06:26.44] <txdv> I learned a viable lesson
+[06:26.51] <myrl> txdv: Wut
+[06:27.10] <txdv> I dont want the installation process to be as swift as possible
+[06:27.16] <txdv> that is why i hate windows
+[06:27.24] <txdv> 3 reboots for one installation
+[06:27.29] <txdv> then updates and again multiple reboots
+[06:27.36] * JanC (~janc@lugwv/member/JanC) has joined channel ##programming
+[06:27.53] <txdv> installation should be nothing but moving files from a to b
+[06:27.59] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[06:28.03] <myrl> Meh.
+[06:28.13] <txdv> well packages are compressed, so you need to decompress them, but that isn't the bottleneck
+[06:28.14] * Ucaq (~Ucaq@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) has joined channel ##programming
+[06:28.24] * paulp_000 (~quassel@2.94.177.223) Quit (Ping timeout: 252 seconds)
+[06:28.36] <txdv> lately the bottleneck is my hard drive
+[06:28.36] * lapideviridi (~lapide_vi@139.98.2.55) Quit (Ping timeout: 255 seconds)
+[06:28.43] <myrl> Compiled stuff is nice since it allows model-specific optimizations.
+[06:29.08] * TheBigDeal (~quassel@unaffiliated/innocent99) Quit (Remote host closed the connection)
+[06:29.09] <txdv> you mean compiling the stuff on your own?
+[06:29.36] <myrl> txdv: Not really, gentoo does that for me already.
+[06:29.48] <txdv> Yeah i understand that
+[06:29.54] * imv (~imv@2a02:2f0a:4034:9800:e083:d71:bcc4:a8e4) has joined channel ##programming
+[06:29.56] <txdv> but what if you want a feature that you didnt need before
+[06:30.03] <txdv> and then you need 1 week to recompile like everything
+[06:30.13] <myrl> txdv: Hint: you don't.
+[06:30.20] * Guest92960 (~xao@89-93-136-125.hfc.dyn.abo.bbox.fr) Quit (Ping timeout: 246 seconds)
+[06:30.21] * Henke37 (~Henrik@2001:2002:4e48:8217:f5d3:499f:821:dad3) has joined channel ##programming
+[06:31.16] <myrl> txdv: In worst case, perhaps.
+[06:31.17] * tenQuid (~IceChat77@ti0030a400-1063.bb.online.no) has joined channel ##programming
+[06:31.26] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 256 seconds)
+[06:31.44] * audioburn (~not_mike@unaffiliated/not-mike/x-4399907) has joined channel ##programming
+[06:31.51] * Eremox (~Eremox@212.3.18.75) Quit (Ping timeout: 265 seconds)
+[06:31.53] <txdv> i think i hit the worst case scenario right after that week
+[06:31.57] <myrl> Interesting, compilation only takes 60 MB of RAM.
+[06:32.05] <txdv> what
+[06:32.06] <txdv> how
+[06:32.12] <myrl> Er.
+[06:32.14] <myrl> Spoke too soon.
+[06:32.21] <myrl> lel
+[06:32.33] <txdv> make -j4 a C++ project and it eats everything away
+[06:32.39] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 255 seconds)
+[06:32.41] <txdv> even your moms fat
+[06:32.49] <imv> Hi, I have a 5 person team of college students, not much experience, and we have to do a semester-long programming project. Since we have to do it anyway, we'd really like to turn it into a nice CV side-project. Web apps/games are excluded. Good ideas up to this point were : Something similar to BOINC and a p2p cloud storage service (which seems to contradict itself). Any ideas?
+[06:33.11] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) has joined channel ##programming
+[06:33.28] <myrl> imv: "Web apps/games are excluded" good.
+[06:33.43] <myrl> imv: What kind of programming do you guys do?
+[06:34.14] <txdv> the serious kind
+[06:34.51] * halcyforn (~ecovent@public-gprs516443.centertel.pl) has joined channel ##programming
+[06:34.53] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) Quit (Client Quit)
+[06:35.18] <imv> myrl, didn't mean to bash web apps/games, just that none of us are interested in webdev, and we have one person that would like to do gamedev, but we've agreed she'd have priority on relevant tasks on whenever project we'll do
+[06:35.46] <myrl> imv: I mean good with no sarcasm.
+[06:36.01] <halcyforn> hello. can someone help me with html code?
+[06:36.17] <myrl> imv: So, you do general programming?
+[06:37.10] <myrl> Nothing specific?
+[06:37.48] <imv> myrl, we have no idea. We're really open to learning, but other than the things mentioned, we have no restrictions and are really open to learning new stuff. One thing we agreed upon is that C/C++ would be a good choice for a language, since it looks good on a CV wherever you apply and we have the most experience in them
+[06:38.37] * claz_ (~claz@84.247.84.110) has joined channel ##programming
+[06:38.43] * leetplayah (~leetplaya@dhcp-22-124.stud.cs.uit.no) Quit (Remote host closed the connection)
+[06:38.50] <txdv> there is a big difference between C and C++
+[06:38.51] <txdv> :D
+[06:39.06] <myrl> Eh.
+[06:39.21] <myrl> The only things which I can name off the top of my head is
+[06:39.21] <imv> myrl, yep, nothing specific. We have some sockets experience, Linux systems, I could learn my way up a reasonable usage of POSIX threads, know a fair bit of machine learning and cryptography, have used crypto++ in the past
+[06:39.35] * halcyforn (~ecovent@public-gprs516443.centertel.pl) has left ##programming (("Wychodzi"))
+[06:39.44] <myrl> are* templates, new memory manager, OOP.
+[06:39.51] <myrl> Excluding new libs of course.
+[06:39.55] <myrl> Oh yeah, iterators too.
+[06:40.51] * rpr (bc817696@gateway/web/freenode/ip.188.129.118.150) has joined channel ##programming
+[06:40.55] <rpr> I want to programatically change ffdshow options that is decoding video in a third party program. I also thought about opening ffdshow settings programatically and then using winapi to simulate keyboard input, but that doesn't seem like a reliable solution. I thought about directly accessing and modifying its memory, but i don't know where to start
+[06:41.00] <rpr> if someone can give me some startings points on how to do the latter or suggest a better way of doing this that would be great
+[06:41.15] <imv> txdv, yes I know, these two we have most experience in. C is pretty much the standard language for procedural programming, same for C++ on OOP (and Java, but we did C++)
+[06:41.27] * SZero (~Chris@131.204.254.73) Quit (Quit: Leaving, probably, maybe not...)
+[06:41.41] * SZero (~Chris@131.204.254.73) has joined channel ##programming
+[06:41.44] * aquinas (~aquinas_@cable-192.222.140.141.electronicbox.net) Quit (Read error: Connection reset by peer)
+[06:41.57] * aquinas (~aquinas_@cable-192.222.140.141.electronicbox.net) has joined channel ##programming
+[06:42.05] <txdv> semester
+[06:42.05] <myrl> txdv: While compiling, my memory's at ~300 MB.
+[06:42.11] <txdv> 6 months
+[06:42.21] <imv> myrl, we've covered what you mentioned in OOP courses. I didn't mean to bunch them together
+[06:42.22] <txdv> Nah, i'm terrible with estimates for long projects
+[06:42.28] <Plastefuchs> rpr: ffdshow has no way to insert settings via cli/from a file?
+[06:42.44] <rpr> Plastefuchs no unfortunately
+[06:42.49] <myrl> imv: What I'm trying to say is that they're not too similar.
+[06:42.57] <myrl> s/similar/different/
+[06:42.57] <imv> no C++11 experience for anyone, though, but as I've said, we're open to learning
+[06:43.12] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 250 seconds)
+[06:43.18] * SZero (~Chris@131.204.254.73) Quit (Client Quit)
+[06:43.34] <myrl> Anyone who knows more than 2 procedural or imperative languages, including C, can probably read C++.
+[06:44.00] <imv> myrl, certainly not from the programming paradigm, as in, the way you think when you write code for them
+[06:44.04] <Henke37> at least normal c++ that doesn't overdose on metaprogramming
+[06:44.24] <rpr> this is why GUIs in general sucks, much harder to automate and script thing with them
+[06:44.43] <myrl> Henke37: True. Templates are probably one of the biggest addition to C++.
+[06:44.43] <Plastefuchs> rpr: not even some helpful info it you call it on the cli with --help or something? :C
+[06:44.51] <Plastefuchs> rpr: i thought it was crossplatform and whatnot
+[06:45.43] <rpr> IIRC it is not crossplatform, and only works on windows. probably why they didn't bother
+[06:46.09] <imv> So we're pretty much open to anything. Any ideas?
+[06:46.12] <pyon> Henke37: "normal c++ that doesn't overdose on metaprogramming" --> isn't normal C++.
+[06:46.40] <Henke37> pyon, clearly we have different expectations of what is normal
+[06:47.11] <imv> as a reference, lab professor mentioned writing a basic compiler, so it should be at about that scale
+[06:49.01] <rindolf> imv: there's this - ＋＋https://github.com/samsquire/ideas，，
+[06:49.45] <imv> something that merges two domains would be extra useful (as in, the BOINC-similar alternative has to deal with networking, somehow handling code for work units, eventually GPGPU stuff)
+[06:51.01] <imv> rindolf, great link, tanks a lot! We've been looking around on github for ideas, but most things were really domain-specific utilitaries/libraries
+[06:51.20] <pyon> Anyone knows a language that (1) wasn't deliberately designed for easy C interoperability, but (2) nevertheless has a(n at least relatively) friendly C FFI?
+[06:52.01] <imv> pyon, haskell
+[06:52.08] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[06:52.14] <pyon> Mmm...
+[06:52.36] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) has joined channel ##programming
+[06:52.47] <txdv> really?
+[06:52.55] <txdv> Ill have to try that out at home
+[06:53.00] <txdv> haskell from c# sounds to good to be true
+[06:53.08] <pyon> I don't find Haskell's C FFI that friendly.
+[06:53.20] <imv> pyon, python is also a world apart from C, even though, for example, knowing C you can make out python code
+[06:53.23] * pyon does know Haskell, by the way.
+[06:53.34] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:c75:ff85:f6f5:7e15) Quit (Read error: Connection reset by peer)
+[06:53.44] <rindolf> imv: you're welcome .
+[06:53.53] * Moshbit (~Moshbit@p5796AE50.dip0.t-ipconnect.de) Quit (Read error: Connection reset by peer)
+[06:54.13] <rpr> pyon what do you find unfriendly about it?
+[06:54.34] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) has joined channel ##programming
+[06:54.47] <imv> pyon, they also pair extremely well together
+[06:54.48] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) Quit (Remote host closed the connection)
+[06:55.06] <txdv> peer2peer blocking sounds nice
+[06:55.28] <Plastefuchs> pyon: what is FFI? ._.
+[06:55.28] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) has joined channel ##programming
+[06:55.32] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) Quit (Remote host closed the connection)
+[06:55.37] <pyon> Plastefuchs: foreign function interface
+[06:55.40] <Plastefuchs> ah
+[06:55.51] <Plastefuchs> as in, call a C function from within your $language code
+[06:56.01] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) has joined channel ##programming
+[06:56.21] <pyon> Plastefuchs: That's the common thing. Less commonly, one should also be able to call $language code from C.
+[06:56.42] <txdv> with ffi you can even call C++ code
+[06:56.56] <txdv> the only problem is that different compilers produce different mangled names
+[06:57.13] <pyon> rpr: "unfriendly" --> That I need to be aware that I'm calling C when writing Haskell. I don't want to have to free resources when writing Haskell.
+[06:57.29] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##programming
+[06:57.32] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) Quit (Ping timeout: 264 seconds)
+[06:57.46] <imv> pyon, aren't pretty much all languages compatible from each other, though? I mean, if it's another compiled language, deal with it at link time, if it's, say, Java, have the JVM run the code and whatnot
+[06:58.24] <pyon> imv: "compatible" --> In what sense?
+[06:58.58] <txdv> calling java functions is a pain in the ass
+[06:59.02] <txdv> try to do that from C
+[06:59.36] * SZero (~SZ@131.204.254.73) has joined channel ##programming
+[06:59.41] <imv> pyon, running code in X from code in Y
+[06:59.41] * unknwn- (~unknwn-@217.21.43.95) has joined channel ##programming
+[06:59.43] <aawe> imv: I don't think many people would agree with your compatibility definition of "can somehow make programs of languages A and B communicate"
+[06:59.46] * rooferdave (~rooferdav@174.150.10.154) Quit (Ping timeout: 256 seconds)
+[07:00.03] <imv> txdv, didn't think of that, but it makes sense why it sucks
+[07:00.24] <imv> aawe, aaaaand that's why I need industry experience
+[07:01.06] <txdv> java code generally doesn't run without a runtime
+[07:01.12] <txdv> so you immediately need a runtime
+[07:01.18] <pyon> Anyway, the JVM doesn't concern me. The only reason why I'd like to call code written in another language is runtime performance. Hence why calling C.
+[07:01.30] <txdv> now imagine you are using C#, you already have a runtime! why would you want to run another runtime?!
+[07:01.42] <txdv> then you have 2 runtimes and you need to serialize the objects between each other
+[07:02.17] <txdv> luckily we have ikvm.net
+[07:02.21] <pyon> How would this serialization be performed? Byte streams? Temporary files? (lol)
+[07:02.32] <imv> txdv, why the heck does C# need a runtime, since it's a Microsoft pet peeve?
+[07:03.00] <imv> txdv, never had to deal with C# before, but this feels weird
+[07:03.04] <txdv> because it is not native code
+[07:04.12] <pyon> imv: The .NET runtime provides basic services that pretty much every C# program relies upon, like handling type metadata (generics, downcasting, reflection), garbage collection, etc.
+[07:04.20] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[07:04.33] <txdv> imv: also coreclr runs on linux and macosx
+[07:04.37] <txdv> and is open source now
+[07:04.39] * SOne (~SZ@131.204.254.73) has joined channel ##programming
+[07:04.59] <txdv> well it doesnt run currently without problems, but will in the future
+[07:05.15] <imv> txdv, and why would they bother dealing with native code since it's run on the same OS and hardware support is way more standardized than OSes/
+[07:05.22] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##programming
+[07:05.22] <imv> oh, garbage collection makes sense
+[07:05.36] * leetplayah (~leetplaya@dhcp-22-124.stud.cs.uit.no) has joined channel ##programming
+[07:05.37] * SOne (~SZ@131.204.254.73) Quit (Client Quit)
+[07:05.41] * audioburn (~not_mike@unaffiliated/not-mike/x-4399907) Quit (Ping timeout: 265 seconds)
+[07:05.51] * Gore (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[07:05.54] <pyon> imv: Using and intermediate bytecode that is JIT-compiled by the runtime makes perfect sense.
+[07:05.59] <pyon> imv: It makes software more future-proof.
+[07:06.00] * cougarten (~q@46.115.182.253) Quit (Ping timeout: 256 seconds)
+[07:06.14] <txdv> why
+[07:06.35] <imv> OS might change, as long as interface stays the same
+[07:06.38] * SOne (~SZero@131.204.254.73) has joined channel ##programming
+[07:06.45] <pyon> txdv: Because future-proofing programs merely by standardizing language semantics simply doesn't work in practice.
+[07:06.45] <imv> nice point
+[07:06.50] * SOne (~SZero@131.204.254.73) Quit (Remote host closed the connection)
+[07:07.16] <rpr> the other day I wanted to run a java program and I got "program requires XY version of JVM, you have NEWER_VERSION". so much about future proofing :P
+[07:07.23] <pyon> lol
+[07:07.27] <imv> hahaha
+[07:07.46] <txdv> if someone tells me that my programm sucks because it doesn't run on .net 2.0
+[07:08.00] <txdv> i take out a knife and solve the problem right in front of me
+[07:08.05] <pyon> Hahaha.
+[07:08.20] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 244 seconds)
+[07:08.43] * pyon likes .NET 4.0's co and contravariance, cannot imagine going back to .NET 2.0. :-P
+[07:08.48] <txdv> its like saying "Yeah, your web app sucks because IE5"
+[07:09.29] <gde33|2> we should have a standard web page for unsupported IE versions
+[07:09.51] * Leggendario (~bf111@93-33-53-159.ip43.fastwebnet.it) Quit (Quit: Sto andando via)
+[07:10.01] <gde33|2> make it look native
+[07:10.57] <txdv> at that point just compile chrome and run it inside of IE5
+[07:11.24] <txdv> pyon: i can't not using 4.5
+[07:11.41] * Thiht (~Thunderbi@ARennes-655-1-163-25.w92-139.abo.wanadoo.fr) Quit (Ping timeout: 252 seconds)
+[07:12.09] <gde33|2> have a nice list of supported browsers and some boilerplate text
+[07:12.22] * Church- (~AndChat23@unaffiliated/church-) Quit (Ping timeout: 245 seconds)
+[07:12.51] <myrl> pyon: I'm laughing so hard right now.
+[07:13.20] <txdv> myrl: why?
+[07:13.28] <myrl> pyon: Pre-installation's pretty quick, not including the kernel compilation.
+[07:13.38] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[07:13.48] <pyon> myrl: :-O
+[07:13.55] <pyon> myrl: What are you installing right now?
+[07:14.14] <myrl> pyon: Post-installation, however, that's where the fun's at. I've already spent ~10 hours just to try to be able to build my favorite terminal.
+[07:14.16] <pyon> Or perhaps should I say... what are you *building* right now?
+[07:14.22] <pyon> lol
+[07:14.40] <txdv> what terminal is your favourite terminal?
+[07:14.40] <myrl> In total.
+[07:14.44] <myrl> txdv: Termite.
+[07:15.00] <myrl> I just left ghc and clang to compile while I was asleep or fapping.
+[07:15.28] <txdv> this one ＋＋https://github.com/thestinger/termite，， ?
+[07:15.33] <myrl> txdv: Mhm
+[07:15.43] <txdv> But full hd porn videos make your compilation longer
+[07:15.54] <myrl> lol
+[07:16.58] <pyon> Whoa, the whole thing is just 1KLOC of C++.
+[07:17.03] <pyon> Err, 1.6KLOC
+[07:19.34] * mvaenskae (~mvaenskae@unaffiliated/mvaenskae) has joined channel ##programming
+[07:19.43] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) Quit (Remote host closed the connection)
+[07:19.52] <txdv> libgtk-3-dev why does that package have a - between gtk and 3
+[07:19.57] <txdv> seriously deb maintainer
+[07:20.11] <myrl> I don't know what's happening
+[07:20.24] <txdv> I would punch you in the face if you weren't such a scarce resource
+[07:20.28] <myrl> But even when compiling, it still remains less than or equal to a GB.
+[07:20.33] * Gore (~Alex@tenatena.static.otenet.gr) Quit (Read error: Connection reset by peer)
+[07:21.33] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[07:22.12] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) has joined channel ##programming
+[07:22.48] <myrl> pyon: Overall, it's fun though.
+[07:22.54] * SZero (~SZ@131.204.254.73) Quit (Changing host)
+[07:22.54] * SZero (~SZ@unaffiliated/szero) has joined channel ##programming
+[07:24.05] <txdv> Ubuntu Developers maintain a lot of C# packages on ubutu
+[07:24.27] <pyon> Why? :-O
+[07:24.39] <pyon> Is C# that popular amongst free software developers?
+[07:24.45] <txdv> no not really
+[07:24.51] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[07:25.10] <txdv> they all believe it is a giant trojan horse
+[07:25.18] <txdv> so microsoft can thrust its mighty dick in every gnu lover out there
+[07:25.19] * cougarten (~q@46.115.182.253) has joined channel ##programming
+[07:25.25] <pyon> lmao
+[07:25.35] * Click66 (~Click66@94.143.188.0) Quit (Ping timeout: 246 seconds)
+[07:25.50] <txdv> but microsoft open sourced .net
+[07:25.54] <txdv> under mit
+[07:26.05] <txdv> and put a txt file in there that they SWEAR NOT SUE
+[07:26.18] * kaushal (~kaushal@111.93.155.244) Quit (Read error: Connection reset by peer)
+[07:26.18] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[07:26.30] <txdv> i dont know if they pinky sweared
+[07:26.32] * kaushal (~kaushal@111.93.155.244) has joined channel ##programming
+[07:27.09] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) Quit (Remote host closed the connection)
+[07:27.17] * nb-ben is now known as BuildingAtable
+[07:27.33] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 255 seconds)
+[07:28.19] * ArtooDetoo (~flo@eduroam-68-146.uni-paderborn.de) has joined channel ##programming
+[07:29.24] * Tony_ (5221f542@gateway/web/freenode/ip.82.33.245.66) has joined channel ##programming
+[07:29.36] * ghostpl_ (~ghostpl@public-gprs515240.centertel.pl) has joined channel ##programming
+[07:29.41] * Serpentine_ (~chatzilla@175.156.125.140) has joined channel ##programming
+[07:30.44] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 252 seconds)
+[07:31.18] <rindolf> BuildingAtable: hi.
+[07:32.08] <BuildingAtable> hi rindolf, how are you?
+[07:32.29] <rindolf> BuildingAtable: I'm fine - going to investigate some VLC issues.
+[07:32.52] <BuildingAtable> rindolf: ah, what's wrong with it?
+[07:33.11] * myrl is now known as Myrl
+[07:33.30] <rindolf> BuildingAtable: and I solved this Project Euler problem - it was easier than it seemed - ＋＋https://projecteuler.net/problem=197，，
+[07:34.00] <txdv> rindolf: are you coding on vlc?
+[07:34.01] * vgdb (~vgdb@73.195.171.87) Quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+[07:34.06] <rindolf> txdv: what?
+[07:34.10] * unknwn- (~unknwn-@217.21.43.95) Quit (Remote host closed the connection)
+[07:34.22] <txdv> you said you are going to investigate some VLC issues
+[07:34.24] <rindolf> BuildingAtable: well, with vlc-2.2 which is new in Mageia cauldron I ran into several problems.
+[07:34.29] <rpr>  
+[07:34.50] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[07:34.58] <rindolf> BuildingAtable: the first one is that in the playlist single click triggers a "play" instead of just a select.
+[07:35.43] <rindolf> BuildingAtable: the second one is that sometimes when a video starts playing, it moves the active virtual desktop to it.
+[07:35.49] * leetplayah (~leetplaya@dhcp-22-124.stud.cs.uit.no) Quit (Remote host closed the connection)
+[07:35.51] <rindolf> BuildingAtable: and I forgot what the third is now.
+[07:36.23] <rindolf> txdv: well, I'm cloning the code to investigate and see where the problem lies.
+[07:36.43] <rindolf> txdv: "Use the source, Luke!" ;-)
+[07:37.22] <BuildingAtable> it's so nice when you gain reputation passively on stackoverflow
+[07:37.25] <txdv> what exactly are you going to investigate
+[07:37.44] <BuildingAtable> it feels like your answers are doing something
+[07:38.05] <txdv> BuildingAtable: how many stackoverflow do you have?
+[07:38.12] <BuildingAtable> only 2.4k
+[07:38.14] <txdv> rindolf: I always wanted to investigate why vlc takes ages to load
+[07:38.25] <BuildingAtable> I didn't make many answers though
+[08:15.00] *** Server disconnected on irc.freenode.net

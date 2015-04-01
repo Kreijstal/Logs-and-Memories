@@ -1,0 +1,919 @@
+Session Start: Mon Mar 02 12:00:31 2015
+Session Ident: ##programming
+[12:00.31] * zcheng3 (~zcheng3@S0106b0487a73c6a9.ed.shawcable.net) Quit (Ping timeout: 250 seconds)
+[12:02.09] <rangergord> We can compromise here. Let's call those cartoons "art". Like, in quotes.
+[12:02.14] <[boxed-pyon]> Lady_Aleena: Most of them are 100% about the fan service, 0% about the art.
+[12:02.20] <Lady_Aleena> The only cartoons I find watchable these days is those done by Bluth.
+[12:02.24] <[boxed-pyon]> (And those are precisely the ones that I like.)
+[12:02.25] * rretzbach (~rretzbach@x2f15c46.dyn.telefonica.de) Quit (Ping timeout: 244 seconds)
+[12:02.33] * jeaye has never owned a TV.
+[12:02.52] <jeaye> Nor would I watch cartoons via any other medium.
+[12:03.10] * nitrxgen ^5 jeaye
+[12:03.25] <Snake2k> HUMANS AND OTHER WEIRD THINGS!
+[12:03.26] <Snake2k> hi...
+[12:03.27] <[boxed-pyon]> Dammit, crashing Firefox is so easy.
+[12:03.36] * Snake2k hugs everyone, except for nitrxgen and Lady_Aleena 
+[12:03.37] <nitrxgen> hai Snaek2k
+[12:03.37] * rretzbach (~rretzbach@x2f158fa.dyn.telefonica.de) has joined channel ##programming
+[12:03.43] <nitrxgen> aw shi
+[12:03.46] <DarkElement> Hai snake2k
+[12:03.48] <DarkElement> haha
+[12:03.48] <[boxed-pyon]> Hello, Snake2k.
+[12:04.01] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[12:04.05] <Snake2k> for people in people_who_said_hi:
+[12:04.08] <Snake2k>     sup(people)
+[12:04.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[12:04.16] <DarkElement> Like the python
+[12:04.26] <Snake2k> DarkElement: :D
+[12:04.35] <Snake2k> DarkElement: Snakes speak like this in their own language...
+[12:04.41] <Snake2k> DarkElement: Guido Van Rossum was a snake too...
+[12:05.02] <nitrxgen> hssssss ssss sssssss
+[12:05.06] <DarkElement> ssssssss
+[12:05.08] * jeaye sets ##programming mode -python
+[12:05.13] <Snake2k> [boxed-pyon]: That is a clever version of pyon :|
+[12:05.16] <delta-nry> Harry Potter can speak Python too
+[12:05.21] <Snake2k> nitrxgen: ssssssssSsssSssSSSSssss
+[12:05.23] <DarkElement> Tis true
+[12:05.24] <[boxed-pyon]> Snake2k: No, just boxed.
+[12:05.30] <DarkElement> They didn't like python in hogwarts
+[12:05.31] <Snake2k> delta-nry: THAT IS A LIE MADE BY THE MEDIA!
+[12:05.37] <Snake2k> delta-nry: HE SPEAKS *pukes* JAVA!
+[12:05.40] <Snake2k> delta-nry: ...
+[12:05.43] <DarkElement> OH GOD
+[12:05.47] <[boxed-pyon]> Snake2k: Boxed pyon has the same representation as everything else: hidden behind a pointer.
+[12:05.48] <DarkElement> WHAT
+[12:05.56] <delta-nry> He prefers list comprehensions over first-class functions
+[12:06.05] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##programming
+[12:06.22] <Snake2k> [boxed-pyon]: Math wizard...
+[12:06.28] <DarkElement> LOL
+[12:06.29] <Snake2k> DarkElement: Yus... Potter is evil!!!
+[12:06.32] <[boxed-pyon]> Snake2k: But this has nothing to do with math!
+[12:06.34] * sadale_ (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[12:06.40] * froboy (froboy@128.54.205.13) has joined channel ##programming
+[12:06.41] <DarkElement> So does this mean
+[12:06.47] <delta-nry> he is the Javatar
+[12:06.50] <DarkElement> That Voldemort used python and was thus the good guy
+[12:06.50] <Snake2k> [boxed-pyon]: The fact that you identified that makes you even more of a... Math Wizard...
+[12:06.53] <Snake2k> delta-nry: Lmao hahaha
+[12:06.59] <Snake2k> DarkElement: Exactly... Darn media...
+[12:07.04] * Sadale (~Sadale@unaffiliated/sadale) Quit (Disconnected by services)
+[12:07.05] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) Quit (Read error: Connection reset by peer)
+[12:07.06] <DarkElement> Fucking media
+[12:07.08] * sadale_ is now known as Sadale
+[12:07.10] <Snake2k> DarkElement: He was fighting for the rights of all agile wizards...
+[12:07.21] <[boxed-pyon]> DarkElement: Voldemort just has bad PR.
+[12:07.41] <Snake2k> [boxed-pyon]++
+[12:07.42] <DarkElement> Yea true story
+[12:08.37] * Lingo (~Lingo@2601:7:9e00:2ca:c152:f8dd:c9a5:8154) Quit (Quit: (null))
+[12:08.38] <delta-nry> Surely you’ve all heard the story of the great battle between wizards, rock stars and ninjas
+[12:08.49] <delta-nry> the gurus of course, did not partcipate
+[12:08.55] <DarkElement> Ragnarok?
+[12:09.01] * Lymia (~lymia@inportb/loli/cirno-chan) Quit (Ping timeout: 250 seconds)
+[12:09.12] <[boxed-pyon]> Speaking about bad PR... A while ago, they found crockoaches in a restaurant, and instead of apologizing, the manager said it was probably something the customer deliberately did to give them bad PR. Then some "communication expert" came in and said this was "primarily a PR/communication problem".
+[12:09.18] <[boxed-pyon]> s/about/of/
+[12:09.34] <DarkElement> People blaming people
+[12:09.38] <Snake2k> delta-nry: Nope >___>
+[12:09.49] <Snake2k> DarkElement: Snakes never blame snakes... Snakes > People
+[12:09.52] <Snake2k> DarkElement: Wanna join us?
+[12:09.56] <Snake2k> DarkElement: One of us... One of us...
+[12:09.59] <[boxed-pyon]> I mean, dafuq, how is any amount of communication make contaminated food any more edible?
+[12:10.12] <DarkElement> Snake2k: I like your ideals.
+[12:10.15] <[boxed-pyon]> going* to* make
+[12:10.21] <DarkElement> Snake2k: How does one join the snakes?
+[12:10.23] <Snake2k> [boxed-pyon]: Lmao wtf?
+[12:10.50] <[boxed-pyon]> Yep, that was exactly my reaction.
+[12:10.53] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##programming
+[12:10.54] <[boxed-pyon]> "wtf?"
+[12:11.07] * Lymia (~lymia@inportb/loli/cirno-chan) has joined channel ##programming
+[12:11.09] <Snake2k> DarkElement: You just have to let me devour your soul, then Snake2k += DarkElement # Still Snake2k ... around Snake2008... Snake2k...
+[12:11.11] <delta-nry> [boxed-pyon]: multiple levels of indirection leave the client hanging
+[12:11.35] <DarkElement> O_O
+[12:11.44] <DarkElement> Still like the python
+[12:11.44] * Snake2k starts hugging DarkElement 
+[12:11.47] <DarkElement> Guess it makes sense
+[12:11.51] <DarkElement> NO WAIT
+[12:11.55] <[boxed-pyon]> delta-nry: lol
+[12:11.57] <DarkElement> Calm down there
+[12:11.58] * Snake2k backs off of DarkElement 
+[12:12.00] <Snake2k> >_>
+[12:12.11] <DarkElement> I'm not ready to be devoured by Snake2k yet, sorry
+[12:12.21] <Snake2k> DarkElement: y u do dis? i cri evryteim :'(
+[12:12.26] * kermit (unknown@pdpc/supporter/bronze/kermit) Quit (Quit: Leaving.)
+[12:12.30] <fugue2> you guys should be
+[12:12.32] <DarkElement> lik dis if u cri evertim
+[12:12.34] <fugue2> PROGRAMMING
+[12:12.41] <Snake2k> fugue2: I agree :|
+[12:12.43] <DarkElement> fugue2: I'm finished for the day m8
+[12:12.54] <[boxed-pyon]> fugue2: No, programming is too boring.
+[12:12.55] * Snake2k likz it
+[12:12.59] * kermit (unknown@pdpc/supporter/bronze/kermit) has joined channel ##programming
+[12:13.02] <[boxed-pyon]> fugue2: Also, too hard.
+[12:13.10] * thumpba (~thumpba@38.104.231.214) has joined channel ##programming
+[12:13.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[12:13.32] <RustyShackleford> how does streaming video work?
+[12:13.36] * pretodor (~pretodor@113.162.115.33) has joined channel ##programming
+[12:13.36] <RustyShackleford> can you stream from a link to the file you want to view? or does the server have to work harder somehow, breaking the video into "chunks"
+[12:13.40] <fugue2> Well then, do you remember a time when it was fun for you?
+[12:13.48] <DarkElement> Snake2k, perhaps I will accept your offer one day, until then, good night friends!
+[12:14.10] <Snake2k> DarkElement: Good night, young soon-to-be part of Snake2k... :}
+[12:14.21] <DarkElement> ;) lol
+[12:14.25] * DarkElement (~DarkEleme@108-192-150-52.lightspeed.gnvlsc.sbcglobal.net) Quit ()
+[12:14.37] <fugue2> programming is the creating of universes with impunity
+[12:15.10] * DolpheenDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[12:15.16] * astropirate (~astropira@c-73-203-60-11.hsd1.co.comcast.net) has joined channel ##programming
+[12:15.17] <fugue2> you must remember that, never forget that the power is within you to remake the universe as you see fit
+[12:15.41] * [boxed-pyon] prefers to view programming as a logical activity, rather than storytelling and world-building (in the literary sense).
+[12:15.54] * thryckz (~thryckz@pool-74-109-12-54.phlapa.fios.verizon.net) has joined channel ##programming
+[12:16.58] * arescorpio (~arescorpi@76-243-16-190.fibertel.com.ar) Quit (Excess Flood)
+[12:17.13] <rangergord> any of you experienced in Linux/networking? I got one Linux machine where if I connect to it remotely and issue a reboot command, I immediately get "Connection closed by remote host". On another, it takes a full minute to get that. It's actually faster to close the terminal window, open it again, and connect back, than it is to wait for detection of connection loss. What option can I set on the 2nd host to make it beha
+[12:17.14] <rangergord> ve like the 1st?
+[12:17.16] <sir_galahad_ad_> also i think fugue might be underestimating the shear size of the universe
+[12:17.33] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 252 seconds)
+[12:17.51] <fugue2> the logical activity part are the invocation of the spells you use to conjure the spirits of the computer
+[12:18.10] * mike802 (~IceChat9@pool-70-109-154-113.cncdnh.east.myfairpoint.net) Quit (Quit: On the other hand, you have different fingers.)
+[12:19.10] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Read error: Connection reset by peer)
+[12:20.17] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[12:20.40] <fugue2> holy crap I killed all talkings in the channel
+[12:21.00] <rangergord> RustyShackleford: you can definitely stream by file chunks, because video files tend to put the frame index at the beginning. ever opened a video off a network drive? It opens immediately, without downloading the whole file first.
+[12:21.16] * tmh1999 (~tmh1999@118.70.183.54) Quit (Quit: Leaving)
+[12:21.17] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) has joined channel ##programming
+[12:21.35] * astropirate (~astropira@c-73-203-60-11.hsd1.co.comcast.net) Quit (Changing host)
+[12:21.35] * astropirate (~astropira@unaffiliated/astropirate) has joined channel ##programming
+[12:21.39] <rangergord> but I also think streaming servers are a lot more sophisticated than doing basic file IO like in my example
+[12:22.31] <RustyShackleford> i'm not even sure what to search. my google searches aren't giving me relevant links
+[12:22.35] * jjhurt5 (~jjhurt5@184.63.31.183) has joined channel ##programming
+[12:22.37] * sukeruke (~sukeruke@unaffiliated/sukeruke) has joined channel ##programming
+[12:22.41] * thryckz (~thryckz@pool-74-109-12-54.phlapa.fios.verizon.net) Quit (Quit: Lost terminal)
+[12:23.00] <rangergord> there's probably FOSS media servers you can look at
+[12:23.04] <RustyShackleford> the idea here would be streaming to a chromecast device, which seems extremely similar to streaming to a web browswer
+[12:23.33] <sukeruke> hi i am not a programmer but i would like some help
+[12:23.35] <RustyShackleford> yeah if I can use something that already exists, thats less work for me to do
+[12:23.38] <woggle> rangergord: I'd guess the "well-behaved" reboot is SIGTERM/KILL'ing your shell and waiting a bit before actually rebooting...
+[12:23.48] <RustyShackleford> i'd also want a way to browse the media available on the server
+[12:24.09] <sukeruke> i think i am victim of a man in the middle what should i do to fix this?
+[12:24.22] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[12:24.40] <sukeruke> cause i cant visit any major site including youtube and facebook
+[12:24.48] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 245 seconds)
+[12:24.52] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##programming
+[12:25.17] * fugue2 (~fugue@gbc1124332.lnk.telstra.net) Quit (Quit: leaving)
+[12:25.19] <woggle> RustyShackleford: You can just send the video file. Everything more than that is just optimizations/dealing with failures.
+[12:25.59] <woggle> RustyShackleford: (Almost all video+audio formats are designed to be read in order, so...)
+[12:26.34] <rangergord> RustyShackleford: seems like this is the protocol: ＋＋https://developers.google.com/cast/，，
+[12:28.31] * nda_ (~nda_@68.216.16.62.customer.cdi.no) Quit (Ping timeout: 250 seconds)
+[12:28.40] <GeneralVagueness> different video formats have different ways of arranging the data internally so ideally you'd want a protocol and format that work well together, so you're not always waiting on another packet to finish a frame or whatever
+[12:29.03] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) Quit (Quit: Exiting Program)
+[12:29.39] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) has joined channel ##programming
+[12:30.19] <GeneralVagueness> but then that's where variable packet sizes come in too, streaming is the major use of oversized packets IIRC
+[12:30.20] * sukeruke (~sukeruke@unaffiliated/sukeruke) has left ##programming (("Leaving"))
+[12:31.25] <GeneralVagueness> it still makes me smile there's official(?) documentation referring to them as jumbograms
+[12:32.23] <rangergord> woggle: thanks. I don't see any differences in the init scripts...both launch telnetd in /etc/inittab, and don't mention shutdown. I'll add a "kill telnetd" there and see if that fixes it.
+[12:32.51] * froboy (froboy@128.54.205.13) Quit (Ping timeout: 250 seconds)
+[12:32.52] <woggle> You're running telnetd?????
+[12:33.04] <rangergord> woggle: it's an embedded device :P
+[12:33.25] <woggle> dropbear....
+[12:33.46] * GeneralVagueness telnets into woggle's microwave
+[12:34.35] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:34.56] <rangergord> I'll give that a shot when I got time
+[12:35.01] <RustyShackleford> rangergord: yeah i've read the chromecast docs a few time. I suppose reading them again can't hurt, but i'm rather confused
+[12:35.16] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[12:35.44] <woggle> I'm slightly surprised there's not some nice "browser-controlled-VLC-with-browser-output" hack that's obviously findable.
+[12:35.51] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) Quit (Quit: Leaving)
+[12:35.57] * tarkus (~hello@109.230.140.12) has joined channel ##programming
+[12:36.15] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Read error: Connection reset by peer)
+[12:36.22] * astropirate (~astropira@unaffiliated/astropirate) Quit (Quit: This computer has gone to sleep)
+[12:36.29] <rangergord> speaking of VLC, what's that I heard about a holy war between VLC and ffmpeg's teams? I didn't bother looking it up
+[12:36.36] * Pritchard (~Pritchard@unaffiliated/pritchard) has joined channel ##programming
+[12:37.16] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) has joined channel ##programming
+[12:37.29] <rangergord> who're the good guys?
+[12:38.52] * _charles_ (~Charlie@c-98-210-137-183.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)
+[12:40.00] * _charles_ (~Charlie@c-98-210-137-183.hsd1.ca.comcast.net) has joined channel ##programming
+[12:40.33] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Quit: Leaving)
+[12:44.25] * Cloud (~beclaudio@host82-139-dynamic.20-79-r.retail.telecomitalia.it) has joined channel ##programming
+[12:44.30] * Audioburn (~not_mike@unaffiliated/not-mike/x-4399907) has joined channel ##programming
+[12:45.00] <Cloud> hi
+[12:45.58] <Cloud> somebody could help me in bluefish settings?
+[12:46.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[12:46.14] * Scruffyfurn (~scruffyfu@CPE84948c585bc1-CM84948c585bc0.cpe.net.cable.rogers.com) has joined channel ##programming
+[12:46.22] <_charles_> fuck, i need to tweak some bluefish too!
+[12:46.24] <_charles_> wtf bro!
+[12:47.49] * xff0x (~xff0x@178.124.178.111) Quit (Ping timeout: 252 seconds)
+[12:47.54] <Cloud> i can't open the project on the browser and i dont'know how i can fix it
+[12:47.55] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) has joined channel ##programming
+[12:48.28] <rindolf> Hi all! Happy Manic Monday. What's up?
+[12:49.58] * Technodrome (~heythere@unaffiliated/technodrome) Quit (Quit: Technodrome)
+[12:50.16] * grill (~W@unaffiliated/floatingpoint) Quit (Ping timeout: 245 seconds)
+[12:51.24] * xxxvii (~lowcut_37@49.144.93.103) has joined channel ##programming
+[12:51.24] <Cloud> anyone can help me?
+[12:52.11] <TimeOtter> 50/50 chance
+[12:52.12] <rangergord> Cloud: I can't, but you could pick something more popular/better documented, like Webstorm, and find help for that
+[12:53.22] * Scruffyfurn (~scruffyfu@CPE84948c585bc1-CM84948c585bc0.cpe.net.cable.rogers.com) Quit (Ping timeout: 264 seconds)
+[12:53.41] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[12:54.03] <rindolf> Cloud: with what?
+[12:54.31] <Cloud> ok thanks
+[12:55.08] * Sadale (~Sadale@unaffiliated/sadale) Quit (Quit: Leaving)
+[12:55.10] * chaintheory (~kaita9999@123.21.98.232) Quit (Ping timeout: 264 seconds)
+[12:55.13] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[12:55.31] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##programming
+[12:56.51] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) Quit (Quit: Page closed)
+[12:57.25] * GeneralVagueness (~General@2601:4:1780:677:254d:ac70:76ed:a8de) Quit (Quit: Pong timeout)
+[12:57.27] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) has joined channel ##programming
+[12:57.37] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) Quit (Quit: amigojapan)
+[12:58.04] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) Quit (Remote host closed the connection)
+[12:59.00] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) has joined channel ##programming
+[12:59.54] <Cloud> I can not solve a problem with bluefish ...
+[12:59.54] <Cloud> when I open the project on the web browser opens only prowser and not the project with the correct path, I know that maybe it's a stupid but I can not find the correct setting
+[01:00.50] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[01:00.56] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:01.00] * armyriad (~armyriad@198.144.158.13) has joined channel ##programming
+[01:02.30] * Seacow (~Seacow@unaffiliated/seacow) Quit (Ping timeout: 272 seconds)
+[01:02.58] * Shogun (~quassel@23-29-5-150.netptc.net) has joined channel ##programming
+[01:03.07] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) Quit (Client Quit)
+[01:03.50] * pawelA (~pawelA__@i5E87CC9D.versanet.de) has joined channel ##programming
+[01:04.19] <rindolf> Cloud: can you open the browser to that location manually?
+[01:04.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 246 seconds)
+[01:04.59] <[boxed-pyon]> rangergord: "holy war (...) VLC and ffmpeg (...) who're the good guys?" --> mpv, obviously
+[01:05.15] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[01:05.52] <Cloud> yes
+[01:06.12] <Cloud> the browser is ok
+[01:07.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[01:07.32] * Scruffyfurn (~scruffyfu@192.241.157.171) has joined channel ##programming
+[01:07.45] <rindolf> Cloud: OK.
+[01:07.45] <Cloud> when i click the browser icon into bluefish navbar it open a new window of browser without the project
+[01:07.58] <rindolf> Cloud: can you open a browser to the project view?
+[01:08.38] <horny-sama> finally one of the books in my collection mention something about java reflective
+[01:09.40] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[01:09.42] * millerti (~millerti@cpe-67-252-68-24.stny.res.rr.com) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:12.54] <[boxed-pyon]> Has it ever happened to anyone here that you had a great idea, then you read the state of the art (prior work), and it turns out that the very same good idea was invented not too long ago? (In my case, two and a half years ago.)
+[01:13.09] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[01:13.59] <rindolf> [boxed-pyon]: well, I discovered some people had thought of some of my ideas before I materialised them.
+[01:14.14] * vdamewood (~vdamewood@75-164-231-233.ptld.qwest.net) has joined channel ##programming
+[01:14.24] <[boxed-pyon]> Well, in this case, the ideas are far from materialized anywhere.
+[01:14.46] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[01:14.57] * Krixvar (~quassel@cpe-69-207-88-145.rochester.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:15.26] <[boxed-pyon]> But I'm reading some slides and papers... and this is totally the same thing I was thinking about, like, less than two months ago. (Roughly around New Year.)
+[01:15.27] <rindolf> Cloud: let's talk on the channel.
+[01:15.31] <vdamewood> Hi, people, etc.
+[01:15.37] <[boxed-pyon]> vdamewood: Hello.
+[01:15.51] * zzxx (4492d54d@gateway/web/freenode/ip.68.146.213.77) has joined channel ##programming
+[01:15.58] <rindolf> vdamewood: hi.
+[01:16.03] <zzxx> hello.
+[01:16.11] <rindolf> zzxx: hi, sup?
+[01:16.20] <rindolf> vdamewood: what's new?
+[01:16.46] <vdamewood> rindolf: I recently watched a Korean drama and now I'm hooked.
+[01:16.47] * Cloud (~beclaudio@host82-139-dynamic.20-79-r.retail.telecomitalia.it) Quit (Quit: Leaving)
+[01:17.13] * Tutator (~The@29.103.70.115.static.exetel.com.au) has joined channel ##programming
+[01:17.45] * _slade_ (~Slade@fq-130-49-38-183.wireless.pitt.edu) Quit (Ping timeout: 256 seconds)
+[01:18.05] <rindolf> vdamewood: ah.
+[01:18.35] <zzxx> What does it mean if a project is released under GPLv3, but also has copyright notices on it? I found an open source project on github, and fixed some of the bugs in the issue tracker, but now i see that the code has (c) 2011-2014 Persons Name on it everywere
+[01:18.54] <zzxx> I am keen to release my patches to the project
+[01:18.56] <rangergord> zzxx: that person still owns the code, they just allow you to use if if you abide by the GPL3
+[01:19.22] <zzxx> so if i send in my patches does he take ownership of my code?
+[01:19.25] <rangergord> it depends on the project's contribution rules whether you retain copyright on your own patches
+[01:19.29] <rangergord> read your mind
+[01:19.44] <rangergord> some projects require transfer of ownership to accept your patches, other allow you to keep your copyright
+[01:19.59] <zzxx> Ok gotcha
+[01:20.06] <vdamewood> In general, unless there's some contract assigning then the rights, you keep them.
+[01:20.53] <zzxx> The point of these rights is to permit releaseing code under other licenses in the future in addition to GPL3?
+[01:21.05] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[01:21.40] * Technodrome (~heythere@unaffiliated/technodrome) has joined channel ##programming
+[01:21.42] <rangergord> that, and being able to sue the people who violate the GPL agreement (ie code thiefs)
+[01:22.01] <zzxx> rangergord: ok great. thanks.
+[01:22.56] <rangergord> for example a single VLC developer is responsible for taking an unofficial VLC build off the iOS Appstore. Apple does not allow LGPL software (indirectly), which violates VLC's license. Although most devs didn't care, one dev who holds copyright on his own contribs to VLC, got it taken down
+[01:23.55] <vdamewood> zzxx: Also note that your contribute to a project, and you keep the rights, they are now using *your* code under the GPL.
+[01:24.12] * xff0x (~xff0x@86.57.158.78) has joined channel ##programming
+[01:24.17] <[boxed-pyon]> Say someone submits patch Foo a patch to project Bar. Foo is MIT-licensed *to Bar's developers specifically*. Bar itself is GPL3-licensed. Aren't Bar's developers allowed to redistribute Foo under the GPL3?
+[01:24.27] <[boxed-pyon]> s/a patch//
+[01:24.29] <vdamewood> Also, if they want to change the project license, they have to ask your permission or remove your contributions.
+[01:24.53] * DolpheenDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Quit: DolpheenDream)
+[01:24.55] <rangergord> [boxed-pyon]: yeah, GPL3 projects can use MIT code
+[01:25.40] <vdamewood> [boxed-pyon], what do you mean by 'to bar's developers specifically'? Is there a clause that says only bar's developers have the license, or are they just the only ones who have a copy with the MIT-license stamped on it?
+[01:25.43] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 250 seconds)
+[01:26.09] <rangergord> but that part of the code wouldn't be GPL-licensed, the GPL still only applies to the parts of the Bar project that were released under GPL
+[01:26.13] <[boxed-pyon]> rangergord: My point is a little bit more subtle. Say Qux, an evil(tm) proprietary software developer wants to use the code in Foo (but not the rest of Bar). Can Bar's developers prevent this, arguing that Bar themselves are redistributing Foo under the GPL3?
+[01:26.31] <rangergord> not at all...Foo is MIT, and it will forever remain that way.
+[01:27.15] <rangergord> so Qux can use Foo all he wants...the Foo code is MIT.
+[01:27.23] <horny-sama> what language is best for writing virus?
+[01:27.37] <rangergord> horny-sama: batch
+[01:27.54] <rangergord> I learned more about GPL than I care for, from reading Slashdot a long time ago
+[01:28.00] <horny-sama> not os depend
+[01:28.16] <vdamewood> horny-sama: If you want to write a virus, it must be OS dependent.
+[01:28.26] <rangergord> did you know the easiest way to bypass the GPL is to wrap the code in a daemon and access it over pipes/sockets?
+[01:28.40] <[boxed-pyon]> :-O
+[01:28.41] <horny-sama> vdamewood:  good point
+[01:28.46] * zoso (~arvind@unaffiliated/arvind-khadri/x-2237230) has joined channel ##programming
+[01:28.47] <horny-sama> my target is linux machine
+[01:28.48] <horny-sama> :P
+[01:29.03] <rindolf> horny-sama: a virus or a worm?
+[01:29.05] * korg (~korggrodn@mail.ramtex.by) has joined channel ##programming
+[01:29.16] <[boxed-pyon]> rangergord: The AGPL prevents this (and other) form(s) of circumvention, right?
+[01:29.17] <rangergord> actually, GPLv3 closes that loophole I think...
+[01:29.29] <horny-sama> rindolf: virus not a fan of worm preferably spyware
+[01:29.29] <horny-sama> :P
+[01:29.31] <rangergord> yeah, AGPL is aimed at that I think
+[01:29.34] <vdamewood> rangergord: No. It doesn't, but the AGPL does.
+[01:29.36] <rindolf> rangergord: it does?
+[01:29.56] <rindolf> [boxed-pyon]: AGPL still allows for proprietary clients.
+[01:30.07] <vdamewood> rangergord: Also, the FSF themselves (citation needed), say that if you implement a plugin by forking a process and using IPC, then the GPL doesn't apply there either.
+[01:30.08] <rangergord> ＋＋http://en.wikipedia.org/wiki/Tivoization，，  In 2006, Free Software Foundation (FSF) decided to combat TiVo's technical system of blocking users from running modified software. As the FSF was developing a new version of the GNU General Public License (GPL v3), it included language that prohibited this activity
+[01:30.16] * kggr (~korggrodn@mail.ramtex.by) Quit (Ping timeout: 265 seconds)
+[01:30.20] <[boxed-pyon]> rindolf: The AGPL is already pushing the boundaries of practicality.
+[01:30.54] <[boxed-pyon]> rindolf: I don't think a license that prevents you from using, say, Internet Explorer to use a Web application, is going to be terribly useful.
+[01:31.09] <[boxed-pyon]> (As awful as Internet Explorer may be as a browser.)
+[01:31.29] <vdamewood> Actually, This information is right, the AGPL still doesn't fix the socket boundary.
+[01:31.39] <[boxed-pyon]> Oh.
+[01:32.01] <vdamewood> The only additional requirement of the AGPL over the GPL is that if there's a download link for the source, your modified version has to have it too.
+[01:32.39] <[boxed-pyon]> :-O
+[01:32.54] * pawelA (~pawelA__@i5E87CC9D.versanet.de) Quit (Ping timeout: 272 seconds)
+[01:33.31] * Lady_Aleena flops on the sofa.
+[01:33.46] <vdamewood> So, at any rate, all you would need to do is to conform is release the source of the entire daemon.
+[01:35.00] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[01:35.03] * Manny (~quassel@14.139.122.114) has joined channel ##programming
+[01:35.08] <vdamewood> I remember telling a friend of mine that if he wanted to use MySQL (before Oracle bought Sun), the server is GPL, but that wouldn't affect his code. What does affect the licensing of his code is the licensing of the client library.
+[01:35.54] <rangergord> MySQL/Oracle is pretty tricky...like if you wanna sell a machine with MySQL pre-installed on it, they try to screw you. I don't see how that violates GPL, but they claim you gotta pay.
+[01:36.01] * pimlu (~pimlu@128.172.35.12) Quit (Ping timeout: 246 seconds)
+[01:36.05] <zzxx> So is it normal to have patches that look like this? ＋＋http://pastie.org/9993005，， - in regards to the attribution at the top. Certainly the original code accounts for the lions share of the code base, but it still seems wierd having my code being attributed to someone else, yet it also seems funny to have an attribution to myself just for the ~20 lines I am adding to the project
+[01:37.35] <vdamewood> It's requirement of the GPL to add a statement saying who modified the source, and what date, when making modifications to GPL'd code.
+[01:38.07] <rangergord> vdamewood: is that true? wouldn't the Linux kernel code be 50% contributor info in that case?
+[01:38.17] <zzxx> vdamewood: ah, ok, so that sould generally go in the comments at the top?
+[01:38.19] <rangergord> oh, it can be separate?
+[01:38.23] <Snake2k> BLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLAAAAHHH
+[01:38.24] * absk007 (~absk007@unaffiliated/absk007) has joined channel ##programming
+[01:38.28] <vdamewood> zzxx: So, for example, when I edited a GPL'd project a while back, I added a line, just after the license statement, saying "This file was modified by Vincent Damewood 2015-01-04."
+[01:38.41] <zzxx> perfect, thanks!
+[01:38.42] <rangergord> vdamewood: is that your real name?
+[01:38.43] * Scruffyfurn (~scruffyfu@192.241.157.171) Quit (Remote host closed the connection)
+[01:38.57] <rindolf> Snake2k: meow!
+[01:38.58] <vdamewood> rangergord: Yes.
+[01:39.01] <rindolf> Snake2k: sup?
+[01:39.03] <Snake2k> rindolf: <_<
+[01:39.07] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) Quit (Read error: No route to host)
+[01:39.08] <Snake2k> rindolf: Just chillin, you?
+[01:39.09] * pimlu (~pimlu@128.172.35.12) has joined channel ##programming
+[01:39.18] <rindolf> Snake2k: I've handled the morning's emails.
+[01:39.24] <rangergord> vdamewood: with all the wackos on the internet, don't you worry about using your real name?
+[01:39.44] <zzxx> rangergord: what is this? 1999? haha
+[01:39.56] <vdamewood> rangergord: Lots of people use their real names on the Internet these days.
+[01:40.05] * Lady_Aleena (~L_Aleena@unaffiliated/lady-aleena) has left ##programming (("Leaving"))
+[01:40.07] <zzxx> nobody cares enough about strangers on the internet to track them down
+[01:40.16] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) has joined channel ##programming
+[01:40.17] <zzxx> they never really did in the first place either
+[01:40.27] <zzxx> it was all media scare-mongering
+[01:40.37] <rangergord> zzxx: what about all those women that discussed gender roles in games? lots of death and rape threats.
+[01:41.02] * prof_milki_ (~mario@ipb21952db.dynamic.kabel-deutschland.de) Quit (Ping timeout: 255 seconds)
+[01:41.09] <zzxx> ok, well my last comment is a generalization for sure
+[01:41.27] <zzxx> and there cases where it is prudent to be careful, but generally its quite safe
+[01:41.34] <Richdog> just don't do things to make people want to track you down and threaten you and whatnot
+[01:41.36] <vdamewood> Also, there are several people who post pseudonymously because their government would track them down and arrest them for bogus charges if they used their real name.
+[01:41.46] <Richdog> and if you plan on doing said things you probably shouldn;t use your real name
+[01:42.17] <rangergord> this guy: ＋＋https://www.youtube.com/watch?v=jYPC-YMdJFI，，
+[01:42.39] <vdamewood> zzxx: If you don't want people to counter what you say with a single, disproving anecdote, don't use words like 'never'.
+[01:43.05] <rangergord> the guy in that video, you think he's mentally stable enough to rationally think things through before he hunts you down?
+[01:43.51] <vdamewood> Besides, on some level, I'm hoping that certain people, with money, will track me down and offer me a job.
+[01:43.53] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[01:44.00] * thumpba (~thumpba@38.104.231.214) has joined channel ##programming
+[01:44.02] * pereba (~pereba@unaffiliated/pereba) Quit (Quit: (._. ) ( ._.) ( '-') ('-' ) Are you using AdiIRC? [＋＋www.adiirc.com]，，)
+[01:44.14] * death-echo (0e8bbb91@gateway/web/freenode/ip.14.139.187.145) Quit (Ping timeout: 246 seconds)
+[01:44.25] <zzxx> vdamewood: two good points
+[01:44.31] <absk007> is SDLC required?
+[01:44.38] <Richdog> rangergord: this guy is an idiot, he was street racing on ice and apparently it was his car being rigged
+[01:44.54] <rangergord> vdamewood: what's your domain?
+[01:45.13] <vdamewood> rangergord: Domain? Uhh... vdamewood.com?
+[01:45.15] <absk007> where can i learn SDLC?
+[01:45.17] <rangergord> Richdog: not idiot, crazy. The internet has given the crazies a way to communicate with the outside.
+[01:45.21] <rangergord> vdamewood: I mean area of expertise
+[01:45.30] <vdamewood> rangergord: Programming.
+[01:45.37] <rangergord> duh, programming what? :P
+[01:45.51] <vdamewood> Computers and other electronic devices.
+[01:45.59] <vdamewood> rangergord: damewood.us/personal/resume
+[01:46.35] <rangergord> see, I was gonna offer you a job, but now I wont cause you're being annoying AF
+[01:46.42] <rangergord> (kidding, I'm a lowly dev myself)
+[01:46.53] <Snake2k> rindolf: I hate emails :|
+[01:47.19] <rangergord> vdamewood: do you really know all those languages you listed?
+[01:47.30] <Tutator> That is the funniest vid I have seen in ages
+[01:47.31] <rindolf> Snake2k: OK, I don't.
+[01:47.37] * oats_ (188a2c1d@gateway/web/freenode/ip.24.138.44.29) has joined channel ##programming
+[01:47.55] <Snake2k> rindolf: Most of the emails I get are spam, weird... spam...
+[01:48.00] <rangergord> Tutator: not so funny to the chick he was driving over to argue with
+[01:48.06] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Ping timeout: 272 seconds)
+[01:48.09] <oats_> hi
+[01:48.12] <rindolf> Snake2k: why don't you use an anti-spam filter?
+[01:48.13] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 246 seconds)
+[01:48.19] <rindolf> oats_: hi, sup?
+[01:48.25] <oats_> rindolf: are you familiar with autoit
+[01:48.29] <vdamewood> My Common Lisp and Scheme are a little rusty. And I need to have the Intel/AMD developers' references to remember certain assembly language features, but for the most part, yes.
+[01:48.36] <rindolf> oats_: no, not really.
+[01:48.42] <oats_> oh
+[01:48.54] <oats_> is anyone
+[01:48.58] <rindolf> oats_: I also know it's not open source.
+[01:49.18] <vdamewood> rangergord: Other than the above, I really just need an API reference for most languages.
+[01:49.23] <oats_> do you know if it is correct to say
+[01:49.28] <oats_> autoit compiles to windows native
+[01:50.09] * tresgolem (~gnu@m87.wraith.sf.ca.us) has joined channel ##programming
+[01:50.41] * pretodor (~pretodor@113.162.115.33) Quit (Quit: Ex-Chat)
+[01:50.53] <reaga> im a rare type of programmer
+[01:50.56] <reaga> ive come to realise that
+[01:50.58] <rangergord> vdamewood: but the API/standard library is the biggest part of learning a language, considering how much we rely on reuse. The syntax can be picked up in less than a week.
+[01:51.01] <Snake2k> rindolf: Too lazy to set that stuff up :| I need to get my shit straight lol
+[01:51.03] <reaga> im always thinking about information
+[01:51.21] <rindolf> Snake2k: well, you're wasting time on reading spam messages.
+[01:51.23] <rangergord> syntax/core concepts of the language libraries
+[01:51.25] <reaga> i dont care about anything other than the transformation of data
+[01:51.37] <vdamewood> rangergord: For the most part, that's true.
+[01:51.40] <rindolf> Snake2k: my mother said once that the lazy man works twice as hard.
+[01:51.45] <Snake2k> rindolf: I just tick them all and delete them at once lol
+[01:51.52] <reaga> im not attached to any programming paradigm
+[01:51.57] <Snake2k> rindolf: That's heavy and true :|
+[01:52.25] <reaga> im not an object oriented programmer.
+[01:52.30] <reaga> thats what i've come to realise
+[01:53.01] <oats_> is someone good at autoit
+[01:53.02] <tresgolem> trying to print out (using C/gentoo) the M_E constant in <math.h> to its full precision. doesn't seem to print the same as the header value
+[01:53.02] <rindolf> oats_: using ＋＋https://www.autoitscript.com/autoit3/docs/intro/compiler.htm，， ?
+[01:53.12] <reaga> it's not that i don't appreciate the comfort of a objects, its that i know it results with the computer doing unnecessary stuff
+[01:53.15] <oats_> rindolf: using the compiler that comes with it
+[01:53.16] <vdamewood> tresgolem
+[01:53.18] <vdamewood> oops
+[01:53.24] <oats_> you right click your script and compile if u install auto
+[01:53.26] <oats_> it makes exe
+[01:53.30] <vdamewood> tresgolem: Does the value in the header file end with a 5?
+[01:53.39] <rindolf> tresgolem: it's a floating-point handling thing likely.
+[01:53.45] <tresgolem> vdamewood no
+[01:54.01] <vdamewood> tresgolem: Then that value can't be handled by an IEEE floating-point number.
+[01:54.01] * profess_ (~profess__@unaffiliated/csddesk) Quit (Ping timeout: 244 seconds)
+[01:54.17] <tresgolem> it seems like %2.21f doesn't print 21 digits precision
+[01:54.20] <reaga> NaN != NaN
+[01:54.22] <rindolf> tresgolem: see ＋＋http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html，，
+[01:54.34] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 246 seconds)
+[01:54.42] <tresgolem> ug or-ick-le...
+[01:55.03] <reaga> why is it that NaN != NaN?
+[01:55.06] <rindolf> oats_: well, maybe it just  wraps the script's code with the AutoIt run-time.
+[01:55.17] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Ping timeout: 252 seconds)
+[01:55.23] <oats_> oh
+[01:55.31] * tmh1999 (~tmh1999@123.24.161.203) has joined channel ##programming
+[01:55.34] <oats_> if it works on a computer without autoit installed
+[01:55.37] <oats_> is it windows native
+[01:55.40] <oats_> native
+[01:55.40] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[01:56.29] <rangergord> yeah
+[01:57.00] <amigojapan> hey guys, would tmp=weight/hight; BMI=tmp/hight;    be a valid way of calculating metric BMI? I am asking because I suck at math, and scratch does not have a pow function….
+[01:57.14] <delta-nry> reaga: because there are several non-numbers (or more precisely, because IEEE said so)
+[01:57.21] <rindolf> amigojapan: it's spelled "height" - not "hight"
+[01:57.33] <reaga> why did IEEE say so
+[01:57.34] <amigojapan> ok rindolf is the math correct?
+[01:57.46] <tresgolem> btw I'm using fortran I'm converting to C from an old copy of "computer methods for mathematical computations"
+[01:57.47] <rindolf> amigojapan: no idea.
+[01:57.51] <amigojapan> ok rindolf
+[01:57.53] <delta-nry> reaga: because there is no unique “non-number"
+[01:57.54] <tresgolem> stuff like machine epsilon
+[01:58.07] <vdamewood> Alas, I have no idea how to calculate BMI.
+[01:58.14] <rindolf> amigojapan: you may need to make sure you're not doing an integer division.
+[01:58.27] * Rounin (c312c5b5@gateway/web/freenode/ip.195.18.197.181) has joined channel ##programming
+[01:58.58] <vdamewood> amigojapan: any reason you're doing a = x/y; b = a/y; instead of b = x/y/y?
+[01:59.10] <amigojapan> vdamewood: I saw someone implement it in C using w/h/h    , but that seems to have parsed as w/(h/h) in scratch, that is why I broke it up into a tmp variable
+[01:59.13] <Richdog> i'd also just find an online bmi calculator and test yours against that one
+[01:59.38] <[boxed-pyon]> "parsed as w/(h/h)" --> whoa, seriously?
+[01:59.39] <delta-nry> reaga: NaN is not a single value
+[01:59.41] <vdamewood> amigojapan: How about w/(h*h)?
+[01:59.58] <amigojapan> ok vdamewood , I will try that,  hold on...
+[02:00.58] <delta-nry> reaga: since NaN can arise from different calculations
+[02:01.16] <reaga> but it can also arise from the same calcualtions
+[02:01.59] <[boxed-pyon]> reaga: The point is that NaN can stand for multiple different values.
+[02:02.08] * LordWillO (~LordWillO@unaffiliated/lordwillo) has joined channel ##programming
+[02:02.28] <[boxed-pyon]> reaga: In any case, if you're using floating-point equality tests, your code is broken.
+[02:02.59] <amigojapan> vdamewood: that seems to work, thanks :)
+[02:03.16] <[boxed-pyon]> reaga: Floating-points are all about approximate results, and code that compares them should be designed accordingly.
+[02:03.34] <amigojapan> vdamewood: although now I am annoyed that Scratch tellms me I am severly obese :P hehehe
+[02:04.12] <vdamewood> amigojapan: Do you weigh more than 70kg?
+[02:04.24] <amigojapan> vdamewood: I weigh 134KG
+[02:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[02:04.32] <vdamewood> itai!
+[02:05.02] <amigojapan> vdamewood: I thought my hight might help, 1.81 meters…. but apparently I am severly obese
+[02:05.12] <amigojapan> vdamewood: level III
+[02:05.19] * Mives (~mike@pool-98-116-91-109.nycmny.fios.verizon.net) Quit (Remote host closed the connection)
+[02:05.42] <amigojapan> vdamewood: by the way, itai is not used at “ouch” in Japanese
+[02:05.53] <amigojapan> vdamewood: it is about pain,  but not about reaction
+[02:05.58] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[02:06.42] <vdamewood> I'm 186cm, 116kg last I checked.
+[02:07.15] <vdamewood> amigojapan: Yeah, exclaiming 'itai' is more like saying 'It hurts' in English, but I couldn't figure out a better word.
+[02:07.30] <amigojapan> vdamewood: you can try my scratch BMI diagnosis tool to see what it says you ar :) ＋＋http://scratch.mit.edu/projects/50224818/，，
+[02:08.13] <vdamewood> Hmm... looks like it requires Flash.
+[02:08.23] <amigojapan> vdamewood: yes, flash requires flash
+[02:08.25] * VaticanCameos (~pritishc@182.68.132.77) has joined channel ##programming
+[02:08.26] <amigojapan> err
+[02:08.32] <amigojapan> scratch is a flash app vdamewood
+[02:09.28] <vdamewood> My flash player is out of date, my web browser refuses to run an out of date flash player, and I'm not in a good situation to update right now.
+[02:09.30] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) Quit (Quit: delta-nry)
+[02:09.44] <amigojapan> vdamewood: acording to my diagnostics program in scratch it says you are just “overweight”
+[02:09.59] * vdamewood does his happy dance
+[02:10.16] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) Quit (Ping timeout: 245 seconds)
+[02:10.24] * max100 (~max100@unaffiliated/max100) Quit (Quit: Leaving)
+[02:11.09] <vdamewood> I need to get myself weighed again.
+[02:11.11] <reaga> [boxed-pyon]: "if you're using floating-point equality tests, your code is broken" <- this is how i know you aren't a good programmer
+[02:11.21] <reaga> you speak of "rules of thumbs" as "rules of absolute truths"
+[02:11.39] <amigojapan> vdamewood: this is just one of the programs I have in the Programming 101 lesson plan I have prepared for the tokyo hackerpsace, look at the lesson plan if you like ＋＋http://pastebin.com/CJiTBfQr，，
+[02:12.22] <amigojapan> vdamewood: does it seems like I am teaching all the basics needed for a basic grasp of programming?
+[02:12.52] <[boxed-pyon]> reaga: Well, in this case, it *is* an absolute truth. It makes no sense whatsoever to test floating points for equality, unless you're interested in whether their entire computation histories are exactly the same -- which is a very boring notion of equality.
+[02:13.14] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[02:13.44] <rangergord> amigojapan: why would people at a hackerspace want with a lesson plan for non-programmers?
+[02:13.53] <reaga> it's not an abolute truth... you even showed it isnt in the second half of your sentence
+[02:14.04] <amigojapan> rangergord: new people that want to know how to program can come
+[02:14.11] <reaga> you are barely aware of what you yourself are saying. there's no chance you could possibly understand what someone else is trying to say to you
+[02:14.11] <rangergord> amigojapan: do they ever?
+[02:14.28] <vdamewood> amigojapan: I'd put something in to cover what algorithms are and how you might use them, including a comparison of sorts, or an implementation of Euclid's algorithm to show what they are, but don't go into Big-O notation and such.
+[02:14.33] <amigojapan> rangergord: to be honest,  there are some people that sorely need this at the hackerspace
+[02:14.50] <[boxed-pyon]> reaga: Number equality is all about value equality, unless you're doing really fucked up stuff.
+[02:15.08] <[boxed-pyon]> reaga: And if floating points only give you approximate results, then you need to use an approximate notion of equality.
+[02:15.10] <tresgolem> btw I'm not doing anything with M_E except reading in the value from <math.h> and trying to print it to the number of digits given in <math.h>
+[02:15.12] * Jobro (~Jobro@wlan179244.mobiel.utwente.nl) has joined channel ##programming
+[02:15.21] <amigojapan> ah ok vdamewood , sorting is a good idea after I explain lists, htey can sort a list, thanks for the idea!
+[02:15.30] <tresgolem> the last set of digits never print the correct value
+[02:15.31] <[boxed-pyon]> reaga: If you're interested in computation-history-equality, there are much better tools than floating-point numbers.
+[02:15.49] * pimlu (~pimlu@128.172.35.12) Quit (Ping timeout: 252 seconds)
+[02:16.35] <rangergord> I gotta be at work tomorrow. That's in 7h30m...and I'm still at work.
+[02:16.51] * Richdog (~Richdog@cpe-075-183-106-080.triad.res.rr.com) Quit (Quit: Leaving)
+[02:16.58] <vdamewood> tresgolem: Unless the last digit of a fractional portion is a 5, a computer can't represent that value as a floating-point number.
+[02:17.27] <amigojapan> vdamewood: which is the simplest sort algo?
+[02:17.52] <vdamewood> amigojapan: Insertion sort is probably the easiest to explain.
+[02:17.54] <tresgolem> vdamewood then why do they define it otherwise in math.h
+[02:17.59] <amigojapan> ty vdamewood
+[02:18.23] * WizJin (~WizJinAFK@103.241.46.220) has joined channel ##programming
+[02:18.36] <vdamewood> tresgolem: I don't know. I didn't write your math.h file. They probably used an accurate base-10 representation and relied on the compiler to translate it to an approximate binary representation.
+[02:18.44] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:19.17] <amigojapan> vdamewood: there are already web pages explaning sort in scratch, great!   ＋＋http://wiki.scratch.mit.edu/wiki/Sorting_Values，，
+[02:19.29] <vdamewood> Cool.
+[02:19.39] <tresgolem> is there another place I can ask C/glibc programming questions?
+[02:20.18] <amigojapan> vdamewood: someone already complained that I am not really teaching scratch, I am basically using scratch as any other text programming language :(
+[02:20.19] * oats_ (188a2c1d@gateway/web/freenode/ip.24.138.44.29) Quit (Quit: Page closed)
+[02:20.34] <vdamewood> You can ask about C and the C standard library (but not specifically glibc) in ##c, but you might not like the responses you get.
+[02:20.48] <amigojapan> vdamewood: but my intention is not really to teach scratch, but to use it as a stepping stone to other languages
+[02:21.20] <amigojapan> ##c is known for being a severe channel
+[02:21.22] <tresgolem> vdamewood heh. it puzzles me that I can't do a simple printf and get the right set of digits.
+[02:21.40] <rindolf> amigojapan: there's also selection sort.
+[02:21.41] <amigojapan> tresgolem: what are you trying to print?
+[02:21.43] <tresgolem> no math no nuttin
+[02:21.55] * crunchers__ (~crunchers@cpe-74-137-102-18.swo.res.rr.com) Quit (Ping timeout: 244 seconds)
+[02:22.17] <tresgolem> amigojapan just to duplicate the exact value of M_E as it shows in <math.h> (on a gentoo/glibc host)
+[02:22.17] <amigojapan> rindolf: this page explains many kinds of sort ＋＋http://wiki.scratch.mit.edu/wiki/Sorting_Values，，
+[02:22.37] <rindolf> amigojapan: OK.
+[02:23.17] <amigojapan> tresgolem: I am no expert in math, but I would assume it would be printf(“%f.12”,M_E);   something like that
+[02:23.28] <vdamewood> tresgolem: Copy it into a string. and print the string.
+[02:23.54] <tresgolem> printf("\nThe base of natural logarithms M_E: %2.21f\n", M_E);
+[02:24.50] * Jierr (~god@010-114-109-134.csn.tu-chemnitz.de) has joined channel ##programming
+[02:24.59] * mueslo (~quassel@p54B409F7.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[02:25.09] * ambro718 (~ambro@gentoo/contributor/ambro718) has joined channel ##programming
+[02:25.21] <tresgolem> but the last few digits don't print the same value as the header
+[02:25.27] * ambro718 (~ambro@gentoo/contributor/ambro718) Quit (Client Quit)
+[02:25.40] <vdamewood> tresgolem: And, no matter what you do with the printf statement, they never will.
+[02:26.12] <tresgolem> vdamewood LOL that's what I'm trying to understand, why
+[02:26.29] * Snake2k (~Snake2k@unaffiliated/snake2k) Quit (Ping timeout: 255 seconds)
+[02:26.46] * crunchers__ (~crunchers@cpe-74-137-102-18.swo.res.rr.com) has joined channel ##programming
+[02:26.47] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##programming
+[02:26.52] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:26.59] <vdamewood> tresgolem: Because that value, after compilation, is stored as a binary value. With binary, you have 1/2, 1/4, 1/8, and so on. Thus, you can only represent values in the form n/(2^m)
+[02:27.00] <tresgolem> Is it because ieee spec issues?
+[02:27.18] * WizJin (~WizJinAFK@103.241.46.220) Quit (Quit: Leaving)
+[02:27.28] <vdamewood> tresgolem: It's because you're trying to represent a decimal value with a binary system.
+[02:27.49] <tresgolem> vdamewood I can't get the M_El to print anything close to its number of digits either
+[02:27.55] <vdamewood> You can't represent 1/10 in binary just like you can't represent 1/3 in decimal.
+[02:28.05] <vdamewood> tresgolem: What's the difference?
+[02:28.09] <amigojapan> tresgolem: think that should would with just pprintf("\nThe base of natural logarithms M_E: M_E\n", );   since the preprocessor should replace it with the string of that constant
+[02:28.29] <amigojapan> printf*
+[02:28.51] * amigojapan tries it out...
+[02:29.01] <tresgolem> amigojapan yah if I were just treating it as a text string, I'm trying to print it as a float though
+[02:29.03] <vdamewood> amigojapan: The preprocessor won't replace inside of strings, otherwise it would replace both M_E's
+[02:30.06] <amigojapan> ok vdamewood , hmmm, I dont think that is good behaviour, it shoudl replace inside strings….   but I will take it up with dennis ritchie in teh afterlife :)
+[02:31.11] <tresgolem> vdamewood so I think the issue is its related to ieee spec and as you say the limitations of binary encoded deciman values
+[02:31.13] <vdamewood> amigojapan: If you have #define FOO "world!" then printf("Hello, " FOO) will concatenate.
+[02:31.40] <amigojapan> ah, interesting vdamewood
+[02:33.01] * electrojustin (~electroju@pool-72-95-222-43.pitbpa.fios.verizon.net) Quit (Remote host closed the connection)
+[02:33.18] * Richard_2340985 (~Miranda@dslb-178-001-005-065.178.001.pools.vodafone-ip.de) has joined channel ##programming
+[02:33.35] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) Quit (Ping timeout: 252 seconds)
+[02:33.35] * amigojapan should probably read K&R some day,  but I think I would probably find it boring cause I would know most of what it says… I could skimm it
+[02:33.42] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Ping timeout: 272 seconds)
+[02:33.47] * zadock (~zadock@81.180.210.87) Quit (Quit: Leaving)
+[02:34.20] <tresgolem> amigojapan there's a lot of really subtle stuff in it, I look at it a lot and also the glibc doc
+[02:34.28] <vdamewood> amigojapan: Oh, hey, while you're here, are Korean DVDs readily available in Japan?
+[02:35.11] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) has joined channel ##programming
+[02:35.21] <amigojapan> vdamewood: hmmm,  probably you can find rental DVDs with Japanese subtitles
+[02:35.45] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[02:36.02] <tresgolem> my girlfriend watches korean drama all the time on internet LOL
+[02:36.14] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[02:36.14] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[02:36.29] <vdamewood> My mother just got hooked on a Korean drama.
+[02:36.37] * `Eddie (~~deadword@62.122.139.151) has joined channel ##programming
+[02:36.38] * Crisix (~Crisix@dslb-178-001-206-145.178.001.pools.vodafone-ip.de) has joined channel ##programming
+[02:36.38] * `Eddie (~~deadword@62.122.139.151) Quit (Changing host)
+[02:36.38] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[02:36.39] <amigojapan> tresgolem: have you watched MAD TV’S parody of Korean dramas?
+[02:36.52] <tresgolem> LOL no sounds gruesome
+[02:37.00] <amigojapan> it is hilarious
+[02:37.25] * Jobro (~Jobro@wlan179244.mobiel.utwente.nl) Quit (Quit: Jobro)
+[02:37.41] * rethc (7a392428@gateway/web/freenode/ip.122.57.36.40) has joined channel ##programming
+[02:37.43] * Crisix (~Crisix@dslb-178-001-206-145.178.001.pools.vodafone-ip.de) Quit (Max SendQ exceeded)
+[02:38.19] <tresgolem> the gf likes to look at the pretty boys heh, heh
+[02:38.28] <vdamewood> amigojapan: Anyway, I'm trying to find and buy a particular Korean drama for my mother and I'm exploring various ways of getting it. It seems I can get it on amazon.co.jp for a few man en.
+[02:38.36] <rethc> hi, just wondering how i can get an existing google maps from a website on an android fragment
+[02:38.40] <vdamewood> But I was hoping for something closer to $50.
+[02:38.54] * smustafa (~mustafa@110.93.212.98) has joined channel ##programming
+[02:39.16] <vdamewood> Also, it looks like the Japanese version only has Japanese subtitles, which is fine for me, but no so good for mom.
+[02:39.33] <amigojapan> vdamewood: well, I still owe you shipping something to the US….
+[02:39.53] * i56yards (~i56yards@90.222.45.142) has joined channel ##programming
+[02:40.10] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##programming
+[02:40.23] * tresgolem (~gnu@m87.wraith.sf.ca.us) has left ##programming ()
+[02:40.31] <amigojapan> vdamewood: hmmm,   i think it would be hard to find it withough Japanese subtitles in Japan
+[02:40.58] <vdamewood> amigojapan: Without Japanese subtitles isn't the problem, with English subtitles is.
+[02:41.03] * cornus_ammonis (~Cornus@pool-173-73-119-83.washdc.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:41.20] <amigojapan> vdamewood: ah,   yeah, that would also be hard
+[02:42.02] * rethc (7a392428@gateway/web/freenode/ip.122.57.36.40) has left ##programming ()
+[02:42.10] * LordWillO (~LordWillO@unaffiliated/lordwillo) has joined channel ##programming
+[02:42.11] <vdamewood> amigojapan: I tracked down a place that sells Malaysian pressings that have Chinese and English subtitles. I'm wondering if the original Korean pressings have English subtitles, too.
+[02:42.28] * rangergord (~user1@modemcable186.198-70-69.static.videotron.ca) Quit (Quit: Leaving)
+[02:42.34] <amigojapan> no idea
+[02:42.48] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) Quit (Read error: No route to host)
+[02:43.48] <vdamewood> amigojapan: This is the Japanese version: ＋＋http://www.amazon.co.jp/シンイ-信義-DVD-BOX1-2-3-吹替，，・字幕有-並行輸入品/dp/B00EKD06IE/ref=sr_1_1?s=dvd&ie=UTF8&qid=1425282160&sr=1-1&keywords=シンイ
+[02:44.17] <amigojapan> ok
+[02:44.51] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) has joined channel ##programming
+[02:45.49] * Nver (~Nver@5.77.168.103) has joined channel ##programming
+[02:45.50] * i56yards (~i56yards@90.222.45.142) Quit (Remote host closed the connection)
+[02:46.05] <vdamewood> Unfortunately, amazon.kr just redirects to amazon.com, and I can't seem to find my way into the Korean online shopping experience.
+[02:46.14] * i56yards (~i56yards@90.222.45.142) has joined channel ##programming
+[02:46.19] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) Quit (Ping timeout: 250 seconds)
+[02:46.28] <amigojapan> vdamewood: there is no amazon in korea
+[02:46.33] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) has joined channel ##programming
+[02:46.44] <vdamewood> amigojapan: I figured that.
+[02:47.04] * fugue2 (~fugue@60-240-225-150.tpgi.com.au) has joined channel ##programming
+[02:47.35] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) has joined channel ##programming
+[02:47.46] <vdamewood> The thing is, I can't find any South Korea-based online stores either.
+[02:47.59] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Quit: Leaving)
+[02:48.28] <vdamewood> And thus, I can't tell if the Korean pressings of the DVD set include English subtitles or not. Though, I'm guessing probably not.
+[02:48.32] <amigojapan> vdamewood: sorry, I cant really speak korean, Japanese is my domain
+[02:48.58] <vdamewood> amigojapan: 私も
+[02:49.02] <amigojapan> yeah, I also guess thet dont, but I dont know
+[02:49.37] <vdamewood> But futhark, I'd love to get my hands on the Japanese pressing, even if the subtitles are only in Japanese (and not English).
+[02:49.47] * strainwrld (~strainwrl@a95-92-89-138.cpe.netcabo.pt) has joined channel ##programming
+[02:50.46] * ktd (~ktd@unaffiliated/ktd) has joined channel ##programming
+[02:50.59] * VM_funky (~VM_funky@unaffiliated/vm-funky/x-7703164) Quit (Quit: Leaving)
+[02:51.14] * darkc0de (~darkc0de@24-231-167-19.dhcp.bycy.mi.charter.com) has joined channel ##programming
+[02:51.15] <amigojapan> ok
+[02:51.26] * ktd (~ktd@unaffiliated/ktd) has left ##programming ()
+[02:51.31] * JaTochNietDan (JaTochNiet@2a00:d880:3:1::acd3:3e3c) Quit (Ping timeout: 250 seconds)
+[02:51.39] <vdamewood> But I think for my mother, the Malaysian pressing is the way to go.
+[02:51.41] <amigojapan> if I can help, let me know
+[02:51.55] <vdamewood> I just hope the Malaysian pressing isn't censored.
+[02:51.55] * Diabolik (DiabolikFr@2a00:d880:3:1::6be5:5bc8) Quit (Ping timeout: 252 seconds)
+[02:52.06] <Jierr> Someone in here, who has a good idea to get started with electronics + microcontrolers (generally embedded stuff)? I have my eyes on arduino, but seems kinda expensive
+[02:52.09] <vdamewood> amigojapan: Fly to Seoul and pick up a copy?
+[02:52.26] <amigojapan> hehehe, that is quite a big thing for me vdamewood :)
+[02:52.28] <vdamewood> amigojapan: (Just kidding, of course)
+[02:52.37] <amigojapan> yeah, I figured
+[02:52.45] * tesuji (~tesuji@unaffiliated/tesuji) has joined channel ##programming
+[02:53.13] * Flonk (c19ad662@gateway/web/freenode/ip.193.154.214.98) has joined channel ##programming
+[02:53.17] <vdamewood> amigojapan: Also, I don't think the cost of this DVD set would be an fair trade for what I sent you.
+[02:53.23] * boodllebat (~smuxi@1.23.113.164) has joined channel ##programming
+[02:53.34] <amigojapan> ok
+[02:54.27] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) has joined channel ##programming
+[02:55.33] <vdamewood> I did learn something interesting about Korean names, though, while researching this. Apparently in Korea, they have the family name Lee (李), but they no longer pronounce it Li. They pronounce it i in south korea and ri in north.
+[02:55.34] * xxxvii (~lowcut_37@49.144.93.103) Quit (Quit: -=SysReset 2.55=-)
+[02:56.39] * Diabolik (DiabolikFr@2a00:d880:3:1::6be5:5bc8) has joined channel ##programming
+[02:56.43] <vdamewood> Though, I think the Korean R is similar to the Japanese one.
+[02:56.47] * JaTochNietDan (JaTochNiet@2a00:d880:3:1::acd3:3e3c) has joined channel ##programming
+[02:57.22] <amigojapan> vdamewood: did you know that Koreans still celebrate their byrthdays (for every korean) at the chinese new year? and they index their birthdays at 0, so everyone is one year younger than they say....
+[02:57.25] * gabriel9|work (~bojan@9-133-241-92-ptp-stat.customer.blic.net) has joined channel ##programming
+[02:58.46] <vdamewood> amigojapan: About what age they say they are, yes, I knew about that. About celebrating according to the Chinese calendar, no I didn't.
+[02:59.14] <vdamewood> amigojapan: There, I read that there are certain situations, such as legal ages to do things, there a western reckoning is used.
+[02:59.35] <vdamewood> s/there a western/where a western/
+[03:00.56] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) Quit (Ping timeout: 272 seconds)
+[03:01.23] <amigojapan> vdamewood: yeah, they dont really celebrate birthdays,   they have one huge “biethday” for everyone on the chinese new year
+[03:01.34] * sinapsi`afk (~sinapsi@2a02:29e0:1:278:1234:1234:57b8:173a) has joined channel ##programming
+[03:01.50] <vdamewood> amigojapan: Oh, so they age++ on the Chinese new year, is what you're saying.
+[03:01.57] <amigojapan> yup
+[03:02.08] <vdamewood> I knew about that too, but I didn't know it was the Chinese New Year.
+[03:02.18] <vdamewood> amigojapan: Did you know the Japanese used to use that system as well?
+[03:02.19] <amigojapan> vdamewood: Japan used to do that too by the way,  but they adopted the western way after WWII
+[03:02.28] <vdamewood> heheh
+[03:02.30] <amigojapan> hehe
+[03:02.30] <vdamewood> e
+[03:02.34] <grandpatrolling> harharhar
+[03:02.37] <grandpatrolling> trololol
+[03:02.57] * Seacow (~Seacow@unaffiliated/seacow) has joined channel ##programming
+[03:03.00] <amigojapan> grandpatrolling: I actually think the trolololo song is rather good
+[03:03.07] <grandpatrolling> Seacow: mooo
+[03:03.37] <grandpatrolling> amigojapan: oh, you touch my trololol
+[03:03.50] <grandpatrolling> ＋＋https://www.youtube.com/watch?v=z13qnzUQwuI，，
+[03:03.51] <vdamewood> Your ding ding dong?
+[03:03.54] * gabriel9 (~bojan@fasecuremail.com) has joined channel ##programming
+[03:03.57] <grandpatrolling> my om nom nom
+[03:03.58] * gabriel9|work (~bojan@9-133-241-92-ptp-stat.customer.blic.net) Quit (Ping timeout: 245 seconds)
+[03:04.05] <vdamewood> Umm.... ew.
+[03:04.09] <grandpatrolling> lol
+[03:04.37] <vdamewood> I think I want an Om Nom plush, though.
+[03:04.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[03:05.36] <vdamewood> ＋＋http://www.amazon.com/Cut-The-Rope-Hungry-Plush/dp/B005S21LMG，，
+[03:05.39] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) Quit (Quit: WeeChat 1.0)
+[03:05.44] <grandpatrolling> find a 3d printer
+[03:05.48] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[03:05.51] <grandpatrolling> ...it won't be as plushy though
+[03:06.00] * kl__ (~kl@cpc1-walt6-0-0-cust1001.13-2.cable.virginm.net) Quit (Ping timeout: 272 seconds)
+[03:06.01] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) has joined channel ##programming
+[03:06.33] <[boxed-pyon]> grandpatrolling: Dafuq is this?
+[03:06.40] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[03:06.40] <vdamewood> Err, this one is better: ＋＋http://www.amazon.com/gp/product/B005S3JL86，，
+[03:07.29] <vdamewood> [boxed-pyon]: Have you never heard of this song?
+[03:07.37] <Rounin> I had a good laugh about that with my cousin... She's one year and 4 days older than me, and once when we were children and she remarked that she was older, I thought that at some point during the year, we would be the same age, which was of course wrong
+[03:07.44] * Trudko (~chatzilla@nat-88-212-37-105.antik.sk) has joined channel ##programming
+[03:07.48] <[boxed-pyon]> vdamewood: That is indeed the case.
+[03:07.58] <grandpatrolling> derp.
+[03:07.58] <Rounin> But it turns out that that specific year, Chinese new year came after my birthday
+[03:08.14] <Rounin> So according to the Chinese calendar, we actually were the same age for a little while
+[03:08.15] * medfly (~medf@unaffiliated/medfly) has left ##programming ()
+[03:08.46] * Technodrome (~heythere@unaffiliated/technodrome) Quit (Quit: Technodrome)
+[03:09.28] <vdamewood> [boxed-pyon]: It was fairly famous a long time ago. Probably more for the shock value, though.
+[03:09.50] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[03:10.37] <grandpatrolling> oh, you touch my trololol
+[03:10.51] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[03:10.52] <grandpatrolling> mmm, my herpaderp
+[03:11.02] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) Quit (Ping timeout: 245 seconds)
+[03:11.08] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) Quit (Quit: amigojapan)
+[03:11.13] * [boxed-pyon] shouldn't be laughing this hard at 3am...
+[03:11.42] <grandpatrolling> moar, moarrrr!
+[03:11.54] * chicoenslips (~cerditofa@252.Red-83-41-199.dynamicIP.rima-tde.net) has joined channel ##programming
+[03:12.05] * Stryyker (stryyker16@about/windows/staff/stryyker) Quit (Remote host closed the connection)
+[03:12.12] <vdamewood> [boxed-pyon]: ＋＋https://www.youtube.com/watch?v=xat1GVnl8-k，，
+[03:12.39] * tesuji (~tesuji@unaffiliated/tesuji) Quit (Ping timeout: 252 seconds)
+[03:13.19] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[03:13.31] <grandpatrolling> wow. i've never seen the video before o.o
+[03:13.51] * Stryyker (stryyker16@about/windows/staff/stryyker) has joined channel ##programming
+[03:14.17] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 252 seconds)
+[03:15.34] <vdamewood> This one was also fairly popular, mostly for shock value.
+[03:16.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:16.35] <grandpatrolling> do i know that midget?
+[03:16.37] * Tutator (~The@29.103.70.115.static.exetel.com.au) Quit (Quit: Leaving)
+[03:17.50] * Jierr (~god@010-114-109-134.csn.tu-chemnitz.de) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 35.0.1/20150125222008])
+[03:17.51] <grandpatrolling> oh. nope. apparently they all look the same to me :|
+[03:19.17] * HoloIRCUser (~holoirc@115.118.182.234) has joined channel ##programming
+[03:19.50] <[boxed-pyon]> Dammit... Today (well, yesterday) I was working on a nice song about a victorious army returning home... the soldiers' mothers and wives crying and all... and all it took is a single video to ruin the mood.
+[03:21.59] * zadock (~zadock@muscalu.tuiasi.ro) has joined channel ##programming
+[03:22.13] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[03:22.22] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[03:23.29] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[03:23.35] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[03:23.56] * oriig (~oriig@5.53.176.8) has joined channel ##programming
+[03:24.16] * horny-sama (~mr-fool@unaffiliated/horny-sama) Quit (Quit: bed time)
+[03:24.28] <ezrios> WAR
+[03:24.31] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##programming
+[03:24.31] <ezrios> what is it good for?
+[03:24.36] <ezrios> (absolutely nothing)
+[03:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:26.27] * shishkebab (~adsoe@dhcp-22-11.stud.cs.uit.no) has joined channel ##programming
+[03:26.42] * Vile` (~Vile@unaffiliated/vile/x-1886500) Quit (Remote host closed the connection)
+[03:27.01] <vdamewood> [boxed-pyon]: Maybe this will help: ＋＋https://www.youtube.com/watch?v=-BakWVXHSug，，
+[03:27.58] * crunchers__ (~crunchers@cpe-74-137-102-18.swo.res.rr.com) Quit (Ping timeout: 246 seconds)
+[03:28.38] <[boxed-pyon]> Well, not exactly the same mood... but this is certainly better for my sanity.
+[03:29.04] <vendu> hello guys :)
+[03:29.28] <[boxed-pyon]> vendu: Hello.
+[03:29.37] <vendu> hey pyon :)
+[03:30.16] <vendu> what's up?
+[03:30.20] * tesuji (~tesuji@unaffiliated/tesuji) has joined channel ##programming
+[03:30.27] * i56yards (~i56yards@90.222.45.142) Quit ()
+[03:30.36] <[boxed-pyon]> Not much, reading papers, getting depressed, you?
+[03:30.48] * i56yards (~i56yards@90.222.45.142) has joined channel ##programming
+[03:31.05] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[03:31.15] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[03:31.19] * Trudko (~chatzilla@nat-88-212-37-105.antik.sk) Quit (Remote host closed the connection)
+[03:31.57] * Vile` (~Vile@unaffiliated/vile/x-1886500) has joined channel ##programming
+[03:32.38] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:32.45] * thumpba (~thumpba@38.104.231.214) has joined channel ##programming
+[03:32.48] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##programming
+[03:33.10] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:33.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:34.49] <rindolf> vendu: hi, sup?
+[03:35.03] * Manny (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[03:35.04] * ManikM (~quassel@14.139.122.114) has joined channel ##programming
+[03:35.53] * zzxx (4492d54d@gateway/web/freenode/ip.68.146.213.77) Quit (Ping timeout: 246 seconds)
+[03:37.04] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 246 seconds)
+[03:39.54] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[03:40.12] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 245 seconds)
+[03:40.13] * jlo (~jlo@73.45.253.186) Quit (Ping timeout: 250 seconds)
+[03:40.46] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[03:41.31] <vendu> hey rindolf :)
+[03:41.43] <vendu> [boxed-pyon], oh, i woke up, had some coffee, took a shower :)
+[03:41.58] * GnuYawk (~Dopagod@ool-4578e404.dyn.optonline.net) Quit (Ping timeout: 264 seconds)
+[03:42.33] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[03:42.42] * Technodrome (~heythere@unaffiliated/technodrome) has joined channel ##programming
+[03:42.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:42.53] * njcomsec (~kvirc@cpc1-seve21-2-0-cust532.13-3.cable.virginm.net) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[03:42.58] <vdamewood> Oh, fuck. I forgot I have to teach Persian today. I need to sleep before it starts.
+[03:43.33] * vdamewood (~vdamewood@75-164-231-233.ptld.qwest.net) Quit (Quit: ["Textual IRC Client: ＋＋www.textualapp.com，，"])
+[03:43.35] <[boxed-pyon]> vendu: Nothing like a cup of coffee in the morning, right after waking up... :-) Though, in my case, the problem is that I do not sleep during the usual hours in the evening and early morning. :-P
+[03:43.50] <vendu> :P
+[03:44.06] * RusAlex (~Chel@188.120.52.174) Quit (Remote host closed the connection)
+[03:44.45] * Thiht (~Thunderbi@ARennes-655-1-163-25.w92-139.abo.wanadoo.fr) has joined channel ##programming
+[03:45.29] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[03:45.35] * RusAlex (~Chel@188.120.52.174) has joined channel ##programming
+[03:47.49] * Tinfoilhat_ (~quassel@142.68.118.212) has joined channel ##programming
+[03:48.19] * HoloIRCUser (~holoirc@115.118.182.234) Quit (Ping timeout: 246 seconds)
+[03:48.47] * absk007 (~absk007@unaffiliated/absk007) Quit (Read error: Connection reset by peer)
+[03:48.48] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[03:49.16] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##programming
+[03:49.27] * absk007 (~absk007@unaffiliated/absk007) has joined channel ##programming
+[03:50.06] * ashmew2 (~ashmew2@unaffiliated/ashmew2) Quit (Read error: Connection reset by peer)
+[03:51.07] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[03:51.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:52.12] * Trudko (~chatzilla@82-119-121-74.static.chello.sk) has joined channel ##programming
+[03:52.37] <ezrios> [boxed-pyon]: welcome to the past few years of my life
+[03:53.31] * Technodrome (~heythere@unaffiliated/technodrome) Quit (Quit: Technodrome)
+[03:53.34] <antranigv> mornings everyone.
+[03:54.32] * darkc0de (~darkc0de@24-231-167-19.dhcp.bycy.mi.charter.com) Quit (Quit: Leaving)
+[03:56.03] * TimeOtter (~KVIrc@216.227.115.84) Quit ()
+[03:56.56] * interop_madness (~invalid@unaffiliated/interop-madness/x-8858653) has joined channel ##programming
+[03:57.06] * ArtooDetoo (~flo@eduroam-64-166.uni-paderborn.de) has joined channel ##programming
+[03:57.11] <[boxed-pyon]> ezrios: lol
+[03:57.13] <[boxed-pyon]> antranigv: Hello.
+[03:57.40] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[04:00.37] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[04:04.10] * snyp (~Snyp@150.129.132.221) has joined channel ##programming
+[04:04.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[04:04.55] * jjhurt5 (~jjhurt5@184.63.31.183) Quit (Ping timeout: 250 seconds)
+[04:06.48] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##programming
+[04:11.41] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) Quit (Ping timeout: 252 seconds)
+[04:13.13] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[04:14.51] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##programming
+[04:14.54] * zipper (~luv_panda@unaffiliated/zipper) has joined channel ##programming
+[04:15.58] * Draecos (~Draecos@106-68-80-239.dyn.iinet.net.au) has joined channel ##programming
+[04:16.59] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[04:17.01] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) Quit (Ping timeout: 265 seconds)
+[04:17.11] * grimmy_ (~freerunca@S0106602ad06b9061.ok.shawcable.net) Quit (Ping timeout: 252 seconds)
+[04:17.33] * ghostpl_ (~ghostpl@85.232.253.2) has joined channel ##programming
+[04:18.08] <[boxed-pyon]> U
+[04:18.30] <[boxed-pyon]> Err, wrong terminal.
+[04:18.30] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##programming
+[04:18.34] <rindolf> antranigv: morning.
+[04:18.54] <rindolf> antranigv: sup?
+[04:18.55] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:19.29] <zipper> rindolf: Why is your nick so familiar
+[04:19.37] <zipper> Shocking.
+[04:19.54] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[04:19.56] <rindolf> zipper: don't know.
+[04:21.30] <rindolf> zipper: do you have logs?
+[04:22.07] * niemcu (~niemcu@89-74-233-231.dynamic.chello.pl) has joined channel ##programming
+[04:22.19] * zoso (~arvind@unaffiliated/arvind-khadri/x-2237230) Quit (Ping timeout: 252 seconds)
+[04:22.36] <zipper> rindolf: Yeah but I can't go looking through them because I'm writing some crazy ass tests.
+[04:22.50] <zipper> I like to keep certain things mysterious.
+[04:24.11] * Crisix (~Crisix@b2b-130-180-54-18.unitymedia.biz) has joined channel ##programming
+[04:24.20] <rindolf> zipper: I don't understand.
+[04:24.31] * Sadale (~Sadale@unaffiliated/sadale) Quit (Ping timeout: 252 seconds)
+[04:25.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[04:25.35] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##programming
+[04:26.05] <rindolf> zipper: I see your nickname on #kde
+[04:26.33] <zipper> rindolf: Really?
+[04:26.43] <zipper> rindolf: Archlinux channels or club-nomicon
+[04:26.51] <rindolf> zipper: well, in my logs.
+[04:26.54] <zipper> rindolf: I used to use kde now I'm gnome
+[04:27.02] * fosterbuster (~insanofle@130.226.139.247) has joined channel ##programming
+[04:27.07] <zipper> rindolf: or maybe you helped me with c++ in this channel.
+[04:27.26] <txdv> awm
+[04:27.39] <zipper> rindolf: I get the feeling you're Canadian or Australian. You told me one of those.
+[04:27.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:28.00] <rindolf> zipper: no, I'm Israeli.
+[04:28.08] <zipper> rindolf: Yes
+[04:28.14] <zipper> rindolf: I remember now
+[04:28.16] <zipper> rindolf: LOL
+[04:28.27] <zipper> rindolf: We used to talk. I'm Kenyan.
+[04:28.49] <zipper> You have a blog with a pic of you on the right sidebar
+[04:28.59] <txdv> Native kenyan?
+[04:29.03] <zipper> rindolf: Yeah now I remember. I know you from this channel.
+[04:29.07] <zipper> txdv: Uh yeah
+[04:29.33] <zipper> txdv: If you see any other Kenyans writing haskell btw let me know. We need to grow the haskell community here.
+[04:29.44] * grimmy_ (~freerunca@S0106602ad06b9061.ok.shawcable.net) has joined channel ##programming
+[04:30.11] * Crisix (~Crisix@b2b-130-180-54-18.unitymedia.biz) Quit (Read error: Connection reset by peer)
+[04:30.17] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[04:30.39] * Technodrome (~heythere@unaffiliated/technodrome) has joined channel ##programming
+[04:30.45] <rindolf> zipper: maybe you mean a homepage with a pic of me on the left sidebar.
+[04:30.52] * boB_K7IQ (~IceChat9@50.125.47.104) Quit (Ping timeout: 272 seconds)
+[04:31.07] <zipper> rindolf: Yeah definitely you. Glad to see you again.
+[04:31.14] <zipper> *see your nick
+[04:31.17] <zipper> txdv: Which other kind of Kenyan is there? Roasted? deep fried? haha *I kid*
+[04:31.18] <rindolf> zipper: ah, OK.
+[04:32.01] <txdv> Are kenyans known for canibalism?
+[04:32.32] <amigojapan> txdv: I doubt it, I think that only happens in isolated tribes these days
+[04:32.37] <zipper> txdv: That is a very rude question? WTF?
+[04:33.02] <txdv> Well you said "roasted" and "deep fried"
+[04:33.09] <amigojapan> I agree it is a rude question
+[04:33.25] <zipper> txdv: That was a joke. SMH you asked if I was a native Kenyan.
+[04:33.27] <amigojapan> ah ok, I see, it was a joke
+[04:33.48] <txdv> No fun allowed here
+[04:34.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##programming
+[04:34.12] <zipper> txdv: LOL you need to work on your jokes
+[04:34.16] * amigojapan usually puts a smily face with every joke,  it makes a difference
+[04:34.29] <zipper> amigojapan: I know, right?
+[04:34.49] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##programming
+[04:35.02] <amigojapan> :)
+[04:35.22] <txdv> i once talked to a dude who was from uganda
+[04:35.32] <txdv> funniest part that I guessed his country of origin
+[04:35.39] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[04:35.52] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Read error: Connection reset by peer)
+[04:36.33] * HoloIRCUser (~holoirc@49.203.253.155) has joined channel ##programming
+[04:37.41] * Jobro (~Jobro@wlan179166.mobiel.utwente.nl) has joined channel ##programming
+[04:38.17] <zipper> I once met this girl from USA. Worst part; she turned me down like all the other women.
+[04:39.01] <txdv> Why is it the worst part if it happens all the time?
+[04:39.19] <txdv> Shouldn't you be already used to it?
+[05:19.52] *** Server disconnected on irc.freenode.net

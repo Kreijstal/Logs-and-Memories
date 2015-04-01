@@ -1,0 +1,1117 @@
+Session Start: Sat Feb 14 12:00:09 2015
+Session Ident: ##math
+[12:00.09] <tac_> but we know that pi and e are transcendental. I am pretty sure they just require you to do enough integrals to prove they are witnesses
+[12:00.18] <drazak> hmm
+[12:00.22] <drazak> I think they require more
+[12:00.28] <drazak> but I could be wrong
+[12:00.38] * touch (~mt_touch@97-101-216-48.res.bhn.net) Quit (Ping timeout: 246 seconds)
+[12:02.00] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[12:02.09] <drazak> tac_: I think pi transcendental requires galois stuff
+[12:02.40] * duckrabbit (~duckrabbi@128.54.182.252) Quit (Ping timeout: 250 seconds)
+[12:03.16] <manymanywolves> lavender: no, but if you find one, please share
+[12:03.28] <drazak> tac_: mmm yeah about that just an integral ＋＋http://en.wikipedia.org/wiki/Lindemann%E2%80%93Weierstrass_theorem#Transcendence_of_e_and_.CF.80，，
+[12:03.58] * duckrabbit (~duckrabbi@128.54.182.252) has joined channel ##math
+[12:04.02] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Remote host closed the connection)
+[12:04.14] <lavender> but, what's the meaning of the picard group if it doesn't provide instructions for constructing the locally principal but not principal divisors?
+[12:04.41] * Romin (~Romin@97-88-251-202.static.mdsn.wi.charter.com) has left ##math ()
+[12:06.24] * QuantumP7 (~QuantumP7@h84.180.18.98.dynamic.ip.windstream.net) has joined channel ##math
+[12:07.43] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:08.45] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) Quit (Quit: Leaving)
+[12:08.58] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[12:09.48] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Read error: Connection reset by peer)
+[12:09.51] * Travisty_ (~anonymous@c-73-183-50-181.hsd1.pa.comcast.net) has joined channel ##math
+[12:09.52] * Travisty (~anonymous@73.174.153.34) Quit (Ping timeout: 245 seconds)
+[12:09.53] * Travisty_ is now known as Travisty
+[12:10.07] * lsv (~lsv@CPE84948c2eddc1-CM84948c2eddc0.cpe.net.cable.rogers.com) Quit (Read error: Connection reset by peer)
+[12:10.22] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) Quit (Remote host closed the connection)
+[12:10.56] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[12:11.31] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 244 seconds)
+[12:12.19] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##math
+[12:12.22] * asandweech (~thissand@ip-18-16.net.ksu.edu) has joined channel ##math
+[12:12.22] * asandweech (~thissand@ip-18-16.net.ksu.edu) Quit (Changing host)
+[12:12.22] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##math
+[12:13.38] * lsv (~lsv@CPE84948c2eddc1-CM84948c2eddc0.cpe.net.cable.rogers.com) has joined channel ##math
+[12:13.41] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[12:15.16] * Travisty (~anonymous@c-73-183-50-181.hsd1.pa.comcast.net) Quit (Quit: Travisty)
+[12:15.51] * sre-su1 (~sre-su@unaffiliated/sre-su) Quit (Ping timeout: 265 seconds)
+[12:17.34] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[12:18.46] * Sweet_Ride (~Sweet@199.47.65.63) has joined channel ##math
+[12:18.54] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Client Quit)
+[12:19.11] * Sweet_Ride (~Sweet@199.47.65.63) has joined channel ##math
+[12:19.35] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[12:20.45] * moonlily (~moonlily@unaffiliated/moonlilies) has joined channel ##math
+[12:21.37] * rvchangue (~rvchangue@unaffiliated/rvchangue) Quit (Quit: dead)
+[12:22.01] * toastyde1th (~toast@c-69-244-86-195.hsd1.md.comcast.net) has joined channel ##math
+[12:22.34] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) Quit (Read error: Connection reset by peer)
+[12:23.00] * Guest47872 (~rvchangue@onawhole.com) has joined channel ##math
+[12:24.02] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[12:25.41] * gravitation (~gravitati@atlas.phys.columbia.edu) Quit (Quit: gravitation)
+[12:28.00] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[12:28.32] <Rainb> in Triangle ABC if D is at such point where BC^2=BD^2+CD^2 and AB^2=BD^2+AD^2 and AD=AC-CD
+[12:28.32] <Rainb> can one find BD?
+[12:28.37] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[12:28.43] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Quit: Leaving.)
+[12:29.10] * MutSbeta (~user@77.51.89.254) has joined channel ##math
+[12:29.13] <drazak> I have no idea what your notation means
+[12:29.32] <Rainb> Hmm
+[12:29.54] <Rainb> Well, AB would mean the distance between point A and B
+[12:30.01] <drazak> ok
+[12:30.12] * gemurdock (~gemurdock@24.53.68.45) Quit (Quit: Leaving)
+[12:30.24] <drazak> so what do you want to know about BD?
+[12:30.31] --boB_K7IQ-- logged in with account (boB_K7IQ)
+[12:30.39] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has left ##math ()
+[12:30.41] <lavender> is it determined by the other quantities
+[12:31.03] * gravitation (~gravitati@atlas.phys.columbia.edu) has joined channel ##math
+[12:31.05] * goom (~go4m@cpe-66-25-153-174.satx.res.rr.com) Quit (Quit: Leaving)
+[12:31.18] <lavender> BD a leg of is in two right triangles
+[12:31.51] <drazak> yes we can find BD
+[12:31.51] <Rainb> the idea is there's a triangle, and point D is in such location that makes two right triangles
+[12:31.57] <drazak> I got it
+[12:32.30] * gravitation (~gravitati@atlas.phys.columbia.edu) Quit (Client Quit)
+[12:32.31] * emilypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[12:33.07] <Rainb> and D is between A and C
+[12:33.36] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[12:34.17] * Guest85031 is now known as kmh
+[12:34.34] * moonlily (~moonlily@unaffiliated/moonlilies) Quit (Quit: moonlily)
+[12:34.46] * kmh is now known as Guest48285
+[12:37.31] <Rainb> this isn't really a system of three equations is it
+[12:39.51] * `Eddie (~dedword@95.142.88.209) has joined channel ##math
+[12:40.23] * spudzee1111 (~spudzee11@12.7.32.3) Quit (Quit: spudzee1111)
+[12:40.54] <b0g> ＋＋http://i.imgur.com/8T2iP9f.jpg，， thought you guys might appreciate this
+[12:42.28] <Rainb> at first I thought it was about the derivative of the ass, or the ass was flat
+[12:42.40] * Master_Asia is now known as Church-Turing
+[12:44.03] <Rainb> Then I discovered that it was just solving equations
+[12:44.07] <Rainb> damn I'm dumb
+[12:44.56] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##math
+[12:46.05] <lavender> whats a nonsingular curve
+[12:46.44] --arup_r-- logged in with account (arup_r)
+[12:46.59] * Guest47872 (~rvchangue@onawhole.com) Quit (Quit: dead)
+[12:47.32] * rvchangue (~rvchangue@unaffiliated/rvchangue) has joined channel ##math
+[12:47.58] <Rainb> oh my goat, I just discovered how addition of equation works
+[12:48.04] <Rainb> or more like why it works
+[12:48.08] * bb010g (uid21050@gateway/web/irccloud.com/x-ugptndpecqswffwy) Quit (Quit: Connection closed for inactivity)
+[12:48.30] * wqe23_ (~wqe23@2602:306:c5c1:f5e0:3105:8f58:26c2:b990) has joined channel ##math
+[12:48.32] * metatropolis (~metatropo@user-0cal8ch.cable.mindspring.com) has joined channel ##math
+[12:49.21] * it0a (~it0a@cpe-66-61-109-178.neo.res.rr.com) has joined channel ##math
+[12:49.31] * broken_symlink (~broken_sy@73.165.69.3) has joined channel ##math
+[12:49.58] * wqe23 (~wqe23@2602:306:c5c1:f5e0:3105:8f58:26c2:b990) Quit (Ping timeout: 245 seconds)
+[12:50.50] * wqe23_ is now known as wqe23
+[12:50.51] --wqe23-- logged in with account (wqe23)
+[12:52.41] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[12:54.14] --kilimanjaro-- logged in with account (kilimanjaro)
+[12:54.15] * kilimanjaro (~kilimanja@sculptor.whatbox.ca) Quit (Changing host)
+[12:54.15] * kilimanjaro (~kilimanja@unaffiliated/kilimanjaro) has joined channel ##math
+[12:55.18] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[12:55.42] * blight (~greg@reactos/developer/blight) has joined channel ##math
+[12:55.55] * `Eddie (~dedword@95.142.88.209) Quit (Read error: Connection reset by peer)
+[12:56.15] * copycat (740eb63f@gateway/web/freenode/ip.116.14.182.63) has joined channel ##math
+[12:57.04] <copycat> what does it mean to have a subset of x-y plane of R2 that is "closed under vector addition/subtraction, but not scalar multiplication"?
+[12:57.19] <copycat> the meaning of the word "closed" is lost on me
+[12:57.23] <copycat> could anyone give me a clue?
+[12:58.04] <drazak> It means that the result of the operation is in the subset
+[12:58.12] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) Quit (Quit: qeed)
+[12:58.15] --epitamizor-- logged in with account (epitamizor)
+[12:58.36] <lavender> X is closed under function f:X→X means that ∀x∈X f(x)∈X
+[12:59.48] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[12:59.55] <lavender> vector addition and scalar multiplication are schemas of functions
+[01:00.57] <lavender> the only subsets i can think of that are closed under vector addition and subtraction but not scalar multiplication are lattices
+[01:01.01] * hiptobecubic (~john@unaffiliated/hiptobecubic) Quit (Ping timeout: 264 seconds)
+[01:01.37] <copycat> ahh, that was a homework question
+[01:01.47] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[01:01.59] <copycat> i don't see lattices mentioned anywhere in the chapter for the problem set
+[01:02.03] * Cirus (~Cirus@2601:9:80:101c:e841:672:584e:7ab) Quit (Read error: Connection reset by peer)
+[01:02.07] * `Eddie (~dedword@95.142.88.209) has joined channel ##math
+[01:02.32] <lavender> a lattice in a linear space is a discrete subgroup
+[01:02.49] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 264 seconds)
+[01:03.03] * arthurKN (~arthurKN@unaffiliated/arthurkn) has joined channel ##math
+[01:03.24] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##math
+[01:03.51] <tac_> Hmm
+[01:04.17] * duckrabbit (~duckrabbi@128.54.182.252) Quit (Read error: Connection reset by peer)
+[01:04.34] <tac_> If you know a abelian group H's isomorphism class and you know another ab group G has it as a subgroup, and you know the iso class of the quotient G/H, you know the group G, right?
+[01:04.34] <lavender> your first examples of lattices are the integers in ℝ¹ and points with integer coordinates in ℝ²
+[01:05.54] <lavender> so, you have the short exact sequence 0 → H → G → G/H → 0, and you know that G is the direct product H × G/H
+[01:06.08] <lavender> and you know what H and G/H are
+[01:06.21] * jailbot (~textual@c-73-44-196-102.hsd1.il.comcast.net) has joined channel ##math
+[01:06.23] <tac_> lavender: I asked that without any expectation of a nice answer
+[01:06.24] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Ping timeout: 276 seconds)
+[01:06.27] <tac_> but that's a nice answer :)
+[01:07.37] <tac_> I saw a question on a practice math GRE exam: If G is an abelian group of order 16 and it has an element x with x + x + x + x = 0, then what are the possibilities for what G could be?
+[01:07.42] <wz1000> Would there be anyway to construct the powerset of an infinite set such that every element of the powerset that is finite can be indexed?
+[01:07.46] <copycat> "the set of all (u, v) where u and v are ratios are p/q of integers
+[01:08.09] <tac_> So I'm thinking it would just be the two possibilities: C4 x C4 and C4 x Z2 x Z2
+[01:08.47] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Remote host closed the connection)
+[01:10.32] * odds (~odds@ip70-181-74-63.oc.oc.cox.net) Quit (Quit: Lost terminal)
+[01:10.58] * frelleck (frelleck@unaffiliated/frelleck) has joined channel ##math
+[01:11.13] * jennifer (~ryra@unaffiliated/ryra) Quit (Quit: This computer has gone to sleep)
+[01:11.35] <nimtz> can you define a multi-dimensional integral?
+[01:11.47] <nimtz> is it just the sum of "partial integrals"
+[01:12.24] * a3Dman (~3Dman@41.45.129.16) has joined channel ##math
+[01:12.24] --a3Dman-- logged in with account (a3Dman)
+[01:12.24] * a3Dman (~3Dman@41.45.129.16) Quit (Changing host)
+[01:12.24] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[01:12.25] * madneon (~madneon@system8589174198.ptvk.pl) has joined channel ##math
+[01:12.54] <tac_> nimtz: when you say multi-dimensional integral, do you mean one for a function R^n -> R?
+[01:12.55] <tac_> If so, yes
+[01:13.27] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Max SendQ exceeded)
+[01:14.06] * a3Dman (~3Dman@41.45.129.16) has joined channel ##math
+[01:14.06] --a3Dman-- logged in with account (a3Dman)
+[01:14.06] * a3Dman (~3Dman@41.45.129.16) Quit (Changing host)
+[01:14.06] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[01:14.11] * madneon (~madneon@system8589174198.ptvk.pl) Quit (Client Quit)
+[01:14.42] <nimtz> one that is defined as dxy
+[01:14.45] <nimtz> two axes
+[01:14.54] * asian (4532b216@gateway/web/freenode/ip.69.50.178.22) has joined channel ##math
+[01:14.55] * asian (4532b216@gateway/web/freenode/ip.69.50.178.22) Quit (Client Quit)
+[01:14.57] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Max SendQ exceeded)
+[01:15.01] <nimtz> can i just sum them like partial derivatives
+[01:15.26] * asiansnowden (4532b216@gateway/web/freenode/ip.69.50.178.22) has joined channel ##math
+[01:15.42] * expo873 (uid11626@gateway/web/irccloud.com/x-njgojelcoryfvqve) Quit (Quit: Connection closed for inactivity)
+[01:15.49] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[01:15.57] * a3Dman (~3Dman@41.45.129.16) has joined channel ##math
+[01:15.58] --a3Dman-- logged in with account (a3Dman)
+[01:15.58] * a3Dman (~3Dman@41.45.129.16) Quit (Changing host)
+[01:15.58] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[01:15.58] * zacts (~user@freebsd/geek/zacts) has joined channel ##math
+[01:16.02] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) has joined channel ##math
+[01:16.37] <tac_> There's a well-known way to work with them
+[01:16.47] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[01:17.16] * duckrabbit (~duckrabbi@128.54.182.252) has joined channel ##math
+[01:17.20] * edon (~user@albalug/edon) has joined channel ##math
+[01:17.36] * wikiemol (~wikiemol@75.102.129.139) has joined channel ##math
+[01:17.39] <asiansnowden> I hate discrete math and formal logic with passion. It is gay and useless for I.T. Anyways, after the rant, here is the question.
+[01:17.42] <asiansnowden> QUESTION: DOES   -(p⊃q) =(-p⊃- q)? Prefer to use 18 rules of Sentential Logic.
+[01:18.02] <asiansnowden> I should be able to figure out the rest.
+[01:18.06] * expo873 (uid11626@gateway/web/irccloud.com/x-jcdftvsjemgxuill) has joined channel ##math
+[01:18.21] * pyon (~user@unaffiliated/pyon) Quit (Quit: stupid emacs)
+[01:18.57] <asiansnowden> Anyone?
+[01:19.28] * Mateon1 (~Mateon1@unaffiliated/mateon1) Quit (Ping timeout: 255 seconds)
+[01:19.33] * asiansnowden (4532b216@gateway/web/freenode/ip.69.50.178.22) Quit (Client Quit)
+[01:19.36] <wikiemol> Discreet math is not at all useless for I.T., but it is 'gay' in the sense that it can be a very happy thing.
+[01:19.58] <metatropolis> hee
+[01:20.06] <wikiemol> but the answer to your question is yes. (If I am reading it right)
+[01:20.13] <wikiemol> Its kind of garbled on my computer
+[01:20.18] <monoprotic> he left, too gay for him i guess
+[01:20.25] <wikiemol> lol
+[01:20.36] <tac_> lol wat
+[01:20.42] <tac_> @asiansnowden
+[01:21.18] <tac_> It's a shame people can't distinguish between the subject they study and the class they're in
+[01:21.58] <wikiemol> Yeah
+[01:22.09] * dassouki (~ahmed@89.211.115.250) has joined channel ##math
+[01:22.24] <wikiemol> It is a shame
+[01:23.34] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[01:23.57] <nimtz> the solution is obviously to study math instead
+[01:24.31] * Mateon1 (~Mateon1@unaffiliated/mateon1) has joined channel ##math
+[01:24.57] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[01:25.24] * Topsy__ (~666@69-46-6-105.static.hvvc.us) Quit (Ping timeout: 246 seconds)
+[01:25.43] <wikiemol> Thats the solution to everything
+[01:26.05] <tac_> clearly
+[01:26.36] * kreiGT (~kreig@190.149.6.91) Quit (Remote host closed the connection)
+[01:26.50] * pyon (~user@unaffiliated/pyon) has joined channel ##math
+[01:27.34] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[01:27.44] <Rainb> isn't discrete math array math
+[01:27.51] <Rainb> in that case how it is useless
+[01:28.37] * elbeardmorez (~quassel@90.217.41.180) Quit (Ping timeout: 264 seconds)
+[01:28.57] <lavender> whats an array
+[01:29.13] * cueconcern4work (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[01:29.23] <tac_> I was reading the wikipedia page on the programming language R today
+[01:29.23] <cueconcern4work> is facebook real?
+[01:29.33] <tac_> and they mentioned that there's no scalar type. That you just use "vectors of length 1"
+[01:29.37] <Rainb> tac_: is it good
+[01:29.43] <cueconcern4work> do many people use it?
+[01:29.46] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 250 seconds)
+[01:29.47] <cueconcern4work> is it online?
+[01:29.48] * nic77 (~sd@208.88.251.170) Quit (Ping timeout: 265 seconds)
+[01:29.50] <tac_> and I thought to myself, "How is a unit vector a suitable data type for a scalar???"
+[01:29.52] <cueconcern4work> who pays them?
+[01:30.00] <Rainb> the jews
+[01:30.01] <cueconcern4work> what about reality tv shows?
+[01:30.06] <wikiemol> Rainb: Its the math of "discrete" quantities
+[01:30.07] <cueconcern4work> how many watch them?
+[01:30.15] <wikiemol> like the study of integers is discrete math
+[01:30.16] <metatropolis> 7
+[01:30.18] * Spynxic (47444846@gateway/web/cgi-irc/kiwiirc.com/ip.71.68.72.70) has joined channel ##math
+[01:30.24] <metatropolis> or 8
+[01:30.29] <wikiemol> but the study of real numbers is not
+[01:30.33] <Spynxic> Any know why one would use a bipartite graph?
+[01:30.37] <lavender> cueconcern4work those are not mathematical questions take them to #not-math
+[01:30.39] * duckrabbit_ (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[01:30.46] <cueconcern4work> did you know the legit rad celebrity apprentice reality show with all the superior rad materialistic greedy hard working rich fiends has raised something like $13 million all over the years?
+[01:30.51] <cueconcern4work> for charity
+[01:30.53] <cueconcern4work> they are so soulful
+[01:30.55] <Rainb> is not-math for meta-math?
+[01:31.01] <cueconcern4work> it's nice to see it being all them and stuff
+[01:31.01] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[01:31.01] --ZysFryar-- logged in with account (ZystemFryar)
+[01:31.01] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[01:31.01] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[01:31.06] * cueconcern4work (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has left ##math ()
+[01:31.07] <raskol> Spynxic: matching things with other things
+[01:31.10] <Rainb> not as in meta-math but as in meta math for math discussion
+[01:31.19] <raskol> Spynxic: for instance, associating every Student with a Class
+[01:31.25] <raskol> or a set of Classes
+[01:31.28] <wikiemol> Rainb: Meta math would probably be philossophy
+[01:31.34] <wikiemol> or just logic
+[01:31.42] * fattest (9b8f0a15@gateway/web/freenode/ip.155.143.10.21) has joined channel ##math
+[01:31.44] <lavender> its for anything that is not mathematical.  esoteric set theory counts
+[01:31.48] <Spynxic> raskol: What benefit does it being bipartite give?
+[01:32.09] <Rainb> is discussion of mathematics in education mathematical
+[01:32.17] <raskol> Spynxic: or nodes in a 2 player g ame
+[01:32.20] <fattest> A particle is moving in simple harmonic motion, with displacement at any time t seconds given by x = 2cos(t). Find the equation of the velocity of the particle
+[01:32.21] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 252 seconds)
+[01:32.21] * ZysFryar is now known as ZystemFryar
+[01:32.22] <fattest> please help
+[01:32.28] * duckrabbit__ (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[01:32.36] <monoprotic> fattest velocity is time derivative of position
+[01:32.44] <raskol> Spynxic: it's a property that can be useful when choosing algorithms for matching or cycles or...
+[01:33.00] <fattest> monoprotic: it is dx/dt
+[01:33.04] <monoprotic> yes
+[01:33.16] <fattest> so velocity = -2tsint?
+[01:33.22] <lavender> euler thought that graph theory wasn't mathematical.  but euler did so much cool stuff that he is forgiven.  today's mathematicians refuse to call set theory not math because they are afraid of making the same mistake euler did
+[01:33.27] <monoprotic> fattest not quite
+[01:33.53] <Rainb> what is mathematical
+[01:33.58] <dbelange> 56.]
+[01:34.02] <Spynxic> raskol: Is there a word for scaling up bipartite graphs? Some name for the factor
+[01:34.09] <wikiemol> Rainb: Probably?
+[01:34.13] <raskol> k-partite?
+[01:34.25] <raskol> scaling up in what sense?
+[01:34.32] * duckrabbit (~duckrabbi@128.54.182.252) Quit (Ping timeout: 250 seconds)
+[01:34.44] <wikiemol> Rainb: Although I remember seeing an irc channel that was education based
+[01:35.05] * IAmTheTelephone (4751c864@gateway/web/freenode/ip.71.81.200.100) Quit (Quit: Page closed)
+[01:35.14] <fattest> monoprotic: what do i do now?
+[01:35.17] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[01:35.22] <Rainb> I've been thinking about Unapplicated Math
+[01:35.39] <Rainb> Math that has no real application and if it does, It doesn't care
+[01:35.43] <monoprotic> fattest what do yo umean? the derivative is the answer. you just didnt do it quite right
+[01:35.50] * duckrabbit_ (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) Quit (Ping timeout: 246 seconds)
+[01:35.52] * gp5st (~jim@pool-72-65-233-251.pitbpa.fios.verizon.net) has joined channel ##math
+[01:35.55] <Rainb> because for some reason math does need to have some application
+[01:36.11] <wikiemol> Rainb: That is usually referred to as 'pure' mathematics
+[01:36.15] <wikiemol> or recreational mathematics
+[01:36.23] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 240 seconds)
+[01:36.42] <Rainb> Yeah, it's interesting
+[01:36.45] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[01:36.48] * induktio (4c6a6c37@gateway/web/freenode/ip.76.106.108.55) has joined channel ##math
+[01:36.54] <fattest> monoprotic: oh yeah. it's -2sinx
+[01:36.54] <Rainb> cause it's out-of bounds math
+[01:37.01] * emilypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 264 seconds)
+[01:37.04] <monoprotic> fattest t, not x, but yes
+[01:37.07] <wikiemol> I look at mathematics as more of an art than a science actually. Many people may disagree with me. But in math nothing is *actually* assumed to be true
+[01:37.25] <Rainb> Yeah
+[01:37.32] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[01:37.37] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[01:37.48] <wikiemol> Everything in math is about saying *if* x is true, what are the consequences
+[01:37.49] <lavender> math is not science because it does not depend on facts about the world
+[01:37.56] * duckrabbit__ (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) Quit (Ping timeout: 246 seconds)
+[01:38.03] <Rainb> isn't math science
+[01:38.04] <wikiemol> which is exactly like how writers create stories when you think about it
+[01:38.11] <Rainb> wut
+[01:38.15] <wikiemol> math is used as a tool in science
+[01:38.17] <lavender> however, defining all things that are not science as art is counterintuitive
+[01:38.20] <wikiemol> but it is not science
+[01:38.37] <Rainb> Is economics a science
+[01:38.39] <wikiemol> lavender: oooh I agree
+[01:38.49] <Rainb> economy*
+[01:38.50] <wikiemol> I am not saying all things that are not science are art
+[01:38.50] * Pedro__ (~Pedro@187.38.0.178) Quit (Read error: Connection reset by peer)
+[01:39.02] <Spynxic> Rainb: Math is art, economics is computer science is physics
+[01:39.19] <Rainb> Spynxic: wat
+[01:39.22] * tac_ (~tac-tics@c-50-172-59-90.hsd1.il.comcast.net) Quit (Quit: Leaving)
+[01:39.26] <wikiemol> lavender: just that math in particular is art
+[01:39.28] * spudzee1111 (~spudzee11@12.7.32.3) has joined channel ##math
+[01:39.28] * Mekanik (~vov314156@c-24-16-99-74.hsd1.wa.comcast.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:39.43] <lavender> ok whats art then
+[01:39.47] <wikiemol> because its really about creating imaginary worlds
+[01:39.54] <Rainb> art is drawing
+[01:40.00] <wikiemol> slash imaginary concepts
+[01:40.03] * emilypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[01:40.06] <wikiemol> and expressing them to other people
+[01:40.07] <Spynxic> lavender: Something that reflects reality
+[01:40.11] <wikiemol> in a way that is believable
+[01:40.12] * jbud (~jbud@S0106001195562db6.gv.shawcable.net) Quit (Quit: leaving)
+[01:40.18] <lavender> Spynxic then science is art too
+[01:40.32] <wikiemol> lavender: the *math* of science is art
+[01:40.43] <lavender> ...
+[01:40.48] <wikiemol> but the science itself (i.e. the experiments) are not art
+[01:40.49] <Spynxic> science doesn't reflect reality, it breaks down reality into conceivable parts
+[01:41.32] <Rainb> Math doesn't need a lab because the proof is instant, isn't
+[01:41.35] <lavender> when you draw a phylogenetic tree, is it math?  is it a reflection of reality?  is it art?  is it science?
+[01:42.04] <Rainb> I think they should replace math with logic in schools
+[01:42.10] <lavender> this conversation is bad and you should feel bad.  please kill yourself .
+[01:42.19] <wikiemol> I would say a phylogenetic tree is definitely art
+[01:42.24] <wikiemol> and math
+[01:42.29] <Spynxic> lavender: ＋＋http://upload.wikimedia.org/wikipedia/commons/5/5d/Monet_Water_Lilies_1916.jpg，，
+[01:42.32] <wikiemol> and I mean it is ofcourse open to debate
+[01:42.38] * arthurKN (~arthurKN@unaffiliated/arthurkn) Quit (Remote host closed the connection)
+[01:42.43] <wikiemol> like I don't claim that what I am saying is fact
+[01:42.50] <wikiemol> its just the way I look at it
+[01:42.53] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 245 seconds)
+[01:43.05] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[01:43.09] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 245 seconds)
+[01:43.25] <lavender> wikiemol find a sharp object and puncture your carotid artery with it
+[01:43.37] <Spynxic> Lol
+[01:43.44] * frelleck (frelleck@unaffiliated/frelleck) has left ##math ()
+[01:43.52] <wikiemol> lavender: lol nah i'm good
+[01:44.01] <lavender> no you're not
+[01:44.02] <Rainb> is art about creating imaginary worlds
+[01:44.18] * dassouki (~ahmed@89.211.115.250) Quit (Ping timeout: 265 seconds)
+[01:44.22] <Spynxic> Rainb: Consider the extent of your imagination
+[01:44.29] <Rainb> What is contemporary art then.
+[01:44.38] * agjacome (~agjacome@132.158.216.87.dynamic.jazztel.es) has joined channel ##math
+[01:44.48] <Spynxic> Human expression of reality
+[01:45.40] <wikiemol> Rainb: Contemporary art is so incredibly broad
+[01:45.53] <Spynxic> But a better question is, how could I create a graph that build complex groups of interacting nodes
+[01:46.03] <Spynxic> builds*
+[01:46.11] <wikiemol> but I define it as anything that was 1. created by humans, and 2. can be called beautiful by a human
+[01:46.32] <Rainb> kids
+[01:46.35] <Rainb> lol jk
+[01:47.16] <Spynxic> I might call a program beautiful, does that make the sequence of algorithms art?
+[01:47.23] <lavender> wikiemol you would be more beautiful as a corpse
+[01:47.40] <Rainb> programming feels like an art sometimes
+[01:47.42] <Rainb> so maybe
+[01:47.49] <Rainb> but that's perhaps to math too
+[01:47.52] * dassouki (~ahmed@89.211.115.250) has joined channel ##math
+[01:48.03] * Mekanik (~vov314156@c-24-16-99-74.hsd1.wa.comcast.net) has joined channel ##math
+[01:48.03] <Rainb> maybe programming inherits the art in math
+[01:48.21] <wikiemol> I would agree with that
+[01:48.21] * gp5st (~jim@pool-72-65-233-251.pitbpa.fios.verizon.net) Quit (Quit: Leaving.)
+[01:48.35] <wikiemol> Art is just so broad that its hard not to have an answer that is that broad
+[01:48.47] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:48.55] * sre-su1 (~sre-su@unaffiliated/sre-su) has joined channel ##math
+[01:49.27] <Spynxic> Rainb: ＋＋http://hardmath123.github.io/isprogrammingmath.html，，
+[01:50.27] *** Server disconnected on irc.freenode.net
+[02:00.38] Rainb resolved to 190.9.203.122
+[02:00.39] * You have joined ##math
+[02:00.39] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[02:00.39] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[02:00.39] Channel modes for ##math are :+Ccnt
+[02:00.39] Channel Created on: 8:42 PM 1/29/2010
+[02:00.48] <Rainb> internet just went off
+[02:00.56] * efm_ is now known as efm
+[02:01.08] <Rainb> spyinxic left
+[02:01.25] <wikiemol> You didn't miss anything
+[02:01.37] * induktio (4c6a6c37@gateway/web/freenode/ip.76.106.108.55) Quit (Quit: Page closed)
+[02:01.39] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[02:02.20] * yrrebaer (~yrrebaer@unaffiliated/yrrebaer) Quit (Quit: yrrebaer)
+[02:03.04] * CalamityBlue (~CalamityB@182.54.177.12) Quit (Disconnected by services)
+[02:03.04] * CalamityToo (CalamityBl@182.54.177.12) has joined channel ##math
+[02:03.54] <Rainb> wikiemol: have you read lockharts' lament
+[02:04.07] * yrrebaer (~yrrebaer@unaffiliated/yrrebaer) has joined channel ##math
+[02:04.44] <lavender> lockhart's lament is overrated garbage and so are you
+[02:04.45] <fattest> A particle moves in simple harmonic motion so its acceleration is given by -4x ms^-2; show that x = cos2t is a formula for displacmenet; monoprotic
+[02:04.47] * wqe23_ (~wqe23@2602:306:c5c1:f5e0:3105:8f58:26c2:b990) has joined channel ##math
+[02:04.49] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Ping timeout: 245 seconds)
+[02:05.11] <Rainb> lavender: no u
+[02:05.20] <fattest> please help
+[02:05.37] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) Quit (Read error: Connection reset by peer)
+[02:06.03] * kla2 (~kla2@d154-20-119-111.bchsia.telus.net) Quit (Read error: Connection reset by peer)
+[02:06.10] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[02:06.10] <lavender> simple harmonic motion... show that cos(stuff) is a formula for its displacement...
+[02:06.19] * kla2 (~kla2@d154-20-119-111.bchsia.telus.net) has joined channel ##math
+[02:06.43] * GargantuaSauce (~sauce@blk-224-183-201.eastlink.ca) Quit (Quit: No Ping reply in 180 seconds.)
+[02:06.44] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[02:06.54] * GargantuaSauce (~sauce@blk-224-183-201.eastlink.ca) has joined channel ##math
+[02:06.54] --GargantuaSauce-- logged in with account (GargantuaSauce)
+[02:07.19] * emilypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 245 seconds)
+[02:07.21] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##math
+[02:07.22] --wlczkun-- logged in with account (wlcz)
+[02:07.28] * wqe23 (~wqe23@2602:306:c5c1:f5e0:3105:8f58:26c2:b990) Quit (Ping timeout: 245 seconds)
+[02:07.37] * emirypi (~emily@c-50-134-162-89.hsd1.co.comcast.net) Quit (Ping timeout: 264 seconds)
+[02:08.09] * Oxyd (~oxyd@pdpc/supporter/student/oxyd) has joined channel ##math
+[02:08.20] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Quit: Computer has gone to sleep)
+[02:08.33] <raskol> fattest: do you know the relationship between acceleration and displacement
+[02:08.50] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Client Quit)
+[02:08.58] * copycat (740eb63f@gateway/web/freenode/ip.116.14.182.63) Quit (Ping timeout: 246 seconds)
+[02:09.03] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[02:09.56] <fattest> raskol: acceleration is the change in velocity; velocity is the change in displacement
+[02:09.57] * Sweet_Ride (~Sweet@162.212.119.0) has joined channel ##math
+[02:09.57] --Sweet_Ride-- logged in with account (Sweet_Ride)
+[02:09.58] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Ping timeout: 245 seconds)
+[02:10.08] * neagle3 (~neagle3@gateway/vpn/privateinternetaccess/neagle3) has joined channel ##math
+[02:10.13] * bb010g (uid21050@gateway/web/irccloud.com/x-eqssnkrplgeinrzq) has joined channel ##math
+[02:10.36] <UidX> hi
+[02:10.52] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:10.54] <monoprotic> fattest find a (d^2 x/dt^2) and show that its equal to -4x
+[02:11.01] <raskol> fattest: do you know any way to go from acceleration ->velocity-> displacement
+[02:11.29] <raskol> or displacement -> velocity -> acceleration I guess!
+[02:11.52] <fattest> raskol: differentiate x
+[02:11.59] <fattest> to get velocity; differentiate v to get a
+[02:12.03] * IAmATelephone (4751c864@gateway/web/freenode/ip.71.81.200.100) has joined channel ##math
+[02:12.16] <fattest> ok
+[02:12.58] * AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) has joined channel ##math
+[02:13.20] <IAmATelephone> Is there a channel for discussions about physics?
+[02:13.29] <UidX> IAmATelephone: ##physics
+[02:13.33] * walther01 (5e70c91b@gateway/web/freenode/ip.94.112.201.27) Quit (Quit: Page closed)
+[02:13.52] * Guest48285 is now known as kmh
+[02:13.54] <Rainb> need invitation
+[02:14.18] <IAmATelephone> And how do I go about acquiring an invitation?
+[02:14.22] * kmh is now known as Guest71234
+[02:14.35] * AntiSpamMeta_ (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[02:14.37] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[02:14.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Remote host closed the connection)
+[02:15.11] <UidX> ?
+[02:15.20] <UidX> ##physics require invitation?
+[02:15.28] <UidX> requires*
+[02:15.44] * nForce_ (~nforce@arch.bloemendal.me) has joined channel ##math
+[02:15.45] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[02:15.51] * sre-su (~sre-su@unaffiliated/sre-su) has joined channel ##math
+[02:16.15] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) has joined channel ##math
+[02:16.28] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) has joined channel ##math
+[02:16.30] * Guest71234 is now known as _kmh_
+[02:16.42] * NightRa (uid40361@gateway/web/irccloud.com/x-cmosruqrremcziws) has joined channel ##math
+[02:17.00] * __zxq9__ (~ceverett@z133104.ppp.asahi-net.or.jp) has joined channel ##math
+[02:17.17] <UidX> i can join ##physics and i wasnt invited
+[02:17.39] * splitter (~paul@leonardo.netwichtig.de) Quit (Ping timeout: 265 seconds)
+[02:17.43] <monoprotic> you dont need an invite to ##physics, that's silly
+[02:18.01] * splitter (~paul@leonardo.netwichtig.de) has joined channel ##math
+[02:18.12] * linear4_ (L@unaffiliated/lynear) has joined channel ##math
+[02:18.14] <Pluto> :D
+[02:18.19] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[02:18.53] * metatropolis (~metatropo@user-0cal8ch.cable.mindspring.com) Quit (Ping timeout: 250 seconds)
+[02:19.23] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[02:19.55] <IAmATelephone> I keep being forwarded to ##physics-overflow when I try joining...
+[02:20.00] * linear4 (L@unaffiliated/lynear) Quit (Disconnected by services)
+[02:20.04] * linear4_ is now known as linear4
+[02:21.00] * tonsofpc1 (~mythbuntu@cpe-67-251-117-244.stny.res.rr.com) has joined channel ##math
+[02:21.01] <monoprotic> IAmATelephone the freenode webchat host is banned due to abuse there
+[02:21.10] * batzy- (~batzy@haxchat.org) has joined channel ##math
+[02:21.23] <monoprotic> you can get in if you use a different IRC client
+[02:21.30] <IAmATelephone> Oh
+[02:21.32] <IAmATelephone> Thanks
+[02:21.38] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) Quit (Ping timeout: 245 seconds)
+[02:21.44] * zxq9 (~ceverett@z133104.ppp.asahi-net.or.jp) Quit (Remote host closed the connection)
+[02:21.46] * toccatanfugue (~bionet@69.63.185.56) has joined channel ##math
+[02:21.57] * David_____ (~David@unaffiliated/david) has joined channel ##math
+[02:21.57] * David (~David@unaffiliated/david) Quit (Killed (morgan.freenode.net (Nickname regained by services)))
+[02:21.57] * David_____ is now known as David
+[02:22.26] * IAmATelephone (4751c864@gateway/web/freenode/ip.71.81.200.100) Quit (Quit: Page closed)
+[02:22.27] * masquera1e (~rdeaton@162.243.126.156) has joined channel ##math
+[02:23.32] * anglisc520 (~aethelber@81-86-151-146.dsl.pipex.com) has joined channel ##math
+[02:23.33] * QuantumP7 (~QuantumP7@h84.180.18.98.dynamic.ip.windstream.net) Quit (Remote host closed the connection)
+[02:23.52] * QuantumP7 (~QuantumP7@h84.180.18.98.dynamic.ip.windstream.net) has joined channel ##math
+[02:24.05] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##math
+[02:24.34] <DarkBloodWolf> Can some give me the Square Root of 642
+[02:24.41] <DarkBloodWolf> please
+[02:24.44] * QuantumP7 (~QuantumP7@h84.180.18.98.dynamic.ip.windstream.net) Quit (Client Quit)
+[02:24.58] * danielfilho_ (~danielfil@208.68.39.233) has joined channel ##math
+[02:24.59] <monoprotic> 25.338
+[02:24.59] <svetlana> 25.338
+[02:25.00] <mxms> 25.33
+[02:25.02] <svetlana> heh
+[02:25.03] <monoprotic> i win
+[02:25.05] <mxms> fuck
+[02:25.12] <raskol> sqrt(642) to be exact
+[02:25.12] <svetlana> sorry :)
+[02:25.14] <monoprotic> mxms is slow and wrong
+[02:25.14] * _Atom_ (~jawat@172.56.15.162) has joined channel ##math
+[02:25.15] <svetlana> :D
+[02:25.18] <mxms> lmfao
+[02:25.22] * ValicekB_ (~tbox@dot.snat.baz.cz) has joined channel ##math
+[02:25.40] * dicker (dicker@c-71-58-196-93.hsd1.pa.comcast.net) has joined channel ##math
+[02:25.56] <dicker> 1+1=?
+[02:26.12] <mxms> 1.999999
+[02:26.13] * nForce (~nforce@arch.bloemendal.me) Quit (Ping timeout: 245 seconds)
+[02:26.25] <dicker> close
+[02:26.40] * nikio__ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##math
+[02:26.40] <mxms> now im fast and wrong :-)
+[02:26.42] <mxms> getting there
+[02:27.01] * dicker (dicker@c-71-58-196-93.hsd1.pa.comcast.net) has left ##math ()
+[02:27.04] <DarkBloodWolf> hey it's svetlana
+[02:27.09] <DarkBloodWolf> Hi svetlana !!
+[02:27.31] <svetlana> hello
+[02:27.37] <DarkBloodWolf> ok, what about 0/0
+[02:27.41] <mxms> dunno
+[02:27.43] <svetlana> undef
+[02:27.43] <mxms> could be anything
+[02:27.53] <Rainb> maybe it is one
+[02:27.58] <DarkBloodWolf>  / as in devide
+[02:28.04] --sir_galahad_ad_-- logged in with account (sir_galahad_ad)
+[02:28.07] * sre-su1 (~sre-su@unaffiliated/sre-su) Quit (*.net *.split)
+[02:28.07] * anonnumberanon (~anonnumbe@unaffiliated/anonnumberanon) Quit (*.net *.split)
+[02:28.07] * w4ffles (~w4ffles@cpe-72-177-64-105.austin.res.rr.com) Quit (*.net *.split)
+[02:28.07] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) Quit (*.net *.split)
+[02:28.07] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (*.net *.split)
+[02:28.07] * spagett (~spagett@unaffiliated/spagett) Quit (*.net *.split)
+[02:28.07] * Nach0z (~nach0z@unaffiliated/nach0z) Quit (*.net *.split)
+[02:28.07] * tonsofpcs (~mythbuntu@rivendell/member/tonsofpcs) Quit (*.net *.split)
+[02:28.07] * ValicekB (~tbox@dot.snat.baz.cz) Quit (*.net *.split)
+[02:28.07] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) Quit (*.net *.split)
+[02:28.07] * anglisc (~aethelber@81-86-151-146.dsl.pipex.com) Quit (*.net *.split)
+[02:28.07] * krator44 (krator44@gateway/shell/elitebnc/x-yptnbdttlfhbnbuw) Quit (*.net *.split)
+[02:28.08] * batzy (~batzy@unaffiliated/batzy) Quit (*.net *.split)
+[02:28.08] * masquerade (~rdeaton@162.243.126.156) Quit (*.net *.split)
+[02:28.08] * danielfilho (~danielfil@208.68.39.233) Quit (*.net *.split)
+[02:28.08] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (*.net *.split)
+[02:28.09] <Rainb> anything devided by itself is one amirite
+[02:28.10] <mxms> yay
+[02:28.16] <Rainb> netsplit
+[02:28.19] <monoprotic> 0/0 is undefined
+[02:28.27] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:28.27] <DarkBloodWolf> it's 1
+[02:28.32] <monoprotic> it's not 1
+[02:28.33] <Rainb> this is what happens when you divide by 0
+[02:28.37] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:28.46] <DarkBloodWolf> 1*1=1
+[02:28.49] <Sweet_Ride> Is 0/0 definitively and undoubtedly undefined, or is there potential to define it in such a way that it makes sense?
+[02:28.55] <DarkBloodWolf> 1*0=0
+[02:28.57] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[02:28.58] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:28.59] <DarkBloodWolf> 0*0=0
+[02:29.00] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) has joined channel ##math
+[02:29.08] <Pluto> guys, what about math that it seems to have two sides : computation and proof ?
+[02:29.09] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:29.10] <Sweet_Ride> or rather any n/0
+[02:29.21] <Pluto> most highschool and engineering math is all about computation
+[02:29.28] <Pluto> but math major is all about proof
+[02:29.38] * blablaa (~z@unaffiliated/blablaa) Quit (Remote host closed the connection)
+[02:29.39] <mxms> lol
+[02:29.41] <DarkBloodWolf> now reverse the problem 0*0=0 to 0/0=1
+[02:29.46] <Rainb> if 0*0=0 you can solve for 0 and it is 0=0/0
+[02:29.47] <mxms> there is computational math you know Pluto
+[02:29.49] <monoprotic> Sweet_Ride it's covered here ＋＋http://mathworld.wolfram.com/DivisionbyZero.html，，
+[02:29.54] <Pluto> mxms ?
+[02:30.07] <Rainb> zero is the craziest number
+[02:30.12] <mxms> you need to like, state a question
+[02:30.16] * Xenolith (~Xenolith@unaffiliated/xenolith) has joined channel ##math
+[02:30.18] <mxms> a question mark does not help me help you
+[02:30.23] <mxms> i do not know what you are confused about
+[02:30.25] <mxms> use words please
+[02:30.26] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:30.29] <Rainb> when asked for a favorite number just say 0
+[02:30.30] <Pluto> Wtff
+[02:30.36] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:30.37] <Pluto> Do you agree that math has two sides
+[02:30.40] <Pluto> computation and proof
+[02:30.44] <Pluto> they don't overlap, correct ?
+[02:30.44] <mxms> no
+[02:30.51] <mxms> i don't agree
+[02:30.52] <Pluto> do they overlap ?
+[02:30.52] <tommah> i do computations in proofs all the time
+[02:30.58] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:31.01] <Pluto> tommah what example ?
+[02:31.08] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:31.09] * Nach0z (~nach0z@unaffiliated/nach0z) has joined channel ##math
+[02:31.12] * doobi-sham (~cinch@ec2-54-69-154-199.us-west-2.compute.amazonaws.com) Quit (K-Lined)
+[02:31.18] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (K-Lined)
+[02:31.27] <DarkBloodWolf> ok I got a trick question for you guys
+[02:31.31] <mxms> y
+[02:31.47] <tommah> Pluto: open a linear algebra book...lots of proofs there are computations
+[02:31.54] <DarkBloodWolf> does nyone want to play a .exe game that has it on it, or just tell you guys?
+[02:31.55] <Pluto> they are not proofs
+[02:31.56] <DarkBloodWolf> anyone *
+[02:31.58] <Sweet_Ride> monoprotic so basically because you can't invert the division using multiplication, then division by zero for all real numbers is definitely and permanently undefined?
+[02:31.59] <tommah> horse shit
+[02:32.05] <mxms> Pluto:
+[02:32.07] <mxms> 0*a = 0
+[02:32.08] <Pluto> any real linear algebra book has no computation whatsoever
+[02:32.10] <mxms> proof:
+[02:32.11] * jamesson (~asd@pool-71-127-193-78.nwrknj.fios.verizon.net) Quit (Quit: Going offline, see ya! (＋＋www.adiirc.com，，))
+[02:32.15] <tommah> the one i teach with has proofs
+[02:32.19] <mxms> a*0 = a*0 because yes
+[02:32.20] <DarkBloodWolf> algebra is fucking shit
+[02:32.27] <mxms> a*(0 + 0) = a*0 because 0 + 0 =0
+[02:32.31] <Sweet_Ride> I love algebra :(
+[02:32.31] <mxms> a*0 + a*0 = a*0
+[02:32.34] <mxms> a*0 = 0
+[02:32.35] <svetlana> DarkBloodWolf: if it's released with the source code, compile instructions, and a note that modifying and re-distributing it is fine.
+[02:32.37] <tommah> for example "prove that all nonhomogeneous matrix equations Ax=b have a solution of the form w=p+v_h where p solves Ax=b and v_h is any solution of the homogeneous equation Ax=0"
+[02:32.37] * heez (~fdf@unaffiliated/yj) Quit (Quit: Gone!)
+[02:32.37] <mxms> there was computation and proof
+[02:32.40] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:32.40] --Mr0rris0-- logged in with account (Mr0rris0)
+[02:32.43] <tommah> you perform a computation to prove it
+[02:32.44] <DarkBloodWolf> svetlana, no
+[02:32.44] <svetlana> DarkBloodWolf: then many people here would be glad to try.
+[02:32.47] * Mr0rris0 is now known as nic778
+[02:32.49] * nic778 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:32.51] <svetlana> otherwise no, it has backdoors. :)
+[02:32.59] <DarkBloodWolf> svetlana, just the game,
+[02:33.03] <monoprotic> Sweet_Ride it says that there are some contexts in which dividing by zero IS defined
+[02:33.08] <DarkBloodWolf> svetlana, it's an easy game
+[02:33.08] <svetlana> that's what it looks like.
+[02:33.09] * ValicekB_ is now known as ValicekB
+[02:33.13] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:33.19] <Sweet_Ride> Yes, I know monoprotic, which is why I stated for all real numbers.
+[02:33.21] <Pluto> tommah hmm i see what you mean.
+[02:33.21] <svetlana> you have no way to estabish that it has no backdoors.
+[02:33.22] * fattest (9b8f0a15@gateway/web/freenode/ip.155.143.10.21) Quit (Quit: Page closed)
+[02:33.23] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:33.33] <monoprotic> Sweet_Ride sorry, didnt see real
+[02:33.39] * metatropolis (~metatropo@user-0cal8ch.cable.mindspring.com) has joined channel ##math
+[02:33.39] <tommah> more abstractly the part of the point of algebraic topology is to make topology something you can compute
+[02:33.43] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) has joined channel ##math
+[02:33.46] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##math
+[02:33.56] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:34.09] <Pluto> i don't know this is like a proof of the following : "prove that if  (b+d)=c      a+(b+d) = a+c "
+[02:34.16] <Pluto> I don't know, this seems more like acomputation
+[02:34.20] * osoba_q (~me@79.175.74.42) Quit (Remote host closed the connection)
+[02:34.24] <tommah> depends on the level you're looking at....
+[02:34.33] <tommah> often in lower level math you accept such a thing as an "axiom of the real numbers"
+[02:34.40] <mxms> but i proved a statement
+[02:34.42] <mxms> so uh yeah
+[02:34.50] <tommah> but if you construct the real numbers from the natural numbers then you would have to prove that statement
+[02:34.52] * jailbot (~textual@c-73-44-196-102.hsd1.il.comcast.net) Quit (Ping timeout: 240 seconds)
+[02:35.29] <Pluto> every computation is a proof ?
+[02:35.39] <Pluto> Are the kids in highschool proving things without knowing
+[02:35.54] <mxms> who the fuck cares
+[02:35.56] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) has joined channel ##math
+[02:35.56] * anonnumberanon (~anonnumbe@unaffiliated/anonnumberanon) has joined channel ##math
+[02:35.56] * w4ffles (~w4ffles@cpe-72-177-64-105.austin.res.rr.com) has joined channel ##math
+[02:35.56] * spagett (~spagett@unaffiliated/spagett) has joined channel ##math
+[02:35.56] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) has joined channel ##math
+[02:35.56] * krator44 (krator44@gateway/shell/elitebnc/x-yptnbdttlfhbnbuw) has joined channel ##math
+[02:36.03] <Rainb> artists
+[02:36.04] <Pluto> im having a hard time this friday night  separating proof from computation
+[02:36.08] <mxms> so dont
+[02:36.12] <Pluto> i need to
+[02:36.17] <mxms> ;_;
+[02:36.20] <tommah> you could say they are "theorems of arithmetic" but youd probably be laughed at if you thought it was some serious work
+[02:36.20] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (Max SendQ exceeded)
+[02:36.30] <lavender> whats a regular local ring
+[02:36.40] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[02:37.35] <Rainb> (b+d)=c so c=c so a+c=a+c
+[02:38.38] <Pluto> i dont know ,  if i go from  x+3+5 = 2   to  x = 2-3-5    am i proving the theorem "x+3+5 = 2 ->  x=2-3-5"
+[02:38.43] * _Atom_ (~jawat@172.56.15.162) Quit (Ping timeout: 252 seconds)
+[02:38.50] <Pluto> is every engineering solving an integral in his calc exams proving shit
+[02:38.56] <Pluto> or differentiating shit
+[02:39.07] <Pluto> is any kid plotting the graph of a function proving shit
+[02:39.12] * duckrabbit (~duckrabbi@128.54.183.205) has joined channel ##math
+[02:39.12] <Rainb> define prove
+[02:39.16] <Rainb> define proof
+[02:39.25] <raskol> it's all math
+[02:39.42] <raskol> if you are doing it to establish a general fact about something, call it a theorem and the math you do is a proof
+[02:39.45] <lavender> whats the difference between computing something and proving that the result of the computation is something
+[02:40.05] <Pluto> yes thats my doubt lavando
+[02:40.12] <Pluto> but i'm talking about proof in the formal sense
+[02:40.15] <tommah> you could argue that, formally, there is no difference but its not something mathematicians think about/care about too much
+[02:40.17] <Pluto> as defined in math logic
+[02:40.20] <Pluto> a formal proof
+[02:40.35] <Pluto> as a sequence of wff formulas of first order logic ( for classical math )
+[02:40.40] <Pluto> and the last formula is the theorem
+[02:40.50] <toastyde1th> i tend to think of computation as determining a specific object that fufills some condition rather
+[02:40.51] <tommah> if that was your definition of a proof then no mathematician proves things ;)
+[02:41.08] <tommah> unless you add the condition "can be converted into a wff blablabla"
+[02:41.22] <Pluto> tommah but every correct proof in informal mathematics can be converted to a formal proof
+[02:41.27] <Pluto> if the required work is put
+[02:41.38] <Pluto> its just a matter of time
+[02:41.58] <tommah> yea but not everyone agress what constitutes a "correct proof" -- some ppl deny the ability to do proof by contradiction and others deny the axiom of choice
+[02:42.06] <Pluto> the point for formalizing a proof is the same point for formalizing computation, algorithm, information
+[02:42.16] <Pluto> it makes everything precise
+[02:42.21] <tommah> word
+[02:42.47] <Pluto> tommah thats true
+[02:42.57] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[02:43.02] <tommah> tho you can just have different systems for different assumptions so its all good
+[02:43.29] <tommah> if you wanna get real precise you can study reverse mathematics which attempts to find the minimal assumptions a given theorem requires to be proven
+[02:43.36] <Pluto> every computation is then a proof,  some proofs uses computation and others don't use computation at all
+[02:44.09] <Pluto> computation defined as something expressible in at least turing complete models of computation
+[02:45.05] <Pluto> i mean every computation in math is then a proof in math ( possibly converted to a formal proof ), some proofs in math uses mathematical computation and others dont
+[02:45.43] <DarkBloodWolf> guys: what do you think the answer is?
+[02:45.44] <DarkBloodWolf> ＋＋http://i.imgur.com/QibCHHs.png，，
+[02:45.53] * bigbadjudas (~666@pool-108-16-8-95.phlapa.fios.verizon.net) has joined channel ##math
+[02:46.25] <jle`> too advanced for me
+[02:46.35] <jle`> pizzanomics is hard
+[02:47.26] <tommah> DarkBloodWolf: there are RiemannZeta[2]*90/pi^2 sausages
+[02:47.28] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) Quit (Remote host closed the connection)
+[02:47.40] * barfod (~none@unaffiliated/barfod) Quit (Quit: leaving)
+[02:48.05] * fusillicode (~user@93-51-152-124.ip267.fastwebnet.it) has joined channel ##math
+[02:48.12] * fusillicode (~user@93-51-152-124.ip267.fastwebnet.it) has left ##math ()
+[02:48.38] <DarkBloodWolf> tommah, no!
+[02:48.51] <monoprotic> dear lord that is difficult to read
+[02:48.53] <tommah> there are none because its in our imagination
+[02:49.02] <DarkBloodWolf> tommah, now give me a proper answer, and stop acting like Shelden! :P
+[02:49.10] <tommah> who the fuck is shelden
+[02:49.13] <Pluto> Shelden Monroe ?
+[02:49.44] <DarkBloodWolf> tommah,  out of The Big Band Thoery
+[02:49.49] <monoprotic> oo big band
+[02:49.52] <tommah> o did he play the sax
+[02:49.55] <toastyde1th> there are 15 sausages, 7 in the pan, three inside people, 5 in the package
+[02:49.56] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[02:50.14] <DarkBloodWolf> toastyde1th, aaannnd you think the answer is....?
+[02:50.28] <toastyde1th> hm?
+[02:50.30] <toastyde1th> that's my answer
+[02:50.41] <monoprotic> probably looking for "21" but the question sucks anyway
+[02:50.45] <monoprotic> there are millions of sausages overall
+[02:50.49] <monoprotic> billions!
+[02:50.50] <DarkBloodWolf> toastyde1th, how many are there overall?
+[02:51.04] <Pluto> wikiemol hey
+[02:51.14] * [fade] (~user@shellium/member/fade) has joined channel ##math
+[02:51.21] <Pluto> wikiemol hey bigpicture thinker
+[02:51.33] <Pluto> wikiemol salud
+[02:51.42] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[02:51.43] <toastyde1th> DarkBloodWolf, the question is not well-formed and has several answers
+[02:51.56] <monoprotic> ^
+[02:52.04] <Pluto> hahaha
+[02:52.06] <DarkBloodWolf> toastyde1th, that's the point of a TRICK question
+[02:52.19] <Pluto> thats the point of a HARD question you mean
+[02:52.21] <toastyde1th> that's not a trick question
+[02:52.23] <monoprotic> you're confusing TRICK question with STUPID question i thnk
+[02:52.27] * toccatan1ugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) has joined channel ##math
+[02:52.34] <Pluto> its not a trick question just because we cant solve
+[02:52.36] <toastyde1th> something that is not well-formed isn't a trick question because the valid responses are large
+[02:52.50] <DarkBloodWolf> toastyde1th, <DarkBloodWolf> toastyde1th, that's the point of a TRICK question
+[02:52.52] <monoprotic> is an eaten sausage a "overall" sausage?
+[02:52.53] <toastyde1th> if more than one different solution exists for a problem, that problem is easier
+[02:53.03] <Pluto> DarkBloodWolf HARD question you mean
+[02:53.06] <monoprotic> what is the sausage scope?
+[02:53.21] <toastyde1th> because if i say "15" that fits an interpretation of the question
+[02:53.32] <Pluto> it is a model for the question
+[02:53.34] <raskol> what about sausages that could theoretically be made out of the people eating the sausages
+[02:53.37] <toastyde1th> you would say "that's incorrect, the answer is <whatever solution you prefer>"
+[02:53.42] <toastyde1th> and you would be incorrect in stating that
+[02:53.45] <Pluto> multimodel question
+[02:53.58] <monoprotic> delicious hard sausages
+[02:53.59] <toastyde1th> the most you could say is "another answer is <whatever>"
+[02:54.35] * toccatanfugue (~bionet@69.63.185.56) Quit (Ping timeout: 246 seconds)
+[02:54.36] <grill> yo
+[02:55.19] <Pluto> hi
+[02:55.35] <toastyde1th> and yet a third person would assert we're both incorrect simply because there are multiple answers and neither of us listed them all
+[02:56.27] <mxms> shut up
+[02:56.46] <monoprotic> lol
+[02:56.54] * Mango (bd7ad930@gateway/web/freenode/ip.189.122.217.48) has joined channel ##math
+[02:56.56] * ValicekB (~tbox@dot.snat.baz.cz) Quit (Read error: Connection reset by peer)
+[02:57.13] <Mango> Who is the best Physic or Math ? I go college, in process of deciding
+[02:57.25] <Mango> Killing doubt
+[02:57.30] <raskol> Fezzik
+[02:57.38] <Mango> i go ask in physic too
+[02:59.24] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[02:59.47] <Mango> What is more hard Physic or Math ?
+[02:59.49] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) Quit (Ping timeout: 264 seconds)
+[03:00.19] <mxms> who cares
+[03:00.26] * ValicekB (~tbox@dot.snat.baz.cz) has joined channel ##math
+[03:00.28] <rio> theres no answer to that question
+[03:00.40] <rio> both disciplines are huge
+[03:00.42] <Mango> I decide in math or physic to go in college  soon
+[03:00.59] <Mango> Need know what is more hard and best complete
+[03:01.15] * Mekanik (~vov314156@c-24-16-99-74.hsd1.wa.comcast.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[03:01.32] * graham666 (~schmity@75-172-78-192.tukw.qwest.net) has joined channel ##math
+[03:01.34] <mxms> why does it matter which is harder
+[03:01.40] <mxms> isnt the point to do which one you prefer
+[03:02.01] <manymanywolves> i did that and now i'm unemployed so ymmv
+[03:02.11] <DarkBloodWolf> The answer is 21
+[03:02.16] <DarkBloodWolf> geez...
+[03:02.16] <mxms> not even going to comment
+[03:02.19] <Mango> i dont understand much i like math and physic
+[03:02.27] <mxms> ok so do both
+[03:02.29] <mxms> ???
+[03:02.38] <Mango> cant, no money
+[03:02.44] <mxms> okay so do neither
+[03:02.45] <DarkBloodWolf> so I bet half of you people are in the ##physics channel
+[03:02.47] * nikio___ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##math
+[03:02.49] <Mango> only one
+[03:02.54] <mxms> ???
+[03:02.54] <DarkBloodWolf> really?
+[03:03.04] * joneshf-laptop (~joneshf@98.208.35.89) has joined channel ##math
+[03:03.10] * graham666 is now known as schmity|home
+[03:03.22] <Mango> i just want know what is more hard , someone know the two in advance ?
+[03:03.24] <DarkBloodWolf> mxms, is like: THERE'S A ##physics CHANNEL?1
+[03:03.25] <Mango> i have basic idea in physic and math
+[03:03.29] <toastyde1th> there's a small handful in both
+[03:03.33] <Mango> but no advance
+[03:03.35] <mxms> who the fuck cares which is harder
+[03:03.41] <mxms> why is that important
+[03:03.48] <Mango> i go to easy
+[03:03.49] <mxms> do you have some sort of superiority complex
+[03:03.51] <Mango> easier
+[03:03.54] <mxms> have to be doing the hardest thing
+[03:04.07] <mxms> okay well i took calc 3 and fucking got an A+. shit was easy
+[03:04.11] <mxms> not everyone thought so
+[03:04.34] * schmity|home is now known as schmity
+[03:04.37] * aslant_ (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[03:04.54] <mxms> do you know anything about either
+[03:05.00] <Mango> i dont know i think there is big difference and math is more hard than physic by good
+[03:05.00] <Mango> only basic
+[03:05.15] <mxms> i fucking hated physics
+[03:05.15] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) Quit (Ping timeout: 250 seconds)
+[03:05.15] <Mango> that is why i question
+[03:05.31] <mxms> but i have a close friend who thinks physics is easy shit
+[03:05.46] <mxms> so come back when youve got a better question
+[03:06.22] <Mango> i visit the college i go and ask there
+[03:06.30] * Mango (bd7ad930@gateway/web/freenode/ip.189.122.217.48) Quit (Quit: Page closed)
+[03:06.33] <toastyde1th> if you find the 400/500 level physics classes hard, you'll find the 400/500 level math classes hard, and vice versa
+[03:06.48] <manymanywolves> i feel like that's a bad question to ask your prospective advisors and professors
+[03:06.50] <mxms> i dont think so vice versa
+[03:06.52] <Rainb> maybe physics is art too
+[03:06.54] <toastyde1th> with those two subjects in particular you're asking a really bad question
+[03:06.55] <mxms> i took intro to relativity at my uni
+[03:06.58] <mxms> shit sucked ass
+[03:07.06] <Pluto> He's gone lol
+[03:07.16] <toastyde1th> #victory
+[03:07.37] * jailbot (~textual@c-73-44-196-102.hsd1.il.comcast.net) has joined channel ##math
+[03:07.46] <manymanywolves> umm hi doctor, um, professor sir. i want to study physics or math. but which one is hardest?
+[03:07.49] * jailbot (~textual@c-73-44-196-102.hsd1.il.comcast.net) Quit (Max SendQ exceeded)
+[03:08.14] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[03:08.14] <Rainb> poetry
+[03:08.21] * lukaramu (~lukaramu@port-56089.pppoe.wtnet.de) has joined channel ##math
+[03:08.21] --lukaramu-- logged in with account (lukaramu)
+[03:08.22] <Rainb> I never understood it
+[03:08.32] <mxms> ＋＋http://www.smbc-comics.com/?id=3011，，
+[03:08.34] <mxms> here
+[03:08.36] <mxms> you peckers
+[03:09.02] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##math
+[03:09.39] * toccatan1ugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Quit: Computer has gone to sleep)
+[03:09.46] * buggler_ (~buggler@58-7-78-138.dyn.iinet.net.au) Quit (Ping timeout: 244 seconds)
+[03:09.49] <Rainb> is physics-math popsci
+[03:09.55] * tarkus (~hello@109.230.140.12) has joined channel ##math
+[03:09.58] <Rainb> or that's astronomy-math
+[03:10.01] * wikiemol (~wikiemol@75.102.129.139) Quit (Ping timeout: 264 seconds)
+[03:10.11] * alphadog0309 (~alphadog0@pool-68-238-225-160.phil.east.verizon.net) has joined channel ##math
+[03:11.22] * asandweech (~thissand@unaffiliated/asandweech) Quit (Remote host closed the connection)
+[03:11.47] <Pluto> i hate computation
+[03:12.35] <mxms> get a calculator then
+[03:12.43] <mxms> like who the hell cares
+[03:13.01] * aslant_ (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[03:13.27] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[03:13.32] <gjord> Mango: the answer is to study biology
+[03:13.38] <gjord> so that you might discover what a BABE is
+[03:13.45] <Pluto> Is game Theory cool?
+[03:13.46] <gjord> they actually show up to those classes
+[03:13.48] <mxms> sometimes
+[03:13.52] <Pluto> i'm gonna study it in the future
+[03:13.58] <mxms> game theory is alright i guess
+[03:14.31] * petersr (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) has joined channel ##math
+[03:14.55] * ielo (~ielo@host-78-147-237-163.as13285.net) has joined channel ##math
+[03:15.02] <Pluto> its so awesome to see theories coming to formalize seemingly abstract ideas like algorithm, computation, information, game
+[03:15.07] <Pluto> proof
+[03:15.10] <mxms> sure
+[03:15.15] <Pluto> whats next
+[03:15.19] <mxms> sleep
+[03:15.31] <Pluto> formalizing sleep
+[03:15.35] <Pluto> not abstract enough lol
+[03:15.44] <mxms> ;_;
+[03:16.15] <Pluto> maybe energy lol
+[03:16.23] <Pluto> i think energy still doesnt formalizes it
+[03:16.29] <Pluto> only threats vaguely
+[03:16.56] <Pluto> physics*
+[03:17.02] <Pluto> Apart from saying, energy is conserved
+[03:17.13] <Pluto> energy-mommentum tensor
+[03:17.18] <Pluto> rather
+[03:17.44] <Pluto> also language was formalized
+[03:17.47] * SecretFire (~SecretFir@c-67-168-220-193.hsd1.wa.comcast.net) has joined channel ##math
+[03:17.56] <Pluto> so language, algorithm and computation, information, games, proofs
+[03:17.59] <Pluto> all formalized
+[03:18.00] <Pluto> so nice
+[03:18.09] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[03:18.11] <Pluto> all abstract things
+[03:18.28] <Pluto> and math is the framework for all those formalizations
+[03:18.32] <Pluto> math is king
+[03:19.00] <Pluto> Are there more abstract ideas formalized ?
+[03:19.05] <Pluto> maybe i'm unaware
+[03:19.15] <mxms> are you done
+[03:19.46] <Pluto> oh sure, we need to formalize music
+[03:20.42] * m95lag (~m95lag@97.107.191.49) has joined channel ##math
+[03:20.42] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Quit: Leaving)
+[03:21.05] <Pluto> but with math :D
+[03:21.13] <Pluto> not the vague music theory of todays
+[03:24.45] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##math
+[03:25.08] * timemage (~timemage@unaffiliated/timemage) Quit (Disconnected by services)
+[03:25.26] * timemage (~timemage@unaffiliated/timemage) has joined channel ##math
+[03:25.34] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##math
+[03:25.36] * broken_symlink (~broken_sy@73.165.69.3) Quit (Quit: Leaving)
+[03:27.09] * hecatonicosachor is now known as sacho
+[03:30.09] * antonfire (~antonfire@unaffiliated/antonfire) has joined channel ##math
+[03:32.39] * samsama_ (~samsama@host-2-101-104-80.as13285.net) has joined channel ##math
+[03:33.54] <Rainb> if we abstract music maybe we can make computers that make good music
+[03:34.59] * samsama (~samsama@host-2-101-104-80.as13285.net) Quit (Disconnected by services)
+[03:35.16] * samsama_ is now known as samsama
+[03:35.42] * expo873 (uid11626@gateway/web/irccloud.com/x-jcdftvsjemgxuill) Quit (Quit: Connection closed for inactivity)
+[03:36.10] * Liebknecht (uid46333@gateway/web/irccloud.com/x-cujobskebtkicdly) Quit (Quit: Connection closed for inactivity)
+[03:36.18] * duckrabbit (~duckrabbi@128.54.183.205) Quit (Remote host closed the connection)
+[03:36.19] *** Server disconnected on verne.freenode.net
+[06:53.28] --card.freenode.net-- *** No Ident response
+[06:53.28] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[06:53.33] Rainb resolved to 190.9.201.215
+[06:53.33] * You have joined ##math
+[06:53.33] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[06:53.34] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[06:53.34] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[06:53.34] --ChanServ-- [##physics] Don't ask to ask... ask!
+[06:53.34] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[06:53.34] Channel modes for ##math are :+Ccnt
+[06:53.34] Channel Created on: 8:42 PM 1/29/2010
+[06:53.49] * RWOverdijk (~RWOverdij@195-240-235-226.ip.telfort.nl) Quit (Ping timeout: 264 seconds)
+[06:54.24] * metatropolis (~metatropo@user-0cal8ch.cable.mindspring.com) Quit (Quit: metatropolis)
+[06:55.00] <loostro> no thats wrong.. :/
+[06:55.45] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 252 seconds)
+[06:55.55] <loostro> oohh i think i got it
+[06:56.39] <loostro> any vector X could be represented as x [1, 1, 1, 0] + y [ 1, -1, 0, -1] + z [-1, 1, 0, 0]
+[06:56.45] * mine3 (6725c943@gateway/web/freenode/ip.103.37.201.67) has joined channel ##math
+[06:56.59] <loostro> and if these 3 vectors are L.I. then they form a basis for Im F ?
+[06:57.01] <loostro> right?
+[06:57.21] * ep0 (~whk.ep0@89.39.198.236) has left ##math ()
+[06:57.48] <lyxia> uh
+[06:58.17] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[06:58.24] <lyxia> That looks correct
+[06:58.30] <loostro> but.. since the null space is just the zero vector.. then they must be L.I.
+[06:58.45] <lyxia> Yes
+[06:58.49] <loostro> so i dont have to calculate anything more, becouse by calculating the Ker F i already anwsered it
+[06:58.57] * Emrakul (~NomZ@unaffiliated/nomz) Quit (Ping timeout: 246 seconds)
+[06:59.06] <loostro> YAY math! :)
+[06:59.10] <loostro> thx lyxia :)
+[06:59.15] <lyxia> You have the theorem that dim(Ker(F)) + dim(Im(F)) = dim(R^3)
+[06:59.38] <drazak> rank nullity?
+[06:59.53] <lyxia> so dim(Im(F)) = 3, you have a set of 3 vectors that span Im(F), therefore it's a basis
+[06:59.57] <lyxia> drazak: Yes thank you.
+[07:00.19] <drazak> (I was checking)
+[07:00.45] --Leonarth-- logged in with account (leonarth)
+[07:00.48] <lyxia> :)
+[07:00.50] <drazak> I've only see it formulated in lesa direct ways I think
+[07:01.02] <loostro> math is so beautiful when you understand it.. and so cruel when you don't :P
+[07:01.18] <loostro> (just like my wife :P)
+[07:02.17] * mine3 (6725c943@gateway/web/freenode/ip.103.37.201.67) Quit (Ping timeout: 246 seconds)
+[07:04.01] * test___ (5a92878f@gateway/web/freenode/ip.90.146.135.143) has joined channel ##math
+[07:04.12] * kexmex (~kexmex@178.136.234.6) has joined channel ##math
+[07:04.22] * n008f4g_ (~jacek1234@89-70-176-170.dynamic.chello.pl) has joined channel ##math
+[07:04.54] * supferrets (~supferret@unaffiliated/supferrets) has joined channel ##math
+[07:05.07] * Terens (Terens@athedsl-4494674.home.otenet.gr) has joined channel ##math
+[07:05.17] * Terens (Terens@athedsl-4494674.home.otenet.gr) Quit (Client Quit)
+[07:05.41] * Terens (~ads@pgouv.com) has joined channel ##math
+[07:08.15] * jogru (~johann@chello084114229179.15.vie.surfer.at) has joined channel ##math
+[07:08.15] --jogru-- logged in with account (jogru)
+[07:08.36] <Rainb> I just discovered in a system of two equations c=b can be changed to c+a=b+a and if d=a you can change it to c+a=b+d
+[07:08.54] <Rainb> I just never thought it that way
+[07:08.54] --Yordan89-- logged in with account (Yordan89)
+[07:08.57] * delimit160 (d9e2fc3b@gateway/web/freenode/ip.217.226.252.59) Quit (Ping timeout: 246 seconds)
+[07:09.26] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (Ping timeout: 245 seconds)
+[07:09.53] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##math
+[07:11.25] * pulse (~pulse@unaffiliated/pulse) Quit (Ping timeout: 250 seconds)
+[07:11.27] * dassouki (~ahmed@176.203.95.51) has joined channel ##math
+[07:11.42] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[07:12.05] * avgtrisomygal (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[07:12.38] <lyxia> If c = b, any expression involving c has the same value as that expression where you substituted c with b.
+[07:13.14] * Manyfold (~nobody@unaffiliated/manyfold) Quit (Ping timeout: 245 seconds)
+[07:13.21] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[07:13.27] <lyxia> That's the "substitution" property of equality.
+[07:13.35] <lyxia> "substitution property"
+[07:14.12] * avgtrisomygal (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Client Quit)
+[07:14.26] * radflatearther (b2a2d988@gateway/web/cgi-irc/kiwiirc.com/ip.178.162.217.136) has joined channel ##math
+[07:14.38] * `Eddie (~dedword@95.142.88.209) Quit (Ping timeout: 252 seconds)
+[07:14.39] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) Quit (Quit: resttime)
+[07:14.42] * Emrakul (~NomZ@unaffiliated/nomz) has joined channel ##math
+[07:14.46] * test__ (5a92878f@gateway/web/freenode/ip.90.146.135.143) has joined channel ##math
+[07:14.47] --ablest1980-- logged in with account (ablest1980)
+[07:16.41] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##math
+[07:18.32] --blizzy-- logged in with account (Blizzy)
+[07:19.41] * `Eddie (~dedword@95.142.88.209) has joined channel ##math
+[07:21.23] * CalamityBloo is now known as CalamityBlue
+[07:21.32] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Ping timeout: 245 seconds)
+[07:22.26] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[07:24.43] * test__ (5a92878f@gateway/web/freenode/ip.90.146.135.143) Quit (Ping timeout: 246 seconds)
+[07:25.01] --[gmi]-- logged in with account ([gmi])
+[07:25.38] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##math
+[07:28.28] --k000-- logged in with account (k000)
+[07:28.34] <stool> If I've got \exists x: \forall y: P(y) then I can ommit the \exists part?
+[07:29.11] * Emrakul (~NomZ@unaffiliated/nomz) Quit (Ping timeout: 244 seconds)
+[07:30.30] * meepy (~chatzilla@65.94.235.148) has joined channel ##math
+[07:32.44] --grobend-- logged in with account (grobend)
+[07:33.03] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##math
+[07:33.41] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##math
+[07:34.31] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##math
+[07:36.23] * fusillicode (~user@95.237.118.26) has joined channel ##math
+[07:36.28] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[07:36.42] * fusillicode (~user@95.237.118.26) has left ##math ()
+[07:36.57] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##math
+[07:37.18] * Joefish (~Joefish@p3EE39181.dip0.t-ipconnect.de) has joined channel ##math
+[07:38.04] * Kake_ (~chatzilla@2001:4640:78cb:0:e081:86ed:d0c2:f5b8) has joined channel ##math
+[07:38.05] * Linne (~beren@78.181.152.246) has joined channel ##math
+[07:39.18] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##math
+[07:39.19] * math460 (d5f5d879@gateway/web/freenode/ip.213.245.216.121) has joined channel ##math
+[07:39.37] <math460> Hi! How could I calculate the integral between 0 and pi of abs(sin((n+1/2)x)) ??
+[07:41.06] --chris_hd-- logged in with account (chris_hd)
+[07:41.16] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) has joined channel ##math
+[07:41.55] * _1k5 (~mdl@gtng-d9ba16c9.pool.mediaWays.net) has joined channel ##math
+[07:41.55] --_1k5-- logged in with account (mdl)
+[07:42.30] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[07:44.52] * meshugga1 is now known as meshugga
+[07:46.06] <Kake_> What is it called when you have probability where you put back the card in the deck after picking?
+[07:46.09] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 246 seconds)
+[07:47.01] * test__ (5a92878f@gateway/web/freenode/ip.90.146.135.143) has joined channel ##math
+[07:47.12] <math460> ??
+[07:47.50] * pqrs (~a@79.141.161.50) Quit (Ping timeout: 264 seconds)
+[07:48.51] * stojan (~hermann@79.126.254.0) has joined channel ##math
+[07:49.09] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##math
+[07:49.34] * stangeland (~bdi@210-93.dynamic.hesbynett.net) has joined channel ##math
+[07:49.35] <stangeland> if i have a value in bytes, and i want to display it in MB or GB, should i then divide by a multiplum of 1000 or 1024?
+[07:50.10] * AkashicLegend (~AkashicLe@unaffiliated/akashiclegend) Quit (Quit: AkashicLegend)
+[07:50.11] * rigor789|away is now known as rigor789
+[07:50.48] --absof25-- logged in with account (abs25)
+[07:51.09] * b80905 (~user@91.190.115.250) has joined channel ##math
+[07:51.12] * b80905 (~user@91.190.115.250) has left ##math ()
+[07:54.04] <UidX> stangeland: 1000
+[07:54.08] <UidX> MiB and GiB would be 1024
+[07:54.15] <Padawan-> Yup.
+[07:54.31] <Padawan-> math460: The sine is positive on (0,PI).
+[07:54.47] <Padawan-> (So you can just remove the absolute value, and the integral is easy.)
+[07:55.07] <math460> but sin((n+1/2)x) is not for all n
+[07:55.12] <HisShadow_> Padawan-: for large n this isn't true
+[07:55.18] <Padawan-> Kake_: What do you mean? A posteriori probability?
+[07:55.23] <Padawan-> HisShadow_: Wow.
+[07:55.24] <Padawan-> Yeah.
+[07:55.31] <Padawan-> You are totally right. Screw what I said.
+[07:55.32] <UidX> Kake_: sampling with replacement? do you mean this?
+[07:56.36] <Padawan-> math460: Why would you compute this? In all the contexts I've seen the L^1 norm of similar things, estimating it was enough.
+[07:56.54] * test__ (5a92878f@gateway/web/freenode/ip.90.146.135.143) Quit (Ping timeout: 246 seconds)
+[07:56.57] <Padawan-> So maybe you're just looking for an estimate?
+[07:57.32] <Padawan-> (But you can compute it explicitely if you need it. Just do a case disjunction.)
+[07:57.43] <Padawan-> (I mean, you fix n, and then you do a case disjunction.)
+[07:58.01] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) has joined channel ##math
+[07:58.35] <math460> I would like it explicitely so I took 2 cases : 1/ the sin is <0 2/ the sin is >0 but for the first case i find an integral which is >0 so that's absurd...
+[07:59.06] <math460> mmh i mean an integra which is <0
+[07:59.09] * rebs (~rebs@cpe-69-204-33-166.buffalo.res.rr.com) has joined channel ##math
+[07:59.09] --rebs-- logged in with account (rebs)
+[07:59.22] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) Quit (Ping timeout: 250 seconds)
+[08:00.05] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:00.52] * fstd (~fstd@unaffiliated/fisted) has joined channel ##math
+[08:00.53] <Padawan-> math460: Yeah, that's absurd.
+[08:01.47] * DaZ (~daz@89-78-214-50.dynamic.chello.pl) Quit (Read error: Connection reset by peer)
+[08:01.57] * giusef (~Giuseppe@dynamic-adsl-62-10-70-29.clienti.tiscali.it) Quit (Ping timeout: 252 seconds)
+[08:02.25] * pqrs (~a@195.184.106.201) has joined channel ##math
+[08:02.26] --pqrs-- logged in with account (pqrs)
+[08:03.07] <stangeland> UidX, ok, so you say both 1000 and 1024, what is usually shown?
+[08:03.46] <Padawan-> stangeland: The right usage is to use 1000 if you use MB, GB, KB, and so on.
+[08:03.48] * radflatearther (b2a2d988@gateway/web/cgi-irc/kiwiirc.com/ip.178.162.217.136) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[08:04.44] <stangeland> Padawan-, ok, why does linux then use 1024 and MB, GB, KB etc?
+[08:05.05] * jrolland-ubuntu (~jrolland@CPE-72-131-125-94.wi.res.rr.com) Quit (Ping timeout: 246 seconds)
+[08:05.23] <math460> Look : ＋＋http://mathb.in/27515，，
+[08:05.49] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:06.02] <meepy> What is a prime number whose compounded sum of digits is equal to the fourth digit
+[08:06.48] * agrops (~agrops@188.251.110.171) has joined channel ##math
+[08:06.50] <UidX> stangeland: i guess computers use 1024 more frequently because computer is binary
+[08:06.52] <UidX> not decimal
+[08:07.11] <agrops> Are there jobs for someone with math degrees?
+[08:07.30] <stangeland> UidX, ehhh i dont think so...im pretty sure the decision is made by the people programming the computer
+[08:08.04] <UidX> stangeland: if you have experience with C, you would know that binary calculation is more preferable than decimal calculation when it comes to computers
+[08:08.05] --razieliyo-- logged in with account (razieliyo)
+[08:08.12] <UidX> using shift operands
+[08:08.13] <UidX> << >>
+[08:08.30] --dassouki-- logged in with account (dassouki)
+[08:08.31] <UidX> operators*
+[08:08.36] <stangeland> UidX, but why would that matter when you just display data?
+[08:08.48] <UidX> because of the speed, i think?
+[08:08.53] <dassouki> wc 7
+[08:08.54] * dassouki (~ahmed@176.203.95.51) has left ##math ()
+[08:08.55] <stangeland> that makes no sense
+[08:09.00] <UidX> well this is totally my guess, so don't trust it 100%
+[08:09.03] <UidX> these days computers are really good
+[08:09.07] <UidX> but computers used to suck before
+[08:09.13] <UidX> so optimization was a must
+[08:09.28] <UidX> if you make computer divide something by 1000, it would convert 1000 into binary and do blah blah blah
+[08:09.44] <UidX> but if you use shift operand, just move the 1 10 times, and calculation is done
+[08:09.49] * cerebrum (~cerebrum@p54866AD7.dip0.t-ipconnect.de) has joined channel ##math
+[08:09.49] --cerebrum-- logged in with account (cerebrum)
+[08:09.56] * stojan (~hermann@79.126.254.0) Quit (Ping timeout: 240 seconds)
+[08:10.55] --CapsAdmin-- logged in with account (CapsAdmin)
+[08:12.14] <math460> Padawan- ?
+[08:12.41] --cubed_root-- logged in with account (cubed_root)
+[08:12.58] * TheBigDeal (~antar@unaffiliated/innocent99) has joined channel ##math
+[08:13.35] * boni (~boni@90.194.40.53) has joined channel ##math
+[08:14.15] * mushimaster (~mushimast@117.193.251.185) has joined channel ##math
+[08:14.24] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) Quit (Remote host closed the connection)
+[08:14.38] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[08:14.49] * mushimaster (~mushimast@117.193.251.185) Quit (Client Quit)
+[08:19.19] <Padawan-> math460: Yeah sorry. I was AFK.
+[08:19.19] * jrolland-ubuntu (~jrolland@CPE-72-131-125-94.wi.res.rr.com) has joined channel ##math
+[08:19.19] <Padawan-> math460: Let me read that.
+[08:19.19] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Ping timeout: 276 seconds)
+[08:19.19] * daz1 (~daz@89-78-214-50.dynamic.chello.pl) has joined channel ##math
+[08:19.19] <Padawan-> math460: I'm not sure I get what you're trying to do here.
+[08:19.19] * Rainb (~IceChat9@190.9.201.215) Quit (Ping timeout: 244 seconds)
+[08:19.19] *** Server disconnected on irc.freenode.net

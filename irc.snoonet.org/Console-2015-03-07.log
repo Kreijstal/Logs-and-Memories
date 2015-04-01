@@ -1,0 +1,405 @@
+Session Start: Sat Mar 07 02:30:58 2015
+[02:30.54] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[02:30.57] ERROR: Exception Error - Can not send:Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+[02:30.58] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:30.58] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:30.58] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:30.58] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:30.59] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:30.59] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:30.59] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:30.59] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:30.59] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:30.59] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:30.59] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:30.59] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:30.59] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.00] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.00] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.00] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.00] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.00] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.01] -irc.snoonet.org- *** Server disconnected on irc.snoonet.org
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.01] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.01] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.01] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.01] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.01] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.01] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.01] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.01] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.01] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (162.243.53.239) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (162.243.53.239) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (162.243.53.239) on port 6667
+[02:31.02] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (162.243.53.239) on port 6667
+[02:31.03] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[02:31.03] ERROR: Parameter name: asyncResult
+[02:31.03] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[02:31.03] ERROR: Null Socket - Can not Connect
+[02:31.04] ERROR: Null Socket - Can not Connect
+[09:32.08] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (162.243.53.239) on port 6667
+[09:32.08] -irc.snoonet.org- Sending User Registration Information
+[09:32.08] --corellia.snoonet.org-- *** Looking up your hostname...
+[09:32.08] -irc.snoonet.org- Capabilities supported: invite-notify away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+[09:32.08] -irc.snoonet.org- Capabilities requested: account-notify away-notify extended-join multi-prefix
+[09:32.09] --corellia.snoonet.org-- *** If you are having problems connecting due to ping timeouts, please type /quote PONG aU{|NU^qBz or /raw PONG aU{|NU^qBz now.
+[09:32.09] --corellia.snoonet.org-- *** Could not resolve your hostname: Domain name not found; using your IP address (181.50.196.58) instead.
+[09:32.09] -irc.snoonet.org- Capabilities acknowledged: away-notify extended-join account-notify multi-prefix
+[09:32.09] --corellia.snoonet.org-- Welcome to Snoonet!
+[09:32.09] -corellia.snoonet.org- Welcome to the Snoonet IRC Network Rainb!IceChat9@181.50.196.58
+[09:32.09] -corellia.snoonet.org- Your host is corellia.snoonet.org, running version InspIRCd-2.0
+[09:32.09] -corellia.snoonet.org- This server was created 23:33:42 Jan 25 2015
+[09:32.09] -corellia.snoonet.org- corellia.snoonet.org InspIRCd-2.0 BGHILORSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+[09:32.09] -corellia.snoonet.org- AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+[09:32.09] -corellia.snoonet.org- KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+[09:32.10] -corellia.snoonet.org- SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+[09:32.10] -corellia.snoonet.org- your unique ID 2COAALDG3
+[09:32.10] -corellia.snoonet.org- You have successfully connected to corellia.snoonet.org
+[09:32.10] -corellia.snoonet.org- Auto-joining Channels
+[09:32.10] -corellia.snoonet.org- There are 83 users and 2560 invisible on 8 servers
+[09:32.10] -corellia.snoonet.org- There are 26 operator(s) online
+[09:32.10] -corellia.snoonet.org- There are 1531 channels formed
+[09:32.10] -corellia.snoonet.org- I have 331 clients and 1 servers
+[09:32.10] -corellia.snoonet.org- Current Local Users: 331  Max: 407
+[09:32.10] -corellia.snoonet.org- Current Global Users: 2643  Max: 3565
+[09:32.10] -corellia.snoonet.org- Snoonet-gan.vgj.k6q1d3.IP is now your displayed host
+[09:32.10] * Your mode is now +xiw
+[09:32.10] --NickServ-- Your nickname is not registered. To register it, use: /msg NickServ REGISTER password email
+[09:32.10] [StatServ] VERSION
+[09:32.10] Rainb (Snoonet-gan.vgj.k6q1d3.IP) can not be resolved
+[09:32.11] *** corellia.snoonet.org Replaying up to 30 lines of pre-join history spanning up to 300 seconds
+[09:32.11] *** corellia.snoonet.org Replaying up to 20 lines of pre-join history spanning up to 600 seconds
+[09:32.20] *** corellia.snoonet.org Replaying up to 10 lines of pre-join history spanning up to 999 seconds
+[09:32.37] -corellia.snoonet.org- Cipher45 is no longer away
+[09:32.45] -corellia.snoonet.org- #casualconversations IceChat9 Snoonet-gan.vgj.k6q1d3.IP corellia.snoonet.org Rainb H@ :0 The Chat Cool People Use
+[09:32.45] -corellia.snoonet.org- #casualconversations End of /WHO list
+[09:32.46] * You have left #casualconversations - You will be missed ()
+[09:34.21] -corellia.snoonet.org- saint-anger-sleeping is set as away (Auto-away)
+[09:34.46] -corellia.snoonet.org- nodux is no longer away
+[09:35.03] -corellia.snoonet.org- Fab500 is no longer away
+[09:35.26] -corellia.snoonet.org- UD98 is set as away (Auto away at Sat Mar  7 09:35:27 2015)
+[09:37.21] -corellia.snoonet.org- x8 is no longer away
+[09:42.56] -corellia.snoonet.org- bloodygo1zo is no longer away
+[09:43.32] -corellia.snoonet.org- XenoBen is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 09:43:33 2015)
+[09:44.39] -corellia.snoonet.org- katsumii is set as away (gone phishing)
+[09:45.08] -corellia.snoonet.org- pitastrudl is set as away (All Quassel clients vanished from the face of the earth...)
+[09:49.54] -corellia.snoonet.org- Cipher45 is set as away (Auto away at Sat Mar  7 14:49:56 2015)
+[09:51.14] -corellia.snoonet.org- ScarletAngel is no longer away
+[09:52.10] -corellia.snoonet.org- paul2520 is set as away (Detached from screen since 2015-03-07 08:52:12-0600)
+[09:52.15] -corellia.snoonet.org- paul2520 is no longer away
+[09:52.19] -corellia.snoonet.org- Cipher45 is no longer away
+[09:56.39] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[09:57.04] -corellia.snoonet.org- buddy-ol-pal is set as away (Auto-away)
+[09:59.08] -corellia.snoonet.org- ser_berry is set as away (not here right meow)
+[09:59.09] -corellia.snoonet.org- buddy-ol-pal is no longer away
+[10:01.47] -corellia.snoonet.org- pitastrudl is no longer away
+[10:03.11] -corellia.snoonet.org- moparx is no longer away
+[10:03.39] -corellia.snoonet.org- Aharoni is no longer away
+[10:04.13] -corellia.snoonet.org- moparx is set as away (Auto away at Sat Mar  7 10:04:15 2015)
+[10:04.55] -corellia.snoonet.org- XenoBen is no longer away
+[10:05.47] -corellia.snoonet.org- The0x539 is no longer away
+[10:06.09] -corellia.snoonet.org- khunt is set as away (Away)
+[10:06.27] -corellia.snoonet.org- jotun is no longer away
+[10:06.51] -corellia.snoonet.org- remlap is no longer away
+[10:07.13] -corellia.snoonet.org- momoyome is no longer away
+[10:07.35] -corellia.snoonet.org- Andries is no longer away
+[10:08.10] -corellia.snoonet.org- paul2520 is set as away (Detached from screen since 2015-03-07 09:08:12-0600)
+[10:08.15] -corellia.snoonet.org- paul2520 is no longer away
+[10:08.40] -corellia.snoonet.org- nodux is set as away (Auto away at Sat Mar  7 10:08:41 2015)
+[10:10.52] -corellia.snoonet.org- The0x539 is set as away (Auto-away)
+[10:11.52] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[10:12.01] -corellia.snoonet.org- moparx is no longer away
+[10:12.25] -corellia.snoonet.org- remlap is no longer away
+[10:15.23] -corellia.snoonet.org- Ari|Vacation is no longer away
+[10:15.59] -corellia.snoonet.org- Bino is set as away (byebyebye)
+[10:19.02] -corellia.snoonet.org- nekosune|Away is no longer away
+[10:21.02] -corellia.snoonet.org- ser_berry is no longer away
+[10:23.19] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[10:24.19] -corellia.snoonet.org- Ducky is set as away (Disconnected from ZNC (at Sat Mar  7 15:24:20 2015))
+[10:25.04] -corellia.snoonet.org- RaveLordNitosHair is no longer away
+[10:25.44] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[10:27.35] -corellia.snoonet.org- paul2520 is set as away (Detached from screen since 2015-03-07 09:27:37-0600)
+[10:29.57] -corellia.snoonet.org- GhostyOne is no longer away
+[10:30.01] -corellia.snoonet.org- Cipher45 is set as away (Auto away at Sat Mar  7 15:30:02 2015)
+[10:30.34] -corellia.snoonet.org- TheKiwi is set as away (Auto-away)
+[10:30.42] -corellia.snoonet.org- Aharoni is set as away (Auto-away)
+[10:32.33] -corellia.snoonet.org- Ari|Vacation is no longer away
+[10:33.48] -corellia.snoonet.org- moparx is set as away (Idle)
+[10:40.25] -corellia.snoonet.org- GhostyOne is set as away (Ghosty Gone For Now)
+[10:40.29] -corellia.snoonet.org- GhostyOne is no longer away
+[10:41.16] -corellia.snoonet.org- remlap is no longer away
+[10:43.00] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[10:47.14] -corellia.snoonet.org- nyuszika7h is set as away (Detached from tmux since 2015-03-07 16:47:16+0100)
+[10:48.05] -corellia.snoonet.org- paul2520 is no longer away
+[10:51.00] -corellia.snoonet.org- paul2520 is set as away (Detached from screen since 2015-03-07 09:51:02-0600)
+[10:53.53] -corellia.snoonet.org- Mike is set as away (Auto away at Sat Mar  7 10:53:54 2015)
+[10:58.25] -corellia.snoonet.org- Nocha is set as away (Be back later)
+[10:58.27] -corellia.snoonet.org- Ari|Vacation is no longer away
+[10:59.08] -corellia.snoonet.org- rotzbub is set as away (nix da)
+[11:00.22] -corellia.snoonet.org- Terminus_ is set as away (I'm busy)
+[11:00.53] -corellia.snoonet.org- glowsticks is no longer away
+[11:02.46] -corellia.snoonet.org- rotzbub is no longer away
+[11:04.13] -corellia.snoonet.org- Terminus_ is no longer away
+[11:04.22] -corellia.snoonet.org- Terminus_ is set as away (I'm busy)
+[11:05.14] -corellia.snoonet.org- fumyl is set as away (auto-away: send me a pm and I'll get back to you 03/07/2015 12:03am)
+[11:05.15] -corellia.snoonet.org- nyuszika7h is no longer away
+[11:06.54] -corellia.snoonet.org- khunt is set as away (Away)
+[11:08.30] -corellia.snoonet.org- Locutus is no longer away
+[11:08.35] -corellia.snoonet.org- sabyt is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 11:08:37 2015)
+[11:10.35] -corellia.snoonet.org- glowsticks is set as away (Auto-away)
+[11:11.43] -corellia.snoonet.org- Aharoni is no longer away
+[11:14.48] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[11:15.00] -corellia.snoonet.org- momoyome is set as away (not here ...)
+[11:17.06] -corellia.snoonet.org- nekosune is set as away (I'm not here right now)
+[11:17.16] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:17.17] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:17.19] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[11:17.21] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:17.31] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:17.33] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[11:17.48] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:17.50] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[11:18.34] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:18.36] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[11:18.39] -corellia.snoonet.org- nekosune is no longer away
+[11:18.52] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[11:20.00] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:20.02] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[11:20.17] -corellia.snoonet.org- MatiasDuarte is no longer away
+[11:23.40] -corellia.snoonet.org- nekosune is set as away (I'm not here right now)
+[11:23.49] -corellia.snoonet.org- supergauntlet is no longer away
+[11:25.10] -corellia.snoonet.org- remlap is no longer away
+[11:32.15] -corellia.snoonet.org- x8 is set as away (.)
+[11:33.28] -corellia.snoonet.org- glowsticks is no longer away
+[11:33.45] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[11:36.00] -corellia.snoonet.org- remlap is no longer away
+[11:36.40] -corellia.snoonet.org- rdv is no longer away
+[11:36.57] -corellia.snoonet.org- Mikee is no longer away
+[11:38.35] -corellia.snoonet.org- ra4king is no longer away
+[11:39.05] -corellia.snoonet.org- paul2520 is no longer away
+[11:39.07] -corellia.snoonet.org- momoyome is no longer away
+[11:39.32] -corellia.snoonet.org- x8 is no longer away
+[11:39.32] -corellia.snoonet.org- momoyome is set as away (not here ...)
+[11:41.57] -corellia.snoonet.org- katsumii is set as away (gone phishing)
+[11:42.50] -corellia.snoonet.org- katsumii is no longer away
+[11:53.35] -corellia.snoonet.org- Aharoni is set as away (Auto-away)
+[11:54.43] -corellia.snoonet.org- Ari|Vacation is no longer away
+[11:55.45] -corellia.snoonet.org- jRiddick is set as away (Auto-away)
+[11:57.28] -corellia.snoonet.org- OPDingo is set as away (applejuice then sleep ZZZZ)
+[11:58.14] -corellia.snoonet.org- glowsticks is set as away (Auto-away)
+[11:59.11] -corellia.snoonet.org- Aharoni is no longer away
+[12:02.47] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[12:03.01] -corellia.snoonet.org- Biskits-phone is set as away (Auto-away)
+[12:07.40] -corellia.snoonet.org- khunt is set as away (Away)
+[12:12.49] -corellia.snoonet.org- MooNomNom is no longer away
+[12:14.59] -corellia.snoonet.org- Jacktwo is set as away (Be back later.)
+[12:15.30] -corellia.snoonet.org- SolarAquarion is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 12:15:31 2015)
+[12:15.37] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[12:16.48] -corellia.snoonet.org- ser_berry is set as away (not here right meow)
+[12:19.24] -corellia.snoonet.org- Mike is no longer away
+[12:19.37] -corellia.snoonet.org- Ari|Vacation is no longer away
+[12:22.40] -corellia.snoonet.org- zak123 is no longer away
+[12:22.49] -corellia.snoonet.org- ScarletAngel is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 12:22:50 2015)
+[12:23.30] -corellia.snoonet.org- zak123 is set as away (Palaver)
+[12:24.32] -corellia.snoonet.org- epilys is no longer away
+[12:26.07] -corellia.snoonet.org- Myst is set as away (I am currently away from the computer.)
+[12:26.17] -corellia.snoonet.org- Myst is no longer away
+[12:30.00] -corellia.snoonet.org- glowsticks is no longer away
+[12:30.00] -corellia.snoonet.org- merzbob is set as away (I'm busy)
+[12:30.52] -corellia.snoonet.org- remlap is no longer away
+[12:30.54] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[12:31.16] -corellia.snoonet.org- Myst is set as away (I am currently away from the computer.)
+[12:32.15] -corellia.snoonet.org- Aharoni is set as away (Auto-away)
+[12:33.01] -corellia.snoonet.org- epilys is set as away (Auto away at Sat Mar  7 19:33:02 2015)
+[12:33.18] -corellia.snoonet.org- bloodygonzo is set as away (grocery store)
+[12:35.45] -corellia.snoonet.org- prizim is no longer away
+[12:36.44] --Guiby-- logged in with account (guibmaster)
+[12:36.58] --FrenchVanilla-- logged in with account (FrenchVanilla)
+[12:37.07] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[12:37.12] -corellia.snoonet.org- remlap is no longer away
+[12:37.14] --weird_alien-- logged in with account (weird_alien)
+[12:37.32] --FrenchVanilla-- logged in with account (FrenchVanilla)
+[12:37.58] --lovelovelove-- logged in with account (justanotheruser)
+[12:38.21] --justanotheruser-- logged in with account (justanotheruser)
+[12:38.45] --weird_alien-- logged in with account (weird_alien)
+[12:38.51] -corellia.snoonet.org- jotun is set as away (Auto away at Sat Mar  7 17:38:53 2015)
+[12:39.38] --Fanva-- logged in with account (justanotheruser)
+[12:39.55] --FrenchVanilla-- logged in with account (FrenchVanilla)
+[12:39.58] -corellia.snoonet.org- epilys is no longer away
+[12:41.30] --weird_alien-- logged in with account (weird_alien)
+[12:41.46] -corellia.snoonet.org- glowsticks is set as away (Auto-away)
+[12:41.50] --FrenchVanilla-- logged in with account (FrenchVanilla)
+[12:42.25] --splek|afk-- logged in with account (splek)
+[12:42.43] -corellia.snoonet.org- fumyl is no longer away
+[12:42.43] -corellia.snoonet.org- glowsticks is no longer away
+[12:43.09] -corellia.snoonet.org- Cipher45 is no longer away
+[12:45.58] -corellia.snoonet.org- Myst is no longer away
+[12:49.55] --SerenaT-- logged in with account (SerenaT)
+[12:51.46] -corellia.snoonet.org- glowsticks is set as away (Auto-away)
+[12:56.59] -corellia.snoonet.org- herpington is set as away (Dinner)
+[12:57.21] -corellia.snoonet.org- Petal is no longer away
+[01:00.17] -corellia.snoonet.org- jotun is no longer away
+[01:01.58] -corellia.snoonet.org- Ari|Vacation is no longer away
+[01:02.08] -corellia.snoonet.org- Cipher45 is set as away (Auto away at Sat Mar  7 18:02:10 2015)
+[01:02.47] -corellia.snoonet.org- Nonon is no longer away
+[01:04.44] --Lord_of_Life-- logged in with account (Lord_of_Life)
+[01:05.39] --Aethysius-- logged in with account (Aethysius)
+[01:07.05] -corellia.snoonet.org- zak123 is no longer away
+[01:07.41] -corellia.snoonet.org- zak123 is set as away (Palaver)
+[01:08.36] -corellia.snoonet.org- khunt is set as away (Away)
+[01:08.45] -corellia.snoonet.org- MillenniumFalc0n is no longer away
+[01:09.04] -corellia.snoonet.org- x_minus_one is set as away (Auto-away)
+[01:09.12] -corellia.snoonet.org- MillenniumFalc0n is set as away (Auto Away at Sat Mar  7 18:09:13 2015)
+[01:09.47] -corellia.snoonet.org- zak123 is no longer away
+[01:11.01] -corellia.snoonet.org- zak123 is set as away (Palaver)
+[01:13.19] -corellia.snoonet.org- Biskits-phone is no longer away
+[01:13.48] -corellia.snoonet.org- nodux is set as away (Auto away at Sat Mar  7 13:13:37 2015)
+[01:13.48] -corellia.snoonet.org- nodux is set as away (Auto away at Sat Mar  7 13:13:37 2015)
+[01:13.50] -corellia.snoonet.org- zak123 is no longer away
+[01:14.46] -corellia.snoonet.org- zak123 is set as away (Palaver)
+[01:15.49] -corellia.snoonet.org- nodux is no longer away
+[01:18.18] -corellia.snoonet.org- fear is no longer away
+[01:22.47] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[01:24.13] --MarkoSoloAFK-- logged in with account (MarkoSolo)
+[01:24.40] -corellia.snoonet.org- herpington is no longer away
+[01:25.28] -corellia.snoonet.org- pitastrudl is set as away (All Quassel clients vanished from the face of the earth...)
+[01:26.45] -corellia.snoonet.org- Biskits-phone is set as away (Auto-away)
+[01:27.02] -corellia.snoonet.org- Biskits-phone is no longer away
+[01:27.43] -corellia.snoonet.org- Mandaus is set as away (Auto-away)
+[01:28.00] -corellia.snoonet.org- noodles is no longer away
+[01:32.01] -corellia.snoonet.org- noodles is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 13:32:03 2015)
+[01:35.57] -corellia.snoonet.org- ser_berry is no longer away
+[01:36.45] -corellia.snoonet.org- Biskits-phone is set as away (Auto-away)
+[01:41.56] -corellia.snoonet.org- pitastrudl is no longer away
+[01:46.29] -corellia.snoonet.org- andreschneider is no longer away
+[01:49.07] -corellia.snoonet.org- Matrixiumn is set as away (Detached from tmux since 2015-03-07 18:49:09+0000)
+[01:51.09] -corellia.snoonet.org- prizim is set as away (Auto-away)
+[01:51.43] -corellia.snoonet.org- merzbob is no longer away
+[01:52.56] --itspara-- logged in with account (itspara)
+[01:53.49] -corellia.snoonet.org- momoyome is no longer away
+[01:55.32] -corellia.snoonet.org- Bino is no longer away
+[01:55.50] -corellia.snoonet.org- Ari|Vacation is no longer away
+[01:55.57] --weedle-- logged in with account (b0gdan)
+[01:57.43] --weedle-- logged in with account (b0gdan)
+[01:57.50] --stormyllewellyn-- logged in with account (StormyL)
+[01:58.22] -corellia.snoonet.org- Andries is set as away (Auto-away)
+[01:58.23] -corellia.snoonet.org- andreschneider is set as away (Auto-away)
+[01:59.30] -corellia.snoonet.org- Bluey is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 13:59:31 2015)
+[01:59.34] -corellia.snoonet.org- Bluey is no longer away
+[02:00.42] -corellia.snoonet.org- Gustavobc is no longer away
+[02:00.43] --HexagonSun-- logged in with account (HexagonSun)
+[02:01.42] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[02:01.43] -corellia.snoonet.org- MatiasDuarte is set as away (I am away)
+[02:05.10] --splek|zombie-- logged in with account (splek)
+[02:06.42] -corellia.snoonet.org- Matrixiumn is no longer away
+[02:08.07] -corellia.snoonet.org- zak123 is no longer away
+[02:08.11] -corellia.snoonet.org- zak123 is set as away (Palaver)
+[02:09.14] -corellia.snoonet.org- khunt is set as away (Away)
+[02:09.14] --khunt-- logged in with account (khunt)
+[02:12.55] -corellia.snoonet.org- nekosune is no longer away
+[02:14.04] -corellia.snoonet.org- momoyome is set as away (not here ...)
+[02:17.29] -corellia.snoonet.org- nyuszika7h is set as away (Detached from tmux since 2015-03-07 20:17:31+0100)
+[02:18.25] -corellia.snoonet.org- Ari|Vacation is set as away (Auto-away)
+[02:27.05] -corellia.snoonet.org- fangfufu is set as away (Auto away at Sat Mar  7 19:27:07 2015)
+[02:27.18] --LogicalShark-- logged in with account (LogicalShark)
+[02:28.18] --aFreshMelon-- logged in with account (aFreshMelon)
+[02:28.53] --JoshRaj-- logged in with account (JoshRaj)
+[02:29.32] -corellia.snoonet.org- bloodygonzo is no longer away
+[02:29.42] --Paradox-- logged in with account (Paradox)
+[02:32.00] --splek-- logged in with account (splek)
+[02:34.35] -corellia.snoonet.org- Nocha is set as away (Be back later)
+[02:34.41] -corellia.snoonet.org- Nocha is no longer away
+[02:36.22] -corellia.snoonet.org- Petal is set as away (Be back later)
+[02:36.35] -corellia.snoonet.org- remlap is set as away (I'm not here right now)
+[02:37.02] -corellia.snoonet.org- Nocha is set as away (Be back later)
+[02:37.34] -corellia.snoonet.org- Nocha is no longer away
+[02:38.48] --Namzeh011-- logged in with account (Namzeh011)
+[02:39.36] -corellia.snoonet.org- Ari|Vacation is no longer away
+[02:40.05] -corellia.snoonet.org- khunt is set as away (Away)
+[02:40.05] --khunt-- logged in with account (khunt)
+[02:42.02] -corellia.snoonet.org- Locutus is set as away (Disconnected from Snoonet ZNC since Sat Mar  7 14:42:03 2015)
+[02:43.47] -corellia.snoonet.org- remlap is no longer away
+[02:44.25] -corellia.snoonet.org- Locutus is no longer away
+[02:45.23] --lovelovelove-- logged in with account (justanotheruser)
+[02:46.05] -corellia.snoonet.org- PhonicUK[Offline] is no longer away
+[03:58.13] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:58.13] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.13] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.13] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.13] -irc.snoonet.org- *** Server disconnected on irc.snoonet.org
+[03:58.14] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.14] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.17] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.17] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.17] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.17] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.17] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.18] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.18] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.18] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.18] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.20] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (66.150.164.216) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.118.110) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.118.110) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (142.4.213.142) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (142.4.213.142) on port 6667
+[03:58.20] -irc.snoonet.org- *** Attempting to re-connect to irc.snoonet.org
+[03:58.20] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (142.4.212.102) on port 6667
+[03:58.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.20] -irc.snoonet.org- Sending User Registration Information
+[03:58.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.21] ERROR: Parameter name: asyncResult
+[03:58.21] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.21] ERROR: Null Socket - Can not Connect
+[03:58.21] --lemon.snoonet.org-- *** Looking up your hostname...
+[03:58.21] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+[03:58.21] ERROR: Parameter name: asyncResult
+[03:58.21] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.21] -irc.snoonet.org- *** Server disconnected on irc.snoonet.org
+[03:58.21] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.21] ERROR: Parameter name: asyncResult
+[03:58.21] -irc.snoonet.org- Waiting 60 seconds to re-connect to (irc.snoonet.org)
+[03:58.21] ERROR: Null Socket - Can not Connect

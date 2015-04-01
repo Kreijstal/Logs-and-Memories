@@ -1,0 +1,1304 @@
+Session Start: Sat Feb 14 12:01:00 2015
+Session Ident: ##programming
+[12:01.00] * max100 (~max100@unaffiliated/max100) has joined channel ##programming
+[12:01.43] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[12:01.55] <pyon> Today I feel like a hero. I <strike>essentually wrote myself</strike> helped write all of Wader8 's program. And there was no XML involved.
+[12:02.09] --ablest1980-- logged in with account (ablest1980)
+[12:02.18] <jeaye> essentually
+[12:02.38] <jeaye> essentially + eventually
+[12:02.44] <jrslepak> pyon: does that mean he'll leave us alone now? ¬_¬
+[12:02.49] * day- (~day@unaffiliated/day) Quit (Ping timeout: 250 seconds)
+[12:02.58] <pyon> jrslepak: dunno
+[12:03.06] <Sadale> lel
+[12:03.19] <Sadale> pyon, why XML? ;_;
+[12:03.24] <jrslepak> pyon: or is this like dane-geld, where the next time he wants some little custom program, he's going to come here and whine until you write that for him too?
+[12:03.40] <Sadale> jrslepak++
+[12:03.41] <pyon> jrslepak: Let's hope not
+[12:04.00] <Sadale> "Write your damn code"
+[12:04.13] <Sadale> It's the way to learn programming
+[12:04.21] <pyon> But, anyway, I hope my contribution to this channel's peace is appreciated.
+[12:04.36] * Krixvar (~quassel@cpe-69-207-88-145.rochester.res.rr.com) has joined channel ##programming
+[12:05.09] <Sadale> pyon, if you haven't answer him, he will not come here to ask again. After getting helped, he may ask here later :p
+[12:05.14] * Sadale singing trololo
+[12:05.18] <Myrl> "102 x 64 screen"
+[12:05.18] * Rilakkuma (~textual@122.29.165.22) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:05.24] <Sadale> Myrl, wat?
+[12:05.35] <Myrl> Sadale: EA DOGS102W-6
+[12:05.36] <Sadale> Myrl, is that an LCD for embedded programming?
+[12:05.39] <pyon> Sadale: I essentially wrote the program myself. I wrote an Excel VBA macro without having Windows (let alone Excel) installed on my computer.
+[12:05.50] <Myrl> Why is it 102!?
+[12:05.52] <Sadale> pyon, ah
+[12:05.53] <pyon> The ability to program using paper and pencil came in handy.
+[12:05.54] <Myrl> o.e
+[12:06.14] <Sadale> Myrl, because lulz
+[12:06.19] <jeaye> That's how I write all my C++
+[12:06.24] --QuantumP7-- logged in with account (QuantumP7)
+[12:06.33] <Sadale> interesting. 102 = 51x2. hmm. but why?
+[12:06.43] <jrslepak> pyon: yes, it was a good way to pass the time in class while lecture was going very slowly over material I'd seen multiple times in undergrad ¬_¬
+[12:06.44] <pyon> jeaye: Ok, that outbadass'd me.
+[12:06.51] <Sadale> 51 is a prime number if  remember correctly
+[12:06.55] <Myrl> No.
+[12:07.00] <Myrl> It can be divided by 3.
+[12:07.03] <Sadale> never mind
+[12:07.04] <Myrl> 17 x 6.
+[12:07.10] <pyon> Writing C++ using paper and pencil only, no debugging tools at all... that's super badass.
+[12:07.12] <Sadale> ok.
+[12:07.16] <jeaye> I only started using a text editor because uploading images of the paper to github is slower.
+[12:07.22] <Sadale> Myrl, Probably 6 is the width of each charcter :p
+[12:07.23] <pyon> lol
+[12:07.23] <pyon>  
+[12:07.23] <Myrl> jeaye: lol
+[12:07.43] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:07.50] <jeaye> Also, the diffs and merges are slightly better now.
+[12:07.59] <pyon> lol, slightly
+[12:08.43] * blackb1rd (~zack@2601:9:5900:8b3:80a6:9ffb:1c62:a8fe) Quit (Ping timeout: 245 seconds)
+[12:08.57] <Myrl> I program with the description of an API in my browser, so I can't really program on pen and paper. :(
+[12:09.07] <Myrl> How much more if I was using PHP.
+[12:09.20] <pyon> Oh, did I mention I had to manually convert between Excel column labels (A,B,C...) and numbers (A -> 1, B -> 2, C -> 3...)?
+[12:09.20] <pyon>  
+[12:09.37] <pyon> Problem is columns went as far as KZ or something like that.
+[12:09.48] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Read error: Connection reset by peer)
+[12:10.17] * djhworld (~djhworld@90.192.120.217) has joined channel ##programming
+[12:11.23] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:11.58] * ablest1980 (~ablest198@50.12.14.151) Quit (Quit: Leaving)
+[12:12.08] * blackb1rd (~zack@2601:9:5900:8b3:416b:c199:cb8b:a74d) has joined channel ##programming
+[12:12.22] --asandweech-- logged in with account (asandweech)
+[12:14.13] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) Quit (Ping timeout: 256 seconds)
+[12:15.19] * neems_ (~neems@69.143.245.151) has joined channel ##programming
+[12:15.34] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) has joined channel ##programming
+[12:15.36] <Myrl> hmmm
+[12:15.41] <Myrl> my disk seems to have stopped working
+[12:18.11] * antons_ (~antons@199.48.120.7) has joined channel ##programming
+[12:18.16] * neems (~neems@unaffiliated/neems) Quit (Ping timeout: 265 seconds)
+[12:18.48] * Sweet_Ride (~Sweet@199.47.65.63) has joined channel ##programming
+[12:18.53] * KidBeta (~textual@130.56.78.205) has joined channel ##programming
+[12:18.54] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Client Quit)
+[12:18.59] * Snake2k (~Snake2k@unaffiliated/snake2k) has joined channel ##programming
+[12:19.11] --Sweet_Ride-- logged in with account (Sweet_Ride)
+[12:19.11] * Sweet_Ride (~Sweet@199.47.65.63) has joined channel ##programming
+[12:19.19] <_X_C_V_B_> Myrl: ah oh
+[12:19.20] * xarik (~xarik2@c-174-57-118-249.hsd1.nj.comcast.net) has joined channel ##programming
+[12:19.28] --xarik-- logged in with account (Xarik)
+[12:19.35] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[12:19.36] <pyon> Myrl: Hard disk?
+[12:19.54] * Lady_Aleena (~L_Aleena@unaffiliated/lady-aleena) has joined channel ##programming
+[12:20.05] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) Quit (Ping timeout: 264 seconds)
+[12:20.10] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[12:20.41] <Lady_Aleena> Hello.
+[12:20.42] * neems_ is now known as neems
+[12:20.47] --neems-- logged in with account (neems)
+[12:20.48] * neems (~neems@69.143.245.151) Quit (Changing host)
+[12:20.48] * neems (~neems@unaffiliated/neems) has joined channel ##programming
+[12:20.58] <Myrl> pyon: ye.
+[12:21.23] <Myrl> pyon: It does that from time to time and I have to restart my computer. I keep asking my dad for a new hard drive
+[12:21.34] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) has joined channel ##programming
+[12:21.35] * antons (~antons@199.48.120.7) Quit (Ping timeout: 256 seconds)
+[12:21.38] <pyon> Ouch.
+[12:21.45] <pyon> Myrl: What data did it contain?
+[12:22.05] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) has joined channel ##programming
+[12:22.19] * arescorpio (~arescorpi@197-241-16-190.fibertel.com.ar) Quit (Excess Flood)
+[12:22.39] * bea571e (~unknown@23-118-113-201.lightspeed.mmphtn.sbcglobal.net) has joined channel ##programming
+[12:23.18] <Myrl> pyon: Nothing really.
+[12:23.22] <Myrl> pyon: It's mostly shite.
+[12:24.07] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[12:24.12] <insidious15> dam playing with VIM
+[12:24.23] * sushito_ (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[12:24.33] <insidious15> for the first time,really haha
+[12:25.02] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Ping timeout: 265 seconds)
+[12:25.23] * The_Schmidt (~The_Schmi@c50-27-11-94.lbbkcmtk01.tx.dh.suddenlink.net) has joined channel ##programming
+[12:25.28] * insidious15 falls in love with solarized
+[12:25.41] <jeaye> insidious15: mmhmm
+[12:26.44] * WagDawg (~KVIrc@216.227.115.84) has joined channel ##programming
+[12:27.46] * kaiten02_ (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) Quit (Remote host closed the connection)
+[12:28.04] * LeAgente (~LeAgente@student2-nat-78-3.pomona.edu) has joined channel ##programming
+[12:28.19] <jeaye> insidious15: ＋＋http://jeaye.com/upload/data/solarized_vim.png，，
+[12:28.36] <jeaye> insidious15: ＋＋http://jeaye.com/upload/data/solarized_weechat.png，，
+[12:28.40] * jeaye lives in solarized.
+[12:28.40] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 250 seconds)
+[12:28.43] * Sweet_Ride (~Sweet@199.47.65.63) Quit (Quit: Leaving.)
+[12:28.59] * sushito_ (~sushito@cm-84.209.253.60.getinternet.no) Quit (Ping timeout: 246 seconds)
+[12:29.50] * NickTheGameBoy (~NickTheGa@73.195.171.87) Quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+[12:30.31] * boB_K7IQ (~IceChat9@50.125.42.5) has joined channel ##programming
+[12:30.45] * antons__ (~antons@199.48.120.7) has joined channel ##programming
+[12:30.51] <WagDawg> lol, words of Eric S. Raymond: "... development under most other environments [non-Unix] has been aptly compared to kicking a dead whale down the beach."
+[12:30.54] * alpha (~alpha@pool-96-239-154-70.hgrtmd.east.verizon.net) Quit (Quit: Leaving)
+[12:31.08] * Serpentine_ (~chatzilla@175.156.125.140) has left ##programming ()
+[12:32.41] <pyon> Wonderful. "Everyone who doesn't use what I like is doing it wrong."
+[12:32.41] <pyon>  
+[12:33.29] <WagDawg> isn't it possibly true?
+[12:33.46] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) has joined channel ##programming
+[12:33.48] <_X_C_V_B_> ＋＋http://jsfiddle.net/brandan/6oz659z4/1/，， <-- does this look like a rocket
+[12:34.13] * antons_ (~antons@199.48.120.7) Quit (Ping timeout: 252 seconds)
+[12:35.03] <Rainb> life is short, or you just procastinate too much
+[12:35.53] <pyon> Both.
+[12:36.30] <_X_C_V_B_> any care to comment on my rocket?
+[12:36.40] * UpUpAway (~UpUpAway@71-87-83-187.dhcp.krny.ne.charter.com) has joined channel ##programming
+[12:36.53] * oujh (~vfbtgn@86.124.193.20) Quit (Ping timeout: 240 seconds)
+[12:36.57] <WagDawg> _X_C_V_B_: looked like code here
+[12:37.03] * zacts (~user@freebsd/geek/zacts) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[12:37.30] * _X_C_V_B_ facepalms
+[12:39.14] * antons_ (~antons@199.48.120.7) has joined channel ##programming
+[12:39.21] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) Quit (Ping timeout: 252 seconds)
+[12:39.43] * SrPx_ (b128c929@gateway/web/freenode/ip.177.40.201.41) Quit (Ping timeout: 246 seconds)
+[12:40.18] <yoda> curious rsync came out in 1996 around so did they have any mirroring or backup based software before rsync i get they had for code/software repo like cvs and even older repo software but for mirroring or backing up whole servers was it just ftp ,telnet , like dd or something
+[12:42.09] <yoda> what was the common backup method for begining of computers up to the mid 90's when rsync and tons of backup software started to come out as well as tons of cloning software
+[12:42.13] <Master_Asia> yoda: Yeah, it's call tar * | UPS
+[12:42.15] * antons__ (~antons@199.48.120.7) Quit (Ping timeout: 250 seconds)
+[12:42.40] * Master_Asia is now known as Church-Turing
+[12:43.55] <Lady_Aleena> Happy Valentine's Day!
+[12:44.07] <Church-Turing> Ugh, that's right.
+[12:44.19] * Church-Turing goes to grab the emergency guiness
+[12:44.22] <pyon> Oh, right, it's Feb 14th, I hadn't noticed.
+[12:44.39] * Church-Turing was too busy casting Magic Missle
+[12:44.42] * freakazoid0223 (~matt@pool-96-245-252-116.phlapa.fios.verizon.net) Quit (Ping timeout: 250 seconds)
+[12:44.49] <pyon> Magic Missle?
+[12:44.49] <pyon>  
+[12:44.53] <yoda> remote backup or network backups obviously they had tar and archive software they could manually cp it or ftp it but anything for mirrors or to keep track of deltas or did they do a complete backup ever time not a differential one
+[12:45.03] * dm7freek (~dm7freek@73.181.156.29) has joined channel ##programming
+[12:45.15] <Lady_Aleena> Church-Turing, at the darkness?
+[12:45.51] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 246 seconds)
+[12:46.08] <Lady_Aleena> Church-Turing, just beware of those nasty gazebos.
+[12:46.19] * antons__ (~antons@199.48.120.7) has joined channel ##programming
+[12:46.25] <Snake2k> Hello humans, robots, everything else, and pyon.
+[12:46.33] * arup_r (~chatzilla@122.171.29.34) has joined channel ##programming
+[12:46.41] * blackb1rd (~zack@2601:9:5900:8b3:416b:c199:cb8b:a74d) Quit (Ping timeout: 252 seconds)
+[12:46.41] <pyon> Snake2k: Hello.
+[12:46.45] <Snake2k> pyon: Sup?
+[12:47.04] <pyon> Snake2k: Not much. Sleepy. You?
+[12:47.21] <Snake2k> pyon: Same, except, I don't sleep :|
+[12:47.52] <Snake2k> pyon: I do but... I don't >_>
+[12:48.46] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) has joined channel ##programming
+[12:48.57] * it0a (~it0a@cpe-66-61-109-178.neo.res.rr.com) has joined channel ##programming
+[12:49.08] <pyon> Snake2k: Well, pyon is actually ten people operating the same account. When one falls asleep, the next one takes his place.
+[12:49.27] * antons_ (~antons@199.48.120.7) Quit (Ping timeout: 252 seconds)
+[12:49.33] * dm7freek (~dm7freek@73.181.156.29) Quit (Ping timeout: 245 seconds)
+[12:49.46] <Snake2k> pyon: Damn >_>
+[12:50.00] <Snake2k> pyon: You are one, you are many.
+[12:50.19] <pyon> ofc
+[12:51.06] * WagDawg (~KVIrc@216.227.115.84) has left ##programming ()
+[12:51.27] * hyuke (~alan@c-50-134-181-139.hsd1.co.comcast.net) Quit (Ping timeout: 252 seconds)
+[12:51.38] * antons__ (~antons@199.48.120.7) Quit (Quit: Leaving)
+[12:52.04] <Snake2k> pyon: Do they all read all the logs to stay the same pyon?
+[12:52.37] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) has joined channel ##programming
+[12:52.41] <pyon> Snake2k: We all SSH to the same machine.
+[12:53.16] <pyon> Snake2k: So it is just a matter of reading the backlog.
+[12:53.23] <Snake2k> pyon: Aaahhhh true true >_>
+[12:53.35] <Snake2k> pyon: how do you hire new souls for "pyon"?
+[12:53.43] <pyon> blackmail
+[12:54.00] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) Quit (Client Quit)
+[12:54.03] <Snake2k> pyon: ...
+[12:54.09] * Snake2k slithers away from pyon 
+[12:54.46] * kranius (~kranius@14.250.93.79.rev.sfr.net) has joined channel ##programming
+[12:56.22] * Cupe (~dicks@unaffiliated/cowabunga) has joined channel ##programming
+[12:56.26] * oujh (~vfbtgn@188.25.39.167) has joined channel ##programming
+[12:56.31] * Cupe (~dicks@unaffiliated/cowabunga) Quit (Client Quit)
+[12:57.21] * epitamizor (~snake@75-139-177-207.dhcp.knwc.wa.charter.com) has joined channel ##programming
+[12:57.25] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:57.50] * KidBeta (~textual@130.56.78.205) has joined channel ##programming
+[12:58.19] * stepdad (~dicks@unaffiliated/cowabunga) Quit (Ping timeout: 255 seconds)
+[12:58.24] * Cupa (~dicks@unaffiliated/cowabunga) has joined channel ##programming
+[12:59.09] * kranius (~kranius@14.250.93.79.rev.sfr.net) Quit (Ping timeout: 246 seconds)
+[01:01.38] * _X_C_V_B_ tasers pyon and Snake2k
+[01:01.41] <epitamizor> anyone good at website stuff? why does website keep opening links in new tab?
+[01:01.43] * Snake2k dies
+[01:01.47] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[01:02.12] <Snake2k> epitamizor: Well the person who made it intended for those links to be opened in a new tab
+[01:02.31] <epitamizor> but its annoying
+[01:02.54] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##programming
+[01:02.56] <pyon> epitamizor: Can't you configure your browser to always open links in the same tab?
+[01:03.09] <Snake2k> epitamizor: I agree, atleast it's not as annoying as one time ad clickers on every single div of the web page lol
+[01:03.38] <_X_C_V_B_> epitamizor: It's not as bad as opening a new window
+[01:03.49] <Snake2k> _X_C_V_B_ += _X_C_V_B_
+[01:03.56] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) has joined channel ##programming
+[01:04.07] <_X_C_V_B_> *cough* *cough* IE8
+[01:04.08] * Myrl (~AndroidKi@unaffiliated/androidkitkat) Quit (Ping timeout: 245 seconds)
+[01:05.11] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:05.31] * Myrl (~AndroidKi@unaffiliated/androidkitkat) has joined channel ##programming
+[01:05.55] <Snake2k> _X_C_V_B_: I told a kid once that the most important tool on your computer is the Internet Explorer, you use it to install Chrome or Firefox, then you hide the icon somewhere (<--- True shit).
+[01:06.04] <Snake2k> _X_C_V_B_: Best advice to someone new to Windows :|
+[01:06.16] <pyon> Snake2k: lmao
+[01:06.22] * blizzy (~Anthony@cpe-74-128-247-185.swo.res.rr.com) Quit (Ping timeout: 250 seconds)
+[01:06.38] <pyon> "the[sic] Internet Explorer, you use it to install Chrome or Firefox" --> So true.
+[01:06.59] <_X_C_V_B_> At least I have Linux. NO IE
+[01:07.02] <_X_C_V_B_> !!!!!!!!!!!!!!!!!!!!
+[01:07.07] <Snake2k> pyon: Yep lol
+[01:07.36] <Snake2k> _X_C_V_B_: No bad default browser :| Well IE is dead now...
+[01:07.44] <Snake2k> Let's see how "Spartan" is
+[01:08.09] <_X_C_V_B_> Ubuntu comes with firefox
+[01:08.22] <Snake2k> _X_C_V_B_: So does Fedora
+[01:08.37] <Snake2k> _X_C_V_B_: I like Firefox's new design, but I prefer Chromium/Chrome
+[01:08.41] * Myrl (~AndroidKi@unaffiliated/androidkitkat) Quit (Read error: Connection reset by peer)
+[01:08.54] <_X_C_V_B_> Chromium is fast
+[01:09.05] * pyon would use Chrome if Google weren't so creepy.
+[01:09.06] * Myrl (~AndroidKi@unaffiliated/androidkitkat) has joined channel ##programming
+[01:09.22] <Snake2k> _X_C_V_B_: Indeed, Chrome comes with alot of support for everything, but <insert what pyon said>
+[01:10.01] * Myrl (~AndroidKi@unaffiliated/androidkitkat) Quit (Read error: Connection reset by peer)
+[01:10.19] <BlastHardcheese> hmm, I used Portage to install Firefox :p
+[01:11.25] <Snake2k> BlastHardcheese: I have no idea what that is <_< Is it scary?
+[01:11.28] <Snake2k> BlastHardcheese: lol
+[01:11.58] <Snake2k> Aaahhh package manager
+[01:12.18] * Snake2k just read "port collections" and closes the tab.
+[01:12.27] * _X_C_V_B_ really likes firefox theme
+[01:12.38] <_X_C_V_B_> *his
+[01:12.46] * Myrl (~AndroidKi@unaffiliated/androidkitkat) has joined channel ##programming
+[01:12.56] <arathald> evening, everyone
+[01:13.00] * arathald sips rum
+[01:13.13] * felice (~felice@2001:e68:4094:274a:e174:584f:147:2345) has joined channel ##programming
+[01:13.21] <Snake2k> arathald: Good... Morning-ish... >_>
+[01:13.26] * Snake2k hugs arathald's soul.
+[01:13.39] * PSGroup44 (cda43b99@gateway/web/freenode/ip.205.164.59.153) has joined channel ##programming
+[01:13.47] <Snake2k> _X_C_V_B_: I barely use the browser, thus I don't theme much >_>
+[01:13.49] <arathald> hey, you're that devil I saw on the river
+[01:13.57] <Snake2k> arathald: Ssshhhhh!!!
+[01:14.08] <Snake2k> arathald: Nobody here knows I'm Lucifer...
+[01:14.15] <arathald> not the devil
+[01:14.16] <arathald> a devil
+[01:14.27] <arathald> cmon now, don't try to fool me
+[01:14.44] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[01:14.49] <Snake2k> arathald: <_____________________<
+[01:15.08] <PSGroup44> In the C Shell environment, I would like to source file1 parameter. How can I make files1 take the parameter?
+[01:16.39] <Myrl> Snake2k: You forgot to say "baka"
+[01:16.39] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Read error: Connection reset by peer)
+[01:16.47] * sushito_ (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[01:16.48] <arathald> Snake2k: don't mind me. what you said reminded me of a song
+[01:17.06] <toccatanfugue> i just want to thank you all for the help over the years. just incase I don't make it out tomorrow morning
+[01:17.26] <arathald> toccatanfugue: visiting the DMV?
+[01:17.27] * sushito_ (~sushito@cm-84.209.253.60.getinternet.no) Quit (Read error: Connection reset by peer)
+[01:17.35] <toccatanfugue> close, root canal
+[01:17.37] <toccatanfugue> (dentist)
+[01:17.42] <arathald> ah
+[01:17.50] <PSGroup44> In the C Shell environment, I would like to source file1 parameter. How can I make files1 take the parameter?
+[01:18.01] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[01:18.13] <Snake2k> Myrl: Huh? >_>
+[01:18.21] <toccatanfugue> PSGroup44: what does that mean
+[01:18.21] * pyon (~user@unaffiliated/pyon) Quit (Quit: stupid emacs)
+[01:18.31] <Snake2k> arathald: Aaahhhhh... Makes sense now lol
+[01:18.53] <arathald> PSGroup44: (1) don't keep repeating your question so soon. we saw it the first time. (2) I have no clue what you're asking. maybe paste some code of what you're trying to do into pastebin
+[01:19.02] <Myrl> I forgot that it's Valentine's Day today. GGWP. No RM.
+[01:19.13] <Snake2k> PSGroup44: You mean like... int main(int argc, int **argv)?
+[01:19.28] * Mateon1 (~Mateon1@unaffiliated/mateon1) Quit (Ping timeout: 255 seconds)
+[01:19.42] <Snake2k> PSGroup44: That would pass arguments to your C program to your main function...
+[01:19.51] <Snake2k> PSGroup44: But I have no idea what you really mean lol
+[01:20.23] * hanshenrik (~hanshenri@ti0016a400-7855.bb.online.no) Quit (Read error: Connection reset by peer)
+[01:20.39] <PSGroup44> I apoligize for the confusion.In a c shell prompt, I type the command, source <file name> parameter. I would like the file take the parameter. Any hints?
+[01:20.58] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:20.59] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[01:21.09] * vdamewood (~vdamewood@75-164-231-233.ptld.qwest.net) Quit (Quit: Computer has gone to sleep.)
+[01:21.16] * Krixvar (~quassel@cpe-69-207-88-145.rochester.res.rr.com) Quit (Remote host closed the connection)
+[01:21.45] <PSGroup44> Right now, I try to the command, echo $1, nothing comes out. I do not know how to make the file take the parameter.
+[01:21.53] * _W_ (~w@irc.w-wins.com) Quit (Ping timeout: 264 seconds)
+[01:22.14] <PSGroup44> I am not allow to change the command, source <file name> parameter.
+[01:22.18] <Snake2k> PSGroup44: ＋＋http://bash.cyberciti.biz/guide/Source_command，，
+[01:22.25] <Snake2k> PSGroup44: I believe that is what you're trying to go for
+[01:22.26] * threadNecromance (~sebastian@c-24-21-197-80.hsd1.or.comcast.net) has joined channel ##programming
+[01:22.47] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Ping timeout: 245 seconds)
+[01:23.10] * KidBeta (~textual@130.56.78.205) has joined channel ##programming
+[01:23.14] <arathald> yeah, by that, it looks like it does it exactly the way you mentioned
+[01:23.22] <arathald> PSGroup44: ^
+[01:23.34] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[01:23.59] * bea571e (~unknown@23-118-113-201.lightspeed.mmphtn.sbcglobal.net) Quit (Remote host closed the connection)
+[01:24.31] * Mateon1 (~Mateon1@unaffiliated/mateon1) has joined channel ##programming
+[01:24.42] * insidious15 (~androirc@2601:c:3200:b200:20de:1900:aa6a:1866) has joined channel ##programming
+[01:25.27] <grill> what is the worst CMS on the entire planet
+[01:25.35] <PSGroup44> In csh, a file does not take positional parameters.
+[01:25.45] <insidious15> Wordpress sucks pretty bad
+[01:25.52] <BlastHardcheese> coldfusion
+[01:25.56] <PSGroup44> In bash or tcsh, it can.
+[01:26.02] <BlastHardcheese> but yeah wordpress is pretty neck-and-neck
+[01:26.25] <grill> no
+[01:26.30] <grill> the answer is DRUPAL
+[01:26.35] * pyon (~user@unaffiliated/pyon) has joined channel ##programming
+[01:26.36] * kreiGT (~kreig@190.149.6.91) Quit (Remote host closed the connection)
+[01:27.09] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[01:28.44] * UpUpAway (~UpUpAway@71-87-83-187.dhcp.krny.ne.charter.com) Quit (Read error: Connection reset by peer)
+[01:28.48] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) has joined channel ##programming
+[01:28.55] * Matthew_ (~Matthewrb@wikimedia/matthewrbowker) has joined channel ##programming
+[01:29.25] * Sadale (~Sadale@unaffiliated/sadale) Quit (Ping timeout: 252 seconds)
+[01:29.48] * nic77 (~sd@208.88.251.170) Quit (Ping timeout: 265 seconds)
+[01:30.17] * djhworld (~djhworld@90.192.120.217) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:30.28] * atrx (~atrx@ppp-110-168-232-157.revip5.asianet.co.th) Quit (Read error: Connection reset by peer)
+[01:31.38] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Ping timeout: 245 seconds)
+[01:31.40] <grill> also
+[01:31.51] <grill> can any of you explain the myhill-nerode theorem real quick?
+[01:32.51] <PSGroup44> <arathald>:  In csh, a file does not take positional parameters.
+[01:33.11] <arathald> I know next to nothing about csh
+[01:33.52] <grill> yo arathald that's ok. csh has nothing to do with the myhil-nerode theore
+[01:33.52] <grill> m
+[01:34.11] <arathald> grill: ??
+[01:34.23] <grill> you heard me
+[01:34.49] <PSGroup44> I am using the command, source <file name> parameter. How can I edit the file so that it takes the positional parameter. Any hints?
+[01:35.00] <arathald> yes, I did hear you. hence the question marks
+[01:35.56] <Myrl> February the 14th is the independence day of ##programming.
+[01:35.59] * Myrl cries in the corner.
+[01:36.42] * arathald pulls out a guitar and plays a sad song
+[01:37.13] <Myrl> I downloaded for 14 minutes to see a 1 minute video... wat
+[01:37.22] <Myrl> I mean 14 second video,.
+[01:37.25] <Myrl> lol...
+[01:38.03] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) Quit (Quit: delta-nry)
+[01:38.08] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:38.18] * Eleuin (~Eleuin@unaffiliated/eleuin) has joined channel ##programming
+[01:40.32] * ghostjangles (~ghostjang@71-47-5-4.res.bhn.net) has joined channel ##programming
+[01:40.44] <arathald> great. now I'm actually playing a sad song on my guitar
+[01:41.25] * Snake2k hugs arathald's soul to make him feel better.
+[01:41.27] <arathald> Myrl: Look what you've done
+[01:41.38] * Snake2k then devours arathald's soul and feeds his body to demons.
+[01:41.42] * Myrl group hus Snake2k and arathald.
+[01:41.51] <arathald> Snake2k: its not that sad song
+[01:41.53] <Snake2k> Myrl: <_<
+[01:42.07] <Snake2k> arathald: Okay >_>
+[01:42.10] <arathald> Snake2k: and no, after the demon devours me, I become the demon
+[01:42.28] <arathald> but otherwisse, basically spot on
+[01:43.10] <Snake2k> arathald: Being a demon > being anything else
+[01:43.25] <Snake2k> Hail Lord Santa!
+[01:43.57] * oujh (~vfbtgn@188.25.39.167) Quit (Ping timeout: 246 seconds)
+[01:44.55] <grill> yo. this DFA is already minimal, ya herd? ＋＋http://imgur.com/BNdipLr，，
+[01:45.28] <BlastHardcheese> NO JOHN YOU ARE THE DEMONS
+[01:45.44] <arathald> it's okay, it turned into a happy song
+[01:46.04] <grill> yo
+[01:46.12] <grill> why are wikipedia articles so fucking dense
+[01:47.00] <nitrix> its an encyclopedia
+[01:47.06] <grill> it's like some of the authors purposefully try to make their articles impossible to understand
+[01:47.18] <grill> go look at the DFA minimization page
+[01:48.19] * horsik (4dfec4f7@gateway/web/freenode/ip.77.254.196.247) Quit (Ping timeout: 246 seconds)
+[01:48.35] <grill> also, i feel like the myhil nerode page could be minimized significnatly
+[01:48.47] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:49.03] * KidBeta (~textual@130.56.78.205) has joined channel ##programming
+[01:49.15] * Lady_Aleena (~L_Aleena@unaffiliated/lady-aleena) has left ##programming (("Leaving"))
+[01:50.06] <Rainb> finally found an irc client that doesn't crash
+[01:50.11] <Rainb> and that is not chatzilla
+[01:50.27] *** Server disconnected on irc.freenode.net
+[02:00.39] * You have joined ##programming
+[02:00.39] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[02:00.39] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[02:00.39] Channel modes for ##programming are :+cntf ##overflow
+[02:00.39] Channel Created on: 5:23 AM 2/4/2007
+[02:01.21] <arathald> the point is that the part I quoted gives you a step-by step mechanism for determining that
+[02:01.24] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 246 seconds)
+[02:01.43] <grill> the way i understood it, equivalence classes (in this case) are all the strings that are in the language, and all the strings that are not in the language
+[02:01.45] <arathald> so are the strings "0" and "1" equivalent?
+[02:02.01] <grill> yes
+[02:02.19] <arathald> actually they're not
+[02:02.25] <grill> why
+[02:02.36] <nisstyre> wat
+[02:02.53] <Rainb> finally found an irc client that doesn't crash
+[02:02.56] <Rainb> and that is not chatzilla
+[02:02.56] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[02:03.02] <arathald> a third string, "1" can be chosen so that xz and yz are not both accepted or both rejected
+[02:03.03] <nisstyre> an equivalence class is all of the elements equal under an equivalence relation
+[02:03.10] <nisstyre> "equal"
+[02:03.13] * Vivex_ (~Vivex@173-16-176-63.client.mchsi.com) has joined channel ##programming
+[02:03.43] <nisstyre> wtf r u talkin bout arathald
+[02:03.43] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[02:04.00] * atrx (~atrx@ppp-110-168-232-157.revip5.asianet.co.th) has joined channel ##programming
+[02:04.02] * Mr_Sheesh_ (~mr_s@unaffiliated/mr-sheesh/x-0757054) has joined channel ##programming
+[02:04.02] * _W_ (~w@irc.w-wins.com) has joined channel ##programming
+[02:04.02] * Mr_Sheesh (~mr_s@unaffiliated/mr-sheesh/x-0757054) Quit (Disconnected by services)
+[02:04.12] <nisstyre> er grill rather
+[02:04.14] <arathald> nisstyre: the equivalence relation, not the equivalence class.
+[02:04.16] * Mr_Sheesh_ is now known as Mr_Sheesh
+[02:04.27] <nisstyre> sorry I was talking about grill not you
+[02:04.30] <grill> yes, and 0 and 1 are both accepted by this language
+[02:04.31] <grill> so they're equal
+[02:04.31] <arathald> so my answer was right the first time for the equivalent *class*
+[02:04.50] <arathald> *equivalance
+[02:05.06] <nisstyre> grill: so the relation is "a is accepted and b is accepted" ?
+[02:05.08] <arathald> the equivalence classes, like I said before are {11, 111} and the set of all strings except {11, 111}
+[02:05.42] <grill> ok. let's rewind this a bit
+[02:05.42] <grill> what's an equivalence relation
+[02:05.42] <grill> in plain english. i know an equivalence relations i reflexive symmetric and transitive
+[02:05.42] <grill> this does nothing for me
+[02:06.03] <nisstyre> why
+[02:06.12] <nisstyre> you're not supposed to know more than that
+[02:06.13] * Vivex (~Vivex@173-16-176-63.client.mchsi.com) Quit (Ping timeout: 245 seconds)
+[02:06.15] * ashmew2_ (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[02:06.38] * ashmew2 (~ashmew2@unaffiliated/ashmew2) Quit (Disconnected by services)
+[02:06.44] * ashmew2_ is now known as ashmew2
+[02:06.45] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:535:9e27:c9b8:a263) has joined channel ##programming
+[02:06.45] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:535:9e27:c9b8:a263) Quit (Disconnected by services)
+[02:06.54] <grill> those words don't mean anything to me
+[02:07.03] * nh_99 (~nh@nohowdezign.com) Quit (Ping timeout: 246 seconds)
+[02:07.10] <grill> i can't envision an example that describes them
+[02:07.16] <nisstyre> a E a, a E b && b E , a E b && b E c -> a E ca
+[02:07.23] <grill> no
+[02:07.24] * impulse (~impulse@TOROON4828W-LP140-01-1279627613.dsl.bell.ca) Quit (Ping timeout: 246 seconds)
+[02:07.32] <grill> let's not use mathematical notation
+[02:07.36] <nisstyre> a E c *
+[02:07.38] <grill> plain english please
+[02:08.02] <grill> if i wanted to see mathematical notation, i'd just read the 1000s of google results on the topic
+[02:08.08] <PSGroup44> In a c shell prompt, I type the command, source <file name> parameter. I would like the file take the parameter. If I put  set x = $<  in the file, will x set to equal to the parameter?
+[02:08.20] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Quit: Computer has gone to sleep)
+[02:08.44] * nh_99 (~nh@nohowdezign.com) has joined channel ##programming
+[02:08.57] <grill> for example, what makes the = relation on the numbers {1, 2, 3} an equivalence relation?
+[02:09.02] * impulse (~impulse@TOROON4828W-LP140-01-1279627613.dsl.bell.ca) has joined channel ##programming
+[02:09.56] <nisstyre> there is no "plain English" version
+[02:09.57] * Sweet_Ride (~Sweet@162.212.119.0) has joined channel ##programming
+[02:09.58] <arathald> grill: in this case, it depends on the language
+[02:10.08] * neagle3 (~neagle3@gateway/vpn/privateinternetaccess/neagle3) has joined channel ##programming
+[02:10.17] <grill> nisstyre i refuse to believe that.
+[02:10.23] <nisstyre> I'm serious
+[02:10.31] <grill> i know you are. i am too.
+[02:10.32] * Shogun_ (~quassel@23-29-5-150.netptc.net) Quit (Ping timeout: 246 seconds)
+[02:10.37] <nisstyre> all of the meaning is contained in those general statements
+[02:10.51] <nisstyre> any additional meaning is specific to one case
+[02:10.52] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:10.56] <grill> those general statements don't do anything for me
+[02:11.06] <grill> so let's work through some examples
+[02:11.07] <nisstyre> ＋＋https://en.wikipedia.org/wiki/Equivalence_relation#Simple_example，，
+[02:11.12] <grill> for example, what makes the = relation on the numbers {1, 2, 3} an equivalence relation?
+[02:11.40] <grill> ok
+[02:11.52] <grill> so this is where math people differ from regular people
+[02:12.01] <grill> in fact, i believe i could make an equivvalence relation out of it
+[02:12.05] <nisstyre> because that relation (equality on integers I guess?) holds the properties needed
+[02:12.50] <grill> "people who think the definition of equivalence relation is trivally obvious" on the set of all people
+[02:12.54] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[02:13.41] <grill> coincidentally, this equivalence relation is congruent to "math people" on the set of all people
+[02:13.46] <arathald> no one said it was obvious. in fact, the point is that it's not
+[02:14.03] <arathald> nor is it trivially simple
+[02:14.22] <arathald> there's a lot of background to truly understand these things
+[02:14.33] <pyon> grill: Think of a set as a cake. An equivalence relation is like slicing a cake.
+[02:14.40] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) Quit (Quit: This computer has gone to sleep)
+[02:14.59] <_X_C_V_B_> my game barely works in firefox
+[02:15.05] <grill> i ate some cake earlier tonight
+[02:15.08] <grill> i like cake
+[02:15.17] <_X_C_V_B_> but works great in chromium
+[02:15.21] <pyon> grill: Who doesn't like cake?
+[02:15.24] * bhldev__ (~briandev@135-23-177-114.cpe.pppoe.ca) Quit (Remote host closed the connection)
+[02:15.25] * bhldev (~briandev@135-23-177-114.cpe.pppoe.ca) has joined channel ##programming
+[02:15.35] <_X_C_V_B_> in firefox I get 10 fps
+[02:15.44] * nForce_ (~nforce@arch.bloemendal.me) has joined channel ##programming
+[02:15.48] <eric_lagergren> isn't an equivalence relation like dividing a class into boys and girls?
+[02:15.56] <grill> "the people who don't like cake" ont he set of all people is an equivalence relation
+[02:15.57] <_X_C_V_B_> in chromium I get 50 fps
+[02:16.28] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) has joined channel ##programming
+[02:16.28] <grill> that's correct, yes?
+[02:16.34] * chargen (~chargen@98.Red-79-157-199.dynamicIP.rima-tde.net) has joined channel ##programming
+[02:16.43] * sir_galahad_ad_ (~aaron@rrcs-24-97-50-42.nys.biz.rr.com) Quit (Ping timeout: 250 seconds)
+[02:16.52] <neagle3> ＋＋https://www.youtube.com/watch?v=GSVv40M2aks，， <-- Does this look incredibly fake to anyone else? As if they just made some CGI effects to represent what the cameras supposedly would see?
+[02:16.53] <pyon> grill: An equivalence relation is, first and foremost, a binary relation.
+[02:16.59] --_kmh_-- logged in with account (_kmh_)
+[02:17.01] <pyon> grill: And it satisfies further axioms.
+[02:17.04] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 244 seconds)
+[02:17.32] <arathald> grill: what you said is a set, not a relation
+[02:18.03] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[02:18.04] <pyon> grill: What I said is that the effect of an equivalence relation on its carrier set is analogous to slicing a cake.
+[02:18.08] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[02:18.40] <pyon> The binary relation "xRy" is "x and y belong in the same [equivalence class / cake slice]".
+[02:18.41] <grill> pyon so it;'s all about partitioning, yes?
+[02:19.01] * oujh (~vfbtgn@188.25.39.167) Quit (Remote host closed the connection)
+[02:19.09] <arathald> yep. read the wrticle, it says so explicitly
+[02:19.23] * toccatanfugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[02:20.14] <grill> arathald look man. i hate to admit it, but reading that article does very little for me. i begin reading it and my eyes glaze over.
+[02:20.21] <pyon> An equivalence relation is (1) reflexive [xRx], (2) symmetric [xRy = yRx], (3) transitive [(xRy /\ yRz) -> xRz].
+[02:20.43] <arathald> grill: then you might need more background :/
+[02:21.04] <Rainb> background is hard
+[02:21.11] <grill> it's less about background, more about the way the material is communicated
+[02:21.21] <Rainb> I've found that is ture
+[02:21.25] <grill> anyway, pyon i'm following you
+[02:21.28] <arathald> the article isn't overly cimplicated, but it assumes some level of math knowledge
+[02:21.33] <pyon> The simplest way to understand this kind of stuff is to present a bunch of axioms.
+[02:21.38] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) Quit (Ping timeout: 245 seconds)
+[02:21.41] <arathald> otherwise, it would be enormous
+[02:21.46] * toccatanfugue (~bionet@69.63.185.56) has joined channel ##programming
+[02:21.56] * chargen (~chargen@98.Red-79-157-199.dynamicIP.rima-tde.net) Quit (Remote host closed the connection)
+[02:21.57] --David-- logged out of account
+[02:22.02] * _W (~w@irc.w-wins.com) has joined channel ##programming
+[02:22.09] <Rainb> some ideas in wikipedia are like hard to understand, but then someone explains it to you in a layman's way and it all makes sense
+[02:22.11] <pyon> When in doubt about anything, just use the axioms. You don't really need to "understand" anything, just follow the calculation rules.
+[02:22.14] <grill> i can listen to pyon all day, and what he says makes sense. i can read wikipedia all day, and all i get is annoted
+[02:22.21] <grill> *annoyed
+[02:22.31] <grill> ok
+[02:22.49] <Rainb> math in wikipedia is very formalized
+[02:23.01] <Rainb> not good for learning or understanding, great for reviewing tho
+[02:23.02] <grill> so how does the equivalence relation work for {w | w is any string except 11 and 111}
+[02:23.18] <pyon> Rainb: The point to formalizing is to provide a better alternative to understanding.
+[02:23.22] * anglisc520 (~aethelber@81-86-151-146.dsl.pipex.com) has joined channel ##programming
+[02:23.33] <arathald> grill: but pyon's teaching it to you, and is a lot wordier that the wikipedia article is. wikipedia is an encyclopedia, not a tutor
+[02:23.46] * pyon isn't really always that clear.
+[02:24.08] <Rainb> Except everything is too abstract and you just don't really understand what it's talking about maybe is the terms they use
+[02:24.12] <grill> how exactly are the strings symmetric
+[02:24.19] <pyon> Rainb: That's the point: forget about understanding, just calculate.
+[02:24.25] <Rainb> maybe simple english wikipedia will be more helpful someday
+[02:24.26] <grill> i know 1 and 0 are in the language
+[02:24.32] <Rainb> Except I want to understand
+[02:24.38] <Snake2k> pyon > life
+[02:24.39] <Rainb> I can't calculate if I don't understnad
+[02:24.44] <Snake2k> Well...
+[02:24.47] <Snake2k> pyon >= life
+[02:24.47] <grill> i'm the same way
+[02:24.50] <arathald> Rainb: it's hard to get rid of those terms, because they mean extremel specific things
+[02:24.50] <Rainb> It is a mechanical job to do it
+[02:24.57] <grill> it's bullshit, but that's the way i am
+[02:25.00] <grill> anyway
+[02:25.05] <Rainb> a computer doesn't need to understand, to calculate
+[02:25.07] <grill> so 0 and 1 are two strings in the language
+[02:25.11] <grill> how are they symmetric
+[02:25.14] * _Atom_ (~jawat@172.56.15.162) has joined channel ##programming
+[02:25.15] * matp_ (~matp@mail.matp.at) has joined channel ##programming
+[02:25.21] <arathald> replacing it with equivalent simple english would make it really long
+[02:25.22] <grill> 0 != 1
+[02:25.33] <grill> right
+[02:25.33] <grill> ?
+[02:25.46] <arathald> grill: depends on the language
+[02:25.51] <arathald> oh equal
+[02:25.52] <arathald> yeah
+[02:26.13] * nForce (~nforce@arch.bloemendal.me) Quit (Ping timeout: 245 seconds)
+[02:26.16] <arathald> but that doesn't mean they're not equivalent, because that depends on the language
+[02:26.17] <pyon> grill: The one that is symmetric is not the string themselves, but the equivalence relation R_L.
+[02:26.26] <Rainb> if I don't understand I don't see the point, if I don't see the point, I really stress myself, out of curiousity, or something
+[02:26.39] <Rainb> because I know it means something
+[02:26.40] * nikio__ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##programming
+[02:26.44] <Rainb> I just want to know what it is
+[02:26.45] * oujh (~vfbtgn@188.25.39.167) has joined channel ##programming
+[02:26.48] <grill> oookay
+[02:26.59] <pyon> grill: As I said above, to say that a relation is symmetric means that, for any "x" and "y", if "xRy", then "yRx".
+[02:27.04] * pimlu_ (~pimlu@128.172.35.9) has joined channel ##programming
+[02:27.29] <grill> so the two equivalence classes defined by this language are 111 and/or 11 and not 111 and/or 11
+[02:27.32] <pyon> In this case, the relation "R" is "there is no distinguishing extension for x and y".
+[02:27.56] <grill> pyon define extension
+[02:28.01] <arathald> Rainb: then look them up. and be prepared for more complicated math and things you might not understand
+[02:28.03] * sir_galahad_ad_ (~aaron@rrcs-24-97-50-42.nys.biz.rr.com) has joined channel ##programming
+[02:28.06] * _W_ (~w@irc.w-wins.com) Quit (*.net *.split)
+[02:28.07] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) Quit (*.net *.split)
+[02:28.07] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) Quit (*.net *.split)
+[02:28.07] * genbattle (~genbattle@122-59-87-87.jetstream.xtra.co.nz) Quit (*.net *.split)
+[02:28.07] * pimlu (~pimlu@128.172.35.9) Quit (*.net *.split)
+[02:28.07] * matp (~matp@mail.matp.at) Quit (*.net *.split)
+[02:28.07] * seeknstrike (~Admin@191-247-228-63.3g.claro.net.br) Quit (*.net *.split)
+[02:28.07] * LogicalDash (~quassel@104.167.105.241) Quit (*.net *.split)
+[02:28.07] * stefan27 (~stefan27@212.247.4.149) Quit (*.net *.split)
+[02:28.07] * spagett (~spagett@unaffiliated/spagett) Quit (*.net *.split)
+[02:28.07] * jeaye (~jeaye@unaffiliated/jeaye) Quit (*.net *.split)
+[02:28.07] * tonsofpcs (~mythbuntu@rivendell/member/tonsofpcs) Quit (*.net *.split)
+[02:28.07] * grim001 (grim001@ip70-173-208-40.lv.lv.cox.net) Quit (*.net *.split)
+[02:28.07] * anglisc (~aethelber@81-86-151-146.dsl.pipex.com) Quit (*.net *.split)
+[02:28.08] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (*.net *.split)
+[02:28.11] <pyon> grill: The Wikipedia article already defines "distinguishing extension".
+[02:28.27] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:28.37] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:28.44] <pyon> gril Wait, wait... You are still working on the Myhill-Nerode theorem, right?
+[02:28.45] <pyon> grill: *
+[02:28.46] <grill> pyon i just grepped for that phrase. it isn't in there
+[02:28.49] <grill> yeah
+[02:28.55] <pyon> ＋＋https://en.wikipedia.org/wiki/Myhill%E2%80%93Nerode_theorem，，
+[02:28.59] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:29.04] <grill> yeah, i already read that
+[02:29.09] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:29.13] <grill> again, it doesn't really do anything for me
+[02:29.15] <pyon> grill: That article contains a definition of "distinguishing extension".
+[02:29.16] * PSGroup44 (cda43b99@gateway/web/freenode/ip.205.164.59.153) Quit (Ping timeout: 246 seconds)
+[02:29.30] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) has joined channel ##programming
+[02:29.38] * blablaa (~z@unaffiliated/blablaa) Quit (Remote host closed the connection)
+[02:29.42] <grill> ok
+[02:29.54] <pyon> "z" is a distinguishing extension of "x" and "y", if exactly one of "xz" and "yz" belongs in the language you are working with.
+[02:29.55] <grill> so either xz or yz are in L
+[02:29.59] <grill> ok
+[02:30.04] <grill> could you provide an example?
+[02:30.07] <pyon> Either xz or yz, but not both.
+[02:30.26] <pyon> Mmm... What was your original automaton again?
+[02:30.27] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:30.32] * KidBeta (~textual@130.56.78.205) has joined channel ##programming
+[02:30.36] <arathald> grill: in the language you gave, "1" is a distinguishing extension for "0" and "1"
+[02:30.36] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:30.39] * grindmodeon (~Adium@173-170-12-180.res.bhn.net) has joined channel ##programming
+[02:30.45] <pyon> grill: Never mind, checked the scrollback.
+[02:30.48] * stefan27 (~stefan27@212.247.4.149) has joined channel ##programming
+[02:30.52] <arathald> i.e. "01" and "11" are distinguishable
+[02:30.59] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:30.59] <arathald> because 01 isn't in the set but 11 is
+[02:31.04] <grill> ok. that makes sense
+[02:31.05] * grindmodeon (~Adium@173-170-12-180.res.bhn.net) Quit (Client Quit)
+[02:31.08] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:31.14] <grill> arathald other way around
+[02:31.18] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (K-Lined)
+[02:31.33] <arathald> oh fine
+[02:32.02] * vdamewood (~vdamewood@c-76-105-158-189.hsd1.or.comcast.net) has joined channel ##programming
+[02:32.02] <arathald> the equivalence relation on the inverse of the language (and the distinguishing extensions) will be the same :)
+[02:32.05] * Wraz (~noneofyou@31.185.172.217) Quit (Read error: Connection reset by peer)
+[02:32.40] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:32.47] * Mr0rris0 is now known as nic778
+[02:32.49] * nic778 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:32.52] * genbattle (~genbattle@122-59-87-87.jetstream.xtra.co.nz) has joined channel ##programming
+[02:33.07] <grill> how exactly does redlexivity work in this case?
+[02:33.13] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:33.23] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:33.34] <pyon> grill: If "z" is a distinguishing extension of "x" and "y", then it is also a distinguishing extension of "y" and "x".
+[02:33.46] * Mr0rris0 (~sd@208.88.251.170) has joined channel ##programming
+[02:33.55] <grill> ok
+[02:33.56] * Mr0rris0 (~sd@208.88.251.170) Quit (Excess Flood)
+[02:33.57] <pyon> grill: As a consequence, if "x" and "y" have no distinguishing extension, then it also true that "y" and "x" have no distinguishing extension.
+[02:33.58] <grill> that's an odd one
+[02:33.59] * dm7freek (~dm7freek@2601:8:b280:79:448c:6ccf:1ac7:2f15) has joined channel ##programming
+[02:34.02] <pyon> Oh, dang.
+[02:34.06] <pyon> I was thinking about symmetry.
+[02:34.07] <pyon> Not reflexivit.y
+[02:34.09] <pyon> My bad.
+[02:34.19] <pyon> grill: "x" and "x" have no distinguishing extension.
+[02:34.23] <grill> so x = x
+[02:34.28] <grill> uh
+[02:34.36] <grill> isn't that REALLY stupidly obvious?
+[02:34.46] <arathald> usually
+[02:34.53] <vdamewood> Hi, people, etc.
+[02:34.53] <pyon> grill: Yes, it is stupidly obvious that "x" and "x" have no distinguishing extension.
+[02:34.58] <grill> can you provide an example of when it wouldnt be?
+[02:35.07] <arathald> grill: weird math, basically
+[02:35.15] <arathald> but that's what reflexivity means
+[02:35.17] <thecha> pyon what exactly is a zero day attack?
+[02:35.23] <pyon> grill: This is because, for all "z", it is impossible for exactly one of "sz" and "xz" to be in the language.
+[02:35.35] <vdamewood> Okay, time to try to figure out my Git on Solaris problem.
+[02:35.40] <pyon> grill: "xz" and "xz", my bad.
+[02:35.41] <grill> pyon ok. this makes sense now
+[02:35.55] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) has joined channel ##programming
+[02:35.55] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) has joined channel ##programming
+[02:35.55] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) has joined channel ##programming
+[02:35.56] * seeknstrike (~Admin@191-247-228-63.3g.claro.net.br) has joined channel ##programming
+[02:35.56] * LogicalDash (~quassel@104.167.105.241) has joined channel ##programming
+[02:35.56] * spagett (~spagett@unaffiliated/spagett) has joined channel ##programming
+[02:35.56] * grim001 (grim001@ip70-173-208-40.lv.lv.cox.net) has joined channel ##programming
+[02:35.57] <grill> wow
+[02:35.58] <grill> ok
+[02:35.59] <pyon> grill: Either both "xz" and "xz" are in the language, or none of "xz" and "dxz" are in the language.
+[02:36.07] <pyon> This makes reflexivity stupidly obvious.
+[02:36.08] <grill> pyon dude do you teach?
+[02:36.11] <pyon> grill: No.
+[02:36.14] <grill> you should teach
+[02:36.15] <arathald> grill: basically, in anyhing nondeterministic you could have a lack of reflexivity
+[02:36.20] * doobi-sham-95717 (~cinch@ec2-54-200-129-180.us-west-2.compute.amazonaws.com) Quit (Max SendQ exceeded)
+[02:36.20] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) Quit (Max SendQ exceeded)
+[02:36.52] <grill> sec
+[02:36.55] <grill> could or will?
+[02:36.56] <pyon> grill: I would hate to teach. I get nervous in front of people IRL.
+[02:36.59] <vdamewood> Too bad solaris isn't an open-source project (anymore).
+[02:37.36] <grill> bummer
+[02:37.38] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) has joined channel ##programming
+[02:37.44] <pyon> On IRC, with no strings attached, and no responsibility to actually make anyone understand, it is fine, though. :-P
+[02:37.46] <arathald> grill: could
+[02:37.55] <grill> so, is it bad that I don't really ever do the algorithm for DFA minimization?
+[02:38.06] <grill> i sorta just automatically minimize
+[02:38.11] <arathald> nah
+[02:38.28] <grill> oh actually it is
+[02:38.36] <vdamewood> Hmm... Perhaps it isn't Git.
+[02:38.42] <grill> i lost two points on my hw because i didn't minimize using the algorithm
+[02:38.43] * dm7freek (~dm7freek@2601:8:b280:79:448c:6ccf:1ac7:2f15) Quit (Ping timeout: 245 seconds)
+[02:38.43] * _Atom_ (~jawat@172.56.15.162) Quit (Ping timeout: 252 seconds)
+[02:38.44] <arathald> I mean, be careful not to miss anything, maybe check your work, but if you see ways to skip ahead, sure
+[02:39.05] <grill> a lot of this dfa / nfa stuff seems p obvious to me
+[02:39.08] <arathald> grill: well, soudns like you're expected to show your work
+[02:39.16] <grill> yeah
+[02:39.20] <grill> that's kinda the problem
+[02:39.29] <grill> i don't really do work. it just comes to me
+[02:39.31] * ghostjangles (~ghostjang@71-47-5-4.res.bhn.net) Quit (Quit: Leaving)
+[02:39.38] * KidBeta (~textual@130.56.78.205) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[02:40.00] <arathald> you should still know how
+[02:40.07] <grill> yeah, i guess so
+[02:40.08] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[02:40.10] <vdamewood> Hmm... I can clone from GitHub, at least.
+[02:40.12] <arathald> especially because it's important to check your work
+[02:40.29] <vdamewood> Konnichola, amigojapan.
+[02:40.31] <grill> ok
+[02:40.39] <amigojapan> hi
+[02:40.40] <amigojapan> konnichola vdamewood
+[02:40.40] <grill> do you mind if we go through a particular example?
+[02:41.33] <arathald> grill: you're meant to show your work on your hw because you're expected to know how to do it by the algorithm, not because you always need to write down every step if you can do some of it in your head
+[02:41.35] * amigojapan wonders why there are not very good evolution simulations, that simulate the process of evolution in a computer, with having children, having a program that works like DNA, random mutations, and survival of hte fittest, I have seen a handfull such simulations and they are not very good
+[02:41.50] * ykzrtj (~ykzrj@202.166.78.191) has joined channel ##programming
+[02:42.26] <Rainb> not enough ram
+[02:42.41] * felice (~felice@2001:e68:4094:274a:e174:584f:147:2345) Quit (Remote host closed the connection)
+[02:42.55] <amigojapan> Rainb: that was a resonse ot my question?
+[02:42.57] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[02:43.04] <Myrl> What the fuck.
+[02:43.08] <pyon> amigojapan: Not enough parallelism.
+[02:43.13] <arathald> grill: I can't walk through one with you, though someone else might. my attention span at the momen't won't allow it
+[02:43.16] <ykzrtj> Hi all, I’m learning databases. What is the difference between a constraint and a domain of an attribute? Is a constraint a further restriction on the domain? Or is the constraint an implementation of the domain?
+[02:43.23] <grill> ok
+[02:43.24] <Myrl> I only had 100 MB RAM left, and Windows didn't alert me.
+[02:43.29] <grill> tha's fine
+[02:44.14] <amigojapan> pyon: I think it can be achieved with just game sprites …..  like circles… I have a program that does some of the thinsg I mentioned….. I think of hte the problems is “not enough time to evolve”   but I really thinkit is mostly that people have not put in enough effort in this task
+[02:44.48] <arathald> amigojapan: something very much like it is widely used, genetic/evolutionary algorithms
+[02:45.04] <amigojapan> arathald: do you have a youtube video to it?
+[02:45.21] <arathald> amigojapan: no, look it up. its very common
+[02:45.22] <pyon> ykzrtj: The domain of an attribute is the type of its possible values. A constraint if an additional restriction that the values of attributes must satisfy.
+[02:45.35] <amigojapan> arathald: oh, you mean just any genetic algo…. ok
+[02:45.36] <arathald> youll find all kinds of things on it
+[02:46.02] <ykzrtj> pyon: So constraints are an additional layer upon the domain?
+[02:46.11] * max100 (~max100@unaffiliated/max100) Quit (Ping timeout: 246 seconds)
+[02:46.29] <vdamewood> amigojapan: If you're interested in my foray into Solaris, I've isolated my problem.
+[02:46.30] <amigojapan> arathald: anyway, I think a visual representation of an evolutionary process, like a game, would help a lot to support the theory of evolution….
+[02:46.31] <pyon> ykzrtj: I think of constraints as belonging to the relation, rather than to a single attribute.
+[02:46.38] * cluelessperson (~cluelessp@cpe-76-184-197-40.tx.res.rr.com) has joined channel ##programming
+[02:46.39] <pyon> ykzrtj: A single constraint can span multiple attributes.
+[02:46.50] <amigojapan> vdamewood: you said it was VMWare problems
+[02:47.00] <cluelessperson> I have 'NULL' in my notepad++,, I'm tryign to do replace 'NULL' with NULL and it can't find any?  wtf
+[02:47.06] <vdamewood> amigojapan: Nevermind. You're completely caught up.
+[02:47.06] * jeaye (~jeaye@unaffiliated/jeaye) has joined channel ##programming
+[02:47.08] <arathald> amigojapan: doubt it'll make much difference, to be honest. people who ignore it will continue to ignore it
+[02:47.30] * txzf (~txzf@AToulouse-556-1-220-147.w86-217.abo.wanadoo.fr) has joined channel ##programming
+[02:47.31] * ablest1980 (~ablest198@50.12.14.151) Quit (Quit: Leaving)
+[02:47.34] <amigojapan> arathald: it is good for us believers ine volution too
+[02:48.01] <vdamewood> Hey jeaye, if you're actually here and not just your nick. Have you ever worked with Sun (or Solaris) Studio?
+[02:48.04] <arathald> cluelessperson: have you tried escaping th single-quotes?
+[02:48.06] <pyon> ykzrtj: For example, let's say we have a relation InvoiceItem. [This corresponds to each detail line in an invoice.] InvoiceItem has, amongst others, three attributes: UnitPrice, Quantity, TotalPrice. The domain of these attributes is PositiveReal. An additional constraint is "UnitPrice * Quantity = TotalPrice".
+[02:48.23] <cluelessperson> arathald, no.. I need to?
+[02:48.45] * txzf (~txzf@AToulouse-556-1-220-147.w86-217.abo.wanadoo.fr) Quit (Excess Flood)
+[02:48.49] <arathald> not sure. why not try?
+[02:49.15] <cluelessperson> arathald, just did, but didn't.
+[02:49.17] <ykzrtj> pyon: I see, I understand it now.
+[02:49.20] * Bwpl (~Bwpl@105.157.175.161) has joined channel ##programming
+[02:49.38] <ykzrtj> pyon: Another question is this: does the domain necessarily determine the ‘type’ of the attribute?
+[02:49.54] <pyon> ykzrtj: In practice, yeah.
+[02:50.05] <ykzrtj> Oh, thanks! :)
+[02:50.15] <vdamewood> ykzrtj: Are you familiar with the meaning of 'domain' in the mathematical sense?
+[02:50.29] * Bwpl (~Bwpl@105.157.175.161) Quit (Excess Flood)
+[02:50.30] <amigojapan> vdamewood: it seems the others have lost interest, so I am not tied up, what was hte solution?
+[02:50.31] <ykzrtj> vdamewood: In the sense of a function domain, yes.
+[02:50.38] * reai (~reai@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##programming
+[02:51.06] <pyon> vdamewood: In this case, it is more like "domain" in the sense used in predicate logic.
+[02:51.07] <vdamewood> amigojapan: No solution yet.
+[02:51.20] * reai (~reai@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Excess Flood)
+[02:51.20] <amigojapan> oh vdamewood , I thought you said you had solved the problem
+[02:51.25] * RusAlex (~Chel@46.228.97.147) Quit (Quit: WeeChat 1.0.1)
+[02:51.42] <ykzrtj> pyon: I am not familiar with predicate logic though.
+[02:51.48] * zyak (~zyak@105.157.175.161) has joined channel ##programming
+[02:51.50] <vdamewood> pyon: I'm not familiar with the concept, then.
+[02:51.57] <vdamewood> amigojapan: I said I *isolated* it.
+[02:52.07] <amigojapan> ah ok vdamewood
+[02:52.10] <pyon> ykzrtj: Don't worry. For practical purposes, "domain" here just means "type".
+[02:52.13] <vdamewood> amigojapan: Before, I *thought* it might be VMware, but now Im certain.
+[02:52.13] <ykzrtj> In terms of set theory and basic mathematics of functions, I can relate to how relational databases are formed. But I don’t think I can understand the higher mathematics that represents it.
+[02:52.22] <pyon> ykzrtj: And "constraint" means "an additional restriction that doesn't directly follow from the type"
+[02:52.23] <amigojapan> what is it? vdamewood
+[02:52.25] * zyak (~zyak@105.157.175.161) Quit (Excess Flood)
+[02:52.27] * toccatan1ugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) has joined channel ##programming
+[02:52.36] <ykzrtj> pyon: Right, thanks a lot for simplifying it!
+[02:52.44] * Ibz (~Ibz@AStrasbourg-552-1-120-187.w86-204.abo.wanadoo.fr) has joined channel ##programming
+[02:52.45] * Shogun_ (~quassel@23-29-5-150.netptc.net) has joined channel ##programming
+[02:53.09] * Ibz (~Ibz@AStrasbourg-552-1-120-187.w86-204.abo.wanadoo.fr) Quit (Excess Flood)
+[02:53.15] <amigojapan> vdamewood: a networking problem?
+[02:53.19] <arathald> I thought the domain was conceptually affected by both the type and further constraints as well
+[02:53.23] * aeoo (~aeoo@AStrasbourg-552-1-120-187.w86-204.abo.wanadoo.fr) has joined channel ##programming
+[02:54.00] <vdamewood> amigojapan: No, it's something called 'Host-Guest File System' (HGFS). It's the layer that allows a VM to mount a directory on the host computer.
+[02:54.24] * STumbles (~stumbles@c-24-17-164-127.hsd1.wa.comcast.net) Quit (Quit: WeeChat 1.1)
+[02:54.35] * toccatanfugue (~bionet@69.63.185.56) Quit (Ping timeout: 246 seconds)
+[02:54.40] <grill> yo
+[02:54.45] <vdamewood> amigojapan: So, if I have a file /Users/vdamewood/Projects/Foo on my hardware system, I can access it through /hgfs/vdamewood/Projects/Foo on my virtual machine.
+[02:54.46] <amigojapan> vdamewood: but what does that have to do witht he application layer? or git?
+[02:54.49] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[02:54.58] <amigojapan> ok
+[02:55.01] <thecha> yo @grill
+[02:55.03] <grill> so, what would you think this means "Describe all the Myhill-Nerode equivalence classes for each of the two languages" for {w | w is any string except 11 and 111}
+[02:55.07] * Kussie (~Kussie@ppp118-208-43-5.lns20.bne7.internode.on.net) Quit (Read error: Connection reset by peer)
+[02:55.18] <grill> is it enough to say:
+[02:55.19] <grill> The equivalence classes for this language are:
+[02:55.19] <grill> - The strings 11 and 111
+[02:55.19] <grill> - The strings that are not 11 and 111
+[02:55.25] <thecha> grill do you know and can esplain how zero day attack works?
+[02:55.43] <grill> yes, in a general sense
+[02:55.47] <vdamewood> amigojapan: if I git clone from /hgfs, git fails. I tried cp -R from /hgfs and it failed on a few copies. Git can clone from a location inside the VM and from Github without a problem now.
+[02:55.48] * Lymia (~lymia@inportb/loli/cirno-chan) Quit (Ping timeout: 245 seconds)
+[02:55.53] <pyon> grill: The Wikipedia article itself already tells you what the equivalence classes are.
+[02:55.53] <vdamewood> amigojapan: So, Git's fine.
+[02:56.01] <pyon> grill: The first paragraph of the "proof" section.
+[02:56.11] <grill> pyon this is correct though, right?
+[02:56.14] <thecha> @grill plese do esplain
+[02:56.36] <vdamewood> amigojapan: I don't like using Github to sync my repositories, but it might be what I have to do until this problem gets fixed.
+[02:56.36] <arathald> thecha: are you just pinging random people with your question? you shouldn't do that
+[02:56.53] * strainwrld (~strainwrl@a95-95-174-16.cpe.netcabo.pt) has joined channel ##programming
+[02:56.54] <amigojapan> ok vdamewood
+[02:57.02] <grill> zero day = bug in some code that allows "hackers" to exploit (e.g. gain unautorized access to) a system
+[02:57.24] <cluelessperson> anyone have any idea why notepad++ can't find 'NULL' when it's obviously there?
+[02:57.30] <arathald> grill: it's more than that
+[02:57.31] * UpUpAway (~UpUpAway@71-87-83-187.dhcp.krny.ne.charter.com) has joined channel ##programming
+[02:57.37] <vdamewood> amigojapan: It's also not a network problem, as hgfs doesn't use the network.
+[02:57.44] <thecha> @grill what kind of bug is it is that where the name coms from? form som e bug that appears when date is day zero?
+[02:57.51] * ogrady (~Thunderbi@HSI-KBW-109-193-041-101.hsi7.kabel-badenwuerttemberg.de) has joined channel ##programming
+[02:58.03] <grill> arathald of course it is. i could write 1000000000000 pages on zero days
+[02:58.09] <amigojapan> I see vdamewood
+[02:58.12] <arathald> thecha: grill: a zero-day attack is one that hadn't been publicly announced or patched yet. In other words, it can be exploited *before* day 1, on "day zero"
+[02:58.13] <pyon> grill: "If there are n states, then partition the set of all finite strings into n subsets, where subset S_i is the set of strings that, when given as input to automaton A, cause it to end in state i."
+[02:58.22] <thecha> thanks @grill et al for kindly help
+[02:58.24] <arathald> i.e. it's already exploited by the time it's fixed
+[02:58.31] <vdamewood> amigojapan: Unfortunately, the solaris installer for HGFS is binary only, so there's no way for me to fix it. I wonder if Virtual Box works with Solaris.
+[02:59.01] <arathald> grill: you left out the critical bit about timing. all you described is a security flaw, zero-day or not
+[02:59.05] * SailorR (~IceChat7@24.114.36.47) Quit (Quit: A day without sunshine is like .... night)
+[02:59.09] <grill> arathald sure
+[02:59.14] <thecha> so do do zero day bugs always exist?
+[02:59.18] <arathald> no
+[02:59.19] <grill> thanks for letting thecha know
+[02:59.22] <arathald> well, ostensibly
+[02:59.25] <arathald> yes
+[02:59.28] <grill> yes, they always exist
+[02:59.30] <amigojapan> vdamewood: I dont see why it would not
+[02:59.36] * green1 (~guest@103.247.51.93) has joined channel ##programming
+[02:59.39] <arathald> but they're not always exploited before they're found and patched
+[02:59.43] <thecha> does js have vulnerabilites thatz wold lend themselves to a zero day ttack?
+[02:59.48] <vdamewood> amigojapan Why it would not... use the network?
+[02:59.54] <amigojapan> vdamewood: this is intel solaris right? you may be missing the host options, but otherwise it shoudl work
+[02:59.59] * Lymia (~lymia@inportb/loli/cirno-chan) has joined channel ##programming
+[02:59.59] <grill> pyon can you explain that using more words>?
+[03:00.07] <arathald> thecha: it's likely, yes. what makes it a zero day is who finds it first
+[03:00.09] * Filystyn (~piotr@031011212161.warszawa.vectranet.pl) has joined channel ##programming
+[03:00.28] <arathald> if security reasearchers or maintainers find it first, it generally doesn't become a zero-day
+[03:00.50] <arathald> if people who can exploit it or sell the information find it first, it often becomes a zero-day
+[03:01.02] <thecha> @arathwald so they are not known as long as they exist, but known after being remedied, thus younevr know if any thing has a zero day bug so you should act as if all of them had?
+[03:01.05] <grill> pyon actually
+[03:01.18] <thecha> is there software where you know there are no zero day bugs?
+[03:01.31] <thecha> does js have any zero day bugs yet?
+[03:01.33] <vdamewood> amigojapan: Oh, Why it would not support Solaris (re Virtual Box). That was Tongue in cheek. They are both from Oracle, and were from Sun before. Virtual Box supports Solaris like Linux supports Bash.
+[03:01.38] * UpUpAway (~UpUpAway@71-87-83-187.dhcp.krny.ne.charter.com) Quit (Ping timeout: 246 seconds)
+[03:01.48] <grill> so, for this DFA, the number of states is 5
+[03:01.50] <grill> ＋＋http://imgur.com/BNdipLr，，
+[03:02.03] <arathald> thecha: hello world, maybe, though that also relies on the security of the underlying framework, so, basically, no, there's no absolute way to say something isn't vulnerable to zero day bugd
+[03:02.10] <pyon> grill: If a finite state automaton is deterministic, then, if you feed a fixed string to the automaton, the automaton will reach a uniquely determined state.
+[03:02.16] <arathald> the only way is if the thing has zero need for security
+[03:02.48] * nikio___ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##programming
+[03:02.58] <pyon> grill: Now, take the set of all finite strings, and label these strings accounding to the state they make the automaton reach.
+[03:03.05] <amigojapan> ah   true hehehe vdamewood
+[03:03.11] <pyon> grill: If two strings make the automaton reach the same state, they belong in the same equivalence class.
+[03:03.33] <arathald> thecha: and yes, whenever you're working on something in which security is or should be any kind of cinsideration at all, you should always assume there are security bugs that you haven't found, and that attackers may find first
+[03:03.38] <pyon> grill: And it is clear that two strings in the same equivalence class have no distinguishing extension.
+[03:03.39] <grill> pyon reach or end in?
+[03:03.46] <pyon> grill: End in, sorry.
+[03:03.56] <thecha> arathald or already hav found?
+[03:03.59] <arathald> thecha: basically, software maintainers *must* have a process in place to deal with zero-day bugs
+[03:04.05] <arathald> thecha: right
+[03:04.12] <vdamewood> So, amigojapan, Will you be buying your wife mucho gifts next month?
+[03:04.29] <vdamewood> amigojapan: s/buying/giving/
+[03:04.30] <grill> so does that mean that strings that are not accepted by an automaton shouldn't be in equivalence classes?
+[03:04.53] * ablest1980 (~ablest198@50.12.14.151) Quit (Quit: Leaving)
+[03:04.59] <vdamewood> amigojapan: Did you inhale much Honmei-Choco?
+[03:05.15] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) Quit (Ping timeout: 250 seconds)
+[03:05.16] <thecha> so you cant create software ina fashion that excludes the possiiity of bugs fromt he beginnng?
+[03:05.23] * SparkyFlary (~SparkyFla@99-45-62-30.lightspeed.irvnca.sbcglobal.net) has joined channel ##programming
+[03:05.51] <pyon> thecha: Have fun with that.
+[03:05.52] <amigojapan> vdamewood: you do know that in Japan valentine day is where women give presents to men, not men to women right?   that  is in white day
+[03:05.59] <pyon> thecha: It's expensive as fuck.
+[03:06.08] <vdamewood> amigojapan: I said "next month"
+[03:06.14] <amigojapan> ah ok vdamewood
+[03:06.17] <grill> so, for this example, the equivalence classes would be (empty string), 1, (all strings that are not the empty string, 1, 11, or 111)? ＋＋http://imgur.com/BNdipLr，，
+[03:06.19] <amigojapan> vdamewood: my wife has diabetes
+[03:06.21] <grill> pyon ^
+[03:06.35] <arathald> thecha: no, you can never exclude bugs
+[03:06.42] <SparkyFlary> women like men over there?
+[03:06.47] <thecha> but oyu can always introduce them
+[03:06.48] <arathald> thecha: software is always prone to bugs
+[03:06.59] <vdamewood> amigojapan: Well, you're the one who gets chocolate today.
+[03:07.21] <thecha> so thecha could introduce a new zero day bugrigth under the nose of the team who maintains the code without them knowing the real going ons
+[03:07.25] <arathald> thecha: you can greatly *reduce* your risk of bugs through good design and programming practice
+[03:07.46] <thecha> thecha see arathald good to know
+[03:07.51] <vdamewood> amigojapan: Or do you avoid such things as a sign of solidarity?
+[03:07.51] <pyon> grill: You have 3 equivalence classes there, you need two more.
+[03:08.01] <amigojapan> vdamewood: I have tried to avoid them
+[03:08.04] <grill> pyon there are only two ending states
+[03:08.06] <grill> **3
+[03:08.14] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[03:08.15] <thecha> thanks very much for all the information
+[03:08.29] <pyon> grill: Oh, there are equivalence classes for q2 and q3, too.
+[03:08.31] <arathald> thecha: I would strongly advise to not intentionally introduce a vulnerability. it's easy to catch something intentional
+[03:08.41] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:535:9e27:c9b8:a263) has joined channel ##programming
+[03:08.43] <pyon> grill: Some strings don't make the automaton end in an accepting state.
+[03:08.46] * LeAgente (~LeAgente@student2-nat-78-3.pomona.edu) Quit (Quit: (null))
+[03:08.51] <grill> ok
+[03:08.58] <arathald> not to mention the ethical and legal ramifications
+[03:09.14] <grill> so then, should there be an equivalence class for every state in a minimal DFA then?
+[03:09.31] <arathald> thecha: and I can guarentee, if you have to ask here, you're nowhere near skilled enough to do so and not get caught
+[03:09.39] * toccatan1ugue (~bionet@pool-96-241-211-174.washdc.fios.verizon.net) Quit (Quit: Computer has gone to sleep)
+[03:09.55] * tarkus (~hello@109.230.140.12) has joined channel ##programming
+[03:10.36] * alphadog0309 (~alphadog0@pool-68-238-225-160.phil.east.verizon.net) has joined channel ##programming
+[03:11.38] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:535:9e27:c9b8:a263) Quit (Ping timeout: 245 seconds)
+[03:11.39] <thecha> aarathald freedom coems first thecha woudl not sabotage his or other peopels pursuit of freedom
+[03:11.54] <arathald> ?
+[03:12.00] <grill> pyon so then, should there be an equivalence class for every state in a minimal DFA then?
+[03:12.29] <thecha> thecha was just asking this question becasue thecha is using free software and wanted to know if the contributers if ne of them wasnt benign could actually attack the peoples freedom by introducing a zero bday biug
+[03:13.09] <arathald> thecha: it's happened, but it's usually done by very skilled coders
+[03:13.25] <arathald> it's widely considered that the NSA did exactly this with encryption
+[03:13.40] <thecha> so there is almost no chance to catch it? thecha mean theremust be mllions of way to obfuscate these things right?
+[03:13.46] * RusAlex (~Chel@46.228.97.147) has joined channel ##programming
+[03:14.07] <arathald> it's actually *very* difficult to obfuscate an intentional flaw like that
+[03:14.08] <thecha> arathald so pgp is actually not pretty good anymore?
+[03:14.19] <thecha> thecha see
+[03:14.22] <arathald> or at least it's clear that somehting is being obfuscated
+[03:14.31] <arathald> which is suspicious
+[03:14.41] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:535:9e27:c9b8:a263) Quit (Read error: Connection reset by peer)
+[03:15.06] <thecha> basically ocams razor lie principle? if something isnt as simple as it should ee then thatis  not a coincience and actually it isnt as simple as it should be
+[03:15.07] <pyon> grill: Yes, that is exactly what the Wikipedia article says.
+[03:15.19] <grill> pyon ok
+[03:15.39] * kaiten02 (~kaiten02@p1186-ipbf7009marunouchi.tokyo.ocn.ne.jp) Quit ()
+[03:15.52] <arathald> thecha: that's not quite what occam's razor says. but yes, if someone's committing overly complicated code that no one else understands, that might raise some red flags
+[03:16.00] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[03:16.02] <grill> sorry for all the questions. i just can't read+understand wikipedia right now
+[03:16.02] <vdamewood> I wonder if I have any incidences of support with VMware.
+[03:16.30] <grill> pyon one and only one?
+[03:17.14] <pyon> grill: It is more or less clear that, if the minimal DFA has "n" states, there are at most "n" equivalence classes. What the theorem itself guarantees is that there are exactly "n" equivalence classes.
+[03:17.32] <pyon> grill: One and only one what?
+[03:17.47] * SecretFire (~SecretFir@c-67-168-220-193.hsd1.wa.comcast.net) has joined channel ##programming
+[03:17.48] <BlastHardcheese> And the speculated vulnerability was in an encryption algorithim, which is math, and hardcore math at that. Anyway there is almost no reason for anyone to go to all the effort of deliberately introducting a backdoor into most systems because most software is so crappy and full of bugs as it is. About the only reason it would be done would be for a targeted attack on a hardened target. Otherwise your resources are ...
+[03:17.55] <BlastHardcheese> ... much better spent just finding bugs in existing code or buying zero-days on the market.
+[03:18.01] <grill> pyon sec. i will show you an example
+[03:18.20] <grill> more like min
+[03:18.27] * ash__ (~ash@d67-193-39-121.home3.cgocable.net) has joined channel ##programming
+[03:18.34] <ash__> any devs here?
+[03:18.37] <pyon> ok
+[03:18.42] <pyon> grill: ^
+[03:18.44] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[03:18.55] <pyon> ash__: If you have an actual question, just ask it.
+[03:19.20] <arathald> BlastHardcheese: the problem wasn't actually with the mathematical algorithms itself (which was certainly understood by others), but with the selection of the constants (which is much more subtle)
+[03:19.49] * GeneralVagueness (~General@2601:4:1780:677:c803:7eb0:a5b4:c616) Quit (Read error: Connection reset by peer)
+[03:20.13] * Leonarth (~leonarth@c188-211.i06-16.onvol.net) has joined channel ##programming
+[03:20.22] <arathald> which, I have to say, is a brilliant way of introducing a backdoor. though it's also an incredibly shitty thing to do
+[03:20.26] <ash__> do I need to draw a window in qt to change the icon on the window with a scroll up or down and a executable link? For example can I draw one window that can scroll through all the programs installed, or does each window have to drawn to link the executable and it's accompanying icon, description etc
+[03:21.02] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Ping timeout: 252 seconds)
+[03:21.16] <BlastHardcheese> yes, also a number of people suspected the algorithim was flawed for years; the only reason it got used as widely as it did was because the NSA allegedly bribed RSA to set it as the default in one of their products
+[03:22.07] <SparkyFlary> think it's all in one window
+[03:22.10] * prof_milki_ (~mario@ipb21952db.dynamic.kabel-deutschland.de) has joined channel ##programming
+[03:23.17] <SparkyFlary> wouldn't that flaw have to be really well obfuscated?
+[03:23.38] <thecha> arathald so js is bound ot havea wide variety of zero day bugs just becasue it doesnt fulfill the high requirements of free software?
+[03:23.42] * Rilakkuma (~textual@p2022-ipbf3407marunouchi.tokyo.ocn.ne.jp) has joined channel ##programming
+[03:24.00] <arathald> thecha: what? no, I never said that
+[03:24.09] <thecha> thecha know oyu never said that
+[03:24.11] <ablest1980> hi
+[03:24.14] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##programming
+[03:24.30] <arathald> thecha: nor did I imply that, nor do I believe that
+[03:24.36] <thecha> but is something liek js not inherently unsfae becasue it is only reviews by soe paid peopel isntead of the public like in free software?
+[03:24.37] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 256 seconds)
+[03:25.01] <vdamewood> I just realized, I can ssh into my Mac. If I can ssh into my Mac, then I can git over ssh. Yay!
+[03:25.08] * timemage (~timemage@unaffiliated/timemage) Quit (Disconnected by services)
+[03:25.15] <SparkyFlary> javascript relies on paid people?
+[03:25.24] <thecha> it doesnt?
+[03:25.30] <arathald> thecha: (1) no, (2) js is reviewed by a lot of people in different places. plus js is a specification, each implementation would be vulnerable to its own issues as well as issues with the specification
+[03:25.30] <thecha> isnt it propietary
+[03:25.32] * timemage (~timemage@unaffiliated/timemage) has joined channel ##programming
+[03:25.43] <thecha> thecha see
+[03:25.43] <arathald> the specification isn't, no
+[03:25.53] <grill> pyon: ＋＋http://imgur.com/C8jQxPe，， yes?
+[03:26.06] <arathald> though it's generally maintained by a consortium of browser and other industry developers
+[03:26.12] <SparkyFlary> I thought mozilla and google were completely in charge
+[03:26.22] <arathald> microsoft also plays a huge part
+[03:26.32] <arathald> and apple
+[03:26.39] <SparkyFlary> with mozilla being developer of it
+[03:26.50] <arathald> basically, any browser manufacturer, plus a lot of other people
+[03:26.58] <arathald> SparkyFlary: no, each develops its own implementation
+[03:27.01] <arathald> js is a specification
+[03:27.17] <Snake2k> JavaScript is what Santa gave to Mozilla for being bad.
+[03:27.32] <arathald> ie, firefox, chrome, and safari each has its own independent javascript engine
+[03:27.35] <Sadale> Snake2k, did you mean satan/
+[03:27.36] <Sadale> ?
+[03:27.54] <Snake2k> Sadale: Santa == Satan... Satan prefers C though...
+[03:27.55] <vdamewood> JavaScript is older than Mozilla.
+[03:27.59] <Snake2k> Sadale: C for everything >_>
+[03:28.22] <grill> I'm pretty sure that's the minimal DFA for the language
+[03:28.32] <grill> none of the states are repeated
+[03:28.35] <Rainb> is javascript 2 low
+[03:28.41] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) has joined channel ##programming
+[03:28.46] <Snake2k> vdamewood: Bad at history, or was it Netscape? :|
+[03:29.00] <SparkyFlary> is it possible to hack facebook games with a javascript realtime debugger?
+[03:29.09] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[03:29.19] <arathald> thecha: free software is a dual-edged sword. you get more eyes on it from independent places, but those eyes may or may not be experts. look at what happened with openssh
+[03:29.38] <vdamewood> Snake2k: I'm not sure what you're asking, but I think the answer is Netscape.
+[03:29.39] <thecha> thecha heard about that
+[03:29.46] <arathald> thecha: the companies that weren't vulnerable to heartbleed were the ones with custom ssh stacks, proprietary ones
+[03:29.58] <Snake2k> vdamewood: Where it first started, Yep Netscape >_>
+[03:30.02] <arathald> which isn't to say proprietary is better either
+[03:30.15] <thecha> it is to say int his case cusotm/obscure is better
+[03:30.17] <arathald> just that it's silly to make such blanket statements about free vs proprietary
+[03:30.22] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Read error: Connection reset by peer)
+[03:30.27] <arathald> no, neither is better
+[03:30.29] <arathald> that's the point
+[03:30.43] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[03:30.46] <Snake2k> FOSS vs Proprietary? >_>
+[03:30.50] <vdamewood> I just realized I have no idea how to clone over ssh.
+[03:30.51] <Snake2k> arathald++
+[03:30.53] <arathald> you need good developers who know security
+[03:31.03] <arathald> whether they are paid or from the community
+[03:31.18] <arathald> the skill of the developers is what matters, not where they come from
+[03:31.31] <vdamewood> Even developers from the ghetto can be good.
+[03:31.36] <Snake2k> arathald: Motivating great security researchers from the community takes alot of work vs paying someone a good amount (if you can afford it)
+[03:31.39] <SparkyFlary> what if the developers are in it only for the money?
+[03:31.47] <Snake2k> ^+1
+[03:31.48] <thecha> so that means we the people need to become better /good at programing in order to mainaint software freedom?
+[03:32.01] <arathald> Snake2k: yeah, security especially, it's important to have people who really know what they're doing
+[03:32.13] * sushito (~sushito@cm-84.209.253.60.getinternet.no) Quit (Read error: Connection reset by peer)
+[03:32.25] * sushito (~sushito@cm-84.209.253.60.getinternet.no) has joined channel ##programming
+[03:32.41] <Myrl> ...
+[03:32.47] <Myrl> what did I just step into? :D
+[03:32.47] <Snake2k> SparkyFlary: Usually are, very few security researchers would just patch a bug for something for free... Not saying that they don't... They do, but every human wants something in return. Most want more than a Thank you by a person who made a software which doesn't have much revenue.
+[03:33.03] <Snake2k> arathald: True true
+[03:33.14] <SparkyFlary> is it better to have people who know what they're doing or people who actually care?
+[03:33.22] <Snake2k> thecha: Motivation is what's needed to keep Free "OR" Open Source alive
+[03:33.23] <grill> pyon ?
+[03:33.28] <Stryyker> care doesn't make it good
+[03:33.37] <Snake2k> SparkyFlary: People who actually care >= People who know what they're doing
+[03:33.38] <arathald> well, it's not necessarily a matter of not wanting to do it for free, but a lot of full-time programmers, especially experienced ones, don't necessarily want to go home and code in the evening
+[03:33.43] * awlnx (~awlnx@64.247.125.240) Quit (Ping timeout: 245 seconds)
+[03:33.45] <thecha> encarta vs wikipedia
+[03:33.54] <arathald> they commit their energy to their work
+[03:34.14] <Snake2k> Myrl: A weird borderline FOSS vs Proprietary "discussion" (pretty safe so far lol)
+[03:34.19] <thecha> peopel who work as a dev in their 9 to 5 still can contribute to free software and many do
+[03:34.23] <thecha> it isnt either or
+[03:34.24] <Snake2k> Myrl: No chairs have been thrown, yet.
+[03:34.37] <arathald> a huge amount of FOSS contribution is from people working on those projects as part of their day jobs (company needs a feature, contributes the code back to the community)
+[03:34.46] <Stryyker> we're too lazy to get off the chairs
+[03:34.56] <Snake2k> arathald: Like Linux
+[03:35.00] <arathald> precisely
+[03:35.16] <thecha> snake2k what you mean linux?
+[03:35.31] <Myrl> ic.
+[03:35.33] <thecha> linux was paid for by ibm or something?
+[03:35.35] <arathald> thecha: most contributions to linux aren't from hobbyists, but from companies
+[03:35.36] <Snake2k> thecha: Most contributions to Linux are paid by some entity i.e; Red Hat
+[03:35.50] <Snake2k> Devs are hired, "I said most"
+[03:36.08] <Snake2k> If Linux was solely free devs like us, it'd be as big as Gentoo
+[03:36.17] <SparkyFlary> think linux got nothing until it go so big they had to give it something
+[03:36.19] *** Server disconnected on verne.freenode.net
+[06:53.34] * You have joined ##programming
+[06:53.34] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[06:53.34] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[06:53.34] Channel modes for ##programming are :+cntf ##overflow
+[06:53.34] Channel Created on: 5:23 AM 2/4/2007
+[06:53.41] <pomf> So I got high hopes for myself.
+[06:53.46] <pomf> And I hope I won't disappoint myself.
+[06:54.26] <pomf> pulse: I attended this tutorial (mostly about robotics) and I understood it pretty well, so I guess it's safe to believe in myself.
+[06:54.53] <pulse> well
+[06:55.01] <pulse> i'm not qualified to give you any motivational speeches at the moment
+[06:55.16] <pulse> but i'm glad for you :D
+[06:55.22] <pomf> pulse: Thanks. :D
+[06:55.27] <pulse> you should probably believe in yourself for the most part :P
+[06:55.32] <pomf> Yeah.
+[06:55.35] <pomf> It all starts in the mind.
+[06:58.17] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[07:00.45] * Leonarth (~leonarth@c188-211.i06-16.onvol.net) has joined channel ##programming
+[07:01.56] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) has joined channel ##programming
+[07:04.05] * lseactuary (4f617c5a@gateway/web/freenode/ip.79.97.124.90) Quit (Quit: Page closed)
+[07:05.23] * BearishMushroom (~BearishMu@90-231-174-194-no159.tbcn.telia.com) has joined channel ##programming
+[07:06.48] * Trudko (~chatzilla@nat-88-212-37-105.antik.sk) Quit (Remote host closed the connection)
+[07:08.17] * Yordan89 (gfdgfdgfdg@77.78.0.47) has joined channel ##programming
+[07:08.24] * NickTheGameBoy (~NickTheGa@73.195.171.87) has joined channel ##programming
+[07:08.36] * atrx (~atrx@ppp-110-168-232-143.revip5.asianet.co.th) has joined channel ##programming
+[07:09.15] * boodllebat (~smuxi@1.23.116.87) has joined channel ##programming
+[07:09.25] <boodllebat> Can hosting steal my code ?
+[07:09.53] <vdamewood> That question requires clarification and context.
+[07:10.14] * grindmodeon (~Adium@173-170-12-180.res.bhn.net) has joined channel ##programming
+[07:11.25] * pulse (~pulse@unaffiliated/pulse) Quit (Ping timeout: 250 seconds)
+[07:11.30] * ben_do_898 (~ben_do_89@ip2505e265.dynamic.kabel-deutschland.de) has joined channel ##programming
+[07:11.32] * ben_do_898 (~ben_do_89@ip2505e265.dynamic.kabel-deutschland.de) Quit (Client Quit)
+[07:11.33] <boodllebat> vdamewood: i mean hosting firms , i'm sure they have access to my files can they steal my stuff ?
+[07:11.53] * ap0c (~ap0c@unaffiliated/ap0c) Quit (Ping timeout: 256 seconds)
+[07:11.57] <vdamewood> Well, what do you mean by 'steal'?
+[07:12.23] * Thiht (~Thunderbi@ARennes-655-1-233-127.w86-214.abo.wanadoo.fr) has joined channel ##programming
+[07:13.11] <boodllebat> vdamewood: i mean if a staff can or he wants to create replica of certain web application he can do it easily
+[07:13.53] <CoJaBo> Pretty much.
+[07:14.12] <boodllebat> CoJaBo: how should we protect it ?
+[07:14.21] <CoJaBo> You kinda can't.
+[07:14.29] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[07:14.49] <GeDaMo> Run your own server
+[07:15.00] <vdamewood> Use colocation hosting, encrypt your hard drive, and pasword-protect everything
+[07:15.07] <CoJaBo> Still generally need to store it in a DC
+[07:15.44] <vdamewood> Oh, and when anything is in transit, use a secure method of transfer, like sftp
+[07:16.33] * teolicy (~teolicy@2001:8b0:ca20:4bb:c4d:7e62:f7ad:b636) has joined channel ##programming
+[07:17.15] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Ping timeout: 255 seconds)
+[07:17.17] <teolicy> Hi. I'm looking for a sorted iterable datastructure that allows cheap sorted insertion and cheap removal (given an index/handle to an element). Any off the cuff ideas beyond a list (Python list, so 'mutable vector') and binary search insertion?
+[07:17.47] * Sadale (~Sadale@unaffiliated/sadale) Quit (Ping timeout: 252 seconds)
+[07:18.27] * blizzy (~Anthony@cpe-74-128-247-185.swo.res.rr.com) has joined channel ##programming
+[07:19.29] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Read error: Connection reset by peer)
+[07:20.00] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[07:21.51] * tens0r (~anonymous@unaffiliated/tensor-india) has joined channel ##programming
+[07:22.05] * fosterbuster (~insanofle@de354.chociz.ru) Quit (Ping timeout: 246 seconds)
+[07:23.48] <neagle3> Can somebody explain to me in non-bullshit speak what the "rearm" feature in various trial versions of Windows really is for? You can sometimes (depending on unknown factors) "rearm" an expired Windows trial for "another 90 days", giving you another 3 months until you have to reboot it. Why is this? Why let us do that with a simple command?
+[07:24.00] <neagle3> It's never explained in any guides or in any official documentation.
+[07:24.21] <neagle3> They just mention that it's possible and "legal" without explaining why they would build in such a feature in their own product.
+[07:24.40] <neagle3> s/reboot/reinstall/
+[07:24.55] * boodllebat (~smuxi@1.23.116.87) Quit (Remote host closed the connection)
+[07:25.01] * [gmi] (~G74@185.13.9.63) has joined channel ##programming
+[07:25.24] * grindmodeon (~Adium@173-170-12-180.res.bhn.net) Quit (Quit: Leaving.)
+[07:25.25] * Yordan89 (gfdgfdgfdg@77.78.0.47) Quit (Read error: Connection reset by peer)
+[07:25.37] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##programming
+[07:26.13] * xuesheng1 (~pawelek@37-219-254-123.nat.bb.dnainternet.fi) has joined channel ##programming
+[07:26.26] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[07:27.11] <pomf> higuys.
+[07:27.43] * oujh (~vfbtgn@188.25.39.167) Quit (Quit: Leaving)
+[07:28.04] * ayg (~ayg@AToulouse-556-1-220-147.w86-217.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[07:28.35] <CoJaBo> neagle3: Microsoft gonna Microsof
+[07:28.53] * amh (~amh@ARennes-656-1-245-132.w81-53.abo.wanadoo.fr) has joined channel ##programming
+[07:28.54] * Leonarth (~leonarth@c188-211.i06-16.onvol.net) Quit (Quit: Be back later ...)
+[07:29.17] * amh (~amh@ARennes-656-1-245-132.w81-53.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[07:29.38] <DLSteve> neagle3, From what I understand the Windows activation process is horribly complex, I guess somewhere along the line they needed to extend or reset a trial so the crated a utility to do so.
+[07:30.39] * profess (~profess__@unaffiliated/csddesk) Quit (Ping timeout: 252 seconds)
+[07:30.57] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 250 seconds)
+[07:31.21] <neagle3> I personally suspect that they really can afford to give another 90 days, but don't do it by default just so that if you actively find out how to extend it, you get happily surprised and feel like a cool poweruser/hacker.
+[07:31.27] <neagle3> And that makes you want to keep using it, I guess.
+[07:31.33] * tens0r (~anonymous@unaffiliated/tensor-india) Quit (Quit: tens0r)
+[07:31.34] <neagle3> Compared to just giving 180 days straight away.
+[07:31.39] * mkhkz (~mkhkz@AOrleans-652-1-143-26.w90-20.abo.wanadoo.fr) has joined channel ##programming
+[07:31.41] <neagle3> But again, sometimes it doesn't work. Like for me, now.
+[07:31.53] <neagle3> Even though it says it worked, it still says it has expired on the next boot.
+[07:32.25] <CoJaBo> They probably assume anyone l33t enough to find out about rearm would just pirate the thing anyway, so it doesn't matter lol
+[07:32.47] <DLSteve> Could also be for clients who need a license for six months of testing.
+[07:32.55] * LineVTY (~LineVTY@2001:470:1f09:321:ad28:8d16:a900:d18d) has joined channel ##programming
+[07:33.03] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##programming
+[07:33.07] * mkhkz (~mkhkz@AOrleans-652-1-143-26.w90-20.abo.wanadoo.fr) Quit (Excess Flood)
+[07:33.22] <neagle3> "just pirate"?
+[07:33.25] * nzef (~nzef@105.157.175.161) has joined channel ##programming
+[07:33.31] <neagle3> How would you possibly pirate Windows?
+[07:33.39] <neagle3> You'd need to trust some stranger's files.
+[07:33.42] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##programming
+[07:33.53] <neagle3> Might very well contain a Bitcoin miner, 39 botnets and 23 RATs.
+[07:34.02] * bMalum_ (~bMalum@62-46-57-198.adsl.highway.telekom.at) has joined channel ##programming
+[07:34.58] <DLSteve> Strangely a lot of people do. I would never trust a pirated OS.
+[07:36.22] * bMalum (~bMalum@188-23-33-11.adsl.highway.telekom.at) Quit (Ping timeout: 264 seconds)
+[07:36.22] * bMalum_ is now known as bMalum
+[07:36.22] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) Quit (Quit: Leaving)
+[07:38.05] * Linne (~beren@78.181.152.246) has joined channel ##programming
+[07:38.42] <neagle3> :/
+[07:39.48] * pomf is now known as Myrl
+[07:43.44] * thecha (~cha@unaffiliated/thecha) has joined channel ##programming
+[07:43.46] * ablest1980 (~ablest198@50.12.14.151) Quit (Quit: Leaving)
+[07:44.19] * QuickSight (Blindsight@lju91-3-82-235-165-16.fbx.proxad.net) has joined channel ##programming
+[07:45.06] * meandi_1 is now known as meandi
+[07:45.30] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##programming
+[07:46.09] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 246 seconds)
+[07:49.09] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##programming
+[07:49.17] * LineVTY (~LineVTY@2001:470:1f09:321:ad28:8d16:a900:d18d) Quit (Remote host closed the connection)
+[07:49.37] * Leggendario (~bf111@93-47-91-188.ip112.fastwebnet.it) Quit (Quit: Sto andando via)
+[07:49.44] * LineVTY (~LineVTY@2001:470:1f09:321:ad28:8d16:a900:d18d) has joined channel ##programming
+[07:50.48] * absof25 (~absof25_@141-136-161-36.dsl.iskon.hr) has joined channel ##programming
+[07:52.34] * boodllebat (~smuxi@1.23.116.87) has joined channel ##programming
+[07:52.39] <boodllebat> i dont want to show url in robotos.txt as it publicly available i simple want to protect every link , apart from one or two links
+[07:53.18] <CoJaBo> ..wat
+[07:54.02] <Myrl> Guys.
+[07:54.07] <Myrl> You know this shit. I have trust in you.
+[07:54.10] * LineVTY (~LineVTY@2001:470:1f09:321:ad28:8d16:a900:d18d) Quit (Ping timeout: 250 seconds)
+[07:54.13] * abs25 (~absof25_@141-136-161-36.dsl.iskon.hr) Quit (Ping timeout: 246 seconds)
+[07:54.17] <Myrl> What do you call shapes that can make any other shape?
+[07:54.28] <wei2912> point
+[07:54.31] <GeDaMo> Polygon?
+[07:54.34] <Myrl> not that. lol.
+[07:54.41] <Henke37> impossible
+[07:54.44] <Myrl> For example. The 2d shape that can make any other shape is a triangle.
+[07:54.48] <boodllebat> CoJaBo: to protect links from crawler bots
+[07:54.58] * Moshbit (~Moshbit@p54967F14.dip0.t-ipconnect.de) has joined channel ##programming
+[07:55.03] <Henke37> Myrl, counter example: the circle
+[07:55.08] <wei2912> ^^
+[07:55.11] <Myrl> Except a polygon.
+[07:55.14] <CoJaBo> robots.txt will do that, yes..?
+[07:55.17] <Myrl> ..
+[07:55.17] <wei2912> nope
+[07:55.19] <Myrl> Except a circle*
+[07:55.21] <wei2912> a triangle can make up any polygon
+[07:55.26] <Henke37> robots.txt is voulentarily
+[07:55.40] <CoJaBo> You can't do much better than it.
+[07:55.50] <Henke37> sure you can, you can address the real problem
+[07:55.51] <wei2912> ^^
+[07:55.51] <Myrl> Also. You can't really make a circle with points.
+[07:55.53] * hgf (~hgf@177.142.96.80) has joined channel ##programming
+[07:56.09] <wei2912> Myrl: a circle is essentially a set of points
+[07:56.14] <boodllebat> CoJaBo: but i dont wanna show links there which i want to protect
+[07:56.14] <Henke37> Myrl, sure you can, if you accept just one point as the solution
+[07:56.16] <Myrl> I know.
+[07:56.22] <Henke37> a circle can be defined as a point and a radius
+[07:56.30] <Myrl> True.
+[07:56.54] <wei2912> why are you asking anyways?
+[07:56.54] <CoJaBo> boodllebat: URLs are pretty public. Someone could trivially write a crawler to enumerate them all, for example; if your app relies on URL secrecy, you need to rethink it.
+[07:56.55] <Henke37> boodllebat, protect from which action?
+[07:57.08] <aidanh> Well, every shape is a set of points; therefore you can make any shape out of points
+[07:57.17] <wei2912> ^^
+[07:57.24] <Henke37> aidanh, there is more to it
+[07:57.28] <Myrl> Meh.
+[07:57.37] <Serpentine_> You can also put an uncountably infinite number of infinitesimal points in areas that satisfy the equation x^2+y^2=r^2
+[07:57.41] <Myrl> wei2912: I have something tto search.
+[07:57.48] <Henke37> you need to know how the shape is defined
+[07:57.57] <wei2912> Myrl: you could always throw in a horrible pun
+[07:58.12] <Myrl> I tried to.
+[07:58.24] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[07:58.25] <Myrl> I should ask graphics programming people.
+[07:58.28] <Myrl> They know the term for this.
+[07:58.37] <Myrl> What's the channeru?
+[07:58.45] <wei2912> i hope you aren't talking about pixels
+[07:58.49] * ARCADIVS (~RMM@75-138-6-205.dhcp.mntv.al.charter.com) Quit (Quit: ARCADIVS)
+[07:58.53] <Myrl> Not pixels. lol.
+[07:58.56] <wei2912> [hew
+[07:58.57] <wei2912> phew
+[07:58.59] <Sadale> o/
+[07:59.00] <Myrl> I already said an example is a triangle.
+[07:59.00] <Henke37> for example, a beizer curve is quite different than a plain old polygon, yet both are defined with points
+[07:59.04] <aidanh> Myrl: Try ##OpenGL
+[07:59.29] <aidanh> Although that may be more for OpenGL itself
+[07:59.50] * Wader8 (~chatzilla@cpe-86-58-34-166.static.triera.net) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 31.0/20140716183446])
+[08:00.21] <Henke37> ＋＋http://www.wolframalpha.com/input/?i=batman+insignia，，
+[08:00.37] * oujh (~vfbtgn@188.25.39.167) has joined channel ##programming
+[08:00.42] <CoJaBo> lolwut
+[08:00.58] * Coast (~Smilerut@109.166.138.226) has joined channel ##programming
+[08:01.05] <Myrl> This is what I asked.
+[08:01.05] <Myrl> Hey guys. General graphics programming question. There's a term for shapes that can form any other shape. An example of that is a triangle(and hence why some graphics language just only allows triangles). What's the term for this?
+[08:01.29] <xuesheng1> primitive
+[08:01.43] <aidanh> Oh yeah, of course
+[08:01.45] <Henke37> most people consider cubes primitives
+[08:01.51] <Henke37> yet those are composed out of triangles
+[08:01.58] <Myrl> Not really a primitive.
+[08:02.14] <Myrl> I'm so sorry for this stupid question.
+[08:02.19] * nzef (~nzef@105.157.175.161) Quit (Remote host closed the connection)
+[08:02.27] <Henke37> I consider any shape that can be generated from a "simple" definition a primitive
+[08:02.34] * Nizumzen (~Nizumzen@cpc1-reig5-2-0-cust251.6-3.cable.virginm.net) Quit (Ping timeout: 250 seconds)
+[08:02.43] * npzv (~npzv@232.235.101.84.rev.sfr.net) has joined channel ##programming
+[08:02.44] <Myrl> This also extends to any n-dimension.
+[08:02.48] * aidanh (~aidanh@unaffiliated/aidanh) has left ##programming ()
+[08:02.51] <Myrl> (Hence why I said an example is a triangle)
+[08:02.55] <GeDaMo> ＋＋https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula，，
+[08:03.41] <Myrl> Ah, a simplex.
+[08:04.02] <Myrl> I need this for reasons.
+[08:04.04] * Smilerut (~Smilerut@109.166.131.163) Quit (Ping timeout: 264 seconds)
+[08:04.04] <Myrl> That I don't know.
+[08:04.32] <Sadale> GeDaMo, lol. It's "because I can"
+[08:04.40] <GeDaMo> :D
+[08:04.44] <Sadale> GeDaMo, interesting. But not very useful :P :D
+[08:04.45] <boodllebat> CoJaBo: no those url are restricited to users have account only so i dont want to show them publically
+[08:05.26] <CoJaBo> boodllebat: If only a logged in user can access them, a search engine obviously cannot either.
+[08:05.30] * Nizumzen (~Nizumzen@cpc1-reig5-2-0-cust251.6-3.cable.virginm.net) has joined channel ##programming
+[08:05.31] <Myrl> Damn.
+[08:05.43] <Myrl> 3d simplexes are way crazier...
+[08:05.49] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:06.05] <Henke37> boodllebat, have you tried actualy enforcing the restriction?
+[08:06.13] <Myrl> ＋＋http://www.ics.uci.edu/~eppstein/projects/tetra/，，
+[08:06.13] <Henke37> you know, making it not matter if the url is known
+[08:06.27] <Serpentine_> Myrl: Tetrahedra?
+[08:06.29] <boodllebat> CoJaBo: its simple session ! blocking :) i mean if you dont have session you'll be redirected to home
+[08:06.30] * e^0 (~e^0@202.71.29.16) has joined channel ##programming
+[08:06.46] <Myrl> Serpentine_: ye.
+[08:06.50] * e^0 is now known as Guest62239
+[08:06.53] <Myrl> GeDaMo: that shit is cray. ._.
+[08:06.58] <CoJaBo> boodllebat: If you already do that, I don't see what the problem is.
+[08:07.32] * Guest62239 (~e^0@202.71.29.16) Quit (Client Quit)
+[08:07.33] <CoJaBo> Search engines won't index pages that don't appear, to them, to exist. You don't need robots.txt for that.
+[08:07.39] <boodllebat> CoJaBo: earlier i did'nt knew this thing that bots cannot travers to the pages which requires authentication session
+[08:08.07] <Henke37> just send correct http reply codes and legitimate bots will do what you want
+[08:08.15] <teolicy> (repeated from ~30 min ago) Hi. I'm looking for a sorted iterable datastructure that allows cheap sorted insertion and cheap removal (given an index/handle to an element). Any off the cuff ideas beyond a list (Python list, so 'mutable vector') and binary search insertion?
+[08:08.19] * rgr (~user@d222183.adsl.hansenet.de) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[08:08.33] <CoJaBo> boodllebat: A bot is just a browser without the human parts :P
+[08:09.08] <Henke37> teolicy, a skip list?
+[08:09.36] * e^0_ (~e^0@202.71.29.202) has joined channel ##programming
+[08:10.02] * joph (~joph@unaffiliated/joph) has left ##programming (("Verlassend"))
+[08:10.49] <boodllebat> CoJaBo: :)
+[08:11.55] <Serpentine_> B-trees would probably work the best, but skip lists aren't too bad, either.
+[08:12.07] <pythonsnake> hey did anyone here experience the mouse unclicking problem?
+[08:12.19] <pythonsnake> likely to be a microswitch not being clean
+[08:12.23] <teolicy> Henke37: Yes, sounds interesting. Thanks!
+[08:12.34] <teolicy> Serpentine_: Ack, will look into that too.
+[08:12.41] * cubed_root (~cubed_roo@c-69-242-104-56.hsd1.nj.comcast.net) has joined channel ##programming
+[08:12.58] * TheBigDeal (~antar@unaffiliated/innocent99) has joined channel ##programming
+[08:13.35] <Myrl> ＋＋http://mathworld.wolfram.com/images/eps-gif/SimplexGraphs_801.gif，，
+[08:13.40] <Myrl> That third simplex.
+[08:13.41] <Myrl> I knew it.
+[08:13.47] <Myrl> Math is evil!
+[08:14.04] * hanshenrik (~hanshenri@ti0016a400-7855.bb.online.no) Quit (Read error: Connection reset by peer)
+[08:14.10] * hanshenrik (~hanshenri@ti0016a400-7855.bb.online.no) has joined channel ##programming
+[08:14.11] <pythonsnake> ＋＋http://www.danieljackson.co.uk/fun/old/，，
+[08:15.27] <pythonsnake> "For my mouse, the problem seems to be that the switch isn't "debounced" when you release the button — i.e. when you release it, it actually clicks again. Basically, the program intercepts "up" events for the left mouse button, and ignores any subsequent "up" events that follow within a very small time."
+[08:15.38] * hhhhf (4dfec4f7@gateway/web/freenode/ip.77.254.196.247) has joined channel ##programming
+[08:15.45] * hhhhf (4dfec4f7@gateway/web/freenode/ip.77.254.196.247) has left ##programming ()
+[08:15.54] * eco_ (d55df71b@gateway/web/freenode/ip.213.93.247.27) has joined channel ##programming
+[08:16.10] * horsik (4dfec4f7@gateway/web/freenode/ip.77.254.196.247) has joined channel ##programming
+[08:16.12] <pythonsnake> my actual problem is that when I'm holding/dragging, sometimes it would release and click  again very quickly
+[08:16.19] <pythonsnake> how could I go for preventing that event?
+[08:16.21] <eco_> Does anyone know why my identification seems to be broker even tho I use SASL?
+[08:16.46] <pythonsnake> ignore the up event if it's followed by a down one for a determined time?
+[08:19.19] <pythonsnake> but that would make normal use lagging
+[08:19.19] * Sadale (~Sadale@unaffiliated/sadale) Quit (Quit: Leaving)
+[08:19.19] * Gluesticky (~IceChat9@unaffiliated/gluesticky) Quit (Quit: This is the end. Goodbye cruel world!)
+[08:19.19] * Rainb (~IceChat9@190.9.201.215) Quit (Ping timeout: 244 seconds)
+[08:19.19] *** Server disconnected on irc.freenode.net

@@ -1,0 +1,799 @@
+Session Start: Fri Mar 06 04:21:18 2015
+Session Ident: ##windows
+[04:21.18] * You have joined ##windows
+[04:21.18] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[04:21.18] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[04:21.19] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[04:21.19] Channel Created on: 7:11 PM 10/7/2005
+[04:21.19] <meow> gparted has a pretty solid reputation i think...minitool, being a free windows program looks almost shadey...like it would be bundled with adware..but it's not...they sell a premium version i think
+[04:21.38] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 264 seconds)
+[04:21.58] <mota> It hasn't been that long since we were getting a lot of 'gparted lost my data' issues here.
+[04:22.02] * geothomm (~androirc@adsl-48.176.58.185.tellas.gr) Quit (Client Quit)
+[04:22.09] <meow> oh wow...hmm
+[04:22.20] * geothomm (~androirc@adsl-48.176.58.185.tellas.gr) has joined channel ##windows
+[04:22.37] <mota> I forget the specifics, since I didn't involve myself with them
+[04:23.06] <mota> so I dunno. user error, gparted fail, can't say.
+[04:23.11] * geothomm (~androirc@adsl-48.176.58.185.tellas.gr) Quit (Client Quit)
+[04:23.22] <meow> or didnt rtfm
+[04:24.05] <joga> personally I don't remember any "lost data" cases but it's not like I read 100% of this...
+[04:24.19] <mota> whatever. I see partitions as folders that are really painful and dangerous to work with, and wish we'd just drop the idea
+[04:24.22] <meow> i know gparted doesnt cooperate with intel software raid....i think it boils down to linux having it's own software implemtation and so intels isn't worthy of any effort
+[04:24.36] * break3r (~wayne@213.157.15.42) Quit (Ping timeout: 246 seconds)
+[04:24.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[04:24.54] * break3r (~wayne@213.157.15.42) has joined channel ##windows
+[04:26.21] <meow> yeah i agree..partitions are almost always stressful to tinker with when theres data in them that matters
+[04:27.13] <mota> as we move away from disks and toward SSD, I'd love to see the concept of partition just fade away entirely.
+[04:27.47] * gaffahiro (~AndChat73@dab-glb1-h-66-4.dab.02.net) Quit (Ping timeout: 244 seconds)
+[04:28.22] * wethu (~egray@unaffiliated/wethu) has joined channel ##windows
+[04:28.41] <meow> well the efi partition seems to be fat, which seems odd.  more universal I suppose
+[04:28.52] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[04:29.11] * Geom_ (~Geom@124.105.107.68) Quit (Ping timeout: 264 seconds)
+[04:29.29] * dan2k3k4 (~dan2k3k4@unaffiliated/dan2k3k4) has joined channel ##windows
+[04:30.16] * gaffahiro (~AndChat73@dab-glb1-h-66-9.dab.02.net) has joined channel ##windows
+[04:30.18] <meow> I've stopped trying to dual boot linux and windows....it's too much work and you have to reboot from one to the other.  I use virtual machines now to run linux on windows....not ideal performance perhpas but it's convenient
+[04:30.20] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[04:31.13] * Sr_S (~a@9.Red-88-26-140.staticIP.rima-tde.net) Quit (Quit: leaving)
+[04:31.27] * Dollar_ (~c8h10n4o2@89-253-74-6.customers.ownit.se) has joined channel ##windows
+[04:31.46] <meow> i looked into install both linux and windows together on drive drive both using EFI...and it sounded maddening
+[04:32.13] * permalac (~permalac@195.235.118.193) has joined channel ##windows
+[04:33.01] <permalac> hello everyone, where I can ask for some help with outlook rules? (I know this is not a server things)
+[04:33.56] <meow> what about outlook rules?
+[04:37.07] * rrr_ (~chatzilla@123.155.155.189) has joined channel ##windows
+[04:37.35] * croon (53e31e35@gateway/web/cgi-irc/kiwiirc.com/ip.83.227.30.53) has joined channel ##windows
+[04:37.57] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[04:38.40] <meow> permalac: what is your question?
+[04:39.01] * Raccoon (wayward@unaffiliated/raccoon) has left ##windows ()
+[04:39.26] * meteorx64 (~willc_000@75.64.231.4) Quit (Quit: Leaving)
+[04:39.53] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 250 seconds)
+[04:40.48] <croon> Hey folks, is anyone here good with NTLM(v2)? I'm trying to implement it in Java for Soap requests, and I imagine there's a thousand ways to do it, but I've gotten the authentication working with apaches httpclient v4. What I'm wondering is if I can just extract the type 3 message and keep sending it in an Authorization header on other connections,
+[04:40.48] <croon>  or if the NTLM handshake procedure needs to be done per connection (I know it has to be one connection start-to-finish to be successful, but I'm wondering about after it's successful)
+[04:41.16] <meow> well im going to do that reboot..thanks again mota I'll be back if I need to blame someone : )
+[04:41.27] * meow (~meow@23-112-154-86.lightspeed.irvnca.sbcglobal.net) Quit ()
+[04:41.57] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[04:42.01] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[04:42.52] * chokepoint (~smrftrgt@unaffiliated/chokepoint) has joined channel ##windows
+[04:43.16] * y0tta0 (ac3826d4@gateway/web/cgi-irc/kiwiirc.com/ip.172.56.38.212) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[04:43.48] * meow (~meow@23-112-154-86.lightspeed.irvnca.sbcglobal.net) has joined channel ##windows
+[04:44.01] <meow> seems functional!
+[04:44.21] * gaffahiro (~AndChat73@dab-glb1-h-66-9.dab.02.net) Quit (Ping timeout: 240 seconds)
+[04:44.45] <permalac> meow, I have many rules, and finally used all the space that the Exchange server has for it. I can not change the exchange size for the rules,  so I need something to organize de rules or a plugin to use instead.
+[04:44.49] <permalac> any idea?
+[04:45.47] * decoponio (~decoponio@pon059-128.kcn.ne.jp) has joined channel ##windows
+[04:48.57] <meow> no sorry ive only used them to sort mail into folders in a pretty basic way.  I haven't come close to running into a limit.
+[04:50.08] * bigbadjesus (~666@unaffiliated/psidrome) has joined channel ##windows
+[04:50.26] * kggr (~korggrodn@mail.ramtex.by) Quit (Remote host closed the connection)
+[04:50.41] <meow> does this apply to you? ＋＋http://support.microsoft.com/kb/241325，，
+[04:50.42] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##windows
+[04:51.00] <dionysus69> hey guys my user is member of vboxsf group but I still dont have permission to mount a windows drive in virtualbox, why :(?
+[04:51.13] <meow> they make a few suggestions to work around the issue
+[04:51.51] <meow> with linnux?
+[04:52.15] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[04:52.19] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[04:52.39] <dionysus69> yes on ubuntu guest :\
+[04:52.48] <meow> assuming the drive is shared properly with vbox, did you use root to mount the drive on ubuntu?
+[04:53.15] <meow> did you use sudo mount ....
+[04:54.10] <meow> and did you install vbox tools or whatever the drivers/modules are called to make vbox cooperate with ubuntu?
+[04:54.26] * Tron84 (~Tron@h253n19-vrr-d1.ias.bredband.telia.com) Quit (Quit: Leaving)
+[04:54.39] <meow> I haven't used vbox in a while, I use VMWare myself
+[04:55.09] <dionysus69> VMware, is it better??
+[04:55.39] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[04:56.00] <meow> I tried both a few years ago and ended up liking vmware because I could get openGL to work in KDE
+[04:56.25] <meow> but theyre pretty similar...VMWare Player is the free version..still quite useful, and Workstation is the premium version
+[04:57.01] <dionysus69> meow: do you know how I need to mount it at startup? I put fstab statement to mount, it does but I cant open it because the permission problem...
+[04:57.17] * wiiguy (fake@unaffiliated/wiiguy) has joined channel ##windows
+[04:57.50] * jackson (~jackson@dynamic-acs-24-154-29-150.zoominternet.net) has joined channel ##windows
+[04:58.29] <meow> you looked in /mnt/ and its not there after booting?
+[04:58.36] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Quit: Sto andando via)
+[04:58.58] <dionysus69> meow its in /media but I dont have permission to open it, anyways I think I gave up, I ll just copy the folder I need to use on ubuntu side
+[04:59.35] <meow> i think vmware had a similar problem for a while and i worked around it by adding a mount command to a init.d script that ran with root or something crazy i found online
+[04:59.59] * Tron (~Tron@h253n19-vrr-d1.ias.bredband.telia.com) has joined channel ##windows
+[05:00.09] <meow> you *might* be able to drag and drop files to and from teh vm..but big files will lag a bit
+[05:00.09] * Tron (~Tron@h253n19-vrr-d1.ias.bredband.telia.com) has left ##windows ()
+[05:00.10] <dionysus69> meow: ye exactly, i found lots of crazy stuff already i am done haha and none of them worked :s
+[05:00.37] * gaffahiro (~AndChat73@dab-glb1-h-66-4.dab.02.net) has joined channel ##windows
+[05:00.42] <dionysus69> ye dunno its buggy even drag n drop doesnt work
+[05:00.44] <meow> maybe if you use sudo to mount it from media
+[05:01.24] <meow> there's also the option of sharing with the network using samba
+[05:01.29] <dionysus69> meow that works one time, I dont want to run that command every time i run vm
+[05:01.50] <dionysus69> meow ye maybe i ll check that samba option out, seems the easiest way so far
+[05:01.53] <meow> ive personally never been successful with fstab ever
+[05:02.03] <meow> i suck at fstab i guess
+[05:02.35] <dionysus69> meow ye for me linux syntax isnt consistent, every file seems to have its own syntax, fstab syntax was like wtf for me
+[05:05.55] * barq (~101715417@unaffiliated/barq) has joined channel ##windows
+[05:07.03] <meow> yeah..ive just never had success booting correctly after doing anythign with fstab
+[05:07.52] * dionysus69 (~chatzilla@178.134.100.122) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 35.0.1/20150122214805])
+[05:08.55] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[05:09.21] <meow> im sure theres a hax way that you can put the mount command into one fo the startup scripts that load after the vbox sharing modules load instead of before...i think thats why fstab is problematic
+[05:09.43] <meow> I just cant find a page to reference with that information
+[05:11.33] * jackson (~jackson@dynamic-acs-24-154-29-150.zoominternet.net) Quit (Quit: Later)
+[05:12.24] * Odarys (~Erdalux@193.101.167.10) has joined channel ##windows
+[05:12.44] * sepeck (~sepeck@drupal.org/user/5195/view) Quit (Ping timeout: 244 seconds)
+[05:13.28] * jackson (~jackson@dynamic-acs-24-154-29-150.zoominternet.net) has joined channel ##windows
+[05:13.33] * barq (~101715417@unaffiliated/barq) Quit (Quit: Leaving.)
+[05:14.16] * sepeck (~sepeck@174.143.25.69) has joined channel ##windows
+[05:14.58] <meow> sorry for talking linux in #windows...it was in the context of a VM running on windows though so it's ok ; )
+[05:16.14] * meteorx64 (~willc_000@75.64.231.4) Quit (Quit: Leaving)
+[05:17.21] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[05:17.38] * meteorx64 (~willc_000@75.64.231.4) Quit (Client Quit)
+[05:19.48] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) has joined channel ##windows
+[05:23.07] * meow (~meow@23-112-154-86.lightspeed.irvnca.sbcglobal.net) Quit ()
+[05:24.40] * jackson (~jackson@dynamic-acs-24-154-29-150.zoominternet.net) Quit (Quit: Beam me up Tux!)
+[05:25.07] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[05:25.39] * Shannon (~Shannon@unaffiliated/shannon) Quit (Ping timeout: 244 seconds)
+[05:26.46] * funch (~funch@2.25.168.213.sta.estpak.ee) Quit (Quit: ( ＋＋＋＋www.，，，nnscript.com， :: NoNameScript 4.22 :: ＋＋＋www.，，，esnation.com ))
+[05:32.32] * meesebyte (~meesebyte@216.137.241.80) Quit (Quit: Graphic Designer & Photographer - ＋＋http://meesebyte.com，，)
+[05:33.33] * bigbadjesus (~666@unaffiliated/psidrome) Quit (Ping timeout: 245 seconds)
+[05:34.28] * rrr_ (~chatzilla@123.155.155.189) Quit (Ping timeout: 256 seconds)
+[05:34.47] * wethu (~egray@unaffiliated/wethu) Quit (Quit: This computer has gone to sleep)
+[05:35.40] * geothom (~geothom@ppp-94-69-210-252.home.otenet.gr) has joined channel ##windows
+[05:36.34] * fatalhalt (~fatalhalt@c-71-201-7-76.hsd1.il.comcast.net) Quit (Read error: Connection reset by peer)
+[05:37.58] * geothom (~geothom@ppp-94-69-210-252.home.otenet.gr) Quit (Client Quit)
+[05:38.56] * bigbadjesus (~666@199.254.238.193) has joined channel ##windows
+[05:38.57] * bigbadjesus (~666@199.254.238.193) Quit (Changing host)
+[05:38.57] * bigbadjesus (~666@unaffiliated/psidrome) has joined channel ##windows
+[05:39.44] * kevinde (b2744b66@gateway/web/freenode/ip.178.116.75.102) has joined channel ##windows
+[05:40.38] <kevinde> Anyone has tried Comodo firewall? If so is the free version (firewall only) more then enough combined with a different antivirus such as eset?
+[05:41.22] * bigbadjesus (~666@unaffiliated/psidrome) Quit (Client Quit)
+[05:41.54] * dionysus69 (~chatzilla@178.134.100.122) has joined channel ##windows
+[05:42.04] * hanshenrik_ (~hanshenri@ti0016a400-0911.bb.online.no) Quit (Read error: Connection reset by peer)
+[05:45.10] * JonathanD (~JonathanD@freenode/staff/jonathand) has joined channel ##windows
+[05:45.11] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[05:45.18] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) has joined channel ##windows
+[05:45.51] * linuxuz3r (~linuxuz3r@2602:306:bd2a:a160:f579:a087:1bb9:b6b4) Quit (Remote host closed the connection)
+[05:45.52] * sepeck (~sepeck@174.143.25.69) Quit (Remote host closed the connection)
+[05:47.05] * kevinde (b2744b66@gateway/web/freenode/ip.178.116.75.102) Quit (Ping timeout: 246 seconds)
+[05:47.06] <mota> kevinde: what do you need from Comodo, that Windows firewall does not provide?
+[05:47.15] <mota> gahh.
+[05:49.22] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) Quit (Ping timeout: 245 seconds)
+[05:49.39] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 250 seconds)
+[05:49.54] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[05:50.50] <CaptObvious> lol
+[05:51.21] <CaptObvious> I find Windows Firewall+Defender more than adequate when combined with some common sense
+[05:51.46] <joga> very often the common sense part is lacking :/
+[05:51.48] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[05:52.33] * Mia (~Mia@217.131.216.20) has joined channel ##windows
+[05:52.33] * Mia (~Mia@217.131.216.20) Quit (Changing host)
+[05:52.33] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[05:53.40] * wyre (~wyre@81.172.90.37.dyn.user.ono.com) has joined channel ##windows
+[05:53.56] * CzuowiekStuleja (59ef6e6c@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108) has joined channel ##windows
+[05:54.10] <CzuowiekStuleja> Hi!
+[05:54.15] <CzuowiekStuleja> I have problem with my calc
+[05:54.23] <CzuowiekStuleja> I have typed 2+2
+[05:54.33] <CzuowiekStuleja> but
+[05:54.34] <CzuowiekStuleja> my calc
+[05:54.35] * anisfarhana (unix@unaffiliated/anisx) Quit (Ping timeout: 244 seconds)
+[05:54.36] <CzuowiekStuleja> show me
+[05:54.38] <CzuowiekStuleja> 4
+[05:54.58] <CzuowiekStuleja> noobs plz help mi
+[05:55.22] <CzuowiekStuleja> dickdickdick
+[05:55.22] <CaptObvious> mota ^
+[05:55.27] * CzuowiekStuleja (59ef6e6c@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108) Quit (Client Quit)
+[05:55.37] <CaptObvious> I don't understand these people
+[05:56.01] <CaptObvious> and why this channel?  I hang out in 5 others and it doesn't happen
+[05:56.53] <mota> oh, come on, you know the reason.
+[05:57.51] * unop_ (~unop@host86-139-227-50.range86-139.btcentralplus.com) Quit (Ping timeout: 256 seconds)
+[05:57.53] <mota> It's been fashionable amongst certain kinds of people to hate Windows since, what? 1996?
+[05:57.54] * cancerMaster (59ef6e6c@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108) has joined channel ##windows
+[05:58.02] <cancerMaster> HIO!
+[05:58.04] <CaptObvious> that still hasn't gone away?  *sigh*
+[05:58.07] <CaptObvious> hi cancerMaster
+[05:58.10] <cancerMaster> huii
+[05:58.19] <cancerMaster> hi what's up?
+[05:58.20] <CaptObvious> mota ^ same guy
+[05:58.25] * Leftas (~leftas@91.228.84.180) has joined channel ##windows
+[05:58.45] <cancerMaster> what?
+[05:58.53] <mota> cancerMaster: so, one warning only. Be cool from here on out.
+[05:58.54] <cancerMaster> mota who are you?
+[05:59.20] <CaptObvious> he's the guy with the big stick
+[05:59.24] * dimm (504f4682@gateway/web/freenode/ip.80.79.70.130) has joined channel ##windows
+[05:59.28] <cancerMaster> what stick?
+[05:59.34] <mota> I'm the guy asking you to be cool and stay on topic in this channel.
+[05:59.37] <dimm> hello, All!
+[05:59.50] <cancerMaster> ok
+[05:59.51] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 240 seconds)
+[05:59.54] <CaptObvious> hey dimm
+[05:59.55] <dimm> is this possible to restrict user to edit scheduler's task?
+[06:00.09] <CaptObvious> yeah, don't make them an administrator
+[06:00.14] <cancerMaster> can i change kernel in my windows?
+[06:00.26] <mota> cancerMaster: no
+[06:00.28] * badon (~badon@pdpc/supporter/active/badon) Quit (Disconnected by services)
+[06:00.30] * badon_ (~badon@pdpc/supporter/active/badon) has joined channel ##windows
+[06:00.42] <cancerMaster> why i want use linux kernel in my windows
+[06:00.43] * badon_ is now known as badon
+[06:00.50] * ChanServ sets mode +o mota for ##windows
+[06:00.50] * mota sets mode +q *!*@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108 for ##windows
+[06:00.50] * mota sets mode -o mota for ##windows
+[06:01.25] * cancerMaster (59ef6e6c@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108) Quit ()
+[06:01.40] <linerror> lol
+[06:02.25] * Usurp (~syl@reactos/developer/Usurp) has joined channel ##windows
+[06:02.46] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[06:03.57] <mota> CaptObvious: for whatevr reason, there's a steady trickle of people who seem to seek bans from here. I'm guessing they go back to some other channel all proud and rosy-cheeked, showing off their little trophy.
+[06:04.24] <CaptObvious> sounds like a huge waste of time to me
+[06:04.55] <linerror> typical foss fanbois think it's cool
+[06:05.01] <mota> When your mom has confined you to your room, time is something you have a lot of.
+[06:05.02] * hirogen (50a97404@gateway/web/freenode/ip.80.169.116.4) has joined channel ##windows
+[06:05.10] <CaptObvious> lol mota
+[06:06.19] <dimm> can i create task when user login (e.g. via local group policy)?
+[06:07.11] <mota> dimm: gonna need more complete sentences and better grammar. There are about 8 different ways to interpret what you just asked.
+[06:07.41] <dimm> =)
+[06:07.43] <dimm>  will try
+[06:08.41] <dimm> i need to edit user's tasks from scripts
+[06:09.54] * FreezingAlt (~FreezingC@135.0.41.14) has joined channel ##windows
+[06:10.08] <mota> powershell v3 and higher have a bunch of cmdlets for that: get-command *scheduledtask
+[06:10.09] * kais3r (~wayne@213.157.15.42) has joined channel ##windows
+[06:10.41] <mota> or you can use the older "schtasks" from cmd
+[06:10.51] * bleepy (bleepy@bleepy.org) Quit (Read error: Connection reset by peer)
+[06:11.12] <CaptObvious> or you can configure them with group policy
+[06:11.30] * break3r (~wayne@213.157.15.42) Quit (Ping timeout: 245 seconds)
+[06:13.11] * gaffahiro (~AndChat73@dab-glb1-h-66-4.dab.02.net) Quit (Ping timeout: 244 seconds)
+[06:13.33] * screwsss (7c95b865@gateway/web/freenode/ip.124.149.184.101) has joined channel ##windows
+[06:15.11] * HeliusCron_f (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Quit: I Love you ALL)
+[06:15.16] * gaffahiro (~AndChat73@dab-glb1-h-1-8.dab.02.net) has joined channel ##windows
+[06:18.26] * funch (~funch@251-239-191-90.dyn.estpak.ee) has joined channel ##windows
+[06:19.41] * kais3r (~wayne@213.157.15.42) Quit (Remote host closed the connection)
+[06:19.58] * break3r (~wayne@213.157.15.42) has joined channel ##windows
+[06:20.05] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[06:20.24] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[06:20.54] * Axy (~Mia@217.131.216.20) has joined channel ##windows
+[06:20.54] * Axy (~Mia@217.131.216.20) Quit (Changing host)
+[06:20.54] * Axy (~Mia@unaffiliated/mia) has joined channel ##windows
+[06:24.22] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[06:24.30] * vla (~vla@ip-170.net-81-220-26.lyon.rev.numericable.fr) has joined channel ##windows
+[06:25.03] * Axy (~Mia@217.131.216.20) has joined channel ##windows
+[06:25.03] * Axy (~Mia@217.131.216.20) Quit (Changing host)
+[06:25.03] * Axy (~Mia@unaffiliated/mia) has joined channel ##windows
+[06:25.10] * Mia (~Mia@unaffiliated/mia) Quit (Quit: Leaving)
+[06:25.14] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 264 seconds)
+[06:28.04] <dimm> yes, i use vbs
+[06:28.11] <dimm> and schtasks
+[06:28.41] <dimm> can i restirct users from edit schedulers task via desktop?
+[06:28.46] <dimm> via gui i meant
+[06:30.56] <CaptObvious> yes, if they're not local admins they can't edit them
+[06:31.15] * Jakey69 (uid1475@gateway/web/irccloud.com/x-jmawuqpbgjvycczd) Quit (Quit: Connection closed for inactivity)
+[06:31.21] * chokepoint (~smrftrgt@unaffiliated/chokepoint) Quit ()
+[06:39.43] * obsed (~obesd@unaffiliated/obesd) has joined channel ##windows
+[06:39.52] * JonathanD (~JonathanD@freenode/staff/jonathand) Quit (Read error: Connection reset by peer)
+[06:41.31] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##windows
+[06:43.12] * dionysus69 (~chatzilla@178.134.100.122) Quit (Ping timeout: 246 seconds)
+[06:45.50] * khanman (~khan@74.215.219.231) Quit (Remote host closed the connection)
+[06:47.27] * bwf (~bwf@gw1.ezvk.de) has joined channel ##windows
+[06:48.29] * Guest82176 (~Tommy@jack.kashpureff.org) Quit (Changing host)
+[06:48.29] * Guest82176 (~Tommy@unaffiliated/tommy) has joined channel ##windows
+[06:48.30] * Guest82176 is now known as Tommy
+[06:48.40] * dionysus69 (~chatzilla@178.134.100.122) has joined channel ##windows
+[06:50.03] * alan`_ (alan@abacus.kwzs.be) has joined channel ##windows
+[06:50.09] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[06:50.43] * wonderworld (~ww@ip-176-199-166-61.hsi06.unitymediagroup.de) has joined channel ##windows
+[06:57.10] * mjayk (~Matthew@host-92-19-98-17.as13285.net) has joined channel ##windows
+[06:57.43] * raj__ (~raj@163.47.15.133) has joined channel ##windows
+[06:59.43] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[06:59.47] * JonathanD (~JonathanD@freenode/staff/jonathand) has joined channel ##windows
+[07:00.34] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[07:03.09] * dionysus69_ (~chatzilla@178.134.100.122) has joined channel ##windows
+[07:03.21] * awkwardusername (~namae_kun@112.209.43.192) has joined channel ##windows
+[07:03.23] * awkwardusername (~namae_kun@112.209.43.192) Quit (Max SendQ exceeded)
+[07:03.24] * Scourjee (uid63311@gateway/web/irccloud.com/x-pscdsjfokoopffph) has joined channel ##windows
+[07:04.27] * dionysus69_ (~chatzilla@178.134.100.122) Quit (Remote host closed the connection)
+[07:06.27] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 245 seconds)
+[07:06.39] * dionysus69 (~chatzilla@178.134.100.122) Quit (Ping timeout: 246 seconds)
+[07:07.08] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[07:07.21] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Remote host closed the connection)
+[07:08.20] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:08.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Remote host closed the connection)
+[07:09.08] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:11.36] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Excess Flood)
+[07:11.43] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) has joined channel ##windows
+[07:12.03] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[07:12.15] * ChanServ sets mode +o eir for ##windows
+[07:12.16] * eir sets mode -qo *!*@gateway/web/cgi-irc/kiwiirc.com/ip.89.239.110.108 eir for ##windows
+[07:12.23] * Robin (~Seligas@host-144-113-2-96.midco.net) Quit (Quit:  I love my HydraIRC -> ＋＋http://www.hydrairc.com，， <-)
+[07:15.21] * joek (~Joseph@lotus.makaiwell.com) Quit (Remote host closed the connection)
+[07:17.10] * Ussat (~Ussat@pdpc/supporter/active/ussat) has joined channel ##windows
+[07:17.18] * ocZio (~ocZio@host81-133-170-231.in-addr.btopenworld.com) has joined channel ##windows
+[07:17.46] * genera (~genera@unaffiliated/genera) Quit (Ping timeout: 244 seconds)
+[07:18.00] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) has joined channel ##windows
+[07:23.23] * notpara (~para@213.187.75.26) Quit (Quit: ->)
+[07:23.53] * shahidbhavwala (~shahidbha@182.74.245.210) has joined channel ##windows
+[07:24.33] * Timslin (~Speedy624@unaffiliated/timslin) Quit (Ping timeout: 250 seconds)
+[07:27.59] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 264 seconds)
+[07:28.47] * trueneu (~textual@77.88.0.165-spb.dhcp.yndx.net) Quit (Ping timeout: 265 seconds)
+[07:29.30] * trueneu (~textual@77.88.0.165-spb.dhcp.yndx.net) has joined channel ##windows
+[07:29.45] * elcasey (~casey@unaffiliated/elcasey) Quit (Quit: leaving)
+[07:29.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:30.16] * Gerry666 (Gerry666@c75.154.173-73.clta.globetrotter.net) Quit ()
+[07:30.24] * Gerry666 (Gerry666@c75.154.173-73.clta.globetrotter.net) has joined channel ##windows
+[07:36.16] * croon (53e31e35@gateway/web/cgi-irc/kiwiirc.com/ip.83.227.30.53) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[07:36.30] * ktwo (~ktwo@ipb21bc41a.dynamic.kabel-deutschland.de) Quit (Ping timeout: 245 seconds)
+[07:36.35] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[07:37.20] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 245 seconds)
+[07:37.26] * star114 (~star114@182.230.175.34) has joined channel ##windows
+[07:37.35] * RingtailedFox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) Quit (Quit: Leaving)
+[07:38.22] * Quatroking (~Quatrokin@ip226-139-211-87.adsl2.static.versatel.nl) has joined channel ##windows
+[07:39.51] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[07:40.22] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Remote host closed the connection)
+[07:41.21] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:41.56] * GinoMan_ (~quassel@50.144.2.19) Quit (Ping timeout: 255 seconds)
+[07:41.56] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:42.17] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:42.47] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:43.09] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:44.24] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:44.59] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:45.33] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:45.48] * Smilerut (~CoasterTo@79.116.253.174) has joined channel ##windows
+[07:45.52] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:46.12] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:46.46] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:47.58] * Baronawesome_ (~Alphard@191.191.163.20) has joined channel ##windows
+[07:48.03] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:48.35] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:49.33] * loong_ (~quassel@122.76.36.3) has joined channel ##windows
+[07:49.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:49.56] * Baronawesome (~Alphard@unaffiliated/baronawesome) Quit (Ping timeout: 250 seconds)
+[07:50.11] * anaeem1_ (~anaeem1@58-65-169-81.nayatel.pk) Quit (Ping timeout: 264 seconds)
+[07:50.25] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:50.49] * pm001 (~pm0001@5.147.134.207) has joined channel ##windows
+[07:50.57] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[07:52.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:52.13] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:53.25] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 244 seconds)
+[07:53.25] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:53.57] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) Quit (Quit: BWMerlin)
+[07:53.59] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:54.55] * elcasey (~casey@unaffiliated/elcasey) has joined channel ##windows
+[07:55.13] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:55.48] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:57.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:57.25] * rocketmaster (~rocketmas@cable-188-2-72-94.dynamic.sbb.rs) has joined channel ##windows
+[07:57.31] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 252 seconds)
+[07:57.33] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[07:57.44] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[07:58.15] <rocketmaster> a question: why do programs take longer to load without an internet connection?
+[07:58.49] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[07:59.05] * _eddy (baako@unaffiliated/baako) Quit (Read error: Connection reset by peer)
+[07:59.09] * loong_ (~quassel@122.76.36.3) Quit (Read error: Connection reset by peer)
+[07:59.16] <rocketmaster> a virus? the program calls home?
+[07:59.25] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:00.39] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:01.11] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:01.14] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) Quit (Ping timeout: 264 seconds)
+[08:01.16] * Trekka12 (~Trekka12@c-cbf1e355.226-2-64736c11.cust.bredbandsbolaget.se) has joined channel ##windows
+[08:01.18] * raj__ (~raj@163.47.15.133) Quit (Quit: Leaving)
+[08:01.22] <rocketmaster> anybody here?
+[08:01.29] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Remote host closed the connection)
+[08:01.44] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[08:02.06] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:02.11] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) has joined channel ##windows
+[08:02.27] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:02.57] * rocketmaster (~rocketmas@cable-188-2-72-94.dynamic.sbb.rs) Quit ()
+[08:03.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:03.34] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:03.54] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:04.04] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 265 seconds)
+[08:04.25] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:04.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:05.09] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:05.40] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:05.54] * Phurious (~Phurious@cpe-76-186-96-158.tx.res.rr.com) has joined channel ##windows
+[08:06.00] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:06.24] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[08:06.35] * SamRau (~quassel@216.18.254.83) has joined channel ##windows
+[08:06.35] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) Quit (Ping timeout: 250 seconds)
+[08:06.36] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:07.30] <Ussat> could be lots of things
+[08:07.39] <Ussat> kinda a vague question
+[08:07.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:07.54] * ReGiStRaS (Regi@bb116-15-79-6.singnet.com.sg) Quit (Ping timeout: 246 seconds)
+[08:08.24] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:08.37] * jockey4her (~Unk@70-89-195-66-BusName-Illinois.hfc.comcastbusiness.net) has joined channel ##windows
+[08:08.38] * jockey4her (~Unk@70-89-195-66-BusName-Illinois.hfc.comcastbusiness.net) Quit (Changing host)
+[08:08.38] * jockey4her (~Unk@unaffiliated/jockey4her) has joined channel ##windows
+[08:09.40] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:10.00] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[08:10.13] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:10.41] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[08:10.43] * ThugW4ffle (~ThugW4ffl@108-245-200-103.lightspeed.cicril.sbcglobal.net) has joined channel ##windows
+[08:10.58] * phre4k (~phre4k@p57ADE5CB.dip0.t-ipconnect.de) has joined channel ##windows
+[08:11.01] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[08:11.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[08:11.25] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:11.57] * drale (~drale@unaffiliated/drale) has joined channel ##windows
+[08:11.59] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:12.10] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 246 seconds)
+[08:12.18] * chiner (49c78030@gateway/web/cgi-irc/kiwiirc.com/ip.73.199.128.48) has joined channel ##windows
+[08:12.32] <chiner> is there a way to make a specific application use a specific sound device
+[08:12.43] <chiner> because I have this streaming application
+[08:12.52] <chiner> i dunno
+[08:12.55] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[08:12.57] <chiner> rather than have me explain
+[08:13.02] <chiner> can someone just answer my question
+[08:13.10] <jockey4her> The program needs to select the sound device itself.
+[08:13.13] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:13.26] <chiner> yeah it doesn't have an option to
+[08:13.31] <chiner> and it should because its retarded lol
+[08:13.37] <chiner> its a streaming program
+[08:13.42] <chiner> for capture of a console
+[08:13.47] <Ussat> and its not a windows issue, its a app issue
+[08:13.51] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:14.32] <chiner> so crying to the company
+[08:14.34] <chiner> will do me nothing
+[08:14.41] <chiner> and i just need to find a usb audio device
+[08:14.47] <chiner> that will allow me to select it as an audio device
+[08:15.03] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:15.24] <chiner> so i can at least separate my teamspeak from my stream
+[08:15.28] <chiner> even if i cant separate my chatty
+[08:15.37] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:16.00] <jockey4her> use a better program for chatting, like say Lync.
+[08:16.15] <chiner> can i select the damn sound card?
+[08:16.17] <chiner> probably not so who cares
+[08:16.35] <chiner> with say lync?
+[08:16.53] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:17.04] * chiner (49c78030@gateway/web/cgi-irc/kiwiirc.com/ip.73.199.128.48) Quit (Client Quit)
+[08:17.27] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:17.49] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Quit: There is no higher purpose in our behavior core.)
+[08:17.49] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Quit: Sto andando via)
+[08:18.19] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[08:18.39] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:18.42] <jockey4her> ＋＋https://support.office.com/en-us/article/Audio-Device-settings-88520414-1c62-47f3-b91c-194b3906fdbe?CorrelationId=7bcaee6d-6c10-4f86-9c83-808d89549230&ui=en-US&rs=en-US&ad=US，，
+[08:19.12] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:19.37] * ktwo (~ktwo@2a02:810d:15c0:38:9d23:59d:297:38fd) has joined channel ##windows
+[08:19.50] * chokepoint (~smrftrgt@unaffiliated/chokepoint) has joined channel ##windows
+[08:20.40] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:21.01] * Bray90820 (~Bray90820@173.20.157.7) has joined channel ##windows
+[08:21.02] * Anthrophobic (Ritchel@184-156-14-103.dyn.centurytel.net) Quit (Ping timeout: 264 seconds)
+[08:21.03] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[08:21.29] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[08:22.06] * CheckDavid (uid14990@gateway/web/irccloud.com/x-otcqgnwryeywxbfs) has joined channel ##windows
+[08:22.17] * Bray90820 (~Bray90820@173.20.157.7) Quit (Read error: Connection reset by peer)
+[08:22.36] * cute_korean_girl (~joseon@218.53.30.191) Quit (Ping timeout: 246 seconds)
+[08:22.49] * ThugW4ffle (~ThugW4ffl@108-245-200-103.lightspeed.cicril.sbcglobal.net) Quit (Ping timeout: 252 seconds)
+[08:22.51] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) has joined channel ##windows
+[08:22.52] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:23.30] * Anthrophobic (~Ritchel@184-156-14-103.dyn.centurytel.net) has joined channel ##windows
+[08:24.23] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:24.37] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:25.53] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Client Quit)
+[08:25.55] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:26.28] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:27.45] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:27.47] * ThugW4ffle (~ThugW4ffl@108-245-200-103.lightspeed.cicril.sbcglobal.net) has joined channel ##windows
+[08:28.14] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:28.35] * Jan\ (kvirc@198.13.243.238) Quit (Ping timeout: 245 seconds)
+[08:28.52] * Lunatrius (~Lunatrius@77.38.103.182) Quit (Read error: Connection reset by peer)
+[08:29.27] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:30.02] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:30.52] * Anodl (~Anodl@p5B15E470.dip0.t-ipconnect.de) has joined channel ##windows
+[08:31.01] * usrJayRay (~usrJayRay@150.200.74.127) has joined channel ##windows
+[08:31.15] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:31.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:32.03] * Jan\ (kvirc@198.13.193.153) has joined channel ##windows
+[08:33.03] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:33.37] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:33.57] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:33.57] * Extreminador (~Extremina@bl21-252-17.dsl.telepac.pt) has joined channel ##windows
+[08:34.03] <dimm> CaptObvious: is local admin it is a member of local Administrators group?
+[08:34.34] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:34.50] * rippa (~rippa@37-146-230-93.broadband.corbina.ru) has joined channel ##windows
+[08:34.55] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:35.28] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:36.58] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:37.13] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:37.26] * MrKB (~MrKB@c-76-29-141-153.hsd1.fl.comcast.net) has joined channel ##windows
+[08:37.46] * MrKB (~MrKB@c-76-29-141-153.hsd1.fl.comcast.net) has left ##windows ()
+[08:38.11] * anaeem1_ (~anaeem1@119.159.162.24) has joined channel ##windows
+[08:38.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:39.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:39.37] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:39.54] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:40.14] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:40.49] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:42.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:42.34] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:43.18] * shahidbhavwala (~shahidbha@182.74.245.210) Quit (Read error: Connection reset by peer)
+[08:43.26] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[08:43.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:44.24] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:44.25] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Ping timeout: 245 seconds)
+[08:44.45] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:45.36] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:45.39] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:46.02] * oeuvre (~WFW311@unaffiliated/oeuvre) has joined channel ##windows
+[08:46.12] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:46.57] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) has joined channel ##windows
+[08:47.18] * oleo (~oleo@unaffiliated/oleo) has joined channel ##windows
+[08:47.47] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:48.01] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:49.02] * anaeem1_ (~anaeem1@119.159.162.24) Quit (Remote host closed the connection)
+[08:49.12] * Sweet_Ride (~Sweet@199.47.65.58) Quit (Ping timeout: 246 seconds)
+[08:49.15] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:49.30] * anaeem1 (~anaeem1@119.159.162.24) has joined channel ##windows
+[08:49.42] * Anthrophobic (~Ritchel@184-156-14-103.dyn.centurytel.net) Quit (Changing host)
+[08:49.42] * Anthrophobic (~Ritchel@unaffiliated/anthrophobic) has joined channel ##windows
+[08:49.50] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:51.11] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:51.38] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:51.56] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:52.29] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:52.49] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:53.23] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:54.20] * anaeem1 (~anaeem1@119.159.162.24) Quit (Ping timeout: 265 seconds)
+[08:54.38] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:54.43] * Log1x (~Log1x@unaffiliated/log1x) Quit (Ping timeout: 252 seconds)
+[08:55.15] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:55.37] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[08:56.25] * Log1x (~Log1x@unaffiliated/log1x) has joined channel ##windows
+[08:56.26] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:57.00] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[08:58.15] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[08:58.48] * Bray90820 (~Bray90820@173-20-157-7.client.mchsi.com) has joined channel ##windows
+[01:00.25] *** Server disconnected on irc.freenode.net
+[01:00.28] *** Server disconnected on irc.freenode.net
+[07:52.48] * You have joined ##windows
+[07:52.48] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[07:52.48] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[07:52.49] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[07:52.49] Channel Created on: 7:11 PM 10/7/2005
+[07:53.03] * Zhq (~Zhq@247.5.71.86.rev.sfr.net) has joined channel ##windows
+[07:53.18] * r3kt (~alpha@countervandalism/r3kt) Quit (Read error: Connection reset by peer)
+[07:54.32] * fev3r101 (~fev3r101@116.251.214.209) Quit (Quit: fev3r101)
+[07:54.35] * BrianBlaze420 (~BrianBlaz@unaffiliated/brianblaze) Quit (Quit: Goodbye beautiful people!)
+[07:54.58] * alpha (~alpha@countervandalism/r3kt) has joined channel ##windows
+[07:55.28] * alpha (~alpha@countervandalism/r3kt) Quit (Read error: Connection reset by peer)
+[07:56.12] * alpha (~alpha@c-50-190-64-172.hsd1.md.comcast.net) has joined channel ##windows
+[07:56.13] * alpha (~alpha@c-50-190-64-172.hsd1.md.comcast.net) Quit (Changing host)
+[07:56.13] * alpha (~alpha@countervandalism/r3kt) has joined channel ##windows
+[07:57.26] * u1F3B2 (~u1F3B2@h214.146.82.166.dynamic.ip.windstream.net) has joined channel ##windows
+[07:57.31] * Zhq (~Zhq@247.5.71.86.rev.sfr.net) Quit (Read error: Connection reset by peer)
+[07:58.09] * nassy (~nassy@c-76-20-84-228.hsd1.ca.comcast.net) Quit (Quit: Quit)
+[07:59.47] * dtk (~dtk@105.154.78.8) has joined channel ##windows
+[07:59.57] * fev3r101 (~fev3r101@116.251.214.209) has joined channel ##windows
+[08:00.43] * WIGamer (~WIGamer@96-42-43-226.dhcp.ftbg.wi.charter.com) has joined channel ##windows
+[08:01.16] * CooLBALL (~CooLBALL@unaffiliated/coolball) has joined channel ##windows
+[08:01.49] <CooLBALL> good day to you gentle folk
+[08:02.16] * meesebyte (~meesebyte@24.237.158.2) has joined channel ##windows
+[08:02.53] * alpha (~alpha@countervandalism/r3kt) Quit (Quit: Peace m8)
+[08:02.55] * whac-a-retro (76d00fb3@gateway/web/freenode/ip.118.208.15.179) Quit (Quit: Page closed)
+[08:03.22] * alpha (~alpha@c-50-190-64-172.hsd1.md.comcast.net) has joined channel ##windows
+[08:03.34] * alpha (~alpha@c-50-190-64-172.hsd1.md.comcast.net) Quit (Changing host)
+[08:03.34] * alpha (~alpha@countervandalism/r3kt) has joined channel ##windows
+[08:03.35] * alpha (~alpha@countervandalism/r3kt) Quit (Read error: Connection reset by peer)
+[08:03.36] <CooLBALL> do any know how Microsoft will make $ if W10 is to be a free upgrade?
+[08:04.25] <Cymage> MasterShake : i'll do it
+[08:04.55] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[08:06.06] <S_SubZero> new computers
+[08:08.03] <CooLBALL> what about the Windows by subscription concept?
+[08:08.41] * Quatroking (~Quatrokin@ip226-139-211-87.adsl2.static.versatel.nl) Quit (Read error: Connection reset by peer)
+[08:08.44] * CheckDavid (uid14990@gateway/web/irccloud.com/x-qbmpoesxuzpcomhz) Quit (Quit: Connection closed for inactivity)
+[08:08.47] <Cymage> CooLBALL : myth
+[08:08.54] * Sir_Leto3 (~Sir_Leto@unaffiliated/sir-leto/x-356438) Quit (Ping timeout: 246 seconds)
+[08:08.58] <Cymage> for now anyway
+[08:12.35] * m0rd3cai (m0rd3cai@unaffiliated/m0rd3cai) Quit (Quit: Lost terminal)
+[08:13.35] * `coma (~relax@CPE0026f3966ed8-CM0026f3966ed5.cpe.net.cable.rogers.com) Quit (Quit: Leaving)
+[08:14.42] * taru (~taru@168.62.212.108) Quit (Ping timeout: 272 seconds)
+[08:14.51] * Pyrotek (~pyrotek@128.135.100.112) has joined channel ##windows
+[08:16.26] * sleap64 (~sleap64@97e4c216.skybroadband.com) has joined channel ##windows
+[08:16.41] * s7r (debian-tor@openvpn/user/s7r) Quit (Quit: Leaving)
+[08:16.50] * Shadow` (~Shadow@5ED7A6EA.cm-7-8c.dynamic.ziggo.nl) has joined channel ##windows
+[08:16.52] * Deihmos (~Deihmos@ool-44c68354.dyn.optonline.net) has joined channel ##windows
+[08:17.34] * dtcrshr (~datacrush@unaffiliated/datacrusher) Quit (Quit: Saindo)
+[08:18.46] <PeperPots_____> Is there a way to use wget to download *only* devcon.exe (32bit) from the WDK 8 ?
+[08:19.32] * Sir_Leto3 (~Sir_Leto@unaffiliated/sir-leto/x-356438) has joined channel ##windows
+[08:20.54] * taru (~taru@168.62.212.108) has joined channel ##windows
+[08:21.02] * Gr1zzly (Elite9820@gateway/shell/elitebnc/x-ulbnepapxiaxkxvf) has joined channel ##windows
+[08:25.17] * Deihmos_ (~Deihmos@ool-6bbc1c72.dyn.optonline.net) has joined channel ##windows
+[08:25.35] * Synthbread (~Synthead@98.99.251.68) has joined channel ##windows
+[08:25.57] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[08:28.15] * Deihmos (~Deihmos@ool-44c68354.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[08:28.29] * rigor789 is now known as rigor789|away
+[08:28.50] * daynaskully (~digifiv5e@unaffiliated/daynaskully) Quit (Ping timeout: 240 seconds)
+[08:29.07] * fatalhalt (~fatalhalt@c-71-201-7-76.hsd1.il.comcast.net) has joined channel ##windows
+[08:29.40] * Deihmos1 (~Deihmos@ool-44c68354.dyn.optonline.net) has joined channel ##windows
+[08:32.30] * wisey (~Steven@host-2-102-71-48.as13285.net) has joined channel ##windows
+[08:33.12] * Deihmos_ (~Deihmos@ool-6bbc1c72.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[08:34.46] * aeon-ltd (~freenode@94.9.155.229) has joined channel ##windows
+[08:34.50] * Deihmos1 (~Deihmos@ool-44c68354.dyn.optonline.net) Quit (Ping timeout: 245 seconds)
+[08:36.32] * Smx (Elite8556@gateway/shell/elitebnc/x-azsqkxzvbfdqbvpx) has joined channel ##windows
+[08:36.50] * Trekka12 (~Trekka12@c-cbf1e355.226-2-64736c11.cust.bredbandsbolaget.se) Quit (Ping timeout: 240 seconds)
+[08:38.59] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) Quit (Quit: Leaving)
+[08:40.52] * sdale508 (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) has joined channel ##windows
+[08:41.03] * sdale508 (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) Quit (Client Quit)
+[08:41.03] * coffee- (~coffeeguy@gateway/vpn/privateinternetaccess/coffeeguy2) has joined channel ##windows
+[08:42.01] * coffee- (~coffeeguy@gateway/vpn/privateinternetaccess/coffeeguy2) Quit (Quit: Leaving)
+[08:42.10] * sdale508_ (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) has joined channel ##windows
+[08:43.37] * coffee- (~coffeeguy@68-118-174-207.dhcp.unas.nm.charter.com) has joined channel ##windows
+[08:44.55] * u1F3B2 (~u1F3B2@h214.146.82.166.dynamic.ip.windstream.net) Quit (Quit: Leaving)
+[08:45.28] * kPa (~kPa@unaffiliated/kpa) has joined channel ##windows
+[08:50.25] * digifiv5e (~digifiv5e@unaffiliated/daynaskully) has joined channel ##windows
+[08:50.52] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) Quit (Remote host closed the connection)
+[08:52.33] * benzhninja (~benzhninj@unaffiliated/benzhninja) has joined channel ##windows
+[08:53.35] * sdale508_ (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) Quit (Read error: No route to host)
+[08:54.28] * meesebyte (~meesebyte@24.237.158.2) Quit (Quit: Graphic Designer & Photographer - ＋＋http://meesebyte.com，，)
+[08:54.30] * dino82 (~deeno@unaffiliated/dino82) Quit (Ping timeout: 265 seconds)
+[08:55.22] * badon (~badon@pdpc/supporter/active/badon) Quit (Quit: Leaving)
+[08:56.40] <fatalhalt> hi, any nod32 users? im looking for decent firewall that doesnt get into your way, i think with Eset the firewall is part of internet security suite, that sucks
+[08:56.41] * CooLBALL (~CooLBALL@unaffiliated/coolball) has left ##windows (("Leaving"))
+[08:56.53] <CaptObvious> Windows Firewall
+[08:57.39] <fatalhalt> CaptObvious, hmm good idea
+[08:58.41] * Usurp (~syl@reactos/developer/Usurp) has joined channel ##windows
+[08:59.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[09:00.00] * GinoMan (~quassel@2601:b:8c00:288:58bf:cd65:8bc6:955d) has joined channel ##windows
+[09:00.20] * dino82 (~deeno@unaffiliated/dino82) has joined channel ##windows
+[09:01.11] * oeuvre (~WIN95@unaffiliated/oeuvre) has joined channel ##windows
+[09:01.33] * S_SubZero (~no@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[09:02.36] <Aldem> Eset Nod32, anti virus only, Eset Smart Security, firewall + anti virus
+[09:03.23] * SonikkuAmerica (~S-USA@unaffiliated/sonikkuamerica) Quit (Ping timeout: 255 seconds)
+[09:04.54] * sdale508 (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) has joined channel ##windows
+[09:05.37] * Usurp (~syl@reactos/developer/Usurp) Quit ()
+[09:05.47] * Usurp (~syl@reactos/developer/Usurp) has joined channel ##windows
+[09:07.45] * APerson_ (~APerson_@wikipedia/APerson) has joined channel ##windows
+[09:07.45] <sdale508> what is better: windows 7 home premium, windows 7 professional or windows 7 ultimate
+[09:08.00] <ananda> depend on your budget
+[09:08.16] <Aldem> On your needs
+[09:08.35] <ananda> ultimate
+[09:08.36] <Aldem> Do you plan on running a private network in your house ?
+[09:08.51] <ananda> no i suggest move on linux
+[09:08.55] <Aldem> If not, I'd say Home is enough
+[09:08.56] * zoooky (~zoooky@wsip-70-168-255-130.oc.oc.cox.net) has joined channel ##windows
+[09:09.01] <sdale508> massively overpowered mac pro1,1
+[09:09.03] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##windows
+[09:09.40] <ananda> well i prefer linux now
+[09:09.51] <Aldem> Ok
+[09:09.59] <Aldem> Talk about it in ##linux ;)
+[09:10.02] <sepeck> ananda: lease take a moment to read our channel guidleines.
+[09:10.11] * Usurp_ (~syl@reactos/developer/Usurp) has joined channel ##windows
+[09:10.12] <sepeck> ananda: there are plenty of channel for your advocacy
+[09:10.21] <CaptObvious> can you even buy windows 7 licences anymore?
+[09:10.24] <Aldem> Hello sepeck
+[09:10.39] <sepeck> CaptObvious: nope.
+[09:10.42] * GAMEOEUVRE (~WIN95@pool-173-77-212-50.nycmny.fios.verizon.net) has joined channel ##windows
+[09:10.44] <CaptObvious> didn't think so
+[09:10.45] * Usurp (~syl@reactos/developer/Usurp) Quit (Ping timeout: 256 seconds)
+[09:10.57] <sepeck> CaptObvious: well, not from MS.  There may be stock on some retail shelves not turned in
+[09:11.00] <CaptObvious> sdale508 - win 8.1 pro should do unless you need any of the ultimate features
+[09:11.02] * oeuvre (~WIN95@unaffiliated/oeuvre) Quit (Disconnected by services)
+[09:11.04] <Aldem> Well, we still see OEM on disc release around here
+[09:11.04] * GAMEOEUVRE is now known as oeuvre
+[09:11.13] * oeuvre (~WIN95@pool-173-77-212-50.nycmny.fios.verizon.net) Quit (Changing host)
+[09:11.13] * oeuvre (~WIN95@unaffiliated/oeuvre) has joined channel ##windows
+[09:11.27] <CaptObvious> wait, there is no 8.1 ultimate
+[09:11.29] <Aldem> Yeah, I understand. Not from MS directly
+[09:11.31] <sepeck> I can't really think of a need for 7 Ultimate.  8.1 pro should be fine
+[09:11.32] <CaptObvious> it's only 8.1 and pro
+[09:11.43] <CaptObvious> Here's a list of features - ＋＋http://www.microsoft.com/en-us/windows/enterprise/products-and-technologies/windows-8-1/compare/default.aspx，，
+[09:11.49] <Aldem> sepeck: Everything that worked for my on 7 works on 8 and 8.1
+[09:11.52] <sepeck> in theory you can get a single user 8.1 Enterprise license but it's hard
+[09:12.37] * ananda (anandas@gateway/shell/yourbnc/x-tdoamxfcnozqviku) has left ##windows ()
+[09:13.04] * digifiv5e is now known as daynaskully
+[09:13.20] * thumpba__ (~thumpba@38.104.231.214) Quit (Ping timeout: 240 seconds)
+[09:13.28] * tus (~tus@unaffiliated/tus) Quit ()
+[09:13.46] <Aldem> Why would a home user need the entreprise version anyway ?
+[09:13.49] * zoooky (~zoooky@wsip-70-168-255-130.oc.oc.cox.net) Quit (Ping timeout: 265 seconds)
+[09:14.24] <CaptObvious> they wouldn't really
+[09:14.39] * Defunk (defunk@telnetd.org) has left ##windows ()
+[09:15.18] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[09:15.28] * sussman (~sussman@177.40.31.126) has joined channel ##windows
+[09:18.13] * sdale508 (~steven@ppp118-208-15-179.lns20.bne7.internode.on.net) has left ##windows ()
+[09:18.17] * Gentilhomme (~Gentilhom@cpe-24-193-9-147.nyc.res.rr.com) has joined channel ##windows
+[09:18.28] * Gentilhomme (~Gentilhom@cpe-24-193-9-147.nyc.res.rr.com) Quit (Changing host)
+[09:18.28] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##windows
+[09:18.40] * fuaou (~user@78.175.161.179) Quit (Ping timeout: 252 seconds)
+[09:18.42] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) Quit (Read error: Connection reset by peer)
+[09:19.01] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##windows
+[09:19.04] * Afteraffekt (~Afteraffe@unaffiliated/afteraffekt) has joined channel ##windows
+[09:19.08] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:3890:f911:e30e:705c) has joined channel ##windows
+[09:19.08] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:3890:f911:e30e:705c) Quit (Disconnected by services)
+[09:20.23] * Joufflu (~Jouffluxx@2602:306:8b23:1250:2054:ecef:4931:ad38) has joined channel ##windows
+[09:21.14] * Tron84 (~Tron@h253n19-vrr-d1.ias.bredband.telia.com) Quit (Quit: Leaving)
+[09:21.22] * star114 (~star114@182.230.175.34) has joined channel ##windows
+[09:21.55] * thumpba_ (~thumpba@38.104.231.214) has joined channel ##windows
+[09:23.19] * compdoc (~me@unaffiliated/compdoc) Quit ()
+[09:23.59] * WIGamer (~WIGamer@96-42-43-226.dhcp.ftbg.wi.charter.com) Quit (Quit: Leaving)
+[09:24.23] * istevenmon (c0bc3703@gateway/web/freenode/ip.192.188.55.3) Quit (Ping timeout: 246 seconds)
+[09:24.32] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 255 seconds)
+[09:25.36] * star114 (~star114@182.230.175.34) Quit (Ping timeout: 244 seconds)
+[09:26.04] * Cymage (~james@unaffiliated/cymage) Quit (Quit: leaving)
+[09:27.35] * Phurious (~Phurious@cpe-76-186-96-158.tx.res.rr.com) Quit (Read error: Connection reset by peer)
+[09:29.38] * GinoMan (~quassel@2601:b:8c00:288:58bf:cd65:8bc6:955d) Quit (Read error: Connection reset by peer)
+[09:30.56] * GinoMan (~quassel@2601:b:8c00:288:58bf:cd65:8bc6:955d) has joined channel ##windows
+[09:31.09] * badon (~badon@pdpc/supporter/active/badon) has joined channel ##windows
+[09:32.24] * JamesDD (~JamesD@cpe-108-185-249-54.socal.res.rr.com) Quit (Ping timeout: 252 seconds)
+[09:32.40] * JamesDD (~JamesD@cpe-108-185-249-54.socal.res.rr.com) has joined channel ##windows
+[09:36.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:37.15] * JamesDD (~JamesD@cpe-108-185-249-54.socal.res.rr.com) Quit (Ping timeout: 264 seconds)
+[09:37.54] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[09:38.06] * Synthbread (~Synthead@98.99.251.68) Quit (Ping timeout: 252 seconds)
+[09:38.18] * benzhninja_ (~benzhninj@unaffiliated/benzhninja) has joined channel ##windows
+[09:38.45] * JamesDD (~JamesD@cpe-108-185-249-54.socal.res.rr.com) has joined channel ##windows
+[09:40.06] * pcdoctor2 (~pcdoctor2@76-192-149-36.lightspeed.gdrpmi.sbcglobal.net) has joined channel ##windows
+[09:40.17] * benzhninja (~benzhninj@unaffiliated/benzhninja) Quit (Ping timeout: 255 seconds)
+[09:40.47] * Cypris (~JIDavis02@c-75-73-114-15.hsd1.mn.comcast.net) has joined channel ##windows
+[09:41.48] * m0dest (~m0dest@unaffiliated/m0dest) has joined channel ##windows
+[09:42.22] <Cypris> everyone appears to be afk in the win-srvr channel, are there any Server 2k8 R2 gurus in here? Needing help in migratinig DC from an old inst. to a new one (dying hdd), 1 system / same system.
+[09:42.35] <pcdoctor2> Anyone using the new Windows 10?
+[09:43.21] * Deihmos_ (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[09:43.43] <aeon-ltd> pcdoctor2: someone is
+[09:44.04] <Aldem> I do, in a VM
+[09:44.13] * KomradeVirtunov (~KomradeVi@104-57-8-227.lightspeed.clmboh.sbcglobal.net) has joined channel ##windows
+[09:44.20] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[09:44.36] * GinoMan (~quassel@2601:b:8c00:288:58bf:cd65:8bc6:955d) Quit (Ping timeout: 256 seconds)
+[09:46.52] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[09:48.21] * vla (~vla@ip-170.net-81-220-26.lyon.rev.numericable.fr) Quit ()
+[09:50.42] * Phurious (~Phurious@23.105.43.228) has joined channel ##windows
+[09:51.37] * APerson_ (~APerson_@wikipedia/APerson) Quit (Quit: Leaving)
+[09:52.09] * alpha (~alpha@countervandalism/r3kt) has joined channel ##windows
+[09:52.16] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) Quit (Quit: I liked it when I was here, as well as when I'm not!)
+[09:52.47] * alpha (~alpha@countervandalism/r3kt) Quit (Read error: Connection reset by peer)
+[09:55.07] * thumpba_ (~thumpba@38.104.231.214) Quit (Ping timeout: 250 seconds)
+[09:56.56] * Cymage (~james@unaffiliated/cymage) has joined channel ##windows
+[09:58.38] * benzhninja_ (~benzhninj@unaffiliated/benzhninja) Quit (Ping timeout: 252 seconds)
+[09:59.14] * kerframil (~kerframil@gentoo/user/kerframil) Quit (Quit: Leaving)
+[10:04.18] * mek42 (~chatzilla@cpe-74-79-37-40.twcny.res.rr.com) has joined channel ##windows
+[10:05.52] * digifiv5e (~digifiv5e@24.215.112.177) has joined channel ##windows
+[10:06.12] * digifiv5e is now known as Guest52797
+[10:06.49] * RingtailedFox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) has joined channel ##windows
+[10:07.36] * daynaskully (~digifiv5e@unaffiliated/daynaskully) Quit (Ping timeout: 246 seconds)
+[10:08.27] * sikio (~sikio@unaffiliated/sikio) Quit (Quit: WeeChat 0.4.2)
+[10:08.43] * pcdoctor2 (~pcdoctor2@76-192-149-36.lightspeed.gdrpmi.sbcglobal.net) Quit ()
+[10:10.00] * benzhninja (~benzhninj@unaffiliated/benzhninja) has joined channel ##windows
+[10:12.02] * MasterShake_ (~MasterSha@cpe-74-71-137-173.nyc.res.rr.com) has joined channel ##windows
+[10:12.07] * Algernop (~Algernop@unaffiliated/algernop) Quit (Read error: Connection reset by peer)
+[10:12.34] * Algernop (~Algernop@unaffiliated/algernop) has joined channel ##windows
+[10:15.43] * MasterShake (~MasterSha@unaffiliated/mastershake) Quit (Ping timeout: 244 seconds)
+[10:15.58] * dtk (~dtk@105.154.78.8) Quit (Remote host closed the connection)
+[10:16.03] * Austneal (6bc935b3@gateway/web/freenode/ip.107.201.53.179) has joined channel ##windows
+[10:16.19] <Austneal> I'm trying to paste an HTML table into Excel, and ignore blanks... Is there any easy way to do this?
+[10:16.47] * Aldem (~Aldem@unaffiliated/aldem) Quit (Quit: Leaving)
+[10:16.59] <Rainb> parse it
+[10:17.11] <Rainb> but that's not easy tho
+[10:17.14] <Rainb> nevermind
+[10:17.33] * line (~linerror@24-155-193-44.dyn.grandenetworks.net) has joined channel ##windows
+[10:18.29] <Austneal> I'm in control of the HTML output, if that helps
+[10:18.53] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[10:19.06] * linerror (~linerror@24-155-193-44.dyn.grandenetworks.net) Quit (Ping timeout: 246 seconds)
+[10:19.07] * line is now known as linerror
+[10:19.23] <Austneal> Rainb parse it with a macro?
+[10:19.25] * kruug (~kruug@unaffiliated/kruug) Quit (Ping timeout: 255 seconds)
+[10:19.58] <Rainb> wait
+[10:20.06] <Rainb> what
+[10:20.16] <Rainb> what do you mean you have the control of the output
+[10:20.19] <Rainb> so like
+[10:20.22] * benzhninja (~benzhninj@unaffiliated/benzhninja) Quit (Ping timeout: 244 seconds)
+[10:20.28] <Rainb> you know the program that generates the html
+[10:20.34] <Austneal> Correct
+[10:20.53] <Rainb> so maybe you can just serialize that object the program has in runtime so excel can get it in an easier way
+[10:20.54] <Rainb> so
+[10:20.59] <Rainb> don't use html
+[10:21.01] <Rainb> lol
+[10:21.07] <Austneal> I dont have a choice
+[10:21.16] <Austneal> :/
+[10:21.32] <Rainb> if your purpose is to convert data to an excell table
+[10:21.37] <Rainb> you can avoid using a html
+[10:21.37] <drale> ignore blank what... spaces on the edge of words? blank rows?
+[10:21.48] <Austneal> Ignore blank cells
+[10:21.50] * Deihmos_ (~Deihmos@ool-44c6863f.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[10:22.02] <drale> what if some cells are in the middle of a row
+[10:22.03] <Austneal> Like... if the cell is blank, dont override what's already in the cell with nothingness
+[10:22.08] <drale> oh
+[10:22.50] <Austneal> There's a "Skip Blanks" option in excel, but it doesnt work with an HTML table in the clipboard
+[10:23.25] <Austneal> and it just seems silly to paste the table into a blank worksheet, just to re-copy and paste it again :/
+[10:23.28] <mek42> I want to move data from my Windows 7 machine to a USB hard drive connected to my router that I will later read from a Linux machine I hope to get built this weekend.  Am I better doing a straight copy or to use a backup software?  If I make a full system backup, would I be able to restore to a virtual machine?
+[10:23.38] <drale> thats what i was about to say, repasting it from a new
+[10:23.42] * Deihmos_ (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[10:25.20] * dino82 (~deeno@unaffiliated/dino82) Quit (Ping timeout: 240 seconds)
+[10:25.46] * sussman (~sussman@177.40.31.126) Quit (Changing host)
+[10:25.46] * sussman (~sussman@unaffiliated/andybotwin) has joined channel ##windows
+[10:25.49] <Austneal> This seems like such a simple problem, but I've been stumped for hours >.<
+[10:26.10] * sussman (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[10:26.34] * AndyBotwin (~sussman@unaffiliated/andybotwin) has joined channel ##windows
+[10:26.56] * user123321 (~user@112.134.200.101) has joined channel ##windows
+[10:27.02] * user123321 (~user@112.134.200.101) Quit (Read error: Connection reset by peer)
+[10:27.09] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Read error: Connection reset by peer)
+[10:27.11] * antons (~antons@199.48.121.14) has joined channel ##windows
+[10:27.36] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) Quit (Ping timeout: 244 seconds)
+[10:27.42] * jennie (ae5bb63c@gateway/web/freenode/ip.174.91.182.60) has joined channel ##windows
+[10:27.48] * cobiashi1 (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) Quit (Quit: cobiashi1)
+[10:28.07] * Deihmos_ (~Deihmos@ool-44c6863f.dyn.optonline.net) Quit (Ping timeout: 244 seconds)
+[10:28.40] * Guest52797 (~digifiv5e@24.215.112.177) Quit (Changing host)
+[10:28.40] * Guest52797 (~digifiv5e@unaffiliated/daynaskully) has joined channel ##windows
+[10:28.43] <jennie> so I have just installed Windows 8.1 in my desktop in brand new SSD 120gb and i got Blue screen of death on it, system_ exception or something :S
+[10:28.46] * Guest52797 is now known as daynaskully

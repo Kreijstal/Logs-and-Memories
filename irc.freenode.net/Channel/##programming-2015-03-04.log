@@ -1,0 +1,635 @@
+Session Start: Wed Mar 04 08:22:20 2015
+Session Ident: ##programming
+[08:22.20] * You have joined ##programming
+[08:22.20] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[08:22.20] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[08:22.20] Channel modes for ##programming are :+cntf ##overflow
+[08:22.20] Channel Created on: 5:23 AM 2/4/2007
+[08:22.41] <insidious15> ayy
+[08:22.45] <IRIXuser> i wonder if folk still start learning pascal these days
+[08:22.57] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:23.08] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[08:23.46] <vdamewood> I don't think anyone has started learning pascal since 1995.
+[08:24.14] <IRIXuser> i'm almost tempted to as a - well, learning exercise
+[08:24.14] <vdamewood> And no one has finished learning pascal since 1996.
+[08:24.22] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[08:25.30] <koollman> vdamewood: I'm fairly sure it's been used in many schools after that. education often lags behind the real world, especially in IT
+[08:25.35] * Jellysnake (~jellysnak@138.44.64.25) Quit (Ping timeout: 255 seconds)
+[08:26.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[08:26.05] * l0rdn1x (~l0rdn1x@unaffiliated/l0rdn1x) Quit (Quit: o()xxxx[{::::LINUX::::>)
+[08:26.18] * profess (~profess__@unaffiliated/csddesk) has joined channel ##programming
+[08:26.21] <vdamewood> koollman: The joke still stands.
+[08:26.54] <IRIXuser> one thing is for sure, it'd be prudent for me to familiarise myself more broadly insteaf of rigidly sticking to C and Ksh93 (a very powerful shell which has a good deal of OOP support - classes, inheritance, etc, and is working on multithreading and multiple inheritance)
+[08:28.39] <vdamewood> I suggest Python and/or Ruby
+[08:28.48] * artemisart_ (artemisart@2a01:e35:8a78:b460:55bb:650a:342c:61f4) Quit (Read error: Connection reset by peer)
+[08:28.57] <vdamewood> Also, for Windows, there's C#.
+[08:29.17] * jgardella (~jgardella@host-vlmsa4x-174.dhcp.stevens-tech.edu) has joined channel ##programming
+[08:30.48] * Sweet_Ride (~Sweet@162.212.119.0) Quit (Ping timeout: 246 seconds)
+[08:31.08] * VBlizzard (~Anthony@cpe-74-128-247-185.swo.res.rr.com) has joined channel ##programming
+[08:31.12] * loophole (~kaita9999@123.21.64.74) has joined channel ##programming
+[08:31.13] <koollman> IRIXuser: I think it's interesting to learn about really different languages. The contrast is quite interesting usually. (one possible lisp of 'very different' languages is : lisp, haskell, erlang, python, forth, prolog)
+[08:31.33] <koollman> that is, they are quite different from classic imperative languages, and are different from each others, too
+[08:32.23] * _blizzy_ (~Anthony@cpe-74-128-247-185.swo.res.rr.com) Quit (Disconnected by services)
+[08:32.27] * VBlizzard is now known as _blizzy_
+[08:32.28] <vdamewood> koollman: s/possible lisp of/possible list of/ ?
+[08:32.30] <_W_> s/lisp/list
+[08:32.53] <koollman> well ... we all know lisp and lists go together ... but yeah, funny typo :)
+[08:33.02] <IRIXuser> one of those functional ones looks interesting, but when i inspected haskell before, looking at it burnt my brain
+[08:33.12] <IRIXuser> which probably means it'd be great for getting a new perspectvve
+[08:33.31] <vdamewood> Haskell, the other white meat
+[08:34.05] <koollman> if it doesn't blow your mind, it's probably too similar to something you know ;)
+[08:34.31] * DEA7TH (~quassel@cpc33-bmly9-2-0-cust124.2-3.cable.virginm.net) has joined channel ##programming
+[08:34.43] <koollman> in the list I gave, python is quite probably the easiest one to start with. (or you can try ruby instead)
+[08:34.51] * DEA7TH (~quassel@cpc33-bmly9-2-0-cust124.2-3.cable.virginm.net) Quit (Changing host)
+[08:34.51] * DEA7TH (~quassel@unaffiliated/dea7th) has joined channel ##programming
+[08:35.09] * jangorang (~jangorang@207.207.28.173) has joined channel ##programming
+[08:35.23] <koollman> but the nice sides of those will become more apparent if you know a bit about lisp or haskell (or functional programming at least)
+[08:35.52] <koollman> because writing C-like code in python is usually not the right way to do things
+[08:36.30] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 245 seconds)
+[08:36.35] * atrx (~atrx@ppp-171-96-167-9.revip8.asianet.co.th) has joined channel ##programming
+[08:36.38] * MetalHead77 (~MetalHead@72.27.91.233) has joined channel ##programming
+[08:36.45] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[08:37.56] * boB_K7IQ (~IceChat9@50.46.87.250) has joined channel ##programming
+[08:38.27] * cjz (~Adium@12.153.137.82) Quit (Quit: Leaving.)
+[08:38.34] * HoloIRCUser (~holoirc@rhsi-cpe02-43.rhsi.tv) has joined channel ##programming
+[08:38.47] * Xempha (~Xempha@72.27.91.233) has joined channel ##programming
+[08:38.50] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Client Quit)
+[08:39.18] <Xempha> I'm designing a database for a telecoms environment. The entities involved are Customer, Number Assigned and Call Log.
+[08:39.20] <Xempha> Customer has the following attributes: Name, DOB and Gender
+[08:39.24] <Xempha> Number Assigned has the following attributes: ID Number, telephone number, date assigned, date expired and status
+[08:39.30] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[08:39.31] <Xempha> Call Log has the following attributes: Sender, �Receiver, �Time �of �call �(seconds), �Called �Start �(Date �and �Time), �and �Call �End �(Date �and �Time)
+[08:39.32] <vdamewood> Perl might also be an interesting choice to learn about different ways to program.
+[08:39.37] <Xempha> I need some advice on what the relationship of my entities should be. I know for instance, that Customer and Number assigned should have a many to many relationship but how will Call Log interface with everything else?
+[08:39.54] * plasticle (~plasticle@2606:a000:a200:6800:1d1a:c954:eaf9:d189) has joined channel ##programming
+[08:40.53] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Client Quit)
+[08:40.54] <koollman> vdamewood: oh, right. it brings a few interesting things too, like evaluation context and implicit variables (and of course, perl6 is coming. for real, this time)
+[08:41.28] <vdamewood> I thought Perl 6 was already out, it's just not meant to replace Perl 5 (like Python 3 is meant to replace Python 2).
+[08:41.43] * LowNa (~ubuntu@24-52-207-228.cable.teksavvy.com) Quit (Remote host closed the connection)
+[08:42.11] <vdamewood> Perl 6 should be called LOL: Larry's Other Language
+[08:42.37] <ihatehex> people still use Perl?
+[08:42.37] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 256 seconds)
+[08:42.41] <ihatehex> what do they use perl for and why
+[08:42.49] <ihatehex> I thought Perl was like Cobol
+[08:42.51] <ihatehex> Outdated and evil
+[08:42.59] <_slade_> ihatehex: Nope.
+[08:43.07] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[08:43.07] <ihatehex> To which statement?
+[08:43.12] <ihatehex> That Cobol is outdated and evil, or that Perl is?
+[08:43.16] <ihatehex> Both are still in use I suppose
+[08:43.35] <_slade_> Well, Perl 5.8 is outdated and evil.
+[08:43.42] <pulse> i like it when i get paid to *remove* features
+[08:43.53] <koollman> vdamewood: there will be a 1.0 version for christmas. maybe.
+[08:43.56] <pulse> that's my definition of a cool job
+[08:44.04] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) Quit (Quit: This computer has gone to sleep)
+[08:44.06] <koollman> (and for 2015, too)
+[08:44.15] <vdamewood> koollman: Which implementation?
+[08:44.22] <_slade_> vdamewood: Rakudo on moarvm
+[08:44.26] <koollman> Larry's
+[08:44.46] <ihatehex> _slade_, what can perl do that no other programming language can do?
+[08:44.46] <koollman> ＋＋http://blogs.perl.org/users/shadowcat_mdk/2015/02/fosdem-2015-its-christmas.html，，
+[08:44.51] <ihatehex> what is the point of perl
+[08:45.08] <vdamewood> What can X do that no other language can do, is a useless question to ask.
+[08:45.14] <ihatehex> No it isn't
+[08:45.21] <ihatehex> If you're not popular you better be unique
+[08:45.24] <koollman> ihatehex: sysadmins like it
+[08:45.26] <ihatehex> Otherwise you're a nobody
+[08:45.26] <ihatehex> :P
+[08:45.29] <ihatehex> koollman, why
+[08:45.39] <_slade_> ihatehex: I haven't encountered an object system as powerful as Moose in any other language so far.
+[08:45.55] <ihatehex> define powerful
+[08:45.57] <ihatehex> :P
+[08:45.59] <stoopkid> everything can be done in assembly, so really, nothing can be done in any language that can't be done in another language
+[08:46.15] <vdamewood> ^ And that's why it's a useless question.
+[08:46.18] * chaintheory (~kaita9999@123.21.117.255) has joined channel ##programming
+[08:46.20] <ihatehex> seems moderately useful for basic scripting and editing of files
+[08:46.27] <koollman> very advanced and well integrated regex system, modules for almost everything you can think of on cpan, rather fast compared to other 'scripting' languages
+[08:46.29] * DogPolice looks at the conversation.
+[08:46.37] <koollman> ihatehex: not 'basic'
+[08:46.56] <ihatehex> basic in the sense that it's stuff I could do normally, but could automate with perl
+[08:47.01] <koollman> (note: I am a sysadmin, and do write or read perl rather often)
+[08:47.16] * loophole (~kaita9999@123.21.64.74) Quit (Read error: Connection reset by peer)
+[08:47.40] <koollman> I prefer python ... but perl is common enough that I have to know it to do my job correctly
+[08:47.48] * kaita1992 (~kaita9999@123.21.64.74) has joined channel ##programming
+[08:47.54] <ihatehex> Is python even remotely as easy to operate as perl is?
+[08:48.05] <ihatehex> I'm looking at syntax and it looks like it's way easier to hack together a script in perl
+[08:48.21] <koollman> hm. that's probably fairly subjective
+[08:48.21] <stoopkid> ihatehex: yes they're pretty much equally easy, i've used both
+[08:48.30] <ihatehex> I've used python too, but never for stuff like that
+[08:48.37] <ihatehex> never really had a valid reason to
+[08:48.40] <koollman> but I think python is easier to start with, and I write more easily in it
+[08:48.48] <ihatehex> perl is an interpreted language then?
+[08:48.55] <stoopkid> ihatehex: yea
+[08:49.02] <ihatehex> but it's dynamic
+[08:49.04] <ihatehex> so it's evil
+[08:49.13] <koollman> and perl can get ... rather obscure, to me. and to most of the world (some will mention it looks like linenoise)
+[08:49.23] <ihatehex> show me some linenoise
+[08:49.44] * Matthew_ (~Matthewrb@wikimedia/matthewrbowker) has joined channel ##programming
+[08:49.49] <koollman> it's a common perl joke
+[08:50.46] <vdamewood> One thing that Perl does that I haven't seen another language do is integrate regular expressions and pattern matching into the language syntax. Everything else seems to make some sort of class in the existing object system.
+[08:50.51] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) has joined channel ##programming
+[08:50.56] <koollman> it's not really true. you can write obfuscated code in many languages. perl just really helps you ;)
+[08:51.14] * chaintheory (~kaita9999@123.21.117.255) Quit (Ping timeout: 255 seconds)
+[08:51.15] <ihatehex> I alternate between using three, six, and twelve spaces for indentations
+[08:51.19] <ihatehex> depending on time of day
+[08:51.22] <ihatehex> this is good practice yes?
+[08:51.23] <ihatehex> :D
+[08:51.37] <vdamewood> ihatehex: If not for the 12, I'd say you were the Sudoku indenter
+[08:51.49] <koollman> vdamewood: the scalar/list context difference is uncommon enough, too
+[08:52.03] <ihatehex> koollman, I'm looking at a weird perl example which says you can send emails with it
+[08:52.09] <ihatehex> Wouldn't you need to set up passwords etc to send emails?
+[08:52.09] <ihatehex> s:
+[08:52.21] <ihatehex> ＋＋http://learn.perl.org/examples/email.html，， <- how would this work, doesn't seem to make sense
+[08:52.23] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) Quit (Ping timeout: 265 seconds)
+[08:53.20] <vdamewood> It makes perfect sense to me.
+[08:53.25] <_slade_> And the wonderful thing about modules is you don't need to know how they work.
+[08:53.29] <koollman> ihatehex: you do not need passwords to send emails. most unix systems (and linux) have a mail transfer agent
+[08:53.41] <vdamewood> You just have to have a configured and running MTA.
+[08:53.47] <ihatehex> I don't even know what a mail transfer agent is
+[08:53.47] <ihatehex> :(
+[08:54.18] <koollman> so you probably need to know much more about what 'sending email' means
+[08:54.47] <vdamewood> I wonder if I can send email between my Linux and OpenBSD systems.
+[08:55.07] <vdamewood> Oh, nope. I don't have MX records for them.
+[08:55.10] <koollman> vdamewood: I really do not see why you wouldn't be able to do that
+[08:55.19] <koollman> A records are sufficient
+[08:55.33] <vdamewood> Hmm... I'll have to try it then.
+[08:56.01] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) has joined channel ##programming
+[08:56.02] * HoloIRCUser (~holoirc@rhsi-cpe02-43.rhsi.tv) Quit (Remote host closed the connection)
+[08:56.03] <ihatehex> I am position 112/176846 typers in the last 24 hours at 10fastfingers
+[08:56.04] <ihatehex> :O
+[08:56.07] <ihatehex> it's ok
+[08:56.37] <vdamewood> Well, the real reason I can't, right now, is that the OpenBSD VM isn't running. :)
+[08:56.52] * ebz (~ebz@136.173.151.77.rev.sfr.net) Quit (Remote host closed the connection)
+[08:57.29] <koollman> vdamewood: you still can. smtp is nice like that :)
+[08:57.40] <ihatehex> I'm still on average 150, god damn it
+[08:57.44] <ihatehex> I blame their stupid 2 lines at a time
+[08:57.47] <ihatehex> I could hit 160 if I could see 3
+[08:57.51] <vdamewood> koollman: The sender will just queue it until the receiver comes up?
+[08:57.51] * `Eddie (~dedword@95.142.88.209) has joined channel ##programming
+[08:57.51] * `Eddie (~dedword@95.142.88.209) Quit (Changing host)
+[08:57.51] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[08:58.05] <koollman> vdamewood: yes. for a while, usually many days
+[08:58.14] * peterz94 (~peterz94@172.56.7.138) has joined channel ##programming
+[08:58.39] <koollman> (varies with your smtp server configuration)
+[08:59.09] * Ecauu (~Ecauu@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[08:59.10] <ihatehex> I am apparently the fastest Norwegian typist on this page
+[08:59.11] <ihatehex> woot
+[08:59.12] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) Quit (Client Quit)
+[09:00.07] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:01.27] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[09:01.38] <Rainb> hey
+[09:01.40] <Rainb> so uhm
+[09:01.49] <Rainb> how does rooting a phone actually work
+[09:02.01] <Rainb> There are probably different ways of how it works
+[09:02.21] <plzburger> cd /
+[09:02.22] <Rainb> but does someone knows how some way of rooting has worked
+[09:02.32] <Rainb> lol..
+[09:02.37] <vdamewood> This is weird. I thought I converted this C function to a C++ function.
+[09:02.37] <plzburger> indeed.
+[09:02.47] * matp_ (~matp@mail.matp.at) has joined channel ##programming
+[09:02.55] <plzburger> vdamewood: you've only incremented it by one.
+[09:02.56] <Rainb> When I mean rooting, I mean accessing root on an android device.
+[09:03.03] <plzburger> ls /
+[09:03.08] * Ecauu (~Ecauu@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:03.10] <Rainb> lol
+[09:03.23] <Rainb> uhmm
+[09:03.28] <plzburger> ponies¿
+[09:03.32] <Rainb> Getting root access?
+[09:03.44] <plzburger> you already have it.
+[09:03.50] <koollman> (root privilege)
+[09:03.53] <plzburger> ^
+[09:04.06] <Rainb> Check ur privilege m8
+[09:04.22] * matp (~matp@mail.matp.at) Quit (Ping timeout: 245 seconds)
+[09:04.23] <plzburger> [root@box plzburger]#
+[09:04.33] * profess_ (~profess@unaffiliated/csddesk) has joined channel ##programming
+[09:04.40] <Rainb> Whatever, how does getting root permissions work
+[09:04.56] <plzburger> simple. you get to use the root user/superuser
+[09:04.58] * profess (~profess__@unaffiliated/csddesk) Quit (Quit: Leaving)
+[09:04.59] * profess_ is now known as profess
+[09:05.07] <Rainb> How do you do that?
+[09:05.24] <plzburger> simple. you get the password, and then you log in with root + password
+[09:05.32] <_slade_> Rainb: depends on the device
+[09:05.36] <Rainb> so, rooters, are just crackers?
+[09:05.52] <Rainb> like they crack up the password?
+[09:05.53] <plzburger> hackers.
+[09:06.01] <plzburger> they try to find a way around the password
+[09:06.05] <koollman> you may want to ignore plzburger answers on this question, the sarcasm is strong there :)
+[09:06.05] * ccnp (~ccnp@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[09:06.11] <plzburger> orly? o.o
+[09:06.12] --Dr-G-- logged in with account (Dr-G)
+[09:06.56] <koollman> plzburger: go write some lolcode ;)
+[09:07.04] * peterz94 (~peterz94@172.56.7.138) Quit (Quit: Mango IRC for iOS and OS X, ＋＋http://mediaware.sk/mango，，)
+[09:07.05] <Rainb> Well, that wouldn't make much sense
+[09:07.11] * plzburger buffer overflows koollman and takes advantage of his fonset to display useless text in a certain window upon his screen
+[09:07.16] * SOLIDPIZZA (~snake@unaffiliated/snake/x-2550465) has joined channel ##programming
+[09:07.17] * ccnp (~ccnp@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:07.23] <plzburger> fontset*
+[09:07.27] <Rainb> like if you already know default root password, some app could just shit everything up
+[09:07.32] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[09:07.34] <plzburger> there is no default
+[09:07.37] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:07.39] <Rainb> Soo, how does rooting work?
+[09:07.44] <Rainb> Exactly?
+[09:07.47] * ManikM (~quassel@14.139.122.114) has joined channel ##programming
+[09:07.48] <plzburger> it depends.
+[09:07.55] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##programming
+[09:07.58] <plzburger> but the end result is that you get access to use the root account
+[09:08.01] * Faylite (~Faylite@48-137-212.connect.netcom.no) Quit (Read error: Connection reset by peer)
+[09:08.02] <Rainb> Duh
+[09:08.14] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[09:08.15] <koollman> Rainb: typical ways : rewriting part of the files used to boot the phone, to make sure you have a program that can give you root privilege after reboot
+[09:08.27] * Faylite (~Faylite@48-137-212.connect.netcom.no) has joined channel ##programming
+[09:08.27] --Faylite-- logged in with account (Faylite)
+[09:08.35] * kreiGT (~kreig@190.148.70.213) has joined channel ##programming
+[09:08.37] <koollman> or on some versions, using security flaws to get that privilege
+[09:08.45] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:08.53] <plzburger> or derp the bootloader
+[09:09.06] <koollman> (but on many android version, flashing with specific 'root-giving' programs is the common way)
+[09:10.09] <Rainb> Oh okay, I get the gist of it.
+[09:10.19] <plzburger> Rainb: think of it like breaking into a guarded house
+[09:10.21] <Rainb> Can't be bothered to read linux code.
+[09:10.23] <plzburger> you have to get creative.
+[09:10.29] <plzburger> and find the flaws
+[09:10.46] <Rainb> I get that.
+[09:10.47] <koollman> plzburger: well ... no. 'jailbreak' on an iphone might look like that
+[09:11.02] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[09:11.16] * Ogpu (~Ogpu@105.157.218.247) has joined channel ##programming
+[09:11.40] <koollman> on android (except for very recent versions where I think there are some protections), it's basically just saying "oh, by the way, next time you can update yourself with this file. it will give me root privilege"
+[09:11.54] * Ogpu (~Ogpu@105.157.218.247) Quit (Excess Flood)
+[09:11.55] <SOLIDPIZZA> I think I had to rewrite a different OS to my phone to get root
+[09:11.55] <plzburger> orly
+[09:12.11] <SOLIDPIZZA> or image I mean
+[09:12.14] * haliax (~haliax@201.153.216.155) has joined channel ##programming
+[09:12.14] --haliax-- logged in with account (hamsterslayer)
+[09:12.14] * haliax (~haliax@201.153.216.155) Quit (Changing host)
+[09:12.14] * haliax (~haliax@unaffiliated/hamsterslayer) has joined channel ##programming
+[09:12.15] * Tow (~Tow@105.157.218.247) has joined channel ##programming
+[09:12.17] * Champloo (~champloo@75.108.48.182) Quit (Ping timeout: 252 seconds)
+[09:12.17] <koollman> plzburger: ya rly
+[09:12.20] <plzburger> ORLY
+[09:12.24] <Rainb> I know what rooting is tho, I just wanted to get into the specifics, but yeah, ty.
+[09:12.34] <plzburger> i think it applies to both equally
+[09:12.46] <SOLIDPIZZA> it's still android. I couldn't get wifi on my phone's typical sgi777 so I needed i9840 or something vaguely like that
+[09:12.48] <Rainb> I think apple is way more restrictive tho
+[09:13.10] * Matthew_ (~Matthewrb@wikimedia/matthewrbowker) Quit (Quit: Matthew_)
+[09:13.32] * Rlfa (~Rlfa@105.157.218.247) has joined channel ##programming
+[09:14.53] <koollman> plzburger: when the firmware upgrade part is built into the phone, I'm not sure it's equivalent to breaking into a guarded house
+[09:15.11] <plzburger> it still is
+[09:15.15] --Dr-G-- logged in with account (Dr-G)
+[09:15.19] * fisix_ (~fisix@ip-24-140-242-162.user.start.ca) has joined channel ##programming
+[09:15.20] <plzburger> you're just rewriting the house
+[09:15.25] <plzburger> derp~
+[09:15.34] * agorecki_ (~agorecki@unaffiliated/agorecki) has joined channel ##programming
+[09:15.51] <koollman> nope. just adding what you want to it
+[09:16.01] <koollman> you do not have to overwrite the existing system
+[09:16.02] <plzburger> to unlock the doors?
+[09:16.15] <SOLIDPIZZA> how is it like breaking into a guarded house? it's not like android says you're not allowed to root their os, and samsung never says "you're not allowed to root your phone"
+[09:16.25] <vdamewood> My house came with locks on the doors that I don't have keys to, so I just replaced the locks.
+[09:16.27] <plzburger> here, guard, halp me bring this [emp device] into thar...
+[09:16.31] <Rainb> so, also.
+[09:16.39] <_slade_> well, it's illegal in several countries
+[09:16.49] <SOLIDPIZZA> rooting?
+[09:16.53] <_slade_> yup
+[09:16.58] <plzburger> SOLIDPIZZA: most phones have locked bootloaders
+[09:16.59] <koollman> _slade_: On which basis ?
+[09:16.59] <SOLIDPIZZA> huh, interesting.
+[09:17.11] * Tow (~Tow@105.157.218.247) Quit (Ping timeout: 264 seconds)
+[09:17.11] * Henke37 (~Henrik@2001:2002:4e48:8217:51f8:8ce5:ab96:cf87) Quit (Read error: Connection reset by peer)
+[09:17.13] * scripore (~scripore@cpe-68-173-136-64.nyc.res.rr.com) Quit (Quit: This computer has gone to sleep)
+[09:17.14] <vdamewood> There was a period of time when it was illegal in the US, due to copyright law.
+[09:17.42] * freecoder (~freecoder@103.225.100.51) has joined channel ##programming
+[09:17.51] <Rainb> Why exactly you need to get the right root software for your manufacturer's device, like I can't or shouldn't root a nexus with a root made for samsung, isn't it still linux anyway, or even then versions change a lot or what
+[09:18.07] <plzburger> Rainb: specific exploits for specific flaws
+[09:18.14] <koollman> vdamewood: what does it have to do with copyright law ?
+[09:18.28] --Cyp___-- logged in with account (Cyp_)
+[09:18.35] * Matthew_ (~Matthewrb@wikimedia/matthewrbowker) has joined channel ##programming
+[09:18.39] * haliax (~haliax@unaffiliated/hamsterslayer) Quit (Quit: WeeChat 1.1.1)
+[09:18.46] <SOLIDPIZZA> I believe you are authorized to do anything to your phone if you own it and it doesn't hurt anyone else or their property.
+[09:18.54] <_slade_> koollman: ＋＋https://www.eff.org/is-it-illegal-to-unlock-a-phone，，
+[09:19.16] <vdamewood> koollman: I think the interpretation was that it was making a derivative work without a license.
+[09:19.21] * DolpheenDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[09:19.36] <_slade_> The legality debate is still an ongoing thing in the US, unfortunately.
+[09:19.42] * Cheery_ (~cheery@boxbase.org) has joined channel ##programming
+[09:20.09] * justanot1eruser (~Justan@unaffiliated/justanotheruser) has joined channel ##programming
+[09:20.11] * aidanh_ (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[09:20.11] --EtherNet--- logged out of account
+[09:20.11] --EtherNet--- logged in with account (EtherNet-)
+[09:20.14] <SOLIDPIZZA> _slade_: I didn't even know that was a debate in the US. what do you think about it?
+[09:20.15] * druidd (~lindsey@cpe-174-097-244-077.nc.res.rr.com) has joined channel ##programming
+[09:20.16] <koollman> _slade_: that's unlock (ability to use different carrier). not gaining root access.
+[09:20.21] * _Atom_ (~jawat@172.56.33.11) Quit (Ping timeout: 240 seconds)
+[09:20.31] * nForce_ (~nforce@arch.bloemendal.me) has joined channel ##programming
+[09:20.34] --CookieJar-- logged in with account (CookieJar)
+[09:20.37] --jv___-- logged in with account (jv)
+[09:20.53] <SOLIDPIZZA> oh
+[09:20.58] * profess_ (~profess@unaffiliated/csddesk) has joined channel ##programming
+[09:21.11] <Rainb> plzburger: How is every manufacturer android specific to it, like why can't it work for all of them
+[09:21.15] * Rlfa (~Rlfa@105.157.218.247) Quit (Remote host closed the connection)
+[09:21.21] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 250 seconds)
+[09:21.21] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Ping timeout: 250 seconds)
+[09:21.21] * Cheery (~cheery@boxbase.org) Quit (Ping timeout: 250 seconds)
+[09:21.21] * profess (~profess@unaffiliated/csddesk) Quit (Ping timeout: 250 seconds)
+[09:21.21] * nForce (~nforce@arch.bloemendal.me) Quit (Ping timeout: 250 seconds)
+[09:21.21] * jjhurt5 (~jjhurt5@184.63.31.183) Quit (Ping timeout: 250 seconds)
+[09:21.21] * crayon (~user@unaffiliated/button) Quit (Ping timeout: 250 seconds)
+[09:21.21] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 250 seconds)
+[09:21.21] * chicoenslips (~cerditofa@35.Red-88-26-116.staticIP.rima-tde.net) Quit (Ping timeout: 250 seconds)
+[09:21.21] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Ping timeout: 250 seconds)
+[09:21.21] * fisix (~fisix@ip-24-140-242-162.user.start.ca) Quit (Ping timeout: 250 seconds)
+[09:21.21] * agorecki (~agorecki@unaffiliated/agorecki) Quit (Ping timeout: 250 seconds)
+[09:21.22] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 250 seconds)
+[09:21.22] * turbn (~nevzets@ip51cc146b.speed.planet.nl) Quit (Ping timeout: 250 seconds)
+[09:21.22] * misterpink (~misterpin@ool-44c527c3.dyn.optonline.net) Quit (Ping timeout: 250 seconds)
+[09:21.22] * timemage (~timemage@unaffiliated/timemage) Quit (Ping timeout: 250 seconds)
+[09:21.22] * nezZario (~nez@unaffiliated/nezzario) Quit (Ping timeout: 250 seconds)
+[09:21.22] * shaunoo (~shauno@irc.elements.net.nz) Quit (Ping timeout: 250 seconds)
+[09:21.22] * nezZario (~nez@104.156.227.55) has joined channel ##programming
+[09:21.22] * DolpheenDream is now known as DolphinDream
+[09:21.22] * aidanh_ is now known as aidanh
+[09:21.22] --ngc0202-- logged in with account (ngc0202)
+[09:21.22] --ljhms-- logged in with account (ljhms)
+[09:21.24] * profess_ is now known as profess
+[09:21.26] <koollman> _slade_: specifically, they asked for exemption and have them. And it would be at best on rather unstable legal ground to sue for it
+[09:21.27] * f03lipe_ (~f03lipe@189.122.208.96) has joined channel ##programming
+[09:21.29] <plzburger> because they have their own hardware and bootloadersa
+[09:21.29] <Rainb> netsplit?
+[09:21.37] * misterpink (~misterpin@ool-44c527c3.dyn.optonline.net) has joined channel ##programming
+[09:21.37] * hanshenrik (~hanshenri@ti0016a400-1081.bb.online.no) Quit (Ping timeout: 264 seconds)
+[09:21.48] * Korhonen (~nevzets@ip51cc146b.speed.planet.nl) has joined channel ##programming
+[09:21.50] <RustyShackleford> Rainb: nah, you're scaring everyone away
+[09:21.51] * nezZario is now known as Guest90809
+[09:21.52] <plzburger> it's not really hacking "android" but hacking the phone bootloader
+[09:22.00] * pag (~pag@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[09:22.06] --gobostone-- logged in with account (gobostone)
+[09:22.08] <pulse> i would suppose that the OEM's software is optimized for whatever smartphone
+[09:22.08] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[09:22.13] <pulse> i don't see the point in rooting at all
+[09:22.13] * _slade_ reading more
+[09:22.14] <Rainb> RustyShackleford: nice
+[09:22.25] <Rainb> pulse: Changing language.
+[09:22.28] <Rainb> REALLY
+[09:22.29] <SOLIDPIZZA> plzburger: even if the bootloader is locked, that could just be for general security, am I right?
+[09:22.30] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) has joined channel ##programming
+[09:22.32] <Rainb> FOR SOME REASON
+[09:22.39] * pag (~pag@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:22.43] <SOLIDPIZZA> yeah, I need root to add chinese to my phone lol
+[09:22.43] <pulse> Rainb, wut :P
+[09:22.49] <Rainb> Can't change language, it's supposed to have all languages
+[09:22.50] <pulse> really? damn :P
+[09:22.53] <plzburger> SOLIDPIZZA: if the bootloader was unlocked, you could say there's no security at all.
+[09:22.55] <_slade_> Apparently there's a bunch of different DMCA exemptions
+[09:22.55] * woql (~woql@105.157.218.247) has joined channel ##programming
+[09:23.10] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) Quit (Quit: Leaving)
+[09:23.15] <Rainb> pulse: Now you have a reason.
+[09:23.17] <SOLIDPIZZA> I have a few languages that came with my phone, but not chinese!
+[09:23.18] <Rainb> lol
+[09:23.22] <koollman> pulse: the main point for me was removing crappy software 'packaged' (badly) by the carrier/vendor
+[09:23.28] <pulse> Rainb, but i don't know chinese
+[09:23.32] * shaunoo (~shauno@irc.elements.net.nz) has joined channel ##programming
+[09:23.36] <Rainb> l-learn
+[09:23.37] <Rainb> jk
+[09:23.44] <pulse> koollman, i guess that makes sense, but you can remove some of the bloat anyway
+[09:23.53] * aoeu (4a38393b@gateway/web/freenode/ip.74.56.57.59) Quit (Ping timeout: 246 seconds)
+[09:23.55] <pulse> not all of it sure
+[09:24.36] <pulse> i wish smartphones had batteries that lasted for 2 weeks or more
+[09:24.37] <koollman> "oh, you do not want the standard android interface, but ours which is better" "err ... no. google devs are better than yours, thanks" :)
+[09:24.50] <pulse> the battery is about the only thing the dumbphone does better at this point
+[09:24.53] <Rainb> plzburger: Okay, right they have their own hardware, but isn't the OS the same, and the root is on the os, not on the hardware
+[09:25.08] * Apzld (~Apzld@105.157.218.247) has joined channel ##programming
+[09:25.14] <RustyShackleford> yeah i do wish i could have stock android on my S5
+[09:25.29] <RustyShackleford> Samsung really screwed the pooch with their Lollipop UI
+[09:25.43] <koollman> and, yeah, problem now solved by getting a nexus phone, and flashing stock android on it. no root needed anymore
+[09:25.44] <Rainb> Changing Ui's
+[09:25.45] <plzburger> Rainb: but you need to find a way to squeeze that root in.
+[09:26.01] <SOLIDPIZZA> for my battery: I have an extra, and I charge it by using the socket-mounted charger
+[09:26.03] <pulse> i like the lollipop ui
+[09:26.19] <pulse> it's not bad at all
+[09:26.21] <RustyShackleford> pulse: Samsung's take on the lollipop UI?
+[09:26.29] <pulse> sure
+[09:26.30] * DogPolice (~RJones@unaffiliated/rjones) Quit (Ping timeout: 245 seconds)
+[09:26.36] <RustyShackleford> i've seen lollipop on a nexus 7 and i think it's much nicer
+[09:26.44] <pulse> in what way exactly :D
+[09:26.51] <RustyShackleford> without samsung's "improvements"
+[09:26.51] * Matthew_ (~Matthewrb@wikimedia/matthewrbowker) Quit (Quit: Matthew_)
+[09:26.55] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 245 seconds)
+[09:26.57] <Rainb> Also, what if I have an android phone from an unknown manufacturer, what would be a safe way to root it, aside from reverse engineer the phone
+[09:26.59] <pulse> eh, i don't mind those
+[09:27.05] <RustyShackleford> uh, the notification screen is butt ugly IMO
+[09:27.14] <pulse> on a quad core phone with 2 gigs of ram i don't care if some extra bloatware is running
+[09:27.16] <RustyShackleford> and the unlock screen was better before
+[09:27.21] * woql (~woql@105.157.218.247) Quit (Ping timeout: 240 seconds)
+[09:27.24] <pulse> eh, those are minor things
+[09:27.34] <RustyShackleford> well they bug me haha
+[09:27.41] * justanot1eruser is now known as justanotheruser
+[09:27.45] <pulse> i have the s5 active, i think it's pretty damn awesome
+[09:27.58] <RustyShackleford> well i'm just nitpicking, i do love this phone
+[09:28.02] <pulse> :D
+[09:28.18] <RustyShackleford> is the task switcher noticably slower for you?
+[09:28.27] <pulse> not really
+[09:28.32] --brimstone-- logged in with account (brimstone)
+[09:28.33] <pulse> i'm amazed at how freakin fast this thing is
+[09:28.38] <pulse> i'm used to android lagging a lot
+[09:28.44] <koollman> I wonder when will battery technology jump to something usable. (I guess not just technology, but price, too)
+[09:29.07] <RustyShackleford> pulse: for me it can be kinda slow if i open the task switcher for the first time in a while
+[09:29.16] * nitrxgen_ (~nitrxgen@cpc10-lewi14-2-0-cust836.2-4.cable.virginm.net) has joined channel ##programming
+[09:29.16] * nitrxgen (~nitrxgen@cpc10-lewi14-2-0-cust836.2-4.cable.virginm.net) Quit (Disconnected by services)
+[09:29.16] --nitrxgen_-- logged in with account (Nitrxgen)
+[09:29.24] <RustyShackleford> does android use swap space?
+[09:29.27] <pulse> koollman, when michio kaku gives us nano batteries
+[09:29.36] <RustyShackleford> after i open it once, i can reopen it quickly
+[09:29.40] <pulse> RustyShackleford, no idea
+[09:30.09] * Apzld (~Apzld@105.157.218.247) Quit (Remote host closed the connection)
+[09:31.31] <vdamewood> Oops... I forgot that in CMake on OS X, UNIX is true.
+[09:31.50] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[09:32.16] <RustyShackleford> do you guys use a laptop or a desktop? both maybe?
+[09:32.26] * Jellysnake (~jellysnak@138.44.64.25) has joined channel ##programming
+[09:32.28] * BustyLoli-Chan (HydraIRC@wads-5-239-148.resnet.mtu.edu) Quit (Read error: Connection reset by peer)
+[09:32.31] <PlanckWalk> Usually desktop
+[09:33.11] <pulse> desktop
+[09:33.13] <PlanckWalk> Laptop multi-monitor support typically sucks, need extra keyboard & mouse to use it without cursing, etc
+[09:33.23] <RustyShackleford> i put windows 10 on my desktop and some things are fudged up. I've been lazy to fix it and I just use my laptop for everything now
+[09:33.31] <ihatehex> I can't break my ~150 average
+[09:33.34] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Remote host closed the connection)
+[09:33.38] <ihatehex> Think I need a different keyboard for it
+[09:33.50] <pulse> in the beginning, using desktop was kind of elite because rarely did people even have PCs
+[09:34.08] <pulse> years later, using desktop is kind of elite because most people are using either laptops or tablets :D
+[09:34.15] <PlanckWalk> Heh yeah
+[09:34.19] <RustyShackleford> jerryrigged laptop docking station: usb dock and hdmi cord to my TV. I get sound, keyboard and mouse with two cables
+[09:34.25] * Panicky (~user@31.205.26.31) Quit (Remote host closed the connection)
+[09:34.27] <pulse> there was this in-between period when everyone had desktops
+[09:34.33] <pulse> because laptops were thrice the price
+[09:34.45] <RustyShackleford> well they're still more expensive
+[09:34.59] <pulse> well, yeah
+[09:35.06] <pulse> but you can get a new laptop pretty cheap nowadays
+[09:35.09] <PlanckWalk> I can't stand most laptop keyboards and screens though.  So a laptop ends up just being a smaller, less powerful and more expensive desktop mostly.
+[09:35.20] <pulse> i can't stand the lack of mouse
+[09:35.21] * xsup (~xsup@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[09:35.22] <pulse> personally
+[09:35.31] <pulse> touchpad only gets you so far
+[09:35.44] <PlanckWalk> Oh yeah, have to have external mouse
+[09:35.48] * vdamewood loves Apple touchpads.
+[09:35.50] <pulse> i mean i know you can attach a mouse
+[09:35.57] <pulse> but the whole idea of a laptop is to be able to open it anywhere
+[09:36.02] <pulse> and most places just aren't suited for a mouse
+[09:36.05] <pulse> you need a table
+[09:36.12] <pulse> so if you have a table, why not have a desktop PC to start with
+[09:36.19] <RustyShackleford> PlanckWalk: i sorta enjoy being able to unplug it and have all my stuff with me
+[09:36.26] --misterpink-- logged in with account (misterpink)
+[09:36.34] <koollman> I have a laptop to travel, desktop at home and work, and now a chromebook to use whenever I'm not sitting near a desktop
+[09:36.45] <RustyShackleford> but yes, it spends most of the time on my desk, with a monitor, keyboard, and mouse
+[09:36.45] <PlanckWalk> That's useful, but it ends up being "unplug everything"
+[09:37.25] <koollman> (the chromebook part started as an experiment on 'would very cheap hardware still be useful'. the answer is yes, very useful)
+[09:37.25] <RustyShackleford> anyway, maybe I should stop being lazy and install a working OS on my desktop
+[09:37.50] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) has joined channel ##programming
+[09:37.56] <PlanckWalk> I do have a laptop, I just find that I almost never use it.
+[09:38.08] * jezzy (~jezzy@187-176-7-225.static.axtel.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[09:38.12] <koollman> PlanckWalk: but why ?
+[09:38.18] <PlanckWalk> I tried a tablet once and absolutely hated it for the things I usually do.
+[09:38.49] * mrcheeks (~user@CPE0c473de64fd1-CM0c473de64fd0.cpe.net.cable.rogers.com) has joined channel ##programming
+[09:38.50] <PlanckWalk> koollman: I mostly travel between work and home.  I have desktops at both ends 9and different tasks and data anyway)
+[09:38.55] <vdamewood> RustyShackleford: To answer your question that started this, I use a laptop, and I don't even have a desktop right now.
+[09:39.14] <PlanckWalk> The last time I used a laptop was for travel to another state, which doesn't happen often for me.
+[09:39.26] <vdamewood> If I could afford an extra computer, I might have a desktop, or at least a headless tower, though.
+[09:39.41] <RustyShackleford> i want an intel NUC
+[09:39.47] * xsup (~xsup@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:39.52] <RustyShackleford> i love the idea of a tiny desktop computer
+[09:40.04] * atrx (~atrx@ppp-171-96-167-9.revip8.asianet.co.th) Quit (Remote host closed the connection)
+[09:40.09] <koollman> PlanckWalk: so do I, but I like lying in my bed with a laptop (and I also use my chromebook between work and home)
+[09:40.15] <RustyShackleford> i don't play video games anymore, no need for a discrete graphics car
+[09:40.26] <PlanckWalk> Maybe if I had a 1 hour commute on a train I might have more use for a laptop
+[09:40.36] <PlanckWalk> As it is, I walk less than 10 minutes
+[09:40.38] <vdamewood> I hate it when I add an ad-hoc print/message/echo statement and forget to remove it before committing.
+[09:40.38] * Xan (~Xan@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[09:40.49] <koollman> ah, for 10 minutes, definitely not worth it :)
+[09:41.03] <RustyShackleford> PlanckWalk: i don't think i'd pull the laptop out on the train
+[09:41.11] * Gluesticky (~nobody@unaffiliated/gluesticky) has joined channel ##programming
+[09:41.19] <RustyShackleford> depends how crowded your train gets, and how many shady characters ride the train
+[09:41.27] <vdamewood> I used to pull my laptop out on the bus and play MineCraft.
+[09:41.27] <PlanckWalk> There aren't any trains here anyway
+[09:41.49] <RustyShackleford> for my laying in bed and riding the train computing needs, the smartphone works fine for me
+[09:41.53] <koollman> RustyShackleford: that was the initial purpose of my chromebook experiment. Cheap hardware :)
+[09:42.07] <PlanckWalk> Actually, a tablet would probably work for most of that.  I'd probably just use it to read.
+[09:42.09] * ezekielnoob (~ezekielno@120.28.121.179) Quit (Quit: ezekielnoob)
+[09:42.18] * Xan (~Xan@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[09:42.19] * neoncortex (~neoncorte@unaffiliated/xispirito) has joined channel ##programming
+[09:42.21] <RustyShackleford> my friend has a desktop, a laptop, a 7" tablet, and a smartphone
+[09:42.22] <PlanckWalk> So even an ereader might do
+[09:42.26] <RustyShackleford> how many devices do you need man?
+[09:42.33] * pereba (~pereba@unaffiliated/pereba) Quit (Quit: AdiIRC is your next irc client! (＋＋www.adiirc.com，，))
+[09:42.45] <PlanckWalk> They all have pretty different roles I imagine
+[09:42.45] <pulse> hmm
+[09:42.57] <pulse> RustyShackleford, i have all of those >_<
+[09:43.01] * Qgd (~Qgd@136.173.151.77.rev.sfr.net) has joined channel ##programming
+[09:43.04] <pulse> granted the tablet is a chinese knockoff for 50 bucks
+[09:43.05] --lolcat-- logged in with account (user)
+[09:43.10] <pulse> but it is a tablet :D
+[09:43.16] <pulse> it's funny slow though
+[09:43.16] <koollman> RustyShackleford: as many as you can get ;)
+[09:43.17] --brimstone-- logged in with account (brimstone)
+[09:43.36] <RustyShackleford> i do sorta like the idea of those windows tablets that supposedly replace a laptop
+[09:43.39] * Qgd (~Qgd@136.173.151.77.rev.sfr.net) Quit (Remote host closed the connection)
+[09:43.44] <PlanckWalk> Ugh, no thanks
+[09:43.47] <RustyShackleford> i don't believe they get good reviews though
+[09:43.52] <pulse> RustyShackleford, how do you right-click on those?
+[09:43.58] <RustyShackleford> PlanckWalk: thats why i said the IDEA
+[09:43.59] <koollman> RustyShackleford: the good ones are really expensive
+[09:44.04] --bigbadjudas-- logged in with account (bigbadjudas)
+[09:44.04] * tus (~tus@unaffiliated/tus) Quit ()
+[09:44.08] <PlanckWalk> heh
+[09:44.55] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[09:45.03] <PlanckWalk> I loveed the idea of tablets until I tried one
+[09:45.04] * crayon (~user@unaffiliated/button) has joined channel ##programming
+[09:45.32] * ogrady (~Thunderbi@HSI-KBW-109-193-041-101.hsi7.kabel-badenwuerttemberg.de) Quit (Quit: ogrady)
+[09:45.35] * fhed (~fhed@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[09:45.46] <koollman> I never liked the idea. I like having a real keyboard most of the time
+[09:46.06] <PlanckWalk> Even web browsing was painful on those things
+[09:46.13] <RustyShackleford> well i don't think a tablet is a "getting stuff done" device
+[09:46.16] <pulse> nah
+[09:46.27] <pulse> tablets are delightful in one aspect, and that is web browsing :P
+[09:46.30] * Xempha (~Xempha@72.27.91.233) Quit (Ping timeout: 245 seconds)
+[09:46.31] * smustafa (~mustafa@39.42.203.249) has joined channel ##programming
+[09:46.32] --smustafa-- logged in with account (smustafa)
+[09:46.33] <pulse> but you do need to learn a few tricks
+[09:46.33] <koollman> RustyShackleford: which is why you get a laptop :)
+[09:46.37] <pulse> for example the double tap
+[09:47.18] <RustyShackleford> pulse: leisurely web browsing. Like reading reddit while I'm sitting on the toilet :P
+[09:47.29] <pulse> nah, it sucks for reddit because the page is so damn wide :D
+[09:47.37] <pulse> but it's pretty good for most sites
+[09:47.51] <koollman> (but there are apps for reddit)
+[09:47.52] <pulse> a lot of the web is responsive nowadays anyway
+[09:48.02] <PlanckWalk> Maybe I'm just accustomed to browsing in a way that sucks for tablets
+[09:48.20] <pulse> i got a whole new perspective when i learned about the double tap
+[09:48.27] <pulse> it may sound silly but it's useful as hell
+[09:48.30] <RustyShackleford> opening 100's of tabs doesn't work so great on tablets/phones
+[09:48.30] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) Quit (Ping timeout: 246 seconds)
+[09:48.43] <pulse> basically if you have a normal desktop page, if you double tap on an article, it will zoom in on it
+[09:48.46] * fhed (~fhed@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Remote host closed the connection)
+[09:48.47] <pulse> and you can read it like a newspaper
+[09:48.54] <vdamewood> I usually only have about 10 tabs open on my phone.
+[09:48.54] <CoJaBo> ＋＋http://imgur.com/KbzMDAJ.jpg，，
+[09:48.54] <pulse> that's super useful
+[09:49.02] * druidd (~lindsey@cpe-174-097-244-077.nc.res.rr.com) Quit (Quit: WeeChat 1.1.1)
+[09:49.03] <pulse> i used to zooom in manually and i hated browsing the web
+[09:49.07] <pulse> but with that it's kind of neat
+[09:49.26] <RustyShackleford> mobile web ads are quite awful though
+[09:49.28] <koollman> CoJaBo: :)
+[09:49.43] <pulse> mobile ads in general are awful
+[09:49.55] <RustyShackleford> maybe I have fat fingers, but clicking the x often causes you to follow the ad's link
+[09:50.07] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) has joined channel ##programming
+[09:50.07] --wagonboi-- logged in with account (wagonboi)
+[09:50.07] <pulse> yeah and they make the x 12x12 pixels
+[09:50.12] <RustyShackleford> NO I DON'T WANT TO VIEW THE SITE WITH TAPATALK!
+[09:50.19] <pulse> who clicks on ads anyway
+[09:50.23] <pulse> seriously
+[09:50.30] <pulse> on purpose
+[09:50.31] <pulse> who is this person
+[09:50.33] * Voyage (~Voyage@168.235.66.43) has joined channel ##programming
+[09:50.34] <Voyage> I need a fasicilty by which I my customers can pay me by card and paypall via my website. What kind of service do I need?
+[09:50.36] <pulse> and why does he do it
+[09:50.38] * ACDCGAMER (znc@unaffiliated/acdcgamer) has joined channel ##programming
+[09:51.01] <pulse> Voyage, paypal has an API you can use
+[09:51.05] <pulse> not sure about cards
+[09:51.32] <vdamewood> For cards, you use PCI. But you should just use PayPal if you're not specializing in this kind of thing.
+[09:51.45] <ACDCGAMER> For someone with some MySQL and Postgres experience, how difficult is it to pick up T-SQL?
+[09:51.50] <vdamewood> Note that PCI is a standard for HOW you do it, not a service you can use.
+[09:52.14] <vdamewood> ACDCGAMER: Can you make stored procedures in either ofthem?
+[09:52.16] <wagonboi> radix sort is the shit
+[09:52.30] <PlanckWalk> There are hundreds of payment providers that handle paypal and cards
+[09:52.38] * plasticle (~plasticle@2606:a000:a200:6800:1d1a:c954:eaf9:d189) Quit (Remote host closed the connection)
+[09:52.51] <PlanckWalk> Most of them suck, admittedly
+[09:53.15] <ACDCGAMER> vdamewood: in MySQL, yeah. My SQL is a little rusty in general as I haven't touched it much for a bout a year (aside from some postgres at work), but yes, I can
+[09:53.25] <PlanckWalk> On the other hand, most of them handle all sorts of fiddly crap so you don't have to.
+[09:53.31] <vdamewood> I'd just used PayPal, unless the site grosses more than 10 million dollars per yer.
+[09:53.33] <vdamewood> err year
+[09:53.46] <ACDCGAMER> Thankfully I have stuff written down from when I took the class and I know there's a lot of documentation out there I can read. I still have my textbook too
+[09:54.16] <PlanckWalk> I've had too many bad experiences with PayPal to want to make it my primary payment handler.
+[09:54.38] <PlanckWalk> (Both as customer and vendor)
+[09:55.38] --DilloYoda-- logged in with account (TXRoadkill)
+[09:56.07] <vdamewood> ACDCGAMER: If you haven't really gotten into the specifics of MySQL and PostgreSQL, you might not even notice much of a difference with T-SQL, except for types.
+[09:56.17] * monoprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##programming
+[09:56.40] * DogPolice (~RJones@unaffiliated/rjones) has joined channel ##programming
+[09:57.08] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) Quit (Remote host closed the connection)
+[09:57.14] <ACDCGAMER> vdamewood: What would you describe as the specifics? Just the environments themselves?
+[09:57.40] * meandi_1 (~meandi_3@dyndsl-031-150-034-146.ewe-ip-backbone.de) has joined channel ##programming
+[09:57.45] <ACDCGAMER> vdamewood: I'm guessing different data-types and properties relating to columns?
+[09:58.04] <ACDCGAMER> (my terminology is probably way off so my apologies)
+[09:59.45] * insidious15 (~insidious@2601:c:3200:b200:5e51:4fff:fe8c:2c65) Quit (Ping timeout: 252 seconds)
+[10:00.51] * Imk0tter (~Imk0tter@ool-2f12e944.dyn.optonline.net) Quit (Ping timeout: 244 seconds)
+[10:00.52] <vdamewood> ACDCGAMER: Most of the differences between the three are probably about things you haven't even considered they might have as differences. For example, do you know how to control the physical order of rows in a table?
+[10:01.06] * meandi (~meandi_3@dyndsl-031-150-060-029.ewe-ip-backbone.de) Quit (Ping timeout: 246 seconds)
+[10:01.21] --atomicalloy-- logged in with account (atomicalloy)
+[10:01.44] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) has joined channel ##programming
+[10:02.07] <o0elise0o>  ffv
+[10:02.26] <ACDCGAMER> vdamewood: Didn't go over that in class, so no
+[10:02.26] --weazelb0y-- logged in with account (weazelb0y)
+[10:02.44] <vdamewood> o0elise0o: That game was fun, especially once you get the MIME Job.
+[10:03.06] <o0elise0o> huh?
+[10:03.07] <vdamewood> err the Mime job
+[10:03.09] <ACDCGAMER> vdamewood: I'm assuming the physical order is independent of whatever primary key value a particular row has? If that makes any sense?
+[10:03.22] <vdamewood> o0elise0o: Final Fantasy 5 (FFV) :)
+[10:03.37] <vdamewood> ACDCGAMER: It can be.
+[10:03.51] <o0elise0o> oh
+[10:04.13] <o0elise0o> I was typing random letters to see if the terminal was responding
+[10:05.03] <pulse> we are in your terminal, stealing your cookies
+[10:05.15] <vdamewood> om nom nom!
+[11:38.52] *** Server disconnected on tepper.freenode.net

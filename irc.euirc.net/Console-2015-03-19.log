@@ -1,0 +1,229 @@
+Session Start: Thu Mar 19 02:40:32 2015
+[02:40.32] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (178.33.33.123) on port 6667
+[02:40.32] -irc.euirc.net- Sending User Registration Information
+[02:40.32] -irc.euirc.net- Capabilities supported: multi-prefix user-color tls
+[02:40.32] -irc.euirc.net- Capabilities requested: multi-prefix
+[02:40.32] -irc.euirc.net- If you are having problems connecting due to ping timeouts, please type /notice 55E1E187 nospoof now.
+[02:40.32] -irc.euirc.net- Capabilities acknowledged: multi-prefix
+[02:40.38] -irc.rbx.fr.euirc.net- Welcome to the euIRCnet IRC Network Rainb!~IceChat9@190.9.202.85
+[02:40.38] -irc.rbx.fr.euirc.net- Your host is irc.rbx.fr.euirc.net, running version euIRCd 1.3.4-c09c980+debug
+[02:40.38] -irc.rbx.fr.euirc.net- This server was created Wed Mar 26 2014 at 07:05:12 CET
+[02:40.38] -irc.rbx.fr.euirc.net- irc.rbx.fr.euirc.net euIRCd 1.3.4-c09c980+debug oOiRwhsSaHANCrxjWqBZ1dtcpPUnTI vhoaqpsmtinrRQKVHOAYCNcSXUTxW5beIwklfLBuFM
+[02:40.38] -irc.rbx.fr.euirc.net- NETWORK=euIRCnet WATCH=128 SAFELIST PREFIX=(qaohv)*!@%+ CHANMODES=bewI,k,flBL,cimnprstxACHKNOQRiTSVWXY5 CHANTYPES=#&+ KICKLEN=307 KNOCK MAP MAXLIST=bewI:100 MODES=6 NICKLEN=30 SILENCE=5 TOPICLEN=307 AWAYLEN=307 WALLCHOPS CHANNELLEN=32 MAXCHANNELS=30 MAXTARGETS=20 INVEX=I EXCEPT=e :are available on this server
+[02:40.39] -irc.rbx.fr.euirc.net- NAMESX STARTTLS :are available on this server
+[02:40.39] -irc.rbx.fr.euirc.net- There are 11 users and 1682 invisible on 8 servers
+[02:40.39] -irc.rbx.fr.euirc.net- There are 28 operator(s) online
+[02:40.39] -irc.rbx.fr.euirc.net- There are 2 unknown connection(s)
+[02:40.39] -irc.rbx.fr.euirc.net- There are 1124 channels formed
+[02:40.39] -irc.rbx.fr.euirc.net- I have 689 clients and 1 servers
+[02:40.39] -irc.rbx.fr.euirc.net- Current Local Users: 689  Max: 1421
+[02:40.39] -irc.rbx.fr.euirc.net- Current Global Users: 1693  Max: 11082
+[02:40.39] -irc.rbx.fr.euirc.net- You have successfully connected to irc.rbx.fr.euirc.net
+[02:40.39] * Your mode is now +ix
+[02:40.39] [SpamScanner] VERSION
+[02:40.39] --SpamScanner-- LAG
+[02:40.39] [SpamScanner] TIME
+[02:40.39] --Global-- [Logon News - Dec 18 2007] IPv6 connections available on euirc! Use the server irc.euirc.net and join #ipv6
+[02:40.39] --Global-- [Logon News - Apr 28 2013] Now you can like us on facebook: ＋＋http://www.facebook.com/euirc，，
+[02:40.39] --Global-- [Logon News - May 12 2013] SSL is available on port +6697 and +6999 to connect securely. You can use free s/mime certificates from ＋＋http://startssl.com，， to identify you for your nick by using your email address. To only allow secure users on your channel - set it +T. Join #euirc for more information/help.
+[02:40.39] Rainb resolved to 190.9.202.85
+[02:40.40] --ChanServ-- Bei Fragen einfach öffentlich im Channel fragen, oder an die Leute mit dem % wenden. Bitte keine Away-Messages, mp3-Scripte, FTP-Announces, Werbung jeglicher Art, Op-Betteln, oder andere Belästigungen - sonst gibts nen ban. euIRC presents: Das neue offizielle euIRC Radio: /join #euirc.radio für mehr Infos!
+[02:40.40] --ChanServ-- Bitte lies das Topic. Falls es nicht angezeigt wird, gib "/topic" in deinen IRC-Client ein.
+[02:41.01] -irc.rbx.fr.euirc.net- #int ~IceChat9 190.9.202.euirc-a20b6be6 irc.rbx.fr.euirc.net Rainb H@ :0 The Chat Cool People Use
+[02:41.01] -irc.rbx.fr.euirc.net- #int End of /WHO list
+[02:41.03] * You have left #int - You will be missed ()
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.euirc.net- *** Server disconnected on irc.euirc.net
+[03:04.12] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.12] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.13] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.13] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.13] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.13] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.14] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.14] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.14] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.14] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.14] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.15] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.15] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.15] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.16] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.16] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.16] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.16] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.16] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.17] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.17] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.18] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[03:04.19] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.19] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[03:04.19] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[03:04.20] -irc.euirc.net- Sending User Registration Information
+[03:04.20] -irc.euirc.net- Capabilities supported: multi-prefix user-color tls
+[03:04.20] -irc.euirc.net- Capabilities requested: multi-prefix
+[03:04.20] -:irc.hes.de.euirc.net- Nickname is already in use.
+[03:04.21] -:irc.hes.de.euirc.net- Capabilities acknowledged: multi-prefix
+[03:04.21] -:irc.hes.de.euirc.net- If you are having problems connecting due to ping timeouts, please type /notice E1132D44 nospoof now.
+[03:04.26] -irc.hes.de.euirc.net- Welcome to the euIRCnet IRC Network Rainb_!~IceChat9@181.50.148.224
+[03:04.26] -irc.hes.de.euirc.net- Your host is irc.hes.de.euirc.net, running version euIRCd 1.3.4-c09c980
+[03:04.26] -irc.hes.de.euirc.net- This server was created Thu Mar 27 2014 at 07:43:52 CET
+[03:04.26] -irc.hes.de.euirc.net- irc.hes.de.euirc.net euIRCd 1.3.4-c09c980 oOiRwhsSaHANCrxjWqBZ1dtcpPUnTI vhoaqpsmtinrRQKVHOAYCNcSXUTxW5beIwklfLBuFM
+[03:04.26] -irc.hes.de.euirc.net- NETWORK=euIRCnet WATCH=128 SAFELIST PREFIX=(qaohv)*!@%+ CHANMODES=bewI,k,flBL,cimnprstxACHKNOQRiTSVWXY5 CHANTYPES=#&+ KICKLEN=307 KNOCK MAP MAXLIST=bewI:100 MODES=6 NICKLEN=30 SILENCE=5 TOPICLEN=307 AWAYLEN=307 WALLCHOPS CHANNELLEN=32 MAXCHANNELS=30 MAXTARGETS=20 INVEX=I EXCEPT=e :are available on this server
+[03:04.26] -irc.hes.de.euirc.net- NAMESX STARTTLS :are available on this server
+[03:04.26] -irc.hes.de.euirc.net- There are 11 users and 1707 invisible on 8 servers
+[03:04.26] -irc.hes.de.euirc.net- There are 28 operator(s) online
+[03:04.26] -irc.hes.de.euirc.net- There are 1 unknown connection(s)
+[03:04.26] -irc.hes.de.euirc.net- There are 1127 channels formed
+[03:04.26] -irc.hes.de.euirc.net- I have 595 clients and 2 servers
+[03:04.26] -irc.hes.de.euirc.net- Current Local Users: 595  Max: 1111
+[03:04.26] -irc.hes.de.euirc.net- Current Global Users: 1718  Max: 11082
+[03:04.26] -irc.hes.de.euirc.net- You have successfully connected to irc.hes.de.euirc.net
+[03:04.26] * Your mode is now +ix
+[10:39.04] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[10:39.07] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.07] -irc.euirc.net- *** Server disconnected on irc.euirc.net
+[10:39.07] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.07] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.07] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.07] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.08] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.08] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.09] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.10] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.10] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[10:39.10] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.10] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.10] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.10] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.10] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (83.137.41.33) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (83.137.41.33) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.200.94.170) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (178.33.33.123) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (178.33.33.123) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (178.33.33.123) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (213.155.21.208) on port 6667
+[10:39.11] -irc.euirc.net- *** Attempting to re-connect to irc.euirc.net
+[10:39.11] -irc.euirc.net- *** Attempting to connect to irc.euirc.net (83.137.41.33) on port 6667
+[10:39.11] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[10:39.11] ERROR: Parameter name: asyncResult
+[10:39.11] -irc.euirc.net- Waiting 60 seconds to re-connect to (irc.euirc.net)
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect
+[10:39.11] ERROR: Null Socket - Can not Connect

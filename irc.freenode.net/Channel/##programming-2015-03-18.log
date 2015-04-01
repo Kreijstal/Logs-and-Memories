@@ -1,0 +1,314 @@
+Session Start: Wed Mar 18 04:40:02 2015
+Session Ident: ##programming
+[04:40.02] * You have joined ##programming
+[04:40.02] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[04:40.02] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[04:40.05] Channel modes for ##programming are :+cntf ##overflow
+[04:40.05] Channel Created on: 5:23 AM 2/4/2007
+[04:40.10] * bebna (~bebna@p50993595.dip0.t-ipconnect.de) has joined channel ##programming
+[04:43.41] <ams> C isn't fun .. .all interesting stuff is implementation defined :/
+[04:43.50] * fleshtheworld- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) has joined channel ##programming
+[04:43.55] <dtscode> im writing a c compiler in c
+[04:47.00] * fleshtheworld-- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) Quit (Ping timeout: 265 seconds)
+[04:47.41] <cluelessperson> I have a question about ASP.NET
+[04:47.52] * fleshtheworld-- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) has joined channel ##programming
+[04:47.59] <cluelessperson> I have a site here I'm trying to authenticate on and it seems the VIEWSTATE is somehow changing AFTER the page is loaded.
+[04:48.07] <dtscode> people still use asp.net?
+[04:48.12] <cluelessperson> I haven't found any javascript that would do it (at least not yet)
+[04:48.18] <cluelessperson> dtscode, aspx?
+[04:48.20] <dtscode> are you using vb for the cgi?
+[04:48.54] <cluelessperson> dtscode, no, I'm not familiar, I mainly do PHP, css and python
+[04:49.04] <dtscode> i was mostly kidding
+[04:49.24] <cluelessperson> dtscode, id="__VIEWSTATE" value="aojph  is the original downloaded document according to Fiddler,
+[04:49.32] <dtscode> i cant help
+[04:49.35] <cluelessperson> dtscode, value="GHdtLOm  is what's actually on the page when I view it now.
+[04:49.38] <dtscode> i never used asp.net
+[04:49.43] <Madmallard> Good
+[04:49.44] <cluelessperson> dtscode, and yes, this company DOES use VB. >.>
+[04:49.48] <Madmallard> Lol
+[04:49.49] <cluelessperson> like laughable.
+[04:49.50] <dtscode> omfg
+[04:50.02] * i56yards (~i56yards@90.222.41.147) Quit (Remote host closed the connection)
+[04:50.14] <dtscode> ive had nightmare
+[04:50.16] <Madmallard> I know a girl in indonesia who learned vb.net im school
+[04:50.16] <dtscode> s like this
+[04:50.35] * pi-- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[04:50.36] * pi- is now known as Guest43612
+[04:50.39] <Madmallard> And by learn i mean learn how to use the visual editor
+[04:50.40] * pi-- is now known as pi-_
+[04:50.43] <cluelessperson> Madmallard, dtscode   corporate is failing to give us the tools we need to access database data, so I have to learn to work with their web pages.. >.<
+[04:50.43] * Guest43612 (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) Quit (Ping timeout: 246 seconds)
+[04:50.51] <dtscode> apparently in india the teachers still push blood-shed ide
+[04:51.07] <Madmallard> Eclipse?
+[04:51.16] <Madmallard> Jk
+[04:51.20] * fleshtheworld- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) Quit (Ping timeout: 256 seconds)
+[04:51.23] <dtscode> i personally dont like ides
+[04:51.28] <Madmallard> Y not
+[04:51.31] <dtscode> cluelessperson, there are too many things wrong with this
+[04:51.32] <Madmallard> Thats silly
+[04:51.35] <dtscode> no its not
+[04:51.46] <cluelessperson> dtscode, I shit you not.
+[04:51.52] <Madmallard> Its way more work than necessary for your brain
+[04:52.02] <Madmallard> Thats only gonna get easier as time goes on
+[04:52.11] <cluelessperson> dtscode, We have multiple people/managers wasting their time trying to generate their own reports seperately.
+[04:52.11] <Madmallard> Lol
+[04:52.14] <dtscode> it always got in my way...'
+[04:52.25] <Madmallard> Then u needa learn how to tame uride
+[04:52.26] <dtscode> it doesnt make everyones life easier...
+[04:52.29] <Madmallard> Ur ide*
+[04:52.29] * sbrg (~identity@unaffiliated/identity) Quit (Ping timeout: 250 seconds)
+[04:52.32] <Madmallard> Lol
+[04:52.39] * memcpy (~memcpy@unaffiliated/memcpy) has joined channel ##programming
+[04:52.42] <dtscode> or i could just use tools seperately?
+[04:52.48] <dtscode> because its not really that hard?
+[04:52.48] <Madmallard> I knew 1 guy at amazon that didnt use an ide other than vim
+[04:52.54] <Madmallard> And he was 42
+[04:52.56] <dtscode> vim's not an ide
+[04:52.59] <jkbbwr> Howdy all
+[04:53.04] <dtscode> and also ok. your point?
+[04:53.06] <Madmallard> It has some power to it
+[04:53.08] * admg (~admg@host86-139-68-128.range86-139.btcentralplus.com) has joined channel ##programming
+[04:53.13] <dtscode> yes. not an ide though
+[04:53.16] * i56yards (~i56yards@90.222.41.147) has joined channel ##programming
+[04:53.32] <ams> ofcourse vim is an ide.
+[04:53.41] <jkbbwr> ams: no its not
+[04:53.42] <dtscode> not really
+[04:53.52] <ams> yes, yes, really.  so is emacs.
+[04:53.56] <jkbbwr> ams: no they arn't
+[04:54.04] <ams> and you define this based on what?
+[04:54.09] <ams> emacs was the first ide infact
+[04:54.15] * PhearTheCeal (~PhearTheC@unaffiliated/pheartheceal) has joined channel ##programming
+[04:54.17] <dtscode> ams, based on the fact that they are editors?
+[04:54.21] <jkbbwr> The definition of ide
+[04:54.24] <dtscode> actually, emacs is an os
+[04:54.24] <Madmallard> code completion, syntax highlighting, findbugs, threadsafe, autoformatting
+[04:54.27] <jkbbwr> An IDE normally consists of a source code editor, build automation tools and a debugger.
+[04:54.36] <ams> so, like emacs.
+[04:54.37] <jkbbwr> It fails on two and three
+[04:54.37] <ams> interesting.
+[04:54.41] <eco_work_giko> more like vim
+[04:54.42] <Madmallard> These things drastically reduce the time spent doing useless things
+[04:54.44] * sbrg (~identity@unaffiliated/identity) has joined channel ##programming
+[04:54.53] <ams> i have source code editors, i have build automation tools, and i have a debugger (several infact)
+[04:54.56] <dtscode> Madmallard, yah... i can still do that without an ide...
+[04:55.17] <Madmallard> Wat
+[04:55.20] <jkbbwr> ams: Using plugins or shelling out
+[04:55.23] * Filystyn (~piotr@031011212161.warszawa.vectranet.pl) Quit (Read error: No route to host)
+[04:55.28] <jkbbwr> ams: those features are not native to vim
+[04:55.31] <ams> jkbbwr: so the emacs debugger is shelling out?
+[04:55.33] <Madmallard> Code completion and autoformatting?
+[04:55.38] <ams> jkbbwr: how about the slime debugger?
+[04:55.40] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Quit: Bah!)
+[04:55.46] <ams> jkbbwr: it isn't like eclispe doesn't shell out to gdb ...
+[04:55.47] <jkbbwr> ams: I don't know what slime is
+[04:55.56] <ams> jkbbwr: a integreated editor for common lisp.
+[04:55.57] <dtscode> neither is exclusive to an ide Madmallard
+[04:56.07] * Filystyn (~piotr@031011212161.warszawa.vectranet.pl) has joined channel ##programming
+[04:56.09] <dtscode> and why would i want code completetion?
+[04:56.16] * vivekananda (~vvikramjh@pool-108-40-30-134.bltmmd.fios.verizon.net) Quit (Quit: Leaving)
+[04:56.16] <eco_work_giko> An IDE is an editor with lots of plugins.
+[04:56.16] * George__ (~George__@c-24-130-139-81.hsd1.ca.comcast.net) Quit (Remote host closed the connection)
+[04:56.24] <dtscode> i know what i want to write. it saves pointless microseconds
+[04:56.24] <ams> :-)
+[04:56.35] <jkbbwr> ams: I don't know anything about emacs, but I know vim is not an ide
+[04:56.47] <ams> jkbbwr: i consider it an ide, having used it myself for some time.
+[04:56.52] <nitrxgen> :o
+[04:57.08] <viscera> ams: it is, it's just DIY integration :)
+[04:57.13] <ams> jkbbwr: most "ide" dont even have build automation tools
+[04:57.29] <jkbbwr> ams: vim needs lots of plugins to get close to useful as my ide is
+[04:57.53] <viscera> jkbbwr: which ide
+[04:57.57] <bebna> and what is with c.vim ?
+[04:58.04] <aidanh> apoplexy: Sorry if you messaged me and I didn't see it; had to dash out
+[04:58.10] <ams> jkbbwr: so you prefer one over the other, that is fine.
+[04:58.11] * jrahmy (~jrahmy@173.192.187.137-static.reverse.softlayer.com) Quit (Ping timeout: 245 seconds)
+[04:58.20] <jkbbwr> viscera: specifically the intellij-family
+[04:58.21] <apoplexy> aidanh: been writing content lol
+[04:58.23] <bebna> This plugin makes vim expicitly a C ide
+[04:58.36] <apoplexy> 6am now, sleep time
+[04:58.48] <apoplexy> til 11, then work til 8, more content and gym
+[04:58.48] * thevishy (~thevishy@111.93.187.34) has joined channel ##programming
+[04:58.51] <apoplexy> its a hustlers world ;o
+[04:59.25] <vendu> good morning :)
+[04:59.42] <eco_work_giko> If you know vim bindings you can never have to learn another control scheme, ever, there are plugins for that on everything that supports typing (not typewriters).
+[04:59.46] <Madmallard> If ur so ham to get all 5 of those perks without an ide then more power to ya i guess
+[05:00.10] <vendu> eco_work_giko, vim is for weenies :P
+[05:00.13] <eco_work_giko> You can use it as an IDE through ssh too.
+[05:00.15] <vendu> emacs is a hog
+[05:00.20] <aidanh> bebna: I can't see much that that plugin does that shouldn't be separated into individual plugins
+[05:00.21] <vendu> therefore, i feel like doing my own editor :)
+[05:00.31] <eco_work_giko> vendu: :(
+[05:00.39] <bebna> OK, lets see intellij got: intelligent code completion, build/debug, scm, file explore, console
+[05:00.42] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) Quit (Read error: No route to host)
+[05:00.43] <vendu> eco_work_giko, i use emacs, but it uses lots of resources :)
+[05:00.45] <aidanh> vendu: As long as it has a vi mode :P
+[05:00.50] <sbrg> dtscode: asp.net != asp
+[05:00.54] <bebna> do i miss something
+[05:00.54] <sbrg> asp.net is not comparable to vb
+[05:00.55] <dtscode> sbrg, i know
+[05:01.00] <vendu> aidanh, that's one idea i'd like too, for the people who need it :)
+[05:01.02] <sbrg> well, vb6
+[05:01.04] <dtscode> i wasnt comparing it to vb
+[05:01.07] <eco_work_giko> vendu: :P Vim has no problems.
+[05:01.18] <vendu> eco_work_giko, i know, i do have problems with it, though =)
+[05:01.28] <vendu> could be that i never learnt to use it properly :P
+[05:01.31] <aidanh> eco_work_giko: I love vim, but saying it has no problems is far from the truth :P IMO anyway
+[05:01.41] <eco_work_giko> aidanh: I was being elitist :)
+[05:01.46] * Belxjander (~Belxjande@sourcemage/Mage/Abh-Elementalist) has joined channel ##programming
+[05:01.56] <vendu> aidanh, eco_work_giko, first and foremost, i need good support for c (and hopefully assembly)
+[05:02.02] <eco_work_giko> aidanh: But it does have problems. I think that neovim will purge lots of them tho.
+[05:02.04] <vendu> auto-indent, syntax highlights, etc. :)
+[05:02.13] <dtscode> neovim?
+[05:02.17] <dtscode> a new fork?
+[05:02.24] <sbrg> vendu: vim has those
+[05:02.31] <bebna> vendu: do you already have a vim config?
+[05:02.32] <vendu> sbrg, so does emacs :)
+[05:02.35] <Madmallard> Lets be real though
+[05:02.37] <eco_work_giko> dtscode: You are in for a treat :) ＋＋https://github.com/neovim/neovim，， .
+[05:02.38] <sbrg> yeah, but emacs is emacs
+[05:02.42] <vendu> bebna, nah, i'm an emacs guy :)
+[05:02.44] <sbrg> so that's bad
+[05:02.46] <dtscode> oh boy
+[05:03.02] <Madmallard> Notepad is prolly better than eclipse for large projects with lots of dependencies heheheheh
+[05:03.09] <bebna> vendu: no problems man, we have both frontiers here in the office
+[05:03.11] <vendu> i do, however, have an early c tokeniser i could probably easily use for the syntax highlights :)
+[05:03.33] <aidanh> eco_work_giko: Ah :) Yeah, neovim looks like it's on the right course
+[05:03.40] <bebna> vendu: try to get clang-analyze / clang based autocomplete and ctags
+[05:03.50] <dtscode> i should install clang...
+[05:03.57] <dtscode> but i know ill just keep using gcc anyways
+[05:03.58] <vendu> bebna, good ideas :)
+[05:04.07] <aidanh> dtscode: I use clang just for the static analysis
+[05:04.09] <icetooth> found out today vim has built in fuzzy completion if you hit ctrl-n / ctrl-p in insert mode
+[05:04.16] * Sarah1994 (~Sarah@ip-80-113-19-100.ip.prioritytelecom.net) has joined channel ##programming
+[05:04.22] <dtscode> clang has the sexiest error codes...
+[05:04.56] <bebna> vendu: it is one of the basics of modern vim setups for programming
+[05:05.13] * mvaenskae (~mvaenskae@unaffiliated/mvaenskae) Quit (Ping timeout: 245 seconds)
+[05:05.16] <bebna> vendu: I do even have ctags for markdown and asciidoc and their like
+[05:05.17] <vendu> bebna, :)
+[05:05.28] <dearhawk> wow... just wow. Guys. Pretend to be a cute girl and you'll get a mod on any service to do anything. Seriously. Fact: he ain't getting laid and I just unsubscribed about 150k of his readers. Just wow.. humanity, really, seriously? Guys? You guys.. really, humanity?
+[05:05.35] <vendu> bebna, what's ctags, though, what is it like? not familiar
+[05:05.54] <Madmallard> Dearhawk people are lonely
+[05:06.09] <Madmallard> Its symptom of societal breakdown
+[05:06.49] <icetooth> a mod?
+[05:06.51] <bebna> vendu: Programm who "tokenizes" code, so that other programms like vim or emacs can build trees and understand the code better
+[05:06.57] <Plastefuchs> dearhawk: whowhat?
+[05:06.58] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##programming
+[05:07.02] <icetooth> oh a fake wannabe admin?
+[05:07.13] <vendu> bebna, :)
+[05:07.19] <icetooth> ＋＋https://www.youtube.com/watch?v=PfRzNnU6D50，，
+[05:07.39] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##programming
+[05:07.47] * icetooth (~icetooth@unaffiliated/icetooth) Quit (Quit: Leaving)
+[05:07.51] <dearhawk> Plastefuchs: so I pretended to be this young cute girl on twitch to milk money out of people. Easily convinced another channel guy to make me a mod in his channel. The pwnage was then real.
+[05:07.52] <aidanh> vendu: I use ctags with vim; lets me jump to a definition within a project
+[05:07.54] <vendu> ＋＋https://github.com/vendu/OS-Zero/blob/master/usr/tools/zed/IDEAS，， <- there's just some quick ideas :)
+[05:08.01] <bebna> vendu: One usage is navigation like shown here: ＋＋http://majutsushi.github.io/tagbar/，，
+[05:08.13] <Sarah1994> ＋＋https://www.youtube.com/watch?v=KOHh_MqQESM，，
+[05:08.23] <Plastefuchs> dearhawk: so you where an asshole just for the lulz
+[05:08.43] <dearhawk> Plastefuchs: well, yes. I'm not proud of it. But the stupidity just amazed me.
+[05:08.49] <bebna> vendu: some autocompleters also use it to know when a variable is only present in your current scope
+[05:09.05] <Plastefuchs> dearhawk: you seem awfully proud if you prance about and talk about it to other people
+[05:09.31] <eco_work_giko> Sarah1994: Sup? :)
+[05:09.37] * redjuggler (~redjuggle@224.Red-83-43-12.dynamicIP.rima-tde.net) has joined channel ##programming
+[05:09.41] <dearhawk> Plastefuchs: well, the background story is just a side note to understand the context. The stupidity however, interesting topic.
+[05:09.44] <sbrg> dearhawk:  wow ur so cool
+[05:09.47] <sbrg> how can i be liek u
+[05:09.54] <sbrg> pls teach
+[05:09.55] <dearhawk> sbrg: give
+[05:10.00] <dearhawk> sbrg: five* that's how
+[05:10.12] <dearhawk> ez right
+[05:10.20] <dearhawk> sbrg: ur so cuul bro
+[05:10.31] <dearhawk> sbrg: twelve :* kisses
+[05:10.51] <dearhawk> I'm working on it, trying to grow up
+[05:10.57] <Madmallard> Bullshit
+[05:11.30] <dearhawk> Madmallard: u miek mi sad :(
+[05:11.37] <bebna> Growing is painful. Don't do it, if not necissery.
+[05:11.38] <Madmallard> No i dont
+[05:11.49] <Madmallard> Thats a manipulative lie
+[05:11.54] <Madmallard> You sociopathic child
+[05:12.34] <ams> can we get back to programming related topics please?
+[05:12.38] <Madmallard> Ya bebna for real
+[05:12.39] * jcbsnd (~jcbsnd@81-233-81-170-no205.tbcn.telia.com) has joined channel ##programming
+[05:13.04] <Madmallard> Non circlejerking ones?
+[05:13.08] * rinsch (c23fefeb@gateway/web/freenode/ip.194.63.239.235) has joined channel ##programming
+[05:13.12] <rinsch> have to sit through 2 hours of a teacher talking about how to make games with scratch ... send help... please
+[05:13.25] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Remote host closed the connection)
+[05:13.25] <Madmallard> With scratch?
+[05:13.26] * i56yards (~i56yards@90.222.41.147) Quit (Remote host closed the connection)
+[05:13.29] * mvaenskae (~mvaenskae@unaffiliated/mvaenskae) has joined channel ##programming
+[05:13.44] <bebna> rinsch: Download RPGMaker 2000
+[05:13.58] * i56yards (~i56yards@90.222.41.147) has joined channel ##programming
+[05:14.02] <Madmallard> Gamemaker?
+[05:14.10] * sbrg (~identity@unaffiliated/identity) Quit (Ping timeout: 246 seconds)
+[05:14.21] <rinsch> bebna I prefer C++ :p but this lesson is getting on my nerves
+[05:14.31] * noturboo_ (~noturboo@va1.hashbang.sh) Quit (Ping timeout: 246 seconds)
+[05:15.10] <bebna> Which of the new free game engines, do you guys prefer?
+[05:15.19] <Madmallard> Unity
+[05:15.23] <bebna> (Getting back to topic...)
+[05:15.26] <dtscode> ncurses
+[05:15.38] <Madmallard> Ams's mom
+[05:15.48] <Madmallard> Def free
+[05:16.07] <bebna> free as in no cost, not as liberated
+[05:16.23] <Madmallard> O nvm then
+[05:16.29] <rinsch> Anyone knows any good engines compatible with linux?
+[05:17.13] <ams> engines?
+[05:17.29] <bebna> only the engine or also the tools around it?
+[05:17.31] * noturboo__ (~noturboo@va1.hashbang.sh) has joined channel ##programming
+[05:17.31] <rinsch> game engines?
+[05:17.49] * sbrg (~identity@unaffiliated/identity) has joined channel ##programming
+[05:17.52] <rinsch> bebna well. prefferably the whole pack
+[05:17.56] * pulse (~pulse@unaffiliated/pulse) has joined channel ##programming
+[05:18.27] <pulse> morning all
+[05:18.48] <rindolf> pulse: morning.
+[05:19.01] <eco_work_giko> pulse: Morning.
+[05:19.16] <bebna> that I can't help with then, don't know how well hammer works from valve, others are mostly focused on windows or mac
+[05:19.31] * spacemanjr (~yourname@46.246.112.121) has joined channel ##programming
+[05:20.05] <bebna> unreal's I think shall work, but don't perform that well last time I heard from a collegue in the tee kitchen
+[05:20.27] <bebna> pulse << "Morning\n
+[05:21.24] <pulse> hi rindolf, eco_work_giko, bebna & the rest. sup?
+[05:21.41] <rindolf> pulse: I'm trying to fix some Mageia bugs.
+[05:21.50] * memcpy (~memcpy@unaffiliated/memcpy) Quit (Quit: Leaving Circada 0.4.0)
+[05:22.05] <eco_work_giko> pulse: Fixing bugs and filing pull requests. You?
+[05:22.16] * earlgreyt2 (~earlgreyt@199.195.192.3) Quit (Ping timeout: 246 seconds)
+[05:22.27] <bebna> pulse: I'm writing a specification for a REST api in, I kid you not, "swagger"
+[05:22.40] * Jck_true_ is now known as Jck_true
+[05:22.53] <jkbbwr> bebna: swagger is cool
+[05:23.06] * jkli (~jkli@brln-d9ba336a.pool.mediaWays.net) has joined channel ##programming
+[05:23.15] * Seacow (~Seacow@unaffiliated/seacow) Quit (Ping timeout: 265 seconds)
+[05:23.20] <Plastefuchs> rindolf: afaik Unity and UE do well with linux :V
+[05:23.32] <pulse> i just woke up
+[05:23.32] <bebna> jkbbwr: It only does a limited subset of json schema, which gives me trouble
+[05:23.32] <Madmallard> Anybody work remote and have tips for me?
+[05:23.33] <Plastefuchs> err, sorry rindolf
+[05:23.45] <pulse> Madmallard, what kind of tips?
+[05:23.46] <rindolf> Plastefuchs: ah.
+[05:23.55] <Madmallard> Helpful advice
+[05:23.59] <Madmallard> Any kind
+[05:24.05] <pulse> i don't think remote work requires any additional skills
+[05:24.09] <Plastefuchs> rinsch: all three do well with linux, source is running with a bunch of games on linux, ue worked a long time there and i think unity 3d does fine there too :p
+[05:24.16] <Madmallard> Okay
+[05:24.17] <rindolf> Madmallard: I worked remotely.
+[05:24.31] <Madmallard> How about changes in expectations or communication and such
+[05:24.49] <Madmallard> I was at a big corp but i hated it so trying something new
+[05:24.59] <pulse> email
+[05:25.06] <rinsch> Plastefuchs do they have development tools for linux tho?
+[05:26.02] * memcpy (~memcpy@unaffiliated/memcpy) has joined channel ##programming
+[05:26.39] * KidBeta (~textual@130.56.77.27) has joined channel ##programming
+[05:27.21] <Plastefuchs> rinsch: that is a good question
+[05:33.12] <pulse> ok there are some genuinely nice people out there
+[05:33.14] <pulse> who would have thought
+[05:33.33] <pulse> i ordered 3 things from the same seller on ebay, and paid for the shipping for each separately
+[05:33.44] <pulse> and i just accepted the fact that i paid too much, but the guy refunded me without me even asking
+[05:33.50] <pulse> wow.
+[05:33.54] <Madmallard> Neat
+[05:34.01] * memcpy (~memcpy@unaffiliated/memcpy) Quit (Quit: Leaving Circada 0.4.0)
+[05:34.08] * prof_milki (~mario@ipb21952db.dynamic.kabel-deutschland.de) has joined channel ##programming
+[05:34.09] <Madmallard> Share that kindness with others
+[05:34.12] <Madmallard> Create a cycle
+[05:34.20] <pulse> i try to, i try to :-)
+[05:35.09] <eco_work_giko> pulse: I usually send people emails to thank them for that.
+[05:35.35] * rinsch (c23fefeb@gateway/web/freenode/ip.194.63.239.235) Quit (Quit: Page closed)
+[05:35.49] <pulse> yeah, i'm doing that right now
+[05:37.05] * Madmallard (~androirc@ip68-105-81-99.sd.sd.cox.net) Quit (Quit: AndroIRC - Android IRC Client ( ＋＋http://www.androirc.com，， ))
+[05:37.08] <eco_work_giko> Sarah1994: This is pretty good background music for programming.
+[05:37.19] * memcpy (~memcpy@unaffiliated/memcpy) has joined channel ##programming
+[05:37.38] <Sarah1994> Im also studying physics :P
+[09:39.29] *** Server disconnected on irc.freenode.net

@@ -1,0 +1,765 @@
+Session Start: Sat Mar 07 02:30:58 2015
+Session Ident: ##programming
+[02:30.58] *** Server disconnected on irc.freenode.net
+[02:31.02] --tepper.freenode.net-- *** Looking up your hostname...
+[02:31.02] --tepper.freenode.net-- *** Checking Ident
+[02:31.02] --tepper.freenode.net-- *** Couldn't look up your hostname
+[02:31.11] --tepper.freenode.net-- *** No Ident response
+[02:31.12] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[02:31.19] Rainb resolved to 181.50.196.58
+[02:31.19] * You have joined ##programming
+[02:31.20] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[02:31.20] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[02:31.23] --ChanServ-- [##economics] Hiya. Welcome to ##economics -- Freenode's channel based upon economic policy,basics,macro,micro,markets,trading & math in economics. Enjoy your stay ! Econbot makes stats @ ＋＋http://www.teralaser.net/economics/stats/，， but no public logs
+[02:31.23] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[02:31.23] --ChanServ-- [##physics] Don't ask to ask... ask!
+[02:31.23] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[02:31.23] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[02:31.23] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[02:31.23] Channel modes for ##programming are :+cntf ##overflow
+[02:31.23] Channel Created on: 5:23 AM 2/4/2007
+[09:31.24] *** Server disconnected on tepper.freenode.net
+[12:01.30] * You have joined ##programming
+[12:01.30] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[12:01.30] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[12:01.33] Channel modes for ##programming are :+cntf ##overflow
+[12:01.33] Channel Created on: 5:23 AM 2/4/2007
+[12:01.36] <vendu> pyon, i figured i could read it and perhaps  implement a compiler for the pascal stuff
+[12:01.41] <vendu> and definitely for c :D
+[12:02.01] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[12:02.02] <pyon> Pascal and C are 90% the same thing already, anyway.
+[12:02.04] <ExeciN> pyon: time to give it some hands-on testing
+[12:02.08] <vendu> imacinto, have you read write great code, volume one - understanding the machine? :)
+[12:02.26] <vendu> pyon, i have an early c tokeniser i did at some point :)
+[12:02.41] <vendu> pyon, i figured i could use one for  stuff such as probably editor syntax highlighting :)
+[12:02.41] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[12:02.44] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##programming
+[12:03.10] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Ping timeout: 265 seconds)
+[12:03.15] <pyon> vendu: Syntax highlighting is something I'd rather implement in the editor's own scripting language.
+[12:03.35] <manuel__> go ahead parse c++ :]
+[12:03.41] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) has joined channel ##programming
+[12:04.01] <pyon> manuel__: lol
+[12:04.15] * Snake2k (~Snake2k@unaffiliated/snake2k) has joined channel ##programming
+[12:04.35] <Snake2k> Hello humans, robots, and other weird things.
+[12:04.42] <pyon> I haven't found any single editor whose C++ support wasn't broken in subtle ways.
+[12:04.48] <vendu> pyon, hehe
+[12:04.51] <pyon> Not the editors' fault, though.
+[12:05.04] <vendu> pyon, i thought a tokeniser would be a proper thing to do :)
+[12:05.41] <manuel__> i prefer qt creator with the clang plugin the most
+[12:05.48] <pyon> vendu: The interesting/meaty parts of a compiler are semantic analysis, optimization and code generation, though. :-P
+[12:05.52] <Snake2k> Vim + YCM? >_>
+[12:05.52] <manuel__> while there's some stuff it still doesn't get it comes pretty close and is quite fast
+[12:06.43] * jesther (~jesther@121.1.54.52) has joined channel ##programming
+[12:07.01] <ConqueredWarrior> Hello
+[12:07.17] * thequestionperso (05417068@gateway/web/freenode/ip.5.65.112.104) Quit (Quit: Page closed)
+[12:07.18] <ConqueredWarrior> related to tree, do you store the key in the node?
+[12:07.25] <ConqueredWarrior> I mean if you have for a key a subtree,
+[12:07.43] <ConqueredWarrior> a node being a tree of size one, do I need actual nodes?
+[12:07.45] <snyp> ConqueredWarrior: what kind of tree?
+[12:07.45] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:07.51] <vdamewood> I think I want to get a dog and name it Fizzgig
+[12:08.12] <manuel__> you can store trees implicitly, or you can just store a pointer to children, or you can make it entirely separate from the data
+[12:08.13] <pyon> ConqueredWarrior: Depends on what kind of tree you're implementing.
+[12:08.15] <ConqueredWarrior> snyp: basically any number of children tree
+[12:08.29] <ConqueredWarrior> my tree needs to have nodes labeled, and the nodes have values that can mutate
+[12:08.29] <pyon> ConqueredWarrior: There are trees whose nodes have different sizes.
+[12:08.42] <ConqueredWarrior> I am thinking currently of having the tree "contain" node objects
+[12:08.56] <vendu> pyon, chances are i might try to implement a c compiler eventually
+[12:08.57] * redpill (~redpill@unaffiliated/redpill) Quit (Ping timeout: 252 seconds)
+[12:09.01] <pyon> vendu: Ah.
+[12:09.02] <vendu> hence the need for a tokeniser arised :)
+[12:09.19] <vendu> pyon, i realised it's basically what i'd need for syntax highlights, too :)
+[12:09.33] <manuel__> you can add a child pointer, and a sibling pointer to your data structure
+[12:09.42] <vendu> pyon, ultimately, the initial target audience of the zero project would be programmers :)
+[12:09.42] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##programming
+[12:09.44] * wagonboi (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) has joined channel ##programming
+[12:09.50] <vendu> it makes sense, they can hack some of the user applications then ;)
+[12:10.01] <pyon> vendu: More specifically, C programmers, I'm guessing.
+[12:10.13] <rindolf> Hi all, sup?
+[12:10.15] <vendu> pyon, for starters, yes :)
+[12:10.27] <vendu> hey rindolf, chatting away at the moment, how are you?
+[12:10.38] <zotta> What is the best way to approach the following problem: Input is a small list of touples (x,y) where x is the position and y is the magnitude.
+[12:10.38] <zotta> I am searching for "ladders" with high y values: one is the base and the x values of the others are integer multiples of that base.
+[12:10.38] <zotta> However it does not match up perfectly, because of noise and there are input values that do not belong to the "ladder"
+[12:10.50] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Quit: DolphinDream)
+[12:11.16] * zacts (~zacts@freebsd/geek/zacts) has joined channel ##programming
+[12:11.22] * redpill (~redpill@unaffiliated/redpill) has joined channel ##programming
+[12:11.57] <pyon> zotta: What exactly do you mean by "position"?
+[12:12.03] * arup_r (~chatzilla@122.167.238.209) has joined channel ##programming
+[12:12.21] <pyon> zotta: Do you mean "polar coordinates"? (angle and magnitude)
+[12:12.32] <zotta> nope, not angle
+[12:12.42] <pyon> Position where, then?
+[12:12.49] <wagonboi> I call this method from Main to sort a an int array. ＋＋https://gist.github.com/anonymous/7e44c6681d253e3712a8，， . However, in the method, if I operate on directly in the parameter, my while loop ends up changing the memory address of the original parameters variable (a points to something else). So is operating on a copy of the parameter a good workaround? Then point the parameter variable to the
+[12:12.49] <wagonboi> copy after it has been sorted?
+[12:13.19] * vdamewood (~vdamewood@75-164-231-233.ptld.qwest.net) Quit (Quit: ["Textual IRC Client: ＋＋www.textualapp.com，，"])
+[12:13.29] <rindolf> vendu: I'm fine. Trying to get bottom to a misbehaviour in patsolve.
+[12:14.03] <rindolf> vendu: I suspect it may have to do with the fact that it's now running on 64-bit systems instead of 32-bit ones.
+[12:14.04] <pyon> wagonboi: If you want to sort the elements in-place, sort them in-place.
+[12:14.27] <pyon> woggle: Sorting them them elsewhere, and then copying them back to the original array is wasteful.
+[12:14.37] <pyon> woggle: Err, sorry, that's for wagonboi.
+[12:15.00] <jjhurt5> Patsolve is written in mostly portable ISO C/POSIX and runs fine on 32-bit and 64-bit Windows and UNIX platforms (naturally including Mac OS X, and Linux)
+[12:15.37] <pyon> wagonboi: Imperative heapsort works in-place. Mergesort and quicksort have in-place variants.
+[12:15.42] <rindolf> jjhurt5: where do you see that?
+[12:16.00] <jjhurt5> ＋＋http://cards.wikia.com/wiki/Patsolve，，
+[12:16.07] <wagonboi> pyon, right but my class hasn't gotten there yet so I'm forced to work with what we have covered
+[12:16.31] <wagonboi> so the good way is to sort them in place? without the use of a copy
+[12:16.38] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) Quit (Remote host closed the connection)
+[12:17.06] <pyon> Oh, you're implementing radix sort... I'm guessing the in-place version of this should use lots of bitwise operations.
+[12:17.38] <rindolf> jjhurt5: ah.
+[12:17.43] <pyon> Sadly I don't remember how to implement radix sort off the top of my head, but why not consult Wikipedia?
+[12:17.45] <rindolf> jjhurt5: I think I wrote it.
+[12:18.29] <jjhurt5> ahhh
+[12:18.37] <zotta> pyon: a column of this picture: ＋＋http://46.246.93.192/screenshots/blah.png，，
+[12:18.54] <pyon> zotta: What's that?
+[12:19.05] <ExeciN> I need to setup a ghetto build-bot (for me) at my parents house
+[12:19.13] <Xgc> wagonboi: What have you covered so far and what class is this?
+[12:19.39] <zotta> pyon: a sonogram
+[12:19.46] <pyon> zotta: Ah.
+[12:19.47] <ExeciN> Its going to be super ugly: 3 VMs, one with OS X, one with Linux and one with Windows. Anyone has any idea on how to do it differently/properly?
+[12:20.03] <zotta> pyon: i want to find lines that belong together
+[12:20.09] <wagonboi> Xgc, this is data structures with Java and we covered arrays, lists, linked lists, stacks, recursion, quadratic sorts, and just now we are at quick/merge/radix/counting sorts
+[12:20.23] * kggr (~korggrodn@37.214.160.175) has joined channel ##programming
+[12:20.31] <Xgc> wagonboi: So why would an in-place sort be a problem?
+[12:20.47] <zotta> pyon: the reason it's not integer multiples on the picture is because it's logscale
+[12:21.38] <Xgc> wagonboi: The implementation details shouldn't matter to your teacher, as long as you use the radix logic... assuming that's possible.
+[12:21.50] * chicoenslips (~cerditofa@127.Red-81-44-95.dynamicIP.rima-tde.net) Quit (Ping timeout: 255 seconds)
+[12:22.13] <Xgc> wagonboi: I see your code.  But I don't understand your question.
+[12:22.24] * Ace___ (54d7f10e@gateway/web/freenode/ip.84.215.241.14) has joined channel ##programming
+[12:22.52] <pyon> zotta: So x and y are just regular plane coordinates, except your problem is that one of the coordinates is in log-scale?
+[12:22.56] <Ace___> how can I create a triangle mesh in python using FEniCS? cannot find any sources online
+[12:22.57] <Xgc> wagonboi: and if you can sort in any array, why not use the given array?
+[12:23.12] * prof_milki_ (~mario@ipb21952db.dynamic.kabel-deutschland.de) has joined channel ##programming
+[12:23.41] <zotta> pyon: it's only logscale on the picture, not in the code. just wanted to point out why the lines look that way.
+[12:24.09] <vendu> rindolf, ah :)
+[12:24.17] <pyon> Mmm...
+[12:24.32] <zotta> pyon: the actual problem is to decide what is noise and what belongs together
+[12:25.24] <pyon> What exactly do you mean by "belongs together"?
+[12:26.04] <wagonboi> Xgc, this was my original code where I operated on the parameter directly: ＋＋https://gist.github.com/anonymous/c89adc3339cccfbc4a4e，，
+[12:26.11] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[12:26.12] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:26.21] * snyp (~Snyp@150.129.132.216) Quit (Quit: WeeChat 1.1.1)
+[12:26.46] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[12:27.04] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) has joined channel ##programming
+[12:27.15] * godel is now known as el_tano
+[12:27.20] <wagonboi> Ok, say I have int[] data in main and I pass it to binaryRadixSort(). Well, binaryRadixSort sorts the parameter correctly. But once back at main, the data array remains unsorted. I debugged it and saw that the address of "a" parameter changes at line 49.
+[12:28.04] <wagonboi> So to alleviate this, I operate on a copy of the parameter so that the memory address of a is intact. Then at the end, I copy the now-sorted elements of copyOfA back to a.
+[12:28.14] * el_tano is now known as godel
+[12:28.35] <lf94> pyon do you not sleep or something
+[12:29.01] <zotta> pyon: you see that the lines in the picrure are stacked on top of each other quite nicely. I want to find a series of points for every column, wich belong to such a stack
+[12:29.33] <zotta> pyon: or none if ther is nothing
+[12:30.41] * arup_r (~chatzilla@122.167.238.209) Quit (Ping timeout: 245 seconds)
+[12:31.36] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:32.57] <Xgc> wagonboi: Yuo may need to show the complete class, with main, so that I know exactly what you attempted.  References in java (pointers) are passed by value, just as in C.  It's tough to know which mistake you are making.
+[12:33.05] * Mives (~mike@pool-98-116-91-109.nycmny.fios.verizon.net) has joined channel ##programming
+[12:33.34] <wagonboi> Xgc, is Dropbox .zip ok?
+[12:33.58] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[12:34.01] <Xgc> wagonboi: Try it.  I do see your mistake.
+[12:34.13] <Xgc> wagonboi: a = buckets[BUCKET_0];  ... this is obviously a mistake.
+[12:34.31] * FLHerne (~flh@unaffiliated/flherne) has joined channel ##programming
+[12:34.49] <wagonboi> our TA said that since buckets[BUCKET_0] has been sorted already, then to just append buckets[bucket_1] to it. How is it a mistake?
+[12:34.54] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:34.58] <Xgc> wagonboi: Since << a >> was passed by value, when you assign to << a >> you are simply assigning a new reference to the local variable / parameter.
+[12:35.37] <Xgc> wagonboi: << a >> is just a copy of the pointer held in main.
+[12:35.55] <Xgc> wagonboi: It's the same issue you would run into with C.
+[12:36.02] <`Eddie> what's a simple way in c++ to get the program to "restart" when it ran
+[12:36.39] <`Eddie> like say i got the input of 2 numbers, added them got the result printed out, how do i make it "re-run" in the same instance
+[12:36.48] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:37.26] <zotta> `Eddie: while(true){ AddNumbers(); }
+[12:37.29] <Xgc> wagonboi: Your goal is to change the array in main or to pass back a new array / reference.  You can't impact the caller with an assignment to << a >>
+[12:38.11] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 245 seconds)
+[12:38.12] <wagonboi> correct Xgc . Except I shouldn't return anything since the given method signature is void
+[12:38.21] <Xgc> wagonboi: Java is not capable of doing what you attempted.
+[12:38.36] <Xgc> wagonboi: Did you see the line I pasted above (from your program)?
+[12:38.42] <`Eddie> zotta: thanks
+[12:39.02] <wagonboi> Xgc, yes I did. a = buckets was a mistake
+[12:39.05] <Xgc> wagonboi: Do you know why that has no impact on the caller?
+[12:39.24] * anthrnm (~vandrew@86.122.228.44) has joined channel ##programming
+[12:39.25] <zotta> `Eddie: new to programming?
+[12:39.46] <`Eddie> yep, just started c++ a few days ago,
+[12:39.59] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##programming
+[12:40.15] <wagonboi> because "a" is reassigned a new memory address that points to buckets? the actual elements are not copied to "a", "a" just points to the values at buckets
+[12:40.57] <`Eddie> zotta: and I think i know enough already to make-do with a basic 4 operation calculator, which would be covered in a future tutorial, but i want to see if i could get to it, and the "eternal" running is just a little thing I'd like it to have
+[12:41.18] <Xgc> wagonboi: Right. << a >> is just a copy of a pointer to the array.  You are changing that pointer locally in the sort method, not in the caller.
+[12:41.41] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) has joined channel ##programming
+[12:41.42] <zotta> `Eddie: c++ as first language is hardcore. you might want to start with something simple with better error handling and automatic memory management
+[12:41.46] <wagonboi> ah, so it's like scope but for references?
+[12:41.59] <wagonboi> *variable scope
+[12:42.35] <`Eddie> zotta: i don't look for easy ways out, i don't know, i also am if i know something easier, i'll probably stick with it until the very end, if i do something this hard first then i'm more likely to be better
+[12:42.40] <Xgc> wagonboi: It's because Java passes arguments by value.  Each argument is copied for the method's use.
+[12:43.11] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 245 seconds)
+[12:43.12] <Xgc> wagonboi: It's the same reason this has no impact on the caller:   void func(int k) { k = 10; }
+[12:43.33] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##programming
+[12:43.40] * chicoenslips (~cerditofa@4.Red-81-36-4.dynamicIP.rima-tde.net) has joined channel ##programming
+[12:44.52] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 240 seconds)
+[12:44.52] <zotta> `Eddie: c++ forces you to deal with everything at once: memory management, pointers, bad error handling, etc..
+[12:45.03] <Xgc> wagonboi: No matter what the caller passes to func, the caller's argument will never be changed by that assignment to 10.
+[12:45.31] <`Eddie> zotta: yeah I am aware it's a hardcore, hard but ultimately the dominating language on which most of software works
+[12:45.51] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) Quit (Ping timeout: 240 seconds)
+[12:45.53] <electrojustin> depends on how you define "most of software"
+[12:46.18] <zotta> `Eddie: I recommend starting with c#, python or java and once you know the basics in these languages you can read about pointers and move to c++
+[12:46.41] * Gurkenglas_ (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[12:46.44] * jesther (~jesther@121.1.54.52) Quit (Ping timeout: 256 seconds)
+[12:46.59] <`Eddie> a big chunk of software
+[12:47.01] <electrojustin> iirc java is technically the most popular language
+[12:47.07] <Xgc> wagonboi: In Java, there are a couple of options.  One is to use the return value to return a new array or int.  The other is to pass a reference to an object that contains data you wish to change.  So if you pass someObject that contains member x, you can assign: someObject.x = 5;  in the method and the caller will see that change.
+[12:47.11] * Trudko (~chatzilla@nat-88-212-37-105.antik.sk) Quit (Remote host closed the connection)
+[12:47.15] <`Eddie> java is also easy
+[12:47.18] <`Eddie> apparently
+[12:47.23] <`Eddie> which removes appeal for me.
+[12:47.35] * mvaenskae (~mvaenskae@unaffiliated/mvaenskae) has joined channel ##programming
+[12:47.38] <vendu> zotta, ＋＋http://vendu.twodots.nl/projects.html，， lists some stuff i've been doing over the years :)
+[12:47.39] <electrojustin> ...wouldn't touch java with a 10 ft pole unless i had to, but...
+[12:47.43] <zotta> `Eddie: Your code will be half as long (except in java) and you will get useful error messages
+[12:47.51] * gganesan (~gganesan@103.242.236.46) has joined channel ##programming
+[12:48.01] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) Quit ()
+[12:48.38] <_W_> c# python and java are all gnarly enough to not be optimal beginner languages, but I'm not sure such a beast exist anyway
+[12:48.42] <`Eddie> i also feel C++ would be much more useful when developing full scale applications, possible mobile(firstly iOS, then other system apps)
+[12:48.57] <electrojustin> no, not mobile
+[12:49.08] <`Eddie> swift
+[12:49.09] <electrojustin> mobile is java, swift, objective c, or c# afaik
+[12:49.13] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 246 seconds)
+[12:49.28] <`Eddie> swift comes from objective c right? and objective comes from c again right?
+[12:49.31] <zotta> `Eddie: what electrojustin said
+[12:49.38] * user1233211 (~user@112.134.191.246) has joined channel ##programming
+[12:49.47] <electrojustin> no, objective c is appreciably different from normal c from what i can tell
+[12:49.54] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:49.55] <`Eddie> but it came form c didn't it?
+[12:49.57] <electrojustin> it's not a superset like c++ is
+[12:50.04] <`Eddie> hmh
+[12:50.06] <zotta> `Eddie: all these languages are very similar in syntax
+[12:50.10] <electrojustin> it's loosely based on the syntax of c in *some* regards, but so is every language
+[12:50.18] <zotta> `Eddie: they all look like C
+[12:50.29] <Xgc> electrojustin: and, of course, C++ is not a superset.
+[12:50.36] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[12:50.37] <`Eddie> it used to be though right
+[12:50.37] <electrojustin> it might as well be...
+[12:50.45] <Xgc> `Eddie: Never.
+[12:50.58] <Rounin> Says Wikipedia: Objective-C is a thin layer on top of C, and is often called a "strict superset" of C, meaning that it should be possible to compile any C program with an Objective-C compiler, and to freely include C code within an Objective-C class.[9][10][11][12][13][14]
+[12:51.12] <Rounin> You know they mean business when they've got [9][10][11][12][13][14] on there
+[12:51.13] <electrojustin> huh
+[12:51.14] <`Eddie> hmh well still, if i know one, then the other's will be easier to learn
+[12:51.15] <electrojustin> TIL
+[12:51.22] <`Eddie> like any of the big C languegs
+[12:51.38] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:51.41] <electrojustin> C's probably easier than C++ strictly speaking
+[12:51.45] <electrojustin> i hear C# is pretty nice
+[12:51.47] <`Eddie> rather than switching java habits into some C related habits of C, swift, c++, objective-c or whatever
+[12:51.57] <Rounin> Yes... C# is Java with some nice improvements
+[12:52.02] <electrojustin> so I've heard
+[12:52.16] <pyon> Rounin: It just means that the process of circular referencing between Wikipedia and blogs has been running faster.
+[12:52.27] <pyon> :-P
+[12:52.31] <vendu> hmm :)
+[12:52.35] * user123321 (~user@112.134.225.108) Quit (Ping timeout: 264 seconds)
+[12:53.02] <Rounin> pyon: {¦D
+[12:53.09] <Xgc> C may seem to be easy to learn, but it is not.  The rules of undefined behavior and the like are difficult enough that most people have no idea they are making mistakes, for many years.
+[12:53.11] <`Eddie> so in the end i thought and still think, learning one of the C languages is beneficial to learning the others for any use i might do
+[12:53.18] <Rounin> Don't you dare try get something useful on there though
+[12:53.23] <user1233211> Chuck Norris does programming is machine language.
+[12:53.25] * weeirc8089 (~novo@bzq-79-177-107-9.red.bezeqint.net) has joined channel ##programming
+[12:53.28] <Rounin> It'll be deleted as per WP:CLMNGAM
+[12:53.37] <user1233211> in*
+[12:53.43] <gganesan> C comes with its own share of problems - it's small - but requires you to pay attention to every detail
+[12:53.47] <Rounin> What? Never heard of CLMNGAM? It was discussed extensively at the 5th Water Pipe Council of Elders.
+[12:53.50] <electrojustin> no, don't actually try to sit down and memorize everything that's undefined behaviour, you'll never get something done
+[12:53.53] <Rounin> Hush now
+[12:54.24] * Richdog (~Richdog@cpe-075-183-106-080.triad.res.rr.com) has joined channel ##programming
+[12:54.52] <zotta> `Eddie: Yes, but some of these languages are much easier to learn than actual c and you'll get really bad habits from doing plain c
+[12:54.52] <zotta> `EddieI highly recommend learning somethin else first and then switching to c
+[12:54.54] <Xgc> Not to mention that C is one of the most costly languages to use for development.
+[12:54.58] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) Quit (Client Quit)
+[12:55.03] <`Eddie> i'm doing c++
+[12:55.19] <electrojustin> `Eddie: go for it. just know it's something of a long road
+[12:55.47] <electrojustin> don't spend too much time worrying about which first language to learn, just learn one and start making projects
+[12:55.58] <`Eddie> well i started c++ already :p
+[12:56.02] <`Eddie> not worrying about the choice
+[12:56.12] <electrojustin> i would steer you away from machine code though...
+[12:56.14] <`Eddie> but whenever i mention the C family everyones like chaos
+[12:56.22] <electrojustin> yup
+[12:56.31] <electrojustin> that happens
+[12:56.42] <user1233211> I first started with VB6 :D
+[12:56.53] <zotta> turbo Pascal
+[12:56.56] <`Eddie> it's like no, do non C, no do C then C++ or no do C++ then C, or no no, go do swift, or etc etc
+[12:57.05] <electrojustin> i started with C++ actually
+[12:57.11] <electrojustin> come to think of it
+[12:57.52] * UberLambda (~uber@dynamic-adsl-94-36-15-214.clienti.tiscali.it) has joined channel ##programming
+[12:58.00] * jesther (~jesther@121.1.54.52) has joined channel ##programming
+[12:59.12] * Lovich (~Lovich@98.192.46.238) has joined channel ##programming
+[12:59.26] <gganesan> I did C and C++ for around 4 years ... and moved to Python to cut down verbosity of my code
+[12:59.27] <electrojustin> still not very good at it. fuck if I know what a template is. but useful work can still be done with a subset of the language
+[12:59.52] <UberLambda> ZOMG... my lscpu lists 6.3 ghz as the maximium for my CPU
+[12:59.58] <UberLambda> wtf
+[01:00.03] <Xgc> `Eddie: You can learn to program with anything.  But it's often a good idea to avoid languages which distract from your logical goal.
+[01:00.19] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) has joined channel ##programming
+[01:00.38] <electrojustin> UberLambda: would not recommend overclocking to 6.3 ghz unless you've got a nice cooling system and decent PSU
+[01:01.15] * Neal_ (neal@felix.ineal.me) Quit (Quit: brb system upgrade)
+[01:01.16] <`Eddie> you mean like C++ could keep me busy with learning how it works rather than doing actual stuff with it
+[01:01.20] <UberLambda> electrojustin: I have set my machine to use XMP for DDR3 @1.6ghz
+[01:01.30] <UberLambda> electrojustin: I hope it's a lscpu error
+[01:01.32] <Xgc> `Eddie: Possibly. Yes.
+[01:01.53] <Xgc> `Eddie: C is better known for that behavior.
+[01:01.59] <gganesan> `Eddie: yes, it would require a deep understanding of memory and other low level details about the computer
+[01:02.07] * Partial_Ghoul (~quassel@117.203.236.67) Quit (Read error: Connection reset by peer)
+[01:02.13] <electrojustin> not a *deep* understanding of memory
+[01:02.37] <electrojustin> knowing that memory consists of a linearly addressed space of bytes will suffice
+[01:02.41] <gganesan> I was mentioning about copy constructors / assignment operators / operator new, etc
+[01:03.02] <gganesan> I ended up in tons of SEGFAULTs ...
+[01:03.03] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:03.08] <pyon> gganesan: I don't think C or C++ alone will teach you much about, say, the cache/IO memory model.
+[01:03.25] <gganesan> yeah, but to start with, they're okay
+[01:03.27] <electrojustin> or segmentation and paging
+[01:03.34] <pyon> gganesan: And, for highly performance-sensitive applications, the RAM model is actually not accurate enough.
+[01:03.51] <vendu> zotta, turbo pascal was the bomb :D
+[01:03.54] <electrojustin> but I segfaulted a lot when I first started. hell, i still do. one of the nice things about C and C++ is that they teach you how to debug
+[01:04.02] * UberLambda (~uber@dynamic-adsl-94-36-15-214.clienti.tiscali.it) Quit (Remote host closed the connection)
+[01:04.11] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) Quit (Quit: Leaving)
+[01:04.14] <pyon> electrojustin: Lucky you. Only thing memory errors taught me is to avoid memory-unsafe languages. :-P
+[01:04.15] * ArchZombie (~lkjfeiosn@2601:0:a082:9600:2458:fbe8:db4e:a922) Quit (Quit: Leaving)
+[01:04.24] * anthrnm (~vandrew@86.122.228.44) has joined channel ##programming
+[01:04.31] <Xgc> C has its own abstract memory model.  The problem is if you corrupt it, and it's almost impossible not to, you drop off into never-never land, often with no idea of how.
+[01:04.37] <wagonboi> so in Quicksort, the actual sorting is done by a partition() method, right?
+[01:04.43] <gganesan> yeah pyon, we can optimize hot spots after coding
+[01:05.05] * imacinto (~imacinto@unaffiliated/imacinto) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[01:05.12] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[01:05.33] <vendu> anyone know if peter crossman's discrete mathematics for computing is a good book? :P
+[01:06.47] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:07.05] <gganesan> the book looks like an engineering syllabus !
+[01:07.14] * Yordan89 (gfdgfdgfdg@77.78.0.47) has joined channel ##programming
+[01:07.21] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[01:08.03] * manuel__ (~manuel@c-73-16-8-100.hsd1.ma.comcast.net) Quit (Quit: manuel__)
+[01:08.41] <pyon> gganesan: I studied engineering, and I can guarantee you I never saw anything even vaguely resembling "discrete mathematics".
+[01:09.24] * pyon is now known as continuous-pyon
+[01:09.42] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) has joined channel ##programming
+[01:09.47] <vendu> gganesan, hehe
+[01:09.59] <vendu> gganesan, there's a copy being sold for 32 euros on a finnish online auction :)
+[01:10.04] <vendu> buy it now price :P
+[01:10.08] <vendu> i think i might get it =)
+[01:10.16] * UberLambda (~uber@dynamic-adsl-94-36-15-214.clienti.tiscali.it) has joined channel ##programming
+[01:10.32] * jesther (~jesther@121.1.54.52) Quit (Ping timeout: 256 seconds)
+[01:10.39] <gganesan> pyon: I studied electrical and electronics engineering - I had this subject
+[01:10.48] * ConqueredWarrior (~Pusher@unaffiliated/conqueredwarrior) has left ##programming ()
+[01:11.19] * jesther (~jesther@121.1.54.52) has joined channel ##programming
+[01:11.24] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Remote host closed the connection)
+[01:11.47] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 255 seconds)
+[01:11.58] <gganesan> didn't read this book though !
+[01:13.18] * home (~quassel@117.203.236.67) has joined channel ##programming
+[01:14.49] <rindolf> wagonboi: kinda, but you call it recursively to sort smaller and smaller segments.
+[01:15.14] <matt|home> gganesan : you alive? need some advice
+[01:15.26] <gganesan> yup, matt|home
+[01:15.41] * home is now known as Partial_Ghoul
+[01:15.46] <pulse> nice sort algorithm ＋＋https://github.com/ExPHAT/twitter-sort，，
+[01:16.10] <UberLambda> Seems like lscpu is crazy after all, I have a turbo mode of 4.1GHz
+[01:16.13] <matt|home> so here's the deal - essentially i want to learn as much hardware stuff as i can, to the point where i can make cool robots simple CPUs and shit like that, thats essentially the end goal - but i got incredibly frustrated with abstraction levels in programming since i didn't understand how any of it actually -worked-
+[01:16.17] <matt|home> with me so far?
+[01:16.25] <UberLambda> I wonder where it gets the 6.4GHz max value it displays from
+[01:16.38] <rindolf> pulse: heh.
+[01:16.53] <gganesan> ok ok - I get it - so you want to build robots, eh ?
+[01:17.03] <gganesan> arduino, perhaps ?
+[01:17.04] <Xgc> UberLambda: Probably some experiment outside the international space station.
+[01:17.16] <continuous-pyon> pulse: Twitter-sort?
+[01:17.17] <matt|home> well, cool electronics projects like rockets and robots and shit like that , essentially large projects - and yeah i have an arduino ive been messin around with
+[01:17.31] <pulse> continuous-pyon, it asks people to sort your numbers
+[01:17.33] <matt|home> i have some C experience , and lately ive been trying to learn assembly
+[01:17.38] <continuous-pyon> pulse: lol dafuq
+[01:17.41] <gganesan> great, you're already on the right course ...
+[01:17.55] <gganesan> oh - don't get into assembly - you'll spend loads of time debugging ..
+[01:18.01] <pulse> continuous-pyon, i wonder what the complexity of this is :P
+[01:18.12] <matt|home> then i started studying electronics and circuits and shit, and im just wondering if you had any suggestions as to like.. challenge projects, or anything i should be doing specifically or whatever - lately all ive accomplished was make some LEDs blink
+[01:18.20] <continuous-pyon> pulse: O(twatter), of course.
+[01:18.21] <matt|home> and got some 7seg displays working essentially
+[01:18.26] <pulse> continuous-pyon, hehe
+[01:18.31] <matt|home> just wanted your opinion/advice as to what else i should be doin
+[01:18.36] <UberLambda> Xgc: yeah, probabily one with a lot of liquid nitrogen
+[01:18.41] <Snake2k> matt|home: Computer Systems: A Programmer's Perspective, to be honest the best book for C and ASM, how they relate (x86 and x86-64), how to rev engineer on a light scale, then how Operating Systems work
+[01:18.47] <gganesan> ha ha - I was doing all these breadboards and stuff dring my engineering ...
+[01:18.54] <Snake2k> matt|home: Shit's awesome lol
+[01:19.00] <matt|home> uh
+[01:19.04] <matt|home> 2 seperate books?
+[01:19.20] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Remote host closed the connection)
+[01:19.23] <Snake2k> matt|home: It's one book... "Computer Systems: A Programmer's Perspective", it's a huge ass book >_>
+[01:19.37] <matt|home> right then you said 'how operating systems work' is that part of that book ?
+[01:19.41] <gganesan> I'd suggest Dennis Ritchie's C book
+[01:19.59] <gganesan> for operating systems, I'd recommend Computer Architechuture by Hayes
+[01:20.10] <gganesan> let me check if I spelt author correctly
+[01:20.11] * hanshenrik_ (~hanshenri@ti0016a400-6414.bb.online.no) has joined channel ##programming
+[01:20.18] <Snake2k> matt|home: Yep, it's a very huge book, it's for C programmers. Best I've read so far.
+[01:20.34] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) has joined channel ##programming
+[01:20.35] <gganesan> it's by Hayes ...
+[01:20.41] * freecoder (~freecoder@49.248.160.146) Quit (Ping timeout: 245 seconds)
+[01:20.41] <matt|home> the last "complex" thing i did with a starter kit i purchased was essentially getting a 4 digit 7seg display working, all i did was abstract the programming a little though
+[01:20.42] * Guest27098 (~rosh@180.215.62.49) Quit (Ping timeout: 272 seconds)
+[01:20.51] * Angleton (~holoirc@unaffiliated/church-) has joined channel ##programming
+[01:20.57] <matt|home> but i'll give that book a look, thanks
+[01:21.07] <gganesan> I see - instead you could try with some sensors -
+[01:21.08] * zadock (~zadock@muscalu.tuiasi.ro) Quit (Quit: Leaving)
+[01:21.14] <Snake2k> matt|home: Np
+[01:21.16] <gganesan> I did a temperature sensor using a thermistor
+[01:21.20] <matt|home> i haven't done much with C since addressing and shit is difficult for me, the C book i had was uh
+[01:21.37] <matt|home> head first C, which supposedly was nice for beginners but it didn't cover any of the shit i wanted to do on a low-level scale like electronics and hardware programming
+[01:21.40] <gganesan> like a digital thermometer and some counters
+[01:21.49] * Richdog (~Richdog@cpe-075-183-106-080.triad.res.rr.com) Quit (Ping timeout: 246 seconds)
+[01:21.57] <matt|home> supposedly i have a thermometer in this kit but i seriously can't seem to find it
+[01:22.00] <matt|home> oh well
+[01:22.08] <gganesan> ha ha - head first C is only for C programmers - not for people who want to look inside hardware :)
+[01:22.29] <matt|home> yeah - i was like, wait i can do all this a thousand times easier in like python and in less lines of code too
+[01:22.43] <gganesan> also led based light pulse counter ( a led with a light pickup that measures speed of a spinning wheel )
+[01:22.45] * roxlu (~textual@5ED2B568.cm-7-3c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[01:22.49] <Twey> Programming in C and programming electronics are different skills and largely orthogonal
+[01:23.00] <Xgc> matt|home: If you have (or will have) some assembler experience, you will find an understanding of address registers can help in the area of C pointers.  Don't make too many assumptions.  But conceptually, there's a relationship.
+[01:23.03] <gganesan> agree Twey ...
+[01:23.10] * hanshenrik (~hanshenri@ti0016a400-6414.bb.online.no) Quit (Ping timeout: 246 seconds)
+[01:23.17] <matt|home> uh.. i dunno what that word means, but a friend of mine said the best way to go about it was to learn C and assembly since both go hand in hand with low level programming
+[01:23.18] <matt|home> brb
+[01:23.19] * Angleton is now known as Rashid-
+[01:23.22] <Rashid-> Sup
+[01:23.28] <rindolf> Rashid-: hi.
+[01:23.38] <Rashid-> Heya Twey, rindolf. What's going on?
+[01:23.39] * manuel__ (~manuel@c-65-96-168-76.hsd1.ma.comcast.net) has joined channel ##programming
+[01:23.43] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 256 seconds)
+[01:23.44] <gganesan> I started with C, but couldn't comprehend more than 10 lines of assembly
+[01:23.46] <rindolf> Rashid-: I worked on Mageia Linux packages today.
+[01:24.18] <zotta> gganesan: It helps if you write pseudo c code next to it
+[01:24.43] * roxlu (~textual@5ED2B568.cm-7-3c.dynamic.ziggo.nl) has joined channel ##programming
+[01:24.45] * Neal_ (neal@felix.ineal.me) has joined channel ##programming
+[01:24.46] <gganesan> yeah - but it was getting into very low level details ...
+[01:24.55] <Rashid-> Rindolf: Mageia Linux?
+[01:24.57] <gganesan> I liked RISC processors instead of CISC ...
+[01:25.02] <rindolf> Rashid-: yes.
+[01:25.07] <rindolf> Rashid-: it's a Linux distribution.
+[01:25.22] <gganesan> RISC was so easy - Intel's x86 is CISC - and let me through confusion :(
+[01:25.33] <UberLambda> Do you think that garbage collectors are still much worse than manual memory management?
+[01:25.40] <Rashid-> Just working to try and get my lexer written myslf. Kinda irritating trying to think of the best way to do it with my current knowledge of rust.
+[01:25.44] <zotta> gganesan: Lol x86 is relatively easy, too
+[01:25.48] <matt|home> also question for assembly im using this book :'assembly language for x86 processors 6th edition' by i dont know who, thats a good asm book right?
+[01:25.57] <Rashid-> Ah, thought so. Just wasn't sure if it was a distro or not.
+[01:25.57] * ManikM (~quassel@103.251.227.172) has joined channel ##programming
+[01:26.03] * manuel__ (~manuel@c-65-96-168-76.hsd1.ma.comcast.net) Quit (Client Quit)
+[01:26.06] <gganesan> yeah, I had exposure to both ARM and x86 assembly
+[01:26.20] <gganesan> I liked ARM though - may be my personal feeling :P
+[01:26.26] <Rashid-> matt|home: Wouldn't have a clue. Never used a book to learn x86/x64 assembly.
+[01:26.30] <matt|home> aight
+[01:26.58] <gganesan> matt, I'm not sure for robotic project or arduino based stuff you really need x86 assembly
+[01:27.00] <Xgc> I had done quite a bit of assembler, digital circuits design / devopment, fortran, some pascal, etc... before touching C.
+[01:27.06] <Rashid-> rindolf: How knowledgeable are you of lexers?
+[01:27.24] <rindolf> Rashid-: a little.
+[01:27.25] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) has joined channel ##programming
+[01:27.28] * Rashid- is kinda ashamed and yet proud to admite he's sorta pants at C.
+[01:27.33] <zotta> I once wrote a shellocde for x86 windows that loads a c/c++ dll into memory and resolves the imports.
+[01:27.43] <zotta> then executes it
+[01:28.08] <Rashid-> Hmm, maybe Twey then. He seems nice and technical consodering his talks with pyon...
+[01:28.14] <Rashid-> Twey, you present?
+[01:28.32] <reaga> honestly i feel bad for people who think the compileris smarter than i am
+[01:28.39] * ap0c (~ap0c@unaffiliated/ap0c) has joined channel ##programming
+[01:28.39] <Rashid-> zotta: Ah, nothing like some weird machines, eh? :)
+[01:28.44] <reaga> its been said to me multiple times here "the compler is smarter than you"
+[01:28.51] <reaga> u must have really low self esteem to think that
+[01:28.52] <continuous-pyon> Are there any good resources on how to implement garbage collectors?
+[01:29.01] <UberLambda> I wonder how a compiler based on genetic algorithms would perform
+[01:29.04] <Rashid-> Lulz
+[01:29.12] <Xgc> Rashid-: Question about lexical analyzers?
+[01:29.13] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Remote host closed the connection)
+[01:29.22] <UberLambda> e.g. compile, change flags, bench binary, mutate & repeat
+[01:29.23] * Partial_Ghoul (~quassel@117.203.236.67) Quit (Read error: Connection reset by peer)
+[01:29.23] * korg (~korggrodn@37.214.160.175) has joined channel ##programming
+[01:29.26] <continuous-pyon> Errr... I mean, more specifically, garbage collectors for immutable data.
+[01:29.35] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[01:29.42] <Rashid-> continuous-pyon: I've discovered there is a limit to how many nicks you can have grouped to an account on freenode. :P
+[01:29.43] <continuous-pyon> (There are all sorts of GC optimizations that only work for immutable data. I need to learn about those.)
+[01:29.50] <continuous-pyon> Rashid-: Yes, 20.
+[01:29.54] <continuous-pyon> Rashid-: I discovered it the hard way.
+[01:29.56] <UberLambda> continuous-pyon: I'd like to know, too
+[01:29.59] <Rashid-> Same.
+[01:30.04] <zotta> Rashid-: nah, just some sure-fire exploit for some browser plugin that lets you execute c code directly in the browser
+[01:30.06] * continuous-pyon is now known as garbage-pyon
+[01:30.20] <Rashid-> Trying to find a way to list my nicks so I can ungroup some.
+[01:30.20] <Twey> Rashid-: What's the question?
+[01:30.21] <UberLambda> lol
+[01:30.28] <Rashid-> Twey, one sec.
+[01:30.39] <garbage-pyon> Rashid-: /msg nickserv info <your account name>
+[01:30.49] <Rashid-> zotta: Ah, nah. I was referencing a lang-sec paper.
+[01:30.55] <Rashid-> garbage-pyon: Danke
+[01:31.12] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:31.31] <Twey> garbage-pyon: AFAIK GHC's is the state of the art, for which the definitive paper is I think ＋＋http://research.microsoft.com/en-us/um/people/simonpj/papers/parallel/local-gc.pdf，，
+[01:31.38] <garbage-pyon> Twey: Thanks!
+[01:31.43] <zotta> Rashid-: I remember thet title of a c3 talk about the quirks of elf binaries
+[01:31.48] <gganesan> Haskell has all immutable data : so you can refer that : ＋＋https://wiki.haskell.org/GHC/Memory_Management，，
+[01:32.02] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:32.08] <Rashid-> Twey: Just curious about best practice on implementing a lexer. Since I'm doing it in rust and it can be... tedious. Since the way I would like to do it is currently out of my technical depth.
+[01:32.17] * cubed_root (~cubed_roo@c-69-242-104-56.hsd1.nj.comcast.net) Quit (Ping timeout: 245 seconds)
+[01:32.18] <Twey> garbage-pyon: Hm, that's mostly about the addition of concurrency, though.  Maybe one of the older papers would be better
+[01:32.20] <garbage-pyon> gganesan: *Almost* all immutable. STRefs and IORefs do exist.
+[01:32.26] <garbage-pyon> Twey: Oh.
+[01:32.46] <gganesan> uh-oh, I'm a newbie to Haskell ... sorry about that
+[01:33.00] <gganesan> still wondering about monads :)
+[01:33.02] <garbage-pyon> gganesan: Also, laziness is a form of mutation.
+[01:33.19] <garbage-pyon> gganesan: Monads aren't intrinsically about mutation.
+[01:33.20] * kggr (~korggrodn@37.214.160.175) Quit (Ping timeout: 244 seconds)
+[01:33.24] * sir_galahad_ad (~sir_galah@cpe-67-255-208-231.maine.res.rr.com) has joined channel ##programming
+[01:33.30] <gganesan> yeah - I get it
+[01:33.41] * larc6 (~larc6@pool-74-98-211-129.pitbpa.fios.verizon.net) Quit ()
+[01:33.44] <gganesan> you meant to say thunks in Haskell terms ?
+[01:33.49] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Remote host closed the connection)
+[01:33.54] <Twey> garbage-pyon: Maybe ＋＋https://ghc.haskell.org/trac/ghc/wiki/Commentary/Rts/Storage/GC，，
+[01:33.59] <garbage-pyon> Twey: Checking.
+[01:33.59] * korg (~korggrodn@37.214.160.175) Quit (Ping timeout: 264 seconds)
+[01:34.00] <Rashid-> So, my question is. What, spawn an iterator, iterator over the Input and match to a regex. Then maybe have a lookahead function to peek at the next reference/char/byte/etc in the iterator and see if it keeps matching against the regex?
+[01:34.05] * freecoder (~freecoder@49.248.160.146) has joined channel ##programming
+[01:34.09] * larc6 (~larc6@pool-74-98-211-129.pitbpa.fios.verizon.net) has joined channel ##programming
+[01:34.38] <Rashid-> Just looking for a simple way to implement one that won't have me writing a large-ass state machine or hundredsof if-thens.
+[01:34.38] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:35.01] <Twey> Rashid-: Hm, pretty big question
+[01:35.14] <Twey> Rashid-: The right way in Rust is probably as an iterator transducer
+[01:35.17] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[01:35.21] <Rashid-> Yarp. Sorry, just been irritating me.
+[01:35.41] <Twey> Rashid-: You take an iterator over characters and some kind of tokenizer object, and produce an iterator over tokens
+[01:35.45] <zotta> Rashid-: ＋＋http://stackoverflow.com/questions/9729075/c-state-machine-generator，，
+[01:36.01] * gganesan (~gganesan@103.242.236.46) Quit ()
+[01:36.25] <Rashid-> Twey, I'll send a paste of the way I'd like to do it but can't.
+[01:36.45] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[01:36.55] <Twey> Rashid-: Where the core of the tokenizer is going to be something like Iterator Char → Maybe (Token * Iterator Char), i.e. something very like a potentially-finite stream
+[01:37.08] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Read error: Connection reset by peer)
+[01:37.11] <Twey> (sorry, I don't know Rust syntax)
+[01:37.28] <Rashid-> S'not a problem.
+[01:37.30] <garbage-pyon> Twey: It's horrorifying, save yourself the experience.
+[01:37.34] <Rashid-> I sorta get it.
+[01:37.42] <Twey> Hm
+[01:37.52] <Rashid-> Hmm, this makes me really appreciate type systems now.
+[01:38.00] <Rashid-> zotta: ＋＋http://langsec.org/，，
+[01:38.15] <Rashid-> Check out the first paper. Should have weird machines in the title.
+[01:38.19] <Twey> Rashid-: You can actually probably just implement generic stream transducers, and write a stream interface for your iterator type
+[01:38.58] <Rashid-> Not a clue what a transducer is. I've read about it at some point. But I can't remember off hand.
+[01:39.13] * neochronomo (480ccca9@gateway/web/freenode/ip.72.12.204.169) has joined channel ##programming
+[01:39.41] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 255 seconds)
+[01:39.56] <neochronomo> In Visual Studio using c#/xaml, I want a button to call a method in a class that isn't in its code behind. Can I call it directly or do I have to add an event handler in the code behind that call the other method?
+[01:41.18] <Twey> Rashid-: newtype Stream a = Cons a (Stream a); then a stream transducer is a function ∷ Stream a → Stream a
+[01:41.44] <Rashid-> Hmm, sorta get that.
+[01:41.51] <Rashid-> I'll just go wiki it then.
+[01:41.51] <Twey> Rashid-: I.E. basically what you're doing.  But in the general case they compose nicely
+[01:41.55] <Rashid-> Ah.
+[01:41.58] <rindolf> Twey: can a stream be a Haskell list?
+[01:42.10] <Rashid-> You and your functional programming.  :P
+[01:42.15] <Twey> Rashid-: I think ＋＋http://clojure.org/transducers，， is a fairly nice example, though it has Clojure syntax if that scares you.
+[01:42.17] <rindolf> neochronomo: hi.
+[01:42.32] <Twey> rindolf: Mm, approximately
+[01:42.49] <rindolf> neochronomo: what is "code behind"?
+[01:42.54] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[01:43.03] <Twey> rindolf: In the literature we usually distinguish between ‘lists’, which are always finite, and ‘streams’, which are always infinite
+[01:43.17] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) Quit (Quit: Leaving)
+[01:43.27] <Twey> rindolf: But laziness means that Haskell lists may or may not be finite, and there's no way to know until runtime
+[01:43.39] <Twey> rindolf: So they're not really lists in the strict sense (ha)
+[01:43.40] <ams> heard brtiney spears on the radio .. got frightened ...
+[01:44.42] <Rashid-> Nah, clojure is fine. Least it's not prolog. :V
+[01:44.56] * d0nkeyBOB (~richarddo@c-50-187-27-83.hsd1.ma.comcast.net) has joined channel ##programming
+[01:45.10] * TheGun (~ronnyma@89.10.253.157) Quit (Remote host closed the connection)
+[01:45.29] <vendu> hello Twey :)
+[01:45.30] <Twey> I find it amusing that the Clojure people refuse to have type signatures in their code, but add them to their human-targeted documentation for clarity.
+[01:45.34] <Twey> Hey, vendu ☺
+[01:45.41] <vendu> Twey, what's shaking? :P
+[01:45.45] <rindolf> Twey: I see.
+[01:45.56] <UberLambda> If you had to program a game from scratch now, and didn't want to use C# nor Java nor C++ nor C, what would you use?
+[01:46.03] <Twey> vendu: Just doing some category theory exercises for uni, then I'm going out with my housemates to a pub ☺
+[01:46.06] <Twey> UberLambda: Rust
+[01:46.07] <ams> UberLambda: common lisp.
+[01:46.16] * ihatehex shakes vendu until assembly code falls out of him
+[01:46.26] <Twey> vendu: And you?
+[01:46.41] <vendu> hey ihatehex :)
+[01:46.45] <vendu> Twey, just chillin' :P
+[01:46.45] <UberLambda> Twey: Rust is nice, but I'd wait until it's somewhat settled
+[01:46.58] <UberLambda> I mean, 1.0.0 is not totally stable yet
+[01:46.59] <vendu> Twey, been starting a style guide for zero :)
+[01:47.09] <vendu> UberLambda, go might be interesting to try :)
+[01:47.10] <UberLambda> ams: a bit too far from the HW
+[01:47.11] <Twey> UberLambda: The language is finalized now: they're not going to make any changes that require you to rewrite everything
+[01:47.18] <vendu> apparently, kernighan has published a new book on it :)
+[01:47.29] <Twey> UberLambda: And you said ‘now’, so waiting for Rust to stabilize further wasn't an option :þ
+[01:47.30] <ams> UberLambda: not really, it is closer than C in many regards.
+[01:47.36] <UberLambda> vendu: yeah, but the GC seems a bit too slow for my taste
+[01:47.46] <UberLambda> since you can't control when the GC will execute
+[01:47.47] <Twey> UberLambda: Lots of people use CL for games.  Naughty Dog is a famous example.
+[01:47.51] * x-faktor (~WinGuru@reactos/tester/x-fak) Quit (Ping timeout: 240 seconds)
+[01:47.57] <UberLambda> Twey: checkmate :P
+[01:48.05] <garbage-pyon> UberLambda: Twey: Weird, I found Rust far more interesting when it was wildly changing. Now that it's settled, I'm having a hard time getting myself to care. :-Pa
+[01:48.10] * JuggleTux (~tux@xdsl-31-164-39-112.adslplus.ch) Quit (Ping timeout: 245 seconds)
+[01:48.14] <Twey> garbage-pyon: Heh.
+[01:48.28] <Twey> vendu: Cool!
+[01:48.32] <UberLambda> BTW, Rust's syntax is bad in my opinion
+[01:48.51] <UberLambda> Not as a whole, but some parts of it
+[01:49.23] <UberLambda> Well... that's my fault for not liking curly braces
+[01:49.31] <Twey> I agree, but also I don't care very much
+[01:49.39] <UberLambda> But some things like template_method::<T>() are an eyesore
+[01:49.40] <garbage-pyon> UberLambda: The syntax is ugly... but have fun making a better syntax for a language that expresses the same stuff as Rust does.
+[01:49.48] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[01:49.54] <neochronomo> rindolf: "code behind" is the code behind a xaml file
+[01:50.00] * JuggleTux (~tux@xdsl-31-164-39-112.adslplus.ch) has joined channel ##programming
+[01:50.12] <rindolf> neochronomo: OK.
+[01:50.17] <vendu> Twey, if you look into the zero repo, it's under doc/style/ :)
+[01:50.18] <UberLambda> Twey: yeah, it's a secondary matter, but still
+[01:50.47] <Twey> UberLambda: It would only factor into my decision if there were a language comparable to Rust with better syntax.  And Rust's main competitor is C++.  :þ
+[01:51.14] <UberLambda> garbage-pyon: I've been wondering of some sort of higher-level rust, with a GC that could be disabled at will (and controlled precisely about its timing, like the Nim one)
+[01:51.14] <rindolf> neochronomo: well, you need to access the other class's instance indirectly.
+[01:51.33] <UberLambda> Twey: yeah, and C++ isn't even context free :P
+[01:52.04] <UberLambda> If I only had the skills required to build a compiler for such a language, I would
+[01:52.21] <UberLambda> but so far I realized that it's lots and lots of work
+[01:52.38] <garbage-pyon> UberLambda: If you don't mind GC, there's already Haskell, Racket, OCaml, whatever... The whole point to using a language like Rust is low-level control.
+[01:52.56] <garbage-pyon> A Rust alternative with GC entirely misses the point.
+[01:53.05] <garbage-pyon> s/GC/built-in GC/
+[01:53.07] * zotta (~quassel@CM-POP9-1146.catv.wtnet.de) Quit (Ping timeout: 245 seconds)
+[01:53.18] <UberLambda> garbage-pyon: it wasn't really for the GC, it was because I liked the "structs + traits" concept
+[01:53.25] <ams> a GC doesn't make code "slower"
+[01:53.32] <garbage-pyon> ams: It isn't about speed.
+[01:53.37] <garbage-pyon> It's about low-level control.
+[01:53.41] <UberLambda> Yeah, as long as I can configure when it runs
+[01:53.52] <UberLambda> e.g. Nim's GC
+[01:54.00] <ams> "19:47 <UberLambda> vendu: yeah, but the GC seems a bit too slow for my taste"
+[01:54.13] <UberLambda> ams: I was referring to Go's GC in particular
+[01:54.16] <garbage-pyon> UberLambda: If you can configure it from within the language itself, it's either slow or unsafe - sometimes both.
+[01:54.20] <UberLambda> because I can't schedule when it runs
+[01:54.20] <ams> ah, well, go sucks.
+[01:54.26] * manuel__ (~manuel@c-24-61-40-209.hsd1.ma.comcast.net) has joined channel ##programming
+[01:54.30] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) has joined channel ##programming
+[01:54.41] <UberLambda> garbage-pyon: nim's GC seems to work pretty well even with manual config
+[01:54.48] <garbage-pyon> UberLambda: A simultaneously fast and safe GC needs static assurances - the kind of thing you can't get if you can tune it at runtime.
+[01:55.14] <UberLambda> garbage-pyon: then let it be slow, I don't care... just let me config the timespan it takes
+[01:55.31] <UberLambda> garbage-pyon: I would still be pretty careful with allocs/deallocs
+[01:56.01] <garbage-pyon> "be pretty careful" --> If that were true, then why not just use C? If you're careful when writing C code, your code won't do anything wrong.
+[01:56.13] * tus (~tus@unaffiliated/tus) has joined channel ##programming
+[01:56.22] <UberLambda> garbage-pyon: because C is too low-level
+[01:56.24] <garbage-pyon> Humans can't be careful.
+[01:56.57] <UberLambda> garbage-pyon: well, that's true, but I meant that I would minimize any allocation possible
+[01:57.11] <UberLambda> with C I would have to minimize allocs + be careful about not leaking stuff
+[01:57.49] <UberLambda> Does anyone want to write a language? :P
+[01:58.23] <UberLambda> On a more serious note, I think I'll just end up using C + lua or something similiar
+[01:58.44] <Twey> GL&HF
+[01:58.59] * chromatome (~chromatom@65.95.207.97) has joined channel ##programming
+[02:00.11] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[02:00.13] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Read error: Connection reset by peer)
+[02:00.20] <ams> there is some research that shows that a good gc is more efficient than manual allocation.
+[02:00.29] <Encrypt> _blizzy_, ＋＋https://dl.dropboxusercontent.com/u/19626172/test.html，，
+[02:00.33] <Encrypt> Here it is \o/
+[02:00.41] * chromatome (~chromatom@65.95.207.97) Quit (Remote host closed the connection)
+[02:00.42] * kggr (~korggrodn@37.214.160.175) has joined channel ##programming
+[02:00.44] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[02:01.08] <Twey> ams: Link?
+[02:01.24] <Twey> I think compaction makes a big difference, but at the cost of predictability
+[02:01.48] <ams> Twey: looking in my notes .. it is from a few years back ..
+[02:01.57] <Twey> But I'd like to see this faster-than-static GC, because I didn't know we had such a thing yet
+[02:02.24] <_blizzy_> Encrypt, that looks really good. good job.
+[02:03.29] <ams> meh, cna't find it ..
+[02:04.01] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[02:04.15] <ams> the summary was that doing memory allocation was slower since yo uhad to call free at various points when you could normally skip it until program exit, or until some other point when you could free larger blocks in one go ..
+[02:04.50] * justinreyesv (~justinrey@97.68.199.74) has joined channel ##programming
+[02:04.54] <Encrypt> _blizzy_, thanks :)
+[02:05.03] * pragmaff (55679eaf@gateway/web/freenode/ip.85.103.158.175) has joined channel ##programming
+[02:05.07] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) has joined channel ##programming
+[02:05.20] <Encrypt> I still have the "download" part to do
+[02:05.24] <ams> the claim of determenism was attacked, since you couldn't really determine when free() would deallocate things ..
+[02:05.32] <ams> and some other stuff that i don't remeber
+[02:05.47] * Beoran_ (~beoran@ip-81-11-194-209.dsl.scarlet.be) Quit (Ping timeout: 264 seconds)
+[02:05.48] <Twey> ams: *nod* But you can get around that by using regions, if you want to optimize for speed rather than memory usage at each point in time
+[02:05.56] <nitrxgen_> :o
+[02:06.07] <nitrxgen_> haxerdecimal
+[02:06.19] * BlueProtoman (~BlueProto@130.245.218.1) has joined channel ##programming
+[02:06.22] <Twey> With the downside that there are then points in time where you're holding onto memory you're not using
+[02:06.30] * Stefan0 (~Stefan0@h105n2-s-oe-a15.ias.bredband.telia.com) Quit ()
+[02:06.33] * nezek (~nez@d50-92-188-70.bchsia.telus.net) has joined channel ##programming
+[02:06.44] <pragmaff> A quick question: In C++ if a is an rvalue reference (T&&), is accessing its public members also rvalue-reference? For example for `MyClass(T&& a): sth(a.sth)` should I do this: `MyClass(T&& a): sth(std::move(a.sth))`
+[02:06.49] * Encrypt (~Chuck-nor@AMontsouris-553-1-23-215.w92-151.abo.wanadoo.fr) Quit (Quit: Eating time!)
+[02:06.54] <Twey> WRT determinism of free(), that's an OS concern, and none of the language's
+[02:06.55] <garbage-pyon> ams: It's true that naïvely freeing everything at the obvious points (what RAII gives you by default) doesn't necessarily give you the best performance possible. That's precisely what regions and pools were invented for.
+[02:07.23] <ams> Twey: found this one, but it isn't the one i am thinking of .. ＋＋https://people.cs.umass.edu/~emery/pubs/04-17.pdf，，
+[02:07.29] <Twey> pragmaff: I believe it is, yes
+[02:07.35] * Aph3x-WL (~Aph3x@shellie.darchoods.net) Quit (Ping timeout: 264 seconds)
+[02:07.39] <ams> garbage-pyon: this wasn't about naive deallocation.
+[02:07.42] <pragmaff> Twey: So no std::move() needed
+[02:07.57] * kggr (~korggrodn@37.214.160.175) Quit (Ping timeout: 244 seconds)
+[02:07.58] <pragmaff> Twey: Or std::forward<> according to context
+[02:08.06] <Twey> pragmaff: I think not.  It would be safe to ask geordi or something for the decltype() of that.
+[02:08.17] <ams> Twey: this paper asssumes a very large heap
+[02:08.39] <pragmaff> Is geordi working here??? :O
+[02:08.39] <nitrxgen_> my asshole is still really sore
+[02:08.39] <pragmaff> My god, I thought it was ##c++ only
+[02:08.49] <garbage-pyon> pragmaff: You can PM geordi.
+[02:09.05] <garbage-pyon> pragmaff: And, in fact, that's the recommended way to use it.
+[02:09.13] <pragmaff> garbage-pyon: Woa I didn't know that thanks a lot!
+[02:09.16] <ams> i wish there was more research into this .. since the general knowledge about gc vs. mm is very lame, and lacking.
+[02:09.37] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) Quit (Ping timeout: 256 seconds)
+[02:09.41] <Twey> ams: ‘… and suffers order-of-magnitude performance penalties when paging occurs’
+[02:10.45] <antranigv> if I got it right, stderr is like error output, ha?
+[02:11.06] <Twey> antranigv: Well, it stands for ‘standard error’, so yes
+[02:11.28] <Twey> It doesn't have to be just errors: it's used in general for metainformation you want to be distinguishable from the real output of the program
+[02:11.32] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:11.57] <antranigv> Twey: and I want to know how to change the stderr, let's say of a python script, what should I duckduckgo ?
+[02:12.13] * d0nkeyBOB (~richarddo@c-50-187-27-83.hsd1.ma.comcast.net) Quit (Ping timeout: 265 seconds)
+[02:12.14] <BlueProtoman> geordi << "france"
+[02:12.21] * chicoenslips (~cerditofa@4.Red-81-36-4.dynamicIP.rima-tde.net) Quit (Ping timeout: 240 seconds)
+[02:12.27] <Twey> antranigv: What do you mean by ‘change the stderr’?  You would like to redirect the output to somewhere else?
+[02:13.08] <antranigv> Twey: in case of error, to show like "Error!"
+[02:13.09] <Twey> antranigv: You can do that in a shell by writing python foo.py 2> error.log
+[02:13.43] <Twey> antranigv: You want to check for output on stderr and replace all (lines of?) errors with the string "Error!"?
+[02:13.47] <Twey> That seems like an odd thing to do
+[02:14.00] <neochronomo> In XAML, what does it mean when your ItemsSource says "GetValue" when you hover over it?
+[02:14.13] * minous (~minous@c-71-59-79-28.hsd1.nj.comcast.net) has joined channel ##programming
+[02:14.28] <antranigv> Twey: yes!
+[02:14.45] <Twey> antranigv: But if you really want, you can replace sys.stderr with an object of your own devising
+[02:14.46] <reaga> L:)
+[02:14.57] * circ-user-cPwxf (~circuser-@49.203.219.31) Quit (Remote host closed the connection)
+[02:15.26] <Twey> antranigv: It can do whatever it likes, then, with the output given to write()
+[02:15.37] <antranigv> let's say in case of errors to log the error to a file and print "Error!"
+[02:15.48] <Twey> antranigv: You should probably do this from the shell
+[02:16.21] * antranigv needs to learn more english
+[02:17.09] <antranigv> since I'm new learning, I'll go with the shell for now :D and then I hope the book will teach me more.
+[02:17.44] * Beoran_ (~beoran@ip-62-235-202-180.dsl.scarlet.be) has joined channel ##programming
+[02:18.10] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[02:18.30] * pteh (~pteh@105.154.78.8) has joined channel ##programming
+[02:18.42] <Twey> antranigv: The shell is the right place to do this.  Don't force it on your users.
+[02:19.19] * Munt (~laptop@h88-150-252-212.host.redstation.co.uk) Quit (Quit: Munt)
+[02:20.14] * pteh (~pteh@105.154.78.8) Quit (Excess Flood)
+[02:20.36] * Lpfn (~Lpfn@plb95-1-82-229-89-38.fbx.proxad.net) has joined channel ##programming
+[02:21.53] * pragmaff (55679eaf@gateway/web/freenode/ip.85.103.158.175) Quit (Quit: Page closed)
+[02:22.25] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 244 seconds)
+[02:22.58] * remmie_ (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[02:23.15] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) has joined channel ##programming
+[02:23.52] * artemisart (artemisart@2a01:e35:8a78:b460:687e:210b:1867:7064) has joined channel ##programming
+[02:24.38] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[02:25.48] <`Eddie> i made my basic 4 math operation calculator in c++ yay finally works
+[02:25.58] * zadock (~zadock@81.180.210.87) has joined channel ##programming
+[02:26.02] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Ping timeout: 255 seconds)
+[02:28.18] * ima3k (DS16X223X6@chips.ds16.agh.edu.pl) has joined channel ##programming
+[02:29.19] * Ulydev (~Ulydev@pha75-19-88-183-25-200.fbx.proxad.net) Quit (Remote host closed the connection)
+[02:29.55] * Ulydev (~Ulydev@pha75-19-88-183-25-200.fbx.proxad.net) has joined channel ##programming
+[02:29.59] * somepunk (~rohinpate@dhcp-128-189-224-119.ubcsecure.wireless.ubc.ca) has joined channel ##programming
+[02:30.37] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##programming
+[02:31.31] <electrojustin> nice, `Eddie
+[02:32.13] <`Eddie> i did indeed know enough functions to do it before the tutorial will show, and experimenting on my own proved successful and interesting
+[02:32.21] * atrx_ (~atrx@ppp-171-96-167-234.revip8.asianet.co.th) Quit (Ping timeout: 240 seconds)
+[02:32.24] <`Eddie> my mistakes were the misuse of them
+[02:32.42] * GreenDay (~GreenDay@gateway/vpn/privateinternetaccess/greenday) Quit (Quit: Konversation terminated!)
+[02:33.02] * GreenDay (~GreenDay@gateway/vpn/privateinternetaccess/greenday) has joined channel ##programming
+[02:33.21] <electrojustin> experimenting is how you learn
+[02:33.35] * ManikM (~quassel@103.251.227.172) Quit (Ping timeout: 245 seconds)
+[02:33.54] <`Eddie> i just felt like if i watched more he'd do it for me
+[02:34.20] <electrojustin> maybe, but experimenting is ok too
+[02:34.20] <`Eddie> rather i did it by playing around with functions and the order of code
+[02:34.27] * Ulydev (~Ulydev@pha75-19-88-183-25-200.fbx.proxad.net) Quit (Ping timeout: 265 seconds)
+[02:34.35] <`Eddie> i'll see what he does
+[02:34.53] <`Eddie> but before, since I know a basic class structure, i'll try to make a class
+[02:35.11] <`Eddie> but it's late night for me so i'll do that tomorrow
+[02:35.25] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##programming
+[02:38.13] * absk007 (~absk007@unaffiliated/absk007) Quit (Quit: Death is the Ultimate Truth. Good Bye.)
+[02:38.37] * gapyo (~gapyo@188.251.71.147) has joined channel ##programming
+[02:38.54] * chicoenslips (~cerditofa@37.Red-83-41-55.dynamicIP.rima-tde.net) has joined channel ##programming
+[02:38.58] <gapyo> Why is it more acceptable that tha IT peopel work a lot more hours than ther engineers for example?
+[02:40.22] <ams> is it? i wouldn't find it acceptable.
+[02:41.24] * freecoder (~freecoder@49.248.160.146) Quit (Quit: Leaving)
+[02:41.42] <gapyo> i lot of people that i know and are in IT work a lot weekends and an average 10 hours per day while some mechanical engineer, my friends as well, work only 5 days and 8-9 hours but mostly 8 hours a day
+[02:41.58] <ams> that doesn't make it acceptable.
+[02:42.03] * wagonboi_ (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) has joined channel ##programming
+[02:42.11] * wagonboi_ (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[02:43.45] * Lpfn (~Lpfn@plb95-1-82-229-89-38.fbx.proxad.net) Quit (Remote host closed the connection)
+[02:43.53] <gapyo> ams, maybe acceptable was a wrong word. is better expect you to do that
+[02:44.04] <gapyo> if you dont they will hire someone who does
+[02:44.08] <ams> why? if they get paid for 40h/w, go home.
+[02:44.13] <ams> where are you located?
+[02:44.55] <gapyo> ams, Spain
+[02:45.19] * wagonboi (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) Quit (Ping timeout: 252 seconds)
+[02:45.34] * Aukn (~Aukn@AToulouse-556-1-160-51.w92-162.abo.wanadoo.fr) has joined channel ##programming
+[03:58.13] *** Server disconnected on irc.freenode.net

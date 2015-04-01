@@ -1,0 +1,1234 @@
+Session Start: Sun Mar 01 07:38:20 2015
+Session Ident: ##physics
+[07:38.20] * You have joined ##physics
+[07:38.20] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[07:38.20] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[07:38.22] Channel modes for ##physics are :+Ccgnt
+[07:38.22] Channel Created on: 4:02 AM 12/19/2007
+[07:38.35] * Grimshaw (~Grimshaw@bl17-43-251.dsl.telepac.pt) has joined channel ##physics
+[07:41.14] * disorder20 (~m3l720@78-134-59-109.v4.ngi.it) has joined channel ##physics
+[07:41.28] * disorder20 is now known as kkuno
+[07:41.58] * esas (~esas@unaffiliated/esas) Quit (Ping timeout: 264 seconds)
+[07:49.51] * Jackneill (~Jackneill@unaffiliated/jackneill) has joined channel ##physics
+[07:51.58] * corey84_ (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[07:53.45] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Disconnected by services)
+[07:53.47] * corey84_ is now known as Corey84
+[07:57.40] * Niebuhr (~p@host109-147-100-210.range109-147.btcentralplus.com) has joined channel ##physics
+[08:00.02] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:00.54] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[08:04.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 240 seconds)
+[08:06.47] * Kompton (~Kompton@unaffiliated/condenado) Quit (Remote host closed the connection)
+[08:09.00] <mads__> SpeedEvil: why does alpha-decay occur?
+[08:09.20] <mads__> What makes the helium-nucleus be radiated?
+[08:09.33] <Slereah_> There's a variety of way to explain it
+[08:09.48] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[08:10.11] <mads__> Could I have the easiest explanation?
+[08:10.15] <Slereah_> the common "simple" way it is explained is that the alpha particle exists within the nucleus, and the alpha decay corresponds to the particle being able to tunnel out
+[08:10.24] <Slereah_> via quantum tunneling
+[08:11.12] * admiralakber (~admiralak@unaffiliated/admiralakber) has joined channel ##physics
+[08:11.43] * admiralakber (~admiralak@unaffiliated/admiralakber) has left ##physics ()
+[08:12.39] * johnflux__ (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) has joined channel ##physics
+[08:12.40] * johnflux__ (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) Quit (Changing host)
+[08:12.40] * johnflux__ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[08:13.16] * enterprisedc (~enterpris@ip68-109-198-52.oc.oc.cox.net) Quit (Quit: enterprisedc)
+[08:14.28] * Drashta (~Drashta@unaffiliated/drashta) has joined channel ##physics
+[08:16.43] * admiralakber (~admiralak@unaffiliated/admiralakber) has joined channel ##physics
+[08:18.12] <admiralakber> Hello, in stat mech and the canonical distribution the probability of a state decreases with energy -- why is it then when you measure a system at thermal equilibrium is the energy of the system zero?
+[08:21.08] <Rainb> why are there two cubic roots?
+[08:23.44] * tortoise (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) Quit ()
+[08:23.56] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##physics
+[08:24.26] * agd (~agd@unaffiliated/agd) has joined channel ##physics
+[08:24.31] * enthropy (~aavogt@bas3-guelph22-3096542282.dsl.bell.ca) has joined channel ##physics
+[08:24.39] * agd (~agd@unaffiliated/agd) has left ##physics ()
+[08:25.46] * expo873 (uid11626@gateway/web/irccloud.com/x-csvcjnoikrerajsa) Quit (Quit: Connection closed for inactivity)
+[08:26.42] * sbellina (~sbellina@66.29.187.51.static.utbb.net) has joined channel ##physics
+[08:29.39] <napster> Why the radius of observable universe > 13.8 billion light years?
+[08:30.18] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) has joined channel ##physics
+[08:30.32] <balance> What do I get if I derivate impuls 2 times?
+[08:31.11] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Remote host closed the connection)
+[08:31.46] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 264 seconds)
+[08:31.50] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[08:32.30] * The_Cat (4e17f70e@gateway/web/cgi-irc/kiwiirc.com/ip.78.23.247.14) has joined channel ##physics
+[08:33.59] * nayfie (~nayfie@CPE-58-160-174-54.unqy1.fli.bigpond.net.au) Quit (Quit: bb xoxo :3)
+[08:36.57] * Jackneill (~Jackneill@unaffiliated/jackneill) Quit (Quit: Leaving)
+[08:38.13] * chiburbs (~chiburbs@24.1.185.247) Quit (Read error: Connection reset by peer)
+[08:38.53] * Sir_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Read error: Connection reset by peer)
+[08:42.00] * theTroy (~troy@unaffiliated/thetroy) has joined channel ##physics
+[08:43.39] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (Remote host closed the connection)
+[08:44.48] * Sir_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[08:49.14] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##physics
+[08:49.39] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) has joined channel ##physics
+[08:51.14] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[08:58.23] * qiffp (~qiffp@70.50.102.27) has joined channel ##physics
+[08:59.30] * visof (~visof@197.133.16.125) has joined channel ##physics
+[09:03.00] * f03lipe (~f03lipe@189.122.208.96) has joined channel ##physics
+[09:04.39] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[09:05.45] * foreignFunction (~ai@ip-4761.sunline.net.ua) has joined channel ##physics
+[09:09.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:10.34] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) has joined channel ##physics
+[09:10.40] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Client Quit)
+[09:17.10] * Ixxie (~Ixxie@dsl-hkibrasgw3-54fb79-78.dhcp.inet.fi) Quit (Quit: Leaving)
+[09:17.46] * oleo is now known as Guest65749
+[09:17.53] <balance> Given: mass, x, dx/dt, p, dp/dt. I need dp²/d²t, how? Just with that. So no m*a=dp²/d²t
+[09:18.58] <Slereah_> Do you mean d²p/dt²
+[09:19.13] <balance> Slereah_, +
+[09:19.15] * oleo__ (~oleo@unaffiliated/oleo) has joined channel ##physics
+[09:19.25] <Slereah_> +?
+[09:19.30] <balance> Slereah_, yes sure I mean that :)
+[09:19.44] <Slereah_> Well if you have dp/dt it's trivial
+[09:19.53] <Slereah_> It's just d(dp/dt)/dt
+[09:20.27] <Slereah_> Since mechanics is just a second order differential equation, you can find the third derivative from the second
+[09:21.04] <balance> Slereah_, ＋＋http://mathb.in/28458，， you mean this?
+[09:21.23] * Guest65749 (~oleo@unaffiliated/oleo) Quit (Ping timeout: 272 seconds)
+[09:22.00] <balance> Slereah_, third form the second? I just want the second and have the first.
+[09:22.22] <Slereah_> Well dp/dt = m dx/dt, so third derivative of x
+[09:22.32] <Slereah_> But second of p, yeah
+[09:22.44] <balance> Slereah_, ah sure, but I don't think I can do that.
+[09:24.41] <balance> I don't see how I can calculate d(dp/dt)/dt with the above information only. that's like take the math formula of the first derivative and just derivate it by hand. isn't it?
+[09:25.29] <mefistofeles> that's just the second derivative
+[09:25.30] <mefistofeles> so yes
+[09:26.01] <mefistofeles> second derivative of p, I mean
+[09:26.52] <xihr> you were using "impuls" to mean position before, sounds like further confusion
+[09:27.04] <xihr> impulse is change in momentum, it's none of those things
+[09:27.06] <balance> mefistofeles,  d(dp/dt)/dt what's that in math? I should be able to do this by just x, x', p, p' and m. so I shouldn't have to calculate any second derivative by hand by manipulating a formula.
+[09:27.14] * rabbitdew (~rabbitdew@unaffiliated/rabbitdew) has joined channel ##physics
+[09:27.19] <balance> p=mv
+[09:27.35] <xihr> why are you taking the second derivative?
+[09:28.23] * f03lipe (~f03lipe@189.122.208.96) Quit (Quit: Leaving)
+[09:28.28] <balance> xihr I need to implement velocity verlet (absoutely new to this) and for that I need the second, don't I, since it's 2nd grade tylor.
+[09:29.09] * f03lipe (~f03lipe@189.122.208.96) has joined channel ##physics
+[09:29.18] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Remote host closed the connection)
+[09:29.33] <mefistofeles> balance: you don't need second derivative of p for velocity verlet
+[09:29.53] <xihr> again: you're thinking of position, not momentum (neither of which is impulse)
+[09:29.54] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[09:30.07] <xihr> this was your confusion the last time you asked a question about "impuls" [sic]
+[09:30.13] <The_Cat> in some languages, "impuls" is the word for momentum
+[09:30.24] <The_Cat> sometimes things get confusing in translation
+[09:30.29] <balance> xihr I don't see you - I think it's a language thing. impuls=momentum
+[09:30.43] <balance> xihr lol I mean I don't see what you were trying to point out :P
+[09:30.48] <xihr> The_Cat: yes, and as I just said, he doesn't even really meant that
+[09:30.53] * rabbitde1 (~rabbitdew@adsl-76-254-65-11.dsl.pltn13.sbcglobal.net) Quit (Ping timeout: 272 seconds)
+[09:31.04] <balance> mefistofeles, okay possible thanks
+[09:31.14] <balance> xihr impuls=mv I meant that
+[09:31.39] <mefistofeles> .wiki velocity verlet
+[09:31.40] <+dirac> Can't find anything in Wikipedia for "velocity verlet".
+[09:31.45] <mefistofeles> .wik velocity verlet
+[09:31.47] <xihr> again: that's not what you actually need to do this
+[09:32.33] <balance> xihr I absolutely don't get you. Given: position and impuls. that's the exersice...
+[09:33.06] <balance> sry momentum
+[09:33.57] <mefistofeles> the algorithm for velocity verlet is quite straightforward
+[09:33.58] <mefistofeles> balance: ＋＋https://en.wikipedia.org/wiki/Verlet_integration#Velocity_Verlet，，
+[09:34.27] <balance> mefistofeles, thanks
+[09:42.12] * oleo__ (~oleo@unaffiliated/oleo) Quit (Quit: Verlassend)
+[09:43.12] * oleo__ (~oleo@unaffiliated/oleo) has joined channel ##physics
+[09:44.02] * oleo__ is now known as oleo
+[09:46.01] * visof (~visof@197.133.16.125) Quit (Ping timeout: 256 seconds)
+[09:46.47] * visof (~visof@197.133.16.125) has joined channel ##physics
+[09:55.34] <chewyDelicious> Yay symplectic intergrators
+[10:00.18] * uv (~uv@94-21-201-20.pool.digikabel.hu) has joined channel ##physics
+[10:01.11] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[10:01.46] * Nang1 (~tma@p57BD73B0.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[10:03.12] <admiralakber> Any stat mech experts here?
+[10:04.11] <The_Cat> i know some stat mech
+[10:04.12] * sw0rdfish (~JackBauer@unaffiliated/sw0rdfish) Quit (Ping timeout: 250 seconds)
+[10:04.17] <The_Cat> what's your question?
+[10:04.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 240 seconds)
+[10:04.28] * orthoplex64 (~orthoplex@unaffiliated/orthoplex64) has joined channel ##physics
+[10:06.04] <admiralakber> The_Cat: As the probability of a microstate in  the canonical ensemble decreases with energy - why do we measure any system in thermal equilibrium with greater than the zero energy?
+[10:06.23] * theTroy (~troy@unaffiliated/thetroy) Quit (Quit: Leaving.)
+[10:06.27] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[10:07.52] <The_Cat> because not only does the energy matter, but also the density of states
+[10:08.11] <The_Cat> if a system has only one microstate with the lowest energy, and billions of microstates with a higher energy
+[10:08.40] <The_Cat> you will not find the system in the lowest energy state, unless very near 0 K
+[10:08.50] * puddle (uid22609@gateway/web/irccloud.com/x-dftmomuczwvzdwjv) has joined channel ##physics
+[10:08.56] <admiralakber> The_Cat: Cool, I was leaning in that direction.
+[10:09.00] * bakaneko (~d@AMontsouris-651-1-159-143.w82-123.abo.wanadoo.fr) has joined channel ##physics
+[10:09.10] * pulse (~pulse@unaffiliated/pulse) has joined channel ##physics
+[10:09.18] <The_Cat> that's why you should sum/integrate over all possible states
+[10:09.23] * bakaneko (~d@AMontsouris-651-1-159-143.w82-123.abo.wanadoo.fr) Quit (Client Quit)
+[10:09.32] <Juris4cm> can anybody suggest energy-matter of low density that will shine when X-rays are applied to it?
+[10:09.37] * bakaneko (~d@AMontsouris-651-1-159-143.w82-123.abo.wanadoo.fr) has joined channel ##physics
+[10:09.43] <admiralakber> The_Cat: You mean to get the partition function?
+[10:09.47] <The_Cat> yes
+[10:09.50] * Noldorin (~noldorin@unaffiliated/noldorin) has joined channel ##physics
+[10:09.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:09.53] <The_Cat> or to get any observable, really
+[10:10.35] <Juris4cm> The_Cat can you please say how it is called when object emits light when X-rays are applied to it?
+[10:10.37] <admiralakber> The_Cat: Great - I think my understanding to this level is pretty good then. I'm really liking stat mech, I like how you can generalize it to pretty much any system. m
+[10:11.05] <The_Cat> i know the feeling admiralakber, it's a beautiful piece of theoretical machinery
+[10:11.15] <Juris4cm> I believe it was something else than fluorecence
+[10:11.36] <The_Cat> it's probably fluorecence though
+[10:11.38] * bakaneko (~d@AMontsouris-651-1-159-143.w82-123.abo.wanadoo.fr) Quit (Client Quit)
+[10:11.51] <The_Cat> which is defined as something which absorbs high energy photons and emits low energy photons
+[10:12.30] <Juris4cm> but fluorecence also is from high E field..
+[10:12.58] <Juris4cm> Is there some thing which will detect X-rays but will not detect high E field?
+[10:13.13] <admiralakber> Scintillation
+[10:13.38] * micronesia is now known as acg
+[10:13.42] * acg (~micronesi@c-24-131-209-49.hsd1.pa.comcast.net) Quit (Changing host)
+[10:13.42] * acg (~micronesi@unaffiliated/acg) has joined channel ##physics
+[10:13.44] <Juris4cm> I just wanna try make homemade X-ray mashine and I need some X-ray detector to know it works
+[10:14.18] <Slereah_> Regular photographic film works to detect X rays
+[10:14.22] * puddle (uid22609@gateway/web/irccloud.com/x-dftmomuczwvzdwjv) Quit ()
+[10:14.25] <Juris4cm> X-rays will be generated with HV so I must differ HV from X rays somehow
+[10:14.37] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[10:14.44] <Juris4cm> Hmm it is some historical thing
+[10:14.52] <Juris4cm> I don't have these films in house
+[10:15.20] <Juris4cm> Slereah_ is X-rays more energetic than HV?
+[10:15.54] <Juris4cm> I wander if I will put fluorescent lamp 1m form X-ray source E field will be not big to get it to work
+[10:16.15] <Juris4cm> but can X-rays bring it to light in that big distance?
+[10:16.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:16.50] <admiralakber> If you have enough X-rays to make something glow that you can see with your naked eyes you probably shouldn't be near the source..
+[10:16.51] * km00000 (~km00000@ip-18-16.net.ksu.edu) has joined channel ##physics
+[10:16.55] <Slereah_> HV?
+[10:17.13] <Juris4cm> these rays will be mostly focused
+[10:17.21] <Juris4cm> about 27kV
+[10:17.23] * TheBigDeal (~quassel@unaffiliated/innocent99) Quit (Remote host closed the connection)
+[10:17.39] <admiralakber> Juris4cm: What do you actually want to do? Make an X-Ray gun or something?
+[10:17.41] <Juris4cm> 30W 27kV
+[10:17.55] <Juris4cm> ionise air
+[10:18.40] <Juris4cm> I need to build X-rays detector somehow
+[10:18.55] <admiralakber> Okay -- I don't know why the hell you'd want to do that -- but I'm going to ignore all that -- you can measure radiation using an ionisation chamber. It's a simplish device which just measures electric charge.
+[10:19.03] <Juris4cm> what will not be affected with E field
+[10:19.04] <admiralakber> It probably is the best detector for your application.
+[10:19.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:19.39] <Juris4cm> hoho
+[10:19.42] <Juris4cm> I know!
+[10:19.55] <admiralakber> Just google ionisation chamber
+[10:19.57] <Juris4cm> I have build neon light ionization detector
+[10:19.57] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Quit: rebooting to xfce 4.11)
+[10:20.10] <Juris4cm> I can triger neon bulb even with small UV led
+[10:20.25] <Juris4cm> this neon also be triggered with X-rays right?
+[10:20.25] <admiralakber> You're ionising air, just measure the charge due to ionisation.
+[10:20.44] <admiralakber> Why use light? Just use the charge of the ionised atoms. It's more precise.
+[10:21.04] <admiralakber> Also, ionisation chambers are older than the internet.
+[10:21.05] <Juris4cm> I said I already have such device
+[10:21.13] <admiralakber> Great!
+[10:21.15] <Juris4cm> Ok thanx admiralakber!
+[10:21.31] <Juris4cm> will look for that but I think my neon ionisation detector must work too
+[10:21.48] <admiralakber> Probably, but you won't really see flashes of light unless it's really dark.
+[10:22.06] <Juris4cm> no you dont understand
+[10:22.09] <Juris4cm> device is simple
+[10:22.21] <Juris4cm> it is regulated just 0.5V below ionization
+[10:23.12] <Juris4cm> when ionization accured, it just lover glowing ionization level and that voltage is starting enaught to enable neon
+[10:23.36] <admiralakber> Do the experiment but don't give yourself or someone else cancer please.
+[10:24.20] <Juris4cm> Ok I will try to surge cancer out by myself
+[10:24.53] <Juris4cm> I have sharp knife and alchohol!
+[10:25.08] <Juris4cm> ok bye thanx for giving me ideas!
+[10:25.44] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:26.06] * johnflux__ (~johnflux@konversation/developer/JohnFlux) Quit (Ping timeout: 244 seconds)
+[10:27.31] * rudi95 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[10:27.39] * sbellina (~sbellina@66.29.187.51.static.utbb.net) has joined channel ##physics
+[10:28.09] * The_Cat (4e17f70e@gateway/web/cgi-irc/kiwiirc.com/ip.78.23.247.14) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[10:28.10] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[10:28.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:28.12] * eatenSadza (~sadza@unaffiliated/sadza) has joined channel ##physics
+[10:28.13] <Juris4cm> admiralakber chat chamber requires pA and fA meter which I cant get
+[10:28.20] <Juris4cm> Can I use vacuum tube instead?
+[10:28.28] * monoprotic is now known as rudi34
+[10:28.35] * rudi34 is now known as monoprotic
+[10:28.44] <admiralakber> Pretty much by definition, no you can't use a vacuum tube.
+[10:28.47] * rudi93 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 246 seconds)
+[10:28.47] * johnflux__ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[10:28.57] <Juris4cm> admiralakber why not?
+[10:29.05] <admiralakber> Because there's nothing to ionise?
+[10:29.13] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP01.NATPOOL.NYU.EDU) has joined channel ##physics
+[10:29.29] <Juris4cm> hmm that sounds like good reason..
+[10:29.56] <admiralakber> Put a HV on two plates (i.e. make a massive capacitor) then measure the current on either side of the plates - that will be proportionate to the ionisation after calibration.
+[10:30.32] <admiralakber> You don't want so much HV that you spark, just enough to accelerate ions to either plate so that you can measure a pulse.
+[10:31.03] <admiralakber> You can do it in air.
+[10:32.29] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 256 seconds)
+[10:32.34] * rudi95 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 272 seconds)
+[10:33.56] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[10:34.23] * Dr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[10:34.46] * Mr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[10:34.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:35.26] * Mr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Client Quit)
+[10:35.26] * Mr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[10:36.11] * django_ (~proz@69-84-110-170-dhcp.mia.fl.atlanticbb.net) has joined channel ##physics
+[10:36.32] * johnflux (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[10:36.57] <mads__> Do human bodies radiate?
+[10:37.10] <Juris4cm> everythink radiate
+[10:37.18] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) has joined channel ##physics
+[10:37.26] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:37.35] * Kuvaro (~Kuvaro@119.157.148.181) has joined channel ##physics
+[10:37.36] * johnflux__ (~johnflux@konversation/developer/JohnFlux) Quit (Ping timeout: 264 seconds)
+[10:38.05] <Juris4cm> einsteing get his nuclear fusion from gustav le bon
+[10:38.06] <Kuvaro> what existed where the earth is now one second after the Big Bang?
+[10:38.11] <admiralakber> mads__: We emit small amounts gamma rays, X-rays, and mostly infrared.
+[10:38.14] * Sir_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Ping timeout: 246 seconds)
+[10:38.39] <Juris4cm> I suggest read Gustav Le Bon "evolution of matter"
+[10:38.41] <admiralakber> Kuvaro: Whatever existed everywhere in the universe one second after the Big Bang.
+[10:38.44] <Slereah_> I think we emit more lower wavelengths than gamma rays
+[10:38.54] <Slereah_> Since the human body is mostly blackbody radiation
+[10:38.55] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[10:39.10] <admiralakber> Slereah_: We emit ~1400 keV gamma rays from Potassium-40.
+[10:39.17] * Dr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Ping timeout: 272 seconds)
+[10:39.27] * theTroy (~troy@unaffiliated/thetroy) has joined channel ##physics
+[10:39.38] * curiousguy13_ (~curiousgu@120.59.226.121) Quit (Ping timeout: 246 seconds)
+[10:39.42] * johnflux_ (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) has joined channel ##physics
+[10:39.42] * johnflux_ (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) Quit (Changing host)
+[10:39.42] * johnflux_ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[10:40.09] <Kuvaro> before inflation, what existed where the earth is now?
+[10:40.59] <admiralakber> Kuvaro: Whatever existed at that time - the origin of the big bang is all space -- think about it.
+[10:41.08] * johnflux_ (~johnflux@konversation/developer/JohnFlux) Quit (Read error: Connection reset by peer)
+[10:41.11] * johnflux (~johnflux@konversation/developer/JohnFlux) Quit (Read error: Connection reset by peer)
+[10:41.22] <Kuvaro> admiralakber; expansion is happening for a reason, my friend
+[10:41.30] * johnflux_ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[10:41.42] <Kuvaro> admiralakber; if you think that space already exists everywhere, then expansion is absolutely worthless
+[10:41.57] <eatenSadza> Kuvaro, no it just means the space is getting stretched
+[10:42.04] <admiralakber> ^ that
+[10:42.23] <admiralakber> Like blowing up a baloon.
+[10:42.40] <Kuvaro> was the balloon small once, eatenSadza?
+[10:42.44] <byron2> The trivial answer is that nothing existed /at that place/, since I take this to be true even if "where the earth is now" is no well-defined.
+[10:43.44] <eatenSadza> well, before you blow up a balloon, the balloon is small.
+[10:43.52] <Kuvaro> eatenSadza; expansion is often thought of an "expanding raisin bread" - as the bread expands in a micro-oven, the distances between raisins in the bread also increases. do you agree with this analogy?
+[10:44.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:44.29] * sw0rdfish (~JackBauer@unaffiliated/sw0rdfish) has joined channel ##physics
+[10:44.44] <eatenSadza> that strikes me as a feasible analogy
+[10:45.44] * gb73d (~gb73d@81-178-181-37.dsl.pipex.com) has joined channel ##physics
+[10:45.56] <eatenSadza> how can one show that the representation of Z on \oplus l^2_0 (Z/nZ) weakly contains the trivial representation?
+[10:46.09] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) Quit (Quit: Leaving)
+[10:46.16] <Kuvaro> eatenSadza; when the raisin bread was small, it did not occupy the entire or much of micro-oven's space. so let's assume that there is a pencil in the micro-oven which is about 11cm away from the raisin bread. the raisin bread is still small, so it is not touching the pencil yet.
+[10:46.32] <Kuvaro> eatenSadza; but as it expands and the distances between the raisins in the bread increases, it will touch the pencil. do you agree?
+[10:46.36] * roadt (~roadt@60.168.94.57) Quit (Ping timeout: 264 seconds)
+[10:46.38] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:46.41] <eatenSadza> Kuvaro: you're assuming that there is any analogue to the micro-oven
+[10:47.05] <Kuvaro> eatenSadza: you can replace the micro-oven with anything, I just added it to make the analogy more understandable
+[10:47.19] <eatenSadza> the issue is there very well may be no "anything" to replace it with
+[10:47.20] <byron2> Kuvaro: You're begging the question in favor of absolute space when you ask what existed /where the earth is now/ before inflation, right?
+[10:47.29] <Kuvaro> eatenSadza; would it be more feasible if I referred to a balloon expanding on the tip of mount everest?
+[10:47.31] <admiralakber> Kuvaro: I think I understand your confusion now - in your analogy, the microwave oven is actually the outside of our universe - we don't know what's outside our universe - all our physics is for inside our universe - we are a raisin in the bread..
+[10:47.37] <eatenSadza> no
+[10:48.10] <admiralakber> Not only are we a raisin in the bread, everything we understand is.
+[10:48.18] <Kuvaro> the question is, what existed where the pencil was before the raisin bread expanded and touched it?
+[10:48.28] <eatenSadza> you cannot say the pencil existed
+[10:48.45] <eatenSadza> you can't even say anything exists outside the bread
+[10:48.48] <eatenSadza> the bread is it
+[10:49.54] <eatenSadza> the bread is our universe
+[10:49.57] <eatenSadza> the bread is existence
+[10:50.26] <byron2> Kuvaro: Yes, that's a meaningless question. You're assuming an absolute infinite space, in which our space is expanding.
+[10:50.30] <Kuvaro> eatenSadza; did space 70 billion light years away before inflation?
+[10:50.44] <eatenSadza> ???
+[10:51.02] <Kuvaro> eatenSadza; you seem to have misunderstood the analogy
+[10:51.08] <Kuvaro> or perhaps, I expressed it in vague terms
+[10:51.09] <eatenSadza> that's not even a sentence
+[10:51.48] <eatenSadza> it's definitely in vague terms. there is no microwave. the burden of proof is on you to show me that there is one
+[10:52.12] <eatenSadza> then we can talk about space "expanding into" something, but at the moment there is no such concept
+[10:52.15] <Kuvaro> <eatenSadza> you can't even say anything exists outside the bread
+[10:52.15] <Kuvaro> <eatenSadza> the bread is it
+[10:52.15] <Kuvaro> <eatenSadza> the bread is our universe
+[10:52.23] <eatenSadza> yes
+[10:52.25] <Kuvaro> eatenSadza; the burden of proof is on you, to prove to me that the bread is it
+[10:52.35] <b0g> i already ate the bread, sorry
+[10:52.40] * curiousguy13_ (~curiousgu@59.177.203.40) has joined channel ##physics
+[10:52.41] <eatenSadza> no, rather we know nothing outside the bread.
+[10:52.46] <eatenSadza> so you must show me something outside
+[10:52.52] <Kuvaro> eatenSadza; it's like you're saying "I know there's a pencil 7000 trillion light years away on the surface of a very large star!"
+[10:53.10] <eatenSadza> I don't
+[10:53.14] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:53.55] <eatenSadza> the bread is it. think about it.
+[10:53.55] <admiralakber> Good night all.
+[10:53.57] <eatenSadza> how can one show that the representation of Z on \oplus l^2_0 (Z/nZ) weakly contains the trivial representation?
+[10:53.59] <Kuvaro> eatenSadza; then why did you mention earlier that the bread is it and that it's everywhere?
+[10:54.15] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) Quit (Quit: Leaving)
+[10:54.21] <byron2> Kuvaro: Hold on now. You're asking about a specific model. No one is claiming knowledge. We're looking at models and asking which one makes most sense.
+[10:54.44] <admiralakber> Kuvaro: Watch this: ＋＋https://www.youtube.com/watch?v=Z0o6hQLcSRc，，
+[10:55.11] * napster (~textual@117.253.166.239) has joined channel ##physics
+[10:55.25] <Kuvaro> see this: ＋＋https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Raisinbread.gif/640px-Raisinbread.gif，，
+[10:55.42] <Kuvaro> in this example, the bread was small once. but then it expanded to fill up the room
+[10:55.45] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:56.07] <Kuvaro> the question is; what may have existed in which the bread had expanded into?
+[10:56.17] <admiralakber> Kuvaro: Watch the video it answers your questions
+[10:56.34] <byron2> Kuvaro: If the bread is infinite. The answer is bread.
+[10:56.51] <admiralakber> in fact watch it twice
+[10:57.04] <Kuvaro> byron2; was the universe infinitely big one second after the Big Bang?
+[10:57.34] <byron2> Kuvaro: It could've been infinite at big bang *shrugs*
+[10:57.59] <Kuvaro> at the singularity, yes
+[10:58.39] * admiralakber (~admiralak@unaffiliated/admiralakber) has left ##physics ()
+[11:01.30] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[11:03.24] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) Quit (Ping timeout: 250 seconds)
+[11:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[11:05.09] * Xenolith (~Xenolith@unaffiliated/xenolith) Quit (Read error: Connection reset by peer)
+[11:07.40] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) has joined channel ##physics
+[11:07.55] <byron2> What if the universe is infinite. If we run time backwards, so that our observable universe collapses into a singularity, we would not be collapsing the total universe into the same singularity, right, or how do you describe that?
+[11:08.01] * byron2 is confused
+[11:08.16] * Guest66212 (~Imk0tter@ool-2f12e944.dyn.optonline.net) has left ##physics ()
+[11:08.16] * Guest66212 (~Imk0tter@ool-2f12e944.dyn.optonline.net) has joined channel ##physics
+[11:08.29] * Guest66212 (~Imk0tter@ool-2f12e944.dyn.optonline.net) has left ##physics ()
+[11:08.35] <byron2> Maybe I should watch that vid.
+[11:08.37] * Imk0tter (~Imk0tter@ool-2f12e944.dyn.optonline.net) has joined channel ##physics
+[11:08.48] <SpeedEvil> Running the universe backwards is prohibited.
+[11:08.57] <SpeedEvil> And causes a large fine if you attempt it.
+[11:09.02] <eatenSadza> byron2: I think the big bang theory is mathematically incomplete... so yeah
+[11:09.17] <Kuvaro> SpeedEvil; your mother can provide us with the amount necessary to pay off the bill
+[11:09.35] <Kuvaro> SpeedEvil; after all, prostitutes are quite rich!
+[11:09.51] <Kuvaro> just a tad silly joke, mind me
+[11:09.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[11:11.00] * andmand (~vandrew@86.126.101.64) has joined channel ##physics
+[11:12.44] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) has joined channel ##physics
+[11:12.53] * Xenolith (~Xenolith@unaffiliated/xenolith) has joined channel ##physics
+[11:12.56] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) Quit (Ping timeout: 250 seconds)
+[11:14.35] * rudi94 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[11:15.33] * rudi92 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 256 seconds)
+[11:16.30] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[11:18.37] * CaptainK (~CaptainK@181.179.141.6) has joined channel ##physics
+[11:18.56] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[11:19.20] * andmand (~vandrew@86.126.101.64) Quit (Ping timeout: 252 seconds)
+[11:21.05] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 272 seconds)
+[11:23.00] * CaptainK (~CaptainK@181.179.141.6) Quit (Ping timeout: 252 seconds)
+[11:25.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[11:26.27] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[11:28.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[11:28.18] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[11:34.10] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-lzediyvknzbilroj) Quit (Ping timeout: 250 seconds)
+[11:35.12] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[11:36.04] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##physics
+[11:37.30] * visof (~visof@197.133.16.125) Quit (Ping timeout: 265 seconds)
+[11:37.58] * SpeedEvil (~quassel@tor/regular/SpeedEvil) Quit (Quit: No Ping reply in 180 seconds.)
+[11:38.43] * SpeedEvil (~quassel@tor/regular/SpeedEvil) has joined channel ##physics
+[11:41.12] <xihr> eatenSadza: good for you
+[11:41.32] <Kuvaro> xihr; but is it good for me?
+[11:41.42] <eatenSadza> xihr: what?
+[11:42.41] <Kuvaro> eatenSadza; the big bang theory is indeed, mathematically incomplete. just like any other cosmological theory that intends to explain the cosmos
+[11:44.28] <Kuvaro> there are many models that try to get rid of this incompleteness, such as string theory and LQG
+[11:45.03] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-zaucupbywlhujwoc) has joined channel ##physics
+[11:45.44] <Kuvaro> but it will only lead to more incompleteness. "if that happened, what happened before it? and what triggered the existence of laws to permit such a happening?" and so on
+[11:46.29] <byron2> We cannot explain everything.
+[11:46.52] <Kuvaro> ofcourse
+[11:50.20] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##physics
+[11:54.22] * napster (~textual@117.253.166.239) has joined channel ##physics
+[11:55.06] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[11:56.22] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Ping timeout: 264 seconds)
+[11:57.01] * Kuvaro (~Kuvaro@119.157.148.181) Quit (Quit: Kuvaro)
+[11:58.06] * puddle (uid22609@gateway/web/irccloud.com/x-zurwulijlswhuyyp) has joined channel ##physics
+[11:59.03] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-toxloxsnrwpxhxzp) has joined channel ##physics
+[11:59.58] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[12:00.50] * qiffp (~qiffp@70.50.102.27) Quit (Ping timeout: 246 seconds)
+[12:00.56] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[12:01.36] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[12:04.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[12:05.38] * etudor (~asdasdada@5-12-145-106.residential.rdsnet.ro) has joined channel ##physics
+[12:06.56] * arun_ (~arun@103.51.18.86) has joined channel ##physics
+[12:08.20] * dardevelin (~dardeveli@unaffiliated/dardevelin) has joined channel ##physics
+[12:10.01] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[12:10.33] * Pinkamena_D (~paul@c-50-182-143-125.hsd1.nj.comcast.net) has joined channel ##physics
+[12:11.47] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[12:12.18] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 265 seconds)
+[12:12.43] * MulleDK20 is now known as MulleDK19
+[12:13.40] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[12:14.29] * wukong (~wukong@cpe-75-80-113-111.san.res.rr.com) has joined channel ##physics
+[12:14.32] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) Quit (Quit: FourLeav)
+[12:16.08] <Juris4cm> hmm I think I got some ionization from X-rays
+[12:16.11] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[12:16.32] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[12:16.37] <Juris4cm> I got spark 5cm with 20kV in air between aluminum plate and copper ring
+[12:16.57] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[12:17.00] * johnflux__ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[12:17.11] * orthoplex64 (~orthoplex@unaffiliated/orthoplex64) Quit (Ping timeout: 244 seconds)
+[12:18.27] <Juris4cm> But it seems like that this ionization is not going far.. I was able to light my neon indicator 1m from transmitter, but it is so sensitive that it light even when my finger gets closer than 2cm to it
+[12:18.56] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[12:19.26] * johnflux_ (~johnflux@konversation/developer/JohnFlux) Quit (Ping timeout: 245 seconds)
+[12:19.28] <Juris4cm> So probably to make X-rays in normal pressure it requires higher HV with witch I don't wanna paly
+[12:22.59] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) has joined channel ##physics
+[12:23.23] * andmand (~vandrew@86.126.101.64) has joined channel ##physics
+[12:24.55] * osoba (~me@77.105.52.60) has joined channel ##physics
+[12:28.31] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[12:31.00] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[12:31.29] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Read error: Connection reset by peer)
+[12:32.48] * gb73d (~gb73d@81-178-181-37.dsl.pipex.com) Quit (Remote host closed the connection)
+[12:33.01] * sbellina (~sbellina@66.29.187.48.static.utbb.net) Quit (Ping timeout: 246 seconds)
+[12:33.33] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[12:33.48] * shikhin_ (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[12:34.04] * Skywise (~Skywise@unaffiliated/skywise) has joined channel ##physics
+[12:34.17] * aural (~aural@unaffiliated/necrodearia) has joined channel ##physics
+[12:34.34] <Skywise> does matter displace space or are they superpositioned?
+[12:35.37] * gb73d (~gb73d@81-178-184-255.dsl.pipex.com) has joined channel ##physics
+[12:36.17] * gb73dx (~gb73d@81-178-184-255.dsl.pipex.com) has joined channel ##physics
+[12:36.31] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[12:38.41] * gb73d (~gb73d@81-178-184-255.dsl.pipex.com) Quit (Remote host closed the connection)
+[12:40.32] * gb73d (~gb73d@81-178-185-68.dsl.pipex.com) has joined channel ##physics
+[12:40.42] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Ping timeout: 256 seconds)
+[12:42.06] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[12:43.07] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:43.25] * gb73dx (~gb73d@81-178-184-255.dsl.pipex.com) Quit (Ping timeout: 272 seconds)
+[12:45.10] * andmand (~vandrew@86.126.101.64) Quit (Ping timeout: 265 seconds)
+[12:45.41] * Guest40000 (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) has joined channel ##physics
+[12:46.02] * Guest40000 is now known as mheath
+[12:46.06] * mheath (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) Quit (Changing host)
+[12:46.06] * mheath (~mheath@unaffiliated/mheath) has joined channel ##physics
+[12:46.18] * gb73dx (~gb73d@81-178-185-132.dsl.pipex.com) has joined channel ##physics
+[12:46.38] * gb73dx (~gb73d@81-178-185-132.dsl.pipex.com) Quit (Client Quit)
+[12:47.01] * gb73d (~gb73d@81-178-185-68.dsl.pipex.com) Quit (Ping timeout: 246 seconds)
+[12:47.49] * gb73d (~gb73d@81-178-185-132.dsl.pipex.com) has joined channel ##physics
+[12:48.00] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (Ping timeout: 250 seconds)
+[12:48.09] <eatenSadza> xihr
+[12:51.43] * gb73dx (~gb73d@81-178-185-209.dsl.pipex.com) has joined channel ##physics
+[12:51.46] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[12:51.54] * Pinkamena_D (~paul@c-50-182-143-125.hsd1.nj.comcast.net) Quit (Ping timeout: 252 seconds)
+[12:52.08] * napster (~textual@117.253.166.239) has joined channel ##physics
+[12:52.08] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Verlassend)
+[12:52.19] * gb73d (~gb73d@81-178-185-132.dsl.pipex.com) Quit (Ping timeout: 244 seconds)
+[12:52.31] <Juris4cm> Any expert in spark gaps here? :)
+[12:53.05] <yashi> Skywise: Matter doesn't displace space, but rather, curves it.
+[12:53.09] <Juris4cm> Do sparkgap in coil under pressure disipates smaller amount of power than in air under same voltage?
+[12:53.40] <Juris4cm> not in coil but in oil
+[12:53.46] <Juris4cm> miswriting
+[12:57.08] * gb73dx (~gb73d@81-178-185-209.dsl.pipex.com) Quit (Ping timeout: 256 seconds)
+[12:57.37] * gb73d (~gb73d@81-178-185-252.dsl.pipex.com) has joined channel ##physics
+[12:57.44] * gb73dx (~gb73d@81-178-185-252.dsl.pipex.com) has joined channel ##physics
+[12:58.05] * smurfa (~smurfa@unaffiliated/smurfa) has joined channel ##physics
+[12:58.21] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) has joined channel ##physics
+[12:59.32] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-zaucupbywlhujwoc) Quit (Ping timeout: 250 seconds)
+[01:00.18] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##physics
+[01:01.25] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[01:01.27] * Macuser (~textual@unaffiliated/macuser) Quit (Max SendQ exceeded)
+[01:02.07] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[01:02.09] * qiffp (~qiffp@70.50.102.27) has joined channel ##physics
+[01:02.14] * gb73dx (~gb73d@81-178-185-252.dsl.pipex.com) Quit (Ping timeout: 256 seconds)
+[01:02.39] * gb73dx (~gb73d@81-178-186-58.dsl.pipex.com) has joined channel ##physics
+[01:03.03] * gb73d (~gb73d@81-178-185-252.dsl.pipex.com) Quit (Ping timeout: 265 seconds)
+[01:03.26] * gb73d (~gb73d@81-178-186-58.dsl.pipex.com) has joined channel ##physics
+[01:03.32] * superposition (~superposi@unaffiliated/chirality) has joined channel ##physics
+[01:03.38] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) Quit (Ping timeout: 252 seconds)
+[01:03.41] * puddle (uid22609@gateway/web/irccloud.com/x-zurwulijlswhuyyp) Quit ()
+[01:04.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 264 seconds)
+[01:07.06] <Juris4cm> Do sparkgap in oil under pressure disipates smaller amount of power than in air under same voltage?
+[01:07.29] * gb73dx (~gb73d@81-178-186-58.dsl.pipex.com) Quit (Ping timeout: 272 seconds)
+[01:08.22] * gb73d (~gb73d@81-178-186-58.dsl.pipex.com) Quit (Ping timeout: 264 seconds)
+[01:10.01] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:10.38] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-uqudswckhnyyjakx) has joined channel ##physics
+[01:13.35] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[01:14.18] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[01:14.45] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[01:16.36] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 264 seconds)
+[01:16.47] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:16.49] * Vutral_ (~ss@p5B2A65F6.dip0.t-ipconnect.de) Quit (Ping timeout: 256 seconds)
+[01:17.10] * Vutral__ (~ss@31.7.56.132) has joined channel ##physics
+[01:18.05] * arun__ (~arun@43.231.208.217) has joined channel ##physics
+[01:18.52] * broadball (~broaderba@251.83-213-171.dynamic.clientes.euskaltel.es) has joined channel ##physics
+[01:19.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:21.12] * arun_ (~arun@103.51.18.86) Quit (Ping timeout: 250 seconds)
+[01:22.06] * Niebuhr (~p@host109-147-100-210.range109-147.btcentralplus.com) Quit (Quit: Leaving)
+[01:22.10] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) has joined channel ##physics
+[01:22.41] * shikhin_ is now known as shikhin
+[01:22.47] * arun__ (~arun@43.231.208.217) Quit (Ping timeout: 246 seconds)
+[01:23.25] * arun__ (~arun@103.51.18.86) has joined channel ##physics
+[01:25.11] * Guest82274 (~sweden@91.214.89.190) has joined channel ##physics
+[01:25.52] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:26.05] <Guest82274> Do energy really exist as some "substance" about there, or it is purely a mathematical construction?
+[01:26.36] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) Quit (Ping timeout: 256 seconds)
+[01:27.12] <Slereah_> It is a mathematical construction
+[01:27.20] <Slereah_> Energy is just a property of matter
+[01:27.25] <Slereah_> Like mass or length
+[01:27.28] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 252 seconds)
+[01:28.55] <Guest82274> But properties like length and mass aren't "just made up". There really is something that "is" length out there, and there really is something that is "mass" out there.
+[01:28.59] * blizarre (blizarre@5.29.49.214) has joined channel ##physics
+[01:29.21] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[01:29.30] * uv (~uv@94-21-201-20.pool.digikabel.hu) Quit (Remote host closed the connection)
+[01:30.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:30.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Excess Flood)
+[01:30.17] <Slereah_> Well I don't want to get too philosophical about it, but imagine some other less obvious property then
+[01:30.24] <Slereah_> Like magnetic strength or torque
+[01:30.25] * sqrt2 (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[01:31.00] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) has joined channel ##physics
+[01:31.34] * superposition (~superposi@unaffiliated/chirality) Quit (Remote host closed the connection)
+[01:32.10] <Guest82274> How is this philosophy? I asked a question. Does energy as a sort of "substance" really exist or is it really just made up?
+[01:33.00] <Skywise> e = mc^2 says matter is energy
+[01:33.38] <Guest82274> Magnetic strength is simply a description of how big the force between the magetic and one unit charge would be
+[01:34.14] <Slereah_> Energy is not a substance, no.
+[01:34.15] <nvon> Guest82274, And what exactly is "mass"?
+[01:34.34] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:34.36] <Guest82274> Skywise: no, it doesn't. mass is... well, just mass, and energy is mass times area divided by time squares
+[01:34.38] <Slereah_> Every physical object has a characteristic of energy
+[01:35.02] <Guest82274> nvon: mass is the property of being resistance to forces
+[01:35.12] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Ping timeout: 255 seconds)
+[01:35.22] <Guest82274> at least, that's how I understand mass
+[01:35.46] <Skywise> Guest82274, Energy = Mass x (Speed of light) Squared
+[01:35.46] <nvon> Ok, so you have a definition, but what does it tell you that "mass" exists or "is out there".
+[01:35.56] <nvon> ?
+[01:36.23] <Slereah_> Really it could even be argued that mass is less fundamental than energy
+[01:36.43] <Guest82274> Skywise: speed is length per time unit and squaring it gives length^2/time^2
+[01:36.48] <Slereah_> But I don't really try to get into what exists versus not
+[01:37.15] <Skywise> Guest82274, its not speed, but the value of the speed of light
+[01:37.18] <Slereah_> Guest82274 : You are just using metrology formulas, though
+[01:37.19] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[01:37.29] <Slereah_> You could just as easily define everything with another set of unit
+[01:37.45] <Slereah_> And it has been done
+[01:37.51] <Slereah_> Several times, really
+[01:38.00] <nvon> Mass, as energy, is just our way of reasoning things "we see". We can measure both and "identify their presence", according to the definition we have created.
+[01:38.04] <Slereah_> The fact that we use mass, length and time is somewhat arbitrary
+[01:38.06] <nvon> But that's all.
+[01:38.22] <Slereah_> Mostly because those are units we could measure easily early on
+[01:38.25] <Guest82274> Skywise: well, now you are talking about a very specific form of energy, namely the energy required to create matter with some rest mass
+[01:38.57] <Guest82274> the unit of energy is still force * length = mass * length^2/time^2
+[01:39.05] <nvon> Guest82274, ^^
+[01:39.23] * Micos (Micos@2a02:2f0b:817f:ffff::bc1a:56cd) has joined channel ##physics
+[01:39.41] <Guest82274> nvon: so you would argue that "mass" really don't exist either?
+[01:40.51] <nvon> Guest82274, Well, I think at least I can say it is on the same level as energy. Or maybe energy is "more hidden", that is, it requires deeper reasoning to define it.
+[01:41.03] <nvon> As Slereah_ is pointing out, it's just a matter of perspective, I guess.
+[01:41.10] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:41.44] <Guest82274> nvon: well, rest mass is not relative to the frame of reference. energy is
+[01:42.39] * Juris4cm (ROMA@213.180.118.42) Quit ()
+[01:43.08] * arun__ is now known as arunpyasi
+[01:43.26] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Remote host closed the connection)
+[01:43.29] <Guest82274> the same action of increasing your velocity by 1 m/s can be seen differently, because in 0.5 m*v^2, the velocity is squared, and thus higher intertial velocity gives bigger increase of kenetic energy
+[01:43.33] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:43.44] * Juris4cm (ROMA@213.180.118.42) has joined channel ##physics
+[01:44.29] <nvon> Guest82274, Rest mass is associated with a "rest energy".
+[01:44.40] <Guest82274> which would imply that energy is completly mathematical concept, right?
+[01:45.17] <Slereah_> That is not really the realm of physics
+[01:45.24] <Slereah_> In physics, everything is a mathematical concept
+[01:45.31] <Slereah_> It's about models, not reality
+[01:46.12] <Guest82274> nvon: yeah, sure. it takes some force over a distance in order to create something with mass
+[01:47.52] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[01:48.29] <Guest82274> Slereah_: you have a point, but at the same time, you don't. sure, everything is models, but just because of that, can't we say that the curvature of spacetime, or that atoms is "real"?
+[01:48.37] * TheLoneMilkMan_ (Gamemaster@129.21.94.42) has joined channel ##physics
+[01:48.54] <Guest82274> aren't atoms "real", according to you, Slereah_?
+[01:49.22] <Slereah_> I didn't say that they are or are not
+[01:49.30] <Slereah_> Just that it's more the realm of philosophy than physics
+[01:50.10] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:51.45] * Juris4cm (ROMA@213.180.118.42) Quit ()
+[01:51.56] * Juris4cm (ROMA@213.180.118.42) has joined channel ##physics
+[01:52.15] * _Atom_ (~jawat@cpe-72-182-50-65.austin.res.rr.com) has joined channel ##physics
+[01:52.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:53.24] * Juris4cm (ROMA@213.180.118.42) Quit (Client Quit)
+[01:53.42] * mheath (~mheath@unaffiliated/mheath) Quit (Ping timeout: 250 seconds)
+[01:54.29] * Juris4cm (ROMA@213.180.118.42) has joined channel ##physics
+[01:55.00] * Clark44 (uid3845@gateway/web/irccloud.com/x-kcqzsvkumezjydep) has joined channel ##physics
+[01:56.16] <Guest82274> Slereah_: well, what's the difference?
+[01:58.52] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[01:59.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:00.41] <balance> Still having problem getting my velocity verlet working: Given: m, x, x', p, p' Formula: y[k+1]=y[k]+hv[k]+h²/2*f(y[k]) .... for f I used : f=a=q'/m and for v=p'/m*t, is the idea right? I can't derivate or integrate any of the given. Only working with these 5.
+[02:01.52] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (Remote host closed the connection)
+[02:02.00] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) Quit (Quit: Leaving)
+[02:02.05] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) has joined channel ##physics
+[02:02.06] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[02:02.26] * ryu (~ryu@unaffiliated/ryu) has joined channel ##physics
+[02:04.19] <IThinkA> hi..... m*g*h gives the potential energy of the heigh difference h, right??!!! and g = G m1 m2 /r^2.....
+[02:05.14] <IThinkA> but when a combine that to get my total potential energy i get m1 * G m1 m2 /r^2 * r, (h = r)
+[02:06.48] * puddle (uid22609@gateway/web/irccloud.com/x-qpodrmtsrrbwghsy) has joined channel ##physics
+[02:07.03] <IThinkA> this gives me G (m1)^2 m2 r
+[02:07.05] <IThinkA> wtf?
+[02:08.04] * jitta (~jitta@95.90.246.105) Quit (Quit: Stay stressed, then give up.)
+[02:08.55] <IThinkA> how?
+[02:09.38] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[02:10.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:10.38] * zaon (~user@h194.124.232.68.dynamic.ip.windstream.net) has joined channel ##physics
+[02:11.31] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) has joined channel ##physics
+[02:12.01] <IThinkA> can someone yhelp em
+[02:12.03] <IThinkA> me
+[02:14.00] * SpeedEvil (~quassel@tor/regular/SpeedEvil) Quit (Quit: No Ping reply in 180 seconds.)
+[02:14.44] <IThinkA> please
+[02:14.58] * SpeedEvil (~quassel@tor/regular/SpeedEvil) has joined channel ##physics
+[02:15.26] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##physics
+[02:15.57] * CalamityBlue (CalamityBl@182.50.108.102) Quit (Read error: Connection reset by peer)
+[02:17.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:17.15] * sparetire (~sparetire@unaffiliated/sparetire) has joined channel ##physics
+[02:17.44] <balance> or can anyone recommend a book for numeric methods?
+[02:18.01] <balance> IThinkA, do you have that earth tunnel problem?
+[02:18.17] * Pinkamena_D (~paul@c-50-182-143-125.hsd1.nj.comcast.net) has joined channel ##physics
+[02:19.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:20.59] <IThinkA> what
+[02:21.05] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has joined channel ##physics
+[02:21.27] * Guest82274 (~sweden@91.214.89.190) Quit (Read error: Connection reset by peer)
+[02:21.50] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) has joined channel ##physics
+[02:21.58] * Guest82274 (~sweden@91.214.89.190) has joined channel ##physics
+[02:22.17] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) Quit (Quit: leaving)
+[02:22.20] <IThinkA> balance
+[02:22.32] <balance> IThinkA, what are u trying to solve?
+[02:23.17] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has joined channel ##physics
+[02:23.26] <IThinkA> my total potenital energy in respect to my distance to earth's center
+[02:23.38] <IThinkA> I wrote: "m*g*h gives the potential energy of the heigh difference h, right??!!! and g = G m1 m2 /r^2...."
+[02:23.46] <IThinkA> and "but when a combine that to get my total potential energy i get m1 * G m1 m2 /r^2 * r, (h = r) "
+[02:24.04] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) Quit (Remote host closed the connection)
+[02:24.44] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) Quit (Client Quit)
+[02:25.50] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has joined channel ##physics
+[02:26.47] <balance> IThinkA, did you check the units? always check the units. you just want to get potentional energy outside earth?
+[02:29.02] <balance> potentioanl energy of what? a snowboarder jumping? or do you just want to calculate g by your own?
+[02:29.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:31.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:32.34] * githogori (~githogori@c-98-234-68-44.hsd1.ca.comcast.net) Quit (Ping timeout: 252 seconds)
+[02:33.41] <IThinkA> balance: the total potenital energy of any object in earths gravity
+[02:40.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:43.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:47.25] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[02:51.31] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) has joined channel ##physics
+[02:53.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:55.01] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##physics
+[02:55.23] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[02:55.24] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:56.28] * Vutral__ (~ss@31.7.56.132) Quit (Ping timeout: 245 seconds)
+[02:56.57] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP01.NATPOOL.NYU.EDU) Quit (Quit: mmhun)
+[02:57.25] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[02:57.29] * githogori (~githogori@73.222.69.223) has joined channel ##physics
+[03:04.16] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[03:06.06] * Pinkamena_D (~paul@c-50-182-143-125.hsd1.nj.comcast.net) Quit (Ping timeout: 255 seconds)
+[03:06.14] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Read error: Connection reset by peer)
+[03:06.34] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[03:08.09] * telex (teletype@freeshell.de) Quit (Remote host closed the connection)
+[03:10.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:10.07] * Guest82274 (~sweden@91.214.89.190) Quit (Read error: Connection reset by peer)
+[03:10.11] * orthoplex64 (~orthoplex@unaffiliated/orthoplex64) has joined channel ##physics
+[03:10.12] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) has joined channel ##physics
+[03:10.41] * telex (teletype@freeshell.de) has joined channel ##physics
+[03:10.44] * Cs1177 (~Cs1177@104.240.37.1) has joined channel ##physics
+[03:11.00] * Guest82274 (~sweden@91.214.89.190) has joined channel ##physics
+[03:12.15] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) Quit (Quit: Leaving)
+[03:15.35] * puddle (uid22609@gateway/web/irccloud.com/x-qpodrmtsrrbwghsy) Quit ()
+[03:16.15] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) Quit (Quit: FourLeav)
+[03:16.49] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:19.14] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:20.00] * Tutator (~The@29.103.70.115.static.exetel.com.au) has joined channel ##physics
+[03:20.55] * norg__ (yherro@55.109-247-138.customer.lyse.net) Quit (Ping timeout: 256 seconds)
+[03:21.13] * TheLoneMilkMan_ (Gamemaster@129.21.94.42) Quit (Ping timeout: 250 seconds)
+[03:21.44] * norg__ (yherro@55.109-247-138.customer.lyse.net) has joined channel ##physics
+[03:22.12] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) Quit (Quit: Leaving)
+[03:25.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:27.37] * Romualds (ROMA@213.180.118.42) has joined channel ##physics
+[03:28.08] * _Atom_ (~jawat@cpe-72-182-50-65.austin.res.rr.com) Quit (Remote host closed the connection)
+[03:28.09] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:28.15] * Juris4cm (ROMA@213.180.118.42) Quit (Read error: No route to host)
+[03:30.24] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[03:30.27] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP01.NATPOOL.NYU.EDU) has joined channel ##physics
+[03:30.48] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[03:32.15] * Skywise (~Skywise@unaffiliated/skywise) has left ##physics ()
+[03:33.29] * Niebuhr (~p@host109-147-100-210.range109-147.btcentralplus.com) has joined channel ##physics
+[03:33.36] * resttime_ (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) has joined channel ##physics
+[03:33.38] * arun_ (~arun@43.231.208.217) has joined channel ##physics
+[03:34.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:34.59] * The_Mad_Pirate (~leandro@181.167.72.38) Quit (Quit: Konversation terminated!)
+[03:35.35] * arunpyasi (~arun@103.51.18.86) Quit (Ping timeout: 244 seconds)
+[03:35.43] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) Quit (Ping timeout: 246 seconds)
+[03:36.56] <acg> IThinkA I recommend not looking at mgh when determining potential energy of two masses
+[03:37.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:37.12] <acg> mgh is an approximation which only applies under limited circumstances; it is not generally correct
+[03:41.11] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) Quit (Quit: Leaving)
+[03:43.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:44.16] * Kompton (~Kompton@unaffiliated/condenado) has joined channel ##physics
+[03:45.56] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:45.57] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[03:46.29] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) has joined channel ##physics
+[03:48.04] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has left ##physics (("economics"))
+[03:49.22] * githogori (~githogori@73.222.69.223) Quit (Ping timeout: 240 seconds)
+[03:50.34] * Cs1177 (~Cs1177@104.240.37.1) Quit (Ping timeout: 244 seconds)
+[03:51.29] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has joined channel ##physics
+[03:51.37] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[03:51.42] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) Quit (Client Quit)
+[03:52.14] * Leftas (~leftas@91.228.84.180) has joined channel ##physics
+[03:55.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:56.48] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[03:57.43] * githogori (~githogori@73.222.69.223) has joined channel ##physics
+[03:57.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:01.18] * TheLoneMilkMan (Gamemaster@129.21.94.42) has joined channel ##physics
+[04:03.33] * ryu (~ryu@unaffiliated/ryu) Quit (Quit: Leaving)
+[04:03.49] * wukong (~wukong@cpe-75-80-113-111.san.res.rr.com) Quit (Ping timeout: 265 seconds)
+[04:03.57] * FreezingCold (~FreezingC@135.0.41.14) Quit (Quit: Out)
+[04:04.29] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 246 seconds)
+[04:05.21] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) Quit (Remote host closed the connection)
+[04:06.19] * mads__ (~mads@0125800301.0.fullrate.dk) Quit (Remote host closed the connection)
+[04:06.45] * balance1 (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) has joined channel ##physics
+[04:06.51] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Read error: Connection reset by peer)
+[04:07.46] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-toxloxsnrwpxhxzp) Quit ()
+[04:08.05] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[04:09.25] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) has joined channel ##physics
+[04:09.55] * dorelpc (~asdasdada@5-12-145-106.residential.rdsnet.ro) has joined channel ##physics
+[04:09.57] * dustinm (~dustinm@105.ip-167-114-152.net) Quit (Ping timeout: 245 seconds)
+[04:10.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:10.22] * etudor (~asdasdada@5-12-145-106.residential.rdsnet.ro) Quit (Ping timeout: 256 seconds)
+[04:10.31] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Ping timeout: 272 seconds)
+[04:10.52] * Zakaria (2965c37b@gateway/web/cgi-irc/kiwiirc.com/ip.41.101.195.123) has joined channel ##physics
+[04:12.57] * Zakaria (2965c37b@gateway/web/cgi-irc/kiwiirc.com/ip.41.101.195.123) has left ##physics ()
+[04:14.29] * omer681 (~omer681@unaffiliated/omer681) Quit (Read error: Connection reset by peer)
+[04:14.59] * omer681 (~omer681@unaffiliated/omer681) has joined channel ##physics
+[04:16.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:17.26] * balance1 (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Ping timeout: 252 seconds)
+[04:17.30] * dustinm (~dustinm@2607:5300:100:200::160d) has joined channel ##physics
+[04:17.53] <byron2> Slereah_: What about ＋＋https://www.youtube.com/watch?v=lm9Zr3z3iWA，，
+[04:18.27] <django_> if you want to find the magnetic field by a current carrying object do you use amperes law or biot savart law?
+[04:18.46] * s3v3n62mm (~s3v3n62mm@p3EE2F71A.dip0.t-ipconnect.de) has joined channel ##physics
+[04:19.07] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:19.23] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Quit: Ex-Chat)
+[04:20.36] * jared375 (~jared375@71-93-218-163.dhcp.lnbh.ca.charter.com) has joined channel ##physics
+[04:21.17] * ^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has joined channel ##physics
+[04:22.39] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[04:25.07] * octothorpe (anderson@eiko.kupo.be) Quit (Remote host closed the connection)
+[04:25.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:26.16] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) has joined channel ##physics
+[04:27.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:29.27] * rabbitde1 (~rabbitdew@adsl-76-254-65-194.dsl.pltn13.sbcglobal.net) has joined channel ##physics
+[04:29.28] * oleo (~oleo@unaffiliated/oleo) has joined channel ##physics
+[04:30.01] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[04:30.16] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[04:31.01] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 246 seconds)
+[04:32.18] * rabbitdew (~rabbitdew@unaffiliated/rabbitdew) Quit (Ping timeout: 245 seconds)
+[04:34.28] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-gdfljnltlmxibzxk) has joined channel ##physics
+[04:37.25] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) has joined channel ##physics
+[04:37.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:38.09] * arun_ (~arun@43.231.208.217) Quit (Quit: Leaving)
+[04:39.20] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) has joined channel ##physics
+[04:40.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:40.10] * curiousguy13_ (~curiousgu@59.177.203.40) Quit (Ping timeout: 264 seconds)
+[04:40.24] * CalamityBlue (CalamityBl@182.50.108.23) has joined channel ##physics
+[04:43.10] * CvP (CvP@203.76.123.238) Quit (Read error: Connection reset by peer)
+[04:43.29] * CvP (CvP@203.76.123.238) has joined channel ##physics
+[04:43.32] * kreiGT (~kreig@190.149.41.29) has joined channel ##physics
+[04:43.34] * blizarre (blizarre@5.29.49.214) Quit ()
+[04:45.35] * Guest29001 (~maphry@host109-155-144-65.range109-155.btcentralplus.com) Quit (Read error: Connection reset by peer)
+[04:45.41] * nfk (~nfk@unaffiliated/nfk) Quit (Quit: yawn)
+[04:46.42] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:47.07] * map (~maphry@host109-155-144-65.range109-155.btcentralplus.com) has joined channel ##physics
+[04:47.29] * map is now known as Guest64898
+[04:48.27] * Verttone (~Verttone@188.235.1.7) Quit (Quit: Leaving)
+[04:48.42] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[04:49.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:49.11] <jared375> ＋＋http://www.cpp.edu/~skboddeker/131/quiz/11-4fall-131E2.htm，，  For the last problem shouldn't the delta y in mg include the 10 cm, since gravity still acts while spring is being compressed?
+[04:51.43] * HoloIRCUser (~holoirc@93-138-66-67.adsl.net.t-com.hr) has joined channel ##physics
+[04:51.47] <monoprotic> jared375 yes, looks like they neglected it since its relatively small
+[04:53.10] <monoprotic> jared375 using g= 10m/s^2 is even less accurate than that, so
+[04:53.28] * curiousguy13_ (~curiousgu@120.59.227.130) has joined channel ##physics
+[04:54.09] <jared375> yes, thanks, I have a couple more if you're not occupied? just quick questions on typos
+[04:54.18] <jared375> trying to see if he made mistakes
+[04:54.24] <monoprotic> sure
+[04:55.04] <django_> guys if i have an arc in the zy plane
+[04:55.09] <django_> what is the position vector for it?
+[04:55.16] <django_> in terms of spherical coords
+[04:55.36] <monoprotic> django_ depends on the arc?
+[04:55.40] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:55.42] <django_> monoprotic what do you depends on the arc?
+[04:55.56] <monoprotic> the position vector will be different for different arcs of course
+[04:56.04] <django_> radius a
+[04:56.39] <monoprotic> can yuo be more specific? "arc" can mean just a smooth curve
+[04:56.48] <jared375> ＋＋http://www.cpp.edu/~skboddeker/131/quiz/midterm-Spr04.htm，，  the "modified problem" , that asks for Tension(2,4) shouldn't it be T(2,4) - 2kg*gsin(30) - Frction on Block 4 = ma ?
+[04:56.54] <django_> ill link it one sec, my bad
+[04:57.05] <monoprotic> jared375 ch 5?
+[04:57.07] <jared375> yes
+[04:57.12] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[04:57.47] <jared375> he neglected friction and had the sin(30) term  outside for both a and g which is wrong
+[04:58.03] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:58.06] <jared375> since theres friction the tension should be more
+[04:58.23] <django_> monoprotic ＋＋https://www.dropbox.com/s/c9v8cal3a6mb2dm/5.9.PNG?dl=0，，
+[04:58.23] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Quit: tmager)
+[05:00.17] <monoprotic> are you told what the accel is jared375 ?
+[05:00.21] <jared375> yes 1.35
+[05:00.42] <monoprotic> which direction
+[05:00.46] <jared375> up the ramp
+[05:02.13] <monoprotic> i would think then (4k)(1.35m/s^2) = T2,4 - sin(30)(40N) - cos(30)(10m/s^2)(4kg)(µ4) whatever that gives you
+[05:02.21] <monoprotic> 4k = 4kg, whoops
+[05:02.49] <jared375> yes thats what I had
+[05:03.11] <monoprotic> .c (4kg)(1.35 m/s^2) + sin(30deg)(40N) + cos(30deg)(4kg)(9.8m/s^2)(0.2)
+[05:03.18] <jared375> sorry meant 4kg in mine*
+[05:03.19] <+dirac> ((4 kg) * (1.35 (m / (s^2)))) + (sin(30 deg) * (40 N)) + (cos(30 deg) * (4 kg) * (9.8 (m / (s^2))) * 0.2) = 32.1896392 newtons [GC]
+[05:03.57] * expo873 (uid11626@gateway/web/irccloud.com/x-egxosfflwqfulxnn) has joined channel ##physics
+[05:03.59] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[05:04.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[05:04.39] * Verttone (~Verttone@188.235.1.7) has joined channel ##physics
+[05:05.09] * The_Mad_Pirate (~leandro@181.167.72.38) has joined channel ##physics
+[05:05.14] * norg__ (yherro@55.109-247-138.customer.lyse.net) Quit (Remote host closed the connection)
+[05:05.24] * norg__ (yherro@55.109-247-138.customer.lyse.net) has joined channel ##physics
+[05:06.21] * rabbitde1 (~rabbitdew@adsl-76-254-65-194.dsl.pltn13.sbcglobal.net) Quit (Ping timeout: 240 seconds)
+[05:07.28] * rabbitdew (~rabbitdew@adsl-76-254-65-194.dsl.pltn13.sbcglobal.net) has joined channel ##physics
+[05:07.28] * rabbitdew (~rabbitdew@adsl-76-254-65-194.dsl.pltn13.sbcglobal.net) Quit (Changing host)
+[05:07.28] * rabbitdew (~rabbitdew@unaffiliated/rabbitdew) has joined channel ##physics
+[05:08.17] * _Atom_ (~jawat@2602:306:cd22:96c0:1970:3023:8b3:8136) has joined channel ##physics
+[05:08.30] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) Quit (Quit: Jobro)
+[05:09.05] <monoprotic> django_ if you have ti written out in other coordinate system you can just convert them with something ilke this ＋＋http://plaza.obu.edu/corneliusk/mp/suv.pdf，，
+[05:09.53] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[05:10.17] <jared375> ＋＋http://www.cpp.edu/~skboddeker/131/quiz/131E2ans.htm，，  For 17 the initial height is 3.5R and the final height at point A is R + ( R - Rcos45) and so mg(3.5R) = 1/2 mv^2 + mg (2R -Rcos45) this gives a v^2 of around 44R (if g=10), but they have v^2 = 36R
+[05:10.50] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[05:10.50] * Guest82274 (~sweden@91.214.89.190) Quit (Read error: Connection reset by peer)
+[05:11.02] * Nintendo4DS (Nintendo3D@cpe-69-206-65-132.hvc.res.rr.com) Quit (Ping timeout: 250 seconds)
+[05:11.07] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) has joined channel ##physics
+[05:11.52] * Guest82274 (~sweden@91.214.89.190) has joined channel ##physics
+[05:12.05] <monoprotic> i dont get the question
+[05:12.35] <jared375> Centripetal Force = mv^2 / r and Conservation of Energy
+[05:12.38] * sazawal (~sazawal@ipbcc0c63d.dynamic.kabel-deutschland.de) has joined channel ##physics
+[05:12.51] <monoprotic> point A is on the circle, its not on the track
+[05:13.07] <jared375> yeah but the normal force pushes it towards the center
+[05:13.09] * _Atom_ (~jawat@2602:306:cd22:96c0:1970:3023:8b3:8136) Quit (Remote host closed the connection)
+[05:13.18] <jared375> the circle is part of the track
+[05:13.23] <jared375> its a loop
+[05:13.24] <monoprotic> OH.
+[05:13.33] <monoprotic> i thoguht it was something rolling down
+[05:13.33] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) Quit (Quit: Leaving)
+[05:13.34] <monoprotic> thats weird.
+[05:13.35] <monoprotic> okay
+[05:13.43] <jared375> so mgcos(theta)+N = centripetal
+[05:14.56] * Clark44 (uid3845@gateway/web/irccloud.com/x-kcqzsvkumezjydep) Quit (Quit: Connection closed for inactivity)
+[05:16.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:16.40] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[05:17.36] * FourLeav (~Jackson@ip68-11-142-112.br.br.cox.net) Quit (Quit: FourLeav)
+[05:17.37] * Tutator (~The@29.103.70.115.static.exetel.com.au) Quit (Quit: Leaving)
+[05:17.45] * FourFire (~FourFire@46.157.142.82.tmi.telenormobil.no) has joined channel ##physics
+[05:18.34] * nintendo3DS (Nintendo3D@cpe-69-206-65-132.hvc.res.rr.com) has joined channel ##physics
+[05:18.47] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[05:19.04] * fireballs (~fireballs@128.135.100.109) has joined channel ##physics
+[05:19.15] * wukong (~wukong@san-static-216.70.177.181.mpowercom.net) has joined channel ##physics
+[05:19.15] <monoprotic> jared375 the height is not 2R - Rcos45
+[05:19.16] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[05:19.25] <monoprotic> jared375 its R + Rcos45
+[05:19.36] * IThinkA (5bd659be@gateway/web/cgi-irc/kiwiirc.com/ip.91.214.89.190) has joined channel ##physics
+[05:20.41] <monoprotic> jared375 the height at A, that is
+[05:21.25] * smurfa (~smurfa@unaffiliated/smurfa) Quit (Quit: smurfa)
+[05:21.35] * Raccoon^ (wayward@unaffiliated/raccoon) has joined channel ##physics
+[05:21.36] <monoprotic> jared375 i gotta run for a bit, sorry
+[05:21.37] <jared375> thanks
+[05:21.44] <jared375> ok
+[05:24.15] * FourFire (~FourFire@46.157.142.82.tmi.telenormobil.no) has left ##physics (("Leaving"))
+[05:24.32] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[05:25.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:27.32] * dorelpc (~asdasdada@5-12-145-106.residential.rdsnet.ro) Quit (Read error: Connection reset by peer)
+[05:27.47] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[05:29.07] * _Atom_ (~jawat@108-210-41-108.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[05:31.22] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[05:32.40] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[05:32.48] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 264 seconds)
+[05:33.47] * Black_Phoenix (~phoenix@ip-6317.proline.net.ua) has joined channel ##physics
+[05:34.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:35.09] * _Atom_ (~jawat@108-210-41-108.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[05:35.51] * _Atom_ (~jawat@108-210-41-108.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[05:36.11] <jared375> ＋＋http://www.cpp.edu/~skboddeker/131/quiz/12-4fall-e2.htm，， For #2 did they forget to add mg to the normal force
+[05:36.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[05:37.58] * _Atom_ (~jawat@108-210-41-108.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[05:38.50] * sazawal (~sazawal@ipbcc0c63d.dynamic.kabel-deutschland.de) Quit (Quit: Leaving)
+[05:38.58] * TheLoneMilkMan (Gamemaster@129.21.94.42) Quit (Ping timeout: 245 seconds)
+[05:39.42] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Read error: Connection reset by peer)
+[05:39.57] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[05:39.57] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[05:43.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:43.31] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) has joined channel ##physics
+[05:45.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[05:47.37] * sbellina (~sbellina@66.29.187.48.static.utbb.net) Quit (Ping timeout: 252 seconds)
+[05:49.06] * Nik05 (~Nik05@unaffiliated/nik05) Quit (Remote host closed the connection)
+[05:49.59] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) Quit (Quit: Jobro)
+[05:50.08] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP01.NATPOOL.NYU.EDU) Quit (Quit: mmhun)
+[05:51.57] * Nik05 (~Nik05@unaffiliated/nik05) has joined channel ##physics
+[05:52.09] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 255 seconds)
+[05:52.14] * Erraunt (~main@aty139.neoplus.adsl.tpnet.pl) has joined channel ##physics
+[05:52.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:54.13] * sbellina (~sbellina@66.29.187.49.static.utbb.net) has joined channel ##physics
+[05:54.34] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[06:04.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[06:05.06] * asd5a (~asd5a@unaffiliated/asd6a) Quit (Read error: Connection reset by peer)
+[06:06.12] * TheBigDeal (~quassel@unaffiliated/innocent99) Quit (Remote host closed the connection)
+[06:08.48] <django_> xihr is it alright if i ask an eigenvector/eigenvalue question
+[06:09.30] <Slereah_> an eigenquestion
+[06:09.46] <django_> lol
+[06:10.00] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[06:10.09] <django_> Slereah_ mind if i pm it?
+[06:11.43] <Slereah_> Why not just ask it here
+[06:12.08] <django_> Slereah_ lol it might be off tpic, its math
+[06:12.25] <Slereah_> Try ##math then?
+[06:12.38] <django_> yeah i did, all the smart ppl are doing math i suppose
+[06:16.26] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[06:17.39] * corey84_ (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[06:18.42] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[06:20.42] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 256 seconds)
+[06:21.28] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[06:21.45] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[06:22.40] * corey84_ (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 246 seconds)
+[06:25.05] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[06:25.39] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[06:26.15] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Ping timeout: 250 seconds)
+[06:26.49] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[06:26.56] * mheath (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) has joined channel ##physics
+[06:26.56] * mheath (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) Quit (Changing host)
+[06:26.56] * mheath (~mheath@unaffiliated/mheath) has joined channel ##physics
+[06:27.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[06:34.00] *** Server disconnected on irc.freenode.net
+[07:54.41] * You have joined ##physics
+[07:54.41] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[07:54.41] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[07:54.42] Channel modes for ##physics are :+Ccgnt
+[07:54.42] Channel Created on: 4:02 AM 12/19/2007
+[07:55.23] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 255 seconds)
+[07:59.11] *** Server disconnected on irc.freenode.net
+[09:05.51] * You have joined ##physics
+[09:05.51] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[09:05.51] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[09:05.52] Channel modes for ##physics are :+Ccgnt
+[09:05.52] Channel Created on: 4:02 AM 12/19/2007
+[09:06.08] <jared375> TheLoneMilkMan The net force is the weight of the block hanging free
+[09:06.18] <jared375> you set that equal to the total mass and you can solve for accel
+[09:06.37] <mefistofeles> TheLoneMilkMan: the acceleration is given, what are you asking?
+[09:06.48] <mefistofeles> it's some constant acceleration "a", TheLoneMilkMan
+[09:07.08] <jared375> mefistofeles: just checking, they forgot to add mg to their result for Normal force in #2, right ?
+[09:07.29] <jared375> ＋＋http://www.cpp.edu/~skboddeker/131/quiz/12-4fall-e2.htm，，
+[09:07.33] <jared375> in that link ^
+[09:07.36] <mefistofeles> jared375: what #2?
+[09:07.42] * kreiGT (~kreig@190.149.41.29) Quit (Ping timeout: 256 seconds)
+[09:07.55] <mefistofeles> jared375: PHY131                    Ch 7 – 9 Exam    this one?
+[09:07.55] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) Quit (Ping timeout: 246 seconds)
+[09:08.01] <jared375> Yes
+[09:08.06] <mefistofeles> jared375: what expression?
+[09:08.23] <jared375> I have N+f2sintheta = mg + f3
+[09:08.49] <TheLoneMilkMan> mefistofeles: Isnt the acceleration of m1 going to be different than m2? If m2 moves a distance 'x', then there needs to be that 'x' amount of extra string on the top and bottom of the pulley
+[09:09.04] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) has joined channel ##physics
+[09:09.04] <jared375> no it's one system milkman
+[09:09.09] <jared375> they move together
+[09:09.14] <mefistofeles> jared375: I don't see anything involving "N" in that problem
+[09:09.20] <mefistofeles> any expression
+[09:09.29] <jared375> On the third line it says Fn
+[09:09.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:09.37] * Imk0tter (~Imk0tter@ool-2f12e944.dyn.optonline.net) Quit (Ping timeout: 246 seconds)
+[09:09.42] <mefistofeles> TheLoneMilkMan: that's what you have to find out
+[09:09.50] <jared375> and the substitution of F2sin(theta) - F3 was made
+[09:09.52] <mefistofeles> TheLoneMilkMan: don't try solving the problem without solving it :)
+[09:10.00] * buttermelted (~buttermel@chello062178037235.13.11.vie.surfer.at) Quit (Ping timeout: 264 seconds)
+[09:10.19] <jared375> Do you see it now ?
+[09:10.53] <mefistofeles> jared375: no
+[09:11.07] <jared375> Let me rephrase, the normal force is Weight + F2sin(theta) - F3
+[09:11.15] <jared375> correct?
+[09:11.41] <mefistofeles> jared375: ffs, I was looking at the wrong problem thanks to you :P
+[09:11.50] <jared375> sorry man
+[09:11.52] <mefistofeles> ;)
+[09:11.58] <mefistofeles> jared375: nah, they both are named the same
+[09:11.58] <TheLoneMilkMan> mefistofeles: Haha well thats where I seem to be stuck. I've got that the tension should be m1*g-a1
+[09:12.09] <TheLoneMilkMan> That a1 is what seems to be alluding me though
+[09:12.17] <mefistofeles> jared375: so, let me check now
+[09:12.19] * boB_K7IQ (~IceChat9@50.125.47.104) has joined channel ##physics
+[09:12.21] <jared375> ok
+[09:12.24] <jared375> pretty sure he forgot mg
+[09:12.52] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) Quit (Quit: Leaving)
+[09:14.06] <mefistofeles> jared375: yes
+[09:14.15] <mefistofeles> jared375: no
+[09:14.21] <mefistofeles> isn't F3 the weight?
+[09:14.25] <jared375> no
+[09:14.30] <jared375> F1 F2 and F3 are all applied forces
+[09:14.41] <mefistofeles> ah ok, then he forgot yes
+[09:14.48] <jared375> the mass is 4 so theweight can't be F3
+[09:14.59] <mefistofeles> so he's a crappy professor as far as I can see, comic sans should have said that from the start
+[09:15.02] <mefistofeles> xD
+[09:15.16] <jared375> yeah i've been trying to correct his typos in this channel all day
+[09:15.19] * kreiGT (~kreig@190.149.62.117) has joined channel ##physics
+[09:15.26] <jared375> thanks
+[09:15.38] <TheLoneMilkMan> My mechanics skills are way too rusty
+[09:15.49] * Verttone (~Verttone@62-76-223-208.vpn.vsu.ru) has joined channel ##physics
+[09:15.58] <jared375> keep practicing bro I was like that at first
+[09:15.59] * expo873 (uid11626@gateway/web/irccloud.com/x-egxosfflwqfulxnn) Quit ()
+[09:16.00] <mefistofeles> jared375: but you got wrong N
+[09:16.08] <mefistofeles> jared375: can you write the expression for N again?
+[09:16.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:16.33] <mefistofeles> TheLoneMilkMan: m1*g-a1
+[09:16.36] <jared375> N+F2sin(theta) = Mg +F3
+[09:16.40] * UltraFly (~UltraFlyI@173.48.203.54) has joined channel ##physics
+[09:16.43] <mefistofeles> that doesn't even make sense dimensionally, TheLoneMilkMan
+[09:17.33] <jared375> pretty sure it's right
+[09:17.40] * Radivarig (~Radivarig@cpe-188-129-127-100.dynamic.amis.hr) Quit (Ping timeout: 246 seconds)
+[09:17.42] <TheLoneMilkMan> mefistofeles: Ope you're right went through that really quickly
+[09:17.44] <mefistofeles> jared375: yes
+[09:18.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:18.42] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[09:19.12] <TheLoneMilkMan> I believe it should be m1*(g-a1)
+[09:19.33] <mefistofeles> TheLoneMilkMan: resoning?
+[09:21.36] <TheLoneMilkMan> mefistofeles: Well the net force on m1 should be m1*g-T. And the net force on m1 should just be m1*a1. So m1*a1=m1*g-T, so T=m1*g-m1*a1, and T=m1*(g-a1)
+[09:22.59] <Cs1177> A moon of mass m and radius a orbits a planet of mass M, keeping the same face towards the planet. Show that, if the moon approaches the planet closer than a critical radius r_c = a(3M/m)^1/3 loose rocks lying on the surface of the moon will be lifted off.
+[09:23.35] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[09:23.48] * flag (~flag@CPE0c473d30fc23-CM0c473d30fc20.cpe.net.cable.rogers.com) Quit (Ping timeout: 244 seconds)
+[09:24.24] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 264 seconds)
+[09:24.48] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[09:25.00] <mefistofeles> TheLoneMilkMan: yes, right
+[09:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:25.04] <mefistofeles> TheLoneMilkMan: now find a1
+[09:25.42] * Dr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[09:25.43] <mefistofeles> Cs1177: lol, wtf? haha
+[09:26.14] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Client Quit)
+[09:26.27] <mefistofeles> Cs1177: what are you supposed to use for the mass of the rocks?
+[09:26.43] <Cs1177> call it z I guess
+[09:26.48] <monoprotic> z
+[09:26.57] <Cs1177> I don't think it wants a numerical answer
+[09:26.59] <mefistofeles> z, best letter ever for mass
+[09:27.00] <mefistofeles> xD
+[09:27.00] <Cs1177> but an expression
+[09:27.23] <monoprotic> funny problem
+[09:27.26] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:27.31] <Cs1177> mine is?
+[09:27.34] * Jellysnake (~jellysnak@138.44.64.25) has joined channel ##physics
+[09:27.36] <monoprotic> yes
+[09:27.45] * unreal_ (~unreal@unaffiliated/unreal) has joined channel ##physics
+[09:28.52] <Cs1177> I made art ＋＋http://i.imgur.com/S54ofm2.png，，
+[09:29.02] <Cs1177> but I still dono, do I use the roche limit equation?
+[09:29.29] * Mr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Ping timeout: 244 seconds)
+[09:29.42] <mefistofeles> Cs1177: shouldn't r_c be measured from the planet's center?
+[09:29.46] <monoprotic> masterpiece
+[09:30.11] * puddle (uid22609@gateway/web/irccloud.com/x-timjptgecuangbml) Quit ()
+[09:30.14] <xihr> not quite, it's about spheres of influence
+[09:30.22] <xihr> they're related
+[09:30.23] <monoprotic> what's a?
+[09:30.29] <monoprotic> ohjust kidding
+[09:30.32] * flag (~flag@CPE0c473d30fc23-CM0c473d30fc20.cpe.net.cable.rogers.com) has joined channel ##physics
+[09:30.32] * unreal (~unreal@unaffiliated/unreal) Quit (Ping timeout: 265 seconds)
+[09:30.39] <Cs1177> ＋＋http://i.imgur.com/ZcsX91B.png，， mefistofeles
+[09:31.17] <xihr> what does it mean for rocks on the surface to be just barely lifted off?
+[09:31.26] <xihr> think about that and you'll immediately know what to do
+[09:31.29] <TheLoneMilkMan> mefistofeles: Oh good I seem to have confirmed that a2=2*a1
+[09:31.44] <Cs1177> that the gravitational attraction of the planet is greater than the weight of the rock on the moon?
+[09:31.55] <Cs1177> or equal to perhaps
+[09:31.57] <TheLoneMilkMan> Cs1177: Mhm
+[09:32.07] * _Atom_ (~jawat@99-190-132-251.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[09:32.08] <xihr> yes, the "just barely" means it would start floating
+[09:32.14] <xihr> so you want the case where they're equal
+[09:32.51] <xihr> now just write an equality where the force would balance and solve
+[09:32.59] <mefistofeles> TheLoneMilkMan: ++
+[09:33.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:34.03] <xihr> but yes, it's related to Roche limits
+[09:34.23] <TheLoneMilkMan> mefistofeles: The only problem is that the answer I got doesnt seem to match what my friend says is the answer, but it's not my hw so whatevs
+[09:34.49] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[09:35.25] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) Quit (Ping timeout: 272 seconds)
+[09:36.18] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:36.50] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[09:37.24] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[09:39.21] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 240 seconds)
+[09:39.25] <Cs1177> ＋＋http://i.imgur.com/jU9NjIv.png，，
+[09:39.47] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[09:40.04] <TheLoneMilkMan> That's some rocking ms paint
+[09:40.45] * CvP (CvP@203.76.123.238) Quit (Read error: Connection reset by peer)
+[09:40.47] <renesis> you need gimp, circle selection, selection to path, stroke path, text tool
+[09:40.56] * CvP (CvP@203.76.123.238) has joined channel ##physics
+[09:41.18] <Cs1177> I have illustrator but I only open that these days for cross-sections and posters
+[09:41.29] <Cs1177> anyway,  is my set up ok?
+[09:42.53] <TheLoneMilkMan> Do you get a g for the moon?
+[09:43.06] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 265 seconds)
+[09:43.19] <Cs1177> that is the Gm/a^2 on the right side
+[09:44.22] <TheLoneMilkMan> Shouldnt it be the force of gravity between the planet and the rocks?
+[09:44.24] * Se-bash (~seba@unaffiliated/se-bash) has joined channel ##physics
+[09:44.30] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:44.33] <TheLoneMilkMan> So G*M*m_rock, not G*M*m
+[09:45.13] * _Atom_ (~jawat@99-190-132-251.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[09:45.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:46.33] * _Atom_ (~jawat@99-190-132-251.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[09:48.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:48.52] * lone_wing (~Lone_wing@host-205-128-107-208.midco.net) has joined channel ##physics
+[09:49.40] <lone_wing> Hey, I am a little stuck trying to make a jump in a problem. Would someone look at it? ＋＋http://mathb.in/28488，，
+[09:50.00] <lone_wing> If that isn't enough background, I can upload my full document to imgur.
+[09:50.06] <Cs1177> so I'm gonna plug back in for r_c ＋＋http://i.imgur.com/tdL42wn.png，，
+[09:50.42] * SpeedEvil (~quassel@tor/regular/SpeedEvil) Quit (Quit: No Ping reply in 180 seconds.)
+[09:50.58] <lone_wing> The question I posed is pure math, but I don't think it will be elementary.
+[09:51.29] * SpeedEvil (~quassel@tor/regular/SpeedEvil) has joined channel ##physics
+[09:51.56] <xihr> lone_wing: ##math
+[09:52.03] * lone_wing (~Lone_wing@host-205-128-107-208.midco.net) Quit (Read error: Connection reset by peer)
+[09:52.28] <UltraFly> I'm trying to find the force between two axially aligned current loops
+[09:52.32] * lone_wing (~Lone_wing@host-205-128-107-208.midco.net) has joined channel ##physics
+[09:52.56] <lone_wing> I would, but its flooded with high school students right now.
+[09:53.14] <xihr> tough
+[09:53.20] <UltraFly> I'm having trouble. Can anyone point me to a derivation
+[09:53.38] <UltraFly> or else I can show what I've tried but I think I might have the wrong approach
+[09:54.10] <lone_wing> I guess I will just keep pinging both until someone with the right background gets interested.
+[09:54.20] <lone_wing> What is your derivation UltraFly?
+[09:54.30] <UltraFly> I don't have a derivation
+[09:54.32] <xihr> Cs1177: you haven't set up the problem right, the question is about the gravitational forces on the _rock_
+[09:54.36] <UltraFly> I have an attempt
+[09:54.38] * Agro (~Agro@108-79-22-150.lightspeed.hstntx.sbcglobal.net) has joined channel ##physics
+[09:54.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:54.59] <xihr> UltraFly: no one has any idea what you're talking about yet
+[09:55.06] <lone_wing> I can point you to any random derivation on the internet and answer your question right now. Please tell me what you are looking for.
+[09:55.29] <lone_wing> Empty questions will receive empty answers.
+[09:57.14] * napster (~textual@117.253.166.239) has joined channel ##physics
+[09:57.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[09:57.28] * Bonzo (~mark@2600:100f:b112:ae03:39:ca3c:8f42:f743) has joined channel ##physics
+[09:58.19] <UltraFly> alright be patient
+[09:58.27] <xihr> ...
+[10:00.23] * JBonzo (~mark@udp220176uds.hawaiiantel.net) Quit (Ping timeout: 264 seconds)
+[10:00.26] * JBonzo12 (~mark@udp220176uds.hawaiiantel.net) has joined channel ##physics
+[10:02.15] * gratimax (~gratimax@irc.gratimax.net) Quit (Ping timeout: 256 seconds)
+[10:02.29] * sifeic` (~sifeic@67-6-184-8.hlrn.qwest.net) Quit (Ping timeout: 250 seconds)
+[10:03.49] * Radivarig (~Radivarig@cpe-188-129-127-100.dynamic.amis.hr) has joined channel ##physics
+[10:03.54] <Cs1177> I also need a centripetal force term it seems
+[10:04.22] * Bonzo (~mark@2600:100f:b112:ae03:39:ca3c:8f42:f743) Quit (Ping timeout: 256 seconds)
+[10:04.23] * flag (~flag@CPE0c473d30fc23-CM0c473d30fc20.cpe.net.cable.rogers.com) Quit (Ping timeout: 245 seconds)
+[10:04.26] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[10:04.34] * Dr_Pony (~xyzzy@cpe-174-099-005-078.nc.res.rr.com) Quit (Ping timeout: 246 seconds)
+[10:05.07] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[10:05.33] <xihr> no, you just set up the problem wrong
+[10:06.20] <Cs1177> the force of gravity of the planet acts over r_c - a
+[10:06.26] * gratimax (~gratimax@irc.gratimax.net) has joined channel ##physics
+[10:06.28] <lone_wing> Okay, lets try this. I am working on a problem that has me pretty well stumped on page 5. I can't make the last step work out. Can someone explain the connection to me? ＋＋http://imgur.com/QBtHSW7，，
+[10:06.29] <xihr> correct
+[10:09.07] * Black_Phoenix (~phoenix@ip-6317.proline.net.ua) Quit (Ping timeout: 246 seconds)
+[10:09.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:11.02] * Bonzo (~mark@2600:100f:b10a:ba12:7668:1e3f:4643:aa8a) has joined channel ##physics
+[10:11.22] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 264 seconds)
+[10:13.33] <Cs1177> ＋＋http://i.imgur.com/Zu1aByK.png，，
+[10:14.03] * JBonzo12 (~mark@udp220176uds.hawaiiantel.net) Quit (Ping timeout: 255 seconds)
+[10:16.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:17.27] * Agro (~Agro@108-79-22-150.lightspeed.hstntx.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[10:17.42] <UltraFly> okay is this approach mistaken or unnecessarily difficult?
+[10:17.43] <UltraFly> ＋＋http://mathurl.com/qbsvpvu，，
+[10:18.14] <mefistofeles> man I hate EM problems, for real xD
+[10:18.24] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[10:18.37] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) has joined channel ##physics
+[10:19.12] <chewyDelicious> COnsider if you will, your favourite vector calculus problem. Now imagine that physical units have been inserted
+[10:19.55] <lone_wing> Now allow for the typical hand wavy substitutions of intuition that physicists are notorious for
+[10:20.12] <UltraFly> anyway we are going to integrate dI x B around the second loop so eventually there's triple scalar product which helps clean up the numerator
+[10:20.32] <UltraFly> but the denominator just seems like something I don't want in my integrands
+[10:21.34] <Cs1177> I'm still not able to show that r_c = a(3M/m)^1/3
+[10:23.10] * zaon (~user@h194.124.232.68.dynamic.ip.windstream.net) Quit (Ping timeout: 246 seconds)
+[10:23.28] * lone_wing (~Lone_wing@host-205-128-107-208.midco.net) has left ##physics ()
+[10:24.26] <xihr> Cs1177: ah, they probably want you to do it in terms of tides
+[10:24.36] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[10:24.42] <xihr> which scale as (d/dr) (1/r^2) ~ 1/r^3
+[10:24.48] * Jellysnake (~jellysnak@138.44.64.25) Quit (Ping timeout: 272 seconds)
+[10:25.51] * Verttone (~Verttone@62-76-223-208.vpn.vsu.ru) Quit (Ping timeout: 240 seconds)
+[10:26.01] <Cs1177> which changes (r_c - a)^2 to ^3 in my set up?
+[10:26.40] <xihr> both of the square
+[10:26.42] <xihr> squares8
+[10:26.46] <xihr> bleh, squares*
+[10:26.50] * Radivarig (~Radivarig@cpe-188-129-127-100.dynamic.amis.hr) Quit (Ping timeout: 244 seconds)
+[10:29.06] * flag (~flag@CPE0c473d30fc23-CM0c473d30fc20.cpe.net.cable.rogers.com) has joined channel ##physics
+[10:29.49] <Cs1177> that gets a lot closer but missing the 3 term in 3M/m
+[10:32.47] * wikiemol (~wikiemol@75.102.129.139) has joined channel ##physics
+[10:34.32] <xihr> Cs1177: ah, to get the 3 you DO need to include centrifugal pseudoforces
+[10:35.04] <xihr> the problem as stated doesn't make all this context obvious, but if you just learned about Roche limits then that's why you need to do these extra things
+[10:35.11] <xihr> (you're basically rederiving the Roche limit formula)
+[10:35.48] <Cs1177> no, we didn't cover roche limits, I just heard whispers
+[10:36.25] <Cs1177> at any rate, it's gonna be F_gravity_planet = Weight_rock + Centripetal Force of Moon?
+[10:37.07] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) Quit (Quit: Leaving)
+[10:39.28] * Noldorin (~noldorin@unaffiliated/noldorin) Quit (Quit: –)
+[10:40.42] * Bonzo (~mark@2600:100f:b10a:ba12:7668:1e3f:4643:aa8a) Quit (Quit: Bye)
+[10:41.12] * Verttone (~Verttone@188.235.1.7) has joined channel ##physics
+[10:44.19] * arun_ (~arun@43.231.208.109) has joined channel ##physics
+[10:46.11] * mueslo (~quassel@p54B409F7.dip0.t-ipconnect.de) has joined channel ##physics
+[10:46.28] * django_ (~proz@69-84-110-170-dhcp.mia.fl.atlanticbb.net) Quit (Ping timeout: 244 seconds)
+[10:47.48] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) Quit (Ping timeout: 255 seconds)
+[10:49.33] * Grimshaw (~Grimshaw@bl17-43-251.dsl.telepac.pt) Quit (Quit: Leaving)
+[10:49.35] * mueslo_ (~quassel@p54B4002A.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[10:49.44] * Cirus_ (~Cirus@2601:9:80:74:e841:672:584e:7ab) has joined channel ##physics
+[10:50.17] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) has joined channel ##physics
+[10:53.06] * Cirus (~Cirus@2601:9:80:74:e841:672:584e:7ab) Quit (Ping timeout: 256 seconds)
+[10:53.24] * s3v3n62mm2 (~s3v3n62mm@p5DDC36B1.dip0.t-ipconnect.de) has joined channel ##physics
+[10:54.23] * s3v3n62mm (~s3v3n62mm@p3EE2F71A.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[10:54.52] * enthropy (~aavogt@bas3-guelph22-3096542282.dsl.bell.ca) has joined channel ##physics
+[10:55.08] * benhunter09 (Ben@i.ate.your.coooki.es) Quit (Ping timeout: 265 seconds)
+[10:56.56] * superposition (~superposi@unaffiliated/chirality) has joined channel ##physics
+[10:58.56] * benhunter09 (Ben@i.ate.your.coooki.es) has joined channel ##physics
+[11:03.37] * s1dev (~s1dev@199.241.28.135) has joined channel ##physics
+[11:03.57] * fireballs (~fireballs@128.135.100.111) has joined channel ##physics
+[11:04.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[11:05.28] <Cs1177> ＋＋http://i.imgur.com/Gzh4Cpq.png，，
+[11:07.16] * aural (~aural@unaffiliated/necrodearia) Quit (Ping timeout: 256 seconds)
+[11:09.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[11:09.40] * fireballs (~fireballs@128.135.100.111) Quit (Ping timeout: 246 seconds)
+[11:13.55] * aural (~aural@unaffiliated/necrodearia) has joined channel ##physics
+[11:14.15] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##physics
+[11:16.35] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Quit: tmager)
+[11:18.07] * norkle (~norkle@unaffiliated/norkle) has joined channel ##physics
+[11:22.07] * Niebuhr (~p@host109-147-100-210.range109-147.btcentralplus.com) Quit (Read error: Connection reset by peer)
+[11:23.47] * qiffp (~qiffp@70.50.102.27) Quit (Ping timeout: 264 seconds)
+[11:26.56] * bigbadjudas (~666@pool-98-115-142-29.phlapa.fios.verizon.net) has joined channel ##physics
+[11:30.01] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) Quit (Ping timeout: 250 seconds)
+[11:34.43] * olabaz (~olabaz@146.201.163.98) has joined channel ##physics
+[11:38.20] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[11:38.54] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[11:40.27] * spl192011 (~spl192011@cpe-67-10-199-191.elp.res.rr.com) Quit (Ping timeout: 255 seconds)
+[11:40.56] * oleo (~oleo@unaffiliated/oleo) has joined channel ##physics
+[11:41.38] * Viper168_ (~Viper@unaffiliated/viper168) has joined channel ##physics
+[11:42.46] * kreiGT (~kreig@190.149.62.117) Quit (Remote host closed the connection)
+[11:43.49] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 252 seconds)
+[11:44.17] * fireballs (~fireballs@128.135.100.111) has joined channel ##physics
+[11:45.42] * Viper168_ (~Viper@unaffiliated/viper168) Quit (Max SendQ exceeded)
+[11:46.28] * telex (teletype@freeshell.de) Quit (Remote host closed the connection)
+[11:48.36] * telex (teletype@freeshell.de) has joined channel ##physics
+[11:49.48] * JoergR (~joerg@71.239.173.122) has joined channel ##physics
+[11:50.19] * wukong (~wukong@cpe-75-80-113-111.san.res.rr.com) has joined channel ##physics
+[11:52.24] * JoergR (~joerg@71.239.173.122) Quit (Quit: Leaving)
+[11:52.32] * JoergR (~joerg@71.239.173.122) has joined channel ##physics
+[11:53.37] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)

@@ -1,0 +1,149 @@
+Session Start: Sun Feb 22 05:47:38 2015
+[05:47.38] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[05:47.38] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.38] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[05:47.38] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.38] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.39] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.39] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.39] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.39] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.39] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.39] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.39] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.39] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.39] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.39] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.39] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.41] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.41] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.42] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.42] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.42] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.42] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.42] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.42] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.42] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.42] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.42] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.42] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.43] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.43] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.43] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.45] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.45] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.45] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.45] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.45] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.45] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.45] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.46] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.46] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.46] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.46] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.46] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.46] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.47] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.47] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.48] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.48] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.48] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.49] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.49] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.49] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[05:47.49] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.49] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.49] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.49] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[05:47.49] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[05:47.49] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.49] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.44) on port 6667
+[05:47.49] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.49] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[05:47.49] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[05:47.50] ERROR: Parameter name: asyncResult
+[05:47.50] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.50] ERROR: Null Socket - Can not Connect
+[05:47.50] ERROR: Null Socket - Can not Connect
+[05:47.55] Error:AppendText:Number was less than the array's lower bound in the first dimension. Parameter name: srcIndex:   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)    at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)    at IceChat.TextWindow.AddText(String newLine, Int32 color, String newTimeStamp)
+[05:47.55] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.56] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.56] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[05:47.56] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.56] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (84.240.3.129) on port 6667
+[05:47.56] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.56] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[05:47.56] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.56] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[05:47.56] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[05:47.56] ERROR: Parameter name: asyncResult
+[05:47.56] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.56] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:47.56] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[05:47.56] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[05:47.56] ERROR: Parameter name: asyncResult
+[05:47.56] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:47.56] ERROR: Null Socket - Can not Connect
+[05:47.56] ERROR: Null Socket - Can not Connect
+[05:47.56] ERROR: Null Socket - Can not Connect

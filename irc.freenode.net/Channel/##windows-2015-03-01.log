@@ -1,0 +1,2251 @@
+Session Start: Sun Mar 01 07:38:21 2015
+Session Ident: ##windows
+[07:38.21] * You have joined ##windows
+[07:38.21] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[07:38.21] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[07:38.21] <LMNOP> SUCKS
+[07:38.22] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[07:38.22] Channel Created on: 7:11 PM 10/7/2005
+[07:38.47] * Nazgul (nazgul@2610:150:8015:1936::9a) Quit (Quit: changing servers)
+[07:39.03] * Nazgul (nazgul@2610:150:8015:1936::9a) has joined channel ##windows
+[07:39.08] <MeaCoder> LMNOP: agree
+[07:39.15] <LMNOP> thank you
+[07:41.05] * Nazgul (nazgul@2610:150:8015:1936::9a) Quit (Client Quit)
+[07:41.19] * Nazgul (nazgul@2610:150:8015:1936::9a) has joined channel ##windows
+[07:41.59] * Nazgul (nazgul@2610:150:8015:1936::9a) Quit (Client Quit)
+[07:42.09] <LMNOP> how many times do i have to change the settings and then go back into the control panel only to find that they magically change back
+[07:42.23] <LMNOP> and why havent they fixed it
+[07:42.29] * LMNOP (~LMNOP@unaffiliated/ea08ba8f51) has left ##windows (("fuck this leaveing"))
+[07:42.29] <hseg> Hm. Downloading putty from outside gives me that it also won't run.
+[07:42.56] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 246 seconds)
+[07:43.33] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[07:45.36] * Nazgul (nazgul@2610:150:8015:1936::9a) has joined channel ##windows
+[07:46.39] * is2b007 (~is2b007@101.166.17.209) has joined channel ##windows
+[07:46.43] * Nazgul (nazgul@2610:150:8015:1936::9a) Quit (Client Quit)
+[07:47.33] * MeaCoder (~MeaCoder@5.134.144.58) has left ##windows (("I'm a happy Miranda NG user! Get it here: ＋＋http://miranda-ng.org/，，"))
+[07:47.39] * MeaCoder (~MeaCoder@5.134.144.58) has joined channel ##windows
+[07:48.34] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 250 seconds)
+[07:49.23] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[07:50.26] * orly_owl (~david@unaffiliated/orly-owl/x-3167833) has joined channel ##windows
+[07:51.00] * LMNOP (~LMNOP@unaffiliated/ea08ba8f51) has joined channel ##windows
+[07:53.26] * Langdal (~private@85.14.200.37.customer.cdi.no) has joined channel ##windows
+[07:54.00] * bs0d (~bs0d@sa-185-187.saturn.infonet.ee) has joined channel ##windows
+[07:54.22] * is2b007 (~is2b007@101.166.17.209) Quit (Read error: Connection reset by peer)
+[07:54.23] * hseg (4fb113b4@gateway/web/freenode/ip.79.177.19.180) Quit (Quit: Page closed)
+[07:54.27] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 245 seconds)
+[07:55.14] * mely (~user1@109.70.141.88) has joined channel ##windows
+[07:55.21] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[07:55.42] <bs0d> Hello. There is a folder in an NTFS filesystem without any owner. Taking ownership failed, removing under administrator account failed ... any ideas how to delete it?
+[07:56.07] * applegal (~ghjghj@202.156.241.159) Quit (Ping timeout: 245 seconds)
+[07:56.21] * Phurious (~Phurious@cpe-76-186-96-158.tx.res.rr.com) has joined channel ##windows
+[07:57.29] * mely (~user1@109.70.141.88) Quit (Quit: leaving)
+[07:59.20] * orly_owl (~david@unaffiliated/orly-owl/x-3167833) has left ##windows ()
+[08:00.24] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 244 seconds)
+[08:00.36] * bs0d (~bs0d@sa-185-187.saturn.infonet.ee) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[08:01.14] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:02.55] * Anodl1 (~Anodl@p57B24D1F.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[08:03.19] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) has joined channel ##windows
+[08:04.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 240 seconds)
+[08:04.24] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) Quit (Ping timeout: 245 seconds)
+[08:04.38] * Tjommi_ is now known as Tjommi
+[08:05.04] * hseg (4fb113b4@gateway/web/freenode/ip.79.177.19.180) has joined channel ##windows
+[08:05.17] * dejan555 (~root@unaffiliated/daysleeper555) has joined channel ##windows
+[08:05.28] * MeaCoder (~MeaCoder@5.134.144.58) Quit (Ping timeout: 250 seconds)
+[08:06.04] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 245 seconds)
+[08:06.32] <hseg> I unshared stuff that shouldn't be shared. But now, when logging into one of the four accounts on my computer, I get the message "The User Profile Service failed the logon. User profile cannot be loaded". Help?
+[08:06.34] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[08:06.45] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:06.51] * aias (~ice@unaffiliated/aias) has joined channel ##windows
+[08:07.46] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[08:08.42] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 256 seconds)
+[08:08.44] * CheckDavid (uid14990@gateway/web/irccloud.com/x-caaaqkfbmkidtuay) Quit (Quit: Connection closed for inactivity)
+[08:08.48] * icecream (icecream@unaffiliated/icecream-) Quit (Ping timeout: 264 seconds)
+[08:09.27] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) has joined channel ##windows
+[08:11.07] <hseg> I've tried method 1 from ＋＋https://support.microsoft.com/kb/947215，，
+[08:11.26] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[08:11.29] * hirogen (~hirogen@2.120.71.183) has joined channel ##windows
+[08:11.48] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[08:12.06] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 256 seconds)
+[08:12.49] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:13.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[08:15.19] * hseg (4fb113b4@gateway/web/freenode/ip.79.177.19.180) Quit (Ping timeout: 246 seconds)
+[08:15.34] * randombrain (~rbrain@unaffiliated/randombrain) has joined channel ##windows
+[08:17.58] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 244 seconds)
+[08:18.39] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:19.22] * Jordy (~Jordy@78-23-109-222.access.telenet.be) Quit (Read error: Connection reset by peer)
+[08:19.46] * Jordy (~Jordy@78-23-109-222.access.telenet.be) has joined channel ##windows
+[08:21.20] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) has joined channel ##windows
+[08:21.27] * Polo69 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) has joined channel ##windows
+[08:21.30] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) Quit (Ping timeout: 252 seconds)
+[08:21.45] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) has joined channel ##windows
+[08:23.59] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 245 seconds)
+[08:24.41] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:25.20] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[08:27.28] * Keanu73 (~Keanu73@unaffiliated/keanu73) has joined channel ##windows
+[08:27.54] <BytesAndCoffee> so instead of xubuntu->w10, im going to try xubuntu->w7->w10
+[08:28.04] <BytesAndCoffee> hopefully that solves driver issues
+[08:29.22] * catsup (d@ps38852.dreamhost.com) Quit (Ping timeout: 252 seconds)
+[08:30.05] * catsup (d@ps38852.dreamhost.com) has joined channel ##windows
+[08:31.18] <LMNOP> lol wut?
+[08:32.14] * iive (~iive@unaffiliated/iive) has joined channel ##windows
+[08:32.28] * qu4nt1n (~qu4nt1n@ras75-1-81-57-62-148.fbx.proxad.net) has joined channel ##windows
+[08:34.23] * vagweif7 (~vagweif7@ool-43577979.dyn.optonline.net) has joined channel ##windows
+[08:36.37] <BytesAndCoffee> LMNOP: kept getting driver missing errors
+[08:36.49] <BytesAndCoffee> im /hoping/ the w7 installer can fix them
+[08:37.45] <LMNOP> that clears things up
+[08:39.38] * pm001 (~pm0001@5.147.134.207) Quit ()
+[08:41.26] * parduse (~parduse@unaffiliated/parduse) Quit (Ping timeout: 250 seconds)
+[08:43.27] * ikonia (~irc@unaffiliated/ikonia) has joined channel ##windows
+[08:44.11] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[08:44.42] <SCHAAP137> i wonder, why does Windows 8.1 (maybe other versions as well) not see available updates sometimes? I just did a clean install in a VM, afterwards it gave me 49 + 3 updates
+[08:44.50] <SCHAAP137> installed them, reboot, then it said no updates available
+[08:44.58] <SCHAAP137> reboot again, now it says 9 important + 1 optional
+[08:45.01] <SCHAAP137> why the extra reboot?
+[08:45.12] <SCHAAP137> doesn't make sense imho
+[08:45.39] <SCHAAP137> is it like some kind of grace time inbetween update installs or something?
+[08:45.49] <SCHAAP137> anyone know what the deal is with this inconsistent functionality?
+[08:45.55] * genera_ (~genera@unaffiliated/genera) Quit (Ping timeout: 265 seconds)
+[08:46.05] * george9701 (george9703@87.114.28.161) Quit (Quit: Leaving)
+[08:46.30] * sinshiva (~sinshiva@209.208.65.221) has joined channel ##windows
+[08:46.39] * DWSR (~quassel@unaffiliated/dwsr) has joined channel ##windows
+[08:46.51] * jackbrown (~se@93-44-68-248.ip96.fastwebnet.it) Quit (Quit: Sto andando via)
+[08:47.27] * parduse (~parduse@unaffiliated/parduse) has joined channel ##windows
+[08:47.36] * oeuvre (~E6500@unaffiliated/oeuvre) has joined channel ##windows
+[08:48.41] * Exagone313 (exa@elou.world) Quit (Ping timeout: 276 seconds)
+[08:49.37] * DexterLB (~dex@87-126-22-45.btc-net.bg) has joined channel ##windows
+[08:52.08] <randombrain> SCHAAP137, after installing the first round of 49 +3 updates windowsupdates has to search for new updates again. as long as the search isn't finished, there are no new updates available. chances are you rebooted before the search was done. the search finished after that and displayed the other updates.
+[08:52.36] <SCHAAP137> randombrain, i manually initiated the update check after that reboot, and waiting until it completed
+[08:53.00] <SCHAAP137> and it said no updates, only after _another_ reboot i initiated it again, manually
+[08:53.00] * DexterLB (~dex@87-126-22-45.btc-net.bg) Quit (Client Quit)
+[08:53.04] <SCHAAP137> and then it found 9 + 1
+[08:53.18] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[08:53.29] <SCHAAP137> so that explanation wouldn't hold
+[08:54.40] * DexterLB (~dex@87-126-22-45.btc-net.bg) has joined channel ##windows
+[08:55.30] <SCHAAP137> i suspect some kind of update-install-grace-time is being applied, maybe in a few minute intervals, to depend on the cache of the previous update search when it happens in the same time interval
+[08:55.35] <randombrain> SCHAAP137, no idea about why the sequence was like it was then. I'd still guess it's a timing issue. it's quite normal that you have to do multiple "rounds" of windows updates though.
+[08:56.14] <SCHAAP137> i'm equally wondering what it could cause
+[08:56.46] * nassy (~nassy@c-76-20-84-228.hsd1.ca.comcast.net) Quit (Quit: Quit)
+[08:57.46] <SCHAAP137> excellent by the way that i can activate 8.1 using my 8.0 upgrade key, without having to first install 8.0 and upgrade to 8.1 afterwards
+[08:57.55] <SCHAAP137> saves so much time
+[08:58.48] * DexterLB (~dex@87-126-22-45.btc-net.bg) Quit (Client Quit)
+[08:58.55] * nassy (~nassy@c-76-20-84-228.hsd1.ca.comcast.net) has joined channel ##windows
+[08:59.22] * Huntyzz (~Huntyz@2001:470:1f09:1ddb:359b:831c:209e:3047) has joined channel ##windows
+[08:59.24] <SCHAAP137> i hope microsoft will finally adress the various Windows Update annoyances and build a system that works better in win10
+[08:59.29] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##windows
+[08:59.34] <SCHAAP137> maybe with package repositories or something, like in linuxes
+[08:59.48] * hirogen (~hirogen@2.120.71.183) Quit (Ping timeout: 264 seconds)
+[08:59.57] <SCHAAP137> no multiple rounds, just 1 check, 1 download, 1 installation and 1 reboot
+[09:00.00] * Huntyz (~Huntyz@2001:470:1f09:1ddb:d43e:4039:842c:5eb0) Quit (Read error: No route to host)
+[09:00.06] * Nazgul (nazgul@2610:150:8015:1936::9a) has joined channel ##windows
+[09:00.16] <randombrain> imho windowsupdates are working amazingly well. (okok, the last couple of month were somewhat borked, but overall...)
+[09:00.21] * DexterLB (~dex@87-126-22-45.btc-net.bg) has joined channel ##windows
+[09:00.30] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[09:00.37] <SCHAAP137> imho it's one of the most inefficient OS update management systems to exist
+[09:01.04] <randombrain> well, our opinions differ then.
+[09:01.28] * akto (akto@ti0013a400-1681.bb.online.no) has joined channel ##windows
+[09:01.29] <akto> Office Web is office 365?
+[09:02.05] * nassy (~nassy@c-76-20-84-228.hsd1.ca.comcast.net) Quit (Client Quit)
+[09:03.38] <SCHAAP137> what do you think of the update management systems for other OS's randombrain? can you name a few arguments why Windows Update would work better than, for instance, apt-get on Ubuntu?
+[09:03.45] * ToAruShiroiNeko (~White_Cat@wikimedia/ToAruShiroiNeko) Quit ()
+[09:04.39] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[09:04.46] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 252 seconds)
+[09:05.40] * Mr-Potter (~Mr-Potter@unaffiliated/markpotter) has joined channel ##windows
+[09:06.42] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Disconnected by services)
+[09:06.43] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:07.00] * happy-dude (uid62780@gateway/web/irccloud.com/x-jvgprtqbrxjtgpxd) has joined channel ##windows
+[09:07.01] <Entalyan> Windows Update is a remote code repository that checks for new patches once in a while, similar to SVN (in theory, not in implementation). Pacman (arch linux update system), and as far as I know apt-get as well, do the exact same thing. The only difference is that Windows patches can apply to the operating system as a whole, while linux is split into many subcomponents, each with their own
+[09:07.02] <Entalyan> code repositories and updates.
+[09:07.12] * r3kt (~r3kt@unaffiliated/alpha) has joined channel ##windows
+[09:07.13] <randombrain> SCHAAP137, just think about the scale. windows updates are rolled out to hundreds of millions of devices with even more different OS versions, and about always work without a glitch. (again, the last couple of months were borked, but I hope they'll cover that soon). "1 download, 1 install, 1 reboot" isn't feastible, thinking of incremental updates which depend on each other... you wouldn't
+[09:07.13] <randombrain> want even a small "100 mb" download to just update a single file, would you?
+[09:07.44] <Entalyan> I don't see how either one is more efficient or less efficient than the other. They just make more sense in relation to their own OS architecture.
+[09:08.02] <randombrain> and the update process itself is quite complex. you just can'
+[09:08.05] <SCHAAP137> it would be a huge step forward already if the system would be able to detect _all_ of the updates it needs, without having to do multiple runs
+[09:08.12] <randombrain> t replace a "in use" file like this.
+[09:08.24] <randombrain> SCHAAP137, see above. incremental updates.
+[09:08.46] <SCHAAP137> well, incremental is just sequential in that sense, one after the other
+[09:08.53] <randombrain> you usually don't do full backups all the time.
+[09:09.01] <randombrain> (just as example)
+[09:09.04] * khanman (~khan@74.215.219.231) Quit (Remote host closed the connection)
+[09:09.41] <SCHAAP137> To me it's not clear why multiple runs and multiple reboots would be needed; in theory the system could be altered to handle incremental updates differently and more efficiently
+[09:09.44] <randombrain> SCHAAP137, kernel32.dll has to be replaced. how would you do it?
+[09:09.47] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:10.12] <LMNOP> windows update is fine
+[09:10.21] <SCHAAP137> load kernel32.dll in memory, use it from there, make a copy in a temporary dir, update that, copy it back, reload it from the original location
+[09:10.22] <LMNOP> about the only thing that does work
+[09:10.37] <LMNOP> that wont work
+[09:10.49] * kill_-9_1 (~MY123@unaffiliated/kill--9-1/x-8776976) has joined channel ##windows
+[09:10.59] <SCHAAP137> ah Windows needs the kernel .dll on disk at all time, it doesn't fully load it into RAM?
+[09:11.00] * LucaTM_ (~Luca@FL1-122-133-232-195.kng.mesh.ad.jp) has joined channel ##windows
+[09:11.05] <SCHAAP137> that I did not know
+[09:11.06] * LucaTM (~Luca@ppp-247-93.33-151.iol.it) Quit (Read error: Connection reset by peer)
+[09:11.09] <randombrain> SCHAAP137, what about all the other processes that depend on the recently loaded kernel32.dll? that have opened it? loaded it somewhere in either private or shared memory?
+[09:11.33] <randombrain> updating windows is pretty complex. lots of things to consider.
+[09:11.34] <SCHAAP137> close the processes before updating the file, afterwards restart them using the new libraries?
+[09:11.48] <randombrain> SCHAAP137, so just closing like your browser just out of the blue?
+[09:11.53] <randombrain> SCHAAP137, or networking?
+[09:12.08] * decoponio (~decoponio@pon059-128.kcn.ne.jp) has joined channel ##windows
+[09:12.24] * hirogen (hirogen@2.120.71.183) has joined channel ##windows
+[09:12.26] <SCHAAP137> i would expect programs and drivers to be loaded into RAM, so when the .dll that they use is changed, in a perfect world nothing should happen because they are running from RAM
+[09:12.49] <LMNOP> lol
+[09:12.49] * kerframil (~kerframil@gentoo/user/kerframil) has joined channel ##windows
+[09:12.54] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 250 seconds)
+[09:13.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:13.16] <randombrain> in a perfect world we wouldn't need windowsupdates, because there would be no bugs. or other features, because all of them would already be there.
+[09:13.30] <SCHAAP137> linux and BSD can do it, just replace a file that's seemingly in use; it doesn't matter because the earlier version was loaded into RAM/the kernel at runtime
+[09:13.55] <Entalyan> randombrain: This perfect world you describe also doesn't feature users, or living human beings in general does it?
+[09:14.05] <randombrain> SCHAAP137, even linux (until recently) cannot update the kernel that easily.
+[09:14.14] <randombrain> Entalyan, depends on your definition of "perfect" ;)
+[09:14.16] * Nazgul (nazgul@2610:150:8015:1936::9a) Quit ()
+[09:14.18] * MY123 (~MY123@unaffiliated/kill--9-1/x-8776976) Quit (Ping timeout: 252 seconds)
+[09:14.59] <SCHAAP137> true, with a kernel it's different, it's still an interesting discussion i think
+[09:15.10] <SCHAAP137> hope Microsoft can find a way to make it more streamlined
+[09:15.22] <randombrain> i don't say windowsupdate is flawless. but again imho it's amazing work.
+[09:15.25] <akto> Office Web is office 365?
+[09:15.26] <SCHAAP137> it's already really good, true, with some caveats
+[09:15.34] <LMNOP> its fine
+[09:15.42] <LMNOP> just drop it
+[09:15.48] * dejan555 (~root@unaffiliated/daysleeper555) Quit (Quit: Liberate tuteme ex inferis!)
+[09:15.53] * LucaTM_ (~Luca@FL1-122-133-232-195.kng.mesh.ad.jp) Quit (Ping timeout: 265 seconds)
+[09:15.58] * kill_-9_1 is now known as MY123
+[09:16.01] <Entalyan> Well the one thing I think could be done better in pretty much all patch distribution systems, is communicating to the user what the patch actually contains.
+[09:16.19] <sinshiva> ^
+[09:16.25] <randombrain> akto, not sure. if you mean "office web access", that's not neccessarily office 365.
+[09:16.41] * Nazgul (nazgul@charger.kire.net) has joined channel ##windows
+[09:17.10] <SCHAAP137> 8.1 runs amazingly well in virtualbox btw, almost faster than natively on this machine
+[09:17.10] <randombrain> Entalyan, windowsupdates (especially the security updates) do quite the opposite. they disguise what they're actually doing.
+[09:17.29] <Entalyan> Most of the time you won't care. But if you ever tried to roll back a specific patch, or see if perhaps you installed a patch that could have changed behaviour in component X, you'll know what I mean. A long list of KB-numbers is not enough information, and neither is package versions.
+[09:17.43] <SCHAAP137> that's good i think, a normal user doesn't need to know the details of an exploit and the way a security update fixes it
+[09:17.46] * oleo is now known as Guest65749
+[09:17.55] * oleo__ (~oleo@unaffiliated/oleo) has joined channel ##windows
+[09:18.09] <sinshiva> a normal user can just as easily close their eyes
+[09:18.34] * Nazgul (nazgul@charger.kire.net) Quit (Client Quit)
+[09:18.35] * thingfish (~thingfish@unaffiliated/thingfish) Quit (Quit: Leaving.)
+[09:18.37] <Entalyan> No, but a normal user could be interested in notes like: "Exploit X was addressed in module A and B"
+[09:18.53] <akto> randombrain: Office Web Apps for Sharepoint
+[09:18.57] * Nazgul (nazgul@US-govt.org) has joined channel ##windows
+[09:19.29] * Voldenet (~Voldenet@unaffiliated/voldenet) Quit (Remote host closed the connection)
+[09:19.44] * applegal (~ghjghj@202.156.241.159) has joined channel ##windows
+[09:19.47] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:20.15] <Entalyan> Also it's not like the information about exploits is ACTUALLY kept secret. I would just prefer to have a little bit more info than 'this update fixes various functionality and security issues'
+[09:21.23] * Guest65749 (~oleo@unaffiliated/oleo) Quit (Ping timeout: 272 seconds)
+[09:22.07] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:22.22] <randombrain> Entalyan, iirc microsoft changed just that a while ago. (from a little more detailed description to something more like "it's an update, install it already") I don't especially like it that way, but i can see some reasons for it.
+[09:22.24] * Voldenet (~Voldenet@unaffiliated/voldenet) has joined channel ##windows
+[09:22.52] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 250 seconds)
+[09:23.06] * Includes08 (Includes08@unaffiliated/includes08) has joined channel ##windows
+[09:24.17] * khanman (~khan@74.215.219.231) has joined channel ##windows
+[09:25.03] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 256 seconds)
+[09:27.53] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 246 seconds)
+[09:28.02] * Hydrazine (~Hydrazine@2001:67c:2564:ab03::9) Quit (Ping timeout: 252 seconds)
+[09:32.33] * Nirvash (~Nirvash@c-68-57-118-153.hsd1.tn.comcast.net) has joined channel ##windows
+[09:34.37] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[09:34.43] * CheckDavid (uid14990@gateway/web/irccloud.com/x-wvvzbitoehmhcuwx) has joined channel ##windows
+[09:35.54] <pEYEd> SCHAAP137: MS likes their customers ignorant, makes it easier to sell snake oil   o.0
+[09:37.09] <Entalyan> There's no need for that.
+[09:37.14] <oeuvre> ^
+[09:37.33] * Matrikz (Zer0_Bern@c-174-55-9-96.hsd1.pa.comcast.net) Quit (Quit: ~<{MF öþ§}>~ Vˮ§îöñ 3.1)
+[09:39.58] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) has joined channel ##windows
+[09:40.45] * kggr (~korggrodn@nat-minsk-pool-46-53-200-253.telecom.by) Quit (Ping timeout: 255 seconds)
+[09:40.47] * Pip (~DaBian@unaffiliated/pip) Quit (Quit: Leaving)
+[09:42.12] * oleo__ (~oleo@unaffiliated/oleo) Quit (Quit: Verlassend)
+[09:42.15] * star114 (~star114@182.230.175.34) Quit (Remote host closed the connection)
+[09:42.18] <Entalyan> The latest episode of Modern Family is a cross between 20-minute Apple commercial and stressful chaotic nonsense. The entire episode is essentially framed as a screencapture off a Macbook, and all interactions are done via the machine.
+[09:42.38] * Lunatrius (~Lunatrius@77.38.103.182) Quit (Quit: In theory, there is no difference between theory and practice. But, in practice, there is.)
+[09:43.15] * oleo__ (~oleo@unaffiliated/oleo) has joined channel ##windows
+[09:43.48] <oeuvre> what does that have to do with ##windows
+[09:44.02] * oleo__ is now known as oleo
+[09:44.03] * WormDude (~wormfood@183.16.88.3) has joined channel ##windows
+[09:44.07] <Entalyan> I was getting to that.
+[09:44.40] <Entalyan> Mainly, that looking at the OSX desktop for 20 minutes because of television feels weird when you're on 8.1 or 10.
+[09:44.58] <MY123> \\\///\\\///indows is a bad OS
+[09:45.04] <SCHAAP137> Windows is cool
+[09:45.28] <MY123> SCHAAP137: Except when you get it to bluescreen often
+[09:45.32] <SCHAAP137> I like all OS's, or well, most of them
+[09:45.37] <SCHAAP137> yeah, that happened to me as well
+[09:45.54] * Lunatrius (~Lunatrius@77.38.103.182) has joined channel ##windows
+[09:46.39] <SCHAAP137> i prefer to run Windows virtualized after these small accidents, on my home system at least
+[09:47.11] * thingfish (~thingfish@unaffiliated/thingfish) has joined channel ##windows
+[09:47.18] <SCHAAP137> but it's still a great OS
+[09:47.25] <SCHAAP137> can't wait for 10 to come out
+[09:47.47] * br34l (~br34l@unaffiliated/br34l) Quit ()
+[09:47.52] * WormFood (~wormfood@183.16.87.1) Quit (Ping timeout: 240 seconds)
+[09:48.26] * Kicoi (~Kicoi@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) has joined channel ##windows
+[09:48.34] * Hydrazine (hydrazine@2001:67c:2564:ab03::9) has joined channel ##windows
+[09:49.16] * Kicoi (~Kicoi@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) Quit (Excess Flood)
+[09:49.37] <sabotender> hmm windows 10 is growing on me, but I am HIGHLY disgruntled on how much the OS is tied to the microsoft network
+[09:50.06] <sabotender> They practically shove one drive down your throat
+[09:50.15] <JyZyXEL> sabotender: its constantly wanting to leak information back to the mothership?
+[09:50.20] * br34l (~br34l@unaffiliated/br34l) has joined channel ##windows
+[09:50.31] * aue (~aue@5.79-67-87.adsl-dyn.isp.belgacom.be) has joined channel ##windows
+[09:50.32] <sabotender> and make it impossibly difficult to turn it off.
+[09:51.15] * applegal (~ghjghj@202.156.241.159) Quit ()
+[09:51.27] <sabotender> JyZyXEL: possibly. I just don't want all my personal information out there on other people's servers. I don't want my darn OS that closely integrated to the net. Its just asking for security breaches.
+[09:51.29] * aue (~aue@5.79-67-87.adsl-dyn.isp.belgacom.be) Quit (Excess Flood)
+[09:51.47] <Entalyan> It is VERY easy to turn off all Microsoft cloud services, it even asks you during install
+[09:51.52] <sabotender> you can't use any of the microsoft apps without having a microsoft live account, which is annoying
+[09:52.05] <Entalyan> If you do not want ANY of those things to work, do not authenticate using a Microsoft account.
+[09:52.15] * Vbuz (~Vbuz@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) has joined channel ##windows
+[09:52.22] <JyZyXEL> Entalyan: one would hope so, otherwise its gonna be really hard to convince power users to switch
+[09:52.39] <Entalyan> Erm 8 has been the same
+[09:52.39] <sabotender> Entalyan: you can't use the calendar without having a microsft live account
+[09:52.48] * WormDude is now known as WormFood
+[09:52.52] <Entalyan> That's because the calendar is synced to the cloud...
+[09:53.16] <sabotender> which is craptastic. What if I just wanted the calendar to be synched with my local devices only?
+[09:53.29] <sabotender> what if I didn't want microsoft to know my daily schedule and business?
+[09:53.31] <Entalyan> Then you get another calender app?
+[09:53.38] <sabotender> you are missing the point.
+[09:54.02] <sabotender> They don't even give you that option. Its like, use our cloud network or you can't use our software
+[09:54.07] <sabotender> yet it is included by default
+[09:54.56] <sabotender> I will be honest with you, I do not completely trust Microsoft with my personal data.
+[09:55.15] <Entalyan> You can turn off syncing with the accounts in calendar. Or have it sync with a different cloud provider.
+[09:55.22] <Entalyan> Just checked.
+[09:55.25] <sabotender> Oh, and the installer makes it extremely difficult to install 10 without signing up for a live account
+[09:55.39] * LucaTM (~Luca@ppp-247-93.33-151.iol.it) has joined channel ##windows
+[09:55.43] <sabotender> I had to jump though a lot of hoops in order to do it. It is NOT a simple procedure
+[09:55.44] <Entalyan> It asks you a yes/no question at one point, very hard to miss...
+[09:56.40] <sabotender> I recall that I had to put in a dummy email address with a dummy password and then it tried to sign in and complained that it couldn't and THEN it gave me the option to install with a local account.
+[09:56.44] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Disconnected by services)
+[09:56.45] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:57.29] <sabotender> Entalyan: okay, let's check your theory. I am going to fire up my W10 VM and run the calendar and let's see what message I get. Moment...
+[09:57.32] <Entalyan> Then something might have gone wrong. I use a bunch of non-MS accounts for development purposes, with no issue.
+[09:57.49] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[09:58.07] * hirogen (hirogen@2.120.71.183) Quit (Ping timeout: 272 seconds)
+[09:58.07] <Entalyan> It's not a theory, under the options->account in Calendar you can select the services you want to sync with...
+[09:58.10] <sabotender> what? how do you reckon something went wrong? the install process is pretty simple.
+[09:58.41] <sabotender> Wait a tick, I am restoring the session
+[09:58.47] * mamarilmanson (~mamarilma@112.198.99.110) has joined channel ##windows
+[09:59.06] <Entalyan> Internet glitch? Preview build being broken? User error? Feature not fully implemented yet?
+[09:59.40] <sabotender> Calendar: To use Calendar, SIGN IN.
+[09:59.47] <Entalyan> Yes.
+[09:59.47] * sabotender gives Entalyan the O_o eye
+[10:00.02] <sabotender> so what if I didn't want to sign in? What if I wanted to use a local calendar?
+[10:00.14] <Entalyan> I didn't say you didn't need to sign in. I said you can choose with what cloud services it syncs its data.
+[10:00.19] <sabotender> OSX doesn't give me this kind of hassle. Nor does Ubuntu.
+[10:00.25] <Entalyan> OSX actually does
+[10:00.37] <Entalyan> It's called an AppleID, and it's required for the App Store
+[10:00.45] <sabotender> um, no, it does not
+[10:01.14] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[10:01.26] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 250 seconds)
+[10:01.29] <sabotender> calendar is included by default, and it opens right up just fine without an apple id
+[10:02.08] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 252 seconds)
+[10:02.30] <sabotender> all this forcing to use a live account is a big deal for me. an os should be separate from the online services that it provides.
+[10:02.30] <Entalyan> The principle is the same though. There's plenty of MS apps that don't require the login (ie. the non-Windows Store apps)
+[10:03.18] <sabotender> They shouldn't include it by default then. It gives a false impression that you can actually use the software if you are using a local-only account.
+[10:03.48] <sabotender> it should be an add-on that is available from the store, which, understandably, would require such a live account.
+[10:04.08] <Entalyan> It's also not like Calendar has always been offline-only and now suddenly tries to force you to use a cloud account... There just wasn't any calendar app in the pre-Cloud environment.
+[10:04.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 240 seconds)
+[10:04.26] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[10:05.26] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 244 seconds)
+[10:05.26] <sabotender> you are missing my point. They should not include software that forces you to use their services, without offering a non-log in feature. I am in the process of creating a very detailed write up about this.
+[10:06.31] * Matrikz (Zer0_Bern@c-174-55-9-96.hsd1.pa.comcast.net) has joined channel ##windows
+[10:06.39] <sabotender> IIRC, they got into some trouble about the internet explorer integration many years back. They now have to provide a way to uninstall it (which I have always done since the XP days)
+[10:06.50] * JGB28 (~JGB28@unaffiliated/jgb28) has joined channel ##windows
+[10:06.55] <sabotender> ...I also uninstalled the media player as well
+[10:07.03] * Exagone313 (~exa@elou.world) has joined channel ##windows
+[10:07.36] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) Quit (Ping timeout: 264 seconds)
+[10:08.26] <Entalyan> And I think they should include those applications, because it adds valuable functionality to the majority of customers. They should however not have builtin functionality that excludes the use of other software vendors. Which it doesn't. And I'm pretty sure you can uninstall it.
+[10:08.29] * Tjommi (~Tjommi@ti0163a400-0593.bb.online.no) Quit (Quit: leaving)
+[10:10.11] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[10:10.31] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[10:10.49] <sabotender> although you are failing to see my point, I see yours. You are absolutely correct. I absolutely can uninstall it. I concede defeat with this argument, and will say nothing more (to you) about it.
+[10:10.50] * DGMurdockIII (~dgmurdock@c-73-168-14-247.hsd1.in.comcast.net) Quit (Quit: Leaving)
+[10:11.09] <sabotender> (I will uninstall those applications)
+[10:11.50] * Shoe14 (uid40690@gateway/web/irccloud.com/x-caikkllyqhkstyyo) has joined channel ##windows
+[10:13.09] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:13.36] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) has joined channel ##windows
+[10:15.33] * HarryMilnes (~HarryMiln@unaffiliated/harrymilnes) Quit ()
+[10:15.45] * nep_ (~nep@2001:470:7d5c:d0c:0:242:ac11:6) has joined channel ##windows
+[10:16.29] * _nep (~nep@2001:470:7d5c:d0c::fa:cade) Quit (Ping timeout: 272 seconds)
+[10:16.34] <Entalyan> Your point sounds an awful lot like those people who thought it was a good idea to start the anti-trust lawsuit in Europe a couple of years ago, resulting in a few editions of Windows Vista, 7, 8 and 8.1 that are barely usable messes. Those people got the version they wanted, without any of the useful applications that ship with any OS fit for desktop use, because they insisted on having a
+[10:16.34] <Entalyan> choice before-hand.
+[10:16.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:16.47] <Entalyan> But I could be misinterpreting it.
+[10:17.45] * Jordy (~Jordy@78-23-109-222.access.telenet.be) Quit (Ping timeout: 272 seconds)
+[10:18.40] <sabotender> you know, one thing I like about 10 is that the start screen has been done away with. I do miss the charms bar though. That was extremely convenient. I wish they would have left that on. It is possible that it is still there, but unable to be accessed because I am using a virtual machine
+[10:18.51] <Entalyan> No it's gone
+[10:19.10] * fluter (~fluter@fedora/fluter) Quit (Remote host closed the connection)
+[10:20.34] * amews_aj (~amews_aj@x1-6-6c-b0-ce-b2-ce-ea.cpe.webspeed.dk) has joined channel ##windows
+[10:20.37] <sabotender> I like how the applets (or whatever they are called) have been integrated into the start menu (button) without taking over the entire screen unless you want it to. Very nice touch. The (all apps) section is nice and neat as well
+[10:22.20] * star114 (~star114@182.230.175.34) has joined channel ##windows
+[10:22.21] <Entalyan> I feel a desktop OS should include everything you could conceivably need while working on the machine by default. I also feel they should give you as little choice as possible beforehand in that respect, because the majority of the userbase will then be confronted with awkward choices during the install process, instead of on their own time, when they actually want to start using a specific
+[10:22.21] <Entalyan> application.
+[10:22.24] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:23.04] * Exagone313 (~exa@elou.world) Quit (Ping timeout: 265 seconds)
+[10:23.10] * gueriLLaPunK (~hi@guerillapunk.is.in.ur.box.lookin.thru.ur.seriesoftub.es) has joined channel ##windows
+[10:24.20] <sinshiva> i also miss the charms bar :\
+[10:24.30] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) Quit (Ping timeout: 252 seconds)
+[10:24.42] * Nirvash (~Nirvash@c-68-57-118-153.hsd1.tn.comcast.net) Quit (Ping timeout: 252 seconds)
+[10:24.43] * chareth (~chareth@adsl-76-217-99-110.dsl.emhril.sbcglobal.net) Quit (Read error: Connection reset by peer)
+[10:24.56] <sinshiva> i disconnected the crappy windows key from my tablet
+[10:25.02] * Suchorski (regex@unaffiliated/suchorski) has joined channel ##windows
+[10:25.44] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:25.54] <sabotender> sinshiva: lol you did what now?
+[10:26.34] <sinshiva> i physically disabled the touch windows key from my acer switch 10
+[10:26.34] <Entalyan> sabotender: My keyboard has a button you can press to disable the Windows key :p
+[10:26.51] <sabotender> Entalyan: I think all that online crap should be disabled by default and then ASK the user if they want to use those features.
+[10:27.02] * Suchorski (regex@unaffiliated/suchorski) Quit (Client Quit)
+[10:27.06] <sinshiva> the touch key was overly sensitive
+[10:27.38] <Entalyan> I think the online stuff should be included, but the option to enable it should be given to the users. Which is exactly what they did.
+[10:27.42] <sinshiva> it was also the only thing that used the haptic feedback motor
+[10:27.44] <sabotender> sinshiva: I actually sold my old Samsung ATIV 500T tablet computer. It was so slow. I could barely do anything with it. I don't think windows is ready for the tablet environment. It still requires a really beefy computer to be worthwhile.
+[10:27.49] * Suchorski (regex@unaffiliated/suchorski) has joined channel ##windows
+[10:28.13] <sinshiva> it runs great on my 3740 atom with 2gb of ram :p
+[10:28.18] <Entalyan> sabotender: It seems to me the main problem you have with these apps is that they're shown in the start menu by default, not their existence.
+[10:28.33] <sinshiva> i've even run an Arch VM on this
+[10:28.49] <sabotender> and I am talking about a quad core CPU, a GPU with its own dedicated memory and at least 4GB of RAM
+[10:29.10] <sinshiva> i get 90fps at native res in ut2004 :p
+[10:29.25] <sinshiva> native res being 1366x768, though
+[10:29.32] <sabotender> Entalyan: I completely disagree with you. I advise that you run the w10 installer again to see which OBVIOUS options it gives you in terms of online integration
+[10:29.40] <sabotender> and how difficult it is to create a local-only account.
+[10:30.42] <sinshiva> oh, z3745 cpu, if it makes a difference
+[10:31.01] <sabotender> sinshiva: oh, I did fail to mention that the ativ 500T ran a non-RT environment on the tablet. I was really interested in it because it had its own stylus and that it could run real windows applications
+[10:31.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:31.39] <sinshiva> yeah, no digitizer, but this is x86 windows
+[10:31.55] <sinshiva> i was considering an asus vivotab note before i got this, though
+[10:32.54] <sinshiva> i actually would have preferred that size over this 10", but oh well
+[10:32.56] <sabotender> Entalyan: and I am not talking about convoluted twenty thousand clicks to get to an option that is embedded within the installer, either. I am talking about obvious options that are given that the average user has access to.
+[10:33.48] <sabotender> mmm I would totally buy another tablet that was 64-bit that allowed non-RT windows to be installed. Erm, an off brand tablet. ;-)
+[10:33.55] * Vbuz (~Vbuz@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[10:34.14] <Entalyan> I just clicked past that and now it's installing itself, but I'll show you the obvious option in a sec :p
+[10:34.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:35.49] * Hydrazine (hydrazine@2001:67c:2564:ab03::9) Quit (Quit: WeeChat 1.1.1)
+[10:35.53] * Dnua (~Dnua@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) has joined channel ##windows
+[10:36.05] * likecolacola (~4354@111.Red-83-59-185.dynamicIP.rima-tde.net) has joined channel ##windows
+[10:36.09] <likecolacola> hi :>
+[10:36.32] * thomas_d (~thomas_d_@31.6.58.69) Quit (Ping timeout: 245 seconds)
+[10:37.27] <Entalyan> sabotender: Oops, accidentally overwritten Windows 7 with Windows 10 now :p
+[10:39.06] <sabotender> great good gods man, what are you doing over there?
+[10:39.07] <sabotender> lol
+[10:40.33] * Dnua (~Dnua@AClermont-Ferrand-652-1-339-105.w90-4.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[10:40.40] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:40.43] * Type-21 (~type-21@aftr-88-153-6-31.unity-media.net) has joined channel ##windows
+[10:40.44] * Type-21 (~type-21@aftr-88-153-6-31.unity-media.net) Quit (Changing host)
+[10:40.44] * Type-21 (~type-21@unaffiliated/type-21) has joined channel ##windows
+[10:41.01] * chareth (~chareth@adsl-76-217-99-110.dsl.emhril.sbcglobal.net) has joined channel ##windows
+[10:42.23] <Entalyan> Installing 10 to take a screenshot of the user creation screen :p
+[10:43.31] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Quit: Leaving.)
+[10:43.35] <Entalyan> In a VM/VHD obviously, not configuring dualboot and sacrificing physical diskspace just for a single screenshot and to uninstall Calender :p
+[10:43.49] * jameswine (~jameswine@8.27.212.110) has joined channel ##windows
+[10:44.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:45.36] * amds (~amds@41.141.55.135) has joined channel ##windows
+[10:46.09] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) Quit (Quit: Leaving)
+[10:46.15] * Shannon (~Shannon@unaffiliated/shannon) has joined channel ##windows
+[10:46.50] * amds (~amds@41.141.55.135) Quit (Excess Flood)
+[10:47.06] <Entalyan> In the mean time, I present the very similar but not identical 'Add User' dialog: ＋＋http://imgur.com/XkgXXSI，，
+[10:48.27] * Vuor (~Vuor@5.79-67-87.adsl-dyn.isp.belgacom.be) has joined channel ##windows
+[10:48.49] <Shannon> is there a general .NET channel?
+[10:49.11] <Entalyan> One that is not C#, but only .NET?
+[10:49.20] <Shannon> yeah
+[10:49.37] * Vuor (~Vuor@5.79-67-87.adsl-dyn.isp.belgacom.be) Quit (Excess Flood)
+[10:49.50] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[10:49.53] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:50.12] <Entalyan> I don't think so tbh
+[10:50.30] * Ejeui (~Ejeui@41.141.55.135) has joined channel ##windows
+[10:50.39] <Shannon> other langauges can be used to write .NET applications, no?
+[10:50.51] <Entalyan> Yes, a bunch of them.
+[10:51.10] <Shannon> right
+[10:51.38] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) has joined channel ##windows
+[10:52.31] <Entalyan> VB, C#, C++ and ASP are the proper ones though. After that you go into the domain of the novelty languages, or compatibility features, designed for very specific use cases.
+[10:52.33] * Exagone313 (~exa@elou.world) has joined channel ##windows
+[10:52.47] <MaSOuD> ASP is not .NET
+[10:52.49] <MaSOuD> ASP.NET is.
+[10:53.00] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[10:53.01] <Shannon> i would figure that J# will become more popular
+[10:53.02] * fleshtheworld__ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 265 seconds)
+[10:53.02] <MaSOuD> And there are F# & R# too
+[10:53.06] <MaSOuD> And J#
+[10:53.14] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:53.25] <Entalyan> I count those as novelty tbh
+[10:53.36] <MaSOuD> Yeah, they are
+[10:53.56] <Shannon> interesting, anyway
+[10:54.09] <MaSOuD> But as far as I can see, there are many people interested in R#
+[10:54.14] <MaSOuD> (Resharper)
+[10:54.20] <Entalyan> MaSOuD: Yeah you can say that about all those languages I just named, without the .NET specific abbreviation attached they are not .NET.
+[10:54.20] <Shannon> until last year, Visual Basic was the last language I studied in school
+[10:54.53] <MaSOuD> Shannon: VB sucks
+[10:54.58] <Shannon> in what way?
+[10:55.02] <MaSOuD> Either VB6 or VB.NET
+[10:55.07] <MaSOuD> All the way.
+[10:55.21] <Shannon> you're making a distinction i don't really understand
+[10:55.48] <MaSOuD> VB is obsolete
+[10:55.56] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 265 seconds)
+[10:55.58] <MaSOuD> Even Microsoft is thinking about dropping it.
+[10:56.09] <Entalyan> VB.NET is more advanced than C# is though
+[10:56.14] <MaSOuD> No it's not.
+[10:56.15] * kggr (~korggrodn@nat5-minsk-pool-46-53-218-73.telecom.by) has joined channel ##windows
+[10:56.15] <Shannon> OK, but what you're saying is non-sensical. Visual Basic 6 is a version of Visual Basic.
+[10:56.19] <SCHAAP137> VB6 is classic
+[10:57.00] <Shannon> BASIC was a very common language to learn when I started using PCs
+[10:57.02] <Entalyan> Shannon: Actually VB.NET is a revamped, and arguably new, language, that came after VB6 and it's predecessors.
+[10:57.29] <Shannon> Entalyan, that makes perfect sense ...
+[10:57.33] <MaSOuD> Entalyan: Have a research, no one uses VB.NET
+[10:57.45] <Shannon> Have a ESL class
+[10:57.48] <MaSOuD> Even those who knew VB(.NET) before C#
+[10:57.53] <Shannon> i'm about to go blind with anger on your ass
+[10:57.54] <MaSOuD> They're all learning C#.
+[10:58.59] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[11:00.49] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) Quit (Ping timeout: 272 seconds)
+[11:00.58] * Nirvash (~Nirvash@96-38-12-2.static.jcsn.tn.charter.com) has joined channel ##windows
+[11:01.01] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) has joined channel ##windows
+[11:01.03] <Shannon> in any case, I find it immmeasurably helpful to understand a language from its original syntax, ie in BASIC, instead of a hopped thing like .NET and C# first.
+[11:01.32] <Shannon> i have no problems learning any BASIC variant as such, and telling me BASIC is "obsolete" is a really big "No Shit, Sherlock"
+[11:01.58] <Entalyan> MaSOuD: Have an actual research and don't go with what you feel must be the truth based on a limited perspective of the development community. VB.NET is huge and has always been huge, and has a great many refinements in it that still lack in C#. They are nowadays functionally equivalent though, it's mostly down to quality-of-life constructs.
+[11:02.03] <MaSOuD> Apparently you went blind anyway
+[11:02.06] * kggr (~korggrodn@nat5-minsk-pool-46-53-218-73.telecom.by) Quit (Ping timeout: 252 seconds)
+[11:02.07] <MaSOuD> Read what I said again.
+[11:02.18] <Shannon> MaSouD, you aren't making sense
+[11:02.29] <Shannon> "have a research"
+[11:02.48] * Ejeui (~Ejeui@41.141.55.135) Quit (Remote host closed the connection)
+[11:02.55] <Shannon> let me guess, you had never seen a PC when BASIC was in use
+[11:03.38] <Shannon> and you had zero opportunities to be part of what was a widespread hobbyist programming language
+[11:03.58] * Uoc (~Uoc@cac94-8-82-245-27-76.fbx.proxad.net) has joined channel ##windows
+[11:04.15] <MaSOuD> BASIC based languages always sucked
+[11:04.23] <Shannon> i don't even see how it's possible to carry on a conversation about programming in or for Windows without understanding BASIC
+[11:04.26] <MaSOuD> Majority of people would go after C-like languages.
+[11:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[11:04.40] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) Quit (Remote host closed the connection)
+[11:04.42] <Shannon> you're an absolutely ignorant person because you *dont even know anything about it*
+[11:04.45] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) has joined channel ##windows
+[11:04.51] <Shannon> why limit yourself?
+[11:05.03] <Shannon> I started with BASIC and Pascal like almost everyone in America
+[11:05.07] * Uoc (~Uoc@cac94-8-82-245-27-76.fbx.proxad.net) Quit (Excess Flood)
+[11:05.23] <Shannon> maybe you're from the third world where programming barely existed then
+[11:05.30] <jameswine> Here I am, starting with Fortran.
+[11:05.38] <Shannon> BASIC is very similar to FORTRAN
+[11:06.06] <MaSOuD> Apparently there are some VB fanboys here
+[11:06.15] <MaSOuD> I leave you guys to it.
+[11:06.23] <jameswine> BASIC was the basic building block for a lot of todays common languages.
+[11:06.31] <Shannon> you dont even know the hisotyr of what you're looking at, MaSOuD
+[11:06.44] <MaSOuD> Yeah, like you do.
+[11:06.45] <Shannon> BASIC spurred the home PC revolution
+[11:06.58] <Shannon> because i was programming in 1991 when Visual Basic came out, yes, i do
+[11:06.58] <MaSOuD> It doesn't mean it's good
+[11:07.08] <MaSOuD> Back then there was lack of other languages
+[11:07.08] <Shannon> you have said nothing useful or constructive and all just opinion
+[11:07.16] <MaSOuD> More proper languages.
+[11:07.17] <Shannon> im done with your boring, uninformed ass
+[11:07.27] <Entalyan> No, there are people here who have actually had a job in the real world, and know that it is still used for a lot of things. And possibly also learned their history.
+[11:07.41] <Shannon> i'm just talking about that ignoramus
+[11:07.46] <Shannon> not anyone else
+[11:07.57] <MaSOuD> Shannon: Stop insulting people for having a different view than you
+[11:08.02] <MaSOuD> And shut the fuck up already
+[11:08.06] <Entalyan> Shannon: Yeah me too.
+[11:08.08] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[11:08.09] <Shannon> stop projecting your opinion like it's a fact, chump
+[11:08.13] * QORRiE (~dorian@77-173-0-137.ip.telfort.nl) has joined channel ##windows
+[11:08.16] <MaSOuD> It is a fact.
+[11:08.17] <Entalyan> ^
+[11:08.19] <Entalyan> Damnit
+[11:08.21] <Shannon> im guessing you're from India and you saw your first PC in 2006
+[11:08.27] * Yofg (~Yofg@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) has joined channel ##windows
+[11:08.34] <Entalyan> It is not a fact... I cannot be a fact.
+[11:08.55] <Entalyan> There isn't a single programming language objectively better than any other. Except PHP for obvious reasons.
+[11:09.01] <Shannon> ahh, the arrogance of a man who sees no difference between his opinions and the god's-truth
+[11:09.09] <Shannon> hah
+[11:09.49] <MaSOuD> Entalyan: True that.
+[11:09.57] <Shannon> *boggle*
+[11:10.10] <Shannon> wh-what
+[11:10.13] <MaSOuD> Except the PHP part ofc.
+[11:10.18] <Shannon> did that just fucking happen
+[11:10.22] <jameswine> lol
+[11:10.23] <Shannon> contradictory ape
+[11:10.24] <MaSOuD> PHP is a messed up freakin' language.
+[11:10.30] * Yofg (~Yofg@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) Quit (Excess Flood)
+[11:10.35] <Shannon> ugh
+[11:10.39] <Shannon> retarded
+[11:10.43] <Entalyan> Yeah I should have been clearer. I meant that EVERY language is objectively better than PHP.
+[11:10.51] <Entalyan> As far as I know
+[11:10.59] <Entalyan> But I was mostly kidding actually
+[11:11.09] <MaSOuD> Entalyan: Then I agree :P
+[11:11.14] * Aoen (~Aoen@AClermont-Ferrand-654-1-543-14.w86-207.abo.wanadoo.fr) has joined channel ##windows
+[11:11.21] <Shannon> wowwww
+[11:11.33] <SCHAAP137> it's pretty bad but it gets the job done, somehow
+[11:11.45] <Entalyan> Languages are tools to solve problems. Depending on the problem, you get a different tool.
+[11:11.57] <MaSOuD> Still true
+[11:12.00] <Foxhoundz> Except shell. Shell solves everything
+[11:12.05] <Foxhoundz> and C
+[11:12.06] <MaSOuD> But we'll never get on the same page about VB.
+[11:12.15] <Shannon> Entalyan, i was going to say something about "it depends on your problem and your experience and how you think, generally)
+[11:12.21] <Entalyan> This happens to be the PHP tool, but it is still a tool: ＋＋https://c2.staticflickr.com/8/7226/7095238893_5000f6e57d.jpg，， ;)
+[11:12.25] <Shannon> then you're a fucking goon and there's nothing left to it
+[11:12.36] <jameswine> Like I wouldn't do string in FORTRAN, but some other language
+[11:12.39] <Foxhoundz> Shannon: watch the language
+[11:12.49] <Shannon> i see it just fine
+[11:12.49] <Entalyan> Shannon: I was just trying to bend this discussion into a direction that allowed me to post the PHP hammer.
+[11:13.05] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[11:13.07] <Shannon> in any case, i dont know much abotu PHP other than it's used on like half the web
+[11:13.15] <Shannon> so it must be useful in some way
+[11:13.33] <MaSOuD> Even more than half
+[11:13.33] <Entalyan> Erm, well that logic is flawed.
+[11:13.42] <Entalyan> But that wasn't the point :p
+[11:13.49] <Shannon> Entalyan, my conclusion is that it must be useful if it is in use
+[11:14.02] <MaSOuD> Not necessarily.
+[11:14.17] <jameswine> you're assuming that web developers are completely rational
+[11:14.22] <Shannon> hahahahah
+[11:14.24] <Entalyan> Shannon: Well, the only conclusion you can take from that is that it is capable of producing functional applications
+[11:14.26] <Shannon> is that like economics?
+[11:14.36] <Foxhoundz> I am a PHP developer and the reason I use it is because
+[11:14.39] <Foxhoundz> ...it pays...
+[11:14.47] <Shannon> my guess is the reason why PHP isnt very great is because it doesnt have a specification or standard
+[11:15.02] <Shannon> some things do well without out, i guess, but you need someone like Sun/Oracle watching out
+[11:15.07] <MaSOuD> The reason that most of websites are PHP is simply because it's open source and free
+[11:15.16] <Entalyan> Actually it does. It's just that the standard contradicts itself on so many points you might as well not have a standard :p
+[11:15.17] <MaSOuD> There's no other good reason..
+[11:15.26] <Foxhoundz> MaSOuD: and because a lot of popular CMS use PHP
+[11:15.34] <Shannon> in general if i wanted to pick up any kind of scripting langauge, or i was recommending it to someone, i would definitely say Python and Perl
+[11:15.52] <Shannon> and then Tcl ... but Foxhoundz ... that always comes up ... it pays
+[11:15.58] <MaSOuD> Foxhoundz: Which comes back to what I said, that's the root.
+[11:16.03] <Entalyan> Oracle now owns the PHP of databases, MySQL :p And Java VMs aren't that stellar either nowadays :p
+[11:16.05] * Exagone313 (~exa@elou.world) Quit (Ping timeout: 246 seconds)
+[11:16.13] <Shannon> Entalyan, yeahhhh
+[11:16.30] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[11:16.50] * RaNa (~RaNa@174-134-183-96.res.bhn.net) Quit (Ping timeout: 256 seconds)
+[11:16.51] <Foxhoundz> Entalyan: MariaDB is still free and OO
+[11:16.52] <Shannon> the PHP hammer still looks like a very deadly implement
+[11:16.55] <Foxhoundz> OSS*
+[11:17.30] <Entalyan> Foxhoundz: The non-OSS bit about MySQL isn't the reason it is so bad. MariaDB is just as bad as MySQL because it is functionally the same :p
+[11:17.52] <MaSOuD> This is the kind of people we're dealing with nowadays: ＋＋http://puu.sh/ghWsJ/0f7c84e012.jpg，，
+[11:17.54] <Entalyan> But I'm done with ranting at PHP and MySQL for the day :p
+[11:18.08] * Exagone313 (~exa@elou.world) has joined channel ##windows
+[11:18.32] <Entalyan> Ranting at companies/languages/humanity usually doesn't get you anywhere :p
+[11:18.39] <Foxhoundz> True
+[11:19.00] <Foxhoundz> I smile when people tell me I'm using a broken language. My bank account doesn't judge either way :#
+[11:19.24] <Foxhoundz> That being said I am learning C# as a hobby
+[11:19.41] * Hydrazine (~Hydrazine@2001:67c:2564:ab03::9) has joined channel ##windows
+[11:19.45] <Foxhoundz> and now that .NET has been open sourced I'm very much interested in what people will do with it
+[11:19.46] <MaSOuD> Foxhoundz: Soon it'll more than just a "hobby" for you
+[11:19.50] <MaSOuD> I promise you that :P
+[11:21.21] <Shannon> MaSOuD, if you think there's anything new about what you just posted, again
+[11:21.26] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[11:21.31] <Shannon> maybe you've heard of Thomas Edison
+[11:22.00] * Shannon (~Shannon@unaffiliated/shannon) has left ##windows (("Leaving"))
+[11:22.08] <MaSOuD> Yeah, run away.
+[11:22.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[11:22.14] * tonyt (magus@950.org) has joined channel ##windows
+[11:24.50] * Anti-Pizza (~pizzerino@system.telenet.ru) Quit (Client Quit)
+[11:25.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[11:26.56] * Metacity (~Metacity@wikipedia/WikiPuppies) has joined channel ##windows
+[11:28.16] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[11:28.46] * jameswine (~jameswine@8.27.212.110) Quit (Ping timeout: 264 seconds)
+[11:29.32] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[11:31.16] * star114 (~star114@182.230.175.34) Quit (Remote host closed the connection)
+[11:31.18] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[11:31.45] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[11:31.46] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Disconnected by services)
+[11:32.27] * RaNa (~RaNa@174-134-183-96.res.bhn.net) has joined channel ##windows
+[11:32.32] * Shogun_ (~quassel@23-29-5-150.netptc.net) has joined channel ##windows
+[11:34.10] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-lzediyvknzbilroj) Quit (Ping timeout: 250 seconds)
+[11:34.11] * Novice201y (~Novice201@apn-77-114-34-167.dynamic.gprs.plus.pl) has joined channel ##windows
+[11:34.35] <Novice201y> HI. Any idea why MIDI keyboard is being seen as sound OUTPUT under Windows?
+[11:39.21] * Metacity (~Metacity@wikipedia/WikiPuppies) Quit (Quit: Restarting window system...)
+[11:39.28] * PovAddict (~nicolas@kde/nalvarez) has joined channel ##windows
+[11:39.51] * Anti-Pizza (~pizzerino@system.telenet.ru) Quit (Quit: Leaving)
+[11:40.04] * fedorafan (~znc@unaffiliated/fedorafan) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[11:40.53] * Happzz (void@unaffiliated/ducch) Quit (Ping timeout: 265 seconds)
+[11:42.18] * qu4nt1n (~qu4nt1n@ras75-1-81-57-62-148.fbx.proxad.net) Quit (Quit: KVIrc 4.3.1 Aria ＋＋http://www.kvirc.net/，，)
+[11:42.34] * randombrain (~rbrain@unaffiliated/randombrain) Quit (Ping timeout: 264 seconds)
+[11:44.44] * fedorafan (~znc@unaffiliated/fedorafan) has joined channel ##windows
+[11:45.03] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-zaucupbywlhujwoc) has joined channel ##windows
+[11:48.30] <Entalyan> To the person who claimed not using a microsoft account for Windows 10 was nigh-on impossible during the installer... I present, the 'Create Account' dialog from the Win10 9926 installer: ＋＋http://imgur.com/veszrXe，，
+[11:49.00] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[11:49.27] <sinshiva> that was from like a century ago :p
+[11:49.45] * Metacity (~Metacity@wikipedia/WikiPuppies) has joined channel ##windows
+[11:49.55] <Entalyan> Yeah but Hyper-V crashed and I forgot what this VM was for until this dialog appeared :p
+[11:50.00] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[11:50.29] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##windows
+[11:51.10] <nvon> Hi. Is there a channel more dedicated to stuff like video quality (VLC/MPC stuff).
+[11:51.12] <nvon> ?
+[11:53.37] * hirogen (hirogen@2.120.71.183) has joined channel ##windows
+[11:53.39] * Polo69 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) Quit ()
+[11:54.54] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 265 seconds)
+[12:01.16] * Liebknecht (uid46333@gateway/web/irccloud.com/x-curnzgbocmmjkzly) has joined channel ##windows
+[12:02.08] * Aoen (~Aoen@AClermont-Ferrand-654-1-543-14.w86-207.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[12:02.12] * ije (~ije@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##windows
+[12:02.43] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Quit: Leaving)
+[12:03.40] * guilt_ (~guilt_@2601:d:5880:a47:790c:959a:6989:356c) has joined channel ##windows
+[12:03.44] * guilt_ (~guilt_@2601:d:5880:a47:790c:959a:6989:356c) Quit (Changing host)
+[12:03.44] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) has joined channel ##windows
+[12:04.03] * mikmik77 (~michael@31.210.182.225) Quit (Quit: Konversation terminated!)
+[12:04.06] <hirogen> ＋＋http://community.spiceworks.com/scripts?filter=downloads，，
+[12:04.08] <hirogen> woah nice ?
+[12:04.11] * Dragane (~MoreFeeYo@BSN-142-170-48.static.siol.net) has joined channel ##windows
+[12:04.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[12:04.52] * MoreFeeYouS (~MoreFeeYo@BSN-142-170-48.static.siol.net) has joined channel ##windows
+[12:05.22] * Deihmos_ (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[12:09.05] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) has joined channel ##windows
+[12:09.59] * THEMorpheus (~MoreFeeYo@BSN-142-170-48.static.siol.net) has joined channel ##windows
+[12:10.28] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 244 seconds)
+[12:11.03] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 255 seconds)
+[12:11.15] * Guest13550 (~Denial@unaffiliated/windaria) has joined channel ##windows
+[12:11.27] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[12:11.48] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[12:12.25] * mamarilmanson (~mamarilma@112.198.99.110) Quit (Read error: Connection reset by peer)
+[12:12.54] <avrdude> where can i get drivers for the PS3 EYE webcamera?
+[12:13.12] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[12:13.20] * syeekick (~syeekick@unaffiliated/syeekick) has joined channel ##windows
+[12:13.27] <syeekick> any putty users in here?
+[12:13.33] * Aoyagi_trashtop (~Aoyagi@unaffiliated/aoyagi) Quit (Ping timeout: 245 seconds)
+[12:13.34] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) Quit (Ping timeout: 244 seconds)
+[12:13.38] <syeekick> i can't seem to delete the default profile :(
+[12:14.32] <avrdude> why would you want to
+[12:14.45] <syeekick> cause its in the way of the other profiles i have saved.
+[12:14.49] <syeekick> its messy
+[12:14.57] * \mSg (~mSg@unaffiliated/msg/x-4576342) Quit (Ping timeout: 245 seconds)
+[12:15.06] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) has joined channel ##windows
+[12:15.20] <avrdude> well, i guess you can't.
+[12:15.24] <avrdude> just tried myself
+[12:15.30] <avrdude> ＋＋http://forum.il2sturmovik.com/topic/12035-cl-eye-driver-not-free-anymore/，，
+[12:15.39] <avrdude> is this really true? is it even legal? wtf
+[12:15.57] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[12:16.16] <syeekick> yeah its not free, i had to browse through all my old hard drives, to grab that ps3 eye toy driver.
+[12:16.32] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[12:16.59] <avrdude> Can I have it? :>
+[12:17.43] * rpr (~cgiirc@fantasy.ircgate.it) has joined channel ##windows
+[12:18.44] * Deihmos_ (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 244 seconds)
+[12:18.48] <rpr> when I take ethernet cable from laptop and turn on wifi I can't ping laptop's wifi IP without restarting the computer (the other one, not laptop). is there something else I should try other than restarting?
+[12:19.04] <rpr> laptop can ping that computer though, even without restarting it
+[12:19.08] * rigor789|away is now known as rigor789
+[12:19.21] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[12:20.35] <syeekick> avrdude, im looking
+[12:20.55] * Shogun_ (~quassel@23-29-5-150.netptc.net) Quit (Read error: Connection reset by peer)
+[12:21.23] * \mSg (~mSg@unaffiliated/msg/x-4576342) has joined channel ##windows
+[12:22.09] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[12:22.43] * tus (~tus@unaffiliated/tus) has joined channel ##windows
+[12:23.30] * hirogen (hirogen@2.120.71.183) Quit (Ping timeout: 252 seconds)
+[12:23.43] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[12:24.06] * Afteraffekt (~Afteraffe@unaffiliated/afteraffekt) has joined channel ##windows
+[12:24.20] <syeekick> dang i no longer have it, i think its on the torrent sites though
+[12:24.32] <avrdude> couldn't find it..
+[12:24.46] <syeekick> its the ps3 eyetoy right?
+[12:24.52] <avrdude> i'm on my school network though, so i wont try that hard to download it here
+[12:25.03] * \mSg (~mSg@unaffiliated/msg/x-4576342) Quit (Remote host closed the connection)
+[12:25.08] <avrdude> yea it is
+[12:25.28] * \mSg (~mSg@unaffiliated/msg/x-4576342) has joined channel ##windows
+[12:27.27] * Stryyker (stryyker16@about/windows/staff/stryyker) has joined channel ##windows
+[12:28.11] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) Quit (Ping timeout: 245 seconds)
+[12:28.24] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) has joined channel ##windows
+[12:28.31] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) has joined channel ##windows
+[12:29.00] * stryyker2 (stryyker16@about/windows/staff/stryyker) Quit (Ping timeout: 252 seconds)
+[12:29.03] * ije (~ije@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Remote host closed the connection)
+[12:29.36] * NinjaCowboy (~NinjaCowb@ip184-190-70-217.no.no.cox.net) has joined channel ##windows
+[12:30.05] <NinjaCowboy> What's the last version of 7-zip that runs on Windows 95?
+[12:31.25] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) Quit (Remote host closed the connection)
+[12:32.22] * tonyt (magus@950.org) Quit (Ping timeout: 264 seconds)
+[12:32.38] * iuziv (~iuziv@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) has joined channel ##windows
+[12:32.46] * iuziv (~iuziv@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Excess Flood)
+[12:33.12] <MaSOuD> Apparently v9.38 (Beta)
+[12:33.18] <MaSOuD> ＋＋http://www.oldapps.com/7zip.php?system=Windows_95，，
+[12:33.35] * kqexg (~kqexg@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) has joined channel ##windows
+[12:33.44] <MaSOuD> But, why would you even ask that?
+[12:34.35] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[12:34.47] * \mSg (~mSg@unaffiliated/msg/x-4576342) Quit (Remote host closed the connection)
+[12:35.11] * kqexg (~kqexg@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Excess Flood)
+[12:36.24] * Pdi (~Pdi@89-93-117-138.hfc.dyn.abo.bbox.fr) has joined channel ##windows
+[12:37.26] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 250 seconds)
+[12:37.42] <NinjaCowboy> Because I have an old dinosaur of a computer running Windows 95, and I'm downloading a Linux distro on it to put on a floppy so that I can use that to back up files to my NAS.
+[12:37.44] * \mSg (~mSg@unaffiliated/msg/x-4576342) has joined channel ##windows
+[12:38.09] * Name1000 (49227766@gateway/web/freenode/ip.73.34.119.102) has joined channel ##windows
+[12:38.53] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 244 seconds)
+[12:40.18] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[12:41.25] * \mSg (~mSg@unaffiliated/msg/x-4576342) Quit (Remote host closed the connection)
+[12:41.50] * \mSg (~mSg@unaffiliated/msg/x-4576342) has joined channel ##windows
+[12:42.22] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) Quit (Read error: Connection reset by peer)
+[12:42.27] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) Quit (Quit: Later dudes.)
+[12:42.51] * kggr (~korggrodn@nat5-minsk-pool-46-53-218-73.telecom.by) has joined channel ##windows
+[12:42.56] * guilt_ (~guilt_@2601:d:5880:a47:790c:959a:6989:356c) has joined channel ##windows
+[12:42.56] * guilt_ (~guilt_@2601:d:5880:a47:790c:959a:6989:356c) Quit (Changing host)
+[12:42.56] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) has joined channel ##windows
+[12:43.36] <kerframil> NinjaCowboy: a usb/pata adapter might be the simpler option. anyway, anything older than 9.20 alpha should work.
+[12:43.48] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) has joined channel ##windows
+[12:43.51] <kerframil> oops, I mean older than 9.32 alpha
+[12:44.04] <kerframil> from the changelog: "Minimum supported system now is Windows 2000."
+[12:44.05] * filadome_ (~filadome_@216.151.180.63) has joined channel ##windows
+[12:44.15] * r3kt is now known as alpha
+[12:44.17] * auxy (~auxy@unaffiliated/auxy) Quit (Ping timeout: 246 seconds)
+[12:44.21] <Name1000> sup
+[12:47.22] * kggr (~korggrodn@nat5-minsk-pool-46-53-218-73.telecom.by) Quit (Ping timeout: 240 seconds)
+[12:47.46] * filadome__ (~filadome_@81.171.110.81) Quit (Ping timeout: 245 seconds)
+[12:49.07] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 272 seconds)
+[12:50.00] * Happzz (void@unaffiliated/ducch) Quit (Ping timeout: 265 seconds)
+[12:50.32] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) Quit (Quit: KVIrc 4.3.1 Aria ＋＋http://www.kvirc.net/，，)
+[12:50.48] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) has joined channel ##windows
+[12:51.19] * NinjaCowboy (~NinjaCowb@ip184-190-70-217.no.no.cox.net) Quit (Ping timeout: 256 seconds)
+[12:51.30] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[12:52.08] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Verlassend)
+[12:54.43] * korg (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) Quit (Ping timeout: 256 seconds)
+[12:54.50] * Androgen (~root@128.46.127.78.rev.sfr.net) has joined channel ##windows
+[12:56.32] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[12:57.32] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[12:58.12] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection timed out)
+[12:59.32] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-zaucupbywlhujwoc) Quit (Ping timeout: 250 seconds)
+[12:59.33] * ultramage (umage@kurobara.netvor.sk) has joined channel ##windows
+[12:59.36] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[01:00.31] <ultramage> hi, would someone help me un-break task scheduler on win2008r2? I'm trying to get daily rotation of Performance Montor logs, but it's not rotating them (win7 handles it fine)
+[01:02.47] <ultramage> one of the task scheduler actions is to 'end task', and one of the task options is "if task is already running, stop the old instance"; the task created by perflog has an $(Arg0) commandline argument, and I assumed this is a 'thing' that the task scheduler substitutes when running (I imagined it would be the string 'start' and 'stop')
+[01:03.05] * syeekick (~syeekick@unaffiliated/syeekick) Quit (Read error: Connection reset by peer)
+[01:03.08] * Name1000 (49227766@gateway/web/freenode/ip.73.34.119.102) Quit (Quit: Page closed)
+[01:03.23] * syeekick (~syeekick@cpc67840-gtya4-2-0-cust42.4-4.cable.virginm.net) has joined channel ##windows
+[01:03.57] <ultramage> however, when I captured the actual operation, it sent the literal string '$(Arg0)', showing that 1) the argument is meaningless, and 2) this is now tasks are notified that they are being stopped.
+[01:04.15] <ultramage> so I wonder, when you click 'end task' in task scheduler, what exactly happens?
+[01:04.28] * Deihmos (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[01:04.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 264 seconds)
+[01:07.23] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 246 seconds)
+[01:08.39] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[01:09.11] * BlueOyster (~BlueOyste@cpe-104-174-1-42.socal.res.rr.com) has joined channel ##windows
+[01:09.11] * BlueOyster (~BlueOyste@cpe-104-174-1-42.socal.res.rr.com) Quit (Changing host)
+[01:09.11] * BlueOyster (~BlueOyste@unaffiliated/blueoyster) has joined channel ##windows
+[01:09.35] * WizJin (~WizJinAFK@103.241.46.248) has joined channel ##windows
+[01:10.35] * chaiz (~chaiz@ppp-110-168-60-87.revip5.asianet.co.th) has joined channel ##windows
+[01:10.38] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-uqudswckhnyyjakx) has joined channel ##windows
+[01:10.47] * Faylite (~Faylite@187.89-11-167.nextgentel.com) has joined channel ##windows
+[01:10.49] * Usurp is now known as Usurp_
+[01:11.21] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 255 seconds)
+[01:11.48] * Deihmos_ (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[01:12.14] * Deihmos (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 265 seconds)
+[01:13.20] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:13.21] * Deihmos (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[01:13.25] * Happzz (void@unaffiliated/ducch) Quit (Ping timeout: 256 seconds)
+[01:13.46] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 264 seconds)
+[01:13.50] * Defunk (defunk@telnetd.org) has joined channel ##windows
+[01:14.18] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[01:14.32] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[01:14.49] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##windows
+[01:15.29] * kerframil (~kerframil@gentoo/user/kerframil) Quit (Quit: Leaving)
+[01:15.51] * BlueOyster (~BlueOyste@unaffiliated/blueoyster) Quit (Quit: Leaving)
+[01:16.03] * Pdi (~Pdi@89-93-117-138.hfc.dyn.abo.bbox.fr) Quit (Remote host closed the connection)
+[01:16.11] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[01:16.37] * px- (~paradoxgo@unaffiliated/paradoxgo) has joined channel ##windows
+[01:16.47] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:16.57] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) has joined channel ##windows
+[01:16.59] * Deihmos_ (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 272 seconds)
+[01:17.12] * neru (~neru@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) has joined channel ##windows
+[01:17.18] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:18.02] * neru (~neru@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Excess Flood)
+[01:18.20] * Novice201y (~Novice201@apn-77-114-34-167.dynamic.gprs.plus.pl) Quit (Quit: Leaving)
+[01:18.52] * broadball (~broaderba@251.83-213-171.dynamic.clientes.euskaltel.es) has joined channel ##windows
+[01:19.48] * Deihmos (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 245 seconds)
+[01:19.50] * Androgen (~root@128.46.127.78.rev.sfr.net) Quit (Quit: Leaving)
+[01:19.58] * Happzz (void@unaffiliated/ducch) Quit (Ping timeout: 265 seconds)
+[01:20.52] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[01:21.03] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[01:21.50] * Xbz (~Xbz@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) has joined channel ##windows
+[01:22.11] * lenswipe (~lenswipe@unaffiliated/lenswipe) has joined channel ##windows
+[01:22.13] <lenswipe> hey guys
+[01:22.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:22.25] <lenswipe> laptop came with windows 8 pre-installed
+[01:22.35] <lenswipe> just upgrading from 8 to 8.1 and 8.1 is asking me for a product key
+[01:22.39] <lenswipe> ....wat do?
+[01:22.43] <lenswipe> anyone have any ideas?
+[01:22.44] * Xbz (~Xbz@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Excess Flood)
+[01:23.10] <S_SubZero> check with whoever you got the laptop from, as that is not normal behavior.
+[01:23.23] <lenswipe> i got it from eBuyer
+[01:23.26] <lenswipe> it's a lenovo laptop
+[01:23.41] <lenswipe> S_SubZero, it didn't happen last time i upgraded
+[01:23.46] * Gsrzu (~Gsrzu@cha92-14-88-171-192-29.fbx.proxad.net) has joined channel ##windows
+[01:23.50] <lenswipe> i upgraded to 8.1 before but had to factory the laptop
+[01:23.56] <lenswipe> im doing the upgrade again and it's not taking the key
+[01:23.58] <S_SubZero> like I said it’s not normal behavior.
+[01:24.05] <lenswipe> great.
+[01:24.19] <S_SubZero> did the hardware change?
+[01:25.00] <lenswipe> nope
+[01:25.12] <lenswipe> i had the laptop case replaced at a computer shop a while ago
+[01:25.16] <lenswipe> but windows 8.1 continued to work after that
+[01:25.16] * Gsrzu (~Gsrzu@cha92-14-88-171-192-29.fbx.proxad.net) Quit (Excess Flood)
+[01:25.17] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 265 seconds)
+[01:25.52] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:26.10] <lenswipe> S_SubZero, the pc hardware did not change and the case they replaced was an official one from Lenovo
+[01:26.24] * Happzz (void@unaffiliated/ducch) Quit (Ping timeout: 250 seconds)
+[01:26.40] <lenswipe> S_SubZero, it's important to note that windows 8 on it's own seems to be just fine and dandy
+[01:26.47] <lenswipe> I got windows 8.1 from the windows store
+[01:26.48] * okhj (~okhj@41.141.55.135) has joined channel ##windows
+[01:27.07] <S_SubZero> do you have an actual key
+[01:27.18] <S_SubZero> like a 25 digit key you have in an email or something
+[01:27.20] <blkshp> if your laptop was installed with 8, you need to install 8 then upgrade. You cannot install 8.1 if the device did not come with it
+[01:27.34] <ultramage> he said he's upgrading
+[01:27.44] <blkshp> [18:26] <lenswipe> I got windows 8.1 from the windows store
+[01:27.46] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has left ##windows (("Leaving"))
+[01:27.59] <S_SubZero> that is how 8.1 is delivered.
+[01:28.07] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection timed out)
+[01:28.12] <S_SubZero> you run the Store and it’s like HAY MAN UPGRADE FREE
+[01:28.25] <lenswipe> S_SubZero, no, i don't my laptop came shipped with windows 8
+[01:28.26] <blkshp> with this statement do you mean you are upgrading or have downloaded a copy from the "Windows Store on Miscosoft.com"
+[01:28.29] * ChanServ sets mode +o eir for ##windows
+[01:28.34] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[01:28.37] * Mia (~Mia@176.40.169.55) has joined channel ##windows
+[01:28.37] * Mia (~Mia@176.40.169.55) Quit (Changing host)
+[01:28.37] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[01:28.44] * CheckDavid (uid14990@gateway/web/irccloud.com/x-wvvzbitoehmhcuwx) Quit (Quit: Connection closed for inactivity)
+[01:28.45] <lenswipe> blkshp, i went to the windows store on my computer
+[01:28.48] <lenswipe> the windows store app
+[01:28.56] * eir sets mode -qo *!*@78.84.3.196 eir for ##windows
+[01:28.59] <blkshp> ill shutup then!
+[01:28.59] * Ringtailed-Fox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) has joined channel ##windows
+[01:29.04] <lenswipe> ..?
+[01:29.17] <S_SubZero> long story short, the upgrade doesn’t like your key for whatever reason.  Was your Win8 activated before you tried doing the upgrade?
+[01:29.40] <lenswipe> S_SubZero, no idea, it never asked me for a key so I just assumed it automatically read it from the BIOS
+[01:30.00] <blkshp> I downloaded a copy of 8.1 when i formatted, thinking i could use my key from 8, i couldnt.
+[01:30.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:30.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Excess Flood)
+[01:30.16] <S_SubZero> blkshp: there’s a “way” to do it but maybe out of scope for here (useful tool tho)
+[01:30.18] <ultramage> funny question: would contacting microsoft support in this case work?
+[01:30.21] * Sweet_Ride_ (~Sweet@199.47.65.62) has joined channel ##windows
+[01:30.26] <S_SubZero> I actually use it at work for clean installing 8.1
+[01:30.38] <lenswipe> S_SubZero, blkshp, i had a working windows 8.1 install, some things went wrong with it so i went into the settings and did a factory reset and now i can't upgrade back to windows 8.1
+[01:30.55] <lenswipe> when i factoried it obviously went back to windows 8
+[01:31.14] <ultramage> they probably have perfectly tuned procedures for handling "the windows I purchased won't activate"
+[01:31.15] <lenswipe> oh and it wont connect to my wifi for whatever reason
+[01:31.19] <lenswipe> so now i have a bricked computer
+[01:31.20] <lenswipe> great.
+[01:31.28] * Sweet_Ride (~Sweet@199.47.65.62) Quit (Ping timeout: 246 seconds)
+[01:31.33] * RingtailedFox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) Quit (Ping timeout: 272 seconds)
+[01:31.39] * Sweet_Ride_ is now known as Sweet_Ride
+[01:31.41] <blkshp> S_Subzero. If you have a cheat, would be happy to hear it sometime!
+[01:31.45] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) Quit (Quit: cobiashimew)
+[01:31.49] <ultramage> what is a 'factory reset' in this case?
+[01:32.04] <lenswipe> ultramage, windows 8 has a tool in it to factory reset your laptop
+[01:32.14] <lenswipe> i chose the one that wiped all my programs and settings but only on the C:\ drive
+[01:32.21] <lenswipe> (didnt want to lose the drivers on D:\)
+[01:32.37] <ultramage> usually I reserve that term for re-imaging windows xp from a hidden ACER partition by pressing F11 during boot
+[01:32.39] <lenswipe> I have to say - it's easy to see why people pirate software. I'm a legit paying customer and the legitimate upgrade path isn't ****ing working.  D:<
+[01:32.57] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 255 seconds)
+[01:33.09] <lenswipe> im gonna skip putting the key in and see if i can find some kind of crack or keygen
+[01:33.22] <lenswipe> either that or see if it will read my key properly when it comes back up
+[01:33.25] <lenswipe> let's see...
+[01:33.31] * thomas_d (~thomas_d_@31.6.22.16) has joined channel ##windows
+[01:33.37] * CheckDavid (uid14990@gateway/web/irccloud.com/x-jvcdfivbkidwugas) has joined channel ##windows
+[01:33.38] * bazhang_ (~bazhang@unaffiliated/bazhang) has joined channel ##windows
+[01:33.39] <lenswipe> I don't even know how to contact at this point
+[01:33.40] <ultramage> 'windows 8 has a tool in it' immediately raises a red flag for me... my first guess is you clobbered all the OEM data
+[01:33.51] <blkshp> lenswipe. confirm for me, did you use factory reset in 8.1 that is now trying to reinstall 8.1 or did you factory reset back to 8 and now are trying to upgrade back to 8.1?
+[01:34.05] <S_SubZero> blkshp: for a manual way, “rweverything” (＋＋http://rweverything.com/，，) has a MSDM table reader to get the individual key.  While 8.1 won’t auto-activate against it, you can enter it manually after using the “get me past the activation page” key for your version.
+[01:34.13] <lenswipe> blkshp, i factory reset 8.1, it became 8...so now I'm trying to upgrade back to 8.1
+[01:34.22] * Deihmos1 (~Deihmos@ool-44c6823e.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[01:34.36] * Mr-Potter (~Mr-Potter@unaffiliated/markpotter) Quit (Read error: Connection reset by peer)
+[01:34.43] <blkshp> S_Subzero thanks for that!
+[01:34.43] * bazhang (~bazhang@unaffiliated/bazhang) Quit (Ping timeout: 272 seconds)
+[01:35.02] <S_SubZero> blkshp: And the “get me past the activation page” keys are not secret.  ＋＋https://technet.microsoft.com/en-us/library/jj612867.aspx?f=255&MSPPError=-2147217396，，
+[01:35.03] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[01:35.22] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[01:35.29] <S_SubZero> lenswipe: Ah, you know, try that link I just put.  You can at least get past that page.
+[01:35.40] <blkshp> I did figure out how to use the grace period for free after MS told me i had reinstalled the software too many times and erased my key!
+[01:35.41] <S_SubZero> it won’t be activated but will get you to the desktop
+[01:35.45] * bazhang_ is now known as bazhang
+[01:35.48] <blkshp> for free forever should i say
+[01:35.56] <blkshp> but cant talk about that here O.o!
+[01:36.00] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:36.21] <lenswipe> S_SubZero, I got to the desktop
+[01:36.45] <S_SubZero> and you have a “watermark” in the lower right with the version, eh
+[01:36.48] * Defunk (defunk@telnetd.org) Quit (Ping timeout: 256 seconds)
+[01:36.51] <lenswipe> i dont' actually
+[01:36.54] <lenswipe> it doesn't seem like it anyway
+[01:36.59] <S_SubZero> check your activation status
+[01:36.59] <lenswipe> i wonder if it's happy with the status quo
+[01:37.04] * Joufflu (~Jouffluxx@2602:306:8b23:1250:e01d:ac0c:6122:63c4) has joined channel ##windows
+[01:37.05] <lenswipe> how?
+[01:37.06] <lenswipe> winver?
+[01:37.09] <S_SubZero> System page
+[01:37.16] <lenswipe> oh yeah....i do ihave a watermark
+[01:37.24] <lenswipe> i have a light wallpaper so it's hard to see, but it's there
+[01:37.26] * Nazgul (nazgul@US-govt.org) Quit (Quit: changing servers)
+[01:37.39] <lenswipe> and it's still at windows 8 in winver
+[01:37.40] <S_SubZero> use rweverything to extract your actual key
+[01:37.40] <lenswipe> no 8.1
+[01:37.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:37.51] <lenswipe> that might be hard
+[01:37.59] <lenswipe> the 8.1 upgrade seems to have fragged my network drivers
+[01:38.34] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) has joined channel ##windows
+[01:38.50] <S_SubZero> maybe that’s why it can’t activate.
+[01:39.10] <lenswipe> doesn't explain why it's asking me for a key though
+[01:39.23] <lenswipe> wait...the logo in winver says WINDOWS 8
+[01:39.32] <S_SubZero> because the key it got from BIOS, it can’t actually verify because no internets
+[01:39.36] <lenswipe> the text says "The Windows 8.1 operating system..."
+[01:39.36] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[01:39.44] <lenswipe> all of my wat.
+[01:40.08] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[01:40.17] <ccallahan> lenswipe: Devs being lazy more than likely.
+[01:40.31] <lenswipe> whilst I know bitching about microsoft isn't a very constructive thing to do at this point, can I just ask what kind of fucking retard would push out an update that required activation through the internet and have it frag people's network drivers?
+[01:40.35] <lenswipe> I...don't even...
+[01:40.37] <S_SubZero> Windows 8.x calls itself “Windows 8” and that’s a thing
+[01:41.10] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:41.52] * chaiz (~chaiz@ppp-110-168-60-87.revip5.asianet.co.th) Quit (Quit: Leaving)
+[01:43.08] * phre4k (~phre4k@55d43102.access.ecotel.net) Quit (Quit: Leaving)
+[01:44.01] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:44.38] <lenswipe> S_SubZero, last time i upgraded from 8 to 8.1 it took out all my drivers AND my VMs as collateral....
+[01:44.49] <lenswipe> is upgrading normally this painful or am I just unlucky?
+[01:44.54] <S_SubZero> that’s very strange.
+[01:45.20] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) has joined channel ##windows
+[01:45.27] * exixt (~exixt@unaffiliated/exixt) has joined channel ##windows
+[01:45.50] <lenswipe> okay so i have a network connection...i think
+[01:45.57] <lenswipe> how do i get windows to retry the activation?
+[01:45.58] <komugi> lenswipe: probably bad luck
+[01:46.07] * APerson_ (~APerson_@wikipedia/APerson) has joined channel ##windows
+[01:46.12] <komugi> 8 -> 8.1 usually is painless
+[01:46.37] <lenswipe> komugi, well my experience both times points to it being the only thing in the world more unpleasant than bieber's music
+[01:46.45] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:46.56] * mikemorr (~mikemorr@unaffiliated/mikemorr) has joined channel ##windows
+[01:47.12] <komugi> in place upgrade since 7
+[01:47.17] <komugi> should have kept all your data
+[01:47.23] <komugi> it usually just moves it to another directory
+[01:47.26] <komugi> until you want to clean uip
+[01:47.32] <komugi> $WINDOWS or something
+[01:47.42] <lenswipe> part of me really wants to just go "fuck it" and pirate a copy of windows 8.1
+[01:47.59] <lenswipe> on the other hand if I was going to go to jail for software piracy I'd want it to be something a little less embarassing :p
+[01:48.41] <komugi> do you have a key?
+[01:49.15] <lenswipe> komugi, no, the laptop came with windows 8 installed on it
+[01:49.17] <komugi> you can do a clean install with a windows 8 key
+[01:49.19] <lenswipe> ie: the key is embedded in the BIOS
+[01:49.28] <komugi> oh, not sure then
+[01:49.35] <komugi> you should be able to extract the key
+[01:49.38] <lenswipe> S_SubZero, still got a watermark
+[01:49.46] <lenswipe> komugi, probably, not sure where to put it in though
+[01:49.55] <S_SubZero> get the network stuff working
+[01:50.00] <S_SubZero> oh you did
+[01:50.02] <S_SubZero> well try activating
+[01:50.05] * phinxy (~tehhhd@unaffiliated/phinxy) Quit (Read error: Connection reset by peer)
+[01:50.10] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:50.19] <mikemorr> Hi all. Do these committed-memory numbers seem high, or is this normal? ＋＋http://i.imgur.com/zDc0HrZ.png，，
+[01:50.24] <lenswipe> S_SubZero, how?
+[01:50.41] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[01:51.55] <S_SubZero> System panel has a button to activate
+[01:52.26] <lenswipe> system panel?
+[01:52.40] <S_SubZero> so move the mouse to the lower left corner of the screen where the Windows logo is.  Do you see that?
+[01:52.53] * APerson_ (~APerson_@wikipedia/APerson) Quit (Read error: Connection reset by peer)
+[01:52.57] * MY123 (~MY123@unaffiliated/kill--9-1/x-8776976) Quit (Quit: Leaving)
+[01:53.18] * rigor789 is now known as rigor789|away
+[01:53.22] <lenswipe> oh yeah i got the activate windows thing
+[01:53.33] <lenswipe> what did you say i should use to get the key out of the BIOS?
+[01:53.40] * APerson_ (~APerson_@wikipedia/APerson) has joined channel ##windows
+[01:53.43] <S_SubZero> just try clicking the Activate Windows.
+[01:53.51] * APerson_ (~APerson_@wikipedia/APerson) Quit (Remote host closed the connection)
+[01:53.54] * WizJin (~WizJinAFK@103.241.46.248) Quit (Quit: Leaving)
+[01:54.02] <lenswipe> S_SubZero, yeah i can buy a product key or enter oe
+[01:54.07] <lenswipe> one*
+[01:54.27] <S_SubZero> go get rweverything portable from rweverything.com
+[01:54.40] <lenswipe> ok
+[01:54.41] <lenswipe> ty
+[01:54.54] * Tinfoilhat_ (~quassel@142.68.118.212) Quit (Read error: Connection reset by peer)
+[01:55.47] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:55.58] <happytoo> has anyone here had to deal with Microsoft non-enterprise customer service?
+[01:56.29] * dimm0k (~dimm0k@unaffiliated/dimm0k) Quit (Quit: leaving)
+[01:57.03] <lenswipe> S_SubZero, okay, i have it running...now what
+[01:57.42] <S_SubZero> I think the key is under the MSDM tab
+[01:57.56] <S_SubZero> I apologize I didn’t write rweverything and I didn’t take classes on it and I don’t know it
+[01:58.01] <S_SubZero> i used it a few times a while back
+[01:58.11] <lenswipe> i dont have any tabs
+[01:58.31] <S_SubZero> be sharp and figure out how to get tabs.
+[01:58.35] * Guest71729 (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) has joined channel ##windows
+[01:58.45] <komugi> happytoo: yes
+[01:58.51] <S_SubZero> i remember a bunch of tabs with 3-4 letters in them and MSDM is one of them
+[01:58.57] <komugi> for technical stuff?
+[01:59.00] <komugi> or for hardware?
+[01:59.16] <komugi> Microsoft CS for their Surface stuff is absoutely delightful
+[01:59.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[01:59.27] <komugi> Microsoft CS for technical issues with Windows sucked
+[01:59.38] <komugi> and costs money
+[02:00.10] * Shogun_ (~quassel@23-29-5-150.netptc.net) has joined channel ##windows
+[02:00.34] * qu4nt1n (kvirc@ras75-1-81-57-62-148.fbx.proxad.net) Quit (Ping timeout: 264 seconds)
+[02:00.36] <lenswipe> holy shit
+[02:00.37] <lenswipe> that's it
+[02:00.44] <lenswipe> Thanks S_SubZero ...you're the best! :D
+[02:00.46] * randombrain (~rbrain@unaffiliated/randombrain) has joined channel ##windows
+[02:00.47] <lenswipe> \o/
+[02:01.27] <lenswipe> S_SubZero, still have the watermark though, i guess i have to logout to get rid of that - right?
+[02:01.43] <S_SubZero> did yout put the key in and it said you were good and whatever
+[02:02.06] <Xe> Surface pro 3 keyboard touchpad is only working every other power cycle
+[02:02.11] <Xe> hardware or software issue?
+[02:02.41] * applegal (applegal@202.156.241.159) has joined channel ##windows
+[02:02.50] * okhj (~okhj@41.141.55.135) Quit (Remote host closed the connection)
+[02:02.59] <S_SubZero> sounds like a “take it to the Microsoft Store” reason
+[02:03.02] * hmmwhatsthisdo (~hmmwhatst@unaffiliated/hmmwhatsthisdo) has joined channel ##windows
+[02:03.12] * Defunk (defunk@telnetd.org) has joined channel ##windows
+[02:03.28] * JGB28 (~JGB28@unaffiliated/jgb28) Quit (Remote host closed the connection)
+[02:03.45] <lenswipe> S_SubZero, put the key in and it said it was fine. restarted and the watermark is gone
+[02:03.50] <S_SubZero> yay
+[02:03.58] <lenswipe> although some of the drivers are still fragged but i can fix that on my own
+[02:03.59] <hmmwhatsthisdo> [not entirely sure if this is on-topic] What do y'all use for AV suites?
+[02:04.00] <lenswipe> thanks dude!:D
+[02:04.01] <komugi> yeah take it to the MS Store
+[02:04.13] <komugi> hmmwhatsthisdo: Defender on 8
+[02:04.15] <lenswipe> hmmwhatsthisdo, like AVA players?
+[02:04.15] <komugi> MSE on 7
+[02:04.22] <lenswipe> hmmwhatsthisdo, VLC
+[02:04.26] <lenswipe> VLC is the absolute bomb
+[02:04.33] <komugi> pretty sure he meant antivirus
+[02:04.33] <komugi> :)
+[02:04.45] * David-- (none@pdpc/supporter/active/david--/x-2357539) has joined channel ##windows
+[02:04.48] <hmmwhatsthisdo> my family used to purchase Norton Internet Security license packs, but now that I'm in college they've told me that "You need to be an independent adult."
+[02:04.57] <hmmwhatsthisdo> i.e. I'm buying my own things now
+[02:05.10] <komugi> hmmwhatsthisdo: Microsft stuff is fine as long as don't lack common sense
+[02:05.18] <hmmwhatsthisdo> mmkay
+[02:05.34] <komugi> and its free
+[02:05.35] <komugi> :)
+[02:06.11] <komugi> though if your family has comcast or something
+[02:06.17] * TPoJ (~TPoJ@97e4c00f.skybroadband.com) has joined channel ##windows
+[02:06.20] <komugi> a lot of time the ISP gives you free antivirus software
+[02:06.26] <komugi> if you're more comfortable with Norton or something
+[02:06.30] <hmmwhatsthisdo> I'm not
+[02:06.42] <hmmwhatsthisdo> (I hate it, honestly - I was only using it because they said I had to)
+[02:06.49] <komugi> are you on Windows 7 or 8?
+[02:06.51] <RudyValencia> I'm writing a Shell_NotifyIcon-based app in C and my icon is slightly distorted on Win7, why is this happening and what can I do?
+[02:08.43] * Deihmos1 (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[02:09.17] <Xe> RudyValencia: warning they get anal about coding questions in here, try ##windows-coding
+[02:09.39] * last_staff (~Thunderbi@34-20-232.connect.netcom.no) has joined channel ##windows
+[02:10.17] <break3r> What is it about the ##<chanName> here? Why the double #?
+[02:10.25] <S_SubZero> it’s not about “get anal” it’s about this channel is not normally frequented by people skilled in such matters.  It’s not a bad thing to point someone towards a channel more dedicated to their need.
+[02:11.04] <hmmwhatsthisdo> break3r: IIRC freenode has specific definitions on ## channels
+[02:11.05] <RudyValencia> OK
+[02:11.13] <RudyValencia> ## is for unofficial channels
+[02:11.15] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[02:11.17] <break3r> thanks hmmwhatsthisdo
+[02:11.29] <break3r> thanks RudyValencia
+[02:11.32] <lenswipe> komugi, .oh...my bad :P
+[02:11.33] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[02:11.44] <hmmwhatsthisdo> komugi: W7 for the time being
+[02:11.56] <lenswipe> <komugi> though if your family has comcast or something
+[02:11.56] <lenswipe> *<komugi> a lot of time the ISP gives you free antivirus software
+[02:12.11] <lenswipe> ...I can't think of anyone who I would least trust AV from
+[02:12.12] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Ping timeout: 252 seconds)
+[02:12.13] <komugi> hmmwhatsthisdo: look for microsoft security essentials then
+[02:12.19] <hmmwhatsthisdo> that'll probably change over the summer (I can upgrade to 8.1 whenever I want, I just haven't because my weekends are spent doing homework)
+[02:12.47] <komugi> you don't need to install anything on 8.1
+[02:12.54] <komugi> Defender has MSE incorporated into the the OS
+[02:13.08] <lenswipe> as a matter of interest...is windows 10 available for upgrade to non MSDN people yet?
+[02:13.18] <komugi> not RTM'd
+[02:13.23] <komugi> only technical preview
+[02:13.23] * buaok (~buaok@AClermont-Ferrand-654-1-543-14.w86-207.abo.wanadoo.fr) has joined channel ##windows
+[02:13.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:13.32] * syeekick (~syeekick@cpc67840-gtya4-2-0-cust42.4-4.cable.virginm.net) Quit (Changing host)
+[02:13.32] * syeekick (~syeekick@unaffiliated/syeekick) has joined channel ##windows
+[02:13.32] <lenswipe> ah
+[02:13.37] <hmmwhatsthisdo> komugi: is MSE really enough? We use Forefront/Endpoint Protection at work which, to my knowledge, is essentially enterprise-grade MSE and we've always run under the assumption that MSE is the last thing to detect badware
+[02:13.41] <lenswipe> i have to say, it looks quite nice
+[02:13.56] <komugi> Endpoint is HIPS
+[02:14.06] <komugi> common sense + MSE is enough
+[02:14.10] <komugi> but if you don't trust yourself enough
+[02:14.13] <komugi> you can use other stuff
+[02:14.32] <komugi> we have Endpoint for end users at work, and only because we don't trust them
+[02:14.33] <komugi> :P
+[02:14.44] <komugi> if you want further security
+[02:14.57] <komugi> the easiest thing is create an User account
+[02:15.02] <komugi> and not an admin
+[02:15.16] <komugi> and use the UAC/Admin account only when installing programs
+[02:15.22] <komugi> that trumps any AV
+[02:16.16] * Deihmos1 (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Read error: Connection reset by peer)
+[02:17.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:17.52] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[02:18.25] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 272 seconds)
+[02:19.10] * netsjanek (~netsjanek@199.115.231.98) Quit (Ping timeout: 264 seconds)
+[02:20.49] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[02:21.13] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) has joined channel ##windows
+[02:22.14] * David-- (none@pdpc/supporter/active/david--/x-2357539) Quit (Quit: Going, Going, Gone...)
+[02:22.26] * Nedo (~Nedo@64-46-20-52.dyn.novuscom.net) has joined channel ##windows
+[02:22.44] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:23.12] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Read error: Connection reset by peer)
+[02:23.57] * CookieJar (~CookieJar@wnklmb01dc1-186-200.dynamic.mtsallstream.net) has joined channel ##windows
+[02:24.01] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[02:24.45] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection timed out)
+[02:25.32] * Anodl (~Anodl@p57B24D1F.dip0.t-ipconnect.de) Quit (Ping timeout: 256 seconds)
+[02:25.36] * Mia (~Mia@176.40.169.55) has joined channel ##windows
+[02:25.36] * Mia (~Mia@176.40.169.55) Quit (Changing host)
+[02:25.36] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[02:25.48] * Deihmos_ (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[02:25.52] * mikemorr (~mikemorr@unaffiliated/mikemorr) has left ##windows ()
+[02:25.53] <happytoo> komugi: have you been to Microsoft Store?
+[02:26.01] <happytoo> or anyone else here?
+[02:26.36] <S_SubZero> I have.
+[02:26.48] <happytoo> did you deal with customer service there?
+[02:26.55] <S_SubZero> no.
+[02:27.19] <happytoo> maybe someone here has
+[02:29.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:30.03] * Deihmos (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Ping timeout: 265 seconds)
+[02:32.33] * Axy (~Mia@217.131.216.20) has joined channel ##windows
+[02:32.33] * Axy (~Mia@217.131.216.20) Quit (Changing host)
+[02:32.33] * Axy (~Mia@unaffiliated/mia) has joined channel ##windows
+[02:33.01] <komugi> happytoo: yeah
+[02:33.10] <komugi> they're pretty pleasant
+[02:33.16] <komugi> though backup your stuff before you go
+[02:33.23] <komugi> they might wipe your machine to troubleshoot
+[02:33.30] <komugi> but most of the time they just give you a new one or something
+[02:33.45] * ultramage (umage@kurobara.netvor.sk) has left ##windows ()
+[02:33.47] <happytoo> is that only true if you have a Surface?
+[02:33.56] <happytoo> or any of the devices they sell?
+[02:34.06] <komugi> not sure
+[02:34.15] <komugi> but pretty sure they support anything they sell themselves
+[02:34.39] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:35.20] * Timslin (~Speedy624@unaffiliated/timslin) has joined channel ##windows
+[02:35.52] * Mia (~Mia@unaffiliated/mia) Quit (Ping timeout: 252 seconds)
+[02:36.33] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[02:38.48] * ale46 (~ale46@2.237.242.245) has joined channel ##windows
+[02:40.23] * Raziel (~Raziel@cpc16-broo8-2-0-cust158.14-2.cable.virginm.net) has joined channel ##windows
+[02:40.42] * Exagone313 (~exa@elou.world) Quit (Quit: see ya!)
+[02:40.54] * Exagone313 (exa@elou.world) has joined channel ##windows
+[02:40.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:41.00] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 252 seconds)
+[02:42.26] * sabotender (~sabotende@unaffiliated/sabotender) Quit (Remote host closed the connection)
+[02:42.55] * hjca (~hjca@41.141.55.135) has joined channel ##windows
+[02:43.34] * aeon-ltd (~freenode@94.9.152.35) has joined channel ##windows
+[02:45.15] * lenswipe (~lenswipe@unaffiliated/lenswipe) Quit (Quit: ...and with that, he left and lived happily ever after.)
+[02:45.59] * Aldem (~Aldem@69.55.247.247) has joined channel ##windows
+[02:46.00] * Aldem (~Aldem@69.55.247.247) Quit (Changing host)
+[02:46.00] * Aldem (~Aldem@unaffiliated/aldem) has joined channel ##windows
+[02:46.00] * buaok (~buaok@AClermont-Ferrand-654-1-543-14.w86-207.abo.wanadoo.fr) Quit (Ping timeout: 265 seconds)
+[02:46.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:47.30] * hentaixp (~justin@209.179.64.177) has joined channel ##windows
+[02:48.10] * Ravana (~Ravana@unaffiliated/ravana) has joined channel ##windows
+[02:50.14] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[02:51.32] * Nedo (~Nedo@64-46-20-52.dyn.novuscom.net) has left ##windows (("Gotta go..."))
+[02:52.12] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[02:53.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[02:53.37] <happytoo> i did the over-the-phone thing with a Microsoft Store purchase and it was bad. Legendarily bad
+[02:53.43] * Deihmos_ (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[02:54.14] <happytoo> Comcast bad
+[02:54.27] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[02:56.10] * Defunk (defunk@telnetd.org) Quit (Ping timeout: 246 seconds)
+[02:57.09] <Peppi> hello
+[02:57.25] <happytoo> With the impressive turnaround under way by Microsoft, I was shocked by how terrible the phone customer service was. Then, yesterday an enterprise customer told me that Microsoft phone customer service was so bad that he is changing the company's products to a competitor
+[02:57.57] <Peppi> have an issue
+[02:58.29] <Peppi> have a laptop when I close the lid and computer sleeps, when I open the lid I get the Windows Error Recovery screen
+[02:58.38] <Peppi> anyone know what the issue could be?
+[02:58.38] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:59.56] <hmmwhatsthisdo> Peppi: something's causing it to crash when it goes to sleep
+[02:59.59] <hmmwhatsthisdo> my guess is a bad driver
+[03:00.00] * einyx (~einyx@104.40.228.31) Quit (Changing host)
+[03:00.00] * einyx (~einyx@unaffiliated/einyx) has joined channel ##windows
+[03:00.05] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) has joined channel ##windows
+[03:00.10] * Type-21 (~type-21@unaffiliated/type-21) Quit (Ping timeout: 250 seconds)
+[03:01.28] <Peppi> hmmwhatsthisdo: well ya... that is obvious
+[03:01.46] * sphenxes01 (~sphenxes@178-191-167-42.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[03:01.48] <Peppi> looking at event log now
+[03:01.52] <hmmwhatsthisdo> F8, disable auto restart
+[03:01.57] <hmmwhatsthisdo> (on bootup)
+[03:02.04] <hmmwhatsthisdo> let it sleep, check stop code
+[03:02.17] <Peppi> "The previous system shutdown at .... was unexpected...
+[03:02.29] <Peppi> :/
+[03:02.32] <hmmwhatsthisdo> I don't think stop codes propagate to the event log
+[03:02.36] * kerframil (~kerframil@gentoo/user/kerframil) has joined channel ##windows
+[03:03.16] <hmmwhatsthisdo> actually, they might
+[03:03.27] <hmmwhatsthisdo> look for "The system has rebooted from a bugcheck" messages
+[03:03.45] <Peppi> no.. uhmm
+[03:03.54] <komugi> happytoo: i did the phoen thing too
+[03:04.01] <komugi> with MS Store
+[03:04.05] <komugi> they were easy to deal with
+[03:04.08] <komugi> 4-5 questions
+[03:04.12] <Peppi> the system never rebooted
+[03:04.13] <komugi> told me to send a photo
+[03:04.16] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[03:04.23] <komugi> after that they sent me a RMA
+[03:04.33] <komugi> with prepaid label, probably less than 30 minutes
+[03:04.36] <Peppi> I think it just doesn't sleep well
+[03:04.39] <komugi> for the call/email
+[03:04.47] <hmmwhatsthisdo> Peppi: Windows Error Recovery (like, the black-and-white console screen) means it did restart
+[03:05.38] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[03:06.34] <Peppi> hmmwhatsthisdo: yes... I guess.. but...
+[03:07.19] <hmmwhatsthisdo> then that means you should be able to find the BSOD/STOP codes and google them to figure out what's up with your computer
+[03:07.49] * hirogen (~hirogen@2.120.71.183) has joined channel ##windows
+[03:07.49] <Peppi> ok
+[03:07.55] <Peppi> so where do I look?
+[03:07.56] <hmmwhatsthisdo> either it's that or your BIOS has issues handling power
+[03:08.03] <hmmwhatsthisdo> check the event viewer for bugcheck messages
+[03:08.22] <hmmwhatsthisdo> or restart, his F8 during boot, disable auto restart on system failure, then let it finish booting and try to sleep again
+[03:08.39] <hmmwhatsthisdo> if it BSODs, you can read the error code and google it
+[03:09.43] <Peppi> hmmwhatsthisdo: no BSOD... or at least I can't see it
+[03:09.57] <hmmwhatsthisdo> can't see it how?
+[03:09.59] <Peppi> like I said close the lid then come back and I see the error
+[03:10.00] <hmmwhatsthisdo> when it restarts?
+[03:10.14] <hmmwhatsthisdo> how long is it between when you close the lid and when you open it?
+[03:10.26] <Peppi> not sure... this time a day
+[03:10.36] <Peppi> sec
+[03:10.54] <hmmwhatsthisdo> so then, is it theoretically possible that it BSODed after you closed the lid, restarted, then showed the error recovery screen?
+[03:11.54] <Peppi> well I never technically restarted
+[03:12.10] <hmmwhatsthisdo> Windows reboots after BSODs
+[03:12.11] <Peppi> closed the lid, opened the lid, then showed the error recovery screen?
+[03:12.48] * NotJavacat (~Javacat@unaffiliated/javacat) has joined channel ##windows
+[03:12.57] <hmmwhatsthisdo> you might not have restarted it, but Windows by-default will reboot after a BSOD unless you disable automatic system restart
+[03:13.08] * NotJavacat is now known as Javacat
+[03:13.13] <Peppi> hmmwhatsthisdo: if it rebooted after the BSOD it would then be put in an loop
+[03:13.23] <hmmwhatsthisdo> not necessarily
+[03:13.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:13.27] <Peppi> how?
+[03:13.59] <Peppi> if my power setting are set to sleep after 15 minutes does the laptop just sleep forever?
+[03:14.15] <Peppi> or does it hibernate after a time?
+[03:14.18] <hmmwhatsthisdo> ＋＋http://www.techsupportforum.com/forums/attachment.php?attachmentid=167202&d=1396210382，，
+[03:14.22] <hmmwhatsthisdo> Do you see something like that?
+[03:14.23] * hirogen (~hirogen@2.120.71.183) Quit (Ping timeout: 245 seconds)
+[03:14.50] <kerframil> Peppi: it will hibernate eventually (since Vista)
+[03:14.53] <hmmwhatsthisdo> (or ＋＋https://social.technet.microsoft.com/Forums/getfile/436514，，)
+[03:15.01] <kerframil> Peppi: unless you disable hybrid sleep
+[03:15.13] * netsjanek (~netsjanek@199.115.231.98) has joined channel ##windows
+[03:15.53] * gonethesock (~gonetheso@41.134.74.178) has joined channel ##windows
+[03:16.00] * master (~master@unaffiliated/master) Quit (Ping timeout: 255 seconds)
+[03:16.13] <Peppi> kerframil: ok it must be dieing on hibernation then
+[03:16.35] <Peppi> hmmwhatsthisdo: if the computer reboot then I would see that in even log
+[03:16.44] <hmmwhatsthisdo> Peppi: which you did
+[03:16.45] * hirogen (hirogen@2.120.71.183) has joined channel ##windows
+[03:16.49] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:16.53] <hmmwhatsthisdo> Peppi	"The previous system shutdown at .... was unexpected...3
+[03:17.01] <hmmwhatsthisdo> bleh, ignore that 3
+[03:17.02] * sphenxes (~sphenxes@178-191-167-42.adsl.highway.telekom.at) has joined channel ##windows
+[03:17.11] * sphenxes (~sphenxes@178-191-167-42.adsl.highway.telekom.at) Quit (Max SendQ exceeded)
+[03:17.24] <Peppi> hmmwhatsthisdo: but that was me opening the lid
+[03:17.28] <hmmwhatsthisdo> ...
+[03:17.42] <Peppi> so it couldn't have BSOD and then rebooted
+[03:17.46] <hmmwhatsthisdo> why?
+[03:18.07] * sphenxes (~sphenxes@178-191-167-42.adsl.highway.telekom.at) has joined channel ##windows
+[03:18.25] <hmmwhatsthisdo> also you didn't answer my question as to whether or not you saw ＋＋http://www.techsupportforum.com/forums/attachment.php?attachmentid=167202&d=1396210382，， or ＋＋https://social.technet.microsoft.com/Forums/getfile/436514，， when you opened the lid
+[03:18.26] <Peppi> because it only rebooted when I opened the lid hours later
+[03:18.34] <Peppi> ok sec I'll look
+[03:18.56] <Peppi> ya that's what I see
+[03:19.09] * HeliusCmobile (~AndChat23@c-50-152-37-227.hsd1.co.comcast.net) Quit (Read error: Connection reset by peer)
+[03:19.14] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) has joined channel ##windows
+[03:19.48] <hmmwhatsthisdo> which?
+[03:20.06] <Peppi> anyhow I see no errors in the event log... including no hibernate or sleep or shutdown event... :/
+[03:20.13] <Peppi> which what?
+[03:20.21] * abs25 (~absof25_@141-136-181-125.dsl.iskon.hr) has joined channel ##windows
+[03:20.31] <abs25> ＋＋https://dl.dropboxusercontent.com/u/64175875/HDD.png，， why is this happening( 8.1 enterprise)
+[03:21.09] <Peppi> hmmwhatsthisdo: sorry which what?
+[03:21.14] * jennie (~chatzilla@unaffiliated/jennie) has joined channel ##windows
+[03:21.16] <jennie> hello
+[03:21.17] <hmmwhatsthisdo> Peppi: there are two links in that message
+[03:21.23] <hmmwhatsthisdo> which of the two images did you see
+[03:21.36] * THEMorpheus (~MoreFeeYo@BSN-142-170-48.static.siol.net) Quit (Quit: Leaving)
+[03:21.39] <jennie> which option to choose for making bootable usb for windows 8 64bit in Rufus, MBR or GPT?
+[03:21.39] * MoreFeeYouS (~MoreFeeYo@BSN-142-170-48.static.siol.net) Quit (Quit: Leaving)
+[03:21.40] * exixt (~exixt@unaffiliated/exixt) Quit (Quit: - nbs-irc 2.39 - www.nbs-irc.net -)
+[03:21.54] <Peppi> hmmwhatsthisdo: ohh neither
+[03:22.04] <hmmwhatsthisdo> then what did it say?
+[03:22.13] <Peppi> shit... sec
+[03:22.24] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:23.02] <Peppi> damn..
+[03:23.03] * wethu (~egray@unaffiliated/wethu) has joined channel ##windows
+[03:23.08] * hirogen (hirogen@2.120.71.183) Quit (Ping timeout: 250 seconds)
+[03:23.11] <Peppi> I'll try to hibernate it and see if I get the error
+[03:23.19] * Defunk (defunk@telnetd.org) has joined channel ##windows
+[03:23.21] <Peppi> if not.. I'll have to wait an hour or something
+[03:23.39] * wethu (~egray@unaffiliated/wethu) Quit (Client Quit)
+[03:24.21] <Peppi> ohh nice... hibernate does it
+[03:24.55] <hmmwhatsthisdo> do you see an error message?
+[03:25.23] <Peppi> Windows did not shut down successfully. If this was due to the system not responding, or if the system was shut down to protect data, you might be able to recover by choosing one of the safe mode configurations from the menu below
+[03:25.48] * Eagleman (~Eagleman@546BC449.cm-12-4d.dynamic.ziggo.nl) has left ##windows ()
+[03:25.49] <hmmwhatsthisdo> how is that different from ＋＋https://social.technet.microsoft.com/Forums/getfile/436514，，
+[03:25.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:26.07] <Peppi> yup it's that one
+[03:26.10] <Peppi> :)
+[03:26.14] <abs25> can anyone help me please?
+[03:26.31] <hmmwhatsthisdo> Peppi: now, reboot and hit F8
+[03:26.44] <hmmwhatsthisdo> ctrl-alt-delete on that screen should do it
+[03:27.06] <hmmwhatsthisdo> select "Disable automatic restart on System Failure"
+[03:27.18] <hmmwhatsthisdo> let it boot, try hibernating again
+[03:27.21] <hmmwhatsthisdo> see if you get a BSOD
+[03:27.39] <Peppi> sec
+[03:27.46] <Peppi> damn...
+[03:27.53] * teku_ (~tekuru@host147-158-dynamic.49-79-r.retail.telecomitalia.it) has joined channel ##windows
+[03:28.22] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[03:28.41] <Peppi> can't reporduce the error
+[03:29.05] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) has joined channel ##windows
+[03:30.05] <Peppi> damn can't get to that error
+[03:30.06] <Peppi> again
+[03:31.24] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:31.44] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Client Quit)
+[03:34.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:34.50] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[03:35.05] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[03:35.24] * wrenny (~AndChat23@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[03:35.39] * Type-21 (~type-21@unaffiliated/type-21) has joined channel ##windows
+[03:36.55] * px- (~paradoxgo@unaffiliated/paradoxgo) Quit (Quit: Leaving)
+[03:37.16] * ErrantEgo (~ErrantEgo@freenode/jester/errantego) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[03:37.37] * ErrantEgo (~ErrantEgo@freenode/jester/errantego) has joined channel ##windows
+[03:37.38] * hirogen (hirogen@2.120.71.183) has joined channel ##windows
+[03:37.38] * MeaCoder (~MeaCoder@5.222.192.41) has joined channel ##windows
+[03:38.44] * CheckDavid (uid14990@gateway/web/irccloud.com/x-jvcdfivbkidwugas) Quit (Quit: Connection closed for inactivity)
+[03:40.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:41.23] * rpr (~cgiirc@fantasy.ircgate.it) Quit (Quit: IRCGate CGI:IRC User (Ping timeout))
+[03:41.50] * habanany (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:43.07] * hmmwhatsthisdo (~hmmwhatst@unaffiliated/hmmwhatsthisdo) has left ##windows ()
+[03:43.16] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[03:43.21] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Max SendQ exceeded)
+[03:43.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:44.22] * Dragane (~MoreFeeYo@BSN-142-170-48.static.siol.net) Quit (Read error: Connection reset by peer)
+[03:46.09] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[03:46.19] <BytesAndCoffee> microsoft uses GRUB for its install images?
+[03:46.25] * habanany1 (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[03:47.05] <RobotsOnDrugs> no
+[03:47.20] * Mr-Potter (~Mr-Potter@unaffiliated/markpotter) has joined channel ##windows
+[03:47.29] <BytesAndCoffee> then i did something wrong
+[03:47.39] * MeaCoder (~MeaCoder@5.222.192.41) has left ##windows (("I'm a happy Miranda NG user! Get it here: ＋＋http://miranda-ng.org/，，"))
+[03:48.06] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[03:49.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:50.07] * nemaona (~nemaona@93-138-66-67.adsl.net.t-com.hr) Quit (Quit: leaving)
+[03:51.11] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[03:51.38] * KomradeVirtunov (~KomradeVi@104-57-8-227.lightspeed.clmboh.sbcglobal.net) has joined channel ##windows
+[03:51.48] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Client Quit)
+[03:52.14] * Leftas (~leftas@91.228.84.180) has joined channel ##windows
+[03:52.15] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[03:52.30] * pinumbernumber (~pinumbern@unaffiliated/pinumbernumber) has joined channel ##windows
+[03:53.26] * neagle3 (~neagle3@gateway/vpn/privateinternetaccess/neagle3) has joined channel ##windows
+[03:54.30] * factory812 (~factory81@108-70-84-224.lightspeed.gdrpmi.sbcglobal.net) Quit (Ping timeout: 256 seconds)
+[03:54.37] * Dollar_ (~c8h10n4o2@89-253-74-6.customers.ownit.se) Quit (Ping timeout: 246 seconds)
+[03:55.00] * Dollar_ (~c8h10n4o2@89-253-74-6.customers.ownit.se) has joined channel ##windows
+[03:55.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:56.02] * ale46 (~ale46@2.237.242.245) Quit (Quit: WeeChat 1.1.1)
+[03:56.07] * bazhang_ (~bazhang@unaffiliated/bazhang) has joined channel ##windows
+[03:56.11] * ale46 (~ale46@2.237.242.245) has joined channel ##windows
+[03:56.41] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[03:57.15] * geothom1 (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[03:57.45] * aeon-ltd (~freenode@94.9.152.35) Quit (Quit: aeon-ltd)
+[03:57.46] * geothom1 (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Max SendQ exceeded)
+[03:58.17] * geothom1 (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[03:58.40] * wiiguy (fake@unaffiliated/wiiguy) has joined channel ##windows
+[03:59.21] * bazhang (~bazhang@unaffiliated/bazhang) Quit (Ping timeout: 240 seconds)
+[04:00.19] <hummingbee> hehe
+[04:00.20] * bazhang_ is now known as bazhang
+[04:00.39] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Ping timeout: 250 seconds)
+[04:00.40] <hummingbee> i've seen tools and howtos which use grub to boot an iso off a usb stick
+[04:00.50] * Ussat (~Ussat@pdpc/supporter/active/ussat) has joined channel ##windows
+[04:01.51] <NeoGeo64> I got a ?
+[04:02.20] * Shoe14 (uid40690@gateway/web/irccloud.com/x-caikkllyqhkstyyo) Quit (Quit: Connection closed for inactivity)
+[04:02.20] * TPoJ (~TPoJ@97e4c00f.skybroadband.com) has left ##windows ()
+[04:02.28] <NeoGeo64> If Windows 9x was basically DOS with a GUI shell on it, what are later versions of Windows such as XP that aren't DOS with a GUI shell?
+[04:03.57] * FreezingCold (~FreezingC@135.0.41.14) Quit (Quit: Out)
+[04:04.15] * decoponio (~decoponio@pon059-128.kcn.ne.jp) Quit (Quit: Leaving...)
+[04:04.30] <hummingbee> afaik they were MSDOS, DOS is a generic term
+[04:04.52] <hummingbee> and NT = new technology ;)
+[04:05.05] * APerson_ (~APerson_@wikipedia/APerson) has joined channel ##windows
+[04:05.11] <kerframil> NeoGeo64: Win 9x was not merely a shell. although it booted DOS, few real mode calls were used after loading win.exe. anyway, NT 3.1 was the first to run in 32-bit protected mode and be completely DOS-free.
+[04:05.51] * Anthrophobic (Ritchel@unaffiliated/anthrophobic) Quit (Remote host closed the connection)
+[04:06.28] * Cymage (~james@unaffiliated/cymage) Quit (Ping timeout: 245 seconds)
+[04:06.59] * DGMurdockIII (~dgmurdock@c-73-168-14-247.hsd1.in.comcast.net) has joined channel ##windows
+[04:07.17] * maciuszek (~maciuszek@TOROON0949W-LP130-01-1242511754.dsl.bell.ca) has joined channel ##windows
+[04:07.27] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) Quit (Read error: Connection reset by peer)
+[04:08.19] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has joined channel ##windows
+[04:08.24] * ashmew2 (~ashmew2@unaffiliated/ashmew2) has left ##windows (("Leaving"))
+[04:08.45] * Cymage (~james@unaffiliated/cymage) has joined channel ##windows
+[04:08.52] * Anthrophobic (Vii@184-156-14-103.dyn.centurytel.net) has joined channel ##windows
+[04:09.13] * DGMurdockIII (~dgmurdock@c-73-168-14-247.hsd1.in.comcast.net) Quit (Remote host closed the connection)
+[04:10.36] <hirogen> can you trigger a full virus scan of a computer ?
+[04:10.38] <hirogen> remotely
+[04:10.49] <hirogen> ie mcafee 8.2 for example
+[04:10.55] <hirogen> i have access to epolicy server
+[04:11.10] <hirogen> im just wondering cos this marketing company i work for has sickly amounts of malware and so forth
+[04:11.35] <abs25> so noone can help em?
+[04:11.36] <abs25> me*
+[04:11.36] <NeoGeo64> idk I use Linux nowadays.  Is Linux kind of how Windows used in respect to Linux being a command line with a GUI shell running ontop?
+[04:11.37] * aling (~lzzetneng@69-195-66-59.unifiedlayer.com) has joined channel ##windows
+[04:11.48] <hirogen> esp since they went to MS spam filter 6 months ago and everyone literlaly has a virus and sometimes you cant tell if the user has a fault or if its just spyware thats wrecked their system its insane
+[04:11.52] * jennie (~chatzilla@unaffiliated/jennie) has left ##windows ()
+[04:11.59] <NeoGeo64> The GUI shell for Linux is basically a program running ontop of the command line right? like windows used to be?
+[04:12.40] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[04:13.13] * amews_aj (~amews_aj@x1-6-6c-b0-ce-b2-ce-ea.cpe.webspeed.dk) Quit (Quit: Leaving)
+[04:13.19] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:13.31] <hummingbee> 'not really'
+[04:13.50] <RobotsOnDrugs> lol
+[04:14.28] * syeekick (~syeekick@unaffiliated/syeekick) Quit (Read error: Connection reset by peer)
+[04:15.03] * geothom1 (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Quit: Leaving.)
+[04:15.53] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) has joined channel ##windows
+[04:16.10] <hirogen> wow i had this issue where a manager gives his receptionist delegate rights to send on his behalf in his calander
+[04:16.17] <hirogen> that shoudl also apply to lync online meetings
+[04:16.21] <hirogen> but it wasnt working
+[04:16.41] <hirogen> anway i did the same for myself i gave myself rights to update the calander and send on behalf of my workd colleague and i got teh same error
+[04:16.44] <hirogen> i got stuck
+[04:16.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:16.52] <hirogen> but then i logged onto another computer with lync
+[04:17.10] <hirogen> i mean i just logged onto another system period and lync updated and said you are now a deligate for david
+[04:17.20] <hirogen> i jsut cant figure out why it suddenly started working
+[04:18.23] <hirogen> so i suppose a reinstallation of the lync 2010 client will do the trick
+[04:18.39] <hirogen> just wondering what gets corrupted in lync locally to prevent it from realising the permissions have been applied
+[04:18.40] <hirogen> insane
+[04:19.42] * icetooth (~icetooth@unaffiliated/icetooth) has joined channel ##windows
+[04:20.12] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 264 seconds)
+[04:21.33] * ariscop (~Phase4@ppp118-209-190-123.lns20.mel8.internode.on.net) Quit (Ping timeout: 256 seconds)
+[04:22.18] * abs25 (~absof25_@141-136-181-125.dsl.iskon.hr) has left ##windows (("Leaving"))
+[04:22.19] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:23.06] * compdoc (~me@unaffiliated/compdoc) has joined channel ##windows
+[04:24.39] * MaxFrames (kvirc@unaffiliated/maxframes) has joined channel ##windows
+[04:25.07] * octothorpe (anderson@eiko.kupo.be) Quit (Remote host closed the connection)
+[04:25.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:26.46] * gonethesock (~gonetheso@41.134.74.178) Quit (Quit: Leaving)
+[04:29.30] * oleo (~oleo@unaffiliated/oleo) has joined channel ##windows
+[04:30.56] * break3r (~wayne@x590db567.dyn.telefonica.de) Quit (Remote host closed the connection)
+[04:31.01] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 246 seconds)
+[04:31.08] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:31.16] * break3r (~wayne@x590db567.dyn.telefonica.de) has joined channel ##windows
+[04:31.36] * last_staff (~Thunderbi@34-20-232.connect.netcom.no) Quit (Quit: last_staff)
+[04:32.54] * MaxFrames (kvirc@unaffiliated/maxframes) Quit (Quit: It's nice to be important, but it's more important to be nice)
+[04:33.12] <hirogen> whats the best profile transfer tool now?
+[04:33.23] <hirogen> datagrab hasnt been upgraded in 3 years
+[04:33.30] <hirogen> easy file transfer i suppose
+[04:34.09] * CheckDavid (uid14990@gateway/web/irccloud.com/x-jegwrvjkvjedeeok) has joined channel ##windows
+[04:36.20] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) has joined channel ##windows
+[04:36.26] * teku_ (~tekuru@host147-158-dynamic.49-79-r.retail.telecomitalia.it) Quit (Quit: Goodbye \ さようなら \ Au revoir \ Arrivederci)
+[04:37.01] <sameer-isa> hirogen, owncloud?
+[04:37.04] * cubear (~user@BSN-143-94-176.dynamic.siol.net) Quit (Quit: Leaving)
+[04:37.07] <sameer-isa> oh, nvm
+[04:37.10] <sameer-isa> I misread
+[04:37.46] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:37.59] * Vicktius (~quassel@79.102.167.124) Quit (Ping timeout: 256 seconds)
+[04:38.36] * Huntyzz (~Huntyz@2001:470:1f09:1ddb:359b:831c:209e:3047) Quit (Read error: Connection reset by peer)
+[04:39.37] <hirogen> k
+[04:40.11] * noregret (~regret@unaffiliated/noregret) Quit (Ping timeout: 246 seconds)
+[04:40.20] * joshumax (~Thunderbi@c-98-232-46-155.hsd1.wa.comcast.net) has joined channel ##windows
+[04:40.34] * Psychoholic (~Psych@68-186-49-179.dhcp.mdfd.or.charter.com) Quit (Remote host closed the connection)
+[04:41.59] * GeorgeJipa (~GeorgeJ@162.243.226.38) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[04:42.12] <joshumax> I'm having the strangest problem all of the sudden...for some reason the context menu in the start menu of my Win7 machine doesn't allow for a "Run as Administrator" option, but only for start menu entries beginning with Windows*
+[04:42.24] * Tinfoilhat_ (~quassel@142.68.118.212) has joined channel ##windows
+[04:42.48] <joshumax> i.e Chromium can be launched as administrator, but not Windows PowerShell, Windows Media Player, etc.
+[04:42.59] * akto (akto@ti0013a400-1681.bb.online.no) Quit ()
+[04:43.20] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:43.42] * Metronome (1803420a@gateway/web/freenode/ip.24.3.66.10) has joined channel ##windows
+[04:44.46] * Tinfoilhat_ (~quassel@142.68.118.212) Quit (Read error: Connection reset by peer)
+[04:45.33] <hirogen> pressed the shift button ?
+[04:45.42] <hirogen> might just be malware
+[04:46.02] <hirogen> try running them in cmd
+[04:46.04] <hirogen> as admin
+[04:46.21] <hirogen> i mean see if you can run CMD as admin and then load powershell through cmd atleast if you need to use it urgently
+[04:46.42] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:47.33] <Metronome> Hey, I am having trouble trimming video files.  I tried using Windows Movie Maker, and think I inputted all the video specs accurately, but the video file it outputs is horrendously laggy.  Surely there's a way to simply cut the beginning and end off of a file without utterly twisting, pounding, and recombobulating it until its quality is lowered.  I feel like I'm overkilling the problem.  Any ideas?
+[04:47.42] <joshumax> Strange
+[04:48.12] <joshumax> I can run command prompt as admin, but only if it's in the recently used area, not in "All Programs"
+[04:48.35] <hirogen> try virtualdub
+[04:48.39] <hirogen> #virtualdub
+[04:48.42] <hirogen> #vlc
+[04:48.47] * GeorgeJipa (~GeorgeJ@162.243.226.38) has joined channel ##windows
+[04:48.59] <hirogen> you tried cleaning up your context menu ?
+[04:49.09] <hirogen> clear temp files and history etc through system tools
+[04:49.09] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[04:49.12] <hirogen> run malware scan bro
+[04:49.39] <joshumax> Why must it always be malware that causes this?
+[04:49.53] <joshumax> It seems like some form of context menu corruption
+[04:50.39] * Vicktius (~quassel@c-4f66a1fa-74736162.cust.telenor.se) has joined channel ##windows
+[04:51.01] * geothom (~geothom@ppp-2-85-217-107.home.otenet.gr) Quit (Quit: Leaving.)
+[04:51.25] <hirogen> cos anything unusual
+[04:51.27] <hirogen> i blame it on that
+[04:51.35] <hirogen> well you can run shellmenuX
+[04:51.36] * sethj (~seth@c-24-17-37-205.hsd1.wa.comcast.net) has joined channel ##windows
+[04:51.46] <hirogen> from nirsoft and disable everything embedded in the context menu
+[04:51.48] <hirogen> if you want
+[04:51.58] <hirogen> jsut run a chkdsk/f
+[04:52.03] <hirogen> maybe sfc /scannow
+[04:52.14] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:52.20] <joshumax> Did all of that
+[04:52.33] <joshumax> except for cleaning the context menu, which I'm trying now
+[04:52.57] * Suchorski (regex@unaffiliated/suchorski) Quit (Ping timeout: 272 seconds)
+[04:53.52] <Stryyker> joshumax: Can you explain what you have done so far so we don't waste time suggesting things you have already done.
+[04:54.11] * Suchorski (regex@179.192.118.102) has joined channel ##windows
+[04:54.11] * Suchorski (regex@179.192.118.102) Quit (Changing host)
+[04:54.11] * Suchorski (regex@unaffiliated/suchorski) has joined channel ##windows
+[04:55.12] * Anthrophobic (Vii@184-156-14-103.dyn.centurytel.net) Quit (Remote host closed the connection)
+[04:55.40] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:56.46] * LucaTM (~Luca@ppp-247-93.33-151.iol.it) Quit (Quit: To infinity and beyond...)
+[04:57.14] <joshumax> Stryyker: Sure, I've done an AV scan several times using Kaspersky and Malwarebytes, ran chkdsk, used sfc, and took a look through my registry manually for anything suspicious.
+[04:57.17] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##windows
+[04:58.26] * jameswine (~jameswine@64.79.233.92) has joined channel ##windows
+[04:58.37] * thingfish (~thingfish@unaffiliated/thingfish) Quit (Quit: Leaving.)
+[04:59.23] <joshumax> Oh and I can run things as administrator just fine if I use Windows Explorer and right click on the,m
+[04:59.35] <joshumax> s/the,m/them/
+[04:59.39] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[05:00.19] * hirogen (hirogen@2.120.71.183) Quit (Ping timeout: 244 seconds)
+[05:02.25] * phre4k (~phre4k@55d43102.access.ecotel.net) has joined channel ##windows
+[05:02.31] * Anthrophobic (Ritchel@184-156-14-103.dyn.centurytel.net) has joined channel ##windows
+[05:04.30] * RaNa (~RaNa@174-134-183-96.res.bhn.net) Quit (Quit: I'm Out)
+[05:04.52] * wiiguy (fake@unaffiliated/wiiguy) Quit (Quit: I just broke my connection, but no worries, we can rebuild it. We have the technology.)
+[05:05.08] * Keanu73 (~Keanu73@unaffiliated/keanu73) Quit (Quit: Leaving)
+[05:05.40] * ulrichard (~richi@184.187.196.178.dynamic.wline.res.cust.swisscom.ch) has joined channel ##windows
+[05:06.01] * nitdega (~nitdega@2602:304:ab12:69a1:7430:f771:e869:ef59) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[05:06.02] * ulrichard (~richi@184.187.196.178.dynamic.wline.res.cust.swisscom.ch) Quit (Read error: Connection reset by peer)
+[05:06.58] * parboiledRice (~parboiled@p5DCA4D63.dip0.t-ipconnect.de) has joined channel ##windows
+[05:13.03] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:13.28] * parboiledRice (~parboiled@p5DCA4D63.dip0.t-ipconnect.de) Quit (Quit: Verlassend)
+[05:13.33] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) Quit (Quit: Leaving)
+[05:14.33] * stephenm (~stephen@ip70-176-226-197.ph.ph.cox.net) has joined channel ##windows
+[05:14.43] * yart (~yart@p5DCA4D63.dip0.t-ipconnect.de) has joined channel ##windows
+[05:14.49] * funch (~funch@251-239-191-90.dyn.estpak.ee) Quit (Quit: ( ＋＋＋＋www.，，，nnscript.com， :: NoNameScript 4.22 :: ＋＋＋www.，，，esnation.com ))
+[05:15.10] <stephenm> Hi I need some help setting up WIndows Server 2008 on a virutal machine.  Does anyone know how it can be done.
+[05:15.18] * Suchorski (regex@unaffiliated/suchorski) Quit (Ping timeout: 244 seconds)
+[05:15.26] * Suchorski (regex@189-12-94-7.user.veloxzone.com.br) has joined channel ##windows
+[05:15.27] * Suchorski (regex@189-12-94-7.user.veloxzone.com.br) Quit (Changing host)
+[05:15.27] * Suchorski (regex@unaffiliated/suchorski) has joined channel ##windows
+[05:15.42] * Da|wo (daiwo@unaffiliated/dawo/x-0202636) has joined channel ##windows
+[05:15.42] * Da|wo is now known as Daiwo
+[05:16.02] * Daiwo is now known as Da|wo
+[05:16.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:16.45] * Cust0sLim3n (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##windows
+[05:16.57] <aias> excel is a brilliant tool for making batch files
+[05:17.20] <Da|wo> someone knows a way to find BOM enabled .txt files amount other txt file without BOM ?
+[05:17.21] * thomas_d (~thomas_d_@31.6.22.16) Quit (Ping timeout: 240 seconds)
+[05:17.34] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) Quit (Quit: Leaving)
+[05:17.37] * Macaveli (~Macaveli@d51A5136B.access.telenet.be) has joined channel ##windows
+[05:18.06] <Da|wo> Byte order mark (U+FEFF), a Unicode character
+[05:19.29] <aias> could you rephrase your question a little so it adheres to english word order ?
+[05:19.38] <Da|wo> hmm ok
+[05:19.59] <aias> i don't understand, "files amount other txt file"
+[05:20.10] <Da|wo> k sorry lemme rephrase
+[05:21.07] * nicedice (~nicedice@unaffiliated/nicedice) Quit (Quit: Leaving)
+[05:21.29] * ref^ (ref@unaffiliated/ref/x-9555909) Quit ()
+[05:21.29] <Da|wo> Anyone knows a methods to sort text file by their encoding ?
+[05:21.35] * Raccoon^ (wayward@unaffiliated/raccoon) has joined channel ##windows
+[05:21.53] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) Quit (Remote host closed the connection)
+[05:21.56] * Macaveli (~Macaveli@d51A5136B.access.telenet.be) Quit (Ping timeout: 245 seconds)
+[05:21.59] * joshumax (~Thunderbi@c-98-232-46-155.hsd1.wa.comcast.net) Quit (Quit: joshumax)
+[05:22.01] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:22.06] * thingfish (~thingfish@unaffiliated/thingfish) has joined channel ##windows
+[05:22.27] * wonderworld (~ww@ip-62-143-156-254.hsi01.unitymediagroup.de) has joined channel ##windows
+[05:22.28] <Da|wo> ie.. "a.txt" was saved using UTF-8 encoding without BOM ... while "b.txt" was saved using UTF-8 with BOM
+[05:22.53] <Da|wo> I need to spot all UTF-8 saved without BOM
+[05:24.11] * maciuszek (~maciuszek@TOROON0949W-LP130-01-1242511754.dsl.bell.ca) Quit (Quit: Leaving)
+[05:24.15] <Da|wo> ＋＋http://i.imgur.com/7bVnmNa.jpg，，
+[05:25.21] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[05:25.27] <aias> i'm trying some things
+[05:25.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:25.33] <Da|wo> ok thanks
+[05:25.40] <aias> you have me interested to know too
+[05:25.57] <Da|wo> great =)
+[05:25.59] * randombrain (~rbrain@unaffiliated/randombrain) Quit (Quit: ...)
+[05:26.02] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[05:26.20] * Metronome (1803420a@gateway/web/freenode/ip.24.3.66.10) Quit (Quit: Page closed)
+[05:27.29] <Da|wo> ＋＋http://d41w0.web1337.net/2015-03-01_1726，，
+[05:27.29] * BOKALDO (~BOKALDO@87.110.77.17) Quit (Quit: Leaving)
+[05:27.45] <Da|wo> see there's no sorting filter for encoding type
+[05:28.49] <yart> ＋＋http://encodingchecker.codeplex.com/releases/view/59420，，
+[05:29.10] <Da|wo> yart thx looking at it
+[05:29.57] <yart> i didn't use it before but the internet says there are several ways to sort your utf8 files
+[05:30.19] <Da|wo> looks good. I hope it differentiate BOMless from BOM files
+[05:30.24] <Da|wo> I'll try it and let you know
+[05:30.26] <Da|wo> thx buddy
+[05:30.33] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 255 seconds)
+[05:30.59] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:31.09] <Da|wo> aias yart just found that ＋＋http://encodingchecker.codeplex.com/releases/view/59420，，
+[05:31.24] <Da|wo> trying it out
+[05:31.28] * ABCango (~X@adsl-98-92-50-28.asm.bellsouth.net) has joined channel ##windows
+[05:33.06] <Da|wo> first time i see an .application type file thought..
+[05:33.30] <Da|wo> EncodingChecker.application
+[05:34.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:34.24] * seiken (~ricardo@179.201.231.153) has joined channel ##windows
+[05:34.35] <Stryyker> From your screenshot it looks like makes a mistake as it throws Asian characters in the French text.
+[05:34.56] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[05:35.03] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[05:35.09] <Stryyker> Also encoding detection does make mistakes.
+[05:35.37] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) has joined channel ##windows
+[05:35.54] * hjca (~hjca@41.141.55.135) Quit (Remote host closed the connection)
+[05:36.27] * u0m3 (~u0m3@109.96.158.146) has joined channel ##windows
+[05:36.40] * stephenm (~stephen@ip70-176-226-197.ph.ph.cox.net) has left ##windows (("Leaving"))
+[05:36.50] <Da|wo> Stryyker.. that happened because I saved those file (containing french character) with a different encoding than it what it was saved with at first
+[05:37.00] * uaaii (~uaaii@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[05:37.29] <Da|wo> all those french accent messed things up: é à è i etc..
+[05:37.35] <Da|wo> I hate french
+[05:38.04] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 265 seconds)
+[05:38.23] * uaaii (~uaaii@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[05:39.14] * uohli (~uohli@69.159.142.80) has joined channel ##windows
+[05:39.54] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:40.40] * nitdega (~nitdega@2602:306:2420:92a1:3074:d775:e485:7e33) has joined channel ##windows
+[05:40.43] * uohli (~uohli@69.159.142.80) Quit (Excess Flood)
+[05:41.22] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 264 seconds)
+[05:41.27] * Ziyu (~Ziyu@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) has joined channel ##windows
+[05:42.10] <yart> @Da|wo: do you run linux vm on your machine?
+[05:42.45] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) Quit (Read error: Connection reset by peer)
+[05:42.48] * Throex (Ritchel@184-156-14-103.dyn.centurytel.net) has joined channel ##windows
+[05:43.13] <Da|wo> I plan on setting one today..
+[05:43.22] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:43.25] * br34l (~br34l@unaffiliated/br34l) Quit ()
+[05:43.27] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[05:43.34] <Da|wo> I just have some other windows's version VM set on virtualbox so far
+[05:43.45] <Da|wo> I have a bootable burned version of ubuntu
+[05:43.47] <Da|wo> why ?
+[05:44.00] <yart> there's a very easy way for linux but I think you can do it with windows too... give me a second
+[05:44.09] * PovAddict (~nicolas@kde/nalvarez) has left ##windows (("Konversation terminated!"))
+[05:44.13] <Da|wo> ok
+[05:44.24] * p-trust (~dep-k@88.214.184.203) has joined channel ##windows
+[05:44.24] * p-trust (~dep-k@88.214.184.203) Quit (Changing host)
+[05:44.24] * p-trust (~dep-k@unaffiliated/p-trust) has joined channel ##windows
+[05:44.25] * ale46 (~ale46@2.237.242.245) Quit (Quit: WeeChat 1.1.1)
+[05:44.58] * Anthrophobic (Ritchel@184-156-14-103.dyn.centurytel.net) Quit (Ping timeout: 264 seconds)
+[05:45.18] * ale46 (~ale46@2.237.242.245) has joined channel ##windows
+[05:45.32] <yart> you're searching for files with UTF-8 with BOM encoding. Did I get this right?
+[05:45.47] <Da|wo> exactly
+[05:46.03] <aias> i'm doing hexdumps and looking for the beginning bbef
+[05:46.04] * sabotender (~sabotende@unaffiliated/sabotender) has joined channel ##windows
+[05:46.05] <Da|wo> so that I can convert them back to UTF-8 withthout BOM
+[05:46.11] * ale46 (~ale46@2.237.242.245) Quit (Client Quit)
+[05:46.27] * ariscop (~Phase4@icookc.lnk.telstra.net) has joined channel ##windows
+[05:46.30] <aias> but getting this into a nice easy batch process is the trick
+[05:46.31] * habanany1 (~lazaro@cpe-142-255-42-254.nyc.res.rr.com) Quit (Ping timeout: 252 seconds)
+[05:46.33] <Da|wo> aias.. this is a way of doing so , but the starting hex can be misleading somethime
+[05:48.05] * br34l (~br34l@unaffiliated/br34l) has joined channel ##windows
+[05:48.52] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:48.56] * xxxxxxxx (uid69321@gateway/web/irccloud.com/x-vsaiayaonmizhrun) Quit (Quit: Connection closed for inactivity)
+[05:49.04] * ale46 (~ale46@2.237.242.245) has joined channel ##windows
+[05:49.06] * Nik05 (~Nik05@unaffiliated/nik05) Quit (Remote host closed the connection)
+[05:49.11] * DLSteve (~DLSteve@c-73-7-226-217.hsd1.ga.comcast.net) has joined channel ##windows
+[05:49.14] * seiken (~ricardo@179.201.231.153) has left ##windows (("QUIT :Leaving."))
+[05:49.41] * break3r (~wayne@x590db567.dyn.telefonica.de) Quit (Remote host closed the connection)
+[05:50.03] * seiken_4 (~ricardo@179.201.231.153) has joined channel ##windows
+[05:50.33] <yart> if you're running xampp or plan to set it up check this out -> ＋＋https://github.com/emrahgunduz/BomCleaner，，
+[05:50.41] * jmc75 (~jmc75@97e4c216.skybroadband.com) has joined channel ##windows
+[05:51.02] * ale46 (~ale46@2.237.242.245) Quit (Client Quit)
+[05:51.21] * vagweif7 (~vagweif7@ool-43577979.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[05:51.30] <yart> it also checks txts
+[05:51.57] * Nik05 (~Nik05@unaffiliated/nik05) has joined channel ##windows
+[05:52.00] <Da|wo> hmm nice find. I'll download some linux distr. vdi right now
+[05:52.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[05:53.21] * pinumbernumber (~pinumbern@unaffiliated/pinumbernumber) Quit (Remote host closed the connection)
+[05:54.20] * seiken_4 (~ricardo@179.201.231.153) Quit (Client Quit)
+[05:56.05] * vagweif7 (~vagweif7@ool-43577979.dyn.optonline.net) has joined channel ##windows
+[05:56.59] <aias> okay i figured it out
+[05:57.14] <aias> have all your files in one directory, be in that directory and do
+[05:57.15] <aias> for f in *; do xxd -l 3 -ps $f | grep -q efbbbf; if [ $? == 0 ]; then ls $f; fi; done
+[05:57.33] <aias> it'll print a list of all files with bom
+[05:57.44] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[05:58.00] <aias> files beginning with byte sequence efbbbf
+[05:58.24] <aias> it only check those first bytes of each file, so it's quite effiecient
+[06:00.15] * Nirvash (~Nirvash@96-38-12-2.static.jcsn.tn.charter.com) Quit (Ping timeout: 244 seconds)
+[06:00.15] * fluter (~fluter@107.158.236.114) has joined channel ##windows
+[06:00.25] * fluter (~fluter@107.158.236.114) Quit (Changing host)
+[06:00.25] * fluter (~fluter@fedora/fluter) has joined channel ##windows
+[06:01.07] <Da|wo> awesome...
+[06:01.12] <Da|wo> you got that batch done ?
+[06:01.14] <aias> in english the command runs, "for each file here dump the first 3 octets in hex and then look to see if they are efbbbf. id they are, print the filename"
+[06:01.16] * jmc75 (~jmc75@97e4c216.skybroadband.com) Quit (Remote host closed the connection)
+[06:01.46] <aias> it's just one command, it'll do all files (1 to hoever many) contained in the directory the command is run from
+[06:02.27] <aias> so, for example when i was testing, i have 2 files utf8 with bom, 1 file utf8 without, and it prints a list of two items - the two filenames
+[06:03.38] <yart> does it work on windows?
+[06:03.59] * jmc75 (~jmc75@97e4c216.skybroadband.com) has joined channel ##windows
+[06:04.00] <aias> i'm checking to see if cygwin comes with xxd (the hexdump tool)
+[06:04.10] <aias> it won't work in cmd.exe
+[06:04.15] <yart> yes
+[06:04.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[06:04.29] <yart> on linux it works but i was wondering if grep would work
+[06:04.44] <Da|wo> I think grep for windows with do it
+[06:04.49] <Da|wo> (gui-based)
+[06:04.49] * pault (63ed8f92@gateway/web/freenode/ip.99.237.143.146) has joined channel ##windows
+[06:05.02] * dino82 (~deeno@unaffiliated/dino82) Quit (Ping timeout: 250 seconds)
+[06:05.09] <aias> i had a quick look through the grep manual but couldn't see an option to check hex
+[06:05.36] <Da|wo> ＋＋http://i.imgur.com/P6NAi3c.jpg，，
+[06:05.57] <pault> ＋＋http://www.ma-config.com/en/publish/tempconfiguration/65844-1_summary，， Cant seem to get rid of BSOD errors. Tried reformatting, re installing drivers etc. BSOD analysis is in the link > bottom of page. appreciate any help. <3
+[06:05.57] <aias> oh, it does by default ;)
+[06:06.32] <sepeck> Da|wo: ＋＋http://franckrichard.blogspot.com/2010/08/powershell-get-encoding-file-type.html，，
+[06:07.01] * phre4k (~phre4k@55d43102.access.ecotel.net) Quit (Quit: Leaving)
+[06:07.03] <sepeck> Da|wo: learn powershell
+[06:07.34] <Da|wo> I should
+[06:07.51] <aias> sepeck: can you chuck out all the irrelevent bits and give us a one-liner for this specific situation  ?
+[06:07.54] * u0m3 (~u0m3@109.96.158.146) Quit (Ping timeout: 255 seconds)
+[06:08.00] <aias> if not i'm still going to say mine wins :P
+[06:08.12] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) Quit (Read error: Connection reset by peer)
+[06:08.13] <aias> of course, powershell is brilliant
+[06:08.26] <Stryyker> pault: have a read of ＋＋http://www.freenode-windows.org/resources/all-windows-versions/troubleshooting-bsod，， while waiting
+[06:08.43] <sepeck> feel free to not learn.   othewrwise I already have things I am doing.  frankly, create a file, import it.  run it
+[06:08.44] <Stryyker> pault: Have you tried anything else that you have not told us?
+[06:08.48] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[06:08.48] * fluter is now known as fluter_
+[06:08.53] * hirogen (hirogen@2.120.71.183) has joined channel ##windows
+[06:08.53] <pault> Stryyker: thanks checking it out!
+[06:09.00] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Ping timeout: 265 seconds)
+[06:09.01] * guilt_ (~guilt_@67.176.139.230) has joined channel ##windows
+[06:09.01] * guilt_ (~guilt_@67.176.139.230) Quit (Changing host)
+[06:09.01] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) has joined channel ##windows
+[06:09.11] <sepeck> Get-Item *.log | select FullName, @{n='Encoding';e={Get-FileEncoding $_.FullName}}
+[06:09.32] <sepeck> ^^ that's the one liner.  The point of saving the file as a module and importing as explained inthe article is to have that one liber
+[06:09.35] <aias> pault: BlueScreenView is an excellent tool
+[06:09.35] <sepeck> liner
+[06:09.51] * Mosterd (~Mosterd@unaffiliated/somelauw) has joined channel ##windows
+[06:09.51] <sepeck> anyway, back tot he garage
+[06:10.02] * fluter_ is now known as cbot
+[06:10.29] <pault> Aias: downloading right now. cheers!
+[06:10.29] <Da|wo> thx sepeck
+[06:10.31] * cbot is now known as Guest52413
+[06:10.41] * dino82 (~deeno@unaffiliated/dino82) has joined channel ##windows
+[06:11.22] <Mosterd> Why do keyboard layouts for windows come in the form of an exe. If anything exe is really unsafe.
+[06:11.33] <neagle3> For 10 straight hours now, I've sat here and uninstalled network adapters and reinstalled them and whatnot in my VM which I need all day, every day, because today, when I woke up after having changed NOTHING the last night, it suddenly has no Internet access.
+[06:11.35] * Faylite (~Faylite@187.89-11-167.nextgentel.com) Quit (Quit: ())
+[06:11.40] <aias> Mosterd: they do ?!
+[06:11.53] <neagle3> This must be due to auto-installed-on-shutdown some minor Windows update that has bricked the machine completely.
+[06:12.14] * Guest52413 is now known as fluter
+[06:12.22] <neagle3> It just doesn't get the connection to the Internet that it has had for so long every day.
+[06:12.29] <neagle3> And nothing I try makes it work.
+[06:12.41] <neagle3> Windows 8.1 Update 1
+[06:12.45] * fluter_ (~fluter@fedora/fluter) has joined channel ##windows
+[06:12.45] * fluter_ (~fluter@fedora/fluter) Quit (Client Quit)
+[06:12.54] <aias> neagle3: i guess you've already checked all the VM settings?
+[06:12.57] <neagle3> aias: Yes.
+[06:13.01] <neagle3> Nothing has changed.
+[06:13.08] <aias> are you using vmware or vbox?
+[06:13.12] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[06:13.13] <neagle3> VMware Player.
+[06:13.26] <aias> hmm, i have no experience with it..
+[06:13.30] <neagle3> VirtualBox is too much of a nightmare with issues.
+[06:13.42] <aias> i have working virtual networks ;)
+[06:13.51] <neagle3> I had until today.
+[06:13.56] <aias> tbh i use it because it's free
+[06:13.57] <neagle3> And what makes you think it's VMware?
+[06:14.08] <neagle3> It's clearly something that Windows is doing.
+[06:14.11] <neagle3> At least clearly to me.
+[06:14.16] <Da|wo> wich light linux os you recc for using with vbox ?
+[06:14.22] <Da|wo> about to pick one flavor rightnwo
+[06:14.52] <aias> pff, i go arch. but that's not a good choice for a quick start
+[06:14.56] <Stryyker> It isn't clear what is the issue.
+[06:15.01] <yart> debian based for beginners
+[06:15.03] <aias> perhaps debian
+[06:15.06] <sepeck> tthere are plenty o fchannels to discuss linux and which to choose on :)
+[06:15.14] <Da|wo> thx yart
+[06:15.26] <Stryyker> neagle3: Did you check event viewer of the virtual OS?
+[06:15.41] <pault> Aias: ntoskrnl.exe and hal.dll seem to be the culprit most times.
+[06:15.47] <aias> does your network adapter do anything in the windows vm ?
+[06:16.04] <Stryyker> pault: Then it is likely drivers, hardware or malware and not those files.
+[06:16.25] <neagle3> Stryyker: What should I look for?
+[06:16.26] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[06:16.35] <aias> ntoskrnl.exe and hal.dll are both pretty damn important
+[06:16.42] <pault> Stryyker: quite the combination of things :(
+[06:16.57] <aias> are they in the final columns of BlueScreenView's output?
+[06:17.14] <aias> occasionally it's a driver that ntoskrnl doesn't like
+[06:17.19] <neagle3> I can never make any sense whatsoever from that awful mess that is "event viewer".
+[06:17.30] <pault> aias:  yes
+[06:17.31] <neagle3> It's just a mishmash of random logs IMO.
+[06:17.45] * sphenxes (~sphenxes@178-191-167-42.adsl.highway.telekom.at) Quit (Quit: Leaving)
+[06:17.59] <Stryyker> neagle3: in the windows system logs, see if there is anything mentioned. Also check the DHCP log (I assume you're using DHCP). What IP does the virtual OS have? ipconfig /all
+[06:18.05] <aias> neagle3: does you network adapter to _anything_ ?
+[06:18.12] <pault> I attempted to reinstall most drivers and reformat and its still the same problem. Would this point towards a hardware issue?
+[06:18.16] <aias> neagle3: at what point does it _stop working_ ?
+[06:18.30] * plushkava (~kerframil@cpc9-enfi16-2-0-cust163.hari.cable.virginm.net) has joined channel ##windows
+[06:18.36] * SonikkuAmerica (~S-USA@unaffiliated/sonikkuamerica) has joined channel ##windows
+[06:18.43] <aias> pault: likely, you could try some hardware tests before the OS boots
+[06:18.46] * kerframil (~kerframil@gentoo/user/kerframil) Quit (Disconnected by services)
+[06:19.02] <aias> often the manufacturer/bios includes utilities to test RAM and HDD etc
+[06:19.05] <pault> Aias: such as memtest64?
+[06:19.09] <neagle3> The first log today was: "The description for Event ID 27 from source e1iexpress cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer."
+[06:19.10] <aias> exactly
+[06:19.16] <Stryyker> pault: possibly. What stop codes are you getting? Have you tried memtest86+? Has it had the issue since new or has it developed? What has changed since it was ok? (this stuff is mentioned in the link I provided earlier)
+[06:19.37] <pault> Aias: sorry which other tests should I look to try, i'm not too familiar with tech issues like these.
+[06:20.08] <neagle3> 169.254.197.97
+[06:20.16] <neagle3> Which is the usual nonsense address.
+[06:20.27] <aias> neagle3: you could try statically assigning and IP and gateway
+[06:20.28] <Stryyker> nonsense? It has a name.
+[06:20.30] <pault> Stryyker: I had no issues prior to the installation of a new water cooler/case. And my 2 hard drives had gotten static damage and had to get 2 new ones, ever since a lot of BSOD.
+[06:20.37] <neagle3> It worked yesterday. Then I shut it down. Today when I start it up, the network is just dead.
+[06:20.43] <aias> neagle3: it sounds like a stupid idea, but it could just work
+[06:20.57] <aias> neagle3: virtual network adapters can be touchy sometimes
+[06:20.58] <Stryyker> pault: static damage? Could other components been damaged?
+[06:20.59] <neagle3> This is ridiculous...
+[06:21.06] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Read error: Connection reset by peer)
+[06:21.13] <neagle3> What the hell can I do other than uninstalling and reinstalling it 100 times?
+[06:21.19] <neagle3> It doesn't help to do so.
+[06:21.21] <Stryyker> neagle3: What host OS?
+[06:21.22] <neagle3> I've rebooted it 1000 times.
+[06:21.27] <neagle3> Windows 8.1 Update 1 too.
+[06:21.34] <aias> neagle3: have you tried statically assigning an IP and gateway to the adapter in ipv4 properties?
+[06:21.38] <neagle3> So both the host OS and the guest OS is the same.
+[06:21.45] <pault> Stryyker: I'm not sure, I took it in to a computer tech and he changed all the parts in a static-free environment. I believe he tested the other parts
+[06:21.46] <neagle3> aias: No. That's not related.
+[06:21.53] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[06:21.54] <aias> try it anyway
+[06:22.05] <neagle3> No. I don't have any static ones.
+[06:22.12] <aias> it'll take 10 seconds. much shorter than installing 1000 times
+[06:22.15] <neagle3> This has never been the case before and makes no sense.
+[06:22.41] <Stryyker> pault: Can you run with less drives connected? Which order do you install the drivers? IS Windows up to date?
+[06:22.47] <pault> Stryyker: Im thinking of taking the computer back to him, hopefully there is an easy fix. I will try some of these tests though.
+[06:22.50] <aias> to me, i don't know how it can make sense either. but in some cases it has fixed issues with virtual adapters
+[06:22.52] * happysoul (~joshua@unaffiliated/happysoul) has joined channel ##windows
+[06:23.00] <happysoul> hello
+[06:23.04] <Stryyker> hi
+[06:23.15] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[06:23.25] <happysoul> can some one tell me how to find a driver for a card reader on a prebuild pc
+[06:23.46] * OnkelTem (~onkeltem@pppoe-62-84-112-224.dubna.ru) Quit (Ping timeout: 246 seconds)
+[06:23.55] <pault> Stryyker: Windows 8 64 without 8.1 update, since I was getting BSODs on 8.1 I reformatted back to 8 to see if that was the cause. Driver installation I tried a lot of different types, CPU/GPU first sometimes.
+[06:24.14] <pault> most times* cpu/gpu drivers first
+[06:24.22] <aias> neagle3: vbox comes with 'guest additions', "installed inside a virtual machine after the guest operating system has been installed. They consist of device drivers and system applications that optimize the guest operating system". i don't know if vmware has any equivilent
+[06:24.38] <Deihmos> bsod could mean memory failure or other hardware issue
+[06:24.48] <aias> neagle3: did you try giving the adapter static ipv4 address and gateway ?
+[06:24.57] <Stryyker> pault: try chipset first. Generally strip things back to basic to reduce complexity
+[06:25.05] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[06:25.24] <Stryyker> aias: VMWare definately use them
+[06:25.37] <aias> neagle3: ah, the vmware equivilent to these guest drivers are "VMware tools"
+[06:25.57] <pault> Stryyker: Okay I will do that. I'm going to run the memtest right now, thanks for all the help Stryyker, aias!
+[06:25.58] * jmc75 (~jmc75@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[06:26.16] <aias> pault: good luck
+[06:26.19] <Stryyker> pault: Have you installed any 3rd party software?
+[06:26.41] <Stryyker> apart from essential drivers
+[06:26.42] * Sandman1 (~ryan@unaffiliated/sandman1) has joined channel ##windows
+[06:26.43] * OnkelTem (~onkeltem@pppoe-62-84-112-224.dubna.ru) has joined channel ##windows
+[06:26.51] <pault> Stryyker: yes
+[06:27.09] <Stryyker> Maybe they could be causing issues too
+[06:27.53] * happysoul (~joshua@unaffiliated/happysoul) Quit (Quit: Leaving)
+[06:27.53] * u0m3 (~u0m3@109.96.158.146) has joined channel ##windows
+[06:27.56] <Sandman1> Man windows updates take forever
+[06:28.06] <aias> yeah, and there are always more lol
+[06:28.13] * plushkava is now known as kerframil
+[06:28.22] * kerframil (~kerframil@cpc9-enfi16-2-0-cust163.hari.cable.virginm.net) Quit (Changing host)
+[06:28.22] * kerframil (~kerframil@gentoo/user/kerframil) has joined channel ##windows
+[06:28.28] * Cho`gat (darknet@unaffiliated/darknet) has joined channel ##windows
+[06:28.44] <pault> Okay I'll check out some of those tests and then report back! see you guys
+[06:34.00] *** Server disconnected on irc.freenode.net
+[07:54.42] * You have joined ##windows
+[07:54.42] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[07:54.42] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[07:54.42] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[07:54.42] Channel Created on: 7:11 PM 10/7/2005
+[07:55.23] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 255 seconds)
+[07:55.30] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) has joined channel ##windows
+[07:59.11] *** Server disconnected on irc.freenode.net
+[09:05.51] * You have joined ##windows
+[09:05.51] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[09:05.51] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[09:05.52] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[09:05.52] Channel Created on: 7:11 PM 10/7/2005
+[09:06.04] * Robin (~Seligas@host-144-113-2-96.midco.net) has left ##windows ()
+[09:06.31] * Soda (~user@109.229.230.161) has joined channel ##windows
+[09:07.27] * Ziyu (~Ziyu@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[09:07.33] * konk (~Jens@p5B0F030B.dip0.t-ipconnect.de) has left ##windows ()
+[09:08.09] * Ipjra (~Ipjra@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:08.45] * Ipjra (~Ipjra@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[09:09.11] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) Quit (Read error: Connection reset by peer)
+[09:09.28] * oaao (~oaao@41.141.55.135) has joined channel ##windows
+[09:09.33] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[09:10.15] * oaao (~oaao@41.141.55.135) Quit (Excess Flood)
+[09:10.29] * AndChat|633600 (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[09:10.44] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[09:10.49] * hentaixp (~justin@209.179.64.177) Quit (Read error: Connection reset by peer)
+[09:11.16] * jnevz (~jnevz@69.159.142.80) has joined channel ##windows
+[09:11.51] * jnevz (~jnevz@69.159.142.80) Quit (Excess Flood)
+[09:12.12] * hentaixp (~justin@209.179.64.177) has joined channel ##windows
+[09:12.36] * drose379 (6c31dd04@gateway/web/cgi-irc/kiwiirc.com/ip.108.49.221.4) has joined channel ##windows
+[09:12.47] <drose379> Anyone used the new 2015 ThinkPad X1 CXarbon?
+[09:12.48] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:12.51] <drose379> Carbon*
+[09:13.11] * Owof (~Owof@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:14.07] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) has joined channel ##windows
+[09:14.13] * Owof (~Owof@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[09:15.00] * ijies (~ijies@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) has joined channel ##windows
+[09:15.00] * seiken (~ricardo@179.201.231.153) Quit (Read error: Connection reset by peer)
+[09:15.41] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 252 seconds)
+[09:16.10] * ijies (~ijies@AToulouse-556-1-153-77.w92-162.abo.wanadoo.fr) Quit (Excess Flood)
+[09:16.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:16.30] * Defunk (defunk@telnetd.org) has left ##windows ()
+[09:16.48] * xsfs (~xsfs@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##windows
+[09:17.55] * Zen1000 (49227766@gateway/web/freenode/ip.73.34.119.102) has joined channel ##windows
+[09:17.55] * Zen1000 (49227766@gateway/web/freenode/ip.73.34.119.102) Quit (Client Quit)
+[09:19.21] <Deihmos_> try reinstalling it
+[09:19.25] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 246 seconds)
+[09:19.58] * Deihmos_ is now known as Deihmos
+[09:20.29] * linux1000 (49227766@gateway/web/freenode/ip.73.34.119.102) has joined channel ##windows
+[09:20.30] <linux1000> sup
+[09:20.36] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[09:20.46] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Client Quit)
+[09:21.39] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:23.06] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[09:24.34] * sethj (~seth@c-24-17-37-205.hsd1.wa.comcast.net) Quit (Ping timeout: 264 seconds)
+[09:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:25.13] * Sandman1 (~ryan@unaffiliated/sandman1) Quit (Ping timeout: 245 seconds)
+[09:25.21] * ale46 (~ale46@2.237.242.245) has joined channel ##windows
+[09:25.22] * tattedup (~tattedup@unaffiliated/tattedup) Quit (Read error: Connection reset by peer)
+[09:25.48] * tattedup (~tattedup@unaffiliated/tattedup) has joined channel ##windows
+[09:26.32] * xsfs (~xsfs@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Remote host closed the connection)
+[09:26.48] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 264 seconds)
+[09:26.53] * newbie|2 (kvirc@198.13.198.142) Quit (Read error: Connection reset by peer)
+[09:27.03] * Sandman1 (~ryan@pool-96-245-177-233.phlapa.fios.verizon.net) has joined channel ##windows
+[09:27.03] * Sandman1 (~ryan@pool-96-245-177-233.phlapa.fios.verizon.net) Quit (Changing host)
+[09:27.03] * Sandman1 (~ryan@unaffiliated/sandman1) has joined channel ##windows
+[09:27.53] * unreal_ (~unreal@unaffiliated/unreal) has joined channel ##windows
+[09:29.02] <linux1000> wake up
+[09:29.23] <drose379> hello
+[09:30.32] * unreal (~unreal@unaffiliated/unreal) Quit (Ping timeout: 265 seconds)
+[09:30.36] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:30.38] * newbie|2 (kvirc@198.13.198.142) has joined channel ##windows
+[09:30.43] * wrenny2 (~AndChat23@2607:fb90:190c:3ddc:0:2:776f:e101) has joined channel ##windows
+[09:32.04] <linux1000> sup drose
+[09:32.18] * wrenny (~AndChat23@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 245 seconds)
+[09:32.28] <drose379> Not much, you got any ultrabook reccomendations?
+[09:32.47] <linux1000> waht do u need it for
+[09:33.01] <drose379> Software dev/school
+[09:33.48] <ThomasB> anyone here have any experience with a program called netdrive?
+[09:33.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:34.00] <ThomasB> that lets me set an FTP location as a *:\ drive
+[09:34.09] <S_SubZero> your utrabook should have a touch screen with Windows 8.1 Pro
+[09:34.13] <ThomasB> in particular, how it handles UTF
+[09:34.35] <drose379> Meh, I was going for one without a touch screen
+[09:34.36] * Da|wo (daiwo@unaffiliated/dawo/x-0202636) has joined channel ##windows
+[09:34.42] <drose379> And was thinking about running linux on it
+[09:34.44] <Da|wo> still there guys ?
+[09:34.46] <linux1000> get a dell?
+[09:34.52] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##windows
+[09:34.55] * Manny (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[09:35.04] <drose379> The new Dell XPS I was going to get but it has alot of probs with ubuntu
+[09:35.08] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[09:35.08] <S_SubZero> drose379: reminder this is ##windows
+[09:35.22] <drose379> I know, just looking for ultrabook reccomendations
+[09:35.24] <linux1000> get a ultarbook with big screen and lots of ram and i7 or newere proccesor
+[09:35.28] <S_SubZero> ##hardware
+[09:36.50] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[09:36.51] <linux1000> drose379: you a software engineer student?
+[09:36.54] <Da|wo> damn ... can someone help me find the obvious that im looking for an hours now ?
+[09:37.06] <drose379> Going to be a computer science student linux1000
+[09:37.15] <Da|wo> just can't believe I spent more than an hour without finding ..
+[09:37.17] <linux1000> really,what college?
+[09:37.19] <drose379> As of now I program in Java and server side in php
+[09:37.19] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##windows
+[09:37.27] <drose379> Dont know yet linux1000
+[09:37.42] <linux1000> what field of programming u wantt o be web?
+[09:37.45] <linux1000> to*
+[09:37.46] <sepeck> hey guys, if you want general chat, try ##chat
+[09:37.53] * Polo69 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) Quit (Ping timeout: 256 seconds)
+[09:38.04] * Polo69 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) has joined channel ##windows
+[09:38.14] <drose379> linux1000 I like mobile application right now, ive been using java for android
+[09:38.26] <sepeck> ＋＋http://www.freenode-windows.org/channel-guidelines/topic-guidelines/why-ontopic，，
+[09:38.32] <sepeck> this is a topical channel
+[09:38.39] <drose379> But the android apps communicate with the server via HTTP,, so I get to pracrice php too
+[09:38.42] <Da|wo> anyone here would be able to find (yeah just find) file containing asian character ?
+[09:38.58] <Da|wo> I know that sound stupid.. but I really can't find a way to
+[09:39.10] <drose379> linux1000 personal message me if you want
+[09:39.14] <Da|wo> on windows ...
+[09:39.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:39.34] <Da|wo> sub ?
+[09:39.38] * HeliusCron (~wrenny@gateway/vpn/privateinternetaccess/wrenny) has joined channel ##windows
+[09:40.02] <S_SubZero> huh
+[09:40.09] * drose379 (6c31dd04@gateway/web/cgi-irc/kiwiirc.com/ip.108.49.221.4) has left ##windows ()
+[09:40.10] <Da|wo> need your help:(
+[09:40.22] <Da|wo> u have a min?
+[09:40.23] <Stryyker> Da|wo: Write some text in uppercase latin characters, using 2 spaces between words. Make sure each '
+[09:40.36] <S_SubZero> i dont use asian anything
+[09:40.51] <Stryyker> word' is a multiple of 2. Save it. Read it back in a tool that allows you to say it is UTF-16 and it'll look like Chinese
+[09:40.58] <Da|wo> I don't either.. they are result of wrong encoding
+[09:41.15] <Da|wo> I know how to fix those files.. I just can't find a way to list them
+[09:41.37] <Stryyker> It is ambiguous hence why no such perfect tool exists.
+[09:42.49] <Da|wo> I guess I'll have to install asian display language to windows.. damn
+[09:43.05] <Stryyker> What version of Windows?
+[09:43.12] <Da|wo> x64 Ulti
+[09:43.20] <Stryyker> Vista?
+[09:43.24] <Da|wo> 7
+[09:43.25] <Da|wo> sory
+[09:43.26] * Raxamy (~Raxamy@72.27.199.74) has joined channel ##windows
+[09:43.41] <Stryyker> It should already have some fonts that display Asian characters fine.
+[09:43.48] <Da|wo> it does
+[09:43.52] <Stryyker> What is the actual issue?
+[09:43.52] <Raxamy> ＋＋http://i.imgur.com/oiDZJKU.png，，
+[09:43.54] <Raxamy> How can I check if the above system of 4 processes with 2 resources deadlocked?
+[09:43.56] <Da|wo> but it doesnt know how to search for them
+[09:44.01] <Da|wo> ie. windows search
+[09:44.16] <Stryyker> IT does.
+[09:44.31] <S_SubZero> Raxamy: Doesn’t sound like a Windows question.  You unactivated Office on the other hand..
+[09:44.31] <Stryyker> unless I'm not understanding what you're having issues with
+[09:44.37] * Polo69 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) Quit (Ping timeout: 246 seconds)
+[09:44.49] <Da|wo> Stryyker .. I'll make a short screencast k ?
+[09:44.53] <Stryyker> S_SubZero: Same unactivated version from some time ago asking similar questions.
+[09:45.03] * nicety (nicety@nicety.tk) Quit (K-Lined)
+[09:45.20] <Stryyker> Da|wo: I don't watch videos. Can you explain it?
+[09:45.25] <Da|wo> sure I can
+[09:45.47] <Da|wo> can you system see that asian character 鳲e humain ?
+[09:45.53] <Da|wo> your&
+[09:45.58] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:46.12] <Da|wo> this -> 鳲
+[09:46.23] * Wuiaa (~Wuiaa@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[09:46.48] <Stryyker> Mine appears to
+[09:47.04] * Wuiaa (~Wuiaa@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[09:47.26] * nicedice (~nicedice@unaffiliated/nicedice) has joined channel ##windows
+[09:47.33] <Stryyker> Not all software can handle them. For example Notepad can be a little stubborn but WordPad works because the underlaying built in control(widget) is different.
+[09:47.52] * Npoma (~Npoma@41.141.55.135) has joined channel ##windows
+[09:48.21] <Da|wo> I know thats why I asked
+[09:48.30] <Da|wo> take a look at this shot for exemple: ＋＋http://i.imgur.com/5DTBvkV.jpg，，
+[09:49.23] <Stryyker> Open it in notepad
+[09:49.29] * auxy (~auxy@unaffiliated/auxy) has joined channel ##windows
+[09:49.31] <Da|wo> ok
+[09:49.43] <Stryyker> but as you said, you used something in the past then saved it again - something probably made changes to it
+[09:50.03] <Da|wo> but I already know how to fit it
+[09:50.28] <Da|wo> fix*
+[09:50.58] <Da|wo> but right now I have to open each of these txt file to see which one have any of these character in
+[09:51.09] <Da|wo> since windows can't search for them
+[09:51.16] <Da|wo> it just won't display any result
+[09:51.32] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[09:51.49] <Stryyker> What are you using to search for them?
+[09:52.03] <Da|wo> tried built-in windows search
+[09:52.06] <Da|wo> then Grep
+[09:52.57] <Da|wo> but I clearly can't search for file containing the asian character by entering that actual character in the search field
+[09:53.27] <Stryyker> Does the character look differently in notepad and wordpad?
+[09:54.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[09:55.00] <Da|wo> notepad render it properly
+[09:55.03] <Da|wo> I mean wordpad
+[09:56.10] <Stryyker> how does notepad render it?
+[09:56.35] <Da|wo> I replaced notepad for akelpad..
+[09:57.16] <Da|wo> notepad render them wrong too
+[09:57.21] <Stryyker> the text editing/display control code for notepad and wordpad are different that is why I asked you to check in them both
+[09:57.30] <Da|wo> ok
+[09:57.39] * phinxy (~tehhhd@unaffiliated/phinxy) Quit (Quit: Leaving)
+[09:58.17] * Raxamy (~Raxamy@72.27.199.74) Quit ()
+[09:59.13] <linux1000> hi
+[09:59.19] <Da|wo> hi.
+[09:59.34] <linux1000> how ru
+[09:59.37] <Da|wo> bad
+[09:59.41] <linux1000> y
+[09:59.59] * khanman (~khan@74.215.219.231) Quit (Read error: Connection reset by peer)
+[10:00.03] <Da|wo> loosing my whole day on a stupid thing
+[10:00.18] <linux1000> your tryint to view a certain font in notepad or something?
+[10:00.22] <linux1000> trying*
+[10:00.26] <Da|wo> no
+[10:00.33] <linux1000> ?
+[10:00.43] * Robin (~Seligas@host-144-113-2-96.midco.net) has joined channel ##windows
+[10:00.52] <Da|wo> i'm trying to Find text files that contain such font
+[10:00.58] <linux1000> for what?
+[10:00.59] <Da|wo> find = list them
+[10:00.59] <Stryyker> Da|wo: if notepad shows it differently, it may be what you can copy and paste to search for
+[10:01.11] <Stryyker> characters, not font
+[10:01.21] <linux1000> why do u need it?
+[10:01.25] <Da|wo> so that I can fix em in one shot using another tool
+[10:01.40] <linux1000> so yout trying to covert font?
+[10:01.44] * badon (~badon@pdpc/supporter/active/badon) Quit (Ping timeout: 252 seconds)
+[10:01.47] * kggr (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) has joined channel ##windows
+[10:01.49] * khanstah (~khan@74.215.219.231) has joined channel ##windows
+[10:01.56] <Da|wo> still not..
+[10:02.01] * badon_ (~badon@pdpc/supporter/active/badon) has joined channel ##windows
+[10:02.06] <Da|wo> im trying to make a sucessful search
+[10:02.13] <Stryyker> Da|wo: in 1 screenshot, the reason for the box you drew a box around is because the font doesn't contain the character.
+[10:02.19] * khanstah is now known as khanman
+[10:02.21] <Da|wo> yes
+[10:02.43] <Da|wo> that file is called "NFS.txt"
+[10:03.02] * badon_ is now known as badon
+[10:03.38] <Da|wo> I need a way to search for *.txt files that contain character like the one you see in NFS.txt
+[10:03.48] <Da|wo> I need to list them al
+[10:04.08] <Da|wo> I already fixed the encoding of all my .txt files..
+[10:04.23] * guest342156743 (~nate@24-183-146-94.dhcp.oxfr.ma.charter.com) Quit (Ping timeout: 245 seconds)
+[10:04.32] <Da|wo> and its normal that it still display those asian character
+[10:04.38] <Da|wo> I know a way to fix this
+[10:04.46] * SonikkuAmerica (~S-USA@unaffiliated/sonikkuamerica) Quit (Remote host closed the connection)
+[10:04.57] <Da|wo> but I CAN'T FIND a way to List those txt files
+[10:05.19] <linux1000> make a program that opens .txt and searches for the character then put a output that shows it
+[10:05.30] <Stryyker> open the file in notepad, see if they display differently, if so you have the characters you can copy and search for
+[10:06.58] <Da|wo> searching for it doesnt word
+[10:06.59] <Da|wo> work
+[10:07.05] <Da|wo> thats the problem
+[10:07.08] <Stryyker> Did you try notepad?
+[10:07.44] <Stryyker> Different software will try to be smart about such characters in different ways.
+[10:08.13] <Da|wo> its about Finding files, not finding character
+[10:08.28] * ariscop (~Phase4@ppp118-209-190-123.lns20.mel8.internode.on.net) has joined channel ##windows
+[10:08.38] <Da|wo> a solution would be a windows search alternative
+[10:09.43] <Da|wo> a tool that would let me search and list all files containting such character
+[10:09.59] * alpha (~r3kt@unaffiliated/alpha) Quit (Quit: Peace m8)
+[10:10.12] * tonyt (magus@950.org) has joined channel ##windows
+[10:10.19] * HeliusCron (~wrenny@gateway/vpn/privateinternetaccess/wrenny) Quit (Ping timeout: 252 seconds)
+[10:11.16] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[10:11.38] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[10:11.43] * fundies (~fundies@unaffiliated/cheeseboy) has left ##windows (("Leaving"))
+[10:12.39] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:13.25] <linux1000> Da|wo: Msearch
+[10:13.28] <linux1000> i think that file might do it
+[10:13.42] <linux1000> Fast search through an ASCII text file for multiple search strings at once.
+[10:14.03] <Da|wo> url?
+[10:14.10] <icetooth> lowl
+[10:14.41] <linux1000> ＋＋www.download.com，，
+[10:14.42] <linux1000> ＋＋http://download.cnet.com/mSearch3/3000-2248_4-10860414.html，，
+[10:14.48] <Stryyker> Da|wo: you're searching for particular characters though.
+[10:15.10] <Stryyker> and the various things you've used to modify the text files seem to have made it messier.
+[10:15.13] <linux1000> Da|wo: Theres msearch and msearch3 try both
+[10:15.31] * icetooth (~icetooth@unaffiliated/icetooth) has left ##windows (("Leaving"))
+[10:15.42] <Da|wo> ok trying
+[10:16.04] <linux1000> let me know if it works
+[10:16.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[10:16.15] <Stryyker> If you're handy with a hex editor, SearchMyFiles allows you to make binary searches
+[10:16.16] * ChanServ sets mode +o eir for ##windows
+[10:16.33] * eir sets mode -qo *!*@dslb-178-009-248-203.178.009.pools.vodafone-ip.de eir for ##windows
+[10:17.42] <Da|wo> ＋＋http://www.mclean.net.nz/ucf/?c=U+9CF2，，
+[10:17.59] <Da|wo> here's one of the character
+[10:18.23] <Da|wo> what would be the regex for this ?
+[10:18.39] * khanman is now known as khanbie
+[10:18.52] <Da|wo> or could I make a search using its Code Point or else ?
+[10:19.26] <Da|wo> trying Msearch3
+[10:21.33] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[10:22.50] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) Quit (Read error: Connection reset by peer)
+[10:22.57] * khanbie is now known as khanman
+[10:23.22] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[10:23.25] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##windows
+[10:24.24] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[10:25.43] * armyriad (~armyriad@199.19.94.193) Quit (Ping timeout: 252 seconds)
+[10:26.02] * khanman is now known as khanHumblePie
+[10:26.21] * sd20 (257ba077@gateway/web/cgi-irc/kiwiirc.com/ip.37.123.160.119) has joined channel ##windows
+[10:26.26] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) has joined channel ##windows
+[10:26.54] <sd20> :/
+[10:27.00] <sd20> Why do some programs (maybe few, but at least one modern and major) use "C:\ProgramData" instead of "Program Files"?
+[10:27.23] <Stryyker> Use for what?
+[10:27.48] <sd20> "Program data", I guess.
+[10:28.29] * Synthbread (~Synthead@c-67-182-139-37.hsd1.wa.comcast.net) Quit (Ping timeout: 252 seconds)
+[10:28.38] <sd20> Actually, looking inside, quite a lof of software uses it.
+[10:28.41] <Stryyker> Program Files has been wrong since NT first came about for storing program data. It's ok for the program binaries, resources etc. that do not need to be changed. ProgramData has a specific purpose.
+[10:28.54] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 255 seconds)
+[10:29.19] <Stryyker> ProgramData contains application data that is not user specific
+[10:29.45] * khanHumblePie is now known as khanman
+[10:29.48] <Stryyker> ＋＋http://stackoverflow.com/a/27181428/555420，， is a brief explanation
+[10:30.30] * SuchWow (~SuchWow@unaffiliated/suchwow) Quit (Quit: Changing server...)
+[10:31.43] <sd20> Stryyker: What about %APPDATA%?
+[10:32.02] <sd20> So there's both Program Files, Program Files (x86), ProgramData and %APPDATA%
+[10:32.05] <sd20> This is confusing.
+[10:32.07] * Stryyker (stryyker16@about/windows/staff/stryyker) Quit (Disconnected by services)
+[10:32.10] * cheeseboy (~fundies@unaffiliated/cheeseboy) has joined channel ##windows
+[10:32.11] * Includes08 (Includes08@unaffiliated/includes08) Quit (Read error: Connection reset by peer)
+[10:32.23] * stryyker2 (stryyker16@about/windows/staff/stryyker) has joined channel ##windows
+[10:32.27] <sd20> Also, why is there no %STARTUP%?
+[10:32.47] <stryyker2> did you get the link I pasted?
+[10:32.56] * Guest34679 (~Polo@cpe-174-110-168-051.carolina.res.rr.com) Quit ()
+[10:33.04] * SuchWow (~SuchWow@unaffiliated/suchwow) has joined channel ##windows
+[10:37.23] * sethj (~seth@c-24-17-37-205.hsd1.wa.comcast.net) has joined channel ##windows
+[10:37.30] * wethu (~egray@unaffiliated/wethu) has joined channel ##windows
+[10:39.36] * stryyker2 is now known as Stryyker
+[10:41.01] * LMNOP (~LMNOP@unaffiliated/ea08ba8f51) Quit (Ping timeout: 246 seconds)
+[10:43.30] <BytesAndCoffee> im tempted to install windows 10 a-la ＋＋http://imgs.xkcd.com/comics/the_staple_madness.png，，
+[10:44.09] * Type-21 (~type-21@unaffiliated/type-21) Quit (Quit: Auf Tauchstation)
+[10:44.10] * mcl0vin (~Mcl0vin@209.65.242.131) Quit (Ping timeout: 246 seconds)
+[10:48.54] * elow (~xterm@unaffiliated/elow) has joined channel ##windows
+[10:50.20] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) Quit (Quit: Leaving)
+[10:50.36] * LordWillO (~LordWillO@unaffiliated/lordwillo) has joined channel ##windows
+[10:51.32] * Deihmos_ (~Deihmos@ool-44c683c9.dyn.optonline.net) has joined channel ##windows
+[10:55.03] * ale46 (~ale46@2.237.242.245) Quit (Quit: WeeChat 1.1.1)
+[10:55.21] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 240 seconds)
+[10:55.47] * Da|wo (daiwo@unaffiliated/dawo/x-0202636) Quit (Remote host closed the connection)
+[10:55.54] * linux1000 (49227766@gateway/web/freenode/ip.73.34.119.102) Quit (Ping timeout: 246 seconds)
+[10:56.14] * Liebknecht (uid46333@gateway/web/irccloud.com/x-curnzgbocmmjkzly) Quit (Quit: Connection closed for inactivity)
+[10:59.35] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) Quit (Remote host closed the connection)
+[10:59.41] * ccallahan (~cyb0rg@hail.hydra.at.shield.academy) has left ##windows (("WeeChat 1.1.1"))
+[11:00.16] * ChanServ sets mode +o eir for ##windows
+[11:00.31] * eir sets mode -bo *!*@gateway/web/irccloud.com/x-unukxwbayttgucyz eir for ##windows
+[11:01.18] * LarchOye (~LarchOye@173-18-138-98.client.mchsi.com) has joined channel ##windows
+[11:03.11] * soulisson (~IceChat9@unaffiliated/soulisson) Quit (Ping timeout: 245 seconds)
+[11:04.19] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[11:04.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 252 seconds)
+[11:05.37] * soulisson (~IceChat9@41.251.58.22) has joined channel ##windows
+[11:07.33] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[11:08.01] * Windows94 (~Windows94@121-79-235-34.sta.inspire.net.nz) has joined channel ##windows
+[11:08.06] <Windows94> hello
+[11:08.39] <Windows94> I'm using an illegally downloaded copy of windows 7 ultimate.. but when i go to windows validation it says its legal, why is that?
+[11:08.51] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[11:09.07] * sethj (~seth@c-24-17-37-205.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+[11:09.20] <Aldem> Can't help you with illegal stuff
+[11:09.28] <Aldem> Against the channel rules
+[11:09.51] <Windows94> im not asking you to help me with illegal stuff
+[11:09.55] <Windows94> im just curious
+[11:10.01] * Tinfoilhat_ (~quassel@142.68.118.212) Quit (Read error: Connection reset by peer)
+[11:10.07] <Aldem> Still can't talk about it
+[11:10.47] * compdoc (~me@unaffiliated/compdoc) Quit ()
+[11:12.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[11:14.15] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##windows
+[11:14.21] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) Quit (Ping timeout: 255 seconds)
+[11:14.41] * Windows94 (~Windows94@121-79-235-34.sta.inspire.net.nz) Quit ()
+[11:17.28] * silv3r_m00n (~enlighten@122.163.34.240) has joined channel ##windows
+[11:17.44] <silv3r_m00n> hi there, a small question, is windows xp sp3 capable of using more than 1 processor core ?
+[11:19.07] * Shogun (~quassel@23-29-5-150.netptc.net) Quit (Read error: Connection reset by peer)
+[11:21.05] * kggr (~korggrodn@nat3-minsk-pool-46-53-182-73.telecom.by) Quit (Ping timeout: 252 seconds)
+[11:21.43] * BromeoAndCooliet (~BromeoAnd@pool-74-101-93-133.nycmny.fios.verizon.net) has joined channel ##windows
+[11:21.45] <BromeoAndCooliet> Hi!!!!!!!
+[11:22.12] <BromeoAndCooliet> What's a app that will allow me to take screenshot with a click and drag an box and auto paste the link in my clipboard
+[11:22.42] <Aldem> jshot, puush
+[11:24.39] * cldbeadctv (~chatzilla@124-149-28-144.dyn.iinet.net.au) Quit (Quit: ChatZilla 0.9.87-9.1450hg.fc21 [XULRunner 33.0/20141022152428])
+[11:25.54] * STalKer-X (stalker@unaffiliated/sothotalker) has joined channel ##windows
+[11:26.04] * Npoma (~Npoma@41.141.55.135) Quit (Remote host closed the connection)
+[11:26.57] * bigbadjudas (~666@pool-98-115-142-29.phlapa.fios.verizon.net) has joined channel ##windows
+[11:27.59] * STalKer-X_h (stalker@unaffiliated/sothotalker) Quit (Ping timeout: 265 seconds)
+[11:29.53] * peterrooney (~peter@S0106001ff341c9a8.gv.shawcable.net) has joined channel ##windows
+[11:32.38] * rupertbg (~Ru@210.54.34.107) has joined channel ##windows
+[11:34.27] * Techspectre (~daniel@ool-4572e6b2.dyn.optonline.net) Quit (Quit: Leaving)
+[11:34.58] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[11:35.05] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[11:41.29] <y0tta0> silvr - even NT4 could do that
+[11:45.00] <oeuvre> mmm NT4
+[11:49.04] * Nirvash (~Nirvash@c-68-57-118-153.hsd1.tn.comcast.net) Quit (Read error: Connection reset by peer)
+[11:49.28] * Nirvash (~Nirvash@c-68-57-118-153.hsd1.tn.comcast.net) has joined channel ##windows
+[11:54.27] * Linux1000 (49227766@gateway/web/freenode/ip.73.34.119.102) has joined channel ##windows
+[11:54.28] <Linux1000> sup
+[11:57.37] <alan`> Stryyker: hey sorry about that, its windows 7
+[11:57.41] * drale (~drale@unaffiliated/drale) has joined channel ##windows
+[11:58.38] * APerson_ (~APerson_@wikipedia/APerson) Quit (Remote host closed the connection)
+[11:59.09] <alan`> my dad brought home one of the retired work laptops, i ended up doing a registry edit to allow me to "upgrade" to windows professional from enterprise so i could use the key on the back w/o losing office etc from the machine, he went ahead and did 16 versions of bios updates and driver updates and when i woke up this morning to finish it it hangs at the windows 7 booting splash screen and when i boot into safe mode it hangs on classpnp.sys

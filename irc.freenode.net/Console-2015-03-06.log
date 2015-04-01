@@ -1,0 +1,192 @@
+Session Start: Fri Mar 06 04:21:03 2015
+[04:21.03] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (38.229.70.22) on port 6667
+[04:21.04] -irc.freenode.net- Sending User Registration Information
+[04:21.04] --card.freenode.net-- *** Looking up your hostname...
+[04:21.04] --card.freenode.net-- *** Checking Ident
+[04:21.04] --card.freenode.net-- *** Couldn't look up your hostname
+[04:21.10] --card.freenode.net-- *** No Ident response
+[04:21.10] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[04:21.10] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[04:21.10] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[04:21.10] -card.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[04:21.11] -card.freenode.net- Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.3
+[04:21.11] -card.freenode.net- This server was created Thu Sep 18 2014 at 18:48:25 UTC
+[04:21.11] -card.freenode.net- card.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[04:21.11] -card.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[04:21.11] -card.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[04:21.11] -card.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[04:21.11] -card.freenode.net- There are 167 users and 89798 invisible on 26 servers
+[04:21.11] -card.freenode.net- There are 24 IRC Operators online
+[04:21.11] -card.freenode.net- There are 4 unknown connection(s)
+[04:21.11] -card.freenode.net- There are 53178 channels formed
+[04:21.11] -card.freenode.net- I have 5963 clients and 1 servers
+[04:21.11] -card.freenode.net- Current local users 5963, max 8011
+[04:21.11] -card.freenode.net- Current global users 89965, max 101901
+[04:21.11] -card.freenode.net- Highest connection count: 8015 (8011 clients) (2701409 connections received)
+[04:21.12] -card.freenode.net- You have successfully connected to card.freenode.net
+[04:21.12] * Your mode is now +i
+[04:21.12] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[04:21.16] Rainb resolved to 181.50.196.58
+[04:21.18] *** card.freenode.net [freenode-info] why register and identify? your IRC nick is how people know you. ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[04:21.18] *** card.freenode.net [freenode-info] help freenode weed out clonebots -- please register your IRC nick and auto-identify: ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[04:21.19] --ChanServ-- [##economics] Hiya. Welcome to ##economics -- Freenode's channel based upon economic policy,basics,macro,micro,markets,trading & math in economics. Enjoy your stay ! Econbot makes stats @ ＋＋http://www.teralaser.net/economics/stats/，， but no public logs
+[04:21.19] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[04:21.19] --ChanServ-- [##physics] Don't ask to ask... ask!
+[04:21.19] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[04:21.19] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[04:21.19] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[04:22.32] --Sornaensis-- logged in with account (sornaensis)
+[04:26.12] --z0kk-- logged in with account (z0kk)
+[04:30.48] --Datahell-- logged in with account (Datahell)
+[04:30.51] --Tron84-- logged in with account (Tron84)
+[04:32.28] --permalac-- logged in with account (marcriera)
+[04:35.07] --darsie-- logged in with account (darsie)
+[04:35.14] --poona-- logged in with account (Poona)
+[04:40.21] --austeritysucks-- logged in with account (AusteritySucks)
+[04:42.13] --bluszcz-- logged in with account (bluszcz)
+[04:44.05] --Qladstone-- logged in with account (Qladstone)
+[04:45.25] --Dr-G-- logged in with account (Dr-G)
+[04:52.02] --Dr-G-- logged in with account (Dr-G)
+[04:57.50] --jackson-- logged in with account (jackson)
+[05:06.33] --nilg-- logged in with account (nilg)
+[05:12.47] --xarxer-- logged in with account (Xarxer)
+[05:13.28] --jackson-- logged in with account (jackson)
+[05:14.03] --tarkus-- logged in with account (tarkus)
+[05:14.21] --baum-- logged in with account (baum)
+[05:17.32] --Dr-G-- logged in with account (Dr-G)
+[05:27.32] --preschema-- logged in with account (preschema)
+[05:38.57] --bigbadjesus-- logged in with account (PSIDROME)
+[05:40.58] --hodgeclass-- logged in with account (hodgeclass)
+[05:43.25] --z0kk-- logged in with account (z0kk)
+[05:52.33] --Mia-- logged in with account (Mia)
+[05:59.27] --CvP-- logged in with account (CvP)
+[06:04.04] --eyvindandersen-- logged in with account (EyvindAndersen)
+[06:05.35] --Vutral-- logged in with account (Vutral)
+[06:11.01] --austeritysucks-- logged in with account (AusteritySucks)
+[06:12.53] --Alarm-- logged in with account (Alarm)
+[06:15.24] --The_Cat-- logged in with account (The_Cat)
+[06:18.28] --funch-- logged in with account (funch)
+[01:00.23] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[01:00.23] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.23] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.24] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.24] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.24] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.24] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[01:00.24] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[01:00.24] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[01:00.24] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[01:00.25] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.25] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.25] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.25] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.25] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.25] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.25] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.25] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.25] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.25] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[01:00.25] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[01:00.25] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[01:00.26] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[01:00.26] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[01:00.26] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.26] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[01:00.26] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.26] -irc.freenode.net- Sending User Registration Information
+[01:00.26] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[01:00.27] ERROR: Parameter name: asyncResult
+[01:00.27] -irc.freenode.net- Sending User Registration Information
+[01:00.27] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.27] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.27] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[01:00.28] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[01:00.28] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.28] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.28] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[01:00.28] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[01:00.28] ERROR: Parameter name: asyncResult
+[01:00.28] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.28] ERROR: Null Socket - Can not Connect
+[01:00.28] ERROR: Null Socket - Can not Connect
+[01:00.28] ERROR: Null Socket - Can not Connect
+[01:00.28] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[01:00.35] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[01:00.35] ERROR: Parameter name: asyncResult.
+[01:00.35] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.35] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.35] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[01:00.35] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.35] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (31.13.222.109) on port 6667
+[01:00.35] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[01:00.36] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[01:00.36] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[01:00.36] ERROR: Parameter name: asyncResult
+[01:00.36] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[01:00.36] ERROR: Null Socket - Can not Connect
+[01:00.36] ERROR: Null Socket - Can not Connect
+[07:52.30] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[07:52.30] -irc.freenode.net- Sending User Registration Information
+[07:52.30] --weber.freenode.net-- *** Looking up your hostname...
+[07:52.31] --weber.freenode.net-- *** Checking Ident
+[07:52.31] --weber.freenode.net-- *** Couldn't look up your hostname
+[07:52.41] --weber.freenode.net-- *** No Ident response
+[07:52.41] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[07:52.41] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[07:52.41] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[07:52.41] -weber.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[07:52.41] -weber.freenode.net- Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.3
+[07:52.41] -weber.freenode.net- This server was created Sun Jul 6 2014 at 19:37:14 BST
+[07:52.41] -weber.freenode.net- weber.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[07:52.42] -weber.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[07:52.42] -weber.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[07:52.42] -weber.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[07:52.42] -weber.freenode.net- There are 163 users and 86918 invisible on 26 servers
+[07:52.42] -weber.freenode.net- There are 24 IRC Operators online
+[07:52.42] -weber.freenode.net- There are 4 unknown connection(s)
+[07:52.42] -weber.freenode.net- There are 52953 channels formed
+[07:52.42] -weber.freenode.net- I have 4116 clients and 1 servers
+[07:52.42] -weber.freenode.net- Current local users 4116, max 11428
+[07:52.42] -weber.freenode.net- Current global users 87081, max 101901
+[07:52.42] -weber.freenode.net- Highest connection count: 11429 (11428 clients) (1204449 connections received)
+[07:52.42] -weber.freenode.net- You have successfully connected to weber.freenode.net
+[07:52.42] * Your mode is now +i
+[07:52.42] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[07:52.46] Rainb resolved to 181.50.196.58
+[07:52.47] *** weber.freenode.net [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: ＋＋http://freenode.net/faq.shtml#gettinghelp，，
+[07:52.49] --ChanServ-- [##economics] Hiya. Welcome to ##economics -- Freenode's channel based upon economic policy,basics,macro,micro,markets,trading & math in economics. Enjoy your stay ! Econbot makes stats @ ＋＋http://www.teralaser.net/economics/stats/，， but no public logs
+[07:52.49] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[07:52.49] --ChanServ-- [##physics] Don't ask to ask... ask!
+[07:52.49] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[07:52.49] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[07:52.49] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[07:56.13] --alpha-- logged in with account (alpha)
+[07:57.08] --dantarion-- logged in with account (dantarion)
+[08:01.13] --SP-15-- logged in with account (SP-15)
+[08:01.37] --blivande-- logged in with account (blivande)
+[08:02.59] --boB_K7IQ-- logged in with account (boB_K7IQ)
+[08:03.34] --alpha-- logged in with account (alpha)
+[08:03.48] --Rollabunna-- logged in with account (Rollabunna)
+[08:07.30] Error:AppendText:Number was less than the array's lower bound in the first dimension. Parameter name: srcIndex:   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)    at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)    at IceChat.TextWindow.AddText(String newLine, Int32 color, String newTimeStamp)
+[09:34.56] *** weber.freenode.net [freenode-info] why register and identify? your IRC nick is how people know you. ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[09:48.27] --bocard-- logged in with account (bocard)
+[09:49.25] --dantarion-- logged in with account (dantarion)
+[09:49.49] --blivande-- logged in with account (blivande)
+[09:51.21] --Yottabyte-- logged in with account (YottaByte)
+[10:05.50] --threefourme-- logged in with account (threefourme)
+[10:12.29] --DoweedhYaa3qob-- logged in with account (DoweedhYaAgob)
+[10:17.33] Error:AppendText:Number was less than the array's lower bound in the first dimension. Parameter name: srcIndex:   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)    at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)    at IceChat.TextWindow.AddText(String newLine, Int32 color, String newTimeStamp)
+[10:17.54] --hapticFeels-- logged in with account (hapticFeels)
+[10:17.59] --fran-- logged in with account (fcrCell)
+[10:18.28] --apoasdasdasd-- logged in with account (apoplexy)

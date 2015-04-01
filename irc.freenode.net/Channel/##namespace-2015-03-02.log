@@ -1,0 +1,104 @@
+Session Start: Mon Mar 02 12:02:24 2015
+Session Ident: ##namespace
+[12:02.24] * SpicSpackSpock (a81cb41e@gateway/web/cgi-irc/kiwiirc.com/ip.168.28.180.30) has joined channel ##namespace
+[12:04.05] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 256 seconds)
+[12:04.53] * bkparso (~brandon@S0106907240086f8b.cg.shawcable.net) has joined channel ##namespace
+[12:05.24] * bkparso (~brandon@S0106907240086f8b.cg.shawcable.net) has left ##namespace ()
+[12:06.31] * Mati_ (~mati@67.176.149.104) has joined channel ##namespace
+[12:18.33] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##namespace
+[12:24.15] * oleo (~oleo@unaffiliated/oleo) has joined channel ##namespace
+[12:24.21] * oleo (~oleo@unaffiliated/oleo) has left ##namespace ()
+[12:24.23] * frzn (~quassel@unaffiliated/fr0zen) Quit (Ping timeout: 264 seconds)
+[12:24.31] * oleo (~oleo@unaffiliated/oleo) has joined channel ##namespace
+[12:24.42] * oleo (~oleo@unaffiliated/oleo) has left ##namespace ()
+[12:29.18] * Hijackal (~Hijackal@HSI-KBW-149-172-53-38.hsi13.kabel-badenwuerttemberg.de) has joined channel ##namespace
+[12:29.21] * jords (~jords@114.23.248.189) has joined channel ##namespace
+[12:29.53] * simion314 (~quassel@109.97.244.202) has joined channel ##namespace
+[12:33.47] * yfeldblu_ (~yfeldblum@2620:10d:c081:1100::1259) Quit (Read error: Connection reset by peer)
+[12:34.25] * yfeldblum (~yfeldblum@c-50-143-143-37.hsd1.ca.comcast.net) has joined channel ##namespace
+[12:37.04] * jack_rabbit (~jack_rabb@c-50-148-112-117.hsd1.il.comcast.net) has joined channel ##namespace
+[12:41.01] * redcode (~redcode@73.212.121.158) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:42.50] * sbellina (~sbellina@66.29.187.55.static.utbb.net) has joined channel ##namespace
+[12:44.34] * Mati_ (~mati@67.176.149.104) Quit (Remote host closed the connection)
+[12:45.42] * Jerryjiggler (~jerryjigg@cpe-74-67-8-191.nycap.res.rr.com) Quit (Ping timeout: 255 seconds)
+[12:47.33] * bitenite (46ae9a0e@gateway/web/freenode/ip.70.174.154.14) has joined channel ##namespace
+[12:48.02] * bitenite (46ae9a0e@gateway/web/freenode/ip.70.174.154.14) Quit (Client Quit)
+[12:51.34] * x1337807x (~x1337807x@c-76-115-7-194.hsd1.or.comcast.net) Quit (Ping timeout: 264 seconds)
+[12:52.33] * x1337807x (~x1337807x@c-76-115-7-194.hsd1.or.comcast.net) has joined channel ##namespace
+[12:56.25] * Hijackal (~Hijackal@HSI-KBW-149-172-53-38.hsi13.kabel-badenwuerttemberg.de) Quit (Ping timeout: 250 seconds)
+[12:56.34] * rbowlby (~rbowlby@2601:8:ae80:ae9:24fa:5d42:f71:9acb) has joined channel ##namespace
+[12:58.23] * fergus (~sergei@mail.55h.by) has joined channel ##namespace
+[12:59.59] * rails106 (73735d14@gateway/web/freenode/ip.115.115.93.20) has joined channel ##namespace
+[01:00.09] * rails106 (73735d14@gateway/web/freenode/ip.115.115.93.20) Quit (Client Quit)
+[01:01.24] * Jadex1 (4b8e71c8@gateway/web/freenode/ip.75.142.113.200) has joined channel ##namespace
+[01:05.37] * Jadex1 (4b8e71c8@gateway/web/freenode/ip.75.142.113.200) Quit (Client Quit)
+[01:08.12] * baba123g (~baba123g@177.225.179.75) has joined channel ##namespace
+[01:08.21] * ProjectRevoTPP (~quassel@unaffiliated/twitch-plays-pbr/x-9644567) Quit (Quit: i quit my job)
+[01:11.45] * baba123g (~baba123g@177.225.179.75) has left ##namespace ()
+[01:11.50] * celesgibbos (~Ixi@2600:1014:b12c:c3e8::103) has joined channel ##namespace
+[01:12.00] * celesgibbos (~Ixi@2600:1014:b12c:c3e8::103) has left ##namespace ()
+[01:15.21] * Guest49645 (~nhina.ala@139.228.225.152) has joined channel ##namespace
+[01:16.39] * Guest49645 is now known as nha_nha
+[01:16.39] * nha_nha (~nhina.ala@139.228.225.152) Quit (Client Quit)
+[01:16.57] * Guest49645 (~nhina.ala@139.228.225.152) has joined channel ##namespace
+[01:17.00] * Guest49645 is now known as nha_nha
+[01:17.17] * nha_nha (~nhina.ala@139.228.225.152) has left ##namespace ()
+[01:22.39] * bedeho (~bedeho@195.159.234.190) has joined channel ##namespace
+[01:22.49] * bedeho (~bedeho@195.159.234.190) has left ##namespace ()
+[01:23.20] * Astarte (~revelatio@ool-43523897.dyn.optonline.net) Quit ()
+[01:27.41] * Hijackal (~Hijackal@HSI-KBW-149-172-53-38.hsi13.kabel-badenwuerttemberg.de) has joined channel ##namespace
+[01:30.23] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) has joined channel ##namespace
+[01:36.39] * cellar_floor (c7bd5927@gateway/web/cgi-irc/kiwiirc.com/ip.199.189.89.39) has joined channel ##namespace
+[01:46.30] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) Quit (Quit: thirdknife)
+[01:46.51] * Hijackal (~Hijackal@HSI-KBW-149-172-53-38.hsi13.kabel-badenwuerttemberg.de) Quit (Ping timeout: 240 seconds)
+[01:52.58] * rbowlby (~rbowlby@2601:8:ae80:ae9:24fa:5d42:f71:9acb) Quit (Remote host closed the connection)
+[01:55.09] * cellar_floor (c7bd5927@gateway/web/cgi-irc/kiwiirc.com/ip.199.189.89.39) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[02:02.03] * lonefighter (6c266f87@gateway/web/cgi-irc/kiwiirc.com/ip.108.38.111.135) has joined channel ##namespace
+[02:02.11] * bizarro_1 (~bizarro_1@136.Red-83-58-148.dynamicIP.rima-tde.net) Quit (Read error: Connection reset by peer)
+[02:04.31] * x1337807x (~x1337807x@c-76-115-7-194.hsd1.or.comcast.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[02:04.42] * lonefighter (6c266f87@gateway/web/cgi-irc/kiwiirc.com/ip.108.38.111.135) Quit (Client Quit)
+[02:10.38] * sidv is now known as zz_sidv
+[02:12.39] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) has joined channel ##namespace
+[02:15.16] * JoyinDespair (uid32977@gateway/web/irccloud.com/x-nzjitgxatcjpqses) Quit (Quit: Connection closed for inactivity)
+[02:24.45] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) Quit (Quit: thirdknife)
+[02:25.18] * rbowlby (~rbowlby@2601:8:ae80:ae9:a809:b252:6fcb:d03) has joined channel ##namespace
+[02:35.52] * jords (~jords@114.23.248.189) Quit (Ping timeout: 244 seconds)
+[02:36.02] * Haudegen (~quassel@85.124.51.57) Quit (Ping timeout: 245 seconds)
+[02:37.54] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Quit: Be back later ...)
+[02:38.32] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) has joined channel ##namespace
+[02:40.53] * Haudegen (~quassel@85.124.51.57) has joined channel ##namespace
+[02:43.10] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[02:51.41] * Q3A (~Macaura@cpe-104-174-189-195.socal.res.rr.com) Quit (Quit: Q3A)
+[02:55.47] * Trep (~jeff@c-67-171-2-1.hsd1.wa.comcast.net) Quit (Ping timeout: 252 seconds)
+[02:59.48] * petaflops (trance@petaflops.yt) has joined channel ##namespace
+[03:00.12] * petaflops (trance@petaflops.yt) has left ##namespace ()
+[03:09.17] * kb3ien (~kb3ien@2001:470:8ab5:4:3ce2:624:ece8:bb0f) Quit (Ping timeout: 250 seconds)
+[03:13.29] * MeaCoder (~mostafazc@5.222.130.50) has joined channel ##namespace
+[03:14.52] * MeaCoder (~mostafazc@5.222.130.50) has left ##namespace ()
+[03:17.16] * bl1nk_ (~bl1nk@node-787.pool-125-27.dynamic.totbb.net) Quit (Ping timeout: 250 seconds)
+[03:20.43] * zen1 (~zen1@unaffiliated/zen1) has joined channel ##namespace
+[03:20.55] * zen1 (~zen1@unaffiliated/zen1) has left ##namespace ()
+[03:29.15] * WolfenEye (~WolfenEye@5249ED1F.cm-4-2d.dynamic.ziggo.nl) has joined channel ##namespace
+[03:29.38] * WolfenEye (~WolfenEye@5249ED1F.cm-4-2d.dynamic.ziggo.nl) has left ##namespace ()
+[03:31.32] * Hounddog (~quassel@208.118.6.84.rev.sfr.net) has joined channel ##namespace
+[03:35.38] * SpicSpackSpock (a81cb41e@gateway/web/cgi-irc/kiwiirc.com/ip.168.28.180.30) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[03:35.56] * osfe (~lemaire@pc-91048.lal.in2p3.fr) has joined channel ##namespace
+[03:44.04] * tixz (~tixz@152.115.92.18) has joined channel ##namespace
+[03:47.58] * sbellina (~sbellina@66.29.187.55.static.utbb.net) Quit (Ping timeout: 246 seconds)
+[03:49.59] * sbellina (~sbellina@66.29.187.51.static.utbb.net) has joined channel ##namespace
+[03:54.08] * QC|Moto (~QuietlyCo@92.40.248.143.threembb.co.uk) has joined channel ##namespace
+[03:54.18] * QC|Moto (~QuietlyCo@92.40.248.143.threembb.co.uk) has left ##namespace ()
+[03:55.17] * WolfenEye (~WolfenEye@5249ED1F.cm-4-2d.dynamic.ziggo.nl) has joined channel ##namespace
+[03:55.44] * WolfenEye (~WolfenEye@5249ED1F.cm-4-2d.dynamic.ziggo.nl) has left ##namespace ()
+[03:57.55] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) has joined channel ##namespace
+[04:01.41] * rbowlby (~rbowlby@2601:8:ae80:ae9:a809:b252:6fcb:d03) Quit (Remote host closed the connection)
+[04:06.39] * yfeldblu_ (~yfeldblum@2620:10d:c081:1100::122b) has joined channel ##namespace
+[04:09.59] * yfeldblum (~yfeldblum@c-50-143-143-37.hsd1.ca.comcast.net) Quit (Ping timeout: 255 seconds)
+[04:10.08] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) Quit (Quit: thirdknife)
+[04:10.29] * thirdknife (~thirdknif@isbqau-fw-01-fwl1.qau.edu.pk) has joined channel ##namespace
+[04:13.33] * MadHatter42 (~MadHatter@unaffiliated/madhatter42) has joined channel ##namespace
+[04:21.36] * gigo1980_____ (~gigo1980@p54854862.dip0.t-ipconnect.de) Quit (Quit: Be back later ...)
+[04:28.34] * jack_rabbit (~jack_rabb@c-50-148-112-117.hsd1.il.comcast.net) Quit (Ping timeout: 246 seconds)
+[04:30.50] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 256 seconds)
+[04:33.44] * Guest12130_ (uid49748@gateway/web/irccloud.com/x-klojkwlsmikmcymf) has joined channel ##namespace
+[05:19.52] *** Server disconnected on irc.freenode.net

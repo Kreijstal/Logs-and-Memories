@@ -1,0 +1,106 @@
+Session Start: Fri Feb 13 10:59:42 2015
+Session Ident: ##math
+[10:59.42] * You have joined ##math
+[10:59.42] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[10:59.42] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[10:59.42] Channel modes for ##math are :+Ccnt
+[10:59.42] Channel Created on: 8:42 PM 1/29/2010
+[11:02.30] * josefig_ (~josefig@177.228.160.120) has joined channel ##math
+[11:03.30] * Karisik (~NuXiL@bas2-montreal33-1176357570.dsl.bell.ca) Quit ()
+[11:05.23] * josefig (~josefig@177.228.165.230) Quit (Ping timeout: 245 seconds)
+[11:06.18] * BlueScreenMama (~BlueScree@d75-154-83-165.abhsia.telus.net) has joined channel ##math
+[11:06.43] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[11:07.39] * mofai (~quassel@210.186.243.183) Quit (Remote host closed the connection)
+[11:07.41] * QuantumP7 (~QuantumP7@h84.180.18.98.dynamic.ip.windstream.net) Quit ()
+[11:09.32] * Manyfold (~nobody@unaffiliated/manyfold) Quit (Quit: Konversation terminated!)
+[11:10.02] * sonicsea (~chatzilla@05406bd6.skybroadband.com) Quit (Ping timeout: 244 seconds)
+[11:12.26] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##math
+[11:14.10] <Pluto> MotivicScones Hi. Why there are some proofs that are not computations ? Can you elaborate and tell me more about the kinds of proofs that are not computations ? How can we tell them apart ?
+[11:14.45] <wagonboi> is it valid if I split integral (sinx - cosx) to -cosx from pi/2 to 0 MINUS sinx evaulated from pi/2 to 0
+[11:14.48] <Rainb> proofs that are not computed?
+[11:15.00] <Rainb> like those who stem from logic and definition
+[11:15.28] * Emugel (~Emugel@124.78.92.175) Quit (Remote host closed the connection)
+[11:15.30] <Pluto> dunno has sth to do with intuitionstic logic
+[11:15.42] <Pluto> its a deep topic Rainb
+[11:15.52] <Rainb> 2deep4me
+[11:16.29] * ref^ (ref@unaffiliated/ref/x-9555909) Quit ()
+[11:16.44] * mofai (~quassel@210.186.243.183) has joined channel ##math
+[11:17.24] <manymanywolves> Pluto: i suppose you've looked at curry-howard-lambek, right?
+[11:17.47] * thoolihan (~thoolihan@cpe-71-74-131-139.neo.res.rr.com) Quit (Ping timeout: 244 seconds)
+[11:18.39] * Cirus (~Cirus@2601:9:80:101c:e841:672:584e:7ab) has joined channel ##math
+[11:18.44] * Capso (~capso@c-50-174-195-245.hsd1.ca.comcast.net) Quit (Remote host closed the connection)
+[11:19.03] <Pluto> yes but still a bit confused
+[11:19.33] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) has joined channel ##math
+[11:20.48] * shikhin_ (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[11:22.41] * bgamari_ (~bgamari@2001:470:e438::1) Quit (Ping timeout: 265 seconds)
+[11:22.43] * WHATTHEHELL (~WHATTHEHE@97-101-138-146.res.bhn.net) Quit (Ping timeout: 252 seconds)
+[11:23.13] * spudzee1111 (~spudzee11@12.7.32.3) has joined channel ##math
+[11:23.39] * bgamari (~bgamari@2001:470:e438::1) Quit (Ping timeout: 265 seconds)
+[11:24.49] <drazak> Pluto: non-constructive proofs
+[11:24.57] <drazak> where there is no witness
+[11:26.30] * gemurdock (~gemurdock@24.53.68.45) has joined channel ##math
+[11:27.04] <quintopia> hello drazak
+[11:27.28] * thoolihan (~thoolihan@cpe-76-190-209-136.neo.res.rr.com) has joined channel ##math
+[11:27.33] * frivol (~frivol@unaffiliated/flippo) Quit (Quit: Reality reasserts itself sooner or later.)
+[11:27.51] * Agent_Smith1 (~dan@68-184-220-249.dhcp.stls.mo.charter.com) Quit (Quit: WeeChat 0.4.2)
+[11:27.58] * BlueScreenMama (~BlueScree@d75-154-83-165.abhsia.telus.net) Quit (Quit: Leaving)
+[11:30.55] * Noldorin (~noldorin@unaffiliated/noldorin) Quit (Quit: –)
+[11:31.21] * mrcheeks (~user@CPE0c473de64fd1-CM0c473de64fd0.cpe.net.cable.rogers.com) Quit (Quit: ERC (IRC client for Emacs 25.0.50.1))
+[11:31.24] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Remote host closed the connection)
+[11:31.25] * IAmTheTelephone (4751c864@gateway/web/freenode/ip.71.81.200.100) has joined channel ##math
+[11:31.32] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) Quit (Remote host closed the connection)
+[11:32.21] * episplit (~emily@c-50-134-162-89.hsd1.co.comcast.net) has joined channel ##math
+[11:32.56] * radflatearther (44393dd9@gateway/web/cgi-irc/kiwiirc.com/ip.68.57.61.217) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[11:36.34] * graham666 (~schmity@75-172-78-192.tukw.qwest.net) has joined channel ##math
+[11:37.59] <drazak> quintopia: heyoo
+[11:38.35] * bigbadjesus (~666@unaffiliated/psidrome) has joined channel ##math
+[11:38.49] * josefig_ (~josefig@177.228.160.120) Quit ()
+[11:38.59] * bigbadjudas (~666@pool-108-16-8-95.phlapa.fios.verizon.net) Quit (Ping timeout: 250 seconds)
+[11:39.36] * Kingsquee (~kingsley@d154-20-148-78.bchsia.telus.net) has joined channel ##math
+[11:39.40] * kalimaya (~kusanagi@pool-173-52-83-140.nycmny.fios.verizon.net) has joined channel ##math
+[11:40.10] * kalimaya is now known as Guest57039
+[11:40.34] * Yottabyte (~Yottabyte@unaffiliated/yottabyte) Quit ()
+[11:40.34] * KAO_ (~JiaQi@c-76-102-96-35.hsd1.ca.comcast.net) has joined channel ##math
+[11:41.32] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[11:43.22] * schleppel (~quassel@141.39.226.237) has joined channel ##math
+[11:44.24] * anonnumberanon (~anonnumbe@unaffiliated/anonnumberanon) has joined channel ##math
+[11:44.30] * ZShurp (~ZShurp@c-73-163-128-3.hsd1.de.comcast.net) Quit ()
+[11:44.50] * Vornicus (~vorn@c-76-19-15-99.hsd1.ct.comcast.net) Quit (Quit: Leaving)
+[11:44.55] * KAO_ (~JiaQi@c-76-102-96-35.hsd1.ca.comcast.net) Quit (Ping timeout: 252 seconds)
+[11:46.16] * Topsy__ (~666@69-46-6-105.static.hvvc.us) has joined channel ##math
+[11:46.33] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[11:47.50] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[11:48.00] * Mekanik (~vov314156@c-24-16-99-74.hsd1.wa.comcast.net) has joined channel ##math
+[11:48.24] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) Quit (Read error: Connection reset by peer)
+[11:48.45] * tac_ (~tac-tics@c-50-172-59-90.hsd1.il.comcast.net) has joined channel ##math
+[11:50.02] * otto_s (~user@cotb-d9335edc.pool.mediaWays.net) has joined channel ##math
+[11:50.05] * bigbadjesus (~666@unaffiliated/psidrome) Quit (Ping timeout: 264 seconds)
+[11:50.57] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[11:50.58] <lavender> does anyone have an acutal example of a cartier divisor?
+[11:51.07] * gmcastil (~user@ip-64-134-157-8.public.wayport.net) Quit (Ping timeout: 245 seconds)
+[11:52.03] * struktured (~carm@2604:2000:dd21:3e00:84af:c0d3:5250:55d) has joined channel ##math
+[11:52.43] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) has joined channel ##math
+[11:53.31] * otto_s_ (~user@cotb-d9335a31.pool.mediaways.net) Quit (Ping timeout: 255 seconds)
+[11:53.38] * PatrickRobotham (uid18270@gateway/web/irccloud.com/x-xfddplxccoswmvky) has joined channel ##math
+[11:54.14] <drazak> Pluto: for instance, the proof of the existence of non-algebraic numbers is non-costructive, and doesn't involve a real calculation
+[11:54.27] <drazak> you could maybe call the cardinal logic a calculation? I dunno
+[11:55.57] <tac_> drazak: I'm not sure about that
+[11:56.05] <tac_> pi is constructively non-algebraic, isn't it?
+[11:56.14] * duckrabbit (~duckrabbi@128.54.182.252) has joined channel ##math
+[11:56.21] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Quit: Leaving)
+[11:56.56] <drazak> tac_: yes, but the traditional proof from, say, rudin (excercise 11 in chapter 1 I think? maybe chapter 2?) is non-constructive and does not involve a calculation
+[11:57.10] <tac_> is it now
+[11:57.28] <tac_> How does it fail to be constructive?
+[11:57.42] * Kingsquee (~kingsley@d154-20-148-78.bchsia.telus.net) Quit (Remote host closed the connection)
+[11:57.45] <drazak> not of pi, of the existence of non-algebraic numbers
+[11:58.12] <tac_> I mean what fails to be constructive about it
+[11:58.14] <tac_> the proof
+[11:58.31] <drazak> there is no non-algebraic witness
+[11:58.37] <drazak> your argument is all cardinality
+[11:59.10] <drazak> using that since the coefficients are integers you only have countably many possible algebraic numbers
+[11:59.18] <tac_> ah
+[11:59.22] <drazak> and since the reals are uncountable there must exist numbers that are not-algebraic
+[11:59.38] * Romin (~Romin@97-88-251-202.static.mdsn.wi.charter.com) has joined channel ##math
+[11:59.42] <tac_> Yes, that mere cardinality argument isn't constructive
+[11:59.53] <drazak> yes
+[11:59.59] * graham666 (~schmity@75-172-78-192.tukw.qwest.net) Quit (Quit: Computer has gone to sleep.)

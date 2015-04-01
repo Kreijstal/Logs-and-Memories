@@ -1,0 +1,420 @@
+Session Start: Fri Feb 27 05:16:21 2015
+Session Ident: ##math
+[05:16.21] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[05:16.27] Rainb resolved to 181.50.196.58
+[05:16.27] * You have joined ##math
+[05:16.27] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[05:16.27] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[05:16.28] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[05:16.28] --ChanServ-- [##physics] Don't ask to ask... ask!
+[05:16.28] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[05:16.28] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[05:16.28] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[05:16.28] Channel modes for ##math are :+Ccnt
+[05:16.28] Channel Created on: 8:42 PM 1/29/2010
+[05:17.12] * micronesia_x (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:17.30] * Sudsey (7a6ce102@gateway/web/freenode/ip.122.108.225.2) Quit (Quit: Page closed)
+[05:18.36] * micronesia_q (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:18.42] <Rainb> Can this be a function? ＋＋http://www.wolframalpha.com/input/?i=%2815-15%2F60w%29%2B%2810-10%2F20z%29+and+w%2Bz%3Dx，，
+[05:18.52] * assia_t (~assia_t@201.81.171.153) has joined channel ##math
+[05:19.10] <Rainb> like a nested function in x and in w or z
+[05:19.44] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 264 seconds)
+[05:20.47] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[05:20.57] <lyxia> atomicalloy: I clearly think about and define what I'm counting in terms of combinatorial strucutres. A handshake is determined by two people, 1) can they be the same? no. 2) does it make sense for one person to be before the other? no. Hence we are counting (unordered) pairs of people, i.e. combinations of 2 people among 24.
+[05:21.23] <lyxia> atomicalloy: 24C2 = 24*23/2
+[05:22.19] * paulp_000 (~quassel@2.94.177.119) has joined channel ##math
+[05:22.25] * Mia (~Mia@unaffiliated/mia) has joined channel ##math
+[05:23.15] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:24.10] * paulp_000_ (~quassel@176.15.138.132) Quit (Ping timeout: 250 seconds)
+[05:25.12] * micronesia_q (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 250 seconds)
+[05:26.34] * z0kk (~textual@101.50.89.74) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[05:26.54] * przl (~przlrkt@p4FC30F30.dip0.t-ipconnect.de) has joined channel ##math
+[05:26.55] * micronesia_i (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:27.58] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:28.31] <atomicalloy> lyxia, I suck at combinatorics lol
+[05:28.39] <atomicalloy> I even find differential equations easier
+[05:28.47] * assia_t (~assia_t@201.81.171.153) Quit (Remote host closed the connection)
+[05:29.03] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[05:29.17] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[05:30.19] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:31.32] * micronesia_i (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 250 seconds)
+[05:31.43] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Ping timeout: 272 seconds)
+[05:33.35] * micronesia_t (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:33.42] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 255 seconds)
+[05:34.40] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 252 seconds)
+[05:34.53] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) Quit (Ping timeout: 272 seconds)
+[05:35.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[05:35.21] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[05:36.28] * sacho (~hecatonic@176-12-62-113.pon.spectrumnet.bg) Quit (Quit: Leaving)
+[05:36.44] * micronesia (~acg@gateway/vpn/privateinternetaccess/acg) has joined channel ##math
+[05:38.10] * micronesia_t (~acg@gateway/vpn/privateinternetaccess/acg) Quit (Ping timeout: 256 seconds)
+[05:39.48] * vocodork (~vocoder@d54C495F4.access.telenet.be) has joined channel ##math
+[05:40.33] * paulp_000_ (~quassel@78-106-31-103.broadband.corbina.ru) has joined channel ##math
+[05:41.06] * rooferdave (~rooferdav@174-150-10-154.pools.spcsdns.net) Quit (Ping timeout: 265 seconds)
+[05:42.34] * paulp_000 (~quassel@2.94.177.119) Quit (Ping timeout: 252 seconds)
+[05:43.50] * cynicalcats (~cynicalca@c-73-14-74-68.hsd1.co.comcast.net) has joined channel ##math
+[05:45.32] * busmart (~n01dable@108-237-242-120.lightspeed.frokca.sbcglobal.net) Quit (Ping timeout: 264 seconds)
+[05:46.05] * disorder20 (~m3l720@95.233.179.11) has joined channel ##math
+[05:46.13] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) has joined channel ##math
+[05:47.19] * tomnewma_ (~tomnewman@137.205.238.124) Quit (Read error: Connection reset by peer)
+[05:47.33] * tomnewmann (~tomnewman@137.205.238.124) has joined channel ##math
+[05:48.41] <atomicalloy> lyxia: Can I use this technique of putting the total factorial number of say letters at top and factorial the repeated letters and put them at the bottom. Will this help everytime?
+[05:48.45] --Vutral-- logged in with account (Vutral)
+[05:49.00] * busmart (~n01dable@108-237-242-120.lightspeed.frokca.sbcglobal.net) has joined channel ##math
+[05:49.55] * joerisamson (~joerisams@94-225-152-16.access.telenet.be) has joined channel ##math
+[05:49.59] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[05:51.10] * a3f (~a3f@2a02:810d:8a40:2e50:759a:44f1:5ac4:bc9a) has joined channel ##math
+[05:51.14] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[05:52.14] * paulp_000 (~quassel@78-106-31-6.broadband.corbina.ru) has joined channel ##math
+[05:53.04] <lyxia> It certainly won't help if there are no letters in the problem...
+[05:53.42] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[05:54.15] * norkle (~norkle@unaffiliated/norkle) has joined channel ##math
+[05:54.18] * paulp_000_ (~quassel@78-106-31-103.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[05:54.56] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 250 seconds)
+[05:56.12] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 264 seconds)
+[05:56.13] * paulp_000_ (~quassel@95-31-169-162.broadband.corbina.ru) has joined channel ##math
+[05:57.50] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[05:57.58] * paulp_000 (~quassel@78-106-31-6.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[05:58.00] * leeN (~leeN@fhffm1247.nat.fh-frankfurt.de) Quit (Ping timeout: 256 seconds)
+[05:58.58] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[06:00.03] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[06:00.25] * kexmex (~kexmex@178.136.234.6) Quit (Quit: Computer has gone to sleep.)
+[06:01.08] * paulp_000 (~quassel@2.94.177.223) has joined channel ##math
+[06:01.16] * paulp_000_ (~quassel@95-31-169-162.broadband.corbina.ru) Quit (Ping timeout: 252 seconds)
+[06:01.21] * wicope (~wicope@110.Red-83-56-180.dynamicIP.rima-tde.net) has joined channel ##math
+[06:02.04] * rooferdave (~rooferdav@174.150.10.154) has joined channel ##math
+[06:03.06] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 256 seconds)
+[06:04.46] * govg (~govg@unaffiliated/govg) Quit (Ping timeout: 244 seconds)
+[06:05.28] <Rainb> How to make a PPF curve with 2 lines
+[06:06.02] <Rainb> or.. two line equations
+[06:07.32] * austeritysucks (~AS@stud-140.sdu.dk) has joined channel ##math
+[06:07.32] * austeritysucks (~AS@stud-140.sdu.dk) Quit (Changing host)
+[06:07.32] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[06:08.52] * edlinde (~ed@dslb-088-075-044-043.088.075.pools.vodafone-ip.de) has joined channel ##math
+[06:09.22] * sure (~gregeger@unaffiliated/sure) Quit (Ping timeout: 240 seconds)
+[06:09.25] * thered (~redjuggle@95.Red-81-32-80.dynamicIP.rima-tde.net) has joined channel ##math
+[06:09.29] * sure (~gregeger@unaffiliated/sure) has joined channel ##math
+[06:09.36] * schleppel (~quassel@141.39.226.237) has joined channel ##math
+[06:10.14] * andersonc0d3 (~andersonc@unaffiliated/andersonc0d3) has joined channel ##math
+[06:10.20] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[06:11.43] * leeN (~leeN@194.95.89.151) has joined channel ##math
+[06:13.06] * ess_tee_u (~NULL@unaffiliated/ess-tee-u/x-83456671) has joined channel ##math
+[06:14.50] * Thooms (~thooms@salle106.atilla.org) has joined channel ##math
+[06:15.02] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Ping timeout: 250 seconds)
+[06:15.27] <edlinde> P(x,y|H) = P(x|y,H)P(y|H) = P(y|x,H)P(x|H).
+[06:15.34] * torpet (~torpet@193-83-28-103.adsl.highway.telekom.at) has joined channel ##math
+[06:15.43] <edlinde> can someone help me understand this probability formula
+[06:15.55] <edlinde> How do I read this term? P(x,y|H)
+[06:16.20] <edlinde> is it the joint probablity of x and y, both conditioned on H?
+[06:16.56] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[06:17.01] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[06:17.01] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[06:17.01] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[06:17.14] <g0th> x and y both conditioned on H yes
+[06:17.25] <edlinde> ok
+[06:17.34] * SZero (~Chris@131.204.254.73) has joined channel ##math
+[06:17.59] <edlinde> so can this be like  P(a|b) where a = x,y and b = H ?
+[06:18.13] <g0th> P(x and y happens given H happened) = P(x happened given y and H happened) * P(y happened given H happened)
+[06:18.25] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 264 seconds)
+[06:18.25] * ZysFryar is now known as ZystemFryar
+[06:19.25] <g0th> for simplicity first consider the trivial case (H always happens)
+[06:19.25] <edlinde> g0th: ok then how does the chain rule apply there?
+[06:19.29] <g0th> P(x and y) = P(x)*P(y)
+[06:19.55] <g0th> well you need some assumptions on x,y like independce
+[06:19.55] <g0th> etc
+[06:20.08] <g0th> all of this is like 15 years back for me
+[06:20.18] <g0th> hmm or 10
+[06:20.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[06:20.32] <edlinde> yeah I get that
+[06:20.40] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[06:20.45] <edlinde> what I am not seeing is how they applied the chain rule
+[06:20.52] <g0th> otherwise take y=x and you see the error
+[06:21.08] <edlinde> since the chain rule works on  things like P(a,b,c,…) joint probabilities
+[06:21.29] * Rollabunna (~Rollabunn@236.109.69.86.rev.sfr.net) Quit (Ping timeout: 245 seconds)
+[06:21.34] <g0th> no?
+[06:21.37] <g0th> it's right there
+[06:22.10] * wicope (~wicope@110.Red-83-56-180.dynamicIP.rima-tde.net) Quit (Read error: Connection reset by peer)
+[06:22.15] <g0th> they use it to shift y around
+[06:23.06] * wicope (~wicope@110.Red-83-56-180.dynamicIP.rima-tde.net) has joined channel ##math
+[06:23.08] <g0th> hint: if you want to understand all of this I strongly suggest you think of x,y,H,etc as 2 dimensional regions
+[06:23.18] <edlinde> ＋＋http://en.wikipedia.org/wiki/Chain_rule_%28probability%29，，
+[06:23.26] <edlinde> I am looking at this for the chain rule ^^
+[06:24.04] <g0th> yeah P(x,y)=P(x|y)*P(y)
+[06:24.41] * zz_ezio is now known as ezio
+[06:24.44] <g0th> the remark about independence was for my formula above
+[06:24.55] <g0th> if you write it the way just know that looks ok in general
+[06:25.06] <g0th> that's the most basic chain rul
+[06:25.12] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[06:25.33] <edlinde> yeah but from that basic chain rule you just wrote out.. how do I apply that to the original equation?
+[06:25.55] <g0th> well if you think about it in terms of regions and intersections
+[06:26.01] <g0th> its pretty clear
+[06:26.15] * paulp_000_ (~quassel@128-73-242-172.broadband.corbina.ru) has joined channel ##math
+[06:26.15] <edlinde> from  P(x,y)=P(x|y)*P(y)   can you generalise it to say —> P(x,y|H) = P(x|y,H)P(y|H) = P(y|x,H)P(x|H) ?
+[06:26.53] <edlinde> g0th: I can see that x,y is the intersection.. but what is x|y in terms of regions? :)
+[06:27.01] <g0th> that's what was written above
+[06:27.28] <g0th> x,y are intersecting discs
+[06:27.44] <edlinde> ok.. then
+[06:28.17] <g0th> x|y would mean the area of x intersected with y in relation to the area of the outside of x intersected with y
+[06:28.24] * paulp_000 (~quassel@2.94.177.223) Quit (Ping timeout: 252 seconds)
+[06:28.37] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) Quit (Ping timeout: 245 seconds)
+[06:28.39] <g0th> but that's just a way to think about it
+[06:29.08] * TheBigDeal (~quassel@unaffiliated/innocent99) Quit (Remote host closed the connection)
+[06:29.08] <g0th> if you ask me about a precise proof I leave that for someone else / homework
+[06:29.16] <g0th> it's a valid question
+[06:29.26] <g0th> but I don't wanna think about it, sorry ^^
+[06:29.41] <g0th> just saying it's very intuitive
+[06:29.42] <edlinde> yeah I am basically seeing how to apply that simple rule and get that complicated beast :)
+[06:29.46] <edlinde> ok cool no worries
+[06:30.02] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[06:30.03] <g0th> but do you understand the analogy with discs etc?
+[06:30.21] <edlinde> roughly
+[06:30.28] * pqrs (~a@195.184.106.201) Quit (Remote host closed the connection)
+[06:30.31] <edlinde> but I prefer to get it right with the proof
+[06:30.38] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 246 seconds)
+[06:30.59] <g0th> geometry is a very strong help for humans/beeings surviving in a geometric environment
+[06:31.31] * duncannz (~duncannz@121-74-211-231.telstraclear.net) Quit (Remote host closed the connection)
+[06:31.42] <g0th> essential for survival, so it's a strong tool
+[06:31.58] <g0th> from evolution
+[06:32.03] * negaduck (~negaduck@213.243.66.18) has joined channel ##math
+[06:32.18] <g0th> in contrast to algebraic formulas
+[06:32.19] * z0kk (~textual@101.50.89.74) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[06:33.03] <g0th> you first have to survive some years at university to establish basic knowledge of the territory whereis you already have geometric understanding
+[06:33.42] * lunde (~user@js4.es.aau.dk) Quit (Remote host closed the connection)
+[06:34.07] * ezio is now known as zz_ezio
+[06:34.13] <g0th> btw, I should have said area of intersection divided by area of y
+[06:34.13] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 244 seconds)
+[06:34.35] <g0th> area outside of x intersected with y is the opposing/other/bad event
+[06:34.49] <g0th> anyway, off
+[06:38.07] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) Quit (Remote host closed the connection)
+[06:38.17] * _kmh_ (~kmh@p5B359995.dip0.t-ipconnect.de) has joined channel ##math
+[06:38.19] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[06:38.59] * kexmex (~kexmex@178.136.234.6) has joined channel ##math
+[06:40.21] * highfructosecorn (~highfruct@cpe-104-175-59-89.socal.res.rr.com) has joined channel ##math
+[06:41.02] * PatrickRobotham (uid18270@gateway/web/irccloud.com/x-sowwabzlgydvdohl) has joined channel ##math
+[06:41.27] * SZero (~Chris@131.204.254.73) Quit (Quit: Leaving, probably, maybe not...)
+[06:41.42] * SZero (~Chris@131.204.254.73) has joined channel ##math
+[06:42.04] * kaffeetrauma (~Thunderbi@ip-37-24-206-234.hsi14.unitymediagroup.de) Quit (Quit: kaffeetrauma)
+[06:42.52] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[06:43.18] * SZero (~Chris@131.204.254.73) Quit (Client Quit)
+[06:43.32] * lrs (~lars@88-83-56-124.customer.t3.se) has joined channel ##math
+[06:43.34] * CvP (CvP@203.76.123.238) Quit (Read error: Connection reset by peer)
+[06:44.05] <lrs> 8^m is 2^(3m) a
+[06:44.10] <lrs> But how do I do 31^n
+[06:44.12] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[06:45.04] * CvP (CvP@203.76.123.238) has joined channel ##math
+[06:45.33] <zHafydd> <g0th> geometry is a very strong help for humans/beeings surviving in a geometric environment
+[06:45.38] <zHafydd> beeings such as bees.
+[06:46.27] <zHafydd> Whose survival depends on the minimal-material-usage property of a hexagonal lattice.
+[06:46.45] * Alessandro-Barbi (~ale@host179-44-dynamic.48-82-r.retail.telecomitalia.it) has joined channel ##math
+[06:50.13] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[06:51.31] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 272 seconds)
+[06:53.19] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[06:53.34] <lrs> I need to write 31^n on the form =3^(3m)+something
+[06:53.38] <lrs> It has a rest of 4^m
+[06:53.42] <lrs> But I have no fucking idea how to write ti
+[06:54.02] <zHafydd> What is the relationship between n and m?
+[06:54.07] <lrs> Wooops
+[06:54.11] <lrs> ITs the same
+[06:54.18] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[06:54.23] <lrs> 31^m on the form 3^(3m)+something
+[06:54.31] <zHafydd> I see.
+[06:54.34] <lrs> 3^(3m)=27^m
+[06:54.40] <lrs> But I have 4^m left to get to 31^m
+[06:55.41] * sphenxes01 (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[06:56.21] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) has joined channel ##math
+[06:56.36] * lhea (~androirc@2a02:8388:2100:4600:756e:d217:dd37:64c4) has joined channel ##math
+[06:58.42] <lrs> zHafydd, Any ideas?
+[06:58.54] <zHafydd> lhea: you can write it as 3^(3m) + (31^m - 27^m), of course, but perhaps that isn't what you're looking for. Why is the purpose of writing it in this form?
+[06:59.02] * Kompton (~Kompton@unaffiliated/condenado) has joined channel ##math
+[06:59.19] <zHafydd> *What is the purpose
+[06:59.34] <lrs> zHafydd, I need to find the biggest integer m that 31^m divides 32014!
+[06:59.34] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) has joined channel ##math
+[06:59.36] * SZero (~SZ@131.204.254.73) has joined channel ##math
+[06:59.42] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Max SendQ exceeded)
+[06:59.46] * rooferdave (~rooferdav@174.150.10.154) Quit (Ping timeout: 256 seconds)
+[06:59.58] * disorder20 (~m3l720@95.233.179.11) Quit (Quit: Konversation terminated!)
+[07:00.05] <lrs> And I saw an example hwere they did (with 8^m) 8^m=2^(3m) floor(100/2)
+[07:00.06] <lrs> Etc
+[07:00.15] * Alessandro-Barbi (~ale@host179-44-dynamic.48-82-r.retail.telecomitalia.it) has left ##math (("ISON Romulus"))
+[07:00.17] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) has joined channel ##math
+[07:01.06] <zHafydd> What? 8^m = 2^(3m) * 50?
+[07:01.19] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) Quit (Ping timeout: 256 seconds)
+[07:01.34] * max3 (~maksim@ip98-180-60-220.ga.at.cox.net) has joined channel ##math
+[07:02.35] <lrs> zHafydd, ＋＋http://www.texpaste.com/n/zpuu7eun，，
+[07:02.38] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[07:02.48] <lrs> zHafydd, m=32
+[07:03.37] * atomicalloy (atomicallo@c-d6a571d5.123-3-64736c10.cust.bredbandsbolaget.se) Quit (Ping timeout: 245 seconds)
+[07:03.50] <zHafydd> lrs: I can guess that the technique is, although that doesn't explain it well.
+[07:04.15] <zHafydd> Writing 31^m in the form 3^(3m)+A won't be useful, because 31 is already a prime number.
+[07:04.17] * SmoMo_ (~smomo@host31-48-90-63.range31-48.btcentralplus.com) has joined channel ##math
+[07:04.20] <lrs> Its "Legendres formula"
+[07:04.39] * SOne (~SZ@131.204.254.73) has joined channel ##math
+[07:04.46] <zHafydd> You just need to ask: how many multiples of 31 are there from 1 to 32014? How many multiples of 31^2 are there? And so on.
+[07:04.50] <zHafydd> Can you see how that would lead to a solution?
+[07:04.52] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 256 seconds)
+[07:05.33] <lrs> zHafydd, Its 32014!
+[07:05.34] <wlczkun> question about character tables! ＋＋http://mathworld.wolfram.com/CharacterTable.html，，
+[07:05.37] * SOne (~SZ@131.204.254.73) Quit (Client Quit)
+[07:05.45] <zHafydd> lrs: I know.
+[07:05.47] <wlczkun> why do some conjugacy classes have factors in front of it
+[07:05.51] <wlczkun> like 2*C_2
+[07:05.52] <lrs> zHafydd, Its some modula thing?
+[07:05.58] <zHafydd> lrs: no, not really.
+[07:06.20] <zHafydd> lrs: how many multiples of 31 are there from 1 to 32014? That is quite simple to compute.
+[07:06.38] <lrs> zHafydd, 3
+[07:06.38] * SOne (~SZero@131.204.254.73) has joined channel ##math
+[07:06.50] * SOne (~SZero@131.204.254.73) Quit (Remote host closed the connection)
+[07:07.08] * SmoMo (~smomo@host31-48-92-1.range31-48.btcentralplus.com) Quit (Ping timeout: 265 seconds)
+[07:07.15] <zHafydd> No, I think there are more than that! you have 31, 2*31=62, 3*31=93, 4*31=124, and so on.
+[07:07.54] * SmoMo_ (~smomo@host31-48-90-63.range31-48.btcentralplus.com) Quit (Read error: Connection reset by peer)
+[07:08.52] * Thooms (~thooms@salle106.atilla.org) Quit (Ping timeout: 240 seconds)
+[07:09.02] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) has joined channel ##math
+[07:09.24] * SmoMo (~smomo@host31-48-90-63.range31-48.btcentralplus.com) has joined channel ##math
+[07:09.38] <zHafydd> What that tells is how many of the terms of 32014! have 31 in their prime factorisation, which begins to tell you how many powers of 31 are in the prime factorisation of 32014!.
+[07:09.48] * MulleDK20 (MulleDK19@90.185.28.70) has joined channel ##math
+[07:10.19] <lrs> zHafydd, oh, i thought you mean 31^3
+[07:10.42] <zHafydd> That is a very creative interpretation of what i said.
+[07:11.07] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) Quit (Ping timeout: 252 seconds)
+[07:11.45] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##math
+[07:11.56] * MulleDK19 (~MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 264 seconds)
+[07:12.00] <lrs> Hehe
+[07:12.05] <lrs> zHafydd, 1032
+[07:12.05] <zHafydd> But, yes, the multiples of 31^2 and 31^3 and 31^4 will also be needed (and the last one will be 4, letting you know that you're finished).
+[07:12.20] <zHafydd> Right.
+[07:13.02] <zHafydd> s/the last one will be 4/the last one will be 0/
+[07:13.08] * MulleDK20 is now known as MulleDK19
+[07:13.17] <zHafydd> Also, the fact that 31^3 divides 32014 less than 31 times tells you that you can stop there.
+[07:13.20] * Thooms (~thooms@salle106.atilla.org) has joined channel ##math
+[07:13.22] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 240 seconds)
+[07:14.10] <lrs> Ok, so what does 1032*32 mean and what does 31^3 mean
+[07:14.34] <zHafydd> 1032*32 doesn't mean anything for this problem, as far as I know.
+[07:14.40] * segmond (~segmond@c-71-227-57-162.hsd1.mi.comcast.net) has joined channel ##math
+[07:15.04] <zHafydd> 31^3 is the number that divides every number with 3 powers of 31 in its prime factorisation.
+[07:15.16] <zHafydd> It is strongly related to the number of powers of 31 that divide 32014!.
+[07:15.33] <lrs> My point is to find the ibggest integer m for 31^n that divides 32014!
+[07:15.42] * Mulder (~Mulder@unaffiliated/mulder) Quit (Ping timeout: 245 seconds)
+[07:16.07] <lrs> Right
+[07:16.38] * austeritysucks (~AS@stud-140.sdu.dk) has joined channel ##math
+[07:16.38] * austeritysucks (~AS@stud-140.sdu.dk) Quit (Changing host)
+[07:16.38] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[07:16.52] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) Quit (Remote host closed the connection)
+[07:18.34] * liquidfl0ppy (~chris@c-73-204-78-199.hsd1.fl.comcast.net) has joined channel ##math
+[07:18.58] <wlczkun> i cant understand the standard representation of the 3 element permutation group
+[07:19.00] <wlczkun> ＋＋http://mathworld.wolfram.com/CharacterTable.html，，
+[07:19.05] <wlczkun> two 2x2 matrices
+[07:19.12] <wlczkun> idk how they represent the operations
+[07:19.40] <zHafydd> lrs: yes. Consider that the power of 31 in the p.f. of 32014! is the sum of the powers of 31 in the p.f. of each integer from 1 to 32014.
+[07:19.50] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##math
+[07:20.05] <wlczkun> grr
+[07:20.09] <zHafydd> And (because of unique prime factorisation), the power of 31 in the p.f. of 32014! is the largest value of m for which 31^m divides it.
+[07:20.44] <lrs> Whats p.f?
+[07:20.54] <zHafydd> Prime factorisation.
+[07:21.08] <antonfire> wlczkun: do you know what a group homomorphism is?
+[07:21.18] <wlczkun> yeah
+[07:21.40] <antonfire> are you aware that, in order to specify a homomorphism from G to H, you only need to specify where it sends some particular generating set?
+[07:21.54] <lrs> zHafydd, Sorry my english is bad.
+[07:21.58] <wlczkun> ah, yes
+[07:22.02] * superlinux-hp (~oracle@unaffiliated/superlinux) has joined channel ##math
+[07:22.04] <antonfire> that's what's being done there.
+[07:22.11] <lrs> "The power of 31 in the prime factorization of 32014! is the largest value of m for which 31^m divides it.
+[07:22.18] <wlczkun> with the 2x2 matrix antonfire?
+[07:22.23] <antonfire> with two of them
+[07:22.33] <lrs> Are you saying that 31 is hte largest value of m?
+[07:22.50] <antonfire> they are describing a homomorphism from S_3 to the group of invertible two by two matrices with complex coefficients.
+[07:22.52] <lrs> Or are you saying that 3 is the largest value ?
+[07:22.54] * SZero (~SZ@131.204.254.73) Quit (Changing host)
+[07:22.54] * SZero (~SZ@unaffiliated/szero) has joined channel ##math
+[07:22.56] <wlczkun> how does the last matrix work?
+[07:23.16] * lunde (~user@js4.es.aau.dk) has joined channel ##math
+[07:23.17] <antonfire> They tell you the values that homomorphism takes on two elements of S_3, and those two elements generate S_3.
+[07:23.42] <antonfire> So you now have enough information to work out where that homomorphism sends any element of S_3 you like.
+[07:23.54] <wlczkun> i dont know how to use the matrix though
+[07:24.02] <wlczkun> like multiply it by a vector [1,2]
+[07:24.06] <antonfire> :(
+[07:24.28] <wlczkun> you get a vector [-2, 1 -2]
+[07:24.33] * math478 (b6460893@gateway/web/freenode/ip.182.70.8.147) has joined channel ##math
+[07:24.34] <antonfire> you don't know how two by two matrices with coefficients in C act on C^2?
+[07:24.41] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[07:24.57] <zHafydd> lrs: no, neither. I mean that if the prime factorisation of 32014 is p_1^k_1 * p_2^k_2 * ... * p_n^k_n, with p_i = 31 for some i, then k_i is the "power of 31 in the prime factorisation of 32014", and is the largest m such that 31^m divides 32014!.
+[07:25.08] <wlczkun> antonfire: what d you mean?
+[07:25.11] <wlczkun> uhm
+[07:25.18] <antonfire> Practically the whole point of n by m matrices in the first place is to write down linear transformations from C^m to C^n (or whatever field you want to work with).
+[07:25.22] <wlczkun> right
+[07:25.35] <zHafydd> lrs: I mean 32014!, not 32014.
+[07:25.49] <antonfire> The matrix [0 1; 1 0] represents a linear transformation from C^2 to C^2.
+[07:25.53] <lrs>  p_1^k_1 * p_2^k_2 * ... * p_n^k_n ?
+[07:25.57] <lrs> What is this in this problem?
+[07:25.59] <math478> does anyone have an idea about how strong the algebraic number theory group at cambridge is?
+[07:26.02] <antonfire> Specifically, the linear transformation that sends a vector (x,y) to the vector (y,x).
+[07:26.05] <lrs> 31^1 * 31^2*31^3 ??
+[07:26.12] <zHafydd> lrs: do you understand what "prime factorisation" means?
+[07:26.22] <wlczkun> oky
+[07:26.36] <antonfire> The only question in whether the matrix "acts on the left" or "acts on the right", and by convention it acts on the left.
+[07:26.42] <lrs> You mean 31*31*31 ?
+[07:26.54] * stochasm (~stochasm@unaffiliated/ahayweh) Quit (Ping timeout: 245 seconds)
+[07:26.56] <wlczkun> i see how that swaps two values sure antonfire
+[07:27.08] <wlczkun> but the second matrix, isn't it cycling three values
+[07:27.29] <zHafydd> lrs: that is the prime factorisation of 31^3. Do you know what it means in general?
+[07:27.29] <antonfire> that's one way to put it.
+[07:27.38] <lrs> Yes
+[07:27.44] <wlczkun> i dont see how its doing it, with that matrix
+[07:27.49] <antonfire> ...
+[07:27.58] <lrs> Maybe not really in this problem. I think its better if you tell me your goals and what you wnat to do
+[07:27.59] <antonfire> so pick a vector, and see where the matrix sends it.
+[07:27.59] * Koen_ (~Koen@vbo91-6-78-245-243-132.fbx.proxad.net) has joined channel ##math
+[07:28.05] <antonfire> Then see where the matrix sends *that*.
+[07:28.11] <antonfire> Then see where the matrix sends *that*.
+[07:28.13] <wlczkun> ?
+[07:28.16] <antonfire> Did you end up with the vector you started with?
+[07:28.26] <antonfire> If not, somebody fucked up somewhere, probably you.
+[07:28.30] <zHafydd> lrs: then, do you perceive that 32014! has a unique prime factorisation, and in it is some number of factors of 31?
+[07:28.43] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##math
+[07:28.45] * defense_bot (~defense_b@24-158-200-117.dhcp.kgpt.tn.charter.com) has joined channel ##math
+[07:28.46] <antonfire> :(
+[07:28.49] <antonfire> What do you mean "?"
+[07:28.49] <wlczkun> it sends x,y to -y, x-y
+[07:28.52] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Max SendQ exceeded)
+[07:29.01] <antonfire> pick an actual specific vector
+[07:29.05] * huckleberry78 (~huckleber@104-176-154-16.lightspeed.tukrga.sbcglobal.net) has joined channel ##math
+[07:29.11] <lrs> 32014-(31*31*31)=2223
+[07:29.16] * Philonous (~Philonous@dslb-094-223-036-097.094.223.pools.vodafone-ip.de) Quit (Remote host closed the connection)
+[07:29.22] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##math
+[07:29.54] <lrs> 31^3+3^2*13*19
+[07:30.15] * Philonous (~Philonous@dslb-094-223-036-097.094.223.pools.vodafone-ip.de) has joined channel ##math
+[07:30.22] <wlczkun> which sends that to y-x, -y + y - x, which sends THAT to x, y
+[07:30.39] <wlczkun> lord
+[07:30.40] <lrs> zHafydd, 31^3+3^2*13*19=32014
+[07:30.44] <antonfire> great. I think you would understand what's going on better if you picked an actual specific vector.
+[07:30.48] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[07:30.57] <antonfire> e.g. (1,0).
+[07:31.25] * Juslintek (~Juslintek@94.244.86.28) Quit (Ping timeout: 272 seconds)
+[07:31.28] <lrs> zHafydd, Also 2*16007 . 16007 is prime
+[07:31.30] <wlczkun> bleh
+[07:31.52] * Juslintek (~Juslintek@94.244.86.28) has joined channel ##math
+[07:32.01] <antonfire> And if you, say, actually drew the vectors in the corresponding orbit.
+[07:32.50] <antonfire> The word "orbit" might be more suggestive than usual in this case
+[07:33.01] <wlczkun> x,y -> -y,x-y -> y-x,-x -> x,y it just isn't very apparent to me that it represents 1,2,3 -> 2,3,1
+[07:33.02] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[07:33.09] <antonfire> :(
+[07:33.09] <zHafydd> lrs: those are both true, but they don't help with your problem.
+[07:33.25] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Read error: Connection reset by peer)
+[07:33.33] <antonfire> alright, you've lost interested in what I'm saying to you, so I've lost interest in saying things to you.
+[07:33.45] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[07:33.52] <wlczkun> sorry antonfire,
+[07:34.45] * negaduck (~negaduck@213.243.66.18) Quit (Quit: (null))
+[07:34.45] <wlczkun> (1,0) -> 0,1 -> -1, -1 -> 1,0
+[07:35.10] <zHafydd> lrs: although the prime factorisation of 32014 contains only 2 and 16007, as you noted, the prime factorisation of 32014! contains some power of 31, which is what you wish to compute.
+[07:35.12] <wlczkun> i think i see it now
+[07:35.13] * tomnewmann (~tomnewman@137.205.238.124) Quit (Remote host closed the connection)
+[07:35.17] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 245 seconds)
+[07:35.29] * ihatehex (~ihatehex@host-37-191-222-36.lynet.no) has joined channel ##math
+[07:35.35] <wlczkun> 231 = 0,1, 312 = -1,-1
+[07:36.07] <ihatehex> How do I show that \log_{a}(x) = \frac{\ln(x)}{\ln(a)}?
+[07:36.25] * sfxworks (~sfxworks@cpe-069-132-231-220.carolina.res.rr.com) has joined channel ##math
+[07:36.27] <lrs> zHafydd, What do you mean
+[07:36.49] <antonfire> wlczkun: you would be better off if you didn't abuse the shit out notation willy-nilly.
+[07:36.49] * jimmyff (~jimmyff@5.148.154.254) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:36.50] <lrs> zHafydd, you mean i should look for how many times 31^n goes into 16007
+[07:37.13] <wlczkun> sorry about it, i'm being a shit
+[07:37.38] <zHafydd> lrs: no, that isn't what I said at all. I'm asking you if you understand that the number of times 31 divides 32014! is related to the prime factorisation of 32014!.
+[08:15.00] *** Server disconnected on irc.freenode.net

@@ -1,0 +1,395 @@
+Session Start: Mon Feb 23 12:46:12 2015
+Session Ident: ##programming
+[12:46.12] --wolfe.freenode.net-- *** No Ident response
+[12:46.13] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[12:46.18] Rainb resolved to 181.50.196.58
+[12:46.18] * You have joined ##programming
+[12:46.18] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[12:46.18] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[12:46.19] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[12:46.19] --ChanServ-- [##physics] Don't ask to ask... ask!
+[12:46.19] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[12:46.19] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[12:46.19] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[12:46.19] Channel modes for ##programming are :+cntf ##overflow
+[12:46.19] Channel Created on: 5:23 AM 2/4/2007
+[12:46.37] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[12:47.14] * xff0x (~xff0x@178.124.178.111) Quit (Ping timeout: 245 seconds)
+[12:47.20] * Nomss (Nomeru@2001:558:600a:67:50c:17ba:cde2:6ec0) Quit (Read error: Connection reset by peer)
+[12:48.18] <Rainb> Is there such thing such as mustard gas self-defence spray
+[12:48.42] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[12:49.02] * `Eddie (~dedword@62.122.139.151) has joined channel ##programming
+[12:49.04] <backnforth> woggle, unsure whether I need the asm unvolatile.
+[12:49.12] --`Eddie-- logged in with account (`Eddie)
+[12:49.29] * Lymee (~lymia@inportb/loli/cirno-chan) has joined channel ##programming
+[12:49.49] --stareye-- logged in with account (menuhin)
+[12:49.52] * tesuji (~tesuji@unaffiliated/tesuji) has joined channel ##programming
+[12:50.26] <vendu> backnforth, what are you trying to do and are you sure you need to modify the stack pointer?
+[12:50.55] <backnforth> vendu, It's possible I don't need the modify the stack pointer.. will leave it commented out for now
+[12:50.58] * Lymia (~lymia@inportb/loli/cirno-chan) Quit (Ping timeout: 265 seconds)
+[12:51.07] <vendu> ah okay =)
+[12:51.07] * kreiGT (~kreig@201.216.140.134) Quit (Remote host closed the connection)
+[12:51.57] * DolpheenDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Quit: DolpheenDream)
+[12:52.56] * GeneralVagueness (~General@2601:4:1780:677:98c5:2bc1:4f48:8eba) Quit (Quit: Pong timeout)
+[12:53.11] * hellloooo (d05dcaea@gateway/web/freenode/ip.208.93.202.234) Quit (Ping timeout: 246 seconds)
+[12:54.45] --wisey_-- logged in with account (wisey)
+[12:55.30] * pyon (~suckmy@unaffiliated/pyon) Quit (Quit: Fantaisie Im-pyon-ptu...)
+[12:57.18] * thang1 (~thang@74-85-82-130.wallawalla.edu) Quit (Quit: thang1)
+[12:58.49] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) Quit (Quit: Page closed)
+[01:00.01] * JanC (~janc@lugwv/member/JanC) has joined channel ##programming
+[01:00.11] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##programming
+[01:01.07] * mabino-pyon (~suckmy@unaffiliated/pyon) has joined channel ##programming
+[01:03.24] --Nazgul-- logged in with account (Nazgul)
+[01:03.35] * korg (~korggrodn@mail.ramtex.by) has joined channel ##programming
+[01:04.11] * Lencl (~lnoa@pool-71-104-67-119.lsanca.fios.verizon.net) Quit (Ping timeout: 264 seconds)
+[01:04.31] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[01:06.16] * kggr (~korggrodn@mail.ramtex.by) Quit (Ping timeout: 246 seconds)
+[01:07.02] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[01:07.14] --ystael-- logged in with account (ystael)
+[01:11.34] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 250 seconds)
+[01:12.12] <kzisme> Can someone explain how variable scope works in Java compared to C++?
+[01:12.30] * fangs124 is now known as fangs124_afk
+[01:13.27] <Rounin> Is there a difference? Java doesn't have the global scope, obviously, since there's no global anything
+[01:14.05] <mabino-pyon> kzisme: "how variable scope works in Java compared to C++" --> Exactly the same way.
+[01:14.11] <mabino-pyon> kzisme: Both are lexically scoped languages.
+[01:14.31] <mabino-pyon> kzisme: Errr... I phrased that badly: both languages have lexically scoped variables.
+[01:14.59] <kzisme> mabino-pyon: I'm just learning Java and I haven't done much with objects just yet and I'm just making sure my variables in different control flows aren't being changed
+[01:16.52] * xff0x (~xff0x@86.57.158.78) has joined channel ##programming
+[01:17.19] * insidious15 (~insidious@2601:c:3200:b200:5e51:4fff:fe8c:2c65) Quit (Ping timeout: 252 seconds)
+[01:17.29] <mabino-pyon> kzisme: From the point of view of the interaction between objects and lexical scope, the main difference between Java and C++ is that C++ has lexically scoped objects, but Java only has lexically scoped references to objects. This is because objects are not first-class values in Java, only references are
+[01:17.47] * WizJin (~WizJinAFK@103.21.160.239) has joined channel ##programming
+[01:18.43] <kzisme> mabino-pyon: Thanks for the answer :D  I like Java a lot more than C++ thus far....or maybe it's the projects I've been assigned were far less irritating
+[01:18.59] <kzisme> Also you can use HTML in Java?  I just found that out
+[01:19.07] <mabino-pyon> HTML?
+[01:19.14] <mabino-pyon> You mean XML?
+[01:19.34] <kzisme> IE: ＋＋http://stackoverflow.com/questions/12118244/java-multiple-lines-of-text-using-joptionpane-showinputdialognull-text，，
+[01:19.43] <kzisme> second answer mabino-pyon
+[01:19.45] <BlastHardcheese> "Java is a DSL for converting large XML files into Stack Traces"
+[01:19.49] * jkli (~jkli@brln-4d020683.pool.mediaWays.net) has joined channel ##programming
+[01:20.31] --iDubbbz-- logged in with account (iDubbbz)
+[01:20.34] --Rochvellon-- logged out of account
+[01:20.36] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[01:20.38] * mabino-pyon returns to his compiler, avoids a language war en passant.
+[01:20.43] --linuxuz3r-- logged in with account (linuxuz3r)
+[01:21.02] --orbea-- logged in with account (orbea)
+[01:21.18] * Vulcanical_ (~quassel@69.16.152.174) has joined channel ##programming
+[01:21.33] * Ululus (~Ululus@vps-13161.vps-ukraine.com.ua) has joined channel ##programming
+[01:21.51] <kzisme> mabino-pyon: Do you know much about JOptionPane
+[01:22.00] <mabino-pyon> kzisme: No.
+[01:22.10] * mabino-pyon is not terribly interested in GUIs in general.
+[01:23.14] <kzisme> Ah, I'm just stumbling through the syntax to print out some stuff I can get single lines but not multi
+[01:23.35] * atomicsuplex (~red_c@24.69.220.169) has joined channel ##programming
+[01:23.44] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:23.47] * Vulcanical (~quassel@69.16.152.174) Quit (Ping timeout: 256 seconds)
+[01:23.48] * theme2 (~theme2@cm-114-109-18-160.revip13.asianet.co.th) Quit (Quit: Leaving)
+[01:25.18] * Lanzafame (~textual@131.181.158.24) has joined channel ##programming
+[01:26.02] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[01:26.03] --Gurkenglas-- logged in with account (Gurkenglas)
+[01:26.13] * hanshenrik (~hanshenri@ti0016a400-6626.bb.online.no) has joined channel ##programming
+[01:31.57] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[01:33.51] * KidBeta (~textual@130.56.73.83) has joined channel ##programming
+[01:35.17] * eric_lagergren (~barsonme@c-76-121-113-163.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+[01:37.10] * max100 (~max100@unaffiliated/max100) Quit (Ping timeout: 240 seconds)
+[01:37.24] --CookieJar-- logged in with account (CookieJar)
+[01:39.11] --Guest48867-- logged in with account (benonsoftware)
+[01:40.51] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 264 seconds)
+[01:41.13] * tarkus (~hello@109.230.140.12) has joined channel ##programming
+[01:41.14] --tarkus-- logged in with account (tarkus)
+[01:41.31] <kzisme> Anyone willing to give me some help me with ＋＋http://pastebin.com/c83Q064g，，
+[01:44.31] <go|dfish> kzisme: you have '+' directly after a ',' ... I imagine you want to get rid of the commas in that case.
+[01:45.04] <go|dfish> Well, or the +
+[01:45.52] --Cyph3r-- logged in with account (Cyph3r)
+[01:46.04] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[01:47.39] * tesuji (~tesuji@unaffiliated/tesuji) Quit (Ping timeout: 252 seconds)
+[01:47.41] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:47.43] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 245 seconds)
+[01:47.52] --wisey_-- logged in with account (wisey)
+[01:48.22] * STumbles (~stumbles@c-24-17-164-127.hsd1.wa.comcast.net) has joined channel ##programming
+[01:49.51] * WizJin (~WizJinAFK@103.21.160.239) Quit (Quit: Leaving)
+[01:50.16] * prof_milki_ (~mario@ipb21952db.dynamic.kabel-deutschland.de) Quit (Ping timeout: 245 seconds)
+[01:50.22] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:50.22] --L8D-- logged in with account (L8D)
+[01:51.02] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 256 seconds)
+[01:53.41] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[01:54.20] --lowryder-- logged in with account (lowryder)
+[01:54.51] * Snake2k (~Snake2k@unaffiliated/snake2k) Quit (Ping timeout: 245 seconds)
+[01:55.41] * rindolf (~Shlomi@bzq-79-183-180-10.red.bezeqint.net) has joined channel ##programming
+[01:57.39] * jkli (~jkli@brln-4d020683.pool.mediaWays.net) Quit ()
+[01:57.43] * Crisix (~Crisix@ipservice-092-209-082-167.092.209.pools.vodafone-ip.de) has joined channel ##programming
+[01:58.45] <Programmer_> anyone use kdevelop?
+[01:59.00] * tesuji (~tesuji@unaffiliated/tesuji) has joined channel ##programming
+[02:00.19] * Litt (~EightyTwo@202-89-151-114.ue.woosh.co.nz) has joined channel ##programming
+[02:00.43] * Lanzafame (~textual@131.181.158.24) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[02:03.18] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[02:04.18] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[02:04.26] --Gurkenglas-- logged in with account (Gurkenglas)
+[02:04.48] <rindolf> Programmer_: hi.
+[02:04.54] <rindolf> Programmer_: what's the question?
+[02:05.28] <Programmer_> you use it?
+[02:05.48] <Programmer_> well i was wondering what are the lines i get within the scroll bar of the source code
+[02:06.07] <Programmer_> like it has random lines of code highlighted but i wanna know why
+[02:06.46] * Drdz (~Drdz@41.251.96.63) Quit (Remote host closed the connection)
+[02:07.17] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:684a:3965:c173:c7b6) Quit (Disconnected by services)
+[02:07.17] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:684a:3965:c173:c7b6) has joined channel ##programming
+[02:07.48] * gsj (~gsj@41.251.96.63) has joined channel ##programming
+[02:08.29] * coldblackice (~Coldblack@unaffiliated/coldblackice) Quit ()
+[02:08.37] * gsj (~gsj@41.251.96.63) Quit (Excess Flood)
+[02:08.47] * Kdoc (~Kdoc@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##programming
+[02:09.24] * Kdoc (~Kdoc@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Excess Flood)
+[02:09.51] * Bxau (~Bxau@41.251.96.63) has joined channel ##programming
+[02:09.56] <rindolf> Programmer_: no , I'm not using it.
+[02:10.06] <rindolf> Programmer_: anyway, what are you talking about?
+[02:10.19] <rindolf> Programmer_: lines of code highlighted?
+[02:10.38] * Bxau (~Bxau@41.251.96.63) Quit (Excess Flood)
+[02:10.51] * NickParker (~kvirc@nat-128-84-124-0-793.cit.cornell.edu) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[02:10.54] <Programmer_> i just explained to the best of my abilities
+[02:11.08] * Bno (~Bno@41.251.96.63) has joined channel ##programming
+[02:11.09] * Crisix (~Crisix@ipservice-092-209-082-167.092.209.pools.vodafone-ip.de) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[02:11.50] * Bno (~Bno@41.251.96.63) Quit (Excess Flood)
+[02:12.18] * Konf (~Konf@41.251.96.63) has joined channel ##programming
+[02:12.44] --TMan459-- logged in with account (TMan459)
+[02:13.46] * Njitttam (~njittam@i94173.upc-i.chello.nl) Quit (Ping timeout: 265 seconds)
+[02:13.46] * extor (extor@192.99.217.241) Quit (Ping timeout: 265 seconds)
+[02:13.56] * Rounin (~david@88.87.54.14) Quit (Remote host closed the connection)
+[02:14.28] * Eremox (~Eremox@c-a2d771d5.02-241-7570702.cust.bredbandsbolaget.se) Quit (Ping timeout: 252 seconds)
+[02:14.39] --suvidu-- logged in with account (suvidu)
+[02:15.33] * extor (extor@192.99.217.241) has joined channel ##programming
+[02:16.11] * RedmondFaires (a81cb413@gateway/web/freenode/ip.168.28.180.19) has joined channel ##programming
+[02:16.14] <RedmondFaires> Hi.
+[02:16.31] <RedmondFaires> Guys I think there's something interesting about AI.
+[02:16.47] <RedmondFaires> Imagine a hypothetical robot that was able to perfectly assume the form of a living thing
+[02:16.59] <RedmondFaires> If you had enough of these robots, and they were convincing enough
+[02:17.26] <RedmondFaires> You could have them perform an action. The living things which would be fooled would then join in on this action as a "swarm" collective effect
+[02:17.54] * blackb1rd (~zack@2602:30a:c021:2ee0:8900:3770:8fd6:8972) has joined channel ##programming
+[02:17.59] * Sadale (~Sadale@unaffiliated/sadale) Quit (Ping timeout: 250 seconds)
+[02:18.02] <RedmondFaires> Specifically I mean, using a set of robotic fish to guide a school of fish, or using a set of robotic drones who looked like birds to guide a murder of crows
+[02:18.13] <RedmondFaires> Neat how swarm intelligence works, huh
+[02:19.16] <Guest66212> RedmondFaires: i don't understand
+[02:19.18] <rindolf> Programmer_: ah , do you mean markers?
+[02:19.22] * rindolf (~Shlomi@bzq-79-183-180-10.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:19.41] <RedmondFaires> It exploits the "cyranoid" effect, where a person is willing to believe something if they're convinced its real and they're convinced enough to follow it
+[02:20.01] * mrksprvn (~mrksprvn@85.23.119.74) has joined channel ##programming
+[02:20.03] <mrksprvn>                                                                                                                                                                                                                                  │ mrksprvn
+[02:20.05] <mrksprvn>                                                                                                                                                                                                                                  │ mrksprvn
+[02:20.05] <RedmondFaires> Guest66212: If you had a robotic fish that emulated a fish's behavior well enough and you had many of these
+[02:20.07] <mrksprvn>                                                                                                                                                                                                                                  │ mrksprvn
+[02:20.11] <mrksprvn> fudge
+[02:20.26] <RedmondFaires> You could control other fishes who would follow the robotic "group"
+[02:20.33] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##programming
+[02:20.43] <RedmondFaires> You could use "cyranoid"-like robots to program animal behavior
+[02:20.56] <Guest66212> RedmondFaires: how would these robotic fish that differ from the fish they emulated in terms of relevance?
+[02:21.03] <Guest66212> err
+[02:21.10] <Guest66212> RedmondFaires: how would these robotic fish differ from the fish they emulated in terms of relevance?
+[02:21.10] <RedmondFaires> You'd be able to control them
+[02:21.25] <RedmondFaires> And by doing so, control the group of live fish as well
+[02:21.33] * mrksprvn (~mrksprvn@85.23.119.74) has left ##programming ()
+[02:21.41] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 256 seconds)
+[02:21.58] --wicope-- logged in with account (wicope)
+[02:22.10] <Guest66212> is this some type of logical trap?
+[02:22.20] * _slade_ (~Slade@fq-130-49-38-56.wireless.pitt.edu) Quit (Ping timeout: 264 seconds)
+[02:22.55] <RedmondFaires> No. It's valid swarm intelligence. I was working on an assignment for my programming course that dealt with Swarm Intelligence and realized that this might have practical use in the future
+[02:23.02] * maskeraid (~ramsaykai@1.186.3.149) has joined channel ##programming
+[02:23.16] <RedmondFaires> You can effectively program any "intelligent" group of creatures this way
+[02:23.21] <RedmondFaires> Monkey see, monkey do :D
+[02:23.27] <Guest66212> i'm trying to understand what relevance this observation has
+[02:23.28] * Programmer_ (~khaotic@unaffiliated/khaotic) Quit (Quit: Leaving)
+[02:23.41] * extor (extor@192.99.217.241) Quit (Ping timeout: 244 seconds)
+[02:23.45] * _Gluesticky (~nobody@unaffiliated/gluesticky) has joined channel ##programming
+[02:24.03] <RedmondFaires> <RedmondFaires> You can effectively **program** any "intelligent" group of creatures this way
+[02:24.14] <RedmondFaires> In a way its like a BDD language, behavior driven development
+[02:24.26] <RedmondFaires> Or supervised learning, take your pick
+[02:24.28] * thang1 (~thang@74-85-83-127.wallawalla.edu) has joined channel ##programming
+[02:25.02] <RedmondFaires> You could generalize this to any creature, birds, fish, people..
+[02:25.23] <Guest66212> RedmondFaires: you say that given a robotic fish, you could alter it's behavior in a way that causes a change in it's environment
+[02:25.40] --delphinas-- logged in with account (delphinas)
+[02:25.58] <Guest66212> you could lure a shark to where humans were, etc
+[02:26.08] <RedmondFaires> Not necessarily a change in its environment. I'm only saying you can influence the group's behavior into following your "cyranoids"
+[02:26.19] <RedmondFaires> Hehe, maybe. :D
+[02:26.40] <Guest66212> RedmondFaires: but does this observation not also apply to real fish?
+[02:27.01] <RedmondFaires> Yes. It applies.
+[02:27.22] <RedmondFaires> Or at least, I'd love to be able to test it.
+[02:27.27] <RedmondFaires> Instead of assuming things
+[02:27.55] <Guest66212> so in other words being able to exert an influence on one's environment can cause it to change in a way which is predictable and/or unpredictable
+[02:27.59] <RedmondFaires> Being able to program nature. I think Google did something similar but the birds attacked their fake robot.
+[02:28.10] <RedmondFaires> It was far from realistic though
+[02:28.20] <RedmondFaires> A cyranoid has to be "convincing" for this to work. :P
+[02:28.55] <Guest66212> RedmondFaires: i still don't understand the relevance here
+[02:28.57] <RedmondFaires> Not on the environment, just on a group, Guest66212, the environment isn't what we're focusing on
+[02:29.11] * zoso (~arvind@unaffiliated/arvind-khadri/x-2237230) has joined channel ##programming
+[02:29.15] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[02:29.26] <RedmondFaires> Guest66212: You can't see the curiosity of a nature based BDD using "cyranoids"?
+[02:29.46] <RedmondFaires> I mean, good God, its interesting, isn't it?
+[02:29.52] <RedmondFaires> From a scientific point of view
+[02:30.21] <Guest66212> RedmondFaires: the point i'm trying to make is that this observation does not change anything
+[02:30.22] <RedmondFaires> I mean this has valid uses even in the field of politics.
+[02:31.15] <RedmondFaires> Why don't you believe so Guest66212? It's a discovery that suggests that living things are all programmable, if they act in groups.
+[02:31.26] <DrMon> If I'm debugging/reversing a program, there are stack variables between the two functions. Are these variables initalised at all, or are they all garbage before the new function touches them?
+[02:31.29] <Guest66212> RedmondFaires: because there is more than one controller
+[02:31.33] <RedmondFaires> I mean, most of curiosity isn't useful, it's just fun to imagine.
+[02:31.52] * mrksprvn (~mrksprvn@85.23.119.74) has joined channel ##programming
+[02:32.00] <RedmondFaires> You aren't making any sensible comments Guest66212
+[02:32.28] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 252 seconds)
+[02:32.41] <Guest66212> RedmondFaire: having control over more than one fish gives you more leverage over the controllers that only have control over one fish
+[02:33.00] <DrMon> What's confusing me is, most code in this ARM exec reads from offsets that don't seem to be written to in the same function. Confusing the heck outta me
+[02:33.02] <RedmondFaires> Google themselves have tried this. They published their results on a study on how a bird-like drone interacted with other birds.
+[02:33.32] <macrobat> RedmondFaires: wouldn't this be too easy? I remember biking in a group through some cow pastures. the cows went "oh, a bunch of individuals going the same way. I want in!". soon we were part of a small herd of cows
+[02:33.33] * extor (extor@192.99.217.241) has joined channel ##programming
+[02:33.49] <RedmondFaires> Guest66212: You still aren't making any sense. I'm saying that you can control an entire group of "fishes". This belief only works in "groups" because its swarm intelligence.
+[02:34.00] <RedmondFaires> Can you scroll up and reread what I posted?
+[02:34.19] <Guest66212> RedmondFaires: but this applies to the controller as well, no?
+[02:34.24] <RedmondFaires> macrobat: Exactly :P
+[02:34.42] <RedmondFaires> Guest66212: You're going to have to explain to us all what you mean by "controller"
+[02:35.01] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[02:35.10] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:35.13] <Guest66212> RedmondFaires: the group of fish the controller is trying to control has as much leverage over the controllers actions as the controllers will
+[02:35.18] * smustafa (~mustafa@110.93.212.98) has joined channel ##programming
+[02:35.40] <RedmondFaires> OH I see, what you're saying
+[02:35.41] <ihatehex> I wish I were a fish
+[02:35.42] <RedmondFaires> Haha!
+[02:35.48] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[02:35.54] <RedmondFaires> Right, no, the cyranoids have no influence on themselves
+[02:35.54] <DrMon> Hmm, I think I'm going to need to find a #reversing channel, heh
+[02:36.16] <RedmondFaires> We're imagining that the operator controls the cyranoids' actions collectively
+[02:36.28] <RedmondFaires> You're doing logical loop-de-loops
+[02:36.30] <RedmondFaires> :P
+[02:37.00] * `Eddie (~dedword@62.122.139.151) has joined channel ##programming
+[02:37.15] <Guest66212> the group of fish the controller is trying to control has as much leverage over the controllers actions as the controllers objective has over the controllers actions
+[02:37.19] <Guest66212> and you can say
+[02:37.57] <RedmondFaires> You could also graze cattle this way, using macrobat's example.
+[02:38.28] <Guest66212> the controller that is trying to control the group of fish has as much leverage over the group of fish's actions as the group of fish's collective will
+[02:38.36] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) Quit (Excess Flood)
+[02:38.57] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) has joined channel ##programming
+[02:39.37] * Flurberter (~flurbert@209.222.165.194) Quit (Quit: IceChat - Its what Cool People use)
+[02:39.44] <RedmondFaires> This is ideally why you have more cyranoids than live fish
+[02:39.53] <RedmondFaires> Or better yet, you have more "influential" cyranoids
+[02:40.02] <macrobat> sharp horns a foot away. maybe one of the angrier bulls decides your bot has too high rank
+[02:40.05] <RedmondFaires> IE, brighter colors, brighter feathers, more pungent pheremones
+[02:40.14] <RedmondFaires> IE: Following the cool kids
+[02:40.16] <RedmondFaires> :P
+[02:40.28] <macrobat> supernormal stimuli
+[02:40.32] <Guest66212> does this have something to do with the introduction of liberty?
+[02:40.37] <RedmondFaires> If you can make the cyranoids either numerous or appealing enough, the drones will follow.
+[02:41.00] <RedmondFaires> People usually follow the crowd, or the social elite.
+[02:41.02] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[02:41.02] <RedmondFaires> :D
+[02:41.08] <RedmondFaires> I wish I could test this out
+[02:41.14] <RedmondFaires> liberty? Huh?
+[02:41.25] <Guest66212> the hungry shark chases the fish
+[02:41.38] <lf94> chiptunes are so amazing
+[02:41.41] <lf94> so pure
+[02:41.44] <lf94> so much energy
+[02:41.53] <RedmondFaires> macrobat: Competition is also something to be considered
+[02:42.04] <RedmondFaires> But I'm keeping edgecases out of this
+[02:42.14] <macrobat> idk, more of an ethology thing
+[02:42.43] <RedmondFaires> The programming language of nature is a BDD.
+[02:42.45] <RedmondFaires> :P
+[02:42.49] <RedmondFaires> This is exciting
+[02:43.54] <Guest66212> RedmondFaires: i'm trying to understand how this observation has relevance
+[02:44.31] --darsie-- logged in with account (darsie)
+[02:44.43] <RedmondFaires> Had I not introduced it here, would you have thought about this?
+[02:44.46] <Guest66212> RedmondFaires: given an environment where one has control, one can exert an influence that causes a predictable and/or unpredictable consequence
+[02:44.47] * wz1000 (~wz1000@182.64.160.86) has joined channel ##programming
+[02:45.13] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) Quit (Quit: amigojapan)
+[02:45.22] <Guest66212> Guest66212: what relevance does this have?
+[02:45.34] --t0by-- logged in with account (T0by)
+[02:45.51] * STumbles (~stumbles@c-24-17-164-127.hsd1.wa.comcast.net) Quit (Ping timeout: 252 seconds)
+[02:45.52] <RedmondFaires> I hope you're asking yourself that based on what you've just stated :P
+[02:46.13] * backnforth (~backnfort@CPE84948c53a591-CM84948c53a590.cpe.net.cable.rogers.com) Quit (Quit: Leaving)
+[02:46.22] <RedmondFaires> Don't you think its exciting that groups of intelligent creatures can be programmed by behavior driven development?
+[02:46.43] <RedmondFaires> I mean, don't you have curious interest?
+[02:47.22] <Guest66212> RedmondFaires: is this not how creatures share intelligence?
+[02:47.29] <RedmondFaires> It is relevant to programming because this is suggesting a model for programming swarms.
+[02:48.08] * crunchers (~crunchers@cpe-74-137-102-18.swo.res.rr.com) Quit (Ping timeout: 255 seconds)
+[02:48.53] <Guest66212> RedmondFaires: i'm trying to understand what relevance it has to you
+[02:49.01] <RedmondFaires> Alright, its just another form of supervised learning. But it's useful in the sense that has practical applications in migrating migratory animals and herding cattle.
+[02:49.35] <RedmondFaires> Me? Oh there's no need to be personal. Don't worry about why it fascinates me. <3
+[02:49.56] * maskeraid (~ramsaykai@1.186.3.149) Quit (Ping timeout: 264 seconds)
+[02:50.07] <Guest66212> RedmondFaires: why is this observation more relevant than 'given an environment where one has control, one can exert an influence that causes a predictable and/or unpredictable consequence'
+[02:51.23] <RedmondFaires> Because your statement is a generalized statement that doesn't relate to this debate, or really anything at all. I've been trying to work with you here because there might not be something that you're communicating with us properly, but I don't think you're anywhere near the same page as me or macrobat.
+[02:51.37] * theme2 (~theme2@cm-114-109-18-160.revip13.asianet.co.th) has joined channel ##programming
+[02:51.37] --theme2-- logged in with account (theme2)
+[02:51.41] * MyMind (~Sembei@unaffiliated/sembei) has joined channel ##programming
+[02:51.45] * gabriel9|work (~bojan@9-133-241-92-ptp-stat.customer.blic.net) has joined channel ##programming
+[02:51.53] <RedmondFaires> In fact, you're so general that I have to ask where you've even read that I suggested anything like that..
+[02:51.57] <Guest66212> RedmondFaires: that's my point, i'm trying to understand how this has relevance to your discussion
+[02:52.19] <RedmondFaires> You're point is that you aren't being relevant? We've established that..
+[02:52.22] <RedmondFaires> :P
+[02:52.33] <RedmondFaires> *Your... *gawk*
+[02:52.50] * Sembei (~Sembei@unaffiliated/sembei) Quit (Ping timeout: 245 seconds)
+[02:53.13] * chargen (~chargen@98.Red-79-157-199.dynamicIP.rima-tde.net) has joined channel ##programming
+[02:54.03] * RedmondFaires spams chargen with a flood of udp packets with random characters
+[02:54.19] * perillamint (~perillami@61.72.142.236) Quit (Quit: Quit - Powered by ZNC)
+[02:54.24] <chargen> :)
+[02:55.26] <RedmondFaires> Anything else Guest66212?
+[02:55.27] <Guest66212> RedmondFaires: you could say the same about your self and a group of fish
+[02:55.58] <Guest66212> or a fish and a group of fish
+[02:56.00] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[02:56.39] * jazzcrow (~jazzcrow@000c417c04a1.click-network.com) has joined channel ##programming
+[02:56.42] * _Gluesticky is now known as Gluesticky
+[02:56.44] * Rounin (c312c5b5@gateway/web/freenode/ip.195.18.197.181) has joined channel ##programming
+[02:57.02] <Guest66212> but your point
+[02:57.30] <Guest66212> is that you can disguise your self as a group of fish and use it to control other fish/groups of fish
+[02:57.44] <RedmondFaires> Myself?
+[02:57.50] <Guest66212> anyone
+[02:57.53] * tesuji (~tesuji@unaffiliated/tesuji) Quit (Read error: Connection reset by peer)
+[02:58.12] <RedmondFaires> Well I guess you could say that, but it'd just be a group of lifelike machines who could emulate living creatures.
+[02:58.12] * kzisme (6267932e@gateway/web/freenode/ip.98.103.147.46) Quit (Quit: Page closed)
+[02:58.19] * weeirc8089 (~novo@109.66.57.63) Quit (Ping timeout: 240 seconds)
+[02:58.25] * RedmondFaires puts on a fish costume and flops around
+[02:58.46] * MacRozz (~Ivan@178.72.77.86) has joined channel ##programming
+[02:58.50] <Guest66212> RedmondFaires: but other fish/groups of fish can control you disguised as a group of fish
+[02:59.04] * Click66 (~Click66@94.143.188.0) has joined channel ##programming
+[02:59.16] <RedmondFaires> wait
+[02:59.25] * Trudko (~chatzilla@82-119-121-74.static.chello.sk) has joined channel ##programming
+[02:59.26] <RedmondFaires> You're from #logic aren't you
+[02:59.28] <RedmondFaires> :P
+[02:59.48] * jazzcrow (~jazzcrow@000c417c04a1.click-network.com) has left ##programming ()
+[02:59.53] <RedmondFaires> Okay I see my mistake.
+[02:59.58] <RedmondFaires> Can we switch emulate to simulate?
+[03:00.07] * extor (extor@192.99.217.241) Quit (Read error: Connection reset by peer)
+[03:00.10] <Guest66212> RedmondFaires: my point is that the control between you and the fish are equal in terms of liberty induction
+[03:00.19] <RedmondFaires> Because I think you're saying that if it emulates  a creature, it has to be a perfect emulation and then itself can be controlled
+[03:00.42] <RedmondFaires> No, it's just a simulation. the operator would not be influenced by the "fish", neither would be the cyranoids
+[03:00.46] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 264 seconds)
+[03:01.11] * eriRca____ (~erica@h37n2-um-a32.ias.bredband.telia.com) has joined channel ##programming
+[03:01.32] <RedmondFaires> Liberty... induction?  Explain..
+[03:02.14] <RedmondFaires> Look, the only relation the cyranoids have to the "fish" are they they mimic and appear like the fish, or an ideal fish.
+[03:02.33] --Haudegen-- logged in with account (haudegen)
+[03:04.14] <Guest66212> RedmondFaires: you could take one fish and use the cyranoids to mimic it's behavior in millions of environments simultaneously
+[03:04.32] --bluss-- logged in with account (bluss)
+[03:04.37] <RedmondFaires> ... I reluctantly ask... anything else?
+[03:05.19] * blackb1rd (~zack@2602:30a:c021:2ee0:8900:3770:8fd6:8972) Quit (Ping timeout: 252 seconds)
+[03:05.20] <ihatehex> I wish I were a fish :(
+[03:05.32] * eriRca____ (~erica@h37n2-um-a32.ias.bredband.telia.com) Quit (Ping timeout: 252 seconds)
+[03:05.47] <RedmondFaires> That makes no... what?
+[03:06.07] <Guest66212> RedmondFaires: why use the cyranoids to modify the behavior of other fish given that you can modify the behavior of the cyranoids directly?
+[03:06.36] <RedmondFaires> Are you asking how the cyranoids would be trained? That isn't what I'm focusing on.. We can just assume they already have to capability to mimic behaviors.
+[03:06.57] <RedmondFaires> Guest66212L Because the cyranoids aren't what we're interested in. The "fish" are.
+[03:06.59] <Guest66212> i'm asking what advantage there is to utilizing the cyranoids to exert control over the non-cyranoids
+[03:07.11] <RedmondFaires> Say we're herding cattle and we need to get them into a fence.
+[03:07.40] <RedmondFaires> We're focused on leading the group of cattle, the cyranoids are just the measures that we use to do so.
+[03:08.00] <Guest66212> what if you could turn the cattle into cyranoids by giving them brain-implants?
+[03:08.10] <hanshenrik> distributed database...
+[03:08.26] * Linne (~beren@78.181.152.246) has joined channel ##programming
+[03:08.36] <RedmondFaires> >.>
+[03:08.47] <hanshenrik> cats!'
+[03:09.01] * pluszak (~jakubka@Wikipedia/Plushy) has joined channel ##programming
+[03:09.26] <hanshenrik> so...
+[03:09.28] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) has joined channel ##programming
+[03:09.28] <RedmondFaires> You could reuse this swarm of aquatic cyranoids to fish in large numbers and even hopefully lead massive schools of fish in a net.
+[03:09.51] <RedmondFaires> Pests such as loud birds can be redirected away from residential areas using this method.
+[03:10.48] <hanshenrik> i want a distributed hash table in PHP
+[03:11.10] <hanshenrik> basically just a bunch of sqlite dbs scattered, should be easy, right?
+[03:11.46] <RedmondFaires> How will you access it?
+[03:12.02] <RedmondFaires> You'll probably need Async IO.. What kind of application is this for?
+[03:13.07] * boB_K7IQ (~IceChat9@50.125.40.122) Quit (Ping timeout: 250 seconds)
+[03:13.39] <hanshenrik> RedmondFaires, i will access them via HTTP GET requests,  in theory when i need to find something, ill send a single get request to each of the db's simultaneously, and
+[03:13.40] <hanshenrik> yeah..
+[03:13.44] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[03:14.00] <hanshenrik> RedmondFaires, a virtual file system
+[03:14.30] <Guest66212> RedmondFaires: cyranoids are different from non-cyranoids in that they collectively conspire to manifest their will through the identities of the non-cyranoids
+[03:14.41] <hanshenrik> but ill need some way to make unique keys
+[03:14.50] <RedmondFaires> You'll have to choose a language that allows async connections to sqllite databases. Most are sequential.
+[03:14.53] <hanshenrik> preferrably just an uint64_t
+[03:15.06] <RedmondFaires> AFAIK sqllite stores everything to a file
+[07:15.43] *** Server disconnected on irc.freenode.net

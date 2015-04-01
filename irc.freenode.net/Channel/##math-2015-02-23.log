@@ -1,0 +1,475 @@
+Session Start: Mon Feb 23 12:46:18 2015
+Session Ident: ##math
+[12:46.18] * You have joined ##math
+[12:46.18] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[12:46.18] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[12:46.19] Channel modes for ##math are :+Ccnt
+[12:46.19] Channel Created on: 8:42 PM 1/29/2010
+[12:46.21] <sylow1> cool
+[12:46.37] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[12:46.54] <illustion> normal is how close for a group to being abelian
+[12:47.04] <illustion> so being abelian is being normal
+[12:47.11] <illustion> but the reverse isn’t true
+[12:47.14] * xff0x (~xff0x@178.124.178.111) Quit (Ping timeout: 245 seconds)
+[12:47.23] <illustion> being normal doesn’t imply that it is abelian
+[12:47.36] <illustion> coz you consider equality as sets not as elements
+[12:48.03] <sylow1> yea
+[12:48.20] * thunderdome (~thunderdo@c-50-134-96-97.hsd1.va.comcast.net) Quit (Quit: Leaving)
+[12:49.02] * `Eddie (~dedword@62.122.139.151) has joined channel ##math
+[12:49.10] * lefrenzy (~iamzaki@2601:c:a380:a09:2c39:5527:3a67:35a1) Quit (Quit: Leaving...)
+[12:49.18] <illustion> cads any ideas?
+[12:51.07] * kreiGT (~kreig@201.216.140.134) Quit (Remote host closed the connection)
+[12:53.11] * hellloooo (d05dcaea@gateway/web/freenode/ip.208.93.202.234) Quit (Ping timeout: 246 seconds)
+[12:54.17] * CvP (CvP@203.76.123.238) Quit (Read error: No route to host)
+[12:54.55] * CvP (CvP@203.76.123.238) has joined channel ##math
+[12:55.03] * norkle (~norkle@unaffiliated/norkle) has joined channel ##math
+[12:55.30] * pyon (~suckmy@unaffiliated/pyon) Quit (Quit: Fantaisie Im-pyon-ptu...)
+[12:56.45] <cads> illustion: section 10, theorem A of halmos shows that u* is an extension of u in the sense that if M is in A, then u(M) = u*(M). So our result that u*(M) = 0 for all M has to be wrong
+[12:57.18] * thang1 (~thang@74-85-82-130.wallawalla.edu) Quit (Quit: thang1)
+[12:58.21] * cj3kim (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[12:58.26] <cads> not sure where it's going wrong, though
+[12:58.47] * z3n0 (~Zeno@c-67-168-95-217.hsd1.wa.comcast.net) has joined channel ##math
+[12:59.09] <illustion> oh not another question to get stuck on :S
+[12:59.46] <illustion> what I am wondering though
+[12:59.59] <illustion> is If A is finite and we have u(A) = 0
+[01:00.08] * cj3kim (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[01:00.24] <cads> yeah
+[01:00.46] * duncannz (~duncannz@121-74-211-231.telstraclear.net) has joined channel ##math
+[01:00.58] <illustion> however u*(A) = 0 since we can always find finite covering
+[01:01.01] <illustion> from sigma
+[01:01.08] * mabino-pyon (~suckmy@unaffiliated/pyon) has joined channel ##math
+[01:01.36] <illustion> since we can consider u(Sigma - A^c) = u (A)
+[01:01.46] <illustion> so that is the reason u*(A) = 0
+[01:02.04] * Romin (~Romin@dyn-72-33-18-24.uwnet.wisc.edu) Quit (Ping timeout: 246 seconds)
+[01:02.13] <illustion> for the case if A is finite
+[01:02.13] * cj3kim (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[01:02.28] <cads> I think it's turning out that u is not a measure
+[01:02.53] <illustion> do you agree on my argument if  A is finite?
+[01:03.00] <illustion> yeh
+[01:03.05] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) has joined channel ##math
+[01:03.58] <cads> illustion: are you talking about the algebra A?
+[01:04.08] <cads> A is countably infinite
+[01:04.17] <illustion> yeh
+[01:04.29] <illustion> yeh cads
+[01:04.31] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[01:04.47] * NightRa (uid40361@gateway/web/irccloud.com/x-qszmpzpkywbvsmjd) has joined channel ##math
+[01:05.09] <cads> are you talking about the case where Omega is finite?
+[01:05.24] <cads> that's the only case where A as defined can be finite
+[01:05.34] * vladsot (~vladsot@24-240-39-32.dhcp.mdsn.wi.charter.com) Quit (Quit: leaving)
+[01:05.52] <cads> but in that case, u is not properly defined anymore
+[01:06.44] <illustion> yeh
+[01:06.45] <cads> illustion: also, lets use   M to denote either a member of the algebra A or a subset of Omega, and use A only to denote the algebra A
+[01:07.02] <illustion> Ok lets use that notation
+[01:07.02] <cads> okay, I'm convinced that u is not a measure
+[01:07.13] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[01:07.26] <cads> because consider -  Omega = Union {the singletons}
+[01:07.37] <illustion> alright
+[01:08.08] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:08.19] * Haldrik (~haldrik@unaffiliated/haldrik) has joined channel ##math
+[01:08.32] <cads> but since a measure is countably additive, then u(Omega) = Sum u(S_i) = 0,  where S_i are the singletons.
+[01:08.51] <cads> but by defintion, u(Omega) = 1, since the compoenent of omega is a finite set (the empty set)
+[01:09.26] * peterhil` (~peterhil@dsl-hkibrasgw4-50df52-105.dhcp.inet.fi) has joined channel ##math
+[01:09.31] <illustion> yeh
+[01:09.36] <cads> so it may be the case that the book you're working with allows us to consider the outer measure generated by a set function that is not a measure
+[01:09.53] <cads> in which case I do stand by the judgment that u* = 0
+[01:10.29] <cads> illustion: can you check to see if u must be a measure?
+[01:10.31] <illustion> it doesn’t have to be a measure
+[01:10.38] <cads> ah, okay
+[01:10.39] <illustion> it just have to be
+[01:10.42] <illustion> u(phi) = 0
+[01:10.46] <illustion> and u(A) >= 0
+[01:10.49] <illustion> thats it
+[01:11.08] <cads> phi is the empty set?
+[01:11.11] <illustion> yeh
+[01:11.13] * RockLee (~Lizard@c-50-130-117-0.hsd1.tn.comcast.net) Quit (Ping timeout: 244 seconds)
+[01:11.16] <cads> and A is a set of the algebra A?
+[01:11.21] <illustion> yeh
+[01:11.35] <illustion> A is any subset of 2^omega
+[01:11.41] <illustion> doesn’t have to be an algebra
+[01:11.52] * peterhil (~peterhil@dsl-hkibrasgw4-50df52-105.dhcp.inet.fi) Quit (Ping timeout: 245 seconds)
+[01:12.00] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 264 seconds)
+[01:12.19] <cads> illustion: but you wrote u(A), which implies A is a set of Omega
+[01:12.44] <cads> then in the next sentence you wrote A is a substet of 2^Omega
+[01:13.29] <cads> those are two different creatures - since we don't have Fancy A and Regular A, like your book does, I think we should be careful about what use A for
+[01:13.34] <illustion> 1 moment
+[01:13.41] <illustion> stupid book
+[01:13.49] <illustion> he have two different A
+[01:14.05] <blocky> i have a statistics question that asks me to generate a set of random, 2 dimensional data with a mean of [5 5]' and a covariance matrix which is a function of sigma1 and sigma2 but only one of the sigma's is given. I am also given a specific rho. does anyone know what this refers to, or how to do this in matlab?
+[01:14.20] <illustion> yeh exactly A is an element of A that is subset of 2^Omega
+[01:14.39] <illustion> A is an element of A` that is subset of 2^Omega
+[01:14.58] <illustion> and we must have empty set belonging to A`
+[01:15.11] <cads> illustion: lol, over the past few days I've been noticing that on some ocassions you may be confusing A and A, but you recover when I restate things
+[01:15.34] <illustion> yeh lol just doing math all day messes with your brain :D
+[01:16.01] <cads> I'd like to use A to denote only the subset of 2^Omega
+[01:16.16] <illustion> alright
+[01:16.17] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP02.NATPOOL.NYU.EDU) Quit (Quit: mmhun)
+[01:16.47] <cads> and if another definition we read from somewhere else uses A for something other than that, we should transalate it to another letter, like M or D or F
+[01:16.53] * xff0x (~xff0x@86.57.158.78) has joined channel ##math
+[01:17.09] <illustion> yeh I agree
+[01:17.47] * WizJin (~WizJinAFK@103.21.160.239) has joined channel ##math
+[01:18.25] <cads> wow, okay, I am revisiting ＋＋http://postimg.org/image/gsx5z4yr9/，，
+[01:18.35] <cads> I assumed that all the u were measures! lol!
+[01:18.38] * grill (~W@unaffiliated/floatingpoint) Quit (Ping timeout: 240 seconds)
+[01:19.30] * frogbasket (~frogbaske@D-69-91-129-55.dhcp4.washington.edu) Quit (Remote host closed the connection)
+[01:19.39] <cads> illustion: I think I need to get a copy of the book
+[01:19.45] <cads> remind me who the author is?
+[01:19.54] <illustion> cads I will message you privately
+[01:21.02] * grill (~W@unaffiliated/floatingpoint) has joined channel ##math
+[01:21.13] * assia_t (~assia_t@189.38.172.216) has joined channel ##math
+[01:23.35] * atomicsuplex (~red_c@24.69.220.169) has joined channel ##math
+[01:25.37] * assia_t (~assia_t@189.38.172.216) Quit (Ping timeout: 246 seconds)
+[01:26.27] * frogbasket (~frogbaske@D-69-91-129-55.dhcp4.washington.edu) has joined channel ##math
+[01:28.50] <frogbasket> g is cont on boundary of D, and integral of g over the boundary is 0. n the unit normal of boundary. I need du/dn=g on boundary of D with u harmonic. I think I'm forgetting some calc III stuff
+[01:29.25] * episplit (~emily@c-174-52-154-254.hsd1.ut.comcast.net) Quit (Ping timeout: 246 seconds)
+[01:29.48] * yazou (~yazou@modemcable085.171-58-74.mc.videotron.ca) Quit (Remote host closed the connection)
+[01:33.59] * chiffon (~chiffon@dante11.u.washington.edu) has joined channel ##math
+[01:34.20] * no0p (~robert@c-71-237-193-74.hsd1.or.comcast.net) Quit (Ping timeout: 246 seconds)
+[01:34.23] <chiffon> Suppose a_n > b_n > 0 and a_n is decreasing and lim_{n -> infinity} a_n = 0.
+[01:34.39] <chiffon> Does this directly imply that the sum of (-1)^n b_n is convergent?
+[01:34.46] <chiffon> because of the alternating series test
+[01:34.59] <chiffon> actually
+[01:35.01] <chiffon> never mind
+[01:36.16] * localuser- (~none@unaffiliated/localuser-) Quit (Ping timeout: 256 seconds)
+[01:36.33] * benonsoftware (~benny@ubuntu/member/benonsoftware) Quit (Quit: ZNC - 1.7.0-git-8-4d44bfe - ＋＋http://znc.in，，)
+[01:36.36] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) has joined channel ##math
+[01:36.44] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) Quit (Ping timeout: 250 seconds)
+[01:37.05] * benonsoftware (benny@2a03:f80:ed15:ca7:ea75:b12d:713:8276) has joined channel ##math
+[01:37.27] * benonsoftware is now known as Guest48867
+[01:37.45] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[01:37.56] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 265 seconds)
+[01:38.23] * lolol (~lolol@CPE84948c838a21-CM84948c838a20.cpe.net.cable.rogers.com) has joined channel ##math
+[01:38.30] <lolol> Hey guys could you help me out?
+[01:38.35] <lolol> how do i show
+[01:38.45] <lolol> log3pi + logpi3> 2
+[01:39.00] <monoprotic> log_3 pi + log_pi 3 > 2   ?
+[01:39.05] <lolol> yes
+[01:39.11] * Guest48867 (benny@2a03:f80:ed15:ca7:ea75:b12d:713:8276) Quit (Changing host)
+[01:39.11] * Guest48867 (benny@ubuntu/member/benonsoftware) has joined channel ##math
+[01:39.13] <lolol> Without using a calc
+[01:39.15] * Guest48867 is now known as benonsoftware
+[01:40.09] <lolol> Prove that log3 π + logπ 3 > 2. Do not use a calculator, or a lookup table to compute numerical
+[01:40.29] <tac_> lolol: My guess: change the base, then use your log laws
+[01:41.11] <tac_> lolol: you can chat in this channel about your question
+[01:41.14] * tarkus (~hello@109.230.140.12) has joined channel ##math
+[01:41.43] <tac_> as in, please do not PM me
+[01:42.23] * mrdata (~mrdata@unaffiliated/mrdata) Quit (Ping timeout: 246 seconds)
+[01:42.48] * xacktm (xacktm@ip70-162-11-251.ph.ph.cox.net) Quit (Quit: brb new kernel day!)
+[01:43.46] <lolol> Oh sorry
+[01:43.49] <lolol> Anyways
+[01:44.15] <lolol> I come down to log_3 pi + 1/log_3 pi
+[01:44.39] <lolol> tac_: I come down to log_3 pi + 1/log_3 pi
+[01:44.54] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) Quit (Ping timeout: 246 seconds)
+[01:46.06] * krator44 (krator44@gateway/shell/elitebnc/x-zttgsseqkkptllnt) Quit (Quit: --)
+[01:46.36] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) has joined channel ##math
+[01:47.34] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[01:47.41] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:47.47] <tac_> let's see
+[01:47.55] <tac_> divide both sides by log3 pi
+[01:47.56] <tac_> you get
+[01:48.29] * episplit (~emily@c-174-52-154-254.hsd1.ut.comcast.net) has joined channel ##math
+[01:48.38] <tac_> whoops, made an error
+[01:49.29] * xacktm (xacktm@ip70-162-11-251.ph.ph.cox.net) has joined channel ##math
+[01:49.33] <django_> how do you find the rank of a matrix
+[01:49.37] * Ozera_zz is now known as Ozera
+[01:49.48] <tac_> django_: row reduce, count the nonzero rows
+[01:49.51] * WizJin (~WizJinAFK@103.21.160.239) Quit (Quit: Leaving)
+[01:50.04] <django_> tac_ how do you know when you cant row reduce
+[01:50.33] <tac_> django_: there's an algorithm for it
+[01:50.39] <tac_> but it's pretty intuitive
+[01:51.08] * mrdata (~mrdata@unaffiliated/mrdata) has joined channel ##math
+[01:51.13] <django_> gauss elimination?
+[01:51.24] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) Quit (Remote host closed the connection)
+[01:51.28] <lolol> In any case that would be best for we could come down to
+[01:51.31] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##math
+[01:51.37] <lolol> I mean this is a question from discrete mathematics
+[01:51.57] <tac_> django_: yes
+[01:51.59] <lolol> Could we use logic to show that statement is true?
+[01:52.09] <lolol> for example as pi being a little larger than 3
+[01:52.13] <lolol> therefore we could say
+[01:52.21] <wlczkun> anybody awake? i have a sort of . . . linear algebra/linear operator question
+[01:52.26] <django_> tac_ whats the quickest way though
+[01:52.27] <tac_> "a little larger" isn't a very well quantified statement
+[01:52.28] <lolol> log3 pi is greater than one
+[01:52.51] <wlczkun> need just a couple pointers i guess, it's pretty simple. uploading an image of it
+[01:53.03] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[01:53.21] <django_> tac_ like this: ＋＋https://www.dropbox.com/s/5j8g9oqyphex70j/1.16.PNG?dl=0，，
+[01:53.22] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has left ##math (("Leaving"))
+[01:53.36] <django_> i wanna to check that the rank of the coefficient matrix is same as the rank of the augmented matrix
+[01:53.39] <wlczkun> ＋＋http://puu.sh/g90Q7/39c2f31f2d.png，，
+[01:53.39] <lolol> Well, log_3 pi + log_pi 3 > 2 the best we could simplify it would be to log_3 pi + 1/log_3 pi
+[01:53.41] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[01:53.54] <wlczkun> its about eigenvalues of a function..
+[01:54.06] <wlczkun> with respect ot quantum mechanics
+[01:54.17] <wlczkun> H is positive definite i think ?
+[01:54.41] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) has joined channel ##math
+[01:54.43] <wlczkun> positive semidefinite maybe
+[01:55.41] * rindolf (~Shlomi@bzq-79-183-180-10.red.bezeqint.net) has joined channel ##math
+[01:55.50] <wlczkun> something to do with hermiticity
+[01:55.58] * Guest82 (~textual@101.50.102.219) has joined channel ##math
+[01:56.14] <lolol> any ideas
+[01:56.14] <tac_> django_: I would not expect them to be
+[01:56.15] <lolol> ?
+[01:56.25] * cj3kim (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[01:56.35] <tac_> django_: the augmented matrix is really not a good way of thinking about things. It's just helpful when you chug through the algorithm
+[01:56.35] <django_> tac_ they are
+[01:56.40] <tac_> oh yeah?
+[01:56.41] <tac_> hm
+[01:57.13] <django_> if both matrices have same rank then you can solve the augmented matrix
+[01:57.21] <lolol> tac_: Well, this is a question discrete math.
+[01:57.53] * cj3kim (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[01:58.42] * lyxia (~xia@sas.eleves.ens.fr) Quit (Ping timeout: 240 seconds)
+[01:58.47] <wlczkun> if a function is symmetric in x and y, H(x,y) = H(x,y) then is it separable like F(x)F(y)
+[01:59.06] <wlczkun> its also real
+[01:59.24] * superlinux-hp (~oracle@unaffiliated/superlinux) has joined channel ##math
+[01:59.33] * lyxia (~xia@sas.eleves.ens.fr) has joined channel ##math
+[02:00.00] * cj3kim (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[02:00.18] * Litt (~EightyTwo@202-89-151-114.ue.woosh.co.nz) has joined channel ##math
+[02:02.44] <lyxia> lolol: On what interval is x+1/x increasing?
+[02:02.56] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[02:03.03] * cads (43a6c169@gateway/web/freenode/ip.67.166.193.105) Quit (Quit: Page closed)
+[02:05.46] * timlyg (~timlyg@ool-45716958.dyn.optonline.net) Quit (Ping timeout: 255 seconds)
+[02:05.50] * grill (~W@unaffiliated/floatingpoint) Quit (Ping timeout: 250 seconds)
+[02:06.25] * Guest2752 (no-n@that.bitch.stole-your.info) has left ##math ()
+[02:06.47] * duckrabbit (~duckrabbi@ddtsao-2-res.resnet.ucsd.edu) Quit (Read error: Connection reset by peer)
+[02:06.50] * emilypi (~emily@c-174-52-154-254.hsd1.ut.comcast.net) has joined channel ##math
+[02:06.51] * TheLoneMilkMan__ (~Gamemaste@vincelaptop.rh.rit.edu) Quit (Quit: Leaving)
+[02:07.17] * X-Scale (~gbabios@2001:0:c38c:c38c:0:e552:b2c9:442e) Quit (Ping timeout: 252 seconds)
+[02:08.12] <wlczkun> _:[ tought night
+[02:08.52] * u-ou (no-n@unaffiliated/no-n) has joined channel ##math
+[02:09.10] * oalvarez (~alvarezp@pdpc/supporter/active/alvarezp) has joined channel ##math
+[02:09.12] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[02:09.44] * episplit (~emily@c-174-52-154-254.hsd1.ut.comcast.net) Quit (Ping timeout: 246 seconds)
+[02:09.46] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Quit: allahu akbar)
+[02:10.51] * NickParker (~kvirc@nat-128-84-124-0-793.cit.cornell.edu) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[02:11.09] * lolol (~lolol@CPE84948c838a21-CM84948c838a20.cpe.net.cable.rogers.com) Quit (Ping timeout: 246 seconds)
+[02:11.25] <wikiemol> raskol: Still here?
+[02:11.35] <raskol> wikiemol:yeah
+[02:11.56] <wikiemol> Still want to see what I was talking about?
+[02:12.02] * bigbadjudas (~666@pool-108-16-8-95.phlapa.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:12.13] <raskol> sure, although I think I have an inkling
+[02:12.24] * LucaRood (~quassel@187-109-63-50.agyonet.com.br) Quit (Remote host closed the connection)
+[02:12.34] <wikiemol> ＋＋http://flockdraw.com/dqqnik，，
+[02:12.37] <wikiemol> oh okay
+[02:13.03] * xacktm (xacktm@ip70-162-11-251.ph.ph.cox.net) Quit ()
+[02:13.12] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) Quit (Ping timeout: 250 seconds)
+[02:13.38] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 250 seconds)
+[02:13.51] * xacktm (xacktm@ip70-162-11-251.ph.ph.cox.net) has joined channel ##math
+[02:15.05] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) has joined channel ##math
+[02:16.12] * tac_ (~tac-tics@c-50-172-59-90.hsd1.il.comcast.net) Quit (Quit: Leaving)
+[02:16.34] * lrs (~lars@88-83-56-124.customer.t3.se) Quit (Remote host closed the connection)
+[02:17.15] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##math
+[02:18.26] * emirypi (~emily@2601:7:7c00:1eb:104:c153:21d8:7951) has joined channel ##math
+[02:19.13] * imagine_28 (~imagine_2@183.248.21.198.tigernet.wifi.dyn.clemson.edu) Quit (Quit: Leaving)
+[02:19.22] * rindolf (~Shlomi@bzq-79-183-180-10.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:19.31] * psy_ (~psy@182.74.25.22) has joined channel ##math
+[02:20.08] <raskol> I swear I saw this and countered it in my own head
+[02:20.17] <raskol> I cannot remember the counterargument
+[02:20.23] <wikiemol> hm
+[02:20.31] <raskol> I may have been mistaken
+[02:20.31] <wikiemol> yeah but I think you are on to something
+[02:20.40] <wikiemol> Idk
+[02:21.18] * Adib (~Adib@5249B712.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[02:21.21] <raskol> so the little blue legs are irrational
+[02:21.29] <raskol> which means that its sides are rational
+[02:21.32] * emilypi (~emily@c-174-52-154-254.hsd1.ut.comcast.net) Quit (Ping timeout: 255 seconds)
+[02:21.42] <raskol> its top and bottom I mean
+[02:21.51] <wikiemol> hmmm
+[02:21.58] * wicope (~wicope@237.74.134.37.dynamic.jazztel.es) has joined channel ##math
+[02:22.01] <wikiemol> ooh I see where you are going
+[02:22.20] <wikiemol> I think
+[02:22.37] <raskol> but those other rectangles I haven't described yet don't have to line up witha nything
+[02:22.42] * cj3kim (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[02:22.57] <pimaster> Hey guys
+[02:23.01] * maskeraid (~ramsaykai@1.186.3.149) has joined channel ##math
+[02:23.19] <raskol> oh
+[02:23.26] <raskol> I've just restated the problem as a subproblem
+[02:23.33] <pimaster> I have a differential geometry question that I am kinda curious about (it's not for homework since I am in an applied class)
+[02:23.34] <raskol> which doesn,t, in fact, get us anywhere
+[02:24.24] <raskol> oh
+[02:24.28] * thang1 (~thang@74-85-83-127.wallawalla.edu) has joined channel ##math
+[02:24.34] <raskol> wait that rectangle has irrational sides
+[02:24.43] <raskol> the golden rectangle
+[02:24.50] <wikiemol> hmmm you are right
+[02:24.54] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) Quit (Remote host closed the connection)
+[02:25.05] <pimaster> Say we have a curve r(t) in R^3, if we know that two of the components are linear, can one assume that the curve is planar? (i.e. has a torsion of 0)
+[02:25.18] <wikiemol> wait so that would be a contradiction?
+[02:25.19] <wikiemol> maybe
+[02:25.31] <raskol> no because it doesn't have to be in the original problem
+[02:25.35] <wikiemol> yeah
+[02:26.00] <wikiemol> this is difficult to think about, there are so many assumptions that can be made without realizing
+[02:26.43] <raskol> I want to say that it's impossible
+[02:26.48] <raskol> but justifying it is hard!!!
+[02:26.57] <maskeraid> When converting from non-deterministic acceptors to deterministic finite acceptors do you have to take the lambda condition into consideration?
+[02:27.41] <wikiemol> raskol: that subdividing a rectangle that way is impossible you mean?
+[02:27.44] * z3n0 (~Zeno@c-67-168-95-217.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+[02:27.50] <wikiemol> or impossible to prove?
+[02:27.53] * emilypi (~emily@c-174-52-154-254.hsd1.ut.comcast.net) has joined channel ##math
+[02:28.01] <raskol> wikiemol: that subdividing a rectangle with rational edge is in that way is impossible
+[02:28.18] <wikiemol> oooh thats interesting
+[02:29.39] <raskol> can that example you gave be on the opposite edge?
+[02:30.00] * Rollabunna (~Rollabunn@236.109.69.86.rev.sfr.net) Quit (Remote host closed the connection)
+[02:30.17] * Rollabunna (~Rollabunn@236.109.69.86.rev.sfr.net) has joined channel ##math
+[02:30.30] * cj3kim (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[02:31.10] <raskol> can that happen?
+[02:31.45] * cbot_ (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Quit: Leaving)
+[02:31.46] <raskol> if it can't we can just work from different corners or edges...
+[02:31.52] * emirypi (~emily@2601:7:7c00:1eb:104:c153:21d8:7951) Quit (Ping timeout: 250 seconds)
+[02:32.00] <raskol> now the golden box is a corner
+[02:32.04] <raskol> which is impossible, right?
+[02:32.12] <raskol> the corner is *definitely* aligned
+[02:32.19] <wikiemol> hmm
+[02:32.29] <wikiemol>  but again
+[02:32.40] <wikiemol> isn't the problem still that it may not have been there to begin with?
+[02:33.01] <raskol> but this time we know that there is a rectangle with that corner
+[02:33.09] <raskol> and that rectangle, by assumption, has a rational edge
+[02:33.20] <raskol> you have to suppose that there is another interstitial
+[02:33.27] <raskol> ...ad infinitum?
+[02:33.30] <wikiemol> ooh
+[02:33.56] <raskol> that's a real question
+[02:34.05] <wikiemol> but now we could draw *another* rectangle that is still split
+[02:34.08] <raskol> it looks like there would have to be an infinite number of "offsets"
+[02:34.10] <wikiemol> and run into the same problem
+[02:34.35] * no0p (~robert@c-71-237-193-74.hsd1.or.comcast.net) has joined channel ##math
+[02:35.10] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:35.15] <raskol> drawing is hard
+[02:35.19] <raskol> I feel like
+[02:35.43] <raskol> I feel like you can't keep throwing rectangles in because we already have a rational measure from the other side
+[02:36.01] <wikiemol> okay if I clear the screen?
+[02:36.04] <raskol> please
+[02:36.07] <wikiemol> yeah I guess so
+[02:36.20] <raskol> this is a fun question
+[02:36.22] <raskol> where did you get it
+[02:36.23] * kdlv (~aa47f8@h187n14-far-a13.ias.bredband.telia.com) has joined channel ##math
+[02:36.59] * `Eddie (~dedword@62.122.139.151) has joined channel ##math
+[02:37.19] * sylow1 (ba2dc949@gateway/web/freenode/ip.186.45.201.73) Quit (Ping timeout: 246 seconds)
+[02:38.36] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) Quit (Excess Flood)
+[02:38.41] <wikiemol> Google+
+[02:38.48] * Khayyam (4751c864@gateway/web/freenode/ip.71.81.200.100) has joined channel ##math
+[02:38.51] <wikiemol> A person named Layra in the Math community
+[02:38.57] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) has joined channel ##math
+[02:39.19] <Litt> does (-1, 1)U(2,4) count as two intervals or one?
+[02:39.43] <raskol> it's one set of two intervals
+[02:40.33] * emilypi (~emily@c-174-52-154-254.hsd1.ut.comcast.net) Quit (Quit: #basic #swagnificent #pumpkin spice)
+[02:40.47] <Litt> okay thanks
+[02:41.50] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) has joined channel ##math
+[02:41.52] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) Quit (Max SendQ exceeded)
+[02:42.03] <haasn> I'm reading up on the DFT in my textbook, and it quickly covers the DFT matrix, suggesting that the DFT can be represented as an n×n matrix where A[i,j] = z^ij  (z is the n-th root of unity, i/j are 0-indexed here)
+[02:42.17] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) has joined channel ##math
+[02:42.28] <raskol> I think chasing the box between will be harder than going around it so I propose a new strategy wikiemol
+[02:42.59] <wikiemol> ah okay what is it
+[02:43.05] <raskol> 1. pick a corner. draw a line through the entire rectangle coincident with the irrational side, if there is one, or either side if both are rational
+[02:43.09] <haasn> This is consistent with other literature. It goes on to say that the inverse of this matrix is A'[i,j] = z^(-ij)/n  (I'm not sure if this is consistent with other literature, but another source says conj(z^ij)/n)
+[02:43.17] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (Ping timeout: 245 seconds)
+[02:43.18] <raskol> 2. go to the "next" corner (clockwise, say) and do the same thing
+[02:43.41] <haasn> It then casually proves that this is an inverse by looking at the expansion of A*A'[i,j] which is 1/n * Sum[l,0,n-1] z^l(j-k)
+[02:43.48] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) Quit (Ping timeout: 265 seconds)
+[02:43.51] <wikiemol> Ah okay
+[02:44.06] <haasn> And claiming that this is 1 when j=k, but 0 when j≠k. The 1 when j=k case is trivial, since 1/n * n * z^0 = 1
+[02:44.18] <haasn> but how doe they arrive at 0 when j≠k? I've been thinking about this for the past hour and it has me stumped
+[02:44.21] * rileyjsh_ (~textual@bas6-toronto06-1279626019.dsl.bell.ca) has joined channel ##math
+[02:44.46] <raskol> now, can we get into your situation somehow
+[02:44.47] * wz1000 (~wz1000@182.64.160.86) has joined channel ##math
+[02:44.47] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##math
+[02:44.59] <raskol> after 4  we have a new problem
+[02:45.24] <haasn> I mean, in the example of j = k+1, this is basically saying that z^0 + z^1 + z^2 + ... z^(n-1) = 0
+[02:45.33] * t0by (~t0by@host87-183-dynamic.52-82-r.retail.telecomitalia.it) has joined channel ##math
+[02:45.34] * asandweech (~thissand@unaffiliated/asandweech) Quit (Ping timeout: 246 seconds)
+[02:46.12] <raskol>  can we just look at the "inner quadrilateral"
+[02:46.17] <wikiemol> hmm
+[02:46.17] * cameronfr (~cameronfr@227.215.132.27.ap.yournet.ne.jp) has joined channel ##math
+[02:46.19] <raskol> if we are able to specify it happily?
+[02:46.32] <raskol> I tried to choose a weird outcome
+[02:46.44] <raskol> obviously we could get something nicer...
+[02:47.04] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[02:47.19] <wikiemol> well the problem now is that not all sides are going to have that same property you noticed at the beggining
+[02:47.27] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##math
+[02:47.38] <wikiemol> I.e. the new cuts may not preserve the rationalness of the big sides
+[02:47.41] <haasn> Oh, I think I get it - they're all nth roots of unity, so each has a corresponding “opposite”, adding them all together gives 0
+[02:47.42] <raskol> but it will have the property I claimed before
+[02:47.46] <wikiemol> right?
+[02:47.48] <wikiemol> oh
+[02:47.56] <raskol> incorrectly, in the general case
+[02:48.11] <raskol> or... gh
+[02:48.18] <raskol> maybe I keep trying to bite off too much!!
+[02:48.36] * rileyjsh_ (~textual@bas6-toronto06-1279626019.dsl.bell.ca) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[02:48.38] <wikiemol> Lets try a completely different approach for a second
+[02:48.52] <wikiemol> Lets see if we can start with the big sides and derive things based off of that
+[02:48.58] * rileyjsh_ (~textual@bas6-toronto06-1279626019.dsl.bell.ca) has joined channel ##math
+[02:49.56] * maskeraid (~ramsaykai@1.186.3.149) Quit (Ping timeout: 264 seconds)
+[02:53.25] * chiffon (~chiffon@dante11.u.washington.edu) Quit (Ping timeout: 252 seconds)
+[02:54.13] * Romin (~Romin@97-88-251-202.static.mdsn.wi.charter.com) has joined channel ##math
+[02:55.32] <raskol> wikiemol: I don't see how to generalize from a picture in this case
+[02:55.47] * Drew| (~drew@2602:306:367f:b170:78b2:bf95:47bc:dcc6) Quit (Quit: Leaving)
+[02:55.50] <raskol> you will be able to trace a "rational path" I think
+[02:55.51] * chiffon (~chiffon@dante11.u.washington.edu) has joined channel ##math
+[02:56.00] <raskol> but it doesnt' follow that there always is one...
+[02:56.09] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[02:56.16] <wikiemol> raskol: Yeah its difficult
+[02:56.20] * jazzcrow (~jazzcrow@000c417c04a1.click-network.com) has joined channel ##math
+[02:56.26] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[02:56.50] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##math
+[02:57.12] * bkboggy (~bkboggy@cpe-172-250-167-24.socal.res.rr.com) Quit (Quit: Leaving)
+[02:57.38] * Sirolf (~Sirolf@52491976.cm-4-2a.dynamic.ziggo.nl) has joined channel ##math
+[02:57.47] * bleb (~caleb@209-6-88-180.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[02:58.35] <raskol> wikiemol: ohoooh
+[02:59.09] <raskol> we don't just take the first rational edge, we take the all the consecutive rational edges
+[02:59.24] <raskol> the "maximum rational edge" along the side
+[02:59.45] * jazzcrow (~jazzcrow@000c417c04a1.click-network.com) has left ##math ()
+[02:59.57] * Folkol (~Folkol@h-160-222.a137.corp.bahnhof.se) has joined channel ##math
+[03:00.35] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 246 seconds)
+[03:01.51] * Guest82 (~textual@101.50.102.219) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[03:02.02] <raskol> cut parallel after the maximum rational edge perpendicular to that???
+[03:02.02] <wikiemol> I'm confused
+[03:02.09] <raskol> oh
+[03:02.13] <raskol> I swapped colors again
+[03:02.14] <raskol> fffffff
+[03:02.49] <raskol> I don't want to delete your picture unless you're done with it
+[03:02.53] <raskol> should I start another drawing?
+[03:02.55] <wikiemol> Oh go ahead
+[03:03.36] <raskol> okay so we pick a corner, some number of lengths in some direction (possibly only 1) are rational, ok? That,s the green line
+[03:04.30] * bluss (~bluss@c-397371d5.023-122-6c756e10.cust.bredbandsbolaget.se) has joined channel ##math
+[03:04.33] * bluss (~bluss@c-397371d5.023-122-6c756e10.cust.bredbandsbolaget.se) Quit (Changing host)
+[03:04.33] * bluss (~bluss@unaffiliated/engla) has joined channel ##math
+[03:04.55] <wikiemol> okay
+[03:05.00] <raskol> what's at the end of the green line? A perpendicular rational edge
+[03:05.00] <wikiemol> makes sense
+[03:05.23] * Guest82 (~textual@101.50.102.219) has joined channel ##math
+[03:05.30] * t0by (~t0by@host87-183-dynamic.52-82-r.retail.telecomitalia.it) Quit (Remote host closed the connection)
+[03:05.40] <wikiemol> Okay
+[03:05.42] <raskol> ahhhh I can't put it into words
+[03:05.50] <raskol> I am certain that cutting off this part:
+[03:06.09] * chiffon_ (~chiffon@dante12.u.washington.edu) has joined channel ##math
+[03:06.14] <raskol> is "safe"
+[03:06.27] <raskol> err
+[03:06.29] <raskol> I drew the line wrong
+[03:06.35] <wikiemol> I get what you mean
+[03:06.39] <wikiemol> I feel that too
+[03:07.48] <wikiemol> Hmmm
+[03:07.56] <raskol> there's nowhere to put an irrational in between things"
+[03:08.01] * chiffon (~chiffon@dante11.u.washington.edu) Quit (Ping timeout: 264 seconds)
+[03:08.04] <raskol> is my intuition
+[03:08.27] * Linne (~beren@78.181.152.246) has joined channel ##math
+[03:08.39] <wikiemol> Yeah I know exactly what you mean
+[03:08.42] * Kironide__ (~chiffon@dante11.u.washington.edu) has joined channel ##math
+[03:08.43] <wikiemol> its hard to formalize it
+[03:09.07] <wikiemol> There has to be an elegant way to think of a general subdivided rectangle
+[03:09.28] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) has joined channel ##math
+[03:09.30] <wikiemol> before I asked the question on here I started thinking of the rectangle as a connected graph
+[03:10.16] <wikiemol> Each node of the graph representing a rectangle
+[03:10.22] * chiffon_ (~chiffon@dante12.u.washington.edu) Quit (Ping timeout: 245 seconds)
+[03:10.27] <raskol> I bet there's some stupid proof just based on the diagonal
+[03:10.38] <wikiemol> haha I also thought about that
+[03:10.43] * jagob (~jacob@h145.natout.aau.dk) has joined channel ##math
+[03:10.51] <raskol> 3 lines, read your euclid kids, etc.
+[03:11.23] <raskol> I am going to sleep on it
+[03:11.29] <raskol> thank youf or this problem and discussing it with me!
+[03:11.33] <wikiemol> Yeah me too
+[03:11.36] <raskol> I will at least torture my brother with it
+[03:11.38] <wikiemol> No problem! Thank you
+[03:11.51] <wikiemol> Its always good to have people to discuss this with
+[03:13.09] * Kompton (~Kompton@unaffiliated/condenado) Quit (Remote host closed the connection)
+[03:13.44] * `Eddie (~dedword@62.122.139.151) Quit (Quit: the mac is asleep)
+[03:14.48] * math960 (2ef64a3c@gateway/web/freenode/ip.46.246.74.60) has joined channel ##math
+[03:14.56] <math960> I NEED HELP
+[03:15.11] * Neutron (~neutron@17.92-220-157.customer.lyse.net) Quit (Ping timeout: 255 seconds)
+[07:15.43] *** Server disconnected on irc.freenode.net

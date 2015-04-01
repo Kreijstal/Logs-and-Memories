@@ -1,0 +1,276 @@
+Session Start: Fri Feb 13 11:00:53 2015
+Session Ident: ##programming
+[11:00.53] * You have joined ##programming
+[11:00.53] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[11:00.53] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[11:00.53] Channel modes for ##programming are :+cntf ##overflow
+[11:00.53] Channel Created on: 5:23 AM 2/4/2007
+[11:00.57] <ScriptKitty> I have been using that, then I started thinking..
+[11:01.04] <Myrl> pyon: amigojapan Serpentine_ ＋＋http://puu.sh/fTknv.png，，
+[11:01.07] <SailorR> X_C_V_B is a troll
+[11:01.09] <SailorR> @ops
+[11:01.16] <ScriptKitty> what if push had a backdoor?
+[11:01.18] <Rainb> Damn, I never find any good clients
+[11:01.27] * ablest1980 (~ablest198@50.12.14.151) has joined channel ##programming
+[11:01.30] <amigojapan> ah ok ScriptKitty ,, nice
+[11:01.31] <Rainb> I installed hexchat and it crashes in windows 8
+[11:01.38] <SailorR> amigojapan
+[11:01.39] <Rainb> ScriptKittyoh my god you're here
+[11:01.40] <SailorR> I remember u
+[11:01.45] <Rainb> OH WOW
+[11:01.48] <amigojapan> hi SailorR
+[11:01.48] --ablest1980-- logged in with account (ablest1980)
+[11:01.48] * day- (~day@unaffiliated/day) has joined channel ##programming
+[11:01.52] <Myrl> Rainb: ScriptKitty I remember both of you.
+[11:01.53] <SailorR> hi
+[11:01.56] <Myrl> You too, day-.
+[11:01.56] <SailorR> did you meet sailormoon yet
+[11:01.58] <amigojapan> SailorR: are  you a Sailor Moon fan?
+[11:02.00] <Rainb> Sorry I didn't reply to you last time
+[11:02.01] <ScriptKitty> hello ^^
+[11:02.03] <Rainb> I was afk
+[11:02.09] <SailorR> I am sailormoon
+[11:02.09] <ScriptKitty> it's ok
+[11:02.14] <haya600> scriptkitty can you get sued if your project breaks on freelancer and is how much exp should I have before using freelancer?
+[11:02.17] <amigojapan> SailorR: meet? that would be quite difficult
+[11:02.22] <SailorR> why
+[11:02.27] <ScriptKitty> no
+[11:02.29] <ScriptKitty> I cannot
+[11:02.34] <ScriptKitty> I did not sign anything
+[11:02.51] <Rainb> haya600, you need to be an Indian level 65 in order to join freelancer.com
+[11:02.51] <ScriptKitty> or make any promises
+[11:03.09] <amigojapan> Myrl: this is the ALU I designed in logicly,  every chip, I also desined the NAND gates inside ＋＋http://i.imgur.com/1fkd2KA.jpg，，
+[11:03.14] * Nevox (~Nevox@x2f55b4f.dyn.telefonica.de) Quit (Quit: Leaving)
+[11:03.17] <Serpentine_> Well, the converse is also true; you cannot force a client to pay you for completing their work if you give the completed project first.
+[11:03.25] <amigojapan> SailorR: cause Sailor Moon is not real
+[11:03.30] <haya600> I'm a beginner is freelancer a good way to get some finished projects on my resume, what are your thoughts?
+[11:03.44] * STumbles (~stumbles@c-24-17-164-127.hsd1.wa.comcast.net) has joined channel ##programming
+[11:03.44] --STumbles-- logged in with account (sstumbles)
+[11:03.49] <Rainb> "Stay away from that crap", that's probably what I think
+[11:04.04] * antons (~antons@199.48.120.7) has joined channel ##programming
+[11:04.08] <Rainb> Do something like FOSS work for your resume, dunno
+[11:04.16] <_X_C_V_B_> you guys must be bored to create logic gate stuff
+[11:04.17] * agorecki (~agorecki@unaffiliated/agorecki) Quit (Ping timeout: 246 seconds)
+[11:04.29] <Rainb> OR fascinated
+[11:04.42] <amigojapan> Rainb: I got something made for me in freelancer , some artwork for 50 dollars, it was not bad….  it was someone frome Romania
+[11:04.49] * day (~day@unaffiliated/day) Quit (Ping timeout: 245 seconds)
+[11:05.03] <amigojapan> _X_C_V_B_: it is fun
+[11:05.17] <Myrl> amigojapan: Damn. What are the functions?
+[11:05.34] <Myrl> Oh.
+[11:05.36] <Rainb> it's like saying math is boring, not logical
+[11:05.37] <Myrl> It's at the bottomright.
+[11:05.55] <_X_C_V_B_> amigojapan: now go build your own computer from ICs
+[11:06.11] <Rainb> _X_C_V_B_: I want to make my own computar
+[11:06.23] <Rainb> 2 DIY 4 u
+[11:06.26] <amigojapan> Myrl: it can ADD OR XOR NAND and AND 2 values
+[11:06.48] <Rainb> It will be from NOR gates
+[11:06.49] <amigojapan> _X_C_V_B_: I am planning to build a computer out of relays
+[11:06.53] <Rainb> instead of NAND gates
+[11:07.02] <Rainb> cause everyone uses NAND gates for no reason
+[11:07.02] <haya600> i made a logic gate computer with my own blood as the wiring
+[11:07.11] <Myrl> amigojapan: xor? by supressing carry?
+[11:07.27] <Rainb> or what if I make a computer with each gate being it's own gate
+[11:07.30] <Serpentine_> Well, everyone uses NAND gates because it's cheaper to manufacture and operate
+[11:07.39] <_X_C_V_B_> relays?
+[11:07.42] <_X_C_V_B_> really
+[11:07.51] <amigojapan> Myrl: I think so
+[11:07.53] * boB_K7IQ (~IceChat9@static-50-125-97-34.myvi.wa.frontiernet.net) Quit (Ping timeout: 252 seconds)
+[11:07.59] <_X_C_V_B_> there so fucking slow
+[11:08.19] <Rainb> what is more abstract than a logic gate
+[11:08.29] <_X_C_V_B_> python
+[11:08.46] <Serpentine_> An advanced computer
+[11:08.55] <Myrl> amigojapan: ＋＋http://puu.sh/fTllj.png，，
+[11:08.55] <amigojapan> _X_C_V_B_: did you know someone made a “computer” using domino chips? it could add 2 binary values
+[11:09.00] <Myrl> amigojapan: 2-bit multiplier.
+[11:09.05] <amigojapan> one sec Myrl
+[11:09.11] <Serpentine_> (Despite hearing the word "abstraction" being tossed around frequently, I still do not entirely know it's meaning)
+[11:09.17] <_X_C_V_B_> amigojapan: yes
+[11:09.17] <Myrl> amigojapan: With a transistorized version.
+[11:09.28] <Rainb> Serpentine_: It means ignoring information
+[11:09.53] <Rainb> say you have a blue chair, so in order to abstract it, you delete details
+[11:09.56] <Myrl> Rainb: More like implying information.
+[11:10.04] <Rainb> so it's no longer a blue chair, just a chair
+[11:10.27] <haya600> you dont haev tow orry about the tiny details like 1's and 0's when you're abstracting
+[11:10.38] <Rainb> or you could just ignore more information, and just say it's a furniture
+[11:10.38] <Serpentine_> Alright, that does make more sense.
+[11:10.58] <Rainb> and then you can just ignore more information and say it's an object
+[11:11.15] <amigojapan> Myrl: interesting,   but I did not think making a multiplier was important, cause multipliacation can be implemented by software
+[11:11.31] <Rainb> so you can almost always abstract more, but sometimes more abstraction mean losong details which are essential
+[11:11.42] <Rainb> so just don't abstract the important information
+[11:11.51] <Myrl> amigojapan: I was experimenting with K-maps there. :P
+[11:12.05] <amigojapan> ok Myrl
+[11:12.14] * saint_ (~saint_@gateway/vpn/privateinternetaccess/saint/x-59675695) Quit (Quit: UNIVERSE CORRUPTED. REBOOT (Y/N) ?)
+[11:13.01] <_X_C_V_B_> to abstract even it's a thing
+[11:13.02] <_X_C_V_B_> *more
+[11:13.16] <Rainb> then it is an idea
+[11:13.27] <amigojapan> _X_C_V_B_: here is a relay computer ＋＋https://www.youtube.com/watch?v=yntpJwNC6N8，，
+[11:13.30] <Rainb> and there is nothing more abstract than ideas, or is it
+[11:13.55] <Rainb> the only thing more abstract than ideas is nothingness, maybe
+[11:14.09] * lillian (~lillian@unaffiliated/lillian) Quit (Quit: Going to the end of the universe)
+[11:16.13] * threadNecromance (~sebastian@c-24-21-197-80.hsd1.or.comcast.net) Quit (Ping timeout: 245 seconds)
+[11:17.40] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) Quit (Quit: Page closed)
+[11:17.49] <amigojapan> I like how he calls a bunch of jumpers the “ROM” :)
+[11:18.17] <Rainb> I get the reference.
+[11:18.44] <Sadale> amigojapan, wow. holy crap
+[11:18.55] <Sadale> amigojapan, looks like dinosaur.
+[11:19.07] <amigojapan> Sadale: I like that guy’s projects, he has made many cool projects....
+[11:19.28] <haya600> what are computers good for
+[11:19.39] <amigojapan> haya600: porn
+[11:19.42] <Myrl> amigojapan: Well, they technically are ROM.
+[11:19.44] <Sadale> amigojapan, I hear the flipping sound of the relays
+[11:19.49] <Serpentine_> haya600: cat videos
+[11:20.03] <amigojapan> yeah Sadale , that is quite interesting to me
+[11:20.28] <Sadale> amigojapan, it's a "because I can" project, obviously.
+[11:20.37] <Myrl> amigojapan: OH DAMN, I LOVE THAT GUY. MOSTLY WITH DUO ADEPTH
+[11:21.33] <_X_C_V_B_> ＋＋https://www.youtube.com/watch?v=rdT1YT9AOPA，， <-- The K'nuter - K'NEX Computer
+[11:21.44] <amigojapan> Myrl: his earlier projects are better than the recent ones
+[11:22.00] <Myrl> amigojapan: Yeah. He seems to be out of ideas.
+[11:22.13] <Myrl> Duo light and the ASCII one isn't really good.
+[11:22.13] <haya600> sounds like he should stop living in the 50's
+[11:22.16] <Sadale> amigojapan, The relay computer is equivalent to 特殊物品(hold on. I am checking the english of it) in neopets :p
+[11:22.38] <Myrl> amigojapan: The duo mega's very good though.
+[11:22.39] <amigojapan> Myrl: now he is basically remaking an arduino kind of computer, which he wants to sell
+[11:23.08] <Myrl> amigojapan: Yeah.
+[11:23.20] <amigojapan> ok Sadale
+[11:23.21] <Serpentine_> (特殊物品 -> special items)
+[11:23.36] <Sadale> Serpentine_, IKR. But I want the in-game translation
+[11:23.44] <Myrl> amigojapan: I still want to know the schematic for this though. ＋＋https://www.youtube.com/watch?v=YUJcQ5pioW8，，
+[11:23.55] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[11:24.36] <amigojapan> Sadale: Myrl , I like this one of his projects a lot ＋＋https://www.youtube.com/watch?v=qYvr0b8jqbg，，
+[11:24.43] <Serpentine_> I would be amazed if I could see a video of a fully mechanical computer doing a non-trivial computation
+[11:24.45] * Sadale clicks
+[11:24.47] <haya600> that poor dog prlaby has water in his ear
+[11:24.52] <haya600> why do you abuse animals like that
+[11:24.58] <Myrl> amigojapan: I also like the OISC.
+[11:25.05] * haya600 (62a9b15b@gateway/web/freenode/ip.98.169.177.91) Quit (Quit: Page closed)
+[11:25.11] <amigojapan> Myrl: what is that?
+[11:25.13] <Sadale> amigojapan, that guy got too much tie to waste ;_;
+[11:25.15] <Myrl> amigojapan: The Duo BASIC is also pretty good.
+[11:25.23] <Serpentine_> Like for instance, calculating the first few digits of pi and pressing it's binary equivalent as dots on paper
+[11:25.34] <amigojapan> Myrl: does nto impress me much, that is simillar to my arduino retro computer
+[11:25.51] <Myrl> amigojapan: Here. ＋＋https://www.youtube.com/watch?v=IoMgCrOT3fU，，
+[11:26.06] <Myrl> amigojapan: His new ones don't really impress me. Duo Light, Duo Decimal...
+[11:26.13] <Myrl> He lost his practicality.
+[11:26.24] <amigojapan> I am watching
+[11:27.39] <Myrl> amigojapan: I find the Duo Mega to be interesting though.
+[11:27.42] <amigojapan> Myrl: have you seen my arudino retro computer?
+[11:27.48] <Myrl> amigojapan: Nope.
+[11:28.15] <Myrl> Most of his new projects are simply just an Atmega with a bootloader... pretty much an Arduino.
+[11:28.29] <amigojapan> Myrl: this was my first arduino retro computer ＋＋http://amigojapan.github.io/Arduino-Retro-Computer-with-SD-card-and-LCD-display-and-Keyboard-input-with-BASIC-interpreter/，，
+[11:29.36] * synergy (~synergy@2601:a:4280:3b7:b4f8:ee69:9362:bbf8) has joined channel ##programming
+[11:29.37] <Myrl> amigojapan: Is that using Arduino?
+[11:29.44] <amigojapan> yes Myrl
+[11:29.47] <Sadale> amigojapan, life is short. There are way too many thing I want to do :(
+[11:29.53] <jeaye> Serpentine_: Does the fib sequence count?
+[11:30.01] <Sadale> amigojapan, so many amateur project to be completed :<
+[11:30.01] <amigojapan> Sadale: we need to be efficient
+[11:30.17] * bea571e (~unknown@23-118-113-201.lightspeed.mmphtn.sbcglobal.net) has left ##programming (("sic - 250 LOC are too much!"))
+[11:30.24] <Serpentine_> jeaye: Well, for a fully mechanical computer it would be quite impressive
+[11:30.29] <jeaye> Serpentine_: ＋＋http://www.thingiverse.com/thing:101105，，
+[11:30.33] <Sadale> Impossible to finish them all even without getting a girlfriend <_<
+[11:30.55] * Noldorin (~noldorin@unaffiliated/noldorin) Quit (Quit: –)
+[11:31.02] <Sadale> jeaye, lol wtf it is?
+[11:31.06] <Sadale> looks interesting
+[11:31.14] <Myrl> amigojapan: Where's the code for the keyboard interface? Is that USB or PS/2?
+[11:31.21] * mrcheeks (~user@CPE0c473de64fd1-CM0c473de64fd0.cpe.net.cable.rogers.com) Quit (Quit: ERC (IRC client for Emacs 25.0.50.1))
+[11:31.44] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) Quit (Ping timeout: 244 seconds)
+[11:31.48] <amigojapan> Myrl: PS/2
+[11:31.58] <Myrl> Ah.
+[11:32.02] * synergy is now known as synergy_
+[11:32.53] --synergy_-- logged in with account (synergy_)
+[11:33.34] * Broolucks (~ob@modemcable045.163-201-24.mc.videotron.ca) has joined channel ##programming
+[11:34.02] <amigojapan> Myrl: then this is my second Arduino Retro Computer…  which uses a composite out to connect to a TV ＋＋http://amigojapan.github.io/Arduino-Retro-Computer-TV/，，
+[11:34.31] <amigojapan> Myrl: I documented this one very well, so anyone can reproduce it
+[11:35.48] <Myrl> amigojapan: I think I've seen this before!
+[11:35.51] <Myrl> ._.
+[11:35.54] <amigojapan> ok Myrl
+[11:36.08] <Myrl> amigojapan:  This one. ＋＋https://www.youtube.com/watch?v=D8zaDAdA1ns，，
+[11:36.15] <amigojapan> let me see
+[11:36.24] * synergy_ (~synergy@2601:a:4280:3b7:b4f8:ee69:9362:bbf8) Quit (Quit: Leaving)
+[11:36.29] <Myrl> amigojapan: So I've been seeing your videos before I was in IRC...
+[11:36.46] <amigojapan> yes Myrl , that is my video too, thanks for watching :)
+[11:37.06] <_X_C_V_B_> I want a mechanical turing complete computer made out of Lego
+[11:37.17] <Myrl> _X_C_V_B_: It's probably already been done.
+[11:37.26] <amigojapan> _X_C_V_B_: it has already been done
+[11:37.53] <amigojapan> _X_C_V_B_: ＋＋http://www.legoturingmachine.org，，
+[11:38.08] <n90> .data
+[11:38.09] <n90> .align 2
+[11:38.09] <n90> var1:	.word 111111
+[11:38.09] <n90> .text
+[11:38.09] <n90> p:	.word 0
+[11:38.09] <n90> movia r8, val1
+[11:38.09] <n90> movia r9, ip
+[11:38.10] <n90> stw r8, 0(r9)
+[11:38.10] <n90> addi r9, r9, 1234
+[11:38.19] <amigojapan> n90: use pastebin please
+[11:38.31] <n90> aight sorry
+[11:39.03] <amigojapan> Myrl: watching that football program makes me very sad, cause my dad told me the stratergies that the computer should use for the AI…    and sicne then my dad died
+[11:39.31] <Myrl> amigojapan: Sorry for reminding you. ;-;
+[11:39.48] <amigojapan> no problem Myrl
+[11:40.03] <n90> ＋＋http://pastebin.com/XxPuKs7m，，
+[11:40.17] <n90> is the assembler code for the C code below correct
+[11:41.10] <n90> missed a line: ＋＋http://pastebin.com/4XtvBKuy，，
+[11:41.32] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[11:41.38] <n90> dammit, lemme clean that up
+[11:42.11] <n90> final: ＋＋http://pastebin.com/Bf1HJkrN，，
+[11:42.15] * blackb1rd (~zack@2601:9:5900:8b3:a51f:8a6:8be3:681e) has joined channel ##programming
+[11:42.30] <Myrl> It could be.
+[11:42.34] <Myrl> But I wouldn't write it like that.
+[11:42.43] * Audioburn (~not_mike@unaffiliated/not-mike/x-4399907) has joined channel ##programming
+[11:42.43] <_X_C_V_B_> amigojapan, Mryl: no silicon
+[11:43.00] <_X_C_V_B_> that was using the nxt
+[11:43.06] <n90> Myrl: care to show how you would?
+[11:44.57] <pyon> So...
+[11:45.14] <pyon> Myrl: Found any good manga lately?
+[11:45.29] <Myrl> pyon: Nope.
+[11:45.52] * f1ay (~flay@yakko.cs.wmich.edu) Quit (Quit: WeeChat 1.0.1)
+[11:45.53] <n90> attack on titan
+[11:46.03] <pyon> Aw.
+[11:46.08] * ablest1980 (~ablest198@50.12.14.151) Quit (Quit: Leaving)
+[11:46.21] <Myrl> n90: Can you read nasm?
+[11:46.28] <amigojapan> pyon: I watched Mirai Nikki lately
+[11:46.36] <Myrl> Wait, what does movia do.
+[11:46.40] <n90> Myrl: noes
+[11:46.49] <n90> move immediate address
+[11:46.52] <Myrl> Ah.
+[11:47.15] <n90> its the last line of assembler im not sure with
+[11:47.20] <Myrl> I'm still confused.
+[11:47.21] <n90> add immediate value 1234 to r9
+[11:47.24] <pyon> amigojapan: I was almost going to ask you "subbed by whom?", then I remembered you live in Japan and know Japanese...
+[11:47.51] <Myrl> pyon: lol.
+[11:48.08] <amigojapan> pyon: yeah, but I watched it on animeplus… I think they have “horrible subs” usually, is that wat it is called? something like that
+[11:48.19] <pyon> Ah!
+[11:48.26] <Myrl> n90: I'm guessing it's the equivalent of lea.
+[11:48.50] * ClumsyNinja (~Ret@104-185-32-204.lightspeed.okcbok.sbcglobal.net) has joined channel ##programming
+[11:49.11] <n90> Myrl: yes I would assume so
+[11:49.26] <amigojapan> pyon: sometimes it is interesting to compare the original Japanese to the subs of anime…. I did that a lot with Sailor Moon Crystal….
+[11:49.50] <Myrl> n90: Anyways. If I were to make that, everything would be in the registers.
+[11:49.51] <pyon> amigojapan: Well, sadly I don't know Japanese, so...
+[11:50.09] <amigojapan> pyon: but Sailor Moon Crystal’s subs where made by the same company that made the anime
+[11:50.32] <pyon> :-O
+[11:51.12] <Myrl> Damn it.
+[11:51.22] <amigojapan> pyon: they decided to use something like “silly mom” instead of “mom you idiot” which is what she said in the original Japanese, and stuff liek that
+[11:51.52] * Rilakkuma (~textual@122.29.165.22) has joined channel ##programming
+[11:52.03] --struktured-- logged in with account (struktured)
+[11:52.18] * soresmi (~hi@63.245.175.207) has joined channel ##programming
+[11:52.45] <pyon> amigojapan: I'm guessing "silly" is not as harsh as "you idiot", but the difference is too subtle for me.
+[11:53.30] * electrojustin (~electroju@pool-96-236-157-222.pitbpa.fios.verizon.net) Quit (Remote host closed the connection)
+[11:54.03] <amigojapan> ok pyon
+[11:54.12] * inix__ (~l0rdn1x@unaffiliated/l0rdn1x) has joined channel ##programming
+[11:54.23] * inix__ (~l0rdn1x@unaffiliated/l0rdn1x) Quit (Read error: Connection reset by peer)
+[11:54.56] <Barrin6> so dumb, I spent the past 30 mins trying to figure out why my piece of code didn’t work. Turns out I used a “comma” instead of a “period” in my array -.-
+[11:55.36] <amigojapan> Barrin6: yup, that is very common in programming, 1 character mistakes
+[11:55.44] * blackb1rd (~zack@2601:9:5900:8b3:a51f:8a6:8be3:681e) Quit (Ping timeout: 250 seconds)
+[11:56.09] * drfoo (~drfoo@unaffiliated/drfoo) Quit (Quit: Leaving)
+[11:56.21] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Quit: Leaving)
+[11:56.21] * UKn0Me (~UKn0Me@CPE-121-215-1-28.lnse1.pie.bigpond.net.au) has joined channel ##programming
+[11:56.27] <amigojapan> ok, I will take a nap, see you guys later
+[11:56.31] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) Quit (Quit: amigojapan)
+[11:56.51] <pyon> Barrin6: Those mistakes are annoying.
+[11:56.59] <grill> what is the worst CMS on the entire planet
+[11:57.10] <jrslepak> /bin/cat
+[11:57.29] * underline (~l0rdn1x@unaffiliated/l0rdn1x) Quit (Ping timeout: 246 seconds)
+[11:58.18] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) Quit (Quit: Leaving)
+[11:58.34] * blackb1rd (~zack@2601:9:5900:8b3:80a6:9ffb:1c62:a8fe) has joined channel ##programming
+[11:58.57] * lillian (~lillian@unaffiliated/lillian) has joined channel ##programming
+[11:59.53] * day (~day@unaffiliated/day) has joined channel ##programming

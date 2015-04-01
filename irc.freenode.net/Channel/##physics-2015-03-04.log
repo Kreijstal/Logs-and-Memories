@@ -1,0 +1,133 @@
+Session Start: Wed Mar 04 08:22:20 2015
+Session Ident: ##physics
+[08:22.20] * You have joined ##physics
+[08:22.20] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[08:22.20] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[08:22.20] Channel modes for ##physics are :+Ccgnt
+[08:22.20] Channel Created on: 4:02 AM 12/19/2007
+[08:23.08] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[08:25.05] * vyadhaka (~rv_ghatak@129.78.56.193) has joined channel ##physics
+[08:25.35] * Jellysnake (~jellysnak@138.44.64.25) Quit (Ping timeout: 255 seconds)
+[08:27.41] * Rastus_Vernon (uid15187@wikimedia/Rastus-Vernon) Quit (Quit: Connection closed for inactivity)
+[08:32.42] <acg> miller indices q: if you have a direction, e.g., [2 -3 1], how do you determine and denote the family of directions
+[08:33.07] * MulleDK20 (MulleDK19@unaffiliated/mulledk19) has joined channel ##physics
+[08:34.08] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[08:36.01] * MulleDK19 (~MulleDK19@unaffiliated/mulledk19) Quit (Ping timeout: 264 seconds)
+[08:36.07] * MulleDK20 is now known as MulleDK109
+[08:36.08] * MulleDK109 is now known as MulleDK19
+[08:36.30] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 245 seconds)
+[08:37.24] * Carbonflux (~BOB@174-21-30-114.tukw.qwest.net) has joined channel ##physics
+[08:37.56] * boB_K7IQ (~IceChat9@50.46.87.250) has joined channel ##physics
+[08:39.50] * naruto_9 (~chatzilla@177.32.177.42) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 36.0/20150222232811])
+[08:42.37] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 256 seconds)
+[08:43.21] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[08:46.39] * annoymouse (uid11754@gateway/web/irccloud.com/x-vmrpcfbliimlthle) Quit (Quit: Connection closed for inactivity)
+[08:49.04] * sbellina (~sbellina@66.29.187.55.static.utbb.net) Quit (Ping timeout: 246 seconds)
+[08:49.50] * Cs1177 (~Cs1177@104.240.37.1) has joined channel ##physics
+[08:52.23] <acg> is it just <2 -3 1> ?
+[08:53.12] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:53.25] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[08:54.26] * piareround (neoshadow@162.242.10.163) has joined channel ##physics
+[08:56.39] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:56.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[08:58.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:59.07] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[08:59.35] * qiffp (~qiffp@70.50.102.27) has joined channel ##physics
+[09:01.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[09:01.42] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[09:07.10] * nfk (~nfk@unaffiliated/nfk) Quit (Quit: yawn)
+[09:08.21] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) has joined channel ##physics
+[09:08.35] * kreiGT (~kreig@190.148.70.213) has joined channel ##physics
+[09:09.49] * wikiemol (~wikiemol@75.102.129.139) Quit (Quit: leaving)
+[09:15.05] * PotatoGim (~PotatoGim@220.90.135.162) has joined channel ##physics
+[09:15.37] * mpking` (~mpking@c-73-26-143-214.hsd1.nm.comcast.net) has joined channel ##physics
+[09:16.16] * PotatoGim (~PotatoGim@220.90.135.162) Quit (Max SendQ exceeded)
+[09:16.28] * Niebuhr (~p@host86-129-195-225.range86-129.btcentralplus.com) Quit (Quit: Leaving)
+[09:16.48] * spling` (~spling@71-17-5-10.sktn.hsdb.sasknet.sk.ca) has joined channel ##physics
+[09:18.20] * Cyp___ (~Cyp_@62.61.130.228.generic-hostname.arrownet.dk) has joined channel ##physics
+[09:19.37] * PotatoGim (~PotatoGim@220.90.135.162) has joined channel ##physics
+[09:19.53] * linear4_ (L@unaffiliated/lynear) has joined channel ##physics
+[09:20.21] * _Atom_ (~jawat@172.56.33.11) Quit (Ping timeout: 240 seconds)
+[09:20.37] * jv___ (jv@pilsedu.cz) has joined channel ##physics
+[09:20.47] * Sui_dorimu (~wdwrwf@wikipedia/Antonio-Lopez) has joined channel ##physics
+[09:21.21] * spling (~spling@unaffiliated/spling) Quit (Ping timeout: 250 seconds)
+[09:21.21] * linear4 (L@unaffiliated/lynear) Quit (Ping timeout: 250 seconds)
+[09:21.21] * jidiculous (jidicula@unaffiliated/jidiculous) Quit (Ping timeout: 250 seconds)
+[09:21.21] * unpro (~unpro@hack.us.org) Quit (Ping timeout: 250 seconds)
+[09:21.22] * Venusaur (~wdwrwf@wikipedia/Antonio-Lopez) Quit (Ping timeout: 250 seconds)
+[09:21.22] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 250 seconds)
+[09:21.22] * mpking (~mpking@c-73-26-143-214.hsd1.nm.comcast.net) Quit (Ping timeout: 250 seconds)
+[09:21.22] * ubuntor (~ubuntor@ubuntor.org) Quit (Ping timeout: 250 seconds)
+[09:21.22] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) Quit (Ping timeout: 250 seconds)
+[09:21.22] * Cyp__ (~Cyp_@62.61.130.228.generic-hostname.arrownet.dk) Quit (Ping timeout: 250 seconds)
+[09:21.22] * donbarry (don@isc80.astro.cornell.edu) Quit (Ping timeout: 250 seconds)
+[09:21.22] * R0b0t1 (~dev@unaffiliated/r0b0t1) Quit (Ping timeout: 250 seconds)
+[09:21.22] * jv (jv@pilsedu.cz) Quit (Ping timeout: 250 seconds)
+[09:21.26] * Sui_dorimu is now known as Venusaur
+[09:21.29] * f03lipe_ (~f03lipe@189.122.208.96) has joined channel ##physics
+[09:22.06] * gobostone (~gobostone@97-122-211-52.hlrn.qwest.net) has joined channel ##physics
+[09:22.08] * donbarry (don@isc80.astro.cornell.edu) has joined channel ##physics
+[09:22.15] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[09:22.19] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Quit: allahu akbar)
+[09:22.26] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) has joined channel ##physics
+[09:22.37] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##physics
+[09:23.21] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) has joined channel ##physics
+[09:23.27] * ubuntor (~ubuntor@ubuntor.org) has joined channel ##physics
+[09:23.42] * unpro (~unpro@hack.us.org) has joined channel ##physics
+[09:24.05] * unpro is now known as Guest39711
+[09:25.18] * bigbadjudas (~666@pool-98-115-142-29.phlapa.fios.verizon.net) Quit (Quit: Leaving)
+[09:25.26] * linux_dream (~linux_dre@unaffiliated/linux-dream/x-5839402) has joined channel ##physics
+[09:25.29] * linear4_ is now known as linear4
+[09:25.29] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##physics
+[09:26.30] * DogPolice (~RJones@unaffiliated/rjones) Quit (Ping timeout: 245 seconds)
+[09:26.44] * R0b0t1 (~dev@unaffiliated/r0b0t1) has joined channel ##physics
+[09:29.00] * jidiculous (jidicula@107.150.20.252) has joined channel ##physics
+[09:32.26] * Jellysnake (~jellysnak@138.44.64.25) has joined channel ##physics
+[09:33.09] * Bilz (~bilz@PLACEHOLDER-202-66-60-166.NATPOOL.NYU.EDU) has joined channel ##physics
+[09:33.33] * Bilz (~bilz@PLACEHOLDER-202-66-60-166.NATPOOL.NYU.EDU) Quit (Read error: Connection reset by peer)
+[09:33.40] * annoymouse (uid11754@gateway/web/irccloud.com/x-zltfiacwkrjwwqce) has joined channel ##physics
+[09:33.52] * Bilz (~bilz@PLACEHOLDER-202-66-60-166.NATPOOL.NYU.EDU) has joined channel ##physics
+[09:33.55] * fireballs (~fireballs@128.135.100.115) has joined channel ##physics
+[09:37.14] <Pwnna> so what's the difference between things like the streamwise raynold number and Re calculated based on the boundary layer thickness, spanwise.. etc?
+[09:37.25] <Pwnna> when to use what and what do they mean?
+[09:37.50] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) has joined channel ##physics
+[09:38.08] * jezzy (~jezzy@187-176-7-225.static.axtel.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[09:38.25] <xihr> acg: not really ##physics (it's crystallography, so maybe try something like ##geology?), but quick googling reveals the answer anyway
+[09:39.08] <acg> xihr, it took a few references before I found what I belive is the answer
+[09:39.24] <acg> I actually did some stuff with miller indices in a modern physics lab; it's not just physics though, of course
+[09:39.42] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:41.09] <Pwnna> anyone?
+[09:43.52] * bigbadjudas (~666@fra1.racingvpn.com) Quit (Quit: Leaving)
+[09:44.03] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##physics
+[09:44.37] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:889:8e8a:78ec:7c37) has joined channel ##physics
+[09:45.35] <sujeet> Pwnna, no idea
+[09:47.50] <Pwnna> :\
+[09:48.30] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) Quit (Ping timeout: 246 seconds)
+[09:48.36] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##physics
+[09:49.13] * Askori (~Askori@50.48.241.128) has joined channel ##physics
+[09:53.55] * vyadhaka (~rv_ghatak@129.78.56.193) Quit (Quit: Leaving.)
+[09:55.56] * toastyde1th (~toast@c-69-244-86-195.hsd1.md.comcast.net) has joined channel ##physics
+[09:56.15] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) Quit (Read error: No route to host)
+[09:56.16] * monoprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##physics
+[09:56.40] * DogPolice (~RJones@unaffiliated/rjones) has joined channel ##physics
+[09:56.47] * horuic (~merzifon@85.101.133.193) has joined channel ##physics
+[09:57.19] * fireballs (~fireballs@128.135.100.115) Quit (Ping timeout: 246 seconds)
+[09:57.59] * sikio (~sikio@unaffiliated/sikio) Quit (Quit: WeeChat 0.4.2)
+[09:59.12] * degva (~degva@190.234.106.84) Quit (Quit: Leaving)
+[10:01.22] * atomicalloy (atomicallo@c-d6a571d5.123-3-64736c10.cust.bredbandsbolaget.se) has joined channel ##physics
+[10:01.26] * atomicalloy (atomicallo@c-d6a571d5.123-3-64736c10.cust.bredbandsbolaget.se) has left ##physics ()
+[10:03.06] * HunterNL (~HunterNL@5469A4F0.cm-12-2c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[10:03.24] <Maverick> simple question about this problem: A block weighing 74.7 N rests on a plane inclined at 29.5° to the horizontal. The coefficient of the static and kinetic frictions are 0.26 and 0.10 respectively. What is the minimum magnitude of the force F, parallel to the plane, that will prevent the block from slipping?
+[10:03.36] * Cs1177 (~Cs1177@104.240.37.1) Quit (Remote host closed the connection)
+[10:03.37] <Maverick> the question is, when approaching it, obviously i'll be using the static coefficient since we're talking about it not slipping atm
+[10:04.04] <Maverick> so on our FBD we've got both the force pulling in a positive on the parallel (that's how I set my FBD up)
+[10:04.19] <Maverick> but which way would this static friction be going, since we aren't accelerating or moving?
+[10:04.20] * tubuliferous (~tubulifer@64.89.97.100) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[10:04.46] <monoprotic> static friction is in whichever direction is necessary to prevent it from slipping
+[10:04.46] <sujeet> Maverick, it will be going "up the ramp"
+[10:04.46] <Maverick> would it be going against the mgcos(theta), or against the force?
+[10:04.52] <Maverick> okay positive with my force
+[10:05.03] <PlanckWalk> There is a range of forces where the block won't slip.  At the minimum, "upward"
+[10:05.04] <Maverick> ooh that makes sense monoprotic
+[10:05.10] <PlanckWalk> At the maximum "downward"
+[11:38.52] *** Server disconnected on tepper.freenode.net

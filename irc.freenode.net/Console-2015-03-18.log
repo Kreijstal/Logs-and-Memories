@@ -1,0 +1,71 @@
+Session Start: Wed Mar 18 04:39:34 2015
+[04:39.34] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.44) on port 6667
+[04:39.35] -irc.freenode.net- Sending User Registration Information
+[04:39.36] --wolfe.freenode.net-- *** Looking up your hostname...
+[04:39.36] --wolfe.freenode.net-- *** Checking Ident
+[04:39.36] --wolfe.freenode.net-- *** Couldn't look up your hostname
+[04:39.40] --wolfe.freenode.net-- *** No Ident response
+[04:39.41] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[04:39.41] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[04:39.41] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[04:39.41] -wolfe.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[04:39.41] -wolfe.freenode.net- Your host is wolfe.freenode.net[91.217.189.44/6667], running version ircd-seven-1.1.3
+[04:39.41] -wolfe.freenode.net- This server was created Mon Sep 15 2014 at 10:05:03 UTC
+[04:39.41] -wolfe.freenode.net- wolfe.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[04:39.42] -wolfe.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[04:39.46] -wolfe.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[04:40.00] -wolfe.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[04:40.00] -wolfe.freenode.net- There are 165 users and 90372 invisible on 26 servers
+[04:40.00] -wolfe.freenode.net- There are 26 IRC Operators online
+[04:40.00] -wolfe.freenode.net- There are 7 unknown connection(s)
+[04:40.00] -wolfe.freenode.net- There are 54647 channels formed
+[04:40.00] -wolfe.freenode.net- I have 3873 clients and 1 servers
+[04:40.00] -wolfe.freenode.net- Current local users 3873, max 6804
+[04:40.00] -wolfe.freenode.net- Current global users 90537, max 105669
+[04:40.00] -wolfe.freenode.net- Highest connection count: 6805 (6804 clients) (2053199 connections received)
+[04:40.00] -wolfe.freenode.net- You have successfully connected to wolfe.freenode.net
+[04:40.00] * Your mode is now +i
+[04:40.00] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[04:40.01] Rainb resolved to 181.50.148.224
+[04:40.02] *** wolfe.freenode.net [freenode-info] why register and identify? your IRC nick is how people know you. ＋＋http://freenode.net/faq.shtml#nicksetup，，
+[04:40.03] --ChanServ-- [##economics] Hiya. Welcome to ##economics -- Freenode's channel based upon economic policy,basics,macro,micro,markets,trading & math in economics. Enjoy your stay ! Econbot makes stats @ ＋＋http://www.teralaser.net/economics/stats/，， but no public logs
+[04:40.03] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[04:40.03] --ChanServ-- [##physics] Don't ask to ask... ask!
+[04:40.03] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[04:40.03] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[04:40.04] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[04:40.04] --ChanServ-- [#boinc] Welcome to boinc! If you haven't set a custom nickname yet, type /nick followed by a name for yourself, then /msg nickserv for help on registering your name. Happy crunching. :-)
+[04:40.04] --Romulus-- Welcome to #boinc, Rainb. I am Romulus the bot, and I will try to be helpful.
+[04:40.06] ERROR: #latin ##latin :Forwarding to another channel
+[09:39.28] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[09:39.29] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.29] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.29] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.29] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[09:39.29] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.29] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.29] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[09:39.29] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[09:39.29] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[09:39.29] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[09:39.31] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.31] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.31] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.31] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.31] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.31] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.31] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[09:39.31] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.31] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (38.229.70.22) on port 6667
+[09:39.31] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (38.229.70.22) on port 6667
+[09:39.31] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.31] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[09:39.31] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[09:39.31] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (148.251.187.147) on port 6667
+[09:39.31] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[09:39.31] ERROR: Parameter name: asyncResult
+[09:39.31] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[09:39.31] ERROR: Null Socket - Can not Connect
+[09:39.31] ERROR: Null Socket - Can not Connect
+[09:39.31] ERROR: Null Socket - Can not Connect
+[09:39.34] ERROR: Null Socket - Can not Connect

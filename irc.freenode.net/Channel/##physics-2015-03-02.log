@@ -1,0 +1,194 @@
+Session Start: Mon Mar 02 12:02:13 2015
+Session Ident: ##physics
+[12:02.13] * occultie (~occultie@85.101.133.193) Quit (Quit: irc2go)
+[12:04.05] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 256 seconds)
+[12:04.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[12:05.37] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[12:05.39] * mike802 (~IceChat9@pool-70-109-154-113.cncdnh.east.myfairpoint.net) has joined channel ##physics
+[12:05.59] * Cs1177 (~Cs1177@104.240.37.1) Quit (Remote host closed the connection)
+[12:06.09] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) Quit (Quit: qeed)
+[12:09.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[12:10.10] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) has joined channel ##physics
+[12:11.35] * napster (~textual@117.253.166.239) has joined channel ##physics
+[12:12.24] * wukong (~wukong@cpe-75-80-113-111.san.res.rr.com) Quit (Ping timeout: 255 seconds)
+[12:14.49] * Pinkamena_D (~paul@c-50-182-143-125.hsd1.nj.comcast.net) Quit (Ping timeout: 252 seconds)
+[12:15.15] * KAHR-Alpha (~chatzilla@AReims-652-1-243-8.w81-49.abo.wanadoo.fr) Quit (Ping timeout: 250 seconds)
+[12:18.10] * mike802 (~IceChat9@pool-70-109-154-113.cncdnh.east.myfairpoint.net) Quit (Quit: On the other hand, you have different fingers.)
+[12:18.11] * spl192011 (~spl192011@cpe-67-10-199-191.elp.res.rr.com) has joined channel ##physics
+[12:19.09] * superposition (~superposi@unaffiliated/chirality) has left ##physics ()
+[12:20.38] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[12:23.55] * Guest84961 (~unpro@hack.us.org) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[12:24.22] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[12:24.52] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[12:26.51] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (Ping timeout: 240 seconds)
+[12:27.11] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) has joined channel ##physics
+[12:27.57] * arun__ (~arun@103.51.16.67) has joined channel ##physics
+[12:28.56] * orthoplex64 (~orthoplex@unaffiliated/orthoplex64) Quit (Ping timeout: 272 seconds)
+[12:31.37] * arun_ (~arun@43.231.208.109) Quit (Ping timeout: 246 seconds)
+[12:33.51] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) has joined channel ##physics
+[12:34.22] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[12:37.18] * shikhin_ (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[12:40.28] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) Quit (Remote host closed the connection)
+[12:41.00] * Cybergirl (~ma@ip-37-201-223-242.hsi13.unitymediagroup.de) has joined channel ##physics
+[12:42.03] * piareround (piareround@162.242.10.163) Quit (Ping timeout: 256 seconds)
+[12:42.50] * sbellina (~sbellina@66.29.187.55.static.utbb.net) has joined channel ##physics
+[12:44.45] * piareround (piareround@162.242.10.163) has joined channel ##physics
+[12:44.57] * piareround (piareround@162.242.10.163) Quit (Read error: Connection reset by peer)
+[12:45.13] * piareround (~piareroun@162.242.10.163) has joined channel ##physics
+[12:46.30] * main (~main@bde127.neoplus.adsl.tpnet.pl) has joined channel ##physics
+[12:48.22] * Erraunt (~main@aty139.neoplus.adsl.tpnet.pl) Quit (Ping timeout: 246 seconds)
+[12:48.26] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) has joined channel ##physics
+[12:48.50] * napster (~textual@117.253.166.239) Quit (Quit: Going to pirate some mp3s...)
+[12:50.09] * napster (~textual@117.253.166.239) has joined channel ##physics
+[12:52.45] * olabaz (~olabaz@146.201.163.98) Quit (Quit: Leaving)
+[12:58.04] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Ping timeout: 272 seconds)
+[12:58.42] * flag (~flag@CPE0c473d30fc23-CM0c473d30fc20.cpe.net.cable.rogers.com) has left ##physics ()
+[12:58.59] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) has joined channel ##physics
+[12:59.15] * JoergR (~joerg@71.239.173.122) Quit (Remote host closed the connection)
+[01:01.44] * jared375 (~jared375@71-93-218-163.dhcp.lnbh.ca.charter.com) Quit (Quit: irc2go)
+[01:02.52] * jared375 (~jared375@71-93-218-163.dhcp.lnbh.ca.charter.com) has joined channel ##physics
+[01:03.07] * Jobro (~Jobro@195-240-186-168.ip.telfort.nl) Quit (Client Quit)
+[01:04.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 246 seconds)
+[01:05.51] * foreignFunction (~ai@ip-4761.sunline.net.ua) has joined channel ##physics
+[01:08.23] * Verttone (~Verttone@188.235.1.7) Quit (Read error: Connection reset by peer)
+[01:09.23] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[01:09.30] * Verttone (~Verttone@188.235.1.7) has joined channel ##physics
+[01:11.22] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Leaving)
+[01:14.11] * balance (~balance@194.230.155.168) has joined channel ##physics
+[01:14.23] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[01:15.45] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (Ping timeout: 250 seconds)
+[01:16.19] * Tutator (~The@29.103.70.115.static.exetel.com.au) has joined channel ##physics
+[01:19.24] * sqrt2 (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[01:21.49] * Xenolithic (c1bab966@gateway/web/freenode/ip.193.186.185.102) has joined channel ##physics
+[01:25.25] * curiousguy13_ (~curiousgu@120.59.109.128) has joined channel ##physics
+[01:26.32] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit ()
+[01:31.06] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[01:32.13] * foreignFunction (~ai@ip-4761.sunline.net.ua) Quit (Quit: Leaving.)
+[01:40.19] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[01:41.28] * FourLeav (~Jackson@ip68-105-8-224.br.br.cox.net) has joined channel ##physics
+[01:41.51] * FourLeav (~Jackson@ip68-105-8-224.br.br.cox.net) has left ##physics ()
+[01:42.21] * rudi94 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 265 seconds)
+[01:42.28] * wgertler (~quassel@135-23-121-25.cpe.pppoe.ca) has joined channel ##physics
+[01:42.37] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:dd9b:3c0a:3a75:f476) Quit (Ping timeout: 250 seconds)
+[01:42.40] * wgertler (~quassel@135-23-121-25.cpe.pppoe.ca) Quit (Remote host closed the connection)
+[01:43.04] * mheath_ (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) has joined channel ##physics
+[01:43.27] * mheath_ is now known as Guest44892
+[01:44.48] * mheath (~mheath@unaffiliated/mheath) Quit (Ping timeout: 256 seconds)
+[01:44.56] * Xenolithic (c1bab966@gateway/web/freenode/ip.193.186.185.102) Quit (Ping timeout: 246 seconds)
+[01:45.13] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Ping timeout: 245 seconds)
+[01:48.40] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) has joined channel ##physics
+[01:48.43] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##physics
+[01:49.28] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[01:51.54] * s3v3n62mm2 (~s3v3n62mm@p5DDC36B1.dip0.t-ipconnect.de) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[01:53.10] * balance (~balance@194.230.155.168) Quit (Ping timeout: 272 seconds)
+[01:54.34] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 246 seconds)
+[01:54.47] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:70eb:3a3c:aeef:57e3) has joined channel ##physics
+[01:55.18] * Xenolithic (c1bab966@gateway/web/freenode/ip.193.186.185.102) has joined channel ##physics
+[01:57.22] * asandweech (~thissand@unaffiliated/asandweech) Quit (Read error: Connection reset by peer)
+[02:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[02:04.52] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) Quit (Ping timeout: 244 seconds)
+[02:07.40] * Guest64898 (~maphry@host109-155-144-65.range109-155.btcentralplus.com) Quit (Quit: This computer has gone to sleep)
+[02:08.29] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Ping timeout: 244 seconds)
+[02:09.29] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[02:14.12] * TheLoneMilkMan (Gamemaster@129.21.94.42) Quit (Quit: Leaving)
+[02:15.11] * Jobro (~Jobro@wlan179244.mobiel.utwente.nl) has joined channel ##physics
+[02:15.29] * FreezingCold (~FreezingC@135.0.41.14) Quit (Read error: Connection reset by peer)
+[02:16.00] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[02:17.06] * jared375 (~jared375@71-93-218-163.dhcp.lnbh.ca.charter.com) Quit (Quit: irc2go)
+[02:23.33] * spl192011 (~spl192011@cpe-67-10-199-191.elp.res.rr.com) Quit (Ping timeout: 245 seconds)
+[02:24.37] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[02:24.59] * mueslo (~quassel@p54B409F7.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[02:27.04] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) has joined channel ##physics
+[02:31.35] * porcupine (~porcupine@cpe-173-172-122-7.kc.res.rr.com) Quit (Ping timeout: 250 seconds)
+[02:33.43] * Kompton (~Kompton@unaffiliated/condenado) Quit (Remote host closed the connection)
+[02:35.51] * Cirus_ (~Cirus@2601:9:80:74:e841:672:584e:7ab) Quit (Read error: Connection reset by peer)
+[02:37.25] * Jobro (~Jobro@wlan179244.mobiel.utwente.nl) Quit (Quit: Jobro)
+[02:37.54] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Quit: Be back later ...)
+[02:38.07] * UidX (~UidX@unaffiliated/uidx) has joined channel ##physics
+[02:38.32] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) has joined channel ##physics
+[02:38.54] * Guest44892 (~mheath@2601:8:ba00:325e:449c:3948:f32d:479) Quit (Ping timeout: 265 seconds)
+[02:38.56] * piareround (~piareroun@162.242.10.163) Quit (Quit: Leaving)
+[02:39.23] * Segfault0x40__ (~holoirc@smtp.herzlia.com) has joined channel ##physics
+[02:40.09] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##physics
+[02:41.03] * cornus_ammonis (~Cornus@pool-173-73-119-83.washdc.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:41.39] <demophobia> In chemistry, the cathode is the electron source, right? But in physics, the anode is the electron source, right?
+[02:43.10] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[02:43.39] * uv (~uv@51B741C9.dsl.pool.telekom.hu) has joined channel ##physics
+[02:43.48] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[02:43.54] * Invisible (~yay@unaffiliated/invisible) has joined channel ##physics
+[02:47.59] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Quit: Leaving)
+[02:52.42] * Segfault0x40__ (~holoirc@smtp.herzlia.com) Quit (Remote host closed the connection)
+[02:53.46] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[03:01.35] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 255 seconds)
+[03:03.12] * MulleDK19 (~MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[03:04.08] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Quit: Leaving)
+[03:04.11] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##physics
+[03:04.43] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##physics
+[03:04.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[03:06.39] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Read error: Connection reset by peer)
+[03:06.40] * balance1 (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##physics
+[03:08.11] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 264 seconds)
+[03:08.55] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[03:09.33] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:11.21] * fireballs (~fireballs@128.135.100.111) Quit (Ping timeout: 252 seconds)
+[03:16.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:16.37] * Tutator (~The@29.103.70.115.static.exetel.com.au) Quit (Quit: Leaving)
+[03:18.10] * balance1 (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Ping timeout: 245 seconds)
+[03:18.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:21.17] * arun__ (~arun@103.51.16.67) Quit (Ping timeout: 256 seconds)
+[03:23.35] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[03:24.13] * wukong (~wukong@cpe-75-80-113-111.san.res.rr.com) has joined channel ##physics
+[03:24.31] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[03:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:27.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:27.29] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 250 seconds)
+[03:28.26] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) has joined channel ##physics
+[03:29.13] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[03:31.38] * caramel (~caramel@unaffiliated/caramel) has joined channel ##physics
+[03:32.11] * main (~main@bde127.neoplus.adsl.tpnet.pl) Quit (Ping timeout: 264 seconds)
+[03:33.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:36.07] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:40.46] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[03:42.00] * s3v3n62mm (~s3v3n62mm@p5DDC36B1.dip0.t-ipconnect.de) has joined channel ##physics
+[03:42.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:44.22] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 256 seconds)
+[03:45.03] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:47.58] * sbellina (~sbellina@66.29.187.55.static.utbb.net) Quit (Ping timeout: 246 seconds)
+[03:49.59] * sbellina (~sbellina@66.29.187.51.static.utbb.net) has joined channel ##physics
+[03:50.04] * spl192011 (~spl192011@cpe-67-10-199-191.elp.res.rr.com) has joined channel ##physics
+[03:51.00] * UidX (~UidX@unaffiliated/uidx) Quit (Remote host closed the connection)
+[03:51.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:53.54] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[03:56.45] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[04:00.11] * Saphiresurf (~quassel@c-98-238-249-87.hsd1.ca.comcast.net) Quit (Remote host closed the connection)
+[04:01.25] * clippeh (~clips@ppp118-208-200-81.lns20.hba1.internode.on.net) has joined channel ##physics
+[04:01.45] <clippeh> Hey, im having trouble doing this question
+[04:01.52] <clippeh> The n=5 to n=3 transition in the Bohr hydrogen atom corresponds to the _________ of a photon with a wavelength of ______ nm.
+[04:02.14] <clippeh> firstly, 5--->3 is an emission right?
+[04:02.37] <clippeh> because the energy keeping the electron excited is emitted
+[04:04.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[04:06.45] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[04:07.17] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##physics
+[04:08.51] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) has joined channel ##physics
+[04:09.29] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:11.41] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) Quit (Ping timeout: 252 seconds)
+[04:13.46] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Read error: No route to host)
+[04:14.51] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##physics
+[04:15.21] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Ping timeout: 240 seconds)
+[04:15.32] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) has joined channel ##physics
+[04:18.55] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:19.00] <clippeh> someone pls help
+[04:19.23] * Segfault0x40_ (~holoirc@smtp.herzlia.com) has joined channel ##physics
+[04:20.16] <Segfault0x40_> The questions my class is busy asking T_T
+[04:21.21] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:23.29] * Segfault0x40_ (~holoirc@smtp.herzlia.com) Quit (Remote host closed the connection)
+[04:26.38] * Juris4cm (ROMA@213.180.118.42) has joined channel ##physics
+[04:27.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:30.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[04:30.50] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 256 seconds)
+[04:30.52] * boB_K7IQ (~IceChat9@50.125.47.104) Quit (Ping timeout: 272 seconds)
+[04:34.04] <napster> Why the radius of observable universe > 13.8 billion light years?
+[04:34.48] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) has joined channel ##physics
+[04:37.41] * Jobro (~Jobro@wlan179166.mobiel.utwente.nl) has joined channel ##physics
+[04:39.43] * Invisible (~yay@unaffiliated/invisible) has left ##physics (("AndroIRC"))
+[05:19.52] *** Server disconnected on irc.freenode.net

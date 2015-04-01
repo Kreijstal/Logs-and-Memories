@@ -1,0 +1,491 @@
+Session Start: Sun Feb 22 12:00:01 2015
+Session Ident: ##math
+[12:00.01] <Dann20> then -x
+[12:00.02] <Dann20> ?
+[12:00.09] * shij020l (~sjowpp0@24-212-200-121.cable.teksavvy.com) Quit (Remote host closed the connection)
+[12:00.36] * vonStrauss (~vonStraus@unaffiliated/vonstrauss) has joined channel ##math
+[12:00.56] <spudzee1111> and is e euler’s number/constant whatever?
+[12:00.57] * Neutron (~neutron@17.92-220-157.customer.lyse.net) Quit (Max SendQ exceeded)
+[12:01.02] <vonStrauss> yes.
+[12:02.13] * Drew_ (~drew@2602:306:367f:b170:bcab:4f25:1ef6:8b13) Quit (Ping timeout: 265 seconds)
+[12:02.29] <cads> Dann20: lets step back a bit. do you agree that if   (a + b) converges, and c converges, then (a+b) + c converges?
+[12:02.33] <cads> and why?
+[12:02.38] * Bazzie (~0x2fab@68.235.130.115) Quit (Quit: you're in for wild ride, kid)
+[12:02.46] <Dann20> Yes because of limit theorem
+[12:02.56] * z0kk (~zarak@101.50.87.198) has joined channel ##math
+[12:03.32] <vonStrauss> Good morning z0kk
+[12:03.38] <very_anon_math> spudzee1111: you take the series expansion of both sides
+[12:03.49] <cads> Dann20: do you agree that if   (a + b) converges, and -b, then  (a+b) - b converges? Does a converge in this case as well? why?
+[12:04.00] <cads> -b converges*
+[12:04.07] * Bazzie (~0x2fab@68.235.130.115) has joined channel ##math
+[12:04.17] <Dann20> Yes because of limit theorem
+[12:04.29] <Dann20> a and b must converge for a + b to converge
+[12:04.30] <cads> that answers the first part
+[12:04.35] <very_anon_math> supdzee1111: ＋＋http://en.wikipedia.org/wiki/Euler%27s_formula#Proofs，，
+[12:04.49] <cads> Dann20: no
+[12:05.04] <cads> a and b could both be divergent
+[12:05.16] <cads> but we're saying only that their sum is convergent
+[12:05.47] <cads> but if (a + b) is convergent, and b is convergent, I'm claiming we can show that a is convergent.
+[12:05.47] <Dann20> Oh... okay
+[12:05.58] * PlanckWalk (~Planck@ppp105-115.static.internode.on.net) Quit (Ping timeout: 264 seconds)
+[12:06.42] <cads> because in that case,  the limit theorem says   (a+b) + (-b) is convergent
+[12:06.52] <cads> but that is equal to a, so a must be convergent
+[12:07.29] <cads> Dann20: it's okay if we gotta come at this problem later
+[12:07.33] * z0kk (~zarak@101.50.87.198) Quit (Ping timeout: 265 seconds)
+[12:07.55] <Dann20> ＋＋http://mathb.in/27963，，
+[12:07.58] <Dann20> So what am i missing?
+[12:09.29] <cads> tell me what you think is missing
+[12:09.53] <cads> where is our contradiction?
+[12:10.32] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[12:11.12] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Ping timeout: 252 seconds)
+[12:11.19] <Dann20> Our contradiction is that Xn + Yn doesn't converge
+[12:11.28] <Dann20> Or that Yn converges
+[12:11.28] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[12:11.55] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 265 seconds)
+[12:11.58] * frelleck (frelleck@unaffiliated/frelleck) has joined channel ##math
+[12:13.29] * monoprotic (~monoproti@unaffiliated/monoprotic) Quit (Ping timeout: 255 seconds)
+[12:13.31] <Dann20> ?
+[12:13.58] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Read error: No route to host)
+[12:14.15] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (Read error: Connection reset by peer)
+[12:14.37] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[12:14.42] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[12:15.53] <cads> Dann20: our preconditions are that x converges and y diverses.    for the purpose of establishing a contradiction, our assumption is that x + y converges.    Using that assumption and the preconditions, we can come to the conclusion that y converges. But according to the preconditions, y diverges, Contradiction! Therefore our assumption is false: x + y diverges
+[12:16.10] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 246 seconds)
+[12:17.05] * walabe (cbdb2ec1@gateway/web/cgi-irc/kiwiirc.com/ip.203.219.46.193) has joined channel ##math
+[12:17.17] <walabe> hello
+[12:17.22] * monoprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##math
+[12:17.29] <benzrf> hello walabe
+[12:17.34] <benzrf> what brings you to ##math today
+[12:17.38] * dyl (~dylukes@c-67-172-17-42.hsd1.pa.comcast.net) has joined channel ##math
+[12:17.42] <Dann20> cads:  ＋＋http://mathb.in/27964，， getting closer?
+[12:17.45] <walabe> i have a question i want to make sure is correct
+[12:17.49] <cads> Dann20: that's the flow of a proof by contradiction. We start in a situation where we have some pre-established conditions. We make an assumption, and show that this assumption leads to a bad conclusion. Therefore we conclude the assumption is false.
+[12:18.17] <walabe> for what values of x is the curve: y=x^4 -24x^2 +7? I have -2<x<2 I think is the answer
+[12:18.21] <walabe> is this correct?
+[12:18.29] <walabe> concave down*
+[12:18.37] <walabe> what values is that concave down sorry
+[12:19.00] <cads> Dann20: you have to save the url to show updates :)
+[12:19.13] * vice-cream (~vice-crea@67-6-116-8.mpls.qwest.net) Quit (Read error: Connection reset by peer)
+[12:19.13] <Dann20> ＋＋http://mathb.in/27965，，
+[12:19.17] <Dann20> I keep doing that haha
+[12:20.13] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:20.28] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##math
+[12:20.44] * darwin (d@206.63.237.146) has joined channel ##math
+[12:20.48] * thomas (~thomas@freenode/staff/thomas) Quit (Changing host)
+[12:20.48] * thomas (~thomas@freenode/staff/coward/thomas) has joined channel ##math
+[12:20.56] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) Quit (Ping timeout: 250 seconds)
+[12:21.00] * veid (~veid@172.56.33.0) Quit (Ping timeout: 264 seconds)
+[12:21.15] <very_anon_math> walabe: you look good - you used the second derivative right?
+[12:21.37] <walabe> yes
+[12:21.44] <Dann20> cads: better/
+[12:21.45] <Dann20> ?
+[12:21.50] <walabe> sweet thank you
+[12:22.34] <cads> Dann20: does your book have a section explaining proof by contradiction?
+[12:22.34] <Dann20> Umm
+[12:22.53] <Dann20> Don't believe so
+[12:23.41] <cads> it's crucial that you understand that, so I recommend finding some examples
+[12:24.14] <walabe> what are you guys talking about
+[12:25.22] <cads> walabe: dann is working on some analysis homework, proving that if  x_n is a convergent sequence and and y_n is a divergent sequent, then x_n + y_n is divergent sequence
+[12:25.30] * cameronfr (~cameronfr@125.32.134.27.ap.yournet.ne.jp) has joined channel ##math
+[12:25.36] <Dann20> cads:
+[12:25.37] <Dann20> ＋＋http://mathb.in/27966，，
+[12:25.42] <walabe> nice!
+[12:25.42] <Dann20> Found an example in my notes
+[12:25.56] <walabe> i have no idea what that is haha, what level of maths? university?
+[12:26.28] <cads> Dann20: you have to fill in the details
+[12:26.30] * z0kk (~zarak@101.50.87.198) has joined channel ##math
+[12:26.51] <Dann20> Details?
+[12:27.09] <cads> the limit theorem doesn't say that if  (x+y) and x are convergent then y is convergent
+[12:27.14] <cads> it merely implies that
+[12:27.40] <cads> that is, if x + y and x are two convergent series, we can use the limit theorem to show that y is convergent, but we have to do a little work to set it up
+[12:28.01] <cads> that's what (x+y) - x = y is for
+[12:28.04] * TheScholar (~randomman@ool-45716958.dyn.optonline.net) has joined channel ##math
+[12:28.19] <cads> aside from that, the proof is nearly complete
+[12:29.00] * gondalier (~gondalier@mobile-130-126-255-144.near.illinois.edu) has joined channel ##math
+[12:29.29] <cads> convince me that you know why the limit theorem implies y is convergent given that (x+y) and x are both convergent, and then I'll say you're done
+[12:30.05] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[12:33.23] <Dann20> cads:＋＋http://mathb.in/27967，，
+[12:33.26] <Dann20> get it yet?
+[12:33.28] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[12:33.48] <vonStrauss> Hello
+[12:34.00] <very_anon_math> vonStrauss: Hello
+[12:34.11] * Yottabyte (~Yottabyte@unaffiliated/yottabyte) Quit ()
+[12:34.14] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:34.29] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##math
+[12:34.37] <vonStrauss> Hey very_anon_math
+[12:34.40] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 255 seconds)
+[12:35.07] <drazak> cads: huh, i have an almost epsilonic proof
+[12:35.11] <drazak> thats neat
+[12:35.32] <drazak> i wonder what the topological proof looks like
+[12:36.00] * vonStrauss (~vonStraus@unaffiliated/vonstrauss) has left ##math (("Adieu."))
+[12:36.29] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[12:36.34] * Mmango (~Jeremy1@108-217-142-114.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[12:36.45] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) Quit ()
+[12:37.19] <Dann20> cads: off for the night?
+[12:37.51] * Mmango (~Jeremy1@108-217-142-114.lightspeed.milwwi.sbcglobal.net) has left ##math ()
+[12:37.57] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[12:37.59] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 256 seconds)
+[12:38.07] * Mmango (~Mmango@108-217-142-114.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[12:38.52] <cads> Dann20: you came really close, and I've completed the proof for you
+[12:38.58] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[12:39.15] * Tech_guy21 (~Joe@97-114-117-111.spkn.qwest.net) Quit (Ping timeout: 245 seconds)
+[12:39.18] * vice-cream (~vice-crea@67-6-116-8.mpls.qwest.net) has joined channel ##math
+[12:39.44] <Dann20> Yaaay!  :D
+[12:39.45] <cads> Dann20: I separated the the base assumptions from the assumption made to establish contradiction, which is important for clarity
+[12:39.50] * rebs (~rebs@cpe-69-204-33-166.buffalo.res.rr.com) Quit (Quit: Leaving)
+[12:40.13] * s3a (~s3a@192.154.144.47) Quit (Ping timeout: 252 seconds)
+[12:40.19] <drazak> well
+[12:40.24] <cads> I further explicitly stated the conclusion of the proof by contradiction, which is not always necessary but helpful
+[12:40.35] <walabe> (n-5), (n-2) and (n-8) are 3 consecutive terms of a geometric progression. Find the values of n and the common ratio... does n = 4 and r/ratio = -2 ??
+[12:40.44] * Icehuu (~Icehuu3@srh1444.urh.uiuc.edu) has joined channel ##math
+[12:40.48] * yuung (~john@c-50-183-126-130.hsd1.co.comcast.net) Quit (Ping timeout: 252 seconds)
+[12:40.59] <drazak> if x converges then there is some constant eps s.t. x + eps = 0
+[12:41.25] <drazak> and if y converges the y+eps is some constant
+[12:41.38] <Vornicus> walabe: looks right.
+[12:41.38] * Zeranoe (~Zeranoe@97.91.35.24) Quit (Quit: Zeranoe)
+[12:41.41] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:41.47] <Dann20> cads: okay cool
+[12:41.54] <walabe> thanks
+[12:42.00] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[12:42.26] <walabe> i'm just going to keep posting questions as i do them, for whoever wants to double check them for me... is that okay?
+[12:42.31] <cads> Dann20: and added a couple technical details : I made explicit the claim that -x converges, though I didn't quote a theorem. I quoted the limit theorem to establish that (x + y) + (- x) = y converges
+[12:42.35] <cads> Dann20: ＋＋http://mathb.in/27968，，
+[12:42.35] * supremegoblin (4c105a49@gateway/web/freenode/ip.76.16.90.73) has joined channel ##math
+[12:42.45] <supremegoblin> hello peeps
+[12:42.59] <drazak> yeah
+[12:43.09] * Pengoo (~Pengoo@S0106c8fb2681704d.vf.shawcable.net) has joined channel ##math
+[12:43.21] <drazak> what i am getting to is convergant + constant = convergant
+[12:43.56] <Dann20> cads: cads: Thank you!  See that makes perfect sense!
+[12:44.07] <Dann20> cads: I just never would have been able to write it that nice and precise
+[12:44.07] <cads> Dann20: enjoy
+[12:44.35] <cads> I'm sure studying that (and other proofs) will help you increase your clarity
+[12:44.49] <Dann20> I'll be sure to.
+[12:44.52] <Dann20> Just have one left...
+[12:44.53] <Dann20> haha
+[12:44.56] * brett1479 (~brett1479@pool-173-56-121-99.nycmny.fios.verizon.net) has joined channel ##math
+[12:45.18] <cads> especially where contradiction is concerned, it's very important to be precise and know what's going on
+[12:45.43] <exaction> learning by listening in
+[12:45.58] <brett1479> suppose f_n is a bounded sequence in L^1[0,1], and let g_n = Integral (t  = 0 to x) f_n(t) dt.  Then g_n has a convergent subsequence in L^2[0,1].
+[12:46.21] <walabe> guys how do you find a gradient or slope of a line that makes a triangle, if you only know 2 angles
+[12:46.22] * LogUse (~LogUse@190.190.32.227) Quit (Read error: Connection reset by peer)
+[12:47.02] <Dann20> ＋＋http://mathb.in/27969，，  I've been looking at this throughout the whole night
+[12:48.29] <cads> just remember the format:    PR (Preconditions) -> AS (Assumption for sake of contradiction) -> R (Proof of contradiction) -> CON (Statement of negated AS).   So   PR -> AS -> R -> CON --- if your proof by assumption has these four parts you're on the right track
+[12:49.32] <cads> Dann20: I wish you good luck with that one, but I'm gonna take a break from the channel for now
+[12:50.07] <Dann20> cads: You've hung in there with me a lot longer than i had expected/had wished!
+[12:50.12] <Dann20> cads: Thank you for that!
+[12:50.23] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:50.39] * LACAN (Dr@87.239.82.88) Quit ()
+[12:50.45] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) Quit (Quit: Page closed)
+[12:51.42] <cads> lol, you're sticking with it so I wanna see you succeed!
+[12:51.43] * Pengoo (~Pengoo@S0106c8fb2681704d.vf.shawcable.net) Quit (Quit: number one in the hood g)
+[12:51.43] <benzrf> Dann20: to be precise
+[12:51.56] <benzrf> Dann20: in general, P -> False is equivalent to ~P
+[12:52.08] <benzrf> Dann20: so if ~P -> False, then ~~P
+[12:52.10] <benzrf> Dann20: so, P
+[12:52.20] <benzrf> Dann20: meaning you can prove P by showing that ~P -> False
+[12:52.36] <benzrf> of course this only works if you believe ~~P -> P ;)
+[12:52.36] <cads> also,  A&~A ->
+[12:52.38] <cads> err
+[12:52.44] <walabe> Guys: ＋＋http://i.imgur.com/jAQTN83.png，， Looks really easy but I'm stuck
+[12:52.45] <cads> A&~A -> False
+[12:53.02] <cads> benzrf: shh! :)
+[12:53.18] <benzrf> walabe: perhaps you would find it easier to find the slope of the reflected line, then reflect the slope
+[12:53.38] <benzrf> (reflected over the horizontal axis i mean)
+[12:53.40] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##math
+[12:53.42] <walabe> how do i find a slope with just the angles?
+[12:53.46] <very_anon_math> walabe: or use a special trangle
+[12:53.50] * TheScholar (~randomman@ool-45716958.dyn.optonline.net) Quit ()
+[12:54.12] * TheScholar (~randomman@ool-45716958.dyn.optonline.net) has joined channel ##math
+[12:54.20] <Dann20> benzrf: hm
+[12:54.28] <Dann20> benzrf: for the infinity proof?
+[12:54.28] <cads> benzrf: I forget why we don't want to believe ~~p -> p. Probably because we can prove ~~p without producing an effective method of showing p?
+[12:55.35] * gondalier (~gondalier@mobile-130-126-255-144.near.illinois.edu) Quit ()
+[12:55.37] <supremegoblin> you can prove ~p with a truth table
+[12:55.42] <very_anon_math> cads: isn't that constructivism?
+[12:55.48] <benzrf> cads: well
+[12:55.48] <walabe> very_anon_math: so it would be /-3
+[12:55.49] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[12:55.51] <supremegoblin> same with ~~P
+[12:55.52] <walabe> square root 3
+[12:55.53] <cads> very_anon_math: yes
+[12:56.09] <benzrf> cads: under the curry howard correspondence, ~P /literally/ means P -> False
+[12:56.28] * Liebknecht (uid46333@gateway/web/irccloud.com/x-jjjbfyapmmdihtnv) Quit (Quit: Connection closed for inactivity)
+[12:56.38] <benzrf> in the same way that 1010 /literally/ means 10
+[12:56.45] <benzrf> (binary and decimal, sorry)
+[12:57.00] <benzrf> cads: so ~~P means ((P -> False) -> False)
+[12:57.19] <supremegoblin> think of it like a double negative lol
+[12:57.24] * Haswell (~Haswell@unaffiliated/haswell) Quit (Quit: Saliendo)
+[12:57.26] <benzrf> and "forall P, ~~P -> P" is "forall P, ((P -> False) -> False) -> P"
+[12:57.33] <benzrf> i defy you to write a function with that type :)
+[12:57.44] <drazak> lol
+[12:57.47] * rate_reducer (~rate_redu@18.189.115.168) Quit (Quit: rate_reducer)
+[12:57.55] <benzrf> \f.???
+[12:58.18] * TheScholar (~randomman@ool-45716958.dyn.optonline.net) Quit (Client Quit)
+[01:00.26] * UndeadElbowMacar (~undeadelb@24.56.122.168) has joined channel ##math
+[01:01.02] <cads> benzrf: is False the uninhabited type?
+[01:01.26] <benzrf> cads: yes
+[01:01.45] <drazak> this sounds like a cale conversation
+[01:02.08] <benzrf> cads: obviously "forall P, P -> ((P -> False) -> False)" is trivial to implement, and so double negation introduction is OK
+[01:02.14] <cads> so if we have a function   f : P -> False, then this means P is the inhabited type as well, since the inhabited type is initial?
+[01:02.21] * timlyg (~timlyg@ool-45716958.dyn.optonline.net) Quit (Quit: leaving)
+[01:02.28] <benzrf> cads: but if you're using a λ-calculus based logic, then DNE isnt ok
+[01:02.33] <benzrf> *DNE being ~~P -> P
+[01:02.45] <benzrf> cads: sorry what
+[01:02.48] <drazak> lem
+[01:02.57] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##math
+[01:02.57] <cads> err
+[01:03.04] <cads> benzrf: s/inhabited/uninhabited
+[01:03.18] <benzrf> cads: you have f : (P -> False) -> False in scope
+[01:03.24] <benzrf> now write an expression of type P
+[01:03.39] <benzrf> do this in a way that is parametrically polymorphic over all P
+[01:03.50] <benzrf> then you have an implementation of forall P, ((P -> False) -> False) -> P
+[01:04.10] <cads> benzrf: I'm guessing that the uninhabited type is an initial object in the category of types, so that if we have some f: p -> false, then p must be an initial object as well
+[01:04.19] <cads> ie, it'd be isomorphic to the uninhabited type
+[01:04.24] <benzrf> but cads
+[01:04.28] <benzrf> you dont have P -> False
+[01:04.33] <benzrf> you have f : (P -> False) -> False
+[01:04.40] <benzrf> remember, you're trying to recover P from ~~P
+[01:05.01] <cads> benzrf: sorry I did not clarify  - I was asking only about how negation works
+[01:05.01] * TheScholar (~randomman@ool-45716958.dyn.optonline.net) has joined channel ##math
+[01:05.04] <benzrf> ah
+[01:05.10] <benzrf> yes that sounds about right
+[01:05.40] * mordonez (~mordonez@190.42.49.151) has joined channel ##math
+[01:05.47] * supremegoblin (4c105a49@gateway/web/freenode/ip.76.16.90.73) Quit (Ping timeout: 246 seconds)
+[01:05.55] <walabe> ＋＋http://i.imgur.com/UCvmPnw.png，， Would this be correct, f '(a) >0 and f " (a) <0
+[01:05.56] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##math
+[01:06.02] * z0kk_ (~zarak@107.6.116.74) has joined channel ##math
+[01:06.15] <benzrf> i mean intuitively anything with a function to  is also empty, so it's clearly an initial object by the same proof as False
+[01:06.26] <cads> so saying   (P -> False) -> False is saying that the number of arrows from P to False is zero. In other words P is not initial, so it is inhabited
+[01:06.33] <benzrf> i suppose
+[01:06.45] <cads> but this doesn't give us any way to produce any inhabitants of P
+[01:06.47] <benzrf> cads: right
+[01:06.48] <UidX> walabe: yes
+[01:06.49] <very_anon_math> walabe: correct, the function is ascending at a, but slowing its rate of ascent
+[01:06.56] <benzrf> cads: actually
+[01:07.00] <walabe> woo hoo thanks guys
+[01:07.05] <benzrf> cads: you can prove ~~LEM in constructive logic
+[01:07.14] <benzrf> cads: but im fairly sure you cannot prove LEM
+[01:07.20] <cads> course not
+[01:07.30] * brett1479 (~brett1479@pool-173-56-121-99.nycmny.fios.verizon.net) Quit (Quit: This computer has gone to sleep)
+[01:07.31] <cads> hmm
+[01:07.35] <cads> wow though
+[01:07.38] * z0kk (~zarak@101.50.87.198) Quit (Ping timeout: 245 seconds)
+[01:07.43] <cads> huh.
+[01:07.46] * brett1479 (~brett1479@pool-173-56-121-99.nycmny.fios.verizon.net) has joined channel ##math
+[01:07.56] <benzrf> (DNE <-> LEM btw)
+[01:08.35] <cads> I'm trying to wrap my head around what ~~LEM really means!
+[01:08.49] <benzrf> cads: simply that not LEM is contradictory
+[01:08.57] <ski> it means that it's impossible that LEM is false
+[01:09.01] * sylow1 (ba2dc69a@gateway/web/freenode/ip.186.45.198.154) has joined channel ##math
+[01:09.19] <Minimoa> Is there are application online to draw solution curves?
+[01:09.30] <TheScholar> are there still trolls on irc these days?
+[01:09.43] <Minimoa> Direction fields I mean
+[01:09.56] <benzrf> TheScholar: there alwways have been and there always will bee
+[01:10.41] <benzrf> cads: coq uses a fun trick to get things like "0 = 1 -> False" btw
+[01:10.51] * ski thinks of the set of truth-values as being "diffuse", with two sharpy distinguished points, `false' and `true' in it
+[01:10.56] <TheScholar> benzrf, i don't see much thesedays
+[01:11.08] <ski> benzrf : universe ?
+[01:11.17] <cads> A v (A -> False)   I get : it's the statement that we have an inhabited type consisting of the union of A along with the arrows from A to false.
+[01:11.17] <benzrf> ski: hm?
+[01:11.37] <benzrf> cads: well
+[01:11.38] <cads> I have a hard time seeing how that type could be uninhabited
+[01:11.39] <benzrf> ah yes
+[01:11.48] <cads> but supposing
+[01:11.52] <benzrf> cads: well, it's uninhabited for LEM :)
+[01:12.04] <benzrf> ~LEM is uninhabited and so is LEM
+[01:12.28] <ski> cads : it's the statement (for a particular given `A', say), that we have decided whether `A' is true or `A' is not true (iow false)
+[01:12.35] <cads> isn't LEM  the statement that   A v (A -> False) is  inhabited
+[01:12.35] <cads> ?
+[01:12.39] <benzrf> cads: yes
+[01:12.41] <benzrf> :D
+[01:12.49] <benzrf> cads: well, no
+[01:13.05] <cads> oh no, ski's on da scene!
+[01:13.06] <ski> LEM is the universal closure of that, over any `A'
+[01:13.08] <cads> sup, ski?
+[01:13.17] <benzrf> cads: constructively, a statement of inhabitation must provide an actual inhabitant
+[01:13.18] <cads> ah, right
+[01:13.21] <ski> cads : inf
+[01:13.48] <benzrf> cads: so LEM is the type of a function from a proposition to either a proof or disproof of that prop
+[01:13.51] <sylow1> G is a p-group of order p^2. Suppose |Z(G)| = p. Then, G/Z(G) is isomorphic to Z_g (the cyclic group of order p). Why is G abelian from here? I understand that cyclic groups are abelian. Does it mean that G/Z(G) is cyclic?
+[01:14.55] <benzrf> cads: intuitively a proof of P is giving an inhabitant of P, while a proof of ~~P is showing that it would be absurd for P to be absurd
+[01:15.02] <benzrf> er, for P to be uninhabited, i guess?
+[01:15.08] * z0kk (~zarak@101.50.87.198) has joined channel ##math
+[01:16.06] <benzrf> so LEM cannot be proven because you can't actually implement such a function, but ~~LEM is OK because it would be silly for such a function to be undefinable in a classical sense
+[01:16.08] <benzrf> ...kinda
+[01:17.32] <cads> benzrf: so  f : A v (A -> False) is an inhabitant of A or Hom(A, B), but I'm having a hard time seeing why it would be hard to produce f for any known inhabited A. Similarly, if we know A is uninhabited, it should be easy to produce such f.
+[01:17.42] <cads> I guess there's a third case
+[01:17.46] <benzrf> cads: ah, but!
+[01:18.10] <benzrf> LEM = forall P, P \/ ~P
+[01:18.11] <cads> where we don't know if A is either inhabited or uninhabited
+[01:18.20] <benzrf> cads: forall is a function type
+[01:18.26] * z0kk_ (~zarak@107.6.116.74) Quit (Ping timeout: 252 seconds)
+[01:18.31] <ski> cads : <＋＋http://math.andrej.com/2005/05/16/how-many-is-two/，，> might be fun, if you haven't seen it before ..
+[01:18.37] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[01:18.50] <benzrf> so if LEMProof : LEM, then LEMProof RiemannHypothesis : RiemannHypothesis \/ ~RiemannHypothesis
+[01:19.01] <benzrf> do you believe in such a function, cads?
+[01:19.26] <cads> benzrf: oh shait, you are asking for a process that either produces an inhabitant or proof that such inhabitant doesn't exist...
+[01:19.34] <cads> for _any_ type
+[01:19.38] <benzrf> yep
+[01:19.46] <benzrf> 01:17:51         benzrf │ cads: forall is a function type
+[01:19.53] <cads> sounds like halting function country
+[01:19.58] <benzrf> indeed
+[01:20.23] <benzrf> cads: remember; classically you can apply the LEM to do case analysis on a proposition's truth value
+[01:20.38] <benzrf> in constructive logic, there are no truth values, only inhabitance
+[01:20.46] <cads> so it's the function type quantifying the local LEM over all types that ends up being uninhabited
+[01:20.55] <benzrf> yes
+[01:21.10] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 240 seconds)
+[01:21.11] <benzrf> although LEM \/ ~LEM is also uninhabited!
+[01:21.25] <ski> (another way to think about it is : there are truth-values, but you can't do case analysis on them)
+[01:21.26] <benzrf> you can't prove that though
+[01:21.31] <benzrf> at least, not within the logic
+[01:21.36] <benzrf> so LEM is consistent with it
+[01:21.57] <benzrf> from the outside, it's clear that ~(LEM \/ ~LEM) since you can't prove either within the logic
+[01:22.04] <benzrf> so it looks like LEM should be inconsistent with it
+[01:22.12] <benzrf> but from the inside, you can't actually prove ~(LEM \/ ~LEM)
+[01:22.14] <benzrf> so it's safe!
+[01:22.34] <cads> so we know LEM is an uninhabited function type, but the logic doesn't know that?
+[01:22.43] <ski> this just means that any constructive proof is also a valid classical proof
+[01:22.56] <cads> at least not enough to show  ~LEM  !
+[01:23.01] <benzrf> cads: yep
+[01:23.22] * MutSbeta (~user@95.73.213.183) has joined channel ##math
+[01:23.25] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:23.26] <cads> wow
+[01:23.37] <benzrf> a very skolem's paradox feel isnt it
+[01:23.46] * supferrets (~supferret@unaffiliated/supferrets) Quit (Read error: Connection reset by peer)
+[01:23.55] <ski> cads : well, if you add some extra axioms, you can prove `~(forall P, P \/ ~P)' .. but you still can't prove `~(A \/ ~A)' for any particular `A' (because you can prove `~~(A \/ ~A)' for any `A')
+[01:24.29] * very_anon_math (~anon_math@ip68-7-134-6.sd.sd.cox.net) Quit (Quit: Leaving)
+[01:24.37] <ski> cads : with such additional (anti-classical) axioms, we can then refute some things provable in classical math, and prove some things refutable in classical math
+[01:24.45] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##math
+[01:24.51] <ski> (e.g. prove that every function on the reals is continuous)
+[01:24.52] <cads> always fun
+[01:25.15] <cads> does that get us much mileage? or does it fall down around our ears?
+[01:25.20] <ski> (or prove that `2^(2^|N)' has the same number of elements as `|N')
+[01:25.25] <benzrf> ski: well, those would be the definable reals wouldnt they
+[01:25.44] <ski> benzrf : no
+[01:25.47] <cads> ski: both of those facts are at pretty conventient :)
+[01:25.49] <benzrf> hmm, ah
+[01:25.58] <benzrf> oh i see
+[01:26.04] <cads> unless it leads to absurdity explosion
+[01:26.05] <benzrf> you can only talk about specific definable reals
+[01:26.08] * Mulder (~Mulder@unaffiliated/mulder) has joined channel ##math
+[01:26.35] <benzrf> but ones that you introduce from foralls can't be treated as necessarily definable
+[01:26.41] <ski> cads : see <＋＋http://math.andrej.com/2009/10/12/constructive-gem-double-exponentials/，，> for the `2^(2^|N)' thing
+[01:27.00] <cads> okay, one last thing and then I'll be very happy with what I've learned tonight
+[01:27.10] <ski> benzrf : right
+[01:27.27] <cads> I've been attempting to learn these really basic facts for years
+[01:27.29] <@Cale> cads: Well, hang on  "<cads> so we know LEM is an uninhabited function type, but the logic doesn't know that?"  -- it really depends on what you mean by "uninhabited"
+[01:27.46] <@Cale> There are models of the logic in which LEM is inhabited
+[01:28.01] <cads> oh?
+[01:28.21] <cads> like classical logic?
+[01:28.26] <@Cale> cads: Look at it this way -- if you go by the group axioms alone, you can't show there's any elements other than the identity
+[01:28.26] * Mythra (171c11bc@gateway/web/freenode/ip.23.28.17.188) has joined channel ##math
+[01:28.32] <@Cale> That doesn't mean those elements aren't there
+[01:28.45] <@Cale> They could be, they just don't have to be
+[01:28.52] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Client Quit)
+[01:28.55] <@Cale> LEM *might* hold, it just doesn't have to.
+[01:29.03] <benzrf> forgive me Cale
+[01:29.07] <walabe> " explain why y= x^3 + 3 is an increasing function except at x=0"
+[01:29.07] <benzrf> i assumed coq as a model
+[01:29.10] <benzrf> ;-;
+[01:29.24] <cads> Cale: that makes sense
+[01:29.28] <ski> generally speaking, assuming the logic is sound, what is provable must be true in any model. so as long as there are models where it's not true, it can't be provable. but there could still be other models where it is true
+[01:29.30] <Mythra> Can someone help me with one simple calculus question please?
+[01:29.47] <cads> Mythra: just use this one simple trick
+[01:29.47] <mefistofeles> Mythra: shoot
+[01:29.52] <Mythra> what is the first derivative of 6?
+[01:29.56] <cads> 0...
+[01:29.58] <benzrf> Mythra: is 6 a function
+[01:30.22] <zyxw> hmmm...
+[01:30.29] <benzrf> i just realized
+[01:30.41] <benzrf> standard math notation treats macros and functions as interchangeable
+[01:30.45] <cads> Mythra: the derivative of any constant is 0 everywhere
+[01:30.45] <benzrf> how awful
+[01:30.55] <Mythra> It's part of a silly contest between me and a few friends, I assumed it was a calculus question, thank you :)
+[01:30.56] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[01:31.00] <drazak> I accept AC in all my models because i enjoy my VS having basea
+[01:31.00] <@Cale> benzrf: What? :)
+[01:31.05] <TheLoneMilkMan> Hey does anyone have any idea how to work with FFTs?
+[01:31.06] <ski> benzrf : perhaps you're thinking of dependent variables / dynamic-scoping ?
+[01:31.22] <benzrf> like
+[01:31.39] <benzrf> dy/d x + 3
+[01:31.45] <@Cale> drazak: The thing is, vector spaces themselves have an internal logic to them, but that logic doesn't have LEM!
+[01:31.47] <benzrf> dy/d is clearly a macro
+[01:31.56] <benzrf> but nothing in the syntax distinguishes it as such
+[01:32.03] <cads> benzrf: well the derivative operator works over a space of functions, and it's common to lift a number c into the constant function taking value c at each point.
+[01:32.07] <benzrf> what is this, lisp?!
+[01:32.24] <ski> benzrf : `d (..x..) / d x' is a macro for `D(x |-> ..x..)(x)', yes
+[01:32.31] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) has joined channel ##math
+[01:32.33] <Mythra> Thanks again!
+[01:32.57] <benzrf> crap
+[01:33.02] <benzrf> i abused leibniz notation
+[01:33.09] <benzrf> i should get it thru my skull at some point :I
+[01:33.13] <drazak> Cale: doesnt bother me
+[01:33.33] <ski> benzrf : note in particular how it both uses `x' and (re)binds it
+[01:33.49] <drazak> Cale: I can have dependant choice without lem for sure, so my VS have bases
+[01:33.50] <benzrf> ski: oooooooohhhhhHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!
+[01:33.57] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) Quit (Read error: Connection reset by peer)
+[01:33.58] <benzrf> ski: that fucking
+[01:34.04] <cads> Mythra: to convince yourself imagine the graph of the function  f(x) = 6.  It's horizontal line, so it's slope is zero.  For a function whose graph is a line, the derivative everywhere is the same, and equal to the slope of the line, as can be shown fairly easily using the limit definition of the derivative
+[01:34.07] <benzrf> ugh, thats been the source of hours of confusion for me ;-;
+[01:34.15] <benzrf> thank you!
+[01:34.18] <cads> Mythra: and cheers! easiest question we've had all night :)
+[01:34.46] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Remote host closed the connection)
+[01:35.08] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 244 seconds)
+[01:35.23] <ski> benzrf : this is why `let y = f(x) in d (..x..y..) / d x' (partial derivative) is not the same as `d (let y = f(x) in ..x..y..) / d x' (total derivative)
+[01:35.31] <@Cale> drazak: My point is, the nice thing about doing as much mathematics as possible independently of LEM and choice is that it makes our theorems more reusable.
+[01:35.32] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 252 seconds)
+[01:35.42] <@Cale> drazak: For a better example, consider topological spaces
+[01:35.55] <cads> benzrf: leibnize notation likes to be abused
+[01:36.06] <@Cale> drazak: You can do a *lot* of mathematics replacing sets with topological spaces
+[01:36.15] * z0kk (~zarak@101.50.87.198) Quit (Remote host closed the connection)
+[01:36.27] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) has joined channel ##math
+[01:36.29] <benzrf> cads: kinky
+[01:36.30] <cads> it doesn't help to remember it, anyhow, you're always going to be redefining different flavors of it in higher math anyways
+[01:36.32] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##math
+[01:36.41] <@Cale> drazak: and functions with continuous maps
+[01:36.44] <drazak> Cale: i mean, i agree, but I feel like its a huge tradeoff of flexibility and power to prove things without len/ac
+[01:36.46] <benzrf> ski: fricking macros!!!!!
+[01:36.48] * z0kk (~zarak@101.50.87.198) has joined channel ##math
+[01:36.48] <@Cale> drazak: But not everything goes through
+[01:36.53] <benzrf> they abuse equational reasoning@!
+[01:36.59] * Mythra (171c11bc@gateway/web/freenode/ip.23.28.17.188) Quit (Ping timeout: 246 seconds)
+[01:37.31] * UndeadElbowMacar (~undeadelb@24.56.122.168) Quit (Remote host closed the connection)
+[01:37.41] <ski> benzrf : of course, people would usually not write the `let y = f(x) in ' in-place there, instead stating it at some other point in the text, and expecting you to figure out where it goes
+[01:37.50] <cads> benzrf: you have integrals against measures, in measure theory, and integrals against forms, in differential geometry... both abuse leibniz notation in some way
+[01:37.54] <cads> and I bet there are other examples
+[01:38.12] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[01:38.12] <brett1479> suppose f_n is a bounded sequence in L^1[0,1], and let g_n = Integral (t  = 0 to x) f_n(t) dt.  Then g_n has a convergent subsequence in L^2[0,1].
+[01:38.27] <@Cale> drazak: Well, of course it is, but it's also limiting when you go to use your results
+[01:38.33] * cads wishes there was a convention with formally defined semantics somewhere in common use
+[01:39.17] <cads> except for the fact that the notation eventually gets ingrained to where you use it without needed to know what it really means
+[01:39.34] <drazak> Cale: I wonder if we can quantify how "powerful" and how general or whatever our theorems are in some model
+[01:40.01] <cads> which isn't as true if you use clunkier notation that does make everything competeely obvious
+[01:40.04] <benzrf> cads: i blame physicists
+[01:40.10] <cads> completely*
+[01:40.35] <cads> benzrf: mathematicians are the ones that are stubborn about it, and I hardly think it's on account of the physicists
+[01:40.35] <@Cale> drazak: From a categorical perspective, the axiom of choice basically says that every epimorphism splits, and that's false in the topological category, and Lie category, and many others
+[01:41.00] <Minimoa> If a^x^3 > (1/a)^(x+1) and x^3 + x + 1 < 0 have same solution, then what can we say about a?
+[01:41.02] <@Cale> drazak: So, if you make use of that, you don't get that automatic sort of generalisation
+[01:41.06] <cads> maybe it's because physicists constributed so much to the theory of integration and differentiation
+[01:41.12] * z0kk (~zarak@101.50.87.198) Quit (Ping timeout: 240 seconds)
+[01:41.22] <Minimoa> If a > 0
+[01:41.44] <walabe> can someone help
+[01:41.45] <walabe> explain why y= x^3 + 3 is an increasing function except at x=0"
+[01:41.46] <drazak> Cale: huh
+[01:41.54] <sylow1> ok, i figured it out
+[01:42.01] <drazak> i really need to learn category theory
+[01:42.23] <Minimoa> walabe: Check it's slope on every point
+[01:42.26] <Minimoa> it's never negative
+[01:42.47] <walabe> okay thanks
+[01:43.05] * kuttenbrunzer (~kuttenbru@ip4d1568f0.dynamic.kabel-deutschland.de) has joined channel ##math
+[01:43.24] <cads> walabe: that function is monotonically increasing everywhere, but x=0 is a critical point
+[01:43.28] <sylow1> If p is a prime number, then the only group with p elements is the cyclic group Cp.
+[01:43.30] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[01:44.33] <cads> I actually think f(x) = x^3 + 3 is strictly increasting, since a  < b implies  f(a) < f(b), even if a or b is 0.
+[01:44.35] <walabe> critical point = stationary point? cads
+[01:44.46] <cads> walabe: right
+[01:45.01] <walabe> okay thanks!!
+[01:45.10] <Minimoa>  If a^x^3 > (1/a)^(x+1) and x^3 + x + 1 < 0 have same solution, this means that x^3 < -x -1, so a^x^3 < a^(-x-1) ?
+[01:46.03] <Minimoa> for a > 0
+[01:46.20] <@Cale> drazak: There's a really nice answer here: ＋＋http://mathoverflow.net/a/22938，， I think we have a long way to go to really start taking as much advantage as we could with regard to writing results once and using logical tools to generalise results for free, but yeah, the first step is just to pay attention to when we really need LEM and AC and when we can get by without them.
+[05:47.38] *** Server disconnected on irc.freenode.net

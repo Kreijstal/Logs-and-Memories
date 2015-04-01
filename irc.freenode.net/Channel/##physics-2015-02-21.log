@@ -1,0 +1,165 @@
+Session Start: Sat Feb 21 12:36:45 2015
+Session Ident: ##physics
+[12:36.45] * You have joined ##physics
+[12:36.45] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[12:36.45] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[12:36.45] Channel modes for ##physics are :+Ccgnt
+[12:36.45] Channel Created on: 4:02 AM 12/19/2007
+[12:37.53] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[12:38.05] * napster (~textual@117.253.166.239) has joined channel ##physics
+[12:38.22] * shikhin_ is now known as shikhin
+[12:38.38] * rudi95 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[12:43.21] * Guest40728 (~linux_dre@23-207-245-190.fibertel.com.ar) Quit (Quit: Leaving)
+[12:44.39] * JWalker95 (~smuxi@24-107-198-216.dhcp.stls.mo.charter.com) has joined channel ##physics
+[12:47.55] * garFF (~garFF@6166245-cl69.boa.fiberby.dk) has joined channel ##physics
+[12:48.42] * slurik (~slurik@135-23-94-120.cpe.pppoe.ca) Quit (Remote host closed the connection)
+[12:49.21] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 250 seconds)
+[12:50.39] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[12:54.25] * TheLoneMilkMan_ (Gamemaster@129.21.94.19) Quit (Ping timeout: 246 seconds)
+[12:55.48] * curiousguy13 (~curiousgu@120.59.107.34) Quit (Ping timeout: 240 seconds)
+[12:58.04] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) has joined channel ##physics
+[12:58.10] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 250 seconds)
+[12:58.59] * Tarap (~bgg@roa76-6-82-238-233-207.fbx.proxad.net) has joined channel ##physics
+[12:59.08] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:01.11] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Read error: Connection reset by peer)
+[01:04.12] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[01:06.04] * bbbb (~bbbb@cpc15-newc13-2-0-cust741.16-2.cable.virginm.net) Quit (Ping timeout: 276 seconds)
+[01:06.34] * bbbb (~bbbb@cpc15-newc13-2-0-cust741.16-2.cable.virginm.net) has joined channel ##physics
+[01:08.26] * curiousguy13 (~curiousgu@120.59.226.80) has joined channel ##physics
+[01:09.18] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##physics
+[01:09.28] * Rukaro (~Rukaro@119.159.52.32) has joined channel ##physics
+[01:11.16] * bbbb (~bbbb@cpc15-newc13-2-0-cust741.16-2.cable.virginm.net) Quit (Ping timeout: 276 seconds)
+[01:14.30] * Bajo (~bajo@unaffiliated/bajo) Quit ()
+[01:14.37] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[01:14.42] * Macuser (~textual@unaffiliated/macuser) Quit (Max SendQ exceeded)
+[01:15.18] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[01:17.33] * Rukaro (~Rukaro@119.159.52.32) Quit (Quit: Rukaro)
+[01:20.40] * rudi95 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 246 seconds)
+[01:22.40] <Xionaba> xihr: i struggle with the mental visualisation of these, i feel like once i have the ability to mentally visualize them, thinks become easier but  there are a dousin variables for electromagnetism that i mix up
+[01:23.07] * linear4 (L@unaffiliated/lynear) Quit (Ping timeout: 246 seconds)
+[01:23.52] * Gyro (~Gus@d042052.adsl.hansenet.de) has joined channel ##physics
+[01:24.26] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:24.48] * rudi95 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[01:24.53] <jamesson> can I do graphical vector addition without graph paper as long as I draw the lines to scale?
+[01:24.56] * linear4 (L@unaffiliated/lynear) has joined channel ##physics
+[01:26.25] <xihr> maybe?
+[01:26.28] <xihr> hard to say with no context
+[01:28.09] <jamesson> xihr: I want to draw it in adobe illustrator, but drawing custom cartesian every time is just going to be a pain
+[01:28.46] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Remote host closed the connection)
+[01:28.52] <jamesson> xihr: can i show you the lab and/or some problems?
+[01:29.08] * Tamae (~Tamae@mna75-1-81-57-129-31.fbx.proxad.net) has joined channel ##physics
+[01:29.19] <xihr> if it's for a course, you'll have to ask your teacher
+[01:29.36] <xihr> there's no way anyone here can tell you what's expected
+[01:29.55] * bbbb (~bbbb@cpc15-newc13-2-0-cust741.16-2.cable.virginm.net) has joined channel ##physics
+[01:30.06] * Nik05 (~Nik05@unaffiliated/nik05) has joined channel ##physics
+[01:34.32] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) Quit (Ping timeout: 264 seconds)
+[01:36.01] <django_> what is the word used to say that since light scatters in water then it quickly dissipitates
+[01:36.44] <django_> it doesnt travel very far
+[01:39.20] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 250 seconds)
+[01:41.51] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##physics
+[01:42.18] <superposition> absorption
+[01:44.24] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[01:45.14] * AyraXaryA (~AyraXaryA@c-50-156-7-51.hsd1.ca.comcast.net) Quit ()
+[01:46.04] <SpeedEvil> It'sgot nothing to do with scattering though - well - directly
+[01:46.17] * philip (~philip@kuzh.polytechnique.fr) Quit (Remote host closed the connection)
+[01:46.33] * philip (~philip@kuzh.polytechnique.fr) has joined channel ##physics
+[01:47.08] * jitta (~jitta@95.90.246.116) Quit (Ping timeout: 264 seconds)
+[01:55.48] * BrainDamage (~BrainDama@unaffiliated/braindamage) Quit (Ping timeout: 250 seconds)
+[01:57.05] * BrainDamage (~BrainDama@unaffiliated/braindamage) has joined channel ##physics
+[01:58.56] * fireballs (~fireballs@128.135.100.115) has joined channel ##physics
+[04:36.15] *** Server disconnected on irc.freenode.net
+[06:48.21] * You have joined ##physics
+[06:48.21] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[06:48.21] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[06:48.22] Channel modes for ##physics are :+Ccgnt
+[06:48.22] Channel Created on: 4:02 AM 12/19/2007
+[06:49.50] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[06:50.30] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 265 seconds)
+[06:56.18] * curiousguy13 (~curiousgu@120.59.226.80) Quit (Ping timeout: 245 seconds)
+[06:56.58] * Psychiatrist (~FrontierP@yhikas4.ttu.ee) has joined channel ##physics
+[06:57.45] * mueslo_ (~quassel@p54B417AD.dip0.t-ipconnect.de) has joined channel ##physics
+[06:57.55] * bbbb2 (~bbbb@cpc15-newc13-2-0-cust741.16-2.cable.virginm.net) has left ##physics ()
+[06:58.28] * fireballs (~fireballs@128.135.100.109) has joined channel ##physics
+[07:00.37] * mueslo (~quassel@p54B417AD.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[07:03.46] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[07:05.07] * Raccoon (wayward@unaffiliated/raccoon) has joined channel ##physics
+[07:07.11] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Quit: Ex-Chat)
+[07:07.35] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) Quit (Quit: resttime)
+[07:08.25] * curiousguy13 (~curiousgu@120.59.229.150) has joined channel ##physics
+[07:08.43] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) has joined channel ##physics
+[07:13.44] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 252 seconds)
+[07:14.33] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[07:15.52] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:16.28] * JWalker95 (~smuxi@24-107-198-216.dhcp.stls.mo.charter.com) Quit (Read error: Connection reset by peer)
+[07:18.06] * Euthyphro (~Crito___@71.81.200.100) Quit (Quit: Leaving)
+[07:21.35] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) has joined channel ##physics
+[07:22.07] * chill|out (~chill@unaffiliated/chill0ut) Quit (Disconnected by services)
+[07:22.13] <Raccoon> Do clouds have "weight"?
+[07:22.21] * chill|out (~chill@unaffiliated/chill0ut) has joined channel ##physics
+[07:23.11] <Raccoon> I'm being told that "weight" is defined by mass * acceleration (aka gravity), and not influenced by variables such as bouyancy, temperature, pressure or anything else
+[07:23.26] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) Quit (Ping timeout: 245 seconds)
+[07:26.28] * shikhin_ is now known as shikhin
+[07:26.32] * kkuno (~m3l720@78-134-100-225.v4.ngi.it) Quit (Quit: Konversation terminated!)
+[07:28.21] * jakr (~jakr@unaffiliated/jakr) has joined channel ##physics
+[07:29.13] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[07:35.17] * _Atom_ (~jawat@cpe-72-182-59-185.austin.res.rr.com) has joined channel ##physics
+[07:38.42] <chewyDelicious> Yes, yes they do.
+[07:38.56] * rudi94 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[07:39.01] <mefistofeles> Raccoon: ↑
+[07:39.18] <Raccoon> Yes, what do?
+[07:39.59] <mefistofeles> Raccoon: that's the answer to your question
+[07:40.32] <Raccoon> So your opinion is that a hotair balloon is "weightless"
+[07:40.44] <mefistofeles> what?
+[07:40.50] * Puffton (~textual@c-5dd9e355.05-70-73746f60.cust.bredbandsbolaget.se) has joined channel ##physics
+[07:40.53] <mefistofeles> Raccoon: can't you read? how did you get that?
+[07:40.53] * rudi95 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 264 seconds)
+[07:40.59] <Raccoon> I was given nothing to read
+[07:41.05] <mefistofeles> :S
+[07:41.10] * mefistofeles bails...
+[07:41.12] <chewyDelicious> Well this is a waste of time
+[07:41.12] <Raccoon> I did all the talking
+[07:41.28] <Raccoon> Here's something to read:  ＋＋https://www.facebook.com/ScienceAlert/posts/10153195811087518?comment_id=10153196843107518，，
+[07:41.38] <chewyDelicious> I have enough to read ty.
+[07:42.13] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Ping timeout: 246 seconds)
+[07:42.15] <mefistofeles> facebook? xD no thanks
+[07:42.26] <Raccoon> It's like IRC, with human names.
+[07:42.33] <mefistofeles> no thanks
+[07:42.43] * Radivarig (~Radivarig@cpe-188-129-47-170.dynamic.amis.hr) Quit (Ping timeout: 244 seconds)
+[07:44.09] * chill|out (~chill@unaffiliated/chill0ut) has left ##physics ()
+[07:45.14] * Adran (~adran@botters/staff/adran) has joined channel ##physics
+[07:45.58] * chill|out (~chill@unaffiliated/chill0ut) has joined channel ##physics
+[07:47.56] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) has joined channel ##physics
+[07:51.13] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) has joined channel ##physics
+[07:52.20] * django_ (~proz@69-84-110-170-dhcp.mia.fl.atlanticbb.net) Quit (Changing host)
+[07:52.20] * django_ (~proz@unaffiliated/django-/x-8345756) has joined channel ##physics
+[07:52.52] * TheLoneMilkMan_ (Gamemaster@vincelaptop.rh.rit.edu) has joined channel ##physics
+[07:53.16] * greenbagels_ (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[07:54.25] * fireballs (~fireballs@128.135.100.109) Quit (Ping timeout: 265 seconds)
+[07:55.02] * Niebuhr (~p@host86-129-194-54.range86-129.btcentralplus.com) has joined channel ##physics
+[07:55.55] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) Quit (Ping timeout: 264 seconds)
+[07:55.59] * TheLoneMilkMan (Gamemaster@129.21.93.221) Quit (Ping timeout: 252 seconds)
+[07:56.40] <zeitue> question "A baseball is thrown straight up returns to the point it was released after 3.8 s. Find the speed of the ball as it is released."
+[07:56.40] <zeitue> from what I can tell it should be like this v = v0 + at, I solve it for v0 and get v0 = v - at and then plug in the numbers v0 = v + 9.8(3.8)
+[07:56.40] <zeitue> would the final velocity be 0? which would cause the initial velocity to be 37.24 or would the final velocity be something else?
+[07:57.37] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) has joined channel ##physics
+[07:57.57] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[07:58.32] <zeitue> I think it should be 0 on returning but it might have a final velocity that would be much higher
+[07:58.34] <chill|out> final velocity = v(3,8s) ?
+[07:58.57] <KAHR-Alpha> zeitue: when you throw something at the sky, does it land on your face with 0 velocity?
+[07:59.26] <zeitue> no it would hit with a lot of force from what I know
+[10:03.27] *** Server disconnected on irc.freenode.net
+[11:50.07] * You have joined ##physics
+[11:50.07] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[11:50.07] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[11:50.08] Channel modes for ##physics are :+Ccgnt
+[11:50.08] Channel Created on: 4:02 AM 12/19/2007
+[11:50.10] <zeitue> everything is falling much free fall
+[11:52.02] <spxtr> mefistofeles: I tried making a device out of that material a few months ago, but gave up because it oxidizes so quickly.
+[11:52.14] <spxtr> They did the whole process in a glove box :D
+[11:52.16] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) Quit (Remote host closed the connection)
+[11:53.42] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[11:55.45] * rudi94 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 264 seconds)
+[11:55.54] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[11:56.20] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[11:58.09] * fireballs (~fireballs@128.135.100.114) Quit (Ping timeout: 264 seconds)
+[11:59.41] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (Ping timeout: 246 seconds)

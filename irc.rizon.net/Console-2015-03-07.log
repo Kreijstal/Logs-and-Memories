@@ -1,0 +1,203 @@
+Session Start: Sat Mar 07 12:38:58 2015
+[12:38.58] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (208.100.38.65) on port 6667
+[12:38.58] -irc.rizon.net- Sending User Registration Information
+[12:38.58] -irc.rizon.net- Please wait while we process your connection.
+[12:38.58] --irc.sxci.net-- *** Looking up your hostname...
+[12:38.58] --irc.sxci.net-- *** Checking Ident
+[12:38.59] --irc.sxci.net-- *** Couldn't look up your hostname
+[12:39.00] --irc.sxci.net-- *** No Ident response
+[12:39.00] -irc.rizon.net- Capabilities supported: multi-prefix uhnames userhost-in-names
+[12:39.00] -irc.rizon.net- Capabilities requested: multi-prefix
+[12:39.00] -irc.rizon.net- Capabilities acknowledged: multi-prefix
+[12:39.00] --irc.sxci.net-- *** Your host is masked (16583FBE.13E6E80C.9875C37F.IP)
+[12:39.00] -irc.sxci.net- Welcome to the Rizon Internet Relay Chat Network Rainb
+[12:39.00] -irc.sxci.net- Your host is irc.sxci.net, running version hybrid-7.2.3+plexus-3.1.0(20140509_0-542)
+[12:39.00] -irc.sxci.net- This server was created Jul  2 2014 at 12:57:52
+[12:39.00] -irc.sxci.net- irc.sxci.net hybrid-7.2.3+plexus-3.1.0(20140509_0-542) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+[12:39.00] -irc.sxci.net- CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+[12:39.00] -irc.sxci.net- CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=160 KNOCK EXCEPTS=e INVEX=I :are supported by this server
+[12:39.00] -irc.sxci.net- your unique ID 08CAAMLRG
+[12:39.00] -irc.sxci.net- There are 31 users and 26418 invisible on 16 servers
+[12:39.00] -irc.sxci.net- There are 66 IRC Operators online
+[12:39.00] -irc.sxci.net- There are 48 unknown connection(s)
+[12:39.00] -irc.sxci.net- There are 20800 channels formed
+[12:39.00] -irc.sxci.net- I have 26449 clients and 16 servers
+[12:39.00] -irc.sxci.net- Current local users 26449, max 29157
+[12:39.00] -irc.sxci.net- Current global users 26449, max 29157
+[12:39.00] -irc.sxci.net- You have successfully connected to irc.sxci.net
+[12:39.00] * Your mode is now +ix
+[12:39.00] [py-ctcp] VERSION
+[12:39.00] --Global-- [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! ＋＋http://s.rizon.net/FAQ，，
+[12:39.01] --Global-- [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read ＋＋http://s.rizon.net/authline，，
+[12:39.01] --Global-- [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+[12:39.01] Rainb resolved to 181.50.196.58
+[12:39.01] --peer-- For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+[12:39.18] * You have left #8chabn - You will be missed ()
+[12:39.28] -irc.sxci.net- #4chan :You need to identify to a registered nick to join that channel. Check /msg nickserv help register
+[03:58.13] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:58.13] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.14] -irc.rizon.net- *** Server disconnected on irc.rizon.net
+[03:58.14] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.14] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.14] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.14] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.17] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.17] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.17] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.17] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.17] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:58.18] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.19] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.20] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.20] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.20] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.20] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.20] ERROR: Parameter name: asyncResult
+[03:58.20] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.20] ERROR: Parameter name: asyncResult
+[03:58.20] ERROR: Null Socket - Can not Connect
+[03:58.20] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.20] ERROR: Null Socket - Can not Connect
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.21] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.21] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] ERROR: Parameter name: asyncResult
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Parameter name: asyncResult
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.22] ERROR: Parameter name: asyncResult
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] -irc.rizon.net- Sending User Registration Information
+[03:58.22] ERROR: Parameter name: asyncResult
+[03:58.22] ERROR: Parameter name: asyncResult
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] -irc.rizon.net- *** Server disconnected on irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.22] -irc.rizon.net- Please wait while we process your connection.
+[03:58.22] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:58.22] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.22] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.22] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.22] ERROR: Null Socket - Can not Connect
+[03:58.23] ERROR: Parameter name: asyncResult
+[03:58.23] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.23] -irc.rizon.net- Sending User Registration Information
+[03:58.23] ERROR: Parameter name: asyncResult
+[03:58.23] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.23] -irc.rizon.net- *** Server disconnected on irc.rizon.net
+[03:58.23] -irc.rizon.net- reconnect too fast.
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call.
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.23] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.23] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.23] ERROR: Parameter name: asyncResult
+[03:58.23] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.23] ERROR: Null Socket - Can not Connect
+[03:58.23] ERROR: Parameter name: asyncResult
+[03:58.23] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.23] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.23] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.24] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.24] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.24] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.24] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.24] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (76.72.161.18) on port 6667
+[03:58.24] ERROR: Parameter name: asyncResult
+[03:58.24] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.24] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.24] ERROR: Parameter name: asyncResult
+[03:58.24] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.24] ERROR: Null Socket - Can not Connect
+[03:58.24] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.24] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (54.164.27.70) on port 6667
+[03:58.24] -irc.rizon.net- *** Attempting to re-connect to irc.rizon.net
+[03:58.24] -irc.rizon.net- *** Attempting to connect to irc.rizon.net (23.251.154.162) on port 6667
+[03:58.24] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:58.24] ERROR: Parameter name: asyncResult
+[03:58.24] -irc.rizon.net- Waiting 60 seconds to re-connect to (irc.rizon.net)
+[03:58.24] ERROR: Null Socket - Can not Connect

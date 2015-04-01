@@ -1,0 +1,70 @@
+Session Start: Sun Feb 22 12:02:38 2015
+Session Ident: ##physics
+[12:02.38] * Bazzie (~0x2fab@68.235.130.115) Quit (Quit: you're in for wild ride, kid)
+[12:04.08] * Bazzie (~0x2fab@68.235.130.115) has joined channel ##physics
+[12:05.58] * PlanckWalk (~Planck@ppp105-115.static.internode.on.net) Quit (Ping timeout: 264 seconds)
+[12:08.17] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[12:10.49] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 35.0.1/20150122214805])
+[12:11.12] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Ping timeout: 252 seconds)
+[12:11.48] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) has joined channel ##physics
+[12:11.55] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 265 seconds)
+[12:13.29] * monoprotic (~monoproti@unaffiliated/monoprotic) Quit (Ping timeout: 255 seconds)
+[12:16.27] * Balsekar_ (~ananda@host86-179-123-128.range86-179.btcentralplus.com) has joined channel ##physics
+[12:17.22] * monoprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##physics
+[12:17.56] * robbyoconnor (~wakawaka@guifications/user/r0bby) Quit (Quit: Konversation terminated!)
+[12:19.49] * sqrt2 (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[12:20.01] <puddle> In the 2D projectile motion problem, you are given all but two of a=<0,−g,0>, the magnitude of v_0, θ, the initial position vector r_0, the target position r_f, t_0, and t_f. As missing information, components count individually. To find the two unknowns, 1) Derive the formula for r(t) as a coordinatewise integral IVP. Solve the system r(t_f)=r_f by
+[12:20.02] <puddle> substitution."
+[12:20.04] <puddle> Does this sound right?
+[12:20.13] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:20.28] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[12:20.48] * thomas (~thomas@freenode/staff/thomas) Quit (Changing host)
+[12:20.48] * thomas (~thomas@freenode/staff/coward/thomas) has joined channel ##physics
+[12:21.04] * Balsekar_ (~ananda@host86-179-123-128.range86-179.btcentralplus.com) Quit (Client Quit)
+[12:21.26] <puddle> Oh, a should be <0,-g> since this is 2D
+[12:25.08] * fireballs (~fireballs@128.135.100.114) has joined channel ##physics
+[12:28.14] <mefistofeles> puddle: sounds ok
+[12:32.59] * superposition (~chiro@unaffiliated/chirality) Quit (Remote host closed the connection)
+[12:34.14] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:34.29] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[12:37.34] * Cosmonothing (~Jroc@cpc28-brig15-2-0-cust223.3-3.cable.virginm.net) Quit (Ping timeout: 265 seconds)
+[12:38.58] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[12:41.41] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:42.47] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (Quit: Leaving)
+[12:44.22] * mr^swift (~benjaminp@14-203-74-6.tpgi.com.au) Quit (Ping timeout: 250 seconds)
+[12:50.23] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:53.44] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##physics
+[12:55.49] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[12:56.56] * curiousguy13 (~curiousgu@120.59.229.150) Quit (Ping timeout: 265 seconds)
+[12:57.13] * Vivex_ (~Vivex@173-16-176-63.client.mchsi.com) has joined channel ##physics
+[12:57.24] * Haswell (~Haswell@unaffiliated/haswell) Quit (Quit: Saliendo)
+[12:58.48] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) Quit (Ping timeout: 252 seconds)
+[12:59.54] * Vivex (~Vivex@173-16-176-63.client.mchsi.com) Quit (Ping timeout: 252 seconds)
+[01:02.57] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##physics
+[01:04.30] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Quit: Leaving)
+[01:05.08] * fireballs (~fireballs@128.135.100.114) Quit (Ping timeout: 240 seconds)
+[01:06.01] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[01:06.27] * firenedo (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) has joined channel ##physics
+[01:08.02] * tortoise (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) Quit (Ping timeout: 255 seconds)
+[01:09.04] * curiousguy13 (~curiousgu@59.177.192.223) has joined channel ##physics
+[01:09.25] * mr^swift (~benjaminp@14-203-74-6.tpgi.com.au) has joined channel ##physics
+[01:10.13] * Cs1177 (~Cs1177@104.240.37.1) Quit (Remote host closed the connection)
+[01:18.37] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[01:18.44] * mr^swift (~benjaminp@14-203-74-6.tpgi.com.au) Quit (Ping timeout: 265 seconds)
+[01:21.40] * robbyoconnor (~wakawaka@guifications/user/r0bby) has joined channel ##physics
+[01:22.12] * zeitue (~z@67.221.138.5) Quit (Ping timeout: 245 seconds)
+[01:23.25] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:23.46] * supferrets (~supferret@unaffiliated/supferrets) Quit (Read error: Connection reset by peer)
+[01:23.52] * Zimsky (~alice@unaffiliated/zimsky) Quit (Ping timeout: 245 seconds)
+[01:24.53] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##physics
+[01:26.52] * Zimsky (~alice@unaffiliated/zimsky) has joined channel ##physics
+[01:28.52] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Client Quit)
+[01:32.32] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) has joined channel ##physics
+[01:33.57] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) Quit (Read error: Connection reset by peer)
+[01:36.10] * zeitue (~z@67.221.133.146) has joined channel ##physics
+[01:36.32] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##physics
+[01:39.33] * wukong (~wukong@119.sub-70-196-5.myvzw.com) Quit (Ping timeout: 265 seconds)
+[01:41.53] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[01:43.06] * kuttenbrunzer (~kuttenbru@ip4d1568f0.dynamic.kabel-deutschland.de) has joined channel ##physics
+[01:44.07] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) has joined channel ##physics
+[05:47.38] *** Server disconnected on irc.freenode.net

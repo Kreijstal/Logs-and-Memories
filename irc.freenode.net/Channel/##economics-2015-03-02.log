@@ -1,0 +1,178 @@
+Session Start: Mon Mar 02 12:04:15 2015
+Session Ident: ##economics
+[12:04.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[12:07.53] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) Quit (Ping timeout: 255 seconds)
+[12:10.54] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##economics
+[12:12.31] * momoterra (~momoterra@58.84.141.74) has joined channel ##economics
+[12:14.33] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[12:21.16] * tmh1999 (~tmh1999@118.70.183.54) Quit (Quit: Leaving)
+[12:22.59] * kska (18042f28@gateway/web/cgi-irc/kiwiirc.com/ip.24.4.47.40) has joined channel ##economics
+[12:23.28] * p_2k (~p_2k@121-75-40-123.dyn.vf.net.nz) Quit ()
+[12:24.40] * kska (18042f28@gateway/web/cgi-irc/kiwiirc.com/ip.24.4.47.40) Quit (Client Quit)
+[12:29.39] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) has joined channel ##economics
+[12:34.41] * kska (18042f28@gateway/web/cgi-irc/kiwiirc.com/ip.24.4.47.40) has joined channel ##economics
+[12:40.31] * kska (18042f28@gateway/web/cgi-irc/kiwiirc.com/ip.24.4.47.40) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:44.30] * Audioburn (~not_mike@unaffiliated/not-mike/x-4399907) has joined channel ##economics
+[12:46.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##economics
+[12:50.40] * elkclone (~patrick@shellium/member/elkclone) Quit (Quit: Ex-Chat)
+[12:53.41] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[12:59.01] * ParmesanCaesar (~x1@wn-campus-nat-129-97-124-77.dynamic.uwaterloo.ca) Quit (Ping timeout: 250 seconds)
+[01:01.42] * Haydos (~Haydos@unaffiliated/haydos) Quit (Read error: Connection reset by peer)
+[01:04.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 246 seconds)
+[01:04.59] <TarkusDillo> ** Happy Texas Independence Day! ** (1836 a separate nation)
+[01:06.48] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) Quit (Read error: Connection reset by peer)
+[01:07.09] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) has joined channel ##economics
+[01:07.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##economics
+[01:08.11] * kyledr (~kyle@ip68-227-14-49.lv.lv.cox.net) Quit (Ping timeout: 245 seconds)
+[01:08.34] * Haydos (~Haydos@unaffiliated/haydos) has joined channel ##economics
+[01:10.41] * Apetrini (~apetrini@host219-182-dynamic.14-87-r.retail.telecomitalia.it) has joined channel ##economics
+[01:13.49] * licnep (uid4387@gateway/web/irccloud.com/x-qjenyklceftbsion) Quit (Quit: Connection closed for inactivity)
+[01:14.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[01:17.46] * ParmesanCaesar (~x1@wn-campus-nat-129-97-124-77.dynamic.uwaterloo.ca) has joined channel ##economics
+[01:19.41] * sammi` (sammi@gateway/shell/devio.us/x-lmzzvtjitknosguk) Quit (Quit: Lost terminal)
+[01:25.45] <justanotheruser> Is there a point in celebrating texas independence day?
+[01:25.52] * RedStarComrade (~chatzilla@cpe-76-90-164-145.socal.res.rr.com) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 36.0/20150222232811])
+[01:25.53] <justanotheruser> shouldn't texas dependence day be celebrated?
+[01:26.55] * coffee- (~coffeeguy@68-118-174-207.dhcp.unas.nm.charter.com) has joined channel ##economics
+[01:32.29] * ParmesanCaesar (~x1@wn-campus-nat-129-97-124-77.dynamic.uwaterloo.ca) Quit (Ping timeout: 256 seconds)
+[01:33.52] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) Quit (Read error: Connection reset by peer)
+[01:34.10] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) has joined channel ##economics
+[01:35.54] * coffee- (~coffeeguy@68-118-174-207.dhcp.unas.nm.charter.com) Quit (Quit: Leaving)
+[01:37.35] * TarkusDillo (~Kurt@99-19-22-123.lightspeed.hstntx.sbcglobal.net) Quit (Ping timeout: 250 seconds)
+[01:38.03] * ParmesanCaesar (~x1@wn-campus-nat-129-97-124-77.dynamic.uwaterloo.ca) has joined channel ##economics
+[01:40.20] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##economics
+[01:41.48] <apoplexy> !bitcoin
+[01:41.58] <+EconBot> apoplexy: Bitcoin/USD: 261.5  USD vol: 14,016,404.86 USD  30d:10.76% 291,530,848.54 USD Bitfinex Bitcoin/CNY: 1631.26  CNY vol: 211,097,498.77 CNY  30d:11.50% 7,698,326,477.45 CNY BTC China  /bitcoincharts 
+[01:42.04] <apoplexy> DAMNIT
+[01:42.21] * rudi94 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 265 seconds)
+[01:45.54] * TarkusDillo (~Kurt@99-19-22-123.lightspeed.hstntx.sbcglobal.net) has joined channel ##economics
+[01:48.40] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) has joined channel ##economics
+[01:55.31] * tmh1999 (~tmh1999@123.24.161.203) has joined channel ##economics
+[01:57.02] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) has joined channel ##economics
+[01:58.50] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) Quit (Read error: Connection reset by peer)
+[01:59.08] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) has joined channel ##economics
+[02:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[02:04.52] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) Quit (Ping timeout: 244 seconds)
+[02:08.49] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##economics
+[02:12.00] * apoplexy (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) Quit (Ping timeout: 256 seconds)
+[02:14.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[02:26.47] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##economics
+[02:28.23] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) Quit (Read error: Connection reset by peer)
+[02:28.41] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) has joined channel ##economics
+[02:29.08] <boxc> so
+[02:29.46] <TarkusDillo> good Gabriel
+[02:30.05] <boxc> what?
+[02:30.07] <boxc> you mean morning
+[02:34.34] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) Quit (Read error: Connection reset by peer)
+[02:34.54] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaways.net) has joined channel ##economics
+[02:37.54] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Quit: Be back later ...)
+[02:38.32] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) has joined channel ##economics
+[02:43.10] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[02:47.14] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##economics
+[02:47.56] * Dr-G (~Dr-G@unaffiliated/dr-g) has joined channel ##economics
+[02:51.06] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaways.net) Quit (Ping timeout: 256 seconds)
+[02:57.02] <phantomcircuit> apoplexy_da_boss, 
+[02:57.04] <phantomcircuit> lulz
+[02:57.06] <phantomcircuit> !bitcin
+[02:57.19] <apoplexy_da_boss> rmah cost me $100
+[02:57.28] <phantomcircuit> ha
+[02:57.36] <apoplexy_da_boss> i blame him for my failures as a human being/student, etc
+[03:00.21] <Mr0rris0> what did you do apop
+[03:00.22] <phantomcircuit> i wonder how much of the fear of nuclear power comes from people watching the simpsons
+[03:00.51] <Mr0rris0> my fear comes from watching footage of the bomb drop
+[03:00.53] * ParmesanCaesar (~x1@wn-campus-nat-129-97-124-77.dynamic.uwaterloo.ca) Quit (Ping timeout: 256 seconds)
+[03:01.00] <Mr0rris0> something about it makes my stomach sink
+[03:03.16] <xiaomiao> phantomcircuit: Chernobyl, maybe?
+[03:03.25] <xiaomiao> some of us are not that optimistic
+[03:03.36] <Mr0rris0> the simpsons does much worse things imo
+[03:03.52] <Mr0rris0> i used to love that show, b ut now i see how it lets you think your figuring life out
+[03:04.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[03:05.01] <Mr0rris0> as a kid anyway growing up with it, make a list of facts of life via the simpsons and youll cross everything off of that list because life is more complicated than a cartoon about everything in life
+[03:05.29] <hoodwink> actually life isn't complicated
+[03:05.36] <Mr0rris0> good luck with that
+[03:05.38] <hoodwink> it's as simple as you want it to be
+[03:05.47] <hoodwink> people are complicated
+[03:05.57] <hoodwink> and often disagreeable
+[03:06.07] <Mr0rris0> trust me i make it simple calling it complicated
+[03:06.17] <phantomcircuit> xiaomiao, sure
+[03:06.41] <hoodwink> Mr0rris0: what's complicated about it
+[03:06.58] <hoodwink> eat shit sleep?
+[03:07.25] <xiaomiao> phantomcircuit: it's not nuclear power we fear, it's humans behaving in stupid ways
+[03:07.38] <xiaomiao> see Chernobyl, Asse, Fukushima, Juelich ...
+[03:08.01] <hoodwink> chernobyl is a bad example
+[03:08.06] <Mr0rris0> how could they behave stupid, its eat shit sleep. nothing can go wrong things are too simple
+[03:08.21] <hoodwink> due to the bad design and unaccountable communist government
+[03:08.48] <xiaomiao> hoodwink: no, it was a safe design
+[03:08.57] <xiaomiao> the problem was that some idiots disabled multiple safeties
+[03:08.59] <hoodwink> no it wasn't
+[03:09.08] <hoodwink> it didn't even have a containment building
+[03:09.10] <xiaomiao> it was designed to be stuck in shutdown 
+[03:09.12] <hoodwink> that's not safe
+[03:09.21] <xiaomiao> well ok, it's not airplane-crash-safe
+[03:09.24] <xiaomiao> which never happened so far
+[03:09.27] <hoodwink> it's not meltdown safe
+[03:09.39] <hoodwink> you need a containment building to be meltdown safe
+[03:09.46] <hoodwink> or at least somewhat meltdown safe
+[03:09.47] <xiaomiao> negative void coefficient? ok, but you won't usually reach an operational state where it can go into meltdown
+[03:09.56] <hoodwink> like fukishima was somewhat meltdown safe
+[03:10.01] <xiaomiao> the safeties were designed in a way to always shut it down
+[03:10.02] <hoodwink> maybe not 100%
+[03:10.13] <xiaomiao> yeah, but not hydrogen gas safe
+[03:10.19] <xiaomiao> boom. headshot.
+[03:10.32] <hoodwink> hydrogen gas can be vented
+[03:10.43] <xiaomiao> could, yes
+[03:10.50] <xiaomiao> didn't
+[03:11.20] <hoodwink> i thought we were talking about chernobyl
+[03:11.34] <xiaomiao> which was safe until the safeties were manually overridden
+[03:11.37] <xiaomiao> and protocol violated
+[03:11.52] <xiaomiao> no reactor would be safe if the safeties get actively disabled
+[03:13.13] * claptor (~avarice@107-134-134-100.lightspeed.irvnca.sbcglobal.net) Quit (Quit: this channel is bakas)
+[03:13.36] <hoodwink> well i think we've learned a few things since then
+[03:13.45] <hoodwink> airplanes didn't used to be very safe either
+[03:14.00] <hoodwink> or cars
+[03:14.02] <Mr0rris0> first one was the safest imo
+[03:14.42] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[03:15.14] <xiaomiao> hoodwink: well, airplanes usually don't get the cockpit exploded away
+[03:15.32] <xiaomiao> that's about the level of abuse and stupidity that was needed to make Chernobyl block 4 go boom
+[03:16.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:17.26] * Mulder (~Mulder@unaffiliated/mulder) has joined channel ##economics
+[03:17.42] * i_tarzan (~i_tarzan@189.249.228.188) has joined channel ##economics
+[03:19.51] * TarkusDillo (~Kurt@99-19-22-123.lightspeed.hstntx.sbcglobal.net) Quit (Quit: zzzzzzz)
+[03:21.37] * ParmesanCaesar (~x1@67.71.82.233) has joined channel ##economics
+[03:21.49] * fanshawe (~fanshawe@cpc4-cwma8-2-0-cust133.7-3.cable.virginm.net) Quit (Remote host closed the connection)
+[03:22.06] * fanshawe (~fanshawe@cpc4-cwma8-2-0-cust133.7-3.cable.virginm.net) has joined channel ##economics
+[03:22.06] * fanshawe (~fanshawe@cpc4-cwma8-2-0-cust133.7-3.cable.virginm.net) Quit (Client Quit)
+[03:23.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[03:23.52] * LogUse (~LogUse@200-127-244-114.cab.prima.net.ar) has joined channel ##economics
+[03:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:32.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[03:33.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:40.46] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[03:41.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[03:42.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:44.58] * Dr-G2 (~Dr-G@gtng-4d08a1a5.pool.mediaWays.net) has joined channel ##economics
+[03:49.04] * Dr-G (~Dr-G@unaffiliated/dr-g) Quit (Ping timeout: 272 seconds)
+[03:50.11] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[03:51.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:57.56] * A_G1RL (~A_G1RL@unaffiliated/a-g1rl/x-129563) Quit (Ping timeout: 272 seconds)
+[03:59.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[04:01.38] * reavengrey (~reavengre@unaffiliated/reavengrey) Quit (Ping timeout: 244 seconds)
+[04:04.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[04:06.45] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##economics
+[04:08.50] * larion (~larion@194.109.1.196) has joined channel ##economics
+[04:12.15] * sammi` (sammi@gateway/shell/devio.us/x-hubhxkrmhxsgxmgd) has joined channel ##economics
+[04:13.45] * DilloYoda (~Kurt@99-19-22-123.lightspeed.hstntx.sbcglobal.net) Quit (Quit: "Man is free if he needs to obey no person but solely the laws." ~ Immanuel Kant)
+[04:13.46] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Read error: No route to host)
+[04:14.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[04:16.44] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) Quit (Ping timeout: 255 seconds)
+[04:16.59] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[04:17.37] * apoplexy (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##economics
+[04:18.55] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:26.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[04:27.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:30.17] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##economics
+[04:31.05] * ParmesanCaesar (~x1@67.71.82.233) Quit (Ping timeout: 244 seconds)
+[04:35.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##economics
+[04:36.37] * hotvoltage (~hotvoltag@pool-71-187-140-141.nwrknj.east.verizon.net) has joined channel ##economics
+[04:37.45] <hotvoltage> hi
+[05:19.52] *** Server disconnected on irc.freenode.net

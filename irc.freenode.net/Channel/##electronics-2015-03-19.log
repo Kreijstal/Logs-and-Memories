@@ -1,0 +1,173 @@
+Session Start: Thu Mar 19 02:30:24 2015
+Session Ident: ##electronics
+[02:30.24] * You have joined ##electronics
+[02:30.24] Topic: ＋＋http://electronicschat.org，， || Introductory electronics eBook: ＋＋http://www.ibiblio.org/kuphaldt/electricCircuits/，， || Battery information: ＋＋http://batteryuniversity.com/，， || If you can't talk, you need to be identified/logged in with freenode ... /msg nickserv help register for more info
+[02:30.24] Channel Topic Set by: smeding!~roysmedin@roysmeding.nl on 1:51 PM 2/25/2015
+[02:30.28] Channel URL is ＋＋http://www.electronicschat.org/，，
+[02:30.28] Channel modes for ##electronics are :+CLcntjf 15:30 ##overflow
+[02:30.28] Channel Created on: 6:42 AM 11/26/2006
+[02:30.28] <blown> i been looking at mackie SRMs
+[02:30.35] * swoolley (seth@sourcemage/wizard/swoolley) Quit (Ping timeout: 252 seconds)
+[02:30.41] <theBear> heh, tag got them too eh ? and amps that die quick when they get dusty are NOT good amps
+[02:30.41] <blown> had some in recently.... they're light weight which works for me
+[02:30.57] <blown> yeah the thing with these QSCs is they don't have filters lol
+[02:31.09] <blown> you can see all the electronics through the front grille
+[02:31.11] * adesst (~adesanto@125.161.141.63) Quit (Ping timeout: 246 seconds)
+[02:31.16] * swoolley (seth@sourcemage/wizard/swoolley) has joined channel ##electronics
+[02:31.31] <theBear> meh, srms are ok, if i'm not mixed up you wanna replace those smd caps and remove the (errata, confidential for approved workshops only)couple other ones on the high amp sub-pcb that go short
+[02:31.32] * shodan45 (~chris@71-15-45-100.dhcp.thbd.la.charter.com) has joined channel ##electronics
+[02:31.45] <blown> you know what's interesting about mackie
+[02:31.57] <blown> you can register an account at loud technologies, and get any schematic
+[02:31.58] <theBear> not all the smd caps, just the two pairs near the output devices across the big rails
+[02:32.00] <blown> anyone can do it
+[02:32.32] <theBear> that's kinda interesting, but when yer theBear you got connections even when you ain't working :)
+[02:32.34] <blown> i do enjoy a good output stage failure
+[02:32.38] <blown> yeah of course
+[02:33.02] <blown> i've got onto a lot of stuff that is supposed to be protected by lock and key
+[02:33.03] <blown> hehehe
+[02:33.08] <theBear> heh, back in the day amps were simple, you didn't even consider using a schem for a good output stage failure
+[02:33.15] <blown> well yeah
+[02:33.19] * ob-sed (~obesd@unaffiliated/obesd) Quit (Read error: Connection reset by peer)
+[02:33.25] <blown> they still are pretty simple
+[02:33.44] <blown> most are just a class-d modulator and 2 mosfets now
+[02:33.48] <theBear> sometimes, but they confuse things up with protection circuits and current limits and crap that can be less than obvious
+[02:33.58] <blown> yeah
+[02:34.05] <blown> i was impressed by mackie's switcher
+[02:34.24] <blown> it wont explode or die when the amp shorts out
+[02:34.26] <theBear> mmm, certainly better than a lot you see on currentish stuff
+[02:34.52] <theBear> why did i even come in here ?
+[02:35.02] <blown> for the beer?
+[02:35.05] <theBear> i gotta find me a cold drink and smokes
+[02:35.08] <theBear> the beer lives out there
+[02:35.12] <blown> smokes are alright with a beer
+[02:35.16] * avarsh (~avarsh@d-199-203-121.bootp.Virginia.EDU) Quit (Remote host closed the connection)
+[02:35.19] <theBear> it's true :)
+[02:35.45] <theBear> merp... i'll be bacl, eventually
+[02:35.48] <blown> ok
+[02:35.52] <blown> have fun with that1
+[02:35.55] <blown> i have the chassis
+[02:36.15] * veek (~veek@unaffiliated/veek) Quit (Excess Flood)
+[02:37.21] * veek (~veek@unaffiliated/veek) has joined channel ##electronics
+[02:38.54] * ^peter^ (peter@30.0.168.125.sta.wbroadband.net.au) Quit (Ping timeout: 246 seconds)
+[02:38.59] <blown> now where was i
+[02:39.03] * ^peter^ (peter@30.0.168.125.sta.wbroadband.net.au) has joined channel ##electronics
+[02:39.03] <blown> that's right
+[02:39.06] * blown calls out for Johnsen
+[02:39.13] * adesst (~adesanto@125.161.141.63) has joined channel ##electronics
+[02:40.16] * winsoff (~foo@66.205.199.8) has joined channel ##electronics
+[02:40.51] <winsoff> Just did some soldering/wire splicing for my friend.  What is the easiest, most reliable method of getting a good joint between two wires?  I try to spread them out and wind them around, but it always seems really loose.
+[02:41.15] <blown> easy
+[02:41.20] <blown> just smash it in
+[02:41.36] <blown> twist the fuckers together and flow solder?
+[02:41.42] <Triffid_Hunter> winsoff: ＋＋http://makezine.com/2012/02/28/how-to-splice-wire-to-nasa-standards/，，
+[02:41.50] <blown> start with a good mechanical connection and then flow that sodder
+[02:41.51] <winsoff> blown: I did my best to follow exactly that.
+[02:42.10] <winsoff> But twisting them together is easiest if it is not in-line.
+[02:42.14] <winsoff> Triffid_Hunter, did you just google that
+[02:42.24] <winsoff> Because I feel dumb regardless.
+[02:42.31] <blown> i've done it a few different ways and they all work
+[02:42.40] * Intelz (~IntelFtw@84.240.24.209) has joined channel ##electronics
+[02:42.46] <Triffid_Hunter> winsoff: yeah, but I knew the article existed since it was written, and I'd worked it out before that independently anyway
+[02:42.47] <winsoff> blown: They seem to have all worked. I just flowed until I was happy.
+[02:42.57] <winsoff> Triffid_Hunter, I figured it would be a rope-like technique
+[02:42.58] <blown> but yeah never rely on the solder to be the basis of the mechanical strength
+[02:43.10] <winsoff> Should I do that with braided, too, Triffid_Hunter ?
+[02:43.43] <Triffid_Hunter> winsoff: for multistrand you can typically just push the ends together so they fray together, then solder and heatshrink
+[02:43.44] * ToAruShiroiNeko (~White_Cat@wikimedia/ToAruShiroiNeko) Quit (Ping timeout: 245 seconds)
+[02:43.57] <winsoff> How do I hold the bastards without ten hands?
+[02:45.01] <Triffid_Hunter> winsoff: google "helping hands magnifier"
+[02:45.14] <winsoff> Oh, I have those, but that is when they are not hanging out in a car.
+[02:45.30] <winsoff> I guess I could take the main bar off of it and use the alligator clips as a sort of tension relief.
+[02:45.41] * dreamon (~dreamon@unaffiliated/dreamon) Quit (Ping timeout: 250 seconds)
+[02:46.04] * Loetmichel2 is now known as Loetmichel
+[02:46.14] <blown> i can't remember anything that i soddered brekaing
+[02:46.17] <blown> *breaking
+[02:46.45] * _abc_ (~user@unaffiliated/ccbbaa) has joined channel ##electronics
+[02:46.59] <intranick>  blown how good are you with computers and electronics and things?
+[02:47.01] <_abc_> When are ssh and openssh channels on freenode active, if at all? (unrelated but interesting to me for a reason - ssh problems)
+[02:47.12] <_abc_> intranick: I think he blows all of them >;)
+[02:47.17] <_abc_> And hi.
+[02:47.22] * Tach[Zzz] is now known as Tachyon`
+[02:47.28] <intranick> lol _abc_ you can get in on this one too, and anyone else really
+[02:47.32] <intranick> ok so here was my challenge for today
+[02:47.40] * Walkerdine_ (~Walkerdin@2601:4:4000:159a:db2:9fb7:a02e:5d0e) Quit (Ping timeout: 265 seconds)
+[02:47.58] <intranick> i go into work to work on a machine.. its puking.  the schematics are bad, because i dont speak german and it seems like they're incomplete somehow
+[02:48.07] <intranick> (ive known this for months)
+[02:48.29] <intranick> the error log shows.. that 7 nodes on the CAN net are not responding .. i dont know how many there are
+[02:48.34] <blown> intranick i built my own computer
+[02:48.45] * Shawn286 (~Shawn186@unaffiliated/shawn156) Quit (Quit: Leaving)
+[02:48.47] * ToAruShiroiNeko (~White_Cat@wikimedia/ToAruShiroiNeko) has joined channel ##electronics
+[02:48.52] <_abc_> ＋＋http://electronicdesign.com/blog/hacking-hard-drives-and-other-nasties，， fun #1 ; /me speaks some German
+[02:49.00] <intranick> but i do know from past experience they're all daisy chained, so if one goes out.. it and everything else beyond it also stops responding
+[02:49.07] <blown> wht the fuck are you asking us?
+[02:49.19] <blown> computer? schematics what?
+[02:49.32] * Wierie (~Wierie@d172-218-126-166.bchsia.telus.net) has joined channel ##electronics
+[02:49.50] <intranick> how would you figure out where the break in the communications chain is?
+[02:49.55] <blown> divide and conquer? software problem? hardware problem?
+[02:50.02] * adesst (~adesanto@125.161.141.63) Quit (Ping timeout: 250 seconds)
+[02:50.02] <blown> test equipment?
+[02:50.13] <_abc_> ＋＋http://www.edn.com/design/consumer/4312296/Taking-a-hard-look-at-Microsoft-s-Xbox-360-hard-drive-item-2，， this is to be read in context of the link I posted above...
+[02:50.13] <intranick> no test equipment.  only the error log on the machine to go off of
+[02:50.23] <_abc_> virus, custom firmware, who's going to tell the difference
+[02:50.26] <intranick> seriously guys this was a good life lesson because i figured it out
+[02:50.36] <blown> yeah i get those every week
+[02:50.41] <intranick> what i did was
+[02:50.47] <Triffid_Hunter> intranick: count 7 back from the end of the chain?
+[02:50.59] <intranick> Triffid_Hunter: problem was, i didnt know how many were on the chain
+[02:51.09] <intranick> because no schematic showed ALL of them
+[02:51.10] * MrMobius (~Joey@c-68-45-16-225.hsd1.nj.comcast.net) Quit (Ping timeout: 246 seconds)
+[02:51.16] <blown> blown lesson of the day : the amplifier i thought had a bad solder joint actually had a bad relay
+[02:51.25] * aviraldg (uid35462@gateway/web/irccloud.com/x-hljejxysbjutaqbs) Quit (Quit: Connection closed for inactivity)
+[02:51.25] * Earlo (~Earlo@213.143.167.6) has joined channel ##electronics
+[02:51.27] * stanreg (~stan@38.74.19.34) Quit (Ping timeout: 255 seconds)
+[02:51.37] * Miyu (~Miyu@109.109.203.86) has joined channel ##electronics
+[02:51.45] <intranick> so heres what i did.  i went to one -known- node, because i remembered its address/what the error logs called it because it had burnt out like a month ago
+[02:51.56] <intranick> it just stopped working so *shrug* i knew what it was
+[02:52.00] <intranick> i unplugged its CAN cable
+[02:52.06] <intranick> looked at the error log, no change
+[02:52.23] <intranick> so... then i was like *hmm* *strokes goatee a bit* and unplugged the CAN cable from the main PLC
+[02:52.24] <_abc_> So it was before the fault.
+[02:52.36] <intranick> two additional units were added to the list.  so i knew what parts it was talking to
+[02:52.44] <intranick> and now i had a number of actual nodes.. there is 9
+[02:53.01] <intranick> so i knew between.. one section, and another section.. was the fault
+[02:53.02] <_abc_> one good, 7 missing, leaves one bad
+[02:53.05] <intranick> so we started looking there and found it
+[02:53.10] <_abc_> congrats
+[02:53.27] <intranick> AND it turned out somebody on the graveyard shift happend to drop a C-clamp on it
+[02:53.28] <_abc_> CAN is a pain in the a** especially when the cables lead into unreachable places
+[02:53.37] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) Quit (Quit: Huntyz)
+[02:53.46] <_abc_> C-clamp what size?
+[02:53.48] * Front242 (~Ota@unaffiliated/hal-emmerich/x-3562359) has joined channel ##electronics
+[02:53.48] <intranick> it was a dummy plug we made to jumper over a section of the machine we removed because it was in the way
+[02:53.53] * KidBeta (~textual@hpavc/kidbeta) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[02:53.56] <intranick> _abc_: 12"
+[02:53.59] <_abc_> uhhh
+[02:54.03] <_abc_> You into shipbuilding?
+[02:54.10] <intranick> this is a 100 foot long machine
+[02:54.14] * MrMobius (~Joey@c-68-45-16-225.hsd1.nj.comcast.net) has joined channel ##electronics
+[02:54.47] <winsoff> Wait, so should I be tinning all of my braided wires before I actually solder them?
+[02:54.48] <_abc_> Yeah matches my words wrt fun CAN bus sneaking its way into unreachable channels and uncharted boxes
+[02:55.04] <_abc_> winsoff: you tin them with solder
+[02:55.14] <winsoff> _abc_: Right, BEFORE I make the joint.
+[02:55.28] <winsoff> I have just been heating them (waiting ages, that is), and then flowing solder onto them.
+[02:55.31] <_abc_> winsoff: Sticking them in a hole before that can be ... interesting
+[02:55.39] <intranick> _abc_: anyway it was fun how i came to conclusions
+[02:55.52] <_abc_> winsoff: For more serious work, get a solder pot.
+[02:56.36] <winsoff> _abc_, I just mean before splicing them together through soldering.
+[02:56.44] <winsoff> Why do people crimp instead of solder?
+[02:56.51] * jonaspaulo (~jonaspaul@11.180.189.46.rev.vodafone.pt) has joined channel ##electronics
+[02:56.58] <_abc_> Lower labor cost + standards require it
+[02:58.35] * blown (blown@unaffiliated/blown) Quit (Disconnected by services)
+[02:58.43] <winsoff> Is crimping safer?
+[02:58.47] * blown (~blown@unaffiliated/blown) has joined channel ##electronics
+[02:58.55] * KidBeta (~textual@130.56.75.44) has joined channel ##electronics
+[03:00.13] <_abc_> ＋＋http://electronicdesign.com/blog/faa-defines-drone-rules，， lol pilots vetted by tsa
+[03:00.26] <_abc_> Next they'll have the president vetted by the tsa
+[03:00.47] <blown> oh here we go
+[03:00.51] <blown> the fucken drone saga!
+[03:01.02] <blown> the law catches up with technology right....
+[03:01.13] * mountaingoat (~mountaing@unaffiliated/mountaingoat) Quit (Ping timeout: 264 seconds)
+[03:01.13] <_abc_> I can see the new ammo editions "Designed to pacify drones"
+[03:02.06] <_abc_> ＋＋http://www.dronefreezone.com/index.html，， the domain is already up...
+[03:03.20] <_abc_> ＋＋http://droneswatch.org/，， ...
+[03:04.13] *** Server disconnected on irc.freenode.net

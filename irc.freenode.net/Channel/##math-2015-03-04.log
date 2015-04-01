@@ -1,0 +1,432 @@
+Session Start: Wed Mar 04 08:22:20 2015
+Session Ident: ##math
+[08:22.20] * You have joined ##math
+[08:22.20] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[08:22.20] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[08:22.20] Channel modes for ##math are :+Ccnt
+[08:22.20] Channel Created on: 8:42 PM 1/29/2010
+[08:22.21] <Euclide> Oh ok
+[08:22.27] <Euclide> So Homer is a genius ?
+[08:22.41] <Euclide> I would like be as intelligent as homer simpson ... lol
+[08:22.49] <PlanckWalk> The other 34 digits are different
+[08:22.57] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:23.08] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[08:23.11] <ammm> it's clearly false xD
+[08:23.14] * skymaker (~skymaker@24.108.139.38) has joined channel ##math
+[08:23.20] <ammm> otherwise it would disprove a pretty important result :P
+[08:23.30] <PlanckWalk> Wiles would be pissed
+[08:23.45] <ammm> "confound you, Homer"
+[08:24.22] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[08:24.39] * huckleberry78 (~huckleber@104-176-154-16.lightspeed.tukrga.sbcglobal.net) Quit (Remote host closed the connection)
+[08:24.45] <Euclide> lol
+[08:25.04] * vyadhaka (~rv_ghatak@129.78.56.193) has joined channel ##math
+[08:25.51] * refs` (~refs@dslb-094-222-023-012.094.222.pools.vodafone-ip.de) Quit (Quit: refs`)
+[08:25.56] * Spynxic (47444846@gateway/web/cgi-irc/kiwiirc.com/ip.71.68.72.70) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[08:26.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[08:26.11] <illustion> Planckwalk
+[08:26.13] <illustion> ＋＋https://proofwiki.org/wiki/Integer_Multiplication_Well-Defined，，
+[08:26.15] * lsv (~lsv@CPE84948c2eddc1-CM84948c2eddc0.cpe.net.cable.rogers.com) Quit (Ping timeout: 246 seconds)
+[08:26.18] <illustion> in their proof
+[08:26.18] * profess (~profess__@unaffiliated/csddesk) has joined channel ##math
+[08:26.24] <illustion> their is 1 point that I don’t understand
+[08:26.36] <illustion> (ac+bd+ps+qr)+(pc+qc+pd+qd)
+[08:26.41] * pred (~pred@wikipedia/pred) has joined channel ##math
+[08:26.41] <illustion> how did we get this line here ?
+[08:26.45] <illustion> could you explain ?
+[08:26.56] * lsv (~lsv@CPE84948c2eddc1-CM84948c2eddc0.cpe.net.cable.rogers.com) has joined channel ##math
+[08:26.57] * bleb (~caleb@wr-130-64-222-163.medford.tufts.edu) Quit (Ping timeout: 246 seconds)
+[08:28.07] <PlanckWalk> The first line in the algebraic part of the proof?
+[08:28.19] * pspace (~bountyx@192-195-82-80.PUBLIC.monkeybrains.net) Quit (Quit: Peace and love.)
+[08:28.26] <illustion> yeh
+[08:28.38] <illustion> I don’t understand what did they do how did they get here
+[08:28.53] <illustion> coz this point I am trying to proof this but I can’t reach that part of the proof
+[08:29.00] <PlanckWalk> It's just an expression.  The reason behind it is stated later.
+[08:29.23] <PlanckWalk> It would be nice if they numbered their equations <grumble>
+[08:29.45] <sifeic> q
+[08:29.46] * sifeic (~sifeic@c-75-71-117-103.hsd1.co.comcast.net) Quit (Quit: WeeChat 0.3.8)
+[08:30.10] <PlanckWalk> If you read it backward, it makes more sense ;-)
+[08:30.22] <PlanckWalk> You want to prove that [[a,b]]×[[c,d]]=[[p,q]]×[[r,s]]
+[08:30.29] <illustion> yeh
+[08:30.34] <illustion> exactly that is
+[08:30.34] <PlanckWalk> Theat means proving that  [[ac+bd,ad+bc]]=[[pr+qs,ps+qr]]
+[08:30.38] <illustion> they have the same expression
+[08:30.39] <illustion> yeh
+[08:30.48] * Sweet_Ride (~Sweet@162.212.119.0) Quit (Ping timeout: 246 seconds)
+[08:30.51] <PJBoy> there's a mistake in there
+[08:30.55] <PJBoy> I better correct it quick
+[08:30.58] <PlanckWalk> Which means proving that   ac+bd+ps+qr=ad+bc+pr+qs
+[08:31.29] <illustion> yes
+[08:32.26] <PlanckWalk> Now you don't know very much about the variables other than  a+q=b+p and c+s=d+r
+[08:32.38] <illustion> yeh
+[08:32.47] <illustion> I thought I would multiply
+[08:32.53] <illustion> (a + q)(c + s)
+[08:32.54] <illustion> etc
+[08:32.55] <PlanckWalk> So ideally you want an expression in which you have (a+q)c  instead of just ac
+[08:33.02] <illustion> anto see if it get me somewhere
+[08:33.06] <illustion> but it didnt
+[08:33.06] * MulleDK20 (MulleDK19@unaffiliated/mulledk19) has joined channel ##math
+[08:33.11] <illustion> yeh
+[08:33.36] * duncannz (~duncannz@116.251.193.92) has joined channel ##math
+[08:33.47] <PlanckWalk> So you start with an expression  in which you have each of those "extra" terms
+[08:34.08] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[08:34.45] <illustion> I see
+[08:34.50] <PlanckWalk> So you have LHS + blah = (lots of algebra) = RHS + blah
+[08:34.52] <illustion> and see where it leads us
+[08:34.55] <PlanckWalk> Then you can use the cancellative property
+[08:34.58] <illustion> yeh
+[08:35.16] <illustion> I see I thought I could do it by construction somehow instead of doing this guessing game
+[08:36.01] * MulleDK19 (~MulleDK19@unaffiliated/mulledk19) Quit (Ping timeout: 264 seconds)
+[08:36.07] * MulleDK20 is now known as MulleDK109
+[08:36.08] * MulleDK109 is now known as MulleDK19
+[08:36.23] <illustion> it would be easier if we have for example a - b = p - q & c - d = r - s
+[08:36.27] <illustion> then it would be direct
+[08:37.36] * PJBoy (~PJBoy@unaffiliated/pjboy) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 35.0.1/20150122214805])
+[08:37.49] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Max SendQ exceeded)
+[08:38.10] <D-e-X> PJBoy, I had no idea about that relationship in fractions, thanks a bunch!
+[08:38.11] * brendel6 (~brendel@cev75-5-88-175-55-89.fbx.proxad.net) Quit (Ping timeout: 255 seconds)
+[08:38.23] <D-e-X> oh, he's gone
+[08:38.39] * a3Dman (~3Dman@41.45.55.177) has joined channel ##math
+[08:38.43] * a3Dman (~3Dman@41.45.55.177) Quit (Changing host)
+[08:38.43] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[08:38.52] <illustion> Planckwalk is their a way to see which variables we should add
+[08:38.58] <illustion> in order to make equation work out
+[08:39.26] * Euclide (58a2a2c7@gateway/web/freenode/ip.88.162.162.199) Quit (Ping timeout: 246 seconds)
+[08:41.11] <PlanckWalk> illustion: Yes, there is.  Although you aren't allowed to use subtraction in the proof, you can use it to guide your proof
+[08:42.23] * ammm (~chatzilla@85.64.247.83.dynamic.barak-online.net) Quit (Ping timeout: 252 seconds)
+[08:43.13] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[08:43.21] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[08:43.43] <PlanckWalk> After all, you don't "really" care that a+q = b+p, you "really" mean that a-b = p-q
+[08:44.59] <PlanckWalk> The algebra there is just doing contortions to avoid subtraction
+[08:45.11] * efm_ is now known as efm
+[08:45.36] * Qladstone (~qladstone@202.161.33.24) has joined channel ##math
+[08:45.37] * Qladstone (~qladstone@202.161.33.24) Quit (Remote host closed the connection)
+[08:45.41] <illustion> yeh
+[08:46.39] * annoymouse (uid11754@gateway/web/irccloud.com/x-vmrpcfbliimlthle) Quit (Quit: Connection closed for inactivity)
+[08:46.58] * bleb (~caleb@wr-130-64-222-163.medford.tufts.edu) has joined channel ##math
+[08:47.06] * localuser- (~none@unaffiliated/localuser-) has joined channel ##math
+[08:47.40] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 246 seconds)
+[08:48.35] * bluss (~bluss@unaffiliated/engla) Quit (Ping timeout: 245 seconds)
+[08:49.03] * leeN (~leeN@g228047217.adsl.alicedsl.de) Quit (Read error: Connection reset by peer)
+[08:49.20] * btcbuy314 (807600d0@gateway/web/freenode/ip.128.118.0.208) has joined channel ##math
+[08:49.27] <btcbuy314> aa
+[08:49.47] <btcbuy314> anyone know a good online 3d function plotter that can plot multiple equations on the same plot
+[08:49.49] <PlanckWalk> Likewise what you 'really' want to prove is that (a-b)(c-d) = (p-q)(r-s)
+[08:49.57] <illustion> yeh
+[08:50.10] <btcbuy314> so i could put in equations including all variables x y and z
+[08:50.13] <acg> if I have a direction (2, -3, 1), how do I represent the family of all directions that are related due to symmetry (cubic system)?
+[08:50.23] <illustion> I mean with subtraction its direct
+[08:50.37] <btcbuy314> not like f(x,y)  but like x^2+y^2+z^2 = 1 or something
+[08:50.43] <PlanckWalk> Yep, so you take the direct proof, and add in all the terms you need to avoid subtraction
+[08:50.55] <illustion> I see
+[08:51.31] <PlanckWalk> So if you had  (a-b)(c-d) on one side, you get  ac-bc-db+bd, so add bc+db to both sides to avoid subtraction
+[08:52.17] <illustion> I see
+[08:52.20] <illustion> yeh makes sense
+[08:52.23] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) Quit (Ping timeout: 265 seconds)
+[08:52.32] <PlanckWalk> Once you do all that and arrange it nicely, you get something much like the algebra in that page
+[08:52.48] * mocl4 (~mocl4@unaffiliated/mocl4) has joined channel ##math
+[08:53.12] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:53.25] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[08:54.22] * episplit (~emily@2601:7:7c00:1eb:14f7:d59a:1f33:40a) Quit (Ping timeout: 256 seconds)
+[08:54.46] <illustion> alright I will try thanks planckwalk
+[08:55.42] * hfu (~hu@49.5.1.198) has joined channel ##math
+[08:56.23] * episplit (~emily@2601:7:7c00:1eb:14f7:d59a:1f33:40a) has joined channel ##math
+[08:56.39] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:56.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[08:57.00] * huckleberry78 (~huckleber@104-176-154-16.lightspeed.tukrga.sbcglobal.net) has joined channel ##math
+[08:57.37] * bleb (~caleb@wr-130-64-222-163.medford.tufts.edu) Quit (Ping timeout: 264 seconds)
+[08:57.51] * `Eddie (~dedword@95.142.88.209) has joined channel ##math
+[08:57.51] * `Eddie (~dedword@95.142.88.209) Quit (Changing host)
+[08:57.51] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[08:58.52] * calmdown (60f4fd4f@gateway/web/freenode/ip.96.244.253.79) Quit (Quit: Page closed)
+[08:58.53] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[08:59.06] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[08:59.10] * bleb (~caleb@wr-130-64-222-214.medford.tufts.edu) has joined channel ##math
+[08:59.12] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) Quit (Client Quit)
+[08:59.30] * lrs (~lars@88-83-56-124.customer.t3.se) has joined channel ##math
+[08:59.30] <byron2> the early objections from Poincare, Kronecker and others to Cantor's transfinite set theory, they all just sorta died out, eh?
+[08:59.58] <lrs> How do i show that floor(2x)+floor(2y)=>floor(x)+floor(y)+floor(x+y)
+[09:00.06] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (Disconnected by services)
+[09:00.07] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:00.08] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[09:00.13] <lrs>  For real x's
+[09:00.26] * samsama (~samsama@host-78-148-48-36.as13285.net) has joined channel ##math
+[09:01.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[09:01.31] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[09:01.42] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##math
+[09:02.00] * Frejo (bd7ad930@gateway/web/freenode/ip.189.122.217.48) has joined channel ##math
+[09:02.16] <Frejo> Can we express any first order ODE  as  f(y', y) =  something
+[09:02.23] <Frejo> ?
+[09:02.36] <Frejo> If yes, what is that something ?
+[09:02.46] <stoopkid> Frejo: unless that something is for example y'', then it's a 2nd order ODE
+[09:02.53] * ndndnd (~Hellmut@dsl-31-179.utaonline.at) Quit (Quit: Leaving)
+[09:03.04] * samsama_ (~samsama@host-78-148-48-36.as13285.net) Quit (Ping timeout: 272 seconds)
+[09:03.12] <PlanckWalk> Frejo: You can make something = 0 if you want
+[09:03.15] <benzrf> thanks cantor rip ;-;
+[09:03.26] <Frejo> No, i think you didn't understand my question.  Suppose i have an arbitrary first order ODE, can i always possibly express it as  f(y',y) = something ?
+[09:03.32] <Frejo> And in that case, would the something be a function of what ?
+[09:03.43] <PlanckWalk> Oh wait, no you need the independent variable in f
+[09:03.44] <Frejo> Obviously, the something can't be y'' because i'm assuming i have a first order Ode
+[09:03.45] * ssbr_at_work (scorchsabe@python/site-packages/ssbr) Quit (Read error: Connection reset by peer)
+[09:03.56] <PlanckWalk> f(y', y, x) = 0
+[09:04.16] <Frejo> Fuuuuuck
+[09:04.18] * jzl (~jzl@2604:180:2:3c5::94b6) Quit (Ping timeout: 250 seconds)
+[09:04.20] <Frejo> ;(
+[09:04.29] * profess_ (~profess@unaffiliated/csddesk) has joined channel ##math
+[09:04.42] <Frejo> So, some first order ODEs wont possibly be expressed as f(y',y) = something
+[09:04.51] <stoopkid> f(y', y, x) = g(y', y, x) is a first order ode, and g(y', y, x) could be 0
+[09:04.58] * profess (~profess__@unaffiliated/csddesk) Quit (Quit: Leaving)
+[09:04.59] * profess_ is now known as profess
+[09:05.32] <PlanckWalk> Frejo: y' - x = 0  is a first-order ODE, for example.  A pretty trivial one, admittedly
+[09:06.05] <stoopkid> Frejo: by definition a first order ODE is expressible as f(y', y, x) = g(y', y , x) --> f(y', y, x) - g(y', y, x) = 0 --> (f-g)(y', y, x) = 0
+[09:06.13] <Frejo> yeah but in that case it can be expressed as  f(y',y) =  x
+[09:07.20] * bleb (~caleb@wr-130-64-222-214.medford.tufts.edu) Quit (Ping timeout: 245 seconds)
+[09:07.37] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:07.39] <Frejo> Anyways, anyone know the motivation for calling some first order ODEs as linear ? Does it have antyhing to do with calling some usual equations as linear  such as  ax + by + cz = d
+[09:07.40] * ``rawr__ (uid23285@gateway/web/irccloud.com/x-yphveaeftfsnkdfq) has joined channel ##math
+[09:07.41] <Frejo> ?
+[09:07.45] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[09:07.52] <stoopkid> Frejo: yes
+[09:07.55] * wjiang (~wjiang@119.254.196.72) has joined channel ##math
+[09:07.55] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##math
+[09:07.56] <PlanckWalk> Frejo: Linear combinations of solutions are also solutions
+[09:08.18] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[09:08.21] <Frejo> hmmm
+[09:08.24] <PlanckWalk> I.e. if y1 and y2 are solutions to a linear ODE, then a y1 + b y2  is also a solution for arbitrary scalars a, b
+[09:08.35] * kreiGT (~kreig@190.148.70.213) has joined channel ##math
+[09:08.38] <Frejo> And the same reasoning applies to ax + by + cz = d   ?
+[09:08.45] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:08.46] <PlanckWalk> Not quite
+[09:09.04] <Frejo> Yes,  but in a sense they are both classified as "linear equations"
+[09:09.10] <Frejo> So i was expecting some kind of similarity
+[09:09.15] <PlanckWalk> Yes, just a slightly different sense of linearity
+[09:09.27] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) has joined channel ##math
+[09:09.49] * wikiemol (~wikiemol@75.102.129.139) Quit (Quit: leaving)
+[09:10.19] <PlanckWalk> The second is more "affine" than linear
+[09:10.39] * huckleberry78 (~huckleber@104-176-154-16.lightspeed.tukrga.sbcglobal.net) Quit (Remote host closed the connection)
+[09:10.39] * bleb (~caleb@wr-130-64-222-214.medford.tufts.edu) has joined channel ##math
+[09:11.06] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[09:11.48] <Frejo> Need d=0 so that linear combination of solutions are also solutions
+[09:11.51] <Frejo> right
+[09:11.56] <Frejo> for the second one
+[09:11.58] <stoopkid> Frejo: a function f(x) is linear if f(a*x + b*y) = a*f(x) + b*f(y)
+[09:12.08] <Frejo> stoppkid Right
+[09:12.14] * duncannz (~duncannz@116.251.193.92) Quit (Remote host closed the connection)
+[09:12.21] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[09:12.40] <Frejo> But how do we relate that simple and nice idea to  Linear equations ( both linear diff equations and linear usual equations ) ?
+[09:12.44] * Jen (~Jen@cpc67573-brmb8-2-0-cust123.1-3.cable.virginm.net) has joined channel ##math
+[09:13.26] <PlanckWalk> You can think of functions as being a vector space
+[09:13.48] * dnukem (~duke@c-24-60-81-45.hsd1.ma.comcast.net) Quit (Quit: Leaving)
+[09:14.00] <stoopkid> PlanckWalk: would that be the dual space of the vector space the functions are acting on?
+[09:14.08] <PlanckWalk> Then differentiation is a (partial) operator on that space
+[09:15.02] * lightpath (cec4badd@gateway/web/cgi-irc/kiwiirc.com/session) has joined channel ##math
+[09:15.05] * PotatoGim (~PotatoGim@220.90.135.162) has joined channel ##math
+[09:15.37] * zwisch_ (~zwisch@76-10-142-14.dsl.teksavvy.com) has joined channel ##math
+[09:15.37] * mpking` (~mpking@c-73-26-143-214.hsd1.nm.comcast.net) has joined channel ##math
+[09:15.49] <Frejo> Then linear diff equations are equations corresponding to  "linear differentiations"  (  differentiations corresponding to linear functions ) ?
+[09:15.52] <PlanckWalk> You can express linear differential equations as  A y = b  for some linear operator A and fixed function b.
+[09:16.13] * Astan (~quassel@cpc16-warw14-2-0-cust54.3-2.cable.virginm.net) has joined channel ##math
+[09:16.13] * contingocat_ (~null@42.132.115.87.dyn.plus.net) has joined channel ##math
+[09:16.16] * PotatoGim (~PotatoGim@220.90.135.162) Quit (Max SendQ exceeded)
+[09:16.19] * slon_ (slon@ip-78-45-93-71.net.upcbroadband.cz) has joined channel ##math
+[09:16.48] * spling` (~spling@71-17-5-10.sktn.hsdb.sasknet.sk.ca) has joined channel ##math
+[09:17.04] * cap_sensitive (~cap_sensi@unaffiliated/cap-sensitive/x-1266900) has joined channel ##math
+[09:17.42] * freecoder (~freecoder@103.225.100.51) has joined channel ##math
+[09:18.20] * Cyp___ (~Cyp_@62.61.130.228.generic-hostname.arrownet.dk) has joined channel ##math
+[09:18.37] * anonnumberanon (~anonnumbe@unaffiliated/anonnumberanon) has joined channel ##math
+[09:18.42] <Frejo> That thing you mentioned about linear combination of solutions yielding solutions are only for  homogenous linar diff eq, no ?
+[09:18.42] <PlanckWalk> The linearity of the operator means you get to use a lot of linear algebra results
+[09:19.03] <Frejo> or even non-homogeneous ?
+[09:19.18] <PlanckWalk> Err, right.
+[09:19.33] * distants1ar- (distantsta@gateway/shell/anapnea.net/session) has joined channel ##math
+[09:19.37] * PotatoGim (~PotatoGim@220.90.135.162) has joined channel ##math
+[09:19.42] * Cheery_ (~cheery@boxbase.org) has joined channel ##math
+[09:19.43] <lightpath> Given a group G of all matrices with the form [ [1, a] ; [0, 1] ] for integer a, I want to say that phi(x in G) = a is an isomorphism to Z. Is it valid to just write that or do I need to do calculations to extract a first?
+[09:19.45] <PlanckWalk> Oops
+[09:19.53] * linear4_ (L@unaffiliated/lynear) has joined channel ##math
+[09:20.09] * justanot1eruser (~Justan@unaffiliated/justanotheruser) has joined channel ##math
+[09:20.11] * gauss0 (~abc@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) has joined channel ##math
+[09:20.17] * serutsub1 (~serutsubi@b230c.studby.ntnu.no) has joined channel ##math
+[09:20.20] * _cb1_ (~cb1@bog.chelik.org) has joined channel ##math
+[09:20.21] * _Atom_ (~jawat@172.56.33.11) Quit (Ping timeout: 240 seconds)
+[09:20.31] * druidd (~lindsey@cpe-174-097-244-077.nc.res.rr.com) has joined channel ##math
+[09:20.31] * nForce_ (~nforce@arch.bloemendal.me) has joined channel ##math
+[09:20.34] * barfod_ (~none@ppp-70-225-166-113.dsl.chmpil.ameritech.net) has joined channel ##math
+[09:20.37] <Frejo> So Ay = 0  would be the homogenous
+[09:20.39] * ljhms_ (~ljhms@nl112-167-130.student.uu.se) has joined channel ##math
+[09:20.41] <PlanckWalk> Yep
+[09:21.19] * numie (~numeral@198.23.228.15) has joined channel ##math
+[09:21.20] * numeral (~numeral@198.23.228.15) Quit (Ping timeout: 250 seconds)
+[09:21.21] * spling (~spling@unaffiliated/spling) Quit (Ping timeout: 250 seconds)
+[09:21.21] * lolcat (~lolcat@unaffiliated/energy-/x-7653247) Quit (Ping timeout: 250 seconds)
+[09:21.21] * ljhms (~ljhms@nl112-167-130.student.uu.se) Quit (Ping timeout: 250 seconds)
+[09:21.21] * linear4 (L@unaffiliated/lynear) Quit (Ping timeout: 250 seconds)
+[09:21.21] * barfod (~none@unaffiliated/barfod) Quit (Ping timeout: 250 seconds)
+[09:21.21] * Cheery (~cheery@boxbase.org) Quit (Ping timeout: 250 seconds)
+[09:21.21] * profess (~profess@unaffiliated/csddesk) Quit (Ping timeout: 250 seconds)
+[09:21.21] * nForce (~nforce@arch.bloemendal.me) Quit (Ping timeout: 250 seconds)
+[09:21.21] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 250 seconds)
+[09:21.21] * serutsubi (~serutsubi@b230c.studby.ntnu.no) Quit (Ping timeout: 250 seconds)
+[09:21.21] * slon (slon@ip-78-45-93-71.net.upcbroadband.cz) Quit (Ping timeout: 250 seconds)
+[09:21.21] * ljhms_ is now known as ljhms
+[09:21.21] * Moufang (~abc@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) Quit (Ping timeout: 250 seconds)
+[09:21.21] * _cb1 (~cb1@bog.chelik.org) Quit (Ping timeout: 250 seconds)
+[09:21.21] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Ping timeout: 250 seconds)
+[09:21.21] * Ichelures (~quassel@cpc16-warw14-2-0-cust54.3-2.cable.virginm.net) Quit (Ping timeout: 250 seconds)
+[09:21.22] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 250 seconds)
+[09:21.22] * mpking (~mpking@c-73-26-143-214.hsd1.nm.comcast.net) Quit (Ping timeout: 250 seconds)
+[09:21.22] * krator44 (krator44@gateway/shell/elitebnc/x-dhbmokendonylqys) Quit (Ping timeout: 250 seconds)
+[09:21.22] * zwisch (~zwisch@76-10-142-14.dsl.teksavvy.com) Quit (Ping timeout: 250 seconds)
+[09:21.22] * ubuntor (~ubuntor@ubuntor.org) Quit (Ping timeout: 250 seconds)
+[09:21.22] * owlscientist (~name@sburn/devel/name) Quit (Ping timeout: 250 seconds)
+[09:21.22] * Cyp__ (~Cyp_@62.61.130.228.generic-hostname.arrownet.dk) Quit (Ping timeout: 250 seconds)
+[09:21.22] * timemage (~timemage@unaffiliated/timemage) Quit (Ping timeout: 250 seconds)
+[09:21.22] * contingocat (~null@42.132.115.87.dyn.plus.net) Quit (Ping timeout: 250 seconds)
+[09:21.22] * distantstar- (distantsta@gateway/shell/anapnea.net/x-zezfdszreeqviihg) Quit (Ping timeout: 250 seconds)
+[09:21.22] * lojjik (~lojjik@wikihow/Lojjik) Quit (Ping timeout: 250 seconds)
+[09:21.22] * Apocalyptic (~Apocalypt@unaffiliated/apocalyptic) Quit (Ping timeout: 250 seconds)
+[09:21.22] * lightpath (cec4badd@gateway/web/cgi-irc/kiwiirc.com/session) Quit (Changing host)
+[09:21.22] * lightpath (cec4badd@gateway/web/cgi-irc/kiwiirc.com/ip.206.196.186.221) has joined channel ##math
+[09:21.22] * distants1ar- (distantsta@gateway/shell/anapnea.net/session) Quit (Changing host)
+[09:21.22] * distants1ar- (distantsta@gateway/shell/anapnea.net/x-hxvabylenxxxhnnt) has joined channel ##math
+[09:21.24] * contingocat_ is now known as contingocat
+[09:21.27] <stoopkid> lightpath: is the operation of G matrix multiplication?
+[09:21.27] * profess (~profess@unaffiliated/csddesk) has joined channel ##math
+[09:21.28] * lojjik_ (~lojjik@lojjikbraughler.com) has joined channel ##math
+[09:21.28] <PlanckWalk> In that form it looks a lot like a matrix equation
+[09:21.33] <benzrf> Ayy lma0
+[09:21.37] * f03lipe_ (~f03lipe@189.122.208.96) has joined channel ##math
+[09:21.41] <lightpath> Yes G is matrix multiplication Z is addition
+[09:21.45] * numie is now known as numeral
+[09:21.56] <vonStrauss> Mother of fuck, what just fucking happened.
+[09:21.59] * cameronfr (~cameronfr@i114-181-43-74.s41.a013.ap.plala.or.jp) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[09:22.15] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##math
+[09:22.17] <Frejo> yes,  i'm wondering how   f(y',y,x) = 0   is equivalent to      A.y = b
+[09:22.19] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Quit: allahu akbar)
+[09:22.21] * __name__ (~name@sburn/devel/name) has joined channel ##math
+[09:22.33] <Frejo> for arbitrary linear diff equations of first order
+[09:22.34] * krator44- (krator44@gateway/shell/elitebnc/x-gnvhcbtdefhwpvia) has joined channel ##math
+[09:22.37] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##math
+[09:22.38] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) has joined channel ##math
+[09:22.40] <Frejo> f would be the same as A ?
+[09:22.50] <Frejo> I think not
+[09:23.09] * Apocalyptic (~Apocalypt@unaffiliated/apocalyptic) has joined channel ##math
+[09:23.21] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) has joined channel ##math
+[09:23.27] * ubuntor (~ubuntor@ubuntor.org) has joined channel ##math
+[09:23.31] <Frejo> or maybe  is it   f(y) = f(x0  equivalent to  A.y = b
+[09:23.36] <Frejo> Oops
+[09:23.36] <stoopkid> lightpath: well, look at A*B = [ (1, (a+b)); (0, 1) ]
+[09:23.45] <Frejo> f(y) = f(x)  equivalent to  A.y = b
+[09:23.51] <Frejo> no, i mea
+[09:23.56] <Frejo> f(y) = g(x)  equivalent to  A.y = b
+[09:24.15] <stoopkid> lightpath: so phi(A*B) = a + b = phi(A)+phi(B), so it's a homomorphism right?
+[09:25.18] * bigbadjudas (~666@pool-98-115-142-29.phlapa.fios.verizon.net) Quit (Quit: Leaving)
+[09:25.28] * linear4_ is now known as linear4
+[09:25.29] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##math
+[09:25.29] <stoopkid> lightpath: it's only an isomorphism if you define an inverse operation of phi_inv: a --> [ (1, a); (0, 1)]
+[09:25.36] * cameronfr (~cameronfr@i114-181-43-74.s41.a013.ap.plala.or.jp) has joined channel ##math
+[09:25.57] <stoopkid> lightpath: so given that that's the case, yes it's an isomorphism
+[09:26.34] <lightpath> stoopkid: Right, I know that it is an isomorphism but I am having trouble formalizing it. I don't know if it is valid to use the term a in my isomorphism
+[09:26.45] <quintopia> i got a question today i should be able to do, but couldn't think how. please suggest a tactic using only basic trig and linear systems:
+[09:26.48] <PlanckWalk> Frejo: Note that the space of functions here is infinite dimensional
+[09:27.02] * cameronfr (~cameronfr@i114-181-43-74.s41.a013.ap.plala.or.jp) Quit (Client Quit)
+[09:27.02] <quintopia> Given three vector magnitudes and the fact that their sum is zero, find the angles between them.
+[09:27.10] * lolcat (~lolcat@host-37-191-210-11.lynet.no) has joined channel ##math
+[09:27.27] <lightpath> stoopkid: or if I need to first define let a = ...
+[09:27.41] <PlanckWalk> quintopia: Recast as a plane geometry problem
+[09:27.41] * justanot1eruser is now known as justanotheruser
+[09:27.55] * barfod_ (~none@ppp-70-225-166-113.dsl.chmpil.ameritech.net) Quit (Ping timeout: 246 seconds)
+[09:28.07] <quintopia> PlanckWalk: they are already in R^2
+[09:28.15] <PlanckWalk> I.e. the usual vector addition mapping to "appending" vectors, etc
+[09:28.28] <stoopkid> lightpath: let a in Z
+[09:28.40] <PlanckWalk> So that "sums to zero" means "forms a triangle" (possibly degenerate)
+[09:28.43] <quintopia> PlanckWalk: sure, they make a triangle
+[09:28.45] <stoopkid> lightpath: then phi(A*B) = phi(A) + phi(B) in Z, you have a homomorphism
+[09:28.52] * barfod (~none@unaffiliated/barfod) has joined channel ##math
+[09:28.57] <quintopia> heron's formula?
+[09:29.00] <PlanckWalk> So you have a triangle with all three lengths known
+[09:29.00] * hiptobecubic (~john@unaffiliated/hiptobecubic) Quit (Ping timeout: 245 seconds)
+[09:29.01] <stoopkid> lightpath: inverting the operation, you get an isomorphism
+[09:29.04] <PlanckWalk> Cosine rule
+[09:29.11] <quintopia> oh right
+[09:29.16] * nitrxgen_ (~nitrxgen@cpc10-lewi14-2-0-cust836.2-4.cable.virginm.net) has joined channel ##math
+[09:29.16] * nitrxgen (~nitrxgen@cpc10-lewi14-2-0-cust836.2-4.cable.virginm.net) Quit (Disconnected by services)
+[09:29.34] <PlanckWalk> Just be careful about inverse cos :-)
+[09:29.42] <quintopia> yeah
+[09:29.57] <lightpath> stoopkid: thanks, I didn't think of that
+[09:30.34] <PlanckWalk> Oh nevermind, I was thinking be careful of inverse sine in sine rule
+[09:31.45] <PlanckWalk> Inverse cos in trig is unambiguous
+[09:31.50] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[09:33.05] * schleppel (~quassel@141.39.226.237) Quit (Ping timeout: 255 seconds)
+[09:33.28] * pwanda (~pwanda@185.24.2.26) Quit (Ping timeout: 265 seconds)
+[09:34.40] * annoymouse (uid11754@gateway/web/irccloud.com/x-zltfiacwkrjwwqce) has joined channel ##math
+[09:36.00] * RyuKojiro (~kojiro@unaffiliated/ryukojiro) has left ##math ()
+[09:37.50] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) has joined channel ##math
+[09:38.49] * mrcheeks (~user@CPE0c473de64fd1-CM0c473de64fd0.cpe.net.cable.rogers.com) has joined channel ##math
+[09:39.13] * russoneto (~russo_@189.35.132.24) has joined channel ##math
+[09:39.42] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:40.06] * russoneto (~russo_@189.35.132.24) Quit (Client Quit)
+[09:43.05] * lolcat (~lolcat@host-37-191-210-11.lynet.no) Quit (Changing host)
+[09:43.05] * lolcat (~lolcat@unaffiliated/energy-/x-7653247) has joined channel ##math
+[09:43.52] * bigbadjudas (~666@fra1.racingvpn.com) Quit (Quit: Leaving)
+[09:43.59] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[09:44.04] * bigbadjudas (~666@fra1.racingvpn.com) has joined channel ##math
+[09:44.08] <maryjohn2> is geometry complete? i think i read that hilbert proved that
+[09:45.00] * _kmh_ (~kmh@p5B35AF95.dip0.t-ipconnect.de) has joined channel ##math
+[09:45.54] <Frejo> PlanckWalk  I appreciate the help, i got to make much sense of it now
+[09:48.13] * kmh_ (~kmh@p5B3595D2.dip0.t-ipconnect.de) Quit (Ping timeout: 252 seconds)
+[09:48.27] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 244 seconds)
+[09:48.30] * tmager (~Thunderbi@wr-130-64-194-38.medford.tufts.edu) Quit (Ping timeout: 246 seconds)
+[09:48.36] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##math
+[09:49.02] * druidd (~lindsey@cpe-174-097-244-077.nc.res.rr.com) Quit (Quit: WeeChat 1.1.1)
+[09:50.07] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) has joined channel ##math
+[09:50.46] * Ozera (~Ozera@veles.packetfire.org) has left ##math (("Leaving"))
+[09:50.52] * Ozera (~Ozera@veles.packetfire.org) has joined channel ##math
+[09:51.39] <illustion> planckwalk
+[09:52.38] <illustion> I need your help I need to prove that the only multiplicative inverse are 1 and -1 in terms of the multiplication we defined before and any element of Z can have at most one multiplicative inverse.
+[09:52.55] * pierrot (pierrot@unaffiliated/pierrot) has joined channel ##math
+[09:52.55] * pierrot (pierrot@unaffiliated/pierrot) Quit (Client Quit)
+[09:53.16] * pred (~pred@wikipedia/pred) Quit (Ping timeout: 250 seconds)
+[09:53.46] * ButterQuark (~peterh@2607:ea00:104:3c00:21e:4cff:fe63:eb85) Quit (Ping timeout: 265 seconds)
+[09:53.55] * vyadhaka (~rv_ghatak@129.78.56.193) Quit (Quit: Leaving.)
+[09:55.56] * toastyde1th (~toast@c-69-244-86-195.hsd1.md.comcast.net) has joined channel ##math
+[09:55.58] <PlanckWalk> illustion: Okay
+[09:56.02] * Qladstone (~qladstone@202.161.33.26) has joined channel ##math
+[09:56.15] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) Quit (Read error: No route to host)
+[09:56.17] * monoprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##math
+[09:56.25] <PlanckWalk> "At most one" is pretty trivial to prove in any ring.
+[09:56.45] <illustion> yes but this is using set theory however
+[09:56.47] <illustion> feels weird
+[09:57.08] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) Quit (Remote host closed the connection)
+[09:57.13] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[09:57.15] <illustion> but I think yeh that one should be easy
+[09:57.23] <illustion> but first one I proceeded as follows
+[09:57.24] <PlanckWalk> Have you already proved that multiplication is assoicative?
+[09:57.29] <illustion> yeh
+[09:57.33] <PlanckWalk> easy then
+[09:57.54] <illustion> why?
+[09:57.59] * sikio (~sikio@unaffiliated/sikio) Quit (Quit: WeeChat 0.4.2)
+[09:58.23] <PlanckWalk> Suppose that x and y are multiplicative inverses of a.  Then x = x 1 = x (a y) = (x a) y = 1 y  =y.
+[09:58.48] * pred (~pred@wikipedia/pred) has joined channel ##math
+[09:59.21] <illustion> I see
+[09:59.35] <Z-module> however, an element can have a left inverse while not having a right inverse. But in this case there must exist infinitely many left inverses. (What a strange little result.)
+[10:00.04] * pierrot (pierrot@unaffiliated/pierrot) has joined channel ##math
+[10:00.30] * weazelb0y (~weazelb0y@cpe-74-64-56-28.nyc.res.rr.com) has joined channel ##math
+[10:00.37] <PlanckWalk> There is that.  Fortunately multiplication here was commutative too :)
+[10:00.57] * zeroz (~xcx@unaffiliated/zeroz) Quit (Remote host closed the connection)
+[10:01.22] <drazak> in a ring?
+[10:01.22] <illustion> yeh
+[10:01.29] <drazak> yeah
+[10:01.32] <illustion> Z is commutative ring
+[10:01.35] <drazak> Z-module: you love that little thm
+[10:01.44] * wagonboi (~wagonboi@rrcs-76-79-113-211.west.biz.rr.com) has joined channel ##math
+[10:01.49] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 264 seconds)
+[10:02.01] <Z-module> it's just so odd
+[10:02.05] <drazak> that's probably the 5th or 6th time I've seen you reference it in the last 9 months
+[10:02.06] <PlanckWalk> It is pretty odd
+[10:02.14] * kfound (~dan@68-184-220-249.dhcp.stls.mo.charter.com) has joined channel ##math
+[10:02.40] <kfound> ＋＋http://gyazo.com/751e46e1c909e238cc8c34aba843100e，， how should i go about isolated x in the middle of the inequality
+[10:03.27] * cerebrum_ (~cerebrum@p54866B0D.dip0.t-ipconnect.de) has joined channel ##math
+[10:05.03] <illustion> Planckwalk
+[10:05.05] * cerebrum (~cerebrum@p5B334A93.dip0.t-ipconnect.de) Quit (Ping timeout: 252 seconds)
+[10:05.08] <illustion> do you consider cases
+[11:38.52] *** Server disconnected on tepper.freenode.net

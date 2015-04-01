@@ -1,0 +1,88 @@
+Session Start: Wed Mar 04 08:22:03 2015
+[08:22.03] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[08:22.03] -irc.freenode.net- Sending User Registration Information
+[08:22.03] --tepper.freenode.net-- *** Looking up your hostname...
+[08:22.03] --tepper.freenode.net-- *** Checking Ident
+[08:22.04] --tepper.freenode.net-- *** Couldn't look up your hostname
+[08:22.13] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[08:22.13] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[08:22.13] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[08:22.14] -tepper.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[08:22.14] -tepper.freenode.net- Your host is tepper.freenode.net[192.186.157.43/6667], running version ircd-seven-1.1.3
+[08:22.14] -tepper.freenode.net- This server was created Sun Jul 20 2014 at 01:18:10 UTC
+[08:22.14] -tepper.freenode.net- tepper.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[08:22.14] -tepper.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[08:22.14] -tepper.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[08:22.14] -tepper.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[08:22.14] -tepper.freenode.net- There are 165 users and 88228 invisible on 26 servers
+[08:22.14] -tepper.freenode.net- There are 24 IRC Operators online
+[08:22.14] -tepper.freenode.net- There are 7 unknown connection(s)
+[08:22.14] -tepper.freenode.net- There are 52985 channels formed
+[08:22.14] -tepper.freenode.net- I have 4132 clients and 1 servers
+[08:22.14] -tepper.freenode.net- Current local users 4132, max 4810
+[08:22.14] -tepper.freenode.net- Current global users 88393, max 99056
+[08:22.14] -tepper.freenode.net- Highest connection count: 4811 (4810 clients) (351402 connections received)
+[08:22.14] -tepper.freenode.net- You have successfully connected to tepper.freenode.net
+[08:22.14] * Your mode is now +i
+[11:38.48] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[11:38.53] -tepper.freenode.net- *** Server disconnected on tepper.freenode.net
+[11:38.53] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[11:38.53] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.53] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.53] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.53] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (185.30.166.38) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (185.30.166.38) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (185.30.166.38) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (185.30.166.38) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (62.231.75.133) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (174.143.119.91) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.42) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.44) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (91.217.189.44) on port 6667
+[11:38.54] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[11:38.54] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[11:38.54] ERROR: Parameter name: asyncResult
+[11:38.54] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[11:38.54] ERROR: Null Socket - Can not Connect
+[11:38.54] ERROR: Null Socket - Can not Connect
+[11:38.54] ERROR: Null Socket - Can not Connect
+[11:38.54] ERROR: Null Socket - Can not Connect
+[11:38.54] ERROR: Null Socket - Can not Connect
+[11:38.54] ERROR: Parameter name: asyncResult
+[11:38.54] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (84.240.3.129) on port 6667
+[11:38.54] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.54] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[11:38.55] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.55] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[11:38.55] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.55] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (31.13.222.109) on port 6667
+[11:38.55] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.55] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[11:38.55] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[11:38.55] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[11:38.55] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (38.229.70.22) on port 6667
+[11:38.55] ERROR: Parameter name: asyncResult
+[11:38.55] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[11:38.55] ERROR: Null Socket - Can not Connect
+[11:38.55] ERROR: Null Socket - Can not Connect
+[11:38.55] ERROR: Null Socket - Can not Connect
+[11:38.55] ERROR: Null Socket - Can not Connect
+[11:38.55] ERROR: Null Socket - Can not Connect
+[11:38.55] ERROR: Null Socket - Can not Connect

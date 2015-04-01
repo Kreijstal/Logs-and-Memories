@@ -1,0 +1,198 @@
+Session Start: Mon Feb 23 12:46:19 2015
+Session Ident: ##windows
+[12:46.19] * You have joined ##windows
+[12:46.19] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[12:46.19] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[12:46.19] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[12:46.19] Channel Created on: 7:11 PM 10/7/2005
+[12:48.09] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) has joined channel ##windows
+[12:48.49] * Menuhin (~quassel@dsbg-d9bb01a7.pool.mediaWays.net) has joined channel ##windows
+[12:49.25] * Joufflu_ (~Jouffluxx@104-178-49-37.lightspeed.irvnca.sbcglobal.net) has joined channel ##windows
+[12:49.34] * Menuhin is now known as stareye
+[12:50.36] * cobiashimew (~Thunderbi@c-50-130-144-145.hsd1.nm.comcast.net) Quit (Client Quit)
+[12:50.53] * huntalker (~kvirc@80-95-89-165.pool.digikabel.hu) has joined channel ##windows
+[12:52.54] * Joufflu (~Jouffluxx@2602:306:8b23:1250:b007:bfa1:f97b:6780) Quit (Ping timeout: 250 seconds)
+[12:54.10] * DeathRowX (~DeathRowX@cpe-069-132-096-052.carolina.res.rr.com) has joined channel ##windows
+[12:54.44] * wisey_ (~Steven@host-2-102-71-48.as13285.net) has joined channel ##windows
+[12:56.32] * Aldebaran (~Aldebaran@ip-95-220-136-118.bb.netbynet.ru) Quit (Ping timeout: 256 seconds)
+[12:57.37] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[12:59.13] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) has joined channel ##windows
+[01:00.11] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##windows
+[01:01.54] * Nazgul (nazgul@2610:150:8015:1000::2a) Quit (Ping timeout: 252 seconds)
+[01:03.24] * Nazgul (nazgul@2610:150:8015:1000::2a) has joined channel ##windows
+[01:03.35] * korg (~korggrodn@mail.ramtex.by) has joined channel ##windows
+[01:03.56] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[01:06.16] * kggr (~korggrodn@mail.ramtex.by) Quit (Ping timeout: 246 seconds)
+[01:06.58] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:07.22] * nonius (~kvirc@185.3.32.44) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[01:07.36] * Sir_Leto (~Sir_Leto@unaffiliated/sir-leto/x-356438) Quit (Ping timeout: 244 seconds)
+[01:09.10] * HeliusCron_s (~wrenny@gateway/vpn/privateinternetaccess/wrenny) has joined channel ##windows
+[01:11.04] * Robin (~Seligas@host-144-113-2-96.midco.net) has joined channel ##windows
+[01:11.09] * Robin (~Seligas@host-144-113-2-96.midco.net) Quit (Client Quit)
+[01:11.49] * HeliusCron (~wrenny@173.192.176.188-static.reverse.softlayer.com) Quit (Ping timeout: 245 seconds)
+[01:14.57] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) Quit (Remote host closed the connection)
+[01:15.09] * meteorx64 (~willc_000@75.64.231.4) Quit (Quit: Leaving)
+[01:17.36] * Afteraffekt (~Afteraffe@unaffiliated/afteraffekt) Quit (Read error: Connection reset by peer)
+[01:17.47] * WizJin (~WizJinAFK@103.21.160.239) has joined channel ##windows
+[01:18.57] * fev3r101 (~fev3r101@116.251.214.209) has joined channel ##windows
+[01:19.57] * linuxuz3r (~linuxuz3r@2602:306:bd2a:a160:21f8:2277:9b80:d516) has joined channel ##windows
+[01:20.10] * DeathRowX (~DeathRowX@cpe-069-132-096-052.carolina.res.rr.com) has left ##windows (("Leaving"))
+[01:20.20] * fluter (~fluter@fedora/fluter) has joined channel ##windows
+[01:20.39] * fev3r101 (~fev3r101@116.251.214.209) Quit (Remote host closed the connection)
+[01:20.57] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) has joined channel ##windows
+[01:22.04] * egray_ (~egray@183.86.233.220.static.exetel.com.au) Quit (Quit: This computer has gone to sleep)
+[01:22.44] * BOKALDO (~BOKALDO@87.110.77.17) has joined channel ##windows
+[01:23.25] * HeliusCron_s (~wrenny@gateway/vpn/privateinternetaccess/wrenny) Quit (Ping timeout: 264 seconds)
+[01:23.26] * SickMind` (~Sickmind`@191.189.82.185) Quit (Quit: Leaving)
+[01:23.34] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[01:25.51] * CaTtleyA (~CaTtleyA@plb95-9-78-241-235-51.fbx.proxad.net) Quit (Quit: Lost terminal)
+[01:26.50] * Python1320 (Python1320@unaffiliated/python1320) has joined channel ##windows
+[01:27.54] * duckey (duckey@c-24-22-73-246.hsd1.or.comcast.net) has joined channel ##windows
+[01:28.39] <duckey> What is a good iso burner for windows xp? I cant find anything legit.
+[01:29.07] * CookieJar (~CookieJar@wnklmb01dc1-184-38.dynamic.mtsallstream.net) Quit (Ping timeout: 246 seconds)
+[01:33.35] * wisey_ (~Steven@host-2-102-71-48.as13285.net) Quit (Ping timeout: 265 seconds)
+[01:34.13] * CookieJar (~CookieJar@wnklmb01dc1-187-224.dynamic.mtsallstream.net) has joined channel ##windows
+[01:35.15] * Anti-Pizza (~pizzerino@system.telenet.ru) Quit (Read error: Connection reset by peer)
+[01:36.43] * HeliusCron_p (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[01:38.07] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) Quit (Remote host closed the connection)
+[01:38.32] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[01:38.39] * Polo70 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) Quit (Ping timeout: 244 seconds)
+[01:40.15] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 245 seconds)
+[01:42.45] <duckey> I ant frad no ghost
+[01:42.48] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) Quit (Remote host closed the connection)
+[01:43.14] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[01:44.14] * g0tcha (~efnet@221.32.3.213.static.wline.lns.sme.cust.swisscom.ch) Quit (Ping timeout: 265 seconds)
+[01:45.27] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) Quit (Remote host closed the connection)
+[01:45.52] * Cyph3r (~Cyph3r@71-84-67-79.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[01:46.12] <msbuild> I am looking for a tool like objdump but for mach-o format macosx executables ... if i cross compile objdump to powerpc or any other arch it has no ability to analysis mac exe only windows and linux/unix... so is there any package i can apt-get or download for windows to analysis macho format
+[01:47.41] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:47.52] * last_staff (~Thunderbi@79.135.14.226) has joined channel ##windows
+[01:47.52] * wisey_ (~Steven@host-2-102-71-48.as13285.net) has joined channel ##windows
+[01:48.42] * Raziel (~Raziel@cpc16-broo8-2-0-cust158.14-2.cable.virginm.net) Quit (Ping timeout: 246 seconds)
+[01:48.52] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) has joined channel ##windows
+[01:49.05] * applegal (~ghjghj@202.156.241.159) Quit ()
+[01:49.14] * Rabbitnightmare (~quassel@cpe-24-94-60-196.stny.res.rr.com) has joined channel ##windows
+[01:49.24] <Rabbitnightmare> I need help removing adware from a system
+[01:49.26] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) Quit (Ping timeout: 245 seconds)
+[01:49.29] <Rabbitnightmare> its called geniusbox
+[01:49.41] <Rabbitnightmare> it doesnt show up in control panel or google chrome or ir
+[01:49.43] <Rabbitnightmare> ie
+[01:49.51] * WizJin (~WizJinAFK@103.21.160.239) Quit (Quit: Leaving)
+[01:50.10] <Rabbitnightmare> its not in msconfig
+[01:50.15] <Rabbitnightmare> but randomly the app will run
+[01:50.47] * IIT (~IIT@unaffiliated/xtriz) has joined channel ##windows
+[01:51.07] <Rabbitnightmare> nothing on google is proving at all useful
+[01:51.08] <IIT> how can i change theme colors of putty ?
+[01:51.10] <Rabbitnightmare> please help
+[01:51.13] <LMNOP> reinstall
+[01:51.13] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) has joined channel ##windows
+[01:51.56] * HeliusCron_p (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 250 seconds)
+[01:51.57] <LMNOP> menu
+[01:54.04] <Rabbitnightmare> wow
+[01:54.10] <Rabbitnightmare> it blocks malwarebytes website
+[01:54.13] <Rabbitnightmare> fuckinhell
+[01:54.38] <Rabbitnightmare> 504 - Gateway Timeout
+[01:55.05] <LMNOP> i��l try again -- reinstall windows
+[01:55.22] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 246 seconds)
+[01:55.42] <Rabbitnightmare> yay filehippo
+[01:55.54] * duckey (duckey@c-24-22-73-246.hsd1.or.comcast.net) Quit (Ping timeout: 252 seconds)
+[01:56.07] <LMNOP> not 2 bright eh
+[01:56.49] <Rabbitnightmare> vuze installed it
+[01:57.07] * LMNOP back to video game
+[01:58.09] * IIT (~IIT@unaffiliated/xtriz) Quit (Quit: Leaving)
+[02:04.29] <Stryyker> please don't swear here
+[02:04.45] <Stryyker> use autoruns from sysinternals to see if it is a scheduled task, startup etc.
+[02:04.51] * dimm0k (~dimm0k@unaffiliated/dimm0k) Quit (Ping timeout: 264 seconds)
+[02:05.24] * rippa (~rippa@37-146-230-93.broadband.corbina.ru) has joined channel ##windows
+[02:06.46] * Drdz (~Drdz@41.251.96.63) Quit (Remote host closed the connection)
+[02:07.17] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:684a:3965:c173:c7b6) has joined channel ##windows
+[02:07.17] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:684a:3965:c173:c7b6) Quit (Disconnected by services)
+[02:07.30] <linuxuz3r> hi is there a way to change the font size without having to log out and login
+[02:08.14] * gsj (~gsj@41.251.96.63) has joined channel ##windows
+[02:08.37] * gsj (~gsj@41.251.96.63) Quit (Excess Flood)
+[02:09.13] * Kdoc (~Kdoc@ber19-3-78-220-252-108.fbx.proxad.net) has joined channel ##windows
+[02:09.24] * Kdoc (~Kdoc@ber19-3-78-220-252-108.fbx.proxad.net) Quit (Excess Flood)
+[02:09.47] * TMan459 (~TMan459@68-113-238-45.dhcp.stpt.wi.charter.com) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[02:09.59] <Stryyker> font size for what?
+[02:10.08] <LMNOP> wut are u mark russinovich everything is sysinternals huh
+[02:10.20] <LMNOP> lol
+[02:10.20] * Bxau (~Bxau@41.251.96.63) has joined channel ##windows
+[02:10.38] * Bxau (~Bxau@41.251.96.63) Quit (Excess Flood)
+[02:11.10] <Stryyker> Good tool for the job. I've recommended other tools by other people for various things. I personally use Process Hacker as my Task Manager replacement.
+[02:11.22] * Macaveli (~Macaveli@68.252-240-81.adsl-static.isp.belgacom.be) has joined channel ##windows
+[02:11.22] <LMNOP> :)
+[02:11.32] * kzard (~kzard@41.85.12.100) has joined channel ##windows
+[02:11.39] * Bno (~Bno@41.251.96.63) has joined channel ##windows
+[02:11.46] <LMNOP> hearin ya
+[02:11.50] * Bno (~Bno@41.251.96.63) Quit (Excess Flood)
+[02:12.02] * bigbadjudas (~666@pool-108-16-8-95.phlapa.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:12.22] * icetooth (~icetooth@unaffiliated/icetooth) has joined channel ##windows
+[02:12.27] * funch (~funch@2.25.168.213.sta.estpak.ee) has joined channel ##windows
+[02:12.43] * TMan459 (~TMan459@68-113-238-45.dhcp.stpt.wi.charter.com) has joined channel ##windows
+[02:13.21] * Polo70 (~Polo@cpe-071-068-088-080.carolina.res.rr.com) has joined channel ##windows
+[02:17.40] * Aldebaran (~Aldebaran@ip-95-220-136-118.bb.netbynet.ru) has joined channel ##windows
+[02:18.34] * Konf (~Konf@41.251.96.63) has joined channel ##windows
+[02:19.16] * pm001 (~pm0001@212.6.182.1) has joined channel ##windows
+[02:19.26] * rubytor (~quassel@200.8.120.76) Quit (Ping timeout: 245 seconds)
+[02:19.55] * wisey_ (~Steven@host-2-102-71-48.as13285.net) Quit (Ping timeout: 264 seconds)
+[02:20.33] * cajunctionAI (~cajunctio@2601:8:9500:3c4:70a6:8e77:eab9:6338) Quit (Ping timeout: 265 seconds)
+[02:21.38] * SuperStink (Sneak@CPE-121-222-160-124.lnse1.woo.bigpond.net.au) has joined channel ##windows
+[02:21.55] * SuperStink (Sneak@CPE-121-222-160-124.lnse1.woo.bigpond.net.au) Quit (Client Quit)
+[02:24.54] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[02:25.14] * ltwally (~ltwally@ip68-106-46-61.ph.ph.cox.net) Quit ()
+[02:25.54] * AdenFlorian (~AdenFlori@me80436d0.tmodns.net) Quit (Read error: Connection reset by peer)
+[02:26.30] * HeliusCron (~wrenny@gateway/vpn/privateinternetaccess/wrenny) has joined channel ##windows
+[02:27.22] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) Quit (Ping timeout: 256 seconds)
+[02:28.50] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 250 seconds)
+[02:29.15] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[02:29.50] * anaeem1 (~anaeem1@119.159.167.171) has joined channel ##windows
+[02:31.29] * Aoyagi_trashtop (~Aoyagi@unaffiliated/aoyagi) has joined channel ##windows
+[02:31.35] * wyre (~wyre@81.172.88.157.dyn.user.ono.com) has joined channel ##windows
+[02:31.42] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) has joined channel ##windows
+[02:31.57] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) Quit (Excess Flood)
+[02:32.16] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) has joined channel ##windows
+[02:32.32] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) Quit (Excess Flood)
+[02:32.53] * ToAruShiroiNeko (~eva@wikimedia/ToAruShiroiNeko) has joined channel ##windows
+[02:32.53] * KT6 (~mp|node@53551D58.cm-6-6a.dynamic.ziggo.nl) Quit (Quit: KT6)
+[02:36.36] <Wizard> Hi
+[02:36.44] <Stryyker> hi
+[02:38.36] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) Quit (Excess Flood)
+[02:38.57] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) has joined channel ##windows
+[02:40.14] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) Quit (Quit: Leaving)
+[02:41.33] * Ether_Man (DJ@unaffiliated/ether-man/x-1546665) Quit (Ping timeout: 256 seconds)
+[02:41.44] * Jakey69 (uid1475@gateway/web/irccloud.com/x-kzjzmzsvlulsjrcs) has joined channel ##windows
+[02:42.01] * IAmTheClaw (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[02:45.08] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Ping timeout: 264 seconds)
+[02:45.13] * KomradeVirtunov (~KomradeVi@104-57-8-227.lightspeed.clmboh.sbcglobal.net) Quit (Quit: Gone)
+[02:47.59] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) Quit (Quit: Huntyz)
+[02:49.32] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[02:51.29] * linuxuz3r (~linuxuz3r@2602:306:bd2a:a160:21f8:2277:9b80:d516) Quit (Remote host closed the connection)
+[02:52.07] * Ether_Man (DJ@unaffiliated/ether-man/x-1546665) has joined channel ##windows
+[02:53.00] * Anti-Pizza (~pizzerino@system.telenet.ru) Quit (Read error: Connection reset by peer)
+[02:54.56] * Macaveli (~Macaveli@68.252-240-81.adsl-static.isp.belgacom.be) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[02:55.59] * swatti (~swatti@business-89-132-60-56.business.broadband.hu) has joined channel ##windows
+[02:58.44] * linuxuz3r (~linuxuz3r@2602:306:bd2a:a160:21f8:2277:9b80:d516) has joined channel ##windows
+[02:58.48] * fidel_ (~fidel@zulu1552.server4you.de) has joined channel ##windows
+[03:00.08] * Rabbitnightmare (~quassel@cpe-24-94-60-196.stny.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:00.08] * Macaveli (~Macaveli@68.252-240-81.adsl-static.isp.belgacom.be) has joined channel ##windows
+[03:01.02] * feneco (~textual@177.134.238.226) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[03:03.35] * CameronM (~came7732@94.236.7.190) has joined channel ##windows
+[03:05.13] * Visseroth (~Visseroth@host-64-139-238-11.nctv.com) has joined channel ##windows
+[03:05.28] * adhocadhoc_ (~adhocadho@e0109-106-188-39-67.uqwimax.jp) Quit (Read error: Connection reset by peer)
+[03:05.52] * adhocadhoc_ (~adhocadho@e0109-106-188-39-67.uqwimax.jp) has joined channel ##windows
+[03:07.48] * theptr (~theptr@176.62.136.225) has joined channel ##windows
+[03:08.04] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 250 seconds)
+[03:09.10] * fev3r101 (~fev3r101@116.251.214.209) has joined channel ##windows
+[03:11.02] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[03:11.07] * anaeem1 (~anaeem1@119.159.167.171) Quit (Remote host closed the connection)
+[03:11.34] * anaeem1 (~anaeem1@119.159.167.171) has joined channel ##windows
+[03:11.38] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[03:12.45] * anaeem1 (~anaeem1@119.159.167.171) Quit (Read error: Connection reset by peer)
+[03:13.07] * anaeem1 (~anaeem1@119.159.167.171) has joined channel ##windows
+[03:13.23] * SCHAAP137 (~dorian@62.21.201.2) has joined channel ##windows
+[03:13.23] * CameronM (~came7732@94.236.7.190) Quit (Read error: Connection reset by peer)
+[03:14.10] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) Quit (Ping timeout: 245 seconds)
+[03:14.11] * baako (~baako@unaffiliated/baako) has joined channel ##windows
+[03:15.01] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) has joined channel ##windows
+[03:15.11] * Neutron (~neutron@17.92-220-157.customer.lyse.net) Quit (Ping timeout: 255 seconds)
+[07:15.43] *** Server disconnected on irc.freenode.net

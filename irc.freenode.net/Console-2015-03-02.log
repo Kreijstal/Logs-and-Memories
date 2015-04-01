@@ -1,0 +1,23 @@
+Session Start: Mon Mar 02 05:19:52 2015
+[05:19.52] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[05:19.52] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:19.52] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (193.219.128.49) on port 6667
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (193.219.128.49) on port 6667
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (193.219.128.49) on port 6667
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.154.200.232) on port 6667
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[05:19.52] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[05:19.52] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[05:19.52] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[05:19.52] ERROR: Parameter name: asyncResult
+[05:19.52] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[05:19.52] ERROR: Null Socket - Can not Connect
+[05:19.52] ERROR: Null Socket - Can not Connect
+[05:19.52] ERROR: Null Socket - Can not Connect
+[05:19.52] ERROR: Null Socket - Can not Connect

@@ -1,0 +1,1486 @@
+Session Start: Mon Mar 02 12:00:06 2015
+Session Ident: ##math
+[12:00.06] <calmdown> u have no reason to use it fresh you dont write papers for math
+[12:00.12] <SL0P3> There's a 98% chance that anything you read on a computer with math symbols is LaTeX.
+[12:00.27] <SL0P3> unless it's just things like + and -
+[12:00.47] * LucaRood (~quassel@187-109-63-50.agyonet.com.br) has joined channel ##math
+[12:01.33] * LucaRood (~quassel@187-109-63-50.agyonet.com.br) Quit (Remote host closed the connection)
+[12:01.46] <Freshrr> Calmdown, not knowing this stuff is making me worry.
+[12:01.55] <calmdown> god ur dumb
+[12:02.02] <Freshrr> :(
+[12:02.03] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[12:02.04] <calmdown> u think i give a shit about latex
+[12:02.16] <calmdown> ive never used it and i probably wont for a whil
+[12:02.19] <SL0P3> Freshrr
+[12:02.23] <SL0P3> unless you're majoring in math
+[12:02.29] <SL0P3> this stuff is 99% irrelevant
+[12:02.34] <Freshrr> Welll
+[12:02.54] <SL0P3> Even engineering wont use any of the math people talk about in here.
+[12:02.58] <Irrelium> Freshrr: yeah, latex isn't common for high school students to know
+[12:02.58] <Freshrr> I am gonna major in Physics and we all know math is very closely related to Physics.
+[12:03.02] <SL0P3> No.
+[12:03.29] <Irrelium> I have never used latex, I just know what it is
+[12:03.45] <Freshrr> Am I wrong in saying math is very closely related to Physics?
+[12:03.52] <SL0P3> Yes.
+[12:03.59] <Irrelium> You will use a lot of math in physics
+[12:04.01] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[12:04.19] <Freshrr> I see I see.
+[12:04.21] <SL0P3> You will use lots, but it's much different than learning stuff things like topology.
+[12:04.28] <SL0P3> *stuff
+[12:04.49] <calmdown> Freshrr you are perfectly fine just go to school
+[12:04.53] <Irrelium> I haven't checked, but I imagine you at least need calc 1, 2, and 3, plus differential equations and such
+[12:05.01] <Freshrr> No calmdown....
+[12:05.04] <SL0P3> All of those are computational math...
+[12:05.04] <Irrelium> But you can take all those at college
+[12:05.11] * UidX (~UidX@unaffiliated/uidx) Quit (Remote host closed the connection)
+[12:05.15] <SL0P3> so you *shouldnt* struggle.
+[12:06.00] <Freshrr> I want to go to a good college though, and If I don't know the higher level math I will not get in.
+[12:06.09] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) Quit (Quit: qeed)
+[12:06.27] <calmdown> oh my god fresh u live near GT youre fine
+[12:06.39] * pedro3005 (~Pedro@unaffiliated/pedro3005) Quit (Ping timeout: 265 seconds)
+[12:06.40] * Vornicus (~vorn@c-76-19-15-99.hsd1.ct.comcast.net) Quit (Quit: Leaving)
+[12:06.41] <Freshrr> I don't want to go to GT tho, :(
+[12:06.46] <calmdown> well fuck u
+[12:06.49] * LMNOP (~LMNOP@unaffiliated/ea08ba8f51) has joined channel ##math
+[12:06.57] * Big_Seven (~on@host-89-243-59-52.as13285.net) has joined channel ##math
+[12:06.58] <Freshrr> Why lol.
+[12:06.59] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 264 seconds)
+[12:07.13] * doot_ (60feb305@gateway/web/freenode/ip.96.254.179.5) has joined channel ##math
+[12:07.33] <Freshrr> GT isn't a top physics school.
+[12:07.40] <calmdown> yaya
+[12:07.52] <SL0P3> Freshrr...
+[12:08.00] * doot_ (60feb305@gateway/web/freenode/ip.96.254.179.5) Quit (Client Quit)
+[12:08.10] <SL0P3> even CalTech doesnt expect to see anything past about calculus.
+[12:08.19] <SL0P3> and CalTech is states through the roof.
+[12:08.32] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##math
+[12:08.37] <SL0P3> *stats
+[12:08.37] <Freshrr> I simply don't believe that....
+[12:08.45] <_kmh_> GT=?
+[12:08.56] <calmdown> georgia tech
+[12:09.00] <_kmh_> oh
+[12:09.07] <Freshrr> I bet they don't accept anyone who hasn't taken the high level maths
+[12:09.27] <Freshrr> i.e.  Calc and beyond
+[12:09.30] <SL0P3> ....
+[12:09.37] <_kmh_> Freshrr,  depends what degree you apply for
+[12:09.39] <SL0P3> Calculus is
+[12:09.47] <SL0P3> almost mandatory for highschoolers...
+[12:09.58] <SL0P3> Even the brick highschoolers I know have taken it.
+[12:10.19] <_kmh_> well a first calculus is actually a highschool standard in many countries
+[12:10.40] <SL0P3> I'm assuming do to the fact "he's close to GT"
+[12:10.43] <SL0P3> he's probably in the US
+[12:10.44] <Freshrr> I'm applying for Physics which is gonna be competitive.
+[12:10.53] <SL0P3> At what schools?!
+[12:11.06] <_kmh_> it is a bit of US or maybe anglo-saxon thing, that you can get a highschool diploma with taking calculus
+[12:11.22] * Big_Seven (~on@host-89-243-59-52.as13285.net) Quit (Ping timeout: 264 seconds)
+[12:11.33] <Freshrr> Well of course I'll take calculus, but that'll be  my senior year.
+[12:11.39] <SL0P3> I know my HS class put 50% of the class through MV and a few went through CA before senior year.
+[12:11.42] <Freshrr> Many highschoolers will take Calc 3
+[12:11.43] <SL0P3> *complex analysis
+[12:11.44] <Freshrr> !?!?
+[12:12.00] <Irrelium> SL0P3: you from the us?
+[12:12.04] <SL0P3> Yeup
+[12:12.09] <SL0P3> went to a "rich kid" school tho
+[12:12.18] <SL0P3> So my standards may be a bit fucked up
+[12:12.21] <monoprotic> i went to a good public school and it only offred through calc 2
+[12:13.00] <monoprotic> calc 3 in HS is weird, theres not even AP test for that
+[12:13.04] <Freshrr> Slope what college are you at?
+[12:13.17] <prasio> I went to a tiny farm school in teh midwest.   Only a hand full of us even TOOK calc 1
+[12:13.19] <b0g> no seriously, where is physics anything but an open major?
+[12:13.34] <SpurSearcher> I never took calc I in high school
+[12:13.35] * pretodor (~pretodor@113.162.115.33) has joined channel ##math
+[12:13.41] <monoprotic> b0g good question
+[12:13.49] --pretodor-- logged in with account (pretodor)
+[12:13.51] <prasio> Intro calculus  was considered  "Advanced PLacement Calculus" in my little corner of the world
+[12:13.55] <Freshrr> SL0P3, what college do you attend?
+[12:13.56] * zwisch (~zwisch@76-10-142-14.dsl.teksavvy.com) Quit (Read error: Connection reset by peer)
+[12:14.05] <SpurSearcher> I didn't even take advanced algebra
+[12:14.50] <SpurSearcher> heck, I barely passed geometry
+[12:14.56] <SL0P3> I went to Fu Freshrr
+[12:15.11] <Freshrr> Lol.... wat
+[12:15.16] * astropirate (~astropira@c-73-203-60-11.hsd1.co.comcast.net) has joined channel ##math
+[12:15.19] <SL0P3> Fu
+[12:15.26] * okanck (~okanck@37.72.60.9) has joined channel ##math
+[12:15.27] --okanck-- logged in with account (okanck)
+[12:15.32] <SpurSearcher> I went there too
+[12:15.48] <SL0P3> Woop!
+[12:16.10] <SL0P3> Fu is terrible to get into these days
+[12:16.18] <SpurSearcher> actually, I never went there
+[12:16.18] <SL0P3> some kid told me the average scores were in the 99th percentile
+[12:16.21] <SpurSearcher> I thought you meant something else
+[12:16.32] <monoprotic> lol
+[12:16.44] <SL0P3> was like "wow, my degree must mean something"
+[12:16.52] <SL0P3> "probs not tho"
+[12:17.03] <Freshrr> I can't tell if you are trolling right now SL0P3
+[12:17.44] * SpicSpackSpock (a81cb41e@gateway/web/cgi-irc/kiwiirc.com/ip.168.28.180.30) has joined channel ##math
+[12:17.55] <SpurSearcher> at Fu, they told me I would never amount to much
+[12:17.58] * hiptobecubic (~john@unaffiliated/hiptobecubic) Quit (Ping timeout: 264 seconds)
+[12:18.10] <SL0P3> Freshrr, why would I bother lying?
+[12:18.13] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[12:18.23] <SL0P3> would you respect me less if I went to podunk state?
+[12:18.26] <Freshrr> When did you graduate at 13?
+[12:18.28] --spl192011-- logged in with account (spl192011)
+[12:18.28] --ZysFryar-- logged in with account (ZystemFryar)
+[12:18.28] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[12:18.28] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[12:18.36] <SpicSpackSpock> Google "The Hedonistic Calculus"
+[12:18.47] <SpicSpackSpock> it's a page where a man gives a very vague, biased explanation of how happiness and pleasure can be mapped on an integral scale from 1 to 10 without explaining why happiness ONE: would have an upper bound in its representation, and TWO: why the value couldn't assume negative values for the inhibition of pleasure, say suffering
+[12:18.51] <SL0P3> 1997?
+[12:18.53] <SL0P3> lol
+[12:19.08] <SpicSpackSpock> Why haven't they made a model for pleasure yet
+[12:19.09] <_kmh_> google "dirty math" or "impure math"
+[12:19.12] <SL0P3> I'm still terrible at math compared to these guys.
+[12:19.20] <SpicSpackSpock> Some way to map out pleasure to a single scalar value?
+[12:19.27] <SL0P3> pleasure...
+[12:19.33] <_kmh_> and "Polly Nomial" (the classic)
+[12:19.34] <SpicSpackSpock> I mean, where are all of the applied mathematicians when we need them??
+[12:19.35] <SL0P3> I'd say just count vaginas and add.
+[12:19.48] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 245 seconds)
+[12:19.48] * ZysFryar is now known as ZystemFryar
+[12:19.49] <SpicSpackSpock> SL0P3: You're very crude
+[12:19.49] <SL0P3> Spock, you died like
+[12:19.53] <SL0P3> yesterday... gtfo.
+[12:20.01] <SpicSpackSpock> hehe
+[12:20.15] <SpicSpackSpock> in memoriam
+[12:20.17] * NightRa (uid40361@gateway/web/irccloud.com/x-arzwryvlrdhsymyc) has joined channel ##math
+[12:20.31] <_kmh_> actually
+[12:20.56] * okanck (~okanck@37.72.60.9) Quit (Ping timeout: 256 seconds)
+[12:21.00] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[12:21.06] <SpicSpackSpock> We're nearly at the shore of complex systems so decomposing the human mind's seemingly chaotic complexity of experiencing pleasure as a systematic system of the collection of past experiences and current ones, we SHOULD have a system by now that can at least estimate pleasure.
+[12:21.11] <_kmh_> there are some talks you can check out
+[12:21.19] <_kmh_> in particular this one: ＋＋https://www.youtube.com/watch?v=yFVXsjVdvmY，，
+[12:21.23] <SpicSpackSpock> The utilitarians keep making excuses and giving vague systems which only grace the lightest portions of math
+[12:21.35] --astropirate-- logged in with account (astropirate)
+[12:21.35] * astropirate (~astropira@c-73-203-60-11.hsd1.co.comcast.net) Quit (Changing host)
+[12:21.35] * astropirate (~astropira@unaffiliated/astropirate) has joined channel ##math
+[12:21.35] <SpicSpackSpock> Is that for me _kmh_?
+[12:21.50] <SpicSpackSpock> And they don't even provide any rigorous proof as to why their "assumptions" and definitions are valid
+[12:22.08] <SpurSearcher> what do you think it is SpicSpackSpock?
+[12:22.12] <_kmh_> and this one ＋＋https://www.youtube.com/watch?v=H2vN2QXZGnc，，
+[12:22.18] <SpicSpackSpock> Then again they ARE social scientists
+[12:22.21] <_kmh_> for all of you
+[12:22.28] <SpicSpackSpock> and social scientists are terrible mathematicians by trade
+[12:22.31] <SpicSpackSpock> lol
+[12:22.37] <_kmh_> ad all that mathematics of pleasure talk
+[12:22.45] <b0g> i see that x in the TEDx and i tune out real fast
+[12:23.08] <SpicSpackSpock> _kmh_ don't show it to me unless it has a concrete system that can be proven
+[12:23.31] <SpicSpackSpock> I'm through with zoning through half-assy discussions by guys who think they're right because they use fancy wording
+[12:23.35] <_kmh_> SpicSpackSpock,  whatever that means
+[12:23.40] <SpicSpackSpock> I really hate social scientists
+[12:23.47] <SpicSpackSpock> they're all sophists
+[12:24.01] <_kmh_> in any case their are talks by mathematicians nd not sociologists
+[12:24.16] <SpicSpackSpock> k, I'll click
+[12:24.22] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[12:24.28] <SpurSearcher> sexualists make poor neuroscientists for the same reason that paranoid schizophrenics make poor generals
+[12:24.29] * duncannz (~duncannz@121-74-220-38.telstraclear.net) has joined channel ##math
+[12:24.32] <_kmh_> SpicSpackSpock, lol as if it gets any more sophistic than math :)
+[12:25.02] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##math
+[12:25.09] <SpicSpackSpock> but yeah, social scientists are like lawyers and any other liberal arts majors, they create fancy phrases to disguise the fact that they're using faulty logic, deceptive schemes and blanket assumptions to prove their points
+[12:25.20] <SpicSpackSpock> That's essentially how you write proofs in psychology and law anyway :P
+[12:25.23] <_kmh_> pure math is the king of sophistry of you will
+[12:25.27] <SpicSpackSpock> >proofs
+[12:26.07] <SpicSpackSpock> _kmh_ how? You can actually show anything that's accepted to be true, pure or applied, its still math
+[12:26.11] <SL0P3> wat is an proof
+[12:26.15] <SL0P3> how I proof that im tall?
+[12:26.22] <SL0P3> where am I?
+[12:26.28] <SL0P3> is this iceland?
+[12:26.35] <_kmh_> SpicSpackSpock, try Tom Lehrer then (on sociology): ＋＋https://www.youtube.com/watch?v=mB97Qe2D4V0，，
+[12:27.06] <_kmh_> SpicSpackSpock,  sorry - how what?
+[12:27.11] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) has joined channel ##math
+[12:27.39] * Kn|t3 (~Kn|t3@106.51.243.136) Quit (Ping timeout: 250 seconds)
+[12:27.56] * brett1479 (~brett1479@pool-173-56-121-99.nycmny.fios.verizon.net) Quit ()
+[12:28.37] <SpicSpackSpock> how is pure math sophistic? You can follow any decent proof and show that its true, it isn't based on trying to pressure the audience that you clearly know what you're talking about and they should just blindly listen
+[12:28.56] * orthoplex64 (~orthoplex@unaffiliated/orthoplex64) Quit (Ping timeout: 272 seconds)
+[12:29.10] <SpicSpackSpock> I can't even read a psych textbook without throwing it against the wall
+[12:29.13] <SpicSpackSpock> seriously
+[12:29.14] <SpicSpackSpock> lol
+[12:29.22] <_kmh_> SpicSpackSpock,  what is more sophistic than a proof?
+[12:29.39] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) has joined channel ##math
+[12:29.40] <SpicSpackSpock> sophism is deceptive logic, which sounds right but is baseless lol
+[12:29.56] * Mmango (~user@108-217-142-114.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[12:29.56] <SpicSpackSpock> unless you're arguing against objective truth and you don't believe in axioms
+[12:30.04] <SpicSpackSpock> which would make me ask why the hell you're in #math
+[12:30.08] <SpicSpackSpock> lol
+[12:30.34] <_kmh_> SpicSpackSpock, pure math as such is "made up" (at least you can argue that) and may have zero meaning in the real world (though oddly enough it nevertheless in most cases does)
+[12:31.10] <SpurSearcher> I don't know why I am here
+[12:31.26] <_kmh_> not to mentrion there are plenty jokes treating mathematicians and lawyers alike
+[12:31.28] <SL0P3> spock
+[12:31.36] <SpicSpackSpock> wat
+[12:31.39] <SL0P3> the reason people think math is "hard" is because people use symbols
+[12:31.42] <SL0P3> and symbols = genius
+[12:32.00] <SpicSpackSpock> Yeah, I guess that's sophism, but not to a trained mathematician lol
+[12:32.08] <SpicSpackSpock> more symbols = more rigor
+[12:32.30] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) Quit (Quit: I liked it when I was here, as well as when I'm not!)
+[12:32.36] <_kmh_> well yes math is unfortunately often used for pretension and make something look "scientific"
+[12:32.43] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[12:33.09] * calmdown (60f4fd4f@gateway/web/freenode/ip.96.244.253.79) Quit (Quit: Page closed)
+[12:33.12] <SpicSpackSpock> I keep a whiteboard in my room where I write down integral identities so when my mom comes in my room she thinks I'm studying
+[12:33.17] <_kmh_> SpicSpackSpock,  i don't see why that is any different for trained mathematician
+[12:33.25] <SpicSpackSpock> lol, keeps her from giving me chores
+[12:33.31] <_kmh_> SpicSpackSpock,  haha
+[12:33.53] <_kmh_> SpicSpackSpock, sounds like a sheldon cooper approach
+[12:34.22] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##math
+[12:34.23] <SpicSpackSpock> AFAIK trained mathematicians aren't impressed by more words and symbols for a proof
+[12:34.38] <_kmh_> chessmaster used to have a "if the boss wanders by" menu item
+[12:34.45] <SpicSpackSpock> in fact, I kept losing points in my intro to advanced class because my proofs were "too long"
+[12:34.50] <SpicSpackSpock> and "not elegant"
+[12:34.56] <_kmh_> if you select that the chessboard ges replaced by a spreadsheet
+[12:35.06] <SpicSpackSpock> though my mother saw my tests and asked me how the hell I even managed in the class
+[12:35.10] <SpicSpackSpock> lol
+[12:35.28] <_kmh_> trained mathematician have rather different attitudes
+[12:35.29] <SpicSpackSpock> lol _kmh_
+[12:35.45] <_kmh_> some are all symbols others are rather wordy
+[12:35.51] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) Quit (Quit: Leaving)
+[12:35.57] * tarkus (~hello@109.230.140.12) has joined channel ##math
+[12:35.57] --tarkus-- logged in with account (tarkus)
+[12:36.21] <illustion> if I have the following inequalities
+[12:36.22] * astropirate (~astropira@unaffiliated/astropirate) Quit (Quit: This computer has gone to sleep)
+[12:36.29] <SpicSpackSpock> my prof said if we could prove it in as few words as possible we'd get full credit
+[12:36.43] <illustion> |x - m| <= 1/2 and |y - n| <= 1/2
+[12:36.45] <_kmh_> personally I don't likethe Hilbert view seeing math as symbol manipulation only
+[12:37.17] <illustion> then for |(x - m)^2 - 2(y - n)^2| <= 1/4 + 1/2 by triangle inequality right?
+[12:37.18] * shikhin_ (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[12:37.21] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[12:37.23] <illustion> did I make any mistake here?
+[12:37.27] <SpicSpackSpock> so can someone answer my question about the hedonistic calculus?
+[12:37.48] <_kmh_> SpicSpackSpock,  yes but elegance is not defined by shorness as such, but shortness combined with clarity and acessibility
+[12:40.33] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) Quit (Quit: Leaving)
+[12:40.35] <SpicSpackSpock> illustion: why do you have a minus between the terms of the LHS of your second inequality
+[12:40.45] <SpicSpackSpock> and a plus on the RHS
+[12:40.54] * Cybergirl (~ma@ip-37-201-223-242.hsi13.unitymediagroup.de) has joined channel ##math
+[12:41.20] <SpurSearcher> can I still do math?
+[12:41.40] <SL0P3> No
+[12:41.41] <SL0P3> what is math
+[12:41.49] <SpicSpackSpock> no SpurSearcher: you can't math
+[12:42.10] <SpicSpackSpock> consider interpretive dance
+[12:42.34] <SpurSearcher> I don't think I can do math if I know I'm doing it
+[12:42.36] <SpicSpackSpock> _kmh_ elegance is in the eye of the one handing back grades >.>
+[12:42.54] <illustion> SpicSpackSpock
+[12:43.01] <Barrin6> I’m doing an improper integral for x/(1+x^2) from negative infinity to positive infinity. I end up getting positive infinity + negative infinity. My work here ＋＋http://i.snag.gy/aWV6K.jpg，， Books shows that they only evaulated negative infinity to zero, but why?
+[12:43.01] <SL0P3> spock, can you teach me to dance
+[12:43.05] <SL0P3> NO
+[12:43.09] <SL0P3> barrin, you're not.
+[12:43.15] <illustion> why ?
+[12:43.19] <Barrin6> what
+[12:43.35] <illustion> |(-2) ( x - m)| <= |-2|* 1/2
+[12:43.41] <illustion> = 2 * 1/2 = 1
+[12:43.49] <illustion> spicSpackSpock
+[12:43.58] <SpicSpackSpock> illustion: that inequality would be true if you had pluses on both sides of the inequality.
+[12:44.09] <SpicSpackSpock> the original I mean
+[12:44.17] <_kmh_> SpicSpackSpock, I guess so at least for exams
+[12:44.18] <SpurSearcher> I don't think I can do math if I know I'm doing math
+[12:44.41] <illustion> yeh
+[12:44.54] <illustion> its just related in the question I have in my proof
+[12:44.56] <SpicSpackSpock> SpurSearcher: oh, then you just wear a blindfold and convince yourself that you aren't doing it
+[12:46.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##math
+[12:46.25] <SpurSearcher> that won't work
+[12:46.30] * main (~main@bde127.neoplus.adsl.tpnet.pl) has joined channel ##math
+[12:47.29] <SpicSpackSpock> and the inequality |x+y| <= |x| + |y| applies to vectors
+[12:47.34] <SpicSpackSpock> which is what I think you're using
+[12:47.49] * xff0x (~xff0x@178.124.178.111) Quit (Ping timeout: 252 seconds)
+[12:47.51] <SpicSpackSpock> (the inequality I mean)
+[12:47.56] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) has joined channel ##math
+[12:48.22] * Erraunt (~main@aty139.neoplus.adsl.tpnet.pl) Quit (Ping timeout: 246 seconds)
+[12:48.27] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) has joined channel ##math
+[12:48.42] <SpicSpackSpock> illustion: you're going to have to give us more information
+[12:49.18] <illustion> ok
+[12:49.36] <illustion> So I am trying to prove that Z[sqrt(2)] is a euclidean domain
+[12:49.49] <illustion> so in order to prove it I must show that euclidean algorithm hold.
+[12:50.16] * grill (~W@unaffiliated/floatingpoint) Quit (Ping timeout: 245 seconds)
+[12:51.08] <SL0P3> euclidean algorithm doesnt work
+[12:51.09] <SL0P3> only works for eleven
+[12:51.41] <SpicSpackSpock> ^
+[12:51.50] <SpicSpackSpock> this guy knows what the hell is going on
+[12:51.58] <SpicSpackSpock> listen to him apparently
+[12:52.07] <SL0P3> I'd listen to me.
+[12:52.08] <SL0P3> Not gonna lie.
+[12:52.09] <SpicSpackSpock> he has a degree
+[12:52.29] <SpicSpackSpock> you can't listen to yourself
+[12:52.35] <Cybergirl> A^(B/C) = (A/B)^(A/C) right?
+[12:52.42] <SpicSpackSpock> you don't exist!
+[12:52.55] <SL0P3> 11 = 2*5 +1
+[12:52.55] <SL0P3> am i
+[12:52.56] <SL0P3> math
+[12:53.09] <SpicSpackSpock> Cybergirl: wut
+[12:53.38] <SpicSpackSpock> wow who are these people tonight
+[12:53.41] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[12:54.14] <SpurSearcher> so if I'm finding the filter coefficients for a bandpass filter...
+[12:54.26] <SpurSearcher> basically, you can define any filter by its filter coefficients?
+[12:54.42] <SpurSearcher> could you take source code for a bandpass filter and turn it into a lowpass filter by tweaking the filter coefficients?
+[12:54.53] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) Quit (Remote host closed the connection)
+[12:55.06] <SpicSpackSpock> duno
+[12:55.19] * p1 (~irssi@199.115.119.130) has joined channel ##math
+[12:55.31] * PinealGlandOptic (~PinealGla@82.144.205.57) Quit (Quit: leaving)
+[12:55.36] <SpicSpackSpock> these are some pretty colorful questions tonight
+[12:55.41] <SpicSpackSpock> I'll say
+[12:57.42] --Haxxa-- logged in with account (Haxxa)
+[12:58.04] * balance (~balance@55.155.62.188.dynamic.wline.res.cust.swisscom.ch) Quit (Ping timeout: 272 seconds)
+[12:58.23] --fergus-- logged in with account (fergus)
+[12:59.40] * Bullshitter (46187140@gateway/web/cgi-irc/kiwiirc.com/ip.70.24.113.64) has joined channel ##math
+[12:59.45] <illustion> _cads
+[12:59.47] <illustion> cads
+[01:00.52] <SpicSpackSpock> so yeah
+[01:01.00] <SpicSpackSpock> BACK TO MY HEDONISTIC CALCULUS QUESTION
+[01:01.14] <SpicSpackSpock> can someone point me to a decent attempt to quantify pleasure?
+[01:01.50] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[01:01.58] <SpicSpackSpock> something that isn't a series of statistical formulas to predict marital coherence in a TEDx talk? (Nice vid btw _kmh_)
+[01:02.28] * Bullshitter (46187140@gateway/web/cgi-irc/kiwiirc.com/ip.70.24.113.64) Quit (Client Quit)
+[01:03.37] * Kaynato (~Samsara@cpe-173-88-227-134.neo.res.rr.com) Quit (Ping timeout: 250 seconds)
+[01:04.30] * Kn|t3 (~Kn|t3@106.51.243.136) has joined channel ##math
+[01:06.29] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[01:07.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##math
+[01:08.23] * Verttone (~Verttone@188.235.1.7) Quit (Read error: Connection reset by peer)
+[01:09.29] * Verttone (~Verttone@188.235.1.7) has joined channel ##math
+[01:09.30] --Verttone-- logged in with account (Verttone)
+[01:09.42] * millerti (~millerti@cpe-67-252-68-24.stny.res.rr.com) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:10.33] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[01:11.22] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Leaving)
+[01:11.32] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) Quit ()
+[01:11.54] * apt-get_install (~sweden@unaffiliated/apt-get-install/x-3173917) has joined channel ##math
+[01:14.11] * balance (~balance@194.230.155.168) has joined channel ##math
+[01:14.23] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 245 seconds)
+[01:14.46] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[01:14.47] * duncannz (~duncannz@121-74-220-38.telstraclear.net) Quit (Ping timeout: 264 seconds)
+[01:15.12] * zwisch (~zwisch@76-10-142-14.dsl.teksavvy.com) has joined channel ##math
+[01:15.58] * mariano|syzygy (~mariano@host48.190-229-125.telecom.net.ar) has joined channel ##math
+[01:16.13] --wisey-- logged in with account (wisey)
+[01:16.19] * Tutator (~The@29.103.70.115.static.exetel.com.au) has joined channel ##math
+[01:16.19] --Tutator-- logged in with account (Tutator)
+[01:17.46] --ParmesanCaesar-- logged in with account (ParmesanCaesar)
+[01:18.23] * Freshrr (42bc472a@gateway/web/freenode/ip.66.188.71.42) Quit (Quit: Page closed)
+[01:18.39] <SL0P3> dude
+[01:18.43] * tcmitchell (~rastazi@75-13-80-49.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[01:18.43] <SL0P3> how do I add?
+[01:18.48] <SL0P3> I'm taking algebra one and teacher told me to
+[01:18.49] <SL0P3> how?
+[01:19.03] <monoprotic> subtract the negation of the number
+[01:19.10] <SL0P3> I cant subtract tho?
+[01:19.19] * __rob (~rob@5.80.65.245) Quit (Remote host closed the connection)
+[01:19.21] <monoprotic> subtraction is just reverse adding
+[01:19.25] <SL0P3> Oh
+[01:19.27] <SL0P3> that makes sense.
+[01:19.29] <SL0P3> Thanks for the help.
+[01:19.33] <monoprotic> np
+[01:19.35] * __rob (~rob@5.80.65.245) has joined channel ##math
+[01:19.37] <SL0P3> 10/10
+[01:19.41] <SL0P3> best channel around.
+[01:20.36] <SpicSpackSpock> I can't wait for Pi day
+[01:20.52] <SpicSpackSpock> I bought a t-shirt from xkcd and I'll wear it to the math department
+[01:21.03] <SpicSpackSpock> I'll look like the geekiest guy ever
+[01:21.15] <SL0P3> ...
+[01:21.19] <monoprotic> you and 5 other guys wearing the same shirt
+[01:21.21] <SpicSpackSpock> walk the walk in addition to talking the talk
+[01:21.22] <SL0P3> ^
+[01:21.28] <SL0P3> Way to make mathematicians look like retards.
+[01:21.41] <SL0P3> That's the equivelent of a humanities person wearing a starry night t shirt.
+[01:21.44] <SpicSpackSpock> hey xkcd is legitimate
+[01:21.53] <SL0P3> so is starry night.
+[01:21.55] <darwin> ok, but did you skip phi day and e day?
+[01:22.04] <SL0P3> and monday
+[01:22.09] <SpicSpackSpock> there aren't enough days in feb for e day
+[01:22.22] <darwin> well, you could use 2.7, right?
+[01:22.25] <SL0P3> why are all of you faggots named spock and darwin and shit
+[01:22.26] <SpicSpackSpock> and phi day is only celebrated in italy
+[01:22.40] --Cybergirl-- logged in with account (Cybergirl)
+[01:22.41] <darwin> I am Darwin, Elven-king under the sky
+[01:22.48] <SL0P3> I am bill
+[01:22.55] <SL0P3> short engineer under sky
+[01:23.04] <SpicSpackSpock> I'm a hispanic version of spock
+[01:23.09] <SL0P3> wow
+[01:23.10] <SL0P3> beaners
+[01:23.14] * _1k5 (~mdl@gtng-4d08d4a2.pool.mediaWays.net) has joined channel ##math
+[01:23.56] <SpicSpackSpock> pi day is the only day to show how much you love math
+[01:23.57] --aschmack-- logged in with account (aschmack)
+[01:24.12] * xff0x (~xff0x@86.57.158.78) has joined channel ##math
+[01:24.12] --xff0x-- logged in with account (xff0x)
+[01:24.20] <b2coutts> what about all the other days?
+[01:24.26] <SpicSpackSpock> plus, free pizza
+[01:24.38] <SpicSpackSpock> b2coults: PI day is special
+[01:25.00] <SpicSpackSpock> it stands out in comparison to the rest of the days
+[01:25.10] <b2coutts> not really
+[01:25.22] <SpicSpackSpock> it's the day when true mathematicians emerge from their bedrooms
+[01:25.33] <SpicSpackSpock> and pseudo-intellectuals claim to be real mathematicians
+[01:25.44] <SpicSpackSpock> and we spend the entire day ousting the pseudo-intellectuals
+[01:25.49] <Tutator> lol
+[01:25.56] <SpicSpackSpock> this is why we nickname it pseudo-intellectual day
+[01:25.57] <b2coutts> I mean, there's free pie, but I don't feel like the day has much of anything to do with math
+[01:26.09] * Guest92852 (~agarwalvi@2401:fa00:a:0:f06f:8cf5:8d6a:5957) Quit (Ping timeout: 250 seconds)
+[01:26.10] <SpicSpackSpock> the people who try the hardest to look cool on PI day are usually idiots
+[01:26.14] <SpicSpackSpock> the rest of us are just being ironic
+[01:26.17] <raskol> uhhhhh
+[01:26.19] <b2coutts> it's really just a pun, just the same as if we celebrated jan 3, 2037 for being 1/3/37
+[01:26.31] <indicator> SpicSpackSpock, hahaha
+[01:26.32] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit ()
+[01:26.44] <b2coutts> SpicSpackSpock: you seem to have the notion that pi day is a really big deal :P
+[01:27.06] <SpicSpackSpock> its a great day to make fun of most people's shallow interest in math
+[01:27.09] <indicator> I once brought in a bunch of cheese cake to the office for eulers birthday
+[01:27.18] <indicator> no one understood the graph I made :-(
+[01:27.18] <SpicSpackSpock> full of people from various majors at my school reciting pi to "x digits"
+[01:27.25] <indicator> In fact, no one knew who euler was
+[01:27.27] <SpicSpackSpock> and thinking that this makes them math wizards
+[01:27.44] <b2coutts> yeah, I'd rather just do math than try to rub it in peoples' noses
+[01:27.49] * Kn|t3 (~Kn|t3@106.51.243.136) Quit (Read error: Connection reset by peer)
+[01:28.00] <indicator> Ego is cool though, so..
+[01:28.01] <indicator> you know
+[01:28.12] <SpicSpackSpock> the best mathematicians usually don't have egos
+[01:28.20] <indicator> Not everyone can be the best
+[01:28.21] <SpicSpackSpock> but of course they wouldn't care about that
+[01:28.54] <b2coutts> if people are being egotistical, I'd rather it at least be founded in something worth being proud of
+[01:28.55] <Mmango> How do I solve a matrix with constants c? For example:  R1: 2  -1  5 = 0  R2: 0  c -2 = 0  R3: 1  2  0 = 0. It's in a chapter about Cramer's rule, but how would I use that if the answer matrix is all 0's? It says to find all nontrivial solutions. Should I use Gauss-Jordan?
+[01:28.59] <SpicSpackSpock> indicator: jesus fuck did you model the totient function with cheesecake?
+[01:29.09] <SpicSpackSpock> you must have been up all night slicing away at it
+[01:29.26] <SpicSpackSpock> pics?
+[01:29.30] <indicator> SpicSpackSpock, na, but the cake was tasty.. I took about an hour to decorate all 8
+[01:29.43] <indicator> meh, somewhere, somewhere..
+[01:29.51] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[01:30.33] <SpicSpackSpock> Mmango: row reduce it with Gauss-Jordan, then you'll have to define the solution as everything that CAN'T work
+[01:30.43] <SpicSpackSpock> ie, what c can't be
+[01:31.25] <Mmango> SpicSpackSpock: is it OK to zero out the constants in some cases?
+[01:31.35] <Mmango> when doing gauss jordan?
+[01:31.56] <SpicSpackSpock> you're asking me what would happen if you multiplied a row vector in your matrix by 0?
+[01:32.17] <SpicSpackSpock> It wouldn't be useful to you anymore, and you'd just be showing that your matrix has a trivial solution
+[01:32.34] <SpicSpackSpock> which you don't really care about since your question is asking for all non-trivial solutions
+[01:33.06] <SpicSpackSpock> hell multiply all rows by zero, now you have 0 = 0
+[01:33.16] <SpicSpackSpock> congrats
+[01:33.17] <Mmango> I mean, when simplifying Gauss Jordan you try to get a diagonal of 1's with everything else being 0's. Does it matter if I end up eliminating constants?
+[01:33.31] <SL0P3> mmango
+[01:33.48] <SL0P3> if you can eliminate the 1's then no, it doesnt matter.
+[01:34.08] <SL0P3> multiplying by zero is,generally, bad tho.
+[01:34.21] <SpicSpackSpock> want me to just solve it for you
+[01:34.22] <SL0P3> because it could leave you in a much worse place to solve it.
+[01:34.25] <indicator> SpicSpackSpock is a lulzy character
+[01:34.25] <SL0P3> Spic!
+[01:34.27] <SpicSpackSpock> and you can tell your prof you did it
+[01:34.31] <SL0P3> Don't solve it for 'em you retard.
+[01:34.43] * Mia (~Mia@unaffiliated/mia) has joined channel ##math
+[01:34.43] <SL0P3> This isn't /r/cheatonmathhomework!
+[01:34.44] <SpicSpackSpock> it'd be faster that way
+[01:34.48] <indicator> true
+[01:34.54] <indicator> efficiency is important
+[01:34.58] <SpicSpackSpock> yep
+[01:35.07] * arubi (~ese168@unaffiliated/arubi) Quit (Ping timeout: 252 seconds)
+[01:35.13] <Mmango> I wasn't really talking about multiplying by 0s.
+[01:35.30] <SL0P3> want to solve for potato?
+[01:35.31] <SL0P3> smoke weed.
+[01:35.38] <SpicSpackSpock> maybe we should help this guy through Skype
+[01:35.38] <indicator> Never really worlds
+[01:35.54] <SL0P3> also, mmango, you do realize what trivial is?
+[01:35.55] <SL0P3> correct?
+[01:36.00] <SpicSpackSpock> Mmango: do you have a Skype account
+[01:36.01] <indicator> verbally assault him for being a nob?
+[01:36.04] <Mmango> slp3 yeah I know what trivial is
+[01:36.10] <SL0P3> then...
+[01:36.22] <SL0P3> go and do some manipulation
+[01:36.25] <SL0P3> and actually solve it.
+[01:36.40] <SpicSpackSpock> trivial really just means everything that isn't the default solution to the homogeneous system
+[01:36.43] <SpicSpackSpock> trivial, right?
+[01:37.03] <SpicSpackSpock> everything in the solution set that is
+[01:37.04] <SL0P3> trivial = 0
+[01:37.05] * ezio is now known as zz_ezio
+[01:37.10] <SL0P3> all 0's
+[01:37.16] <SpicSpackSpock> ^
+[01:37.19] <SL0P3> nontrivial = not all zeros.
+[01:37.20] <SL0P3> so yes.
+[01:37.21] <SpicSpackSpock> this guy is a math veteran
+[01:37.25] <SpicSpackSpock> listen to him
+[01:37.32] <SL0P3> I can verify
+[01:37.35] <SL0P3> am math vet
+[01:37.39] <Mmango> Here's what I'm confused about. Usually when doing GJ, I simplify to get 1's along the diagonal. What do I do with the c values?
+[01:37.41] <SL0P3> I went through math war 2.
+[01:37.49] <SL0P3> only got shot twice
+[01:37.53] <Mmango> This is in the cramers rule chapter btw
+[01:38.00] <SL0P3> noobs were using rationals tho.
+[01:38.10] <SL0P3> DO YOU
+[01:38.14] <SL0P3> NOT UNDERSTAND
+[01:38.16] <SL0P3> THE DAMN RULE?
+[01:38.31] <SL0P3> If that's the issue
+[01:38.33] <SL0P3> use this
+[01:38.33] <SL0P3> ＋＋http://www.purplemath.com/modules/cramers.htm，，
+[01:38.38] <SL0P3> if it's not... use it anyway.
+[01:38.41] <Mmango> I KNOW
+[01:38.42] <Mmango> THE
+[01:38.43] <Mmango> DAMN
+[01:38.45] <Mmango> RULE
+[01:38.45] --Cyrus-- logged in with account (Cyrus)
+[01:38.47] <SL0P3> You can literally just plug your problem in.
+[01:38.47] * Guest92852 (~agarwalvi@2401:fa00:a:0:4d8e:6c50:7a6e:be85) has joined channel ##math
+[01:38.51] <SpicSpackSpock> Mmango: if you have a C = 0, this means that if C is anything other than zero, the system is inconsistent
+[01:38.54] <SpicSpackSpock> oh this guy is funny
+[01:38.57] <SpicSpackSpock> I like him
+[01:39.50] <SpicSpackSpock> for instance, c-7 = 0, this means that in all of your nontrivial solutions, c has to be equal to 7
+[01:39.59] <SL0P3> SHUSH SPAK
+[01:40.01] <SL0P3> LET HIM
+[01:40.03] <SL0P3> USE THE DAMN
+[01:40.04] <SL0P3> RULE
+[01:40.11] <SL0P3> YOU INCONSIDERATE FUCK
+[01:40.16] <SpicSpackSpock> which means that if c is your only constant, then your matrix spans R^(m-1)
+[01:40.18] <SpicSpackSpock> lol
+[01:40.19] * apt-get_install (~sweden@unaffiliated/apt-get-install/x-3173917) Quit (Read error: Connection reset by peer)
+[01:40.20] * rudi92 (~rudi95@unaffiliated/rudi95) has joined channel ##math
+[01:40.29] <SL0P3> MAYBE HE WANTS TO LISTEN TO ME
+[01:40.32] <SL0P3> Probs not but still
+[01:40.36] <SL0P3> what if he wanted to?
+[01:40.44] <SL0P3> you just ruined my day.
+[01:40.49] <SpicSpackSpock> and why the fuck are you using cramer's rule
+[01:40.59] <SL0P3> HE SAID
+[01:41.00] <SpicSpackSpock> be a man and stop using shortcuts
+[01:41.01] * apt-get_install (~sweden@91.214.89.190) has joined channel ##math
+[01:41.01] <SL0P3> THE FUCKING CHAPTER IS ON IT
+[01:41.04] <SL0P3> YOU RETARD
+[01:41.12] <SL0P3> why the fk would he not
+[01:41.14] <SL0P3> also like
+[01:41.15] <Mmango> Yeah I don't know how this could be cramers rule though
+[01:41.19] <SL0P3> ...
+[01:41.19] <SpicSpackSpock> I don't give half of a shit if the chapter is on an epic battle for peace
+[01:41.20] <SL0P3> ＋＋http://www.purplemath.com/modules/cramers.htm，，
+[01:41.22] <Mmango> I would just get a bunch of 0 determinants
+[01:41.28] <SpicSpackSpock> he needs to learn the damn fundamentals
+[01:41.35] <SpicSpackSpock> listen kid, use GJ.
+[01:41.36] <SL0P3> No
+[01:41.45] <SL0P3> GJ is for tards.
+[01:41.46] <SpicSpackSpock> don't listen to this SL0P3 fella
+[01:41.55] <SpicSpackSpock> He's clearly out of it
+[01:42.01] * Sterile (~Alex@23.233.109.101) Quit (Read error: Connection reset by peer)
+[01:42.03] <Mmango> SLOP3 if I use cramers law I'll get 0's for all determinants though
+[01:42.04] <SL0P3> GI Joe is old
+[01:42.07] <SL0P3> yes.
+[01:42.16] <SpicSpackSpock> see, you're fucking him up man
+[01:42.21] <SpicSpackSpock> let me handle this
+[01:42.21] <SL0P3> wateva
+[01:42.21] * rudi94 (~rudi95@unaffiliated/rudi95) Quit (Ping timeout: 265 seconds)
+[01:42.26] <SL0P3> least im not telling him to buy toys.
+[01:42.28] * wgertler (~quassel@135-23-121-25.cpe.pppoe.ca) has joined channel ##math
+[01:42.35] <indicator> hahaha
+[01:42.40] * wgertler (~quassel@135-23-121-25.cpe.pppoe.ca) Quit (Remote host closed the connection)
+[01:42.41] <Mmango> OK
+[01:42.47] <Mmango> I sort of GJ simplified it
+[01:42.51] <SL0P3> Really tho
+[01:42.54] <SpicSpackSpock> yeah, go on
+[01:42.57] <SL0P3> make into row echelon
+[01:42.59] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 264 seconds)
+[01:43.09] * samsama_ (~samsama@host-78-148-48-36.as13285.net) has joined channel ##math
+[01:43.31] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##math
+[01:43.45] <Mmango> I got to R1: 1 2c 0 = 0  R2: 0 c  -2 = 0  R3: 0  (-4c-1)  5  = 0
+[01:43.53] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[01:43.53] <Mmango> Is that really wrong??
+[01:43.59] <SL0P3> yes.
+[01:44.06] <indicator> yes and here's why;
+[01:44.16] <DarkBloodWolf> yes
+[01:44.26] * jbud (~jbud@S0106001195562db6.gv.shawcable.net) Quit (Quit: leaving)
+[01:44.40] <DarkBloodWolf> it's like say;
+[01:44.44] <DarkBloodWolf> saying *
+[01:44.45] * mariano|syzygy (~mariano@host48.190-229-125.telecom.net.ar) has left ##math (("Leaving"))
+[01:45.13] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) Quit (Ping timeout: 245 seconds)
+[01:45.14] <DarkBloodWolf> 12*5-24+5*0=0
+[01:45.23] <DarkBloodWolf> but it doesn't
+[01:45.38] * n3t (~n3t@unaffiliated/n3t) Quit (Ping timeout: 245 seconds)
+[01:45.45] * samsama (~samsama@host-78-148-48-36.as13285.net) Quit (Ping timeout: 244 seconds)
+[01:45.55] --TarkusDillo-- logged in with account (TXRoadkill)
+[01:45.59] <Mmango> Wait DarkBloodWolf do you know what my original matrix is?
+[01:46.03] * funnel (~funnel@unaffiliated/espiral) Quit (Ping timeout: 245 seconds)
+[01:46.32] <SL0P3> your original matrix
+[01:46.34] <SL0P3> was [12]
+[01:46.36] <SL0P3> right?
+[01:47.03] * n3t (~n3t@unaffiliated/n3t) has joined channel ##math
+[01:47.22] * funnel (~funnel@unaffiliated/espiral) has joined channel ##math
+[01:47.24] <Mmango> What?
+[01:47.30] --Rochvellon-- logged out of account
+[01:47.59] <DarkBloodWolf> Mmango, how many decimals does the answer have to be?
+[01:48.12] <Mmango> It was R1: 2 -1 5 = 0  R2:  0  c  -2 = 0  R3: 1  2c 0 = 0
+[01:48.18] <DarkBloodWolf> <DarkBloodWolf> Mmango, how many decimals does the answer have to be?
+[01:48.27] <SL0P3> mango
+[01:48.28] --DrHouse|DellM650-- logged in with account (DrHouse|Yuno)
+[01:48.33] <SL0P3> do you know what a determinant is?
+[01:48.35] <DarkBloodWolf> SL0P3, Mmango
+[01:48.40] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) has joined channel ##math
+[01:48.41] <Mmango> -_- yessss
+[01:48.43] * KornKage (~KornKageQ@bl9-184-41.dsl.telepac.pt) has joined channel ##math
+[01:48.43] --KornKage-- logged in with account (KornKage)
+[01:48.45] <SpicSpackSpock> Fuck you guys are sending him down the wrong path
+[01:48.49] <SL0P3> spock
+[01:48.50] <SL0P3> stfu
+[01:48.54] <SpicSpackSpock> I think we need to use Graham-Shmidt
+[01:48.54] <SL0P3> you're a poli sci major
+[01:48.56] <Mmango> PRAISE THE LORD SPIC IS BACK
+[01:48.57] <SL0P3> STEM IS THE ONLY REAL MAJOR
+[01:48.59] <SL0P3> YOU RETURD
+[01:49.05] <SL0P3> LITERALLY A SPIC
+[01:49.10] <Mmango> I am so confused haha
+[01:49.15] <SpicSpackSpock> ^
+[01:49.19] <Mmango> How many decimals what??
+[01:49.21] <SpicSpackSpock> bravo SL0P3
+[01:49.29] <SL0P3> thanks spic
+[01:49.30] <SpicSpackSpock> you've outdone yourself this time m8
+[01:49.33] <SL0P3> I told him to use cramers
+[01:49.35] <DarkBloodWolf> Mmango, does the answer have to be?
+[01:49.38] <DarkBloodWolf> like this?
+[01:49.39] <DarkBloodWolf> 1.000  2.000  0.000  0.000  2.000  0.000 -2.000  0.000  3.000  0.000  0.000  5.000  0.000
+[01:50.37] <Mmango> DarkBloodWolf are you talking about linear algebra or something else?
+[01:50.41] * pretodor (~pretodor@113.162.115.33) Quit (Quit: Ex-Chat)
+[01:51.02] <DarkBloodWolf> Mmango, I'm talking about Matirix
+[01:51.05] <Mmango> SpicSpackSpock, I'm going to do some work in a mathbin and give you the link in a sec
+[01:51.12] <Mmango> It's a lot easier that way
+[01:51.19] <b2coutts> Mmango: what are you trying to do?
+[01:51.36] <Mmango> I'm trying to find all values of c for which the system has a nontrivial solution
+[01:51.36] * codesoup (~codesoup@CPE68b6fcf580d3-CM68b6fcf580d0.cpe.net.cable.rogers.com) Quit (Ping timeout: 256 seconds)
+[01:51.59] <DarkBloodWolf> Mmango, there is more than one Values of c
+[01:52.22] <SpicSpackSpock> alright
+[01:52.29] <SpicSpackSpock> wow, he's using LaTeX now
+[01:52.32] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) Quit (Remote host closed the connection)
+[01:52.35] <indicator> like a man
+[01:52.40] <SpicSpackSpock> this is a whole new ballgame
+[01:52.50] <indicator> keep your dick in your pants, please
+[01:52.54] <DarkBloodWolf> SpicSpackSpock, you me 'he' as in me?
+[01:53.10] * balance (~balance@194.230.155.168) Quit (Ping timeout: 272 seconds)
+[01:53.12] <b2coutts> Mmango: you mean, the system Mx=0?
+[01:53.25] <b2coutts> (where M is the matrix you described, x is the unknown vector)
+[01:53.31] <SpicSpackSpock> He's trying to find ALL nontrivial solutions for a constant parameter b2couts
+[01:53.38] <b2coutts> yeah, but to which system?
+[01:53.50] <SpicSpackSpock> and this really means that everyone in the chatroom is taking turns giving him bad advice
+[01:54.00] <SpicSpackSpock> I mean he's just finding the damn null space
+[01:54.01] * profess_ (~profess__@unaffiliated/csddesk) Quit (Ping timeout: 244 seconds)
+[01:54.03] <SpicSpackSpock> how hard is that
+[01:54.16] <DarkBloodWolf> witch one of these?
+[01:54.16] <SpicSpackSpock> why the hell do you even need cramers rule for that
+[01:54.18] <DarkBloodWolf> Matrix Transpose	 Matrix Inverse	 Cholesky Decomposition	Matrix Addition / Subtraction
+[01:54.18] <DarkBloodWolf>  Determinant calculation	 Moore-Penrose Inverse	 QR Decomposition	Matrix Multiplication
+[01:54.18] <DarkBloodWolf>  Matrix Trace	 LU Decomposition	 Singular Value Decomposition	Systems of Linear Equations
+[01:54.18] <DarkBloodWolf>  Matrix Rank	 LQ Decomposition	 Eigenvalues/eigenvectors
+[01:54.25] <SpicSpackSpock> LOL QR DECOMP
+[01:54.26] <SpicSpackSpock> LOL
+[01:54.27] <SpicSpackSpock> LOL
+[01:54.34] * f03lipe (~f03lipe@189.122.208.96) Quit (Ping timeout: 246 seconds)
+[01:54.42] <SpicSpackSpock> YEAH, USE EIGENVECTORS TO SOLVE THIS PROBLEM
+[01:54.43] <SpicSpackSpock> GENIUS
+[01:54.46] <SpicSpackSpock> LOL
+[01:54.52] <SpicSpackSpock> 10/10
+[01:55.05] <SpicSpackSpock> Guys
+[01:55.11] <SpicSpackSpock> He's just trying to find the damn nullspace
+[01:55.16] <SpicSpackSpock> for a constant C
+[01:55.21] <DarkBloodWolf> Eigenvectors are a special set of vectors associated with a linear system of equations (i.e., a matrix equation) that are sometimes also known as characteristic vectors, proper vectors, or latent vectors (Marcus and Minc 1988, p. 144).
+[01:55.23] <SpicSpackSpock> stop giving him shitty advice
+[01:55.38] <SpicSpackSpock> I can't even
+[01:56.02] <b2coutts> I mean, cramer's rule is a little unweildy here if only because you have to calculate determinants
+[01:56.03] <Mmango> Almost finished with the mathbin
+[01:56.07] <DarkBloodWolf> SpicSpackSpock, keep you dick in your pants, you say... butyou have yours out of your pants nearly whole time
+[01:56.13] <DarkBloodWolf> but you *
+[01:56.21] <DarkBloodWolf> the *
+[01:56.31] <b2coutts> calculating determinants for the sake of solving a linear system of equations seems silly
+[01:56.40] * nicedice (~nicedice@unaffiliated/nicedice) Quit (Ping timeout: 246 seconds)
+[01:56.41] <b2coutts> gaussian elimination would be a much saner way to do it
+[01:56.53] * buddhaphomet (~buddhapho@1-19-190-109.dsl.ovh.fr) Quit (Ping timeout: 245 seconds)
+[01:57.22] * asandweech (~thissand@unaffiliated/asandweech) Quit (Read error: Connection reset by peer)
+[01:57.24] <b2coutts> Mmango: have you learned how to solve systems of the form Ax=b?
+[01:57.28] <SL0P3> gauss whoredan
+[01:57.31] <SL0P3> is for bimbos
+[01:57.35] --Haxxa-- logged in with account (Haxxa)
+[01:59.02] <DarkBloodWolf> YEAH! THAT'S RIGHT! SpicSpackSpock
+[01:59.07] <SpicSpackSpock> b2coults: LOL
+[01:59.21] <SpicSpackSpock> this chatroom is so unmoderated
+[01:59.25] <SpicSpackSpock> I swear
+[01:59.27] <indicator> totally lol
+[01:59.41] <b2coutts> SpicSpackSpock: ?
+[01:59.50] <SL0P3> yea
+[01:59.53] <SL0P3> there's this spock guy
+[02:00.06] <SL0P3> trying to make me use GI Joe to solve my Linear Algebra problems
+[02:00.09] <SL0P3> what a crazy
+[02:00.34] <Mmango> OK I'm definitely dont doing this right. Here's the link to my work. ＋＋http://www.texpaste.com/n/hjujoo0m.，，
+[02:00.35] * duncannz (~duncannz@121-74-220-38.telstraclear.net) has joined channel ##math
+[02:00.36] <DarkBloodWolf> the guy said it was matrixs
+[02:00.39] <Mmango> You have my permission to laugh
+[02:00.39] <SpicSpackSpock> The whole damn class is GI Joe you asshat
+[02:00.48] <SL0P3> WOAH
+[02:00.51] <SL0P3> There's only one GI Joe
+[02:01.03] <SL0P3> that's 100% the dumbest thing I've seen in this chat
+[02:01.05] <Mmango> *not doing this right lol
+[02:01.05] <SL0P3> besides GI Joe
+[02:01.17] * Aniball (~Barthalom@69.6.118.196) Quit (Ping timeout: 255 seconds)
+[02:01.40] <Mmango> Btw it looks a bit cleaner in the raw source i think
+[02:01.40] <SpicSpackSpock> your page doesn't exist
+[02:01.44] <SpicSpackSpock> Try HostMath
+[02:01.48] <lieven> lol if you want moderation, cut it out all of you!
+[02:01.51] <ldunn> remove the period at the end
+[02:01.53] <ldunn> (I did the same thing)
+[02:02.13] <SpicSpackSpock> fuckin periods
+[02:02.20] <SL0P3> shut up spock
+[02:02.21] <SL0P3> you're dead
+[02:02.23] <SL0P3> literally.
+[02:02.29] <Mmango> ＋＋http://www.texpaste.com/n/hjujoo0m，，
+[02:02.35] <SpicSpackSpock> no I'm not, my shirt wasn't red
+[02:02.38] <SpicSpackSpock> I'm immortal
+[02:02.39] <ldunn> SL0P3: stop being a pointless waste of space please ;(
+[02:02.41] <Mmango> The link doesn't work?
+[02:02.46] <SL0P3> ldunn
+[02:02.50] <SL0P3> why you gotta be that way?
+[02:02.54] * tab1293 (~tom@cpe-75-82-24-68.socal.res.rr.com) has joined channel ##math
+[02:02.54] --tab1293-- logged in with account (tab1293)
+[02:03.00] <Mmango> What about this ＋＋http://www.texpaste.com/n/hjujoo0m/raw，，
+[02:03.04] <ldunn> I was born that way
+[02:03.13] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[02:03.17] <ldunn> Mmango: the link's fine, dw
+[02:03.20] <SL0P3> you're dumb then.
+[02:03.26] <SpicSpackSpock> WAIT
+[02:03.28] <SpicSpackSpock> WTF
+[02:03.34] <SpicSpackSpock> if you have c's in two rows
+[02:03.41] <SL0P3> frickin' freenode staff being rude AF
+[02:03.42] <SpicSpackSpock> in the same damn column
+[02:03.52] <SpicSpackSpock> why not just eliminate the c in one column
+[02:03.58] <SpicSpackSpock> using GJ
+[02:04.02] * fatalhalt (~fatalhalt@c-71-201-7-76.hsd1.il.comcast.net) has joined channel ##math
+[02:04.10] <SpicSpackSpock> *row
+[02:04.15] <SpicSpackSpock> shit, row, sorry
+[02:04.29] <SpicSpackSpock> you see what I mean?
+[02:04.30] <SL0P3> I was about to say...
+[02:04.36] <SpicSpackSpock> listen, let's just use Skype
+[02:04.41] <SpicSpackSpock> we can help you through Skype
+[02:04.42] <SL0P3> gonna us GJ for row exchange
+[02:04.48] <SL0P3> *column
+[02:04.52] * MoarSpaceFi (~Forgot_my@unaffiliated/skypent) Quit (Ping timeout: 244 seconds)
+[02:04.52] <SL0P3> literally #autism
+[02:04.59] * okanck (~okanck@37.72.60.9) has joined channel ##math
+[02:05.00] <SpicSpackSpock> lol column exchange
+[02:05.05] <SpicSpackSpock> nice idea
+[02:05.21] <Mmango> Hmm, I don't have one set up. Are you saying to do -2R2 +R3 as the first step?
+[02:05.29] <SpicSpackSpock> exchange the last column of all 0's with the first one
+[02:05.33] <SpicSpackSpock> instantly solved
+[02:05.39] <Mmango> OHHHHh  MMMYYYY GOGOGOGOGODDDD
+[02:05.43] <Mmango> IT DOES USE CRAMERS RULE
+[02:05.44] <SpicSpackSpock> lmfao
+[02:05.45] <Mmango> BLAH
+[02:05.46] <indicator> duh....
+[02:05.47] <SL0P3> I told you
+[02:05.47] <SL0P3> retard
+[02:05.53] <Mmango> hey your face is a retard
+[02:05.54] <SpicSpackSpock> SL0P3: you got lucky
+[02:05.55] <SL0P3> Thanks for not trusting this math genius.
+[02:05.56] <Mmango> haha
+[02:06.00] <SpicSpackSpock> you didn't even know bro
+[02:06.03] <SL0P3> He said the chapters title...
+[02:06.07] <SL0P3> was cramer's rule.
+[02:06.09] <SpicSpackSpock> you were just spouting out random shit
+[02:06.13] <SL0P3> did you really not think it was cramers rule?
+[02:06.22] <SL0P3> My random shit was right tho.
+[02:06.28] <SL0P3> woop woop
+[02:06.34] <SL0P3> #sweg
+[02:06.44] <indicator> ##fullretard
+[02:06.55] <Mmango> Wait, but wouldn't I still get 0 determinants?
+[02:06.58] <SL0P3> indicator, join #autism with me
+[02:07.04] <indicator> SL0P3, okay
+[02:07.04] <SL0P3> you use the determinants of each
+[02:07.08] <SL0P3> so no, I don't think so.
+[02:07.27] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 244 seconds)
+[02:07.37] <SL0P3> Ask spock tho, he's a math xpurt
+[02:07.41] * absk007 (~absk007@unaffiliated/absk007) has joined channel ##math
+[02:08.01] <Mmango> But every determinant equals 0 if you use cramers law
+[02:08.13] <absk007> what's the use of Taylor series?
+[02:08.23] * Xenolithic (c1bab966@gateway/web/freenode/ip.193.186.185.102) has joined channel ##math
+[02:08.50] --apoplexy_da_boss-- logged in with account (apoplexy)
+[02:09.17] <lieven> absk007: best "local" approximation
+[02:09.22] <SL0P3> ...
+[02:09.23] <SL0P3> no mango.
+[02:09.47] <absk007> lieven, please explain more.
+[02:09.51] <SL0P3> go relearn to do determinants...
+[02:09.55] * buddhaphomet (~buddhapho@255-18-190-109.dsl.ovh.fr) has joined channel ##math
+[02:10.15] <SpicSpackSpock> Mmango: wat
+[02:10.19] <SpicSpackSpock> every determinant equals 0?
+[02:10.22] <SpicSpackSpock> whoa that's cool
+[02:10.30] <SpicSpackSpock> why do we need the formula then
+[02:10.36] <SL0P3> ^
+[02:10.43] <SpicSpackSpock> that means every matrix is invertible huh
+[02:10.49] <SL0P3> I can verifiy that.
+[02:10.51] <SpicSpackSpock> so why do we need the word invertible
+[02:10.51] <SL0P3> I am literally ma th
+[02:11.03] <SpicSpackSpock> linear algebra is a waste of time
+[02:11.04] * okanck (~okanck@37.72.60.9) Quit (Ping timeout: 244 seconds)
+[02:11.12] * a3f (~a3f@2a02:810d:8a40:2e50:e057:51a6:e2e:674b) has joined channel ##math
+[02:11.15] <SpicSpackSpock> withdraw from your course and take a polsci course
+[02:11.25] <SpicSpackSpock> you'll thank yourself when elections come
+[02:11.31] <SpicSpackSpock> and you now know who to vote for
+[02:11.34] <lieven> absk007: not much more to explain
+[02:11.36] <Mmango> -_-
+[02:11.50] <absk007> lieven, what do you mean by local approximation?
+[02:12.07] <absk007> lieven, what extra does it do to a function?
+[02:12.43] <SpicSpackSpock> or wait
+[02:12.43] <DarkBloodWolf> FUCK
+[02:12.46] <SpicSpackSpock> if the determinant is 0
+[02:12.53] <DarkBloodWolf> have we answered is question?
+[02:12.56] <SpicSpackSpock> does it mean its NON invertible?
+[02:13.15] <SpicSpackSpock> shit I forget
+[02:13.30] * UidX (~UidX@unaffiliated/uidx) has joined channel ##math
+[02:13.39] <DarkBloodWolf> hi UidX
+[02:13.45] <b2coutts> SpicSpackSpock: non invertible
+[02:13.46] * notpara (~para@213.187.75.26) Quit (Ping timeout: 246 seconds)
+[02:13.48] <UidX> hi
+[02:14.03] <DarkBloodWolf> you are a op right!
+[02:14.12] * TheLoneMilkMan (Gamemaster@129.21.94.42) Quit (Quit: Leaving)
+[02:14.15] <UidX> huh? no
+[02:14.25] <Mmango> Uh guys
+[02:14.30] <Mmango> I think I might have figured it out
+[02:14.32] <DarkBloodWolf> Mmango, what>
+[02:14.33] <DarkBloodWolf> ?
+[02:14.35] <SpicSpackSpock> congrats
+[02:14.41] <Mmango> According to my notes
+[02:14.42] <DarkBloodWolf> Mmango, tell us
+[02:14.43] <SpicSpackSpock> I accept bitcoin
+[02:14.48] <SpicSpackSpock> dogecoin
+[02:14.50] <SpicSpackSpock> litecoin
+[02:14.50] <DarkBloodWolf> Mmango, tell US
+[02:14.58] <DarkBloodWolf> Mmango, TELL US!!
+[02:15.00] <Mmango> You can just take the determinant of the non answer matrix and set that equal to 0
+[02:15.06] <Mmango> JESUSCHRISTIMTELLINGYOU
+[02:15.13] <Mmango> Then solve for c
+[02:15.16] * JoyinDespair (uid32977@gateway/web/irccloud.com/x-nzjitgxatcjpqses) Quit (Quit: Connection closed for inactivity)
+[02:15.21] <DarkBloodWolf> Mmango, TELL US MY FORBBIDON CHILD!!!!
+[02:15.29] <DarkBloodWolf> Oh, you have...
+[02:15.29] * FreezingCold (~FreezingC@135.0.41.14) Quit (Read error: Connection reset by peer)
+[02:15.49] <Mmango> So I think c=-2/3???
+[02:15.53] <Mmango> Or something like that
+[02:15.54] <UidX> stupid university gave me whole bunch of assignment from my first day
+[02:16.04] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##math
+[02:16.06] <SpicSpackSpock> UidX: sorry to hear
+[02:16.18] <SpicSpackSpock> Mmango: great job champ
+[02:16.21] <lieven> how terrible that they actually expect you to do some work
+[02:16.31] * duckrabbit (~duckrabbi@128.54.182.252) Quit (Read error: Connection reset by peer)
+[02:16.50] * Segfault0x40_ (~holoirc@smtp.herzlia.com) has joined channel ##math
+[02:16.53] * SpurSearcher (~DoYouKnow@unaffiliated/doyouknow) has left ##math ()
+[02:17.35] <Mmango> I thiiink that should work.
+[02:17.48] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[02:17.48] --ZysFryar-- logged in with account (ZystemFryar)
+[02:17.48] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[02:17.48] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[02:17.54] <Mmango> Now I plug in c and solve for x1 x2 and x3
+[02:18.05] <Segfault0x40_> If 1=2, what is the mass of an orange?
+[02:18.23] * WizJin (~WizJinAFK@103.241.46.220) has joined channel ##math
+[02:18.24] <DarkBloodWolf> UidX, that is University for you... :3
+[02:18.28] --WizJin-- logged in with account (Wizjin)
+[02:18.44] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[02:18.45] <UidX> :(
+[02:18.56] <Mmango> wtf I can't stop laughing Segfault0x40. It's not even that funny lol
+[02:19.07] <SpicSpackSpock> oh god, so many asinine questions tonight
+[02:19.10] <Segfault0x40_> ;)
+[02:19.15] <SpicSpackSpock> wtf is happening here
+[02:19.15] <Mmango> ;;;;)
+[02:19.26] <Mmango> ;0 orange ;) orange
+[02:19.28] <UidX> what's asinine?
+[02:19.31] <UidX> %w asinine
+[02:19.37] <UidX> not ##English..
+[02:19.44] <Mmango> %w = orange
+[02:19.47] * scinawa (~scinawa@2-230-246-32.ip204.fastwebnet.it) Quit (Quit: Leaving)
+[02:20.22] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 264 seconds)
+[02:20.22] * ZysFryar is now known as ZystemFryar
+[02:20.25] * reaga (~Talx@cpc31-brad20-2-0-cust243.17-1.cable.virginm.net) has joined channel ##math
+[02:20.35] <reaga>  0 / 0 = 0 / 0  , is this correct?
+[02:20.36] * Adib_ (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[02:20.46] <lieven> reaga: no
+[02:20.51] <reaga> why not
+[02:21.09] <Mmango> SpicSpackSpock are you a math proff?
+[02:21.10] * uku_ (~uku@140-144-159-217.dyn.estpak.ee) has joined channel ##math
+[02:21.10] * uku (~uku@140-144-159-217.dyn.estpak.ee) has joined channel ##math
+[02:21.10] --uku-- logged in with account (uku)
+[02:21.12] <DarkBloodWolf> SpicSpackSpock, well, one you won't shut the fuck up. two, there must be a lot of Yellow people on tonight
+[02:21.20] <lieven> because division by zero is undefined
+[02:21.34] * uku (~uku@140-144-159-217.dyn.estpak.ee) Quit (Client Quit)
+[02:21.48] <lieven> take all this stuff to #not-math
+[02:21.51] * uku_ (~uku@140-144-159-217.dyn.estpak.ee) Quit (Client Quit)
+[02:22.07] <UidX> reaga: that's like saying infinity=infinity
+[02:22.08] * uku (~uku@140-144-159-217.dyn.estpak.ee) has joined channel ##math
+[02:22.30] <reaga> infinity does equal infinity
+[02:22.37] <b2coutts> it's more like saying that log(fish) = log(fish)
+[02:22.49] <SpicSpackSpock> Mmango: yeah
+[02:23.00] <SpicSpackSpock> Honorary PhD from Harvard
+[02:23.06] <DarkBloodWolf> welll..................
+[02:23.09] * buddhaphomet (~buddhapho@255-18-190-109.dsl.ovh.fr) Quit (Ping timeout: 252 seconds)
+[02:23.12] <reaga> wolfram alpha won't give me a results for (0 / 0) = (0 / 0)
+[02:23.19] <b2coutts> reaga: 0/0 doesn't mean anything. Thus, it doesn't make sense to say 0/0 = 0/0
+[02:23.28] <UidX> infinity = infinity is also nonsense, what even is the exact value of infinity
+[02:23.30] <reaga> 0/0 does mean something
+[02:23.32] <UidX> 1=1 okay, inf=inf wtf
+[02:23.44] <reaga> infinity = infinity is true though
+[02:23.49] <reaga> ＋＋http://www.wolframalpha.com/input/?i=infinity+%3D+infinity，，
+[02:23.51] --NeoGeo64-- logged in with account (NeoGeo64)
+[02:23.54] <SpicSpackSpock> infinity = infinity is true
+[02:23.54] <b2coutts> UidX: well, when dealing with extended real numbers you add -infinity, infinity to the real line
+[02:23.58] <SpicSpackSpock> those are clearly the same words
+[02:23.59] * tab1293 (~tom@cpe-75-82-24-68.socal.res.rr.com) Quit (Ping timeout: 244 seconds)
+[02:24.00] <DarkBloodWolf> Infinity, is just really a number, doesn't actually me unlimited. It is just a number that will take years, and years, and years to get it down to 0
+[02:24.03] <UidX> you shouldnt really write like that
+[02:24.05] <b2coutts> in that sense, it makes sense to say that infinity = infinity
+[02:24.12] * wierd_hippos (6cd98e72@gateway/web/freenode/ip.108.217.142.114) has joined channel ##math
+[02:24.13] * Beautiful_Hippoe (6cd98e72@gateway/web/freenode/ip.108.217.142.114) has joined channel ##math
+[02:24.16] * Hippoes_with_fru (6cd98e72@gateway/web/freenode/ip.108.217.142.114) has joined channel ##math
+[02:24.21] <b2coutts> reaga: 0/0 does not mean something
+[02:24.26] <reaga> it does mean something
+[02:24.31] <Ozera> Can anyone explain the user Gregory_Grant's comment: "It's enough to raise it to the 6th power, if none of those are one then it must be primitive" on ＋＋http://math.stackexchange.com/questions/1171460/roots-of-unity-and-primitive-roots，， ?
+[02:24.37] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[02:24.39] * wierd_hippos (6cd98e72@gateway/web/freenode/ip.108.217.142.114) Quit (Client Quit)
+[02:24.40] <SpicSpackSpock> oh please, you amateurs know nothing about Cantor's ordinal numbers
+[02:24.42] * Beautiful_Hippoe (6cd98e72@gateway/web/freenode/ip.108.217.142.114) Quit (Client Quit)
+[02:24.43] <UidX> ._. ..
+[02:24.46] * Hippoes_with_fru (6cd98e72@gateway/web/freenode/ip.108.217.142.114) Quit (Client Quit)
+[02:24.49] <SpicSpackSpock> infinity is clearly equal to aleph naught
+[02:24.58] <reaga> its result is undefined but that doesnt mean that it means nothing
+[02:25.14] <b2coutts> division is a function that takes pairs of numbers whose second element is nonzero
+[02:25.22] <Segfault0x40_> In my book infinity only need to be as big as the max size of a long long ;)
+[02:25.36] <Ozera> Segfault0x40_, ..
+[02:25.37] <SpicSpackSpock> long long is too long for datatype int
+[02:25.45] <reaga> b2coutts: so then why does 1 / 0 give an answer in wolfram alpha ＋＋http://www.wolframalpha.com/input/?i=1+%2F+0，，
+[02:25.47] <b2coutts> it doesn't make sense to ask what happens when you divide by zero, because we haven't defined its behaviour for such pairs
+[02:25.49] <SpicSpackSpock> I chuckled when my compiler threw this error
+[02:25.52] <SpicSpackSpock> lol
+[02:25.56] <Segfault0x40_> hehe
+[02:25.57] <UidX> and you get segmentation fault
+[02:26.02] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[02:26.04] <UidX> stupid bof
+[02:26.23] <lieven> reaga: in simple calculus, you don't really deal with infinity. notations using infinity are shorthand for stuff involving inequalities and qualifiers
+[02:26.47] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##math
+[02:26.50] <reaga> 1 / 0 = complex inifnity according to wolfram alpha
+[02:26.51] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:27.06] <reaga> but 0 / 0 is "indeterminate"
+[02:27.07] <Segfault0x40_> 1/0 = NaN
+[02:27.09] <b2coutts> reaga: good question. I don't consider WA to be an authority in mathematics. You can define division (in particular, division by zero) to be whatever you want
+[02:27.16] * iamninja (~iamninja@46-197-1.adsl.cyta.gr) Quit (Read error: Connection reset by peer)
+[02:27.18] * WizJin (~WizJinAFK@103.241.46.220) Quit (Quit: Leaving)
+[02:27.32] <DarkBloodWolf> <UidX> you shouldnt really write like that
+[02:27.33] <reaga> i consider it to be more of an authority than you
+[02:27.45] <SpicSpackSpock> everyone knows Stephen Wolfram is a genius
+[02:27.45] <DarkBloodWolf> what did you say to meh boy?!
+[02:27.53] * AnakinS (~AnakinS@unaffiliated/anakins) Quit (Quit: work)
+[02:27.58] <SpicSpackSpock> he's clearly smarter than all of us because he discovered Cellular Automata on his own
+[02:28.08] <b2coutts> however, in a field, a/b is defined to be a*b^{-1}
+[02:28.21] <SpicSpackSpock> Which we're all too dumb to appreciate and comprehend
+[02:28.30] <b2coutts> b^{-1} doesn't exist when b=0, and hence a/b isn't well defined for such values
+[02:28.34] * Fatal` (~admin@207-179-211-40.mtco.com) has joined channel ##math
+[02:28.38] * ChanServ sets mode +o lieven for ##math
+[02:28.39] * lieven sets mode +b *!*@gateway/web/cgi-irc/kiwiirc.com/ip.168.28.180.30 for ##math
+[02:28.41] * SpicSpackSpock was kicked by lieven(mal@unaffiliated/lieven)  - Reason (SpicSpackSpock)
+[02:28.49] * n3t (~n3t@unaffiliated/n3t) has left ##math ()
+[02:28.53] <UidX> :o ?
+[02:28.56] <UidX> why is he kicked?
+[02:28.58] <Segfault0x40_> Lol?
+[02:29.18] <Segfault0x40_> 0/0spooky5me
+[02:29.20] <b2coutts> you can instead choose to define division such that x/0 = infinity for every x
+[02:29.30] <@lieven> I've asked nicely a few times to take the entertainment to #not-math. I'm going to start asking not nicely.
+[02:30.05] <DarkBloodWolf> SpicSpackSpock diserved that
+[02:30.11] <reaga> if (0/0) is meaningless then that implies that Undefined is meaningless
+[02:30.17] <DarkBloodWolf> deserved  I
+[02:30.20] <DarkBloodWolf> deserved *
+[02:30.41] * Fatal (~admin@207-179-237-25.mtco.com) Quit (Ping timeout: 265 seconds)
+[02:30.42] <PlanckWalk> "Undefined" is an adjective.
+[02:30.58] <PlanckWalk> An expression like "0/0" is usually used as a noun.
+[02:31.08] <b2coutts> in particular, if you're working in the reimann sphere, it may be useful to define 1/0 as complex infinity
+[02:31.24] <Segfault0x40_> You could loosely interpret undefined to be meaningless
+[02:31.38] * lieven sets mode -o lieven for ##math
+[02:31.39] <b2coutts> but really, division is just an arbitrary function that we've defined; your question amounts to "what have we decided that this function does?"
+[02:31.47] <PlanckWalk> "0/0 is undefined" does not mean that there exists some object called "undefined" that is equal to the value of "0/0".
+[02:31.57] <UidX> oh this channel doesnt have a chanserv
+[02:31.58] <SL0P3> 0/0 = fish
+[02:31.58] <absk007> reaga, ＋＋https://i.imgur.com/8IAse9v.png，，
+[02:32.41] <SL0P3> Hello
+[02:32.47] * sexy_bagels (4df54623@gateway/web/freenode/ip.77.245.70.35) has joined channel ##math
+[02:32.48] <SL0P3> I think I invented a new theorem for calculus
+[02:32.51] <SL0P3> how do I publish it
+[02:32.58] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[02:33.01] * komarov (~komarov@95-55-1-197.dynamic.avangarddsl.ru) Quit (Read error: Connection reset by peer)
+[02:33.03] <sexy_bagels> mm sexy bagels
+[02:33.05] <Segfault0x40_> What is the theorum?
+[02:33.21] * uku (~uku@140-144-159-217.dyn.estpak.ee) Quit (Ping timeout: 240 seconds)
+[02:33.22] * komarov (~komarov@92-100-245-51.dynamic.avangarddsl.ru) has joined channel ##math
+[02:33.28] --komarov-- logged in with account (komarov)
+[02:33.32] <absk007> reaga, ＋＋https://i.imgur.com/AhtvweX.png，，
+[02:33.43] * Kompton (~Kompton@unaffiliated/condenado) Quit (Remote host closed the connection)
+[02:33.43] --NeoGeo64-- logged in with account (NeoGeo64)
+[02:33.44] <SL0P3> I'm not releasing till publishment
+[02:33.46] <SL0P3> sorry
+[02:33.57] <Ozera> I mean, it is clear that 5^6 \neq 1 mod 13, but by his quote it should be a primative root
+[02:34.00] <Cybergirl> dudes... math can be that easiest: sin(aplha) + cos(beta) * tan(PI) / (gamma) = delta (triangle)
+[02:34.05] <Ozera> and it isn't.
+[02:34.17] <SL0P3> ozera
+[02:34.22] <SL0P3> how do I publish my math theorem
+[02:34.49] <Cybergirl> you need to join the Science Elite Core
+[02:35.01] <Cybergirl> in the research center
+[02:35.03] <Mmango> Ohhhh its cybergirl
+[02:35.08] <Cybergirl> hi Mmango
+[02:35.12] <Mmango> Hola
+[02:35.13] <Cybergirl> :)
+[02:35.25] <SL0P3> am I jesus?
+[02:35.27] <SL0P3> ＋＋http://i.imgur.com/dmhVWWT.jpg，，
+[02:35.51] * Cirus_ (~Cirus@2601:9:80:74:e841:672:584e:7ab) Quit (Read error: Connection reset by peer)
+[02:35.54] <Cybergirl> lol
+[02:36.07] <Cybergirl> how many misstakes?
+[02:36.08] * Segfault0x40_ (~holoirc@smtp.herzlia.com) Quit (Read error: Connection reset by peer)
+[02:36.12] * ChanServ sets mode +o lieven for ##math
+[02:36.12] <Cybergirl> 200?
+[02:36.13] * lieven sets mode +b *!*@unaffiliated/sl0p3 for ##math
+[02:36.13] * Segfault0x40__ (~holoirc@smtp.herzlia.com) has joined channel ##math
+[02:36.15] * SL0P3 was kicked by lieven(mal@unaffiliated/lieven)  - Reason (SL0P3)
+[02:36.26] <Mmango> Woah
+[02:36.28] <Mmango> DRAMA
+[02:36.34] <b2coutts> lol
+[02:36.38] * `Eddie (~~deadword@62.122.139.151) has joined channel ##math
+[02:36.38] --`Eddie-- logged in with account (`Eddie)
+[02:36.38] * `Eddie (~~deadword@62.122.139.151) Quit (Changing host)
+[02:36.38] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[02:36.43] * jagob (~jacob@h145.natout.aau.dk) has joined channel ##math
+[02:36.44] * mr0everywhere (4403924b@gateway/web/freenode/ip.68.3.146.75) has joined channel ##math
+[02:36.45] * lieven sets mode +b *!*@108-217-142-114.lightspeed.milwwi.sbcglobal.net for ##math
+[02:36.46] <Segfault0x40__> Shots fired
+[02:36.46] * Mmango was kicked by lieven(mal@unaffiliated/lieven)  - Reason (Mmango)
+[02:36.47] <b2coutts> I /ignore'd SL0P3 about half an hour ago
+[02:36.49] <b2coutts> good riddance
+[02:37.00] <Cybergirl> thx lieven
+[02:37.08] <@lieven> I've had about as much performance theatre as I'm going to take this morning
+[02:37.35] <Cybergirl> quietness is great =)
+[02:37.40] * notmmango (5896853b@gateway/web/freenode/ip.88.150.133.59) has joined channel ##math
+[02:37.45] <notmmango> wtf why was I banned?
+[02:37.46] --prasio-- logged in with account (golthog)
+[02:37.47] <mr0everywhere> physics will not let me join can i ask a fairly basic physics question in here instead?
+[02:37.58] <UidX> ooh cool british english
+[02:38.04] <UidX> mr0everywhere: ? you mean ##physics?
+[02:38.26] <Cybergirl> mr0everywhere, you can ask in ##chemistry allso
+[02:38.28] <notmmango> lieven
+[02:38.42] <notmmango> why was I banned?
+[02:38.45] <b2coutts> notmmango: fwiw you were kicked, not banned
+[02:38.50] <notmmango> Why?
+[02:38.53] <b2coutts> so you can still just easily rejoin with your old nick
+[02:39.02] <UidX> lots of people have been complaining about unable to join ##physics, therefore asking their questions here
+[02:39.09] <mr0everywhere> Uidx yes
+[02:39.13] <UidX> but ##physics is open
+[02:39.15] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[02:39.16] --ystael-- logged in with account (ystael)
+[02:39.16] <UidX> so weird
+[02:39.23] <ldunn> they ban webchat or something I think
+[02:39.24] <@lieven> notmmango: keep it on-topic. #not-math for other stuff
+[02:39.45] * lieven sets mode -o lieven for ##math
+[02:39.53] <b2coutts> so... them banach spaces
+[02:39.54] <mr0everywhere> UidX heres the message i get [You've been forwarded here due to a bulk ban in ##physics on e.g. tor-sasl to combat anonymous abuse. Sorry, we are not accepting ban exceptions at this time. If you have further questions, visit ##physics-ops.]
+[02:39.54] <notmmango> Was it because I said drama?
+[02:39.58] <b2coutts> they sure are complete and stuff
+[02:39.59] * nug700 (~nug700@unaffiliated/nug700) Quit (Quit: KVIrc 4.3.1 Aria ＋＋http://www.kvirc.net/，，)
+[02:40.07] <notmmango> Or because I said hi to cybergirl?
+[02:40.10] <notmmango> I'm confused
+[02:40.15] <UidX> i tried inviting you
+[02:40.24] <Cybergirl> <Mmango> Woah
+[02:40.25] <Cybergirl> <Mmango> DRAMA
+[02:40.30] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) has joined channel ##math
+[02:40.43] <b2coutts> notmmango: probably DRAMA; I'd suggest just dropping it and talking about math or nothing
+[02:40.46] <Segfault0x40__> Seems you got an unlucky dynamic ip mr0
+[02:40.54] --Haudegen-- logged in with account (haudegen)
+[02:41.02] <notmmango> Did spick get banned?
+[02:41.03] * cornus_ammonis (~Cornus@pool-173-73-119-83.washdc.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:41.10] <mr0everywhere> UidX it says i cant join since im banned now
+[02:41.13] <Cybergirl> who do love calculating with an altair 8800? :)
+[02:41.15] <notmmango> Same here
+[02:41.46] --Mmango-- logged in with account (asdfasdffdsa)
+[02:41.53] <Segfault0x40__> mr0everywhere you probably have a dynamic ip that was previously used by a tor exit node
+[02:42.16] * Invisible (~yay@unaffiliated/invisible) has joined channel ##math
+[02:42.26] <UidX> try vpn/proxy
+[02:42.35] <notmmango> Yeah I'm totally banned
+[02:42.48] <Segfault0x40__> Or maybe an unlisted exit node ;)
+[02:42.59] * indicator is now known as unlimitedCaprico
+[02:43.11] * unlimitedCaprico is now known as zestyCappacino
+[02:43.29] <notmmango> lieven is there anyway to get unbanned?
+[02:43.32] <zestyCappacino> no
+[02:43.45] <notmmango> -_-
+[02:43.46] * Invisible (~yay@unaffiliated/invisible) has left ##math (("AndroIRC"))
+[02:43.48] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[02:43.51] <Xenolithic> petition in ##physics-ops
+[02:43.53] <notmmango> Seriously
+[02:43.57] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[02:43.58] <zestyCappacino> klined for life
+[02:44.09] <b2coutts> ##math-ops, that is
+[02:44.14] <notmmango> Guess I'll have to make a new account then
+[02:44.15] <fenris_kcf> notmmango: make another account
+[02:44.18] <notmmango> Thanks mods
+[02:44.19] <zestyCappacino> lol
+[02:44.28] * Catuse|BNC is now known as Catuse
+[02:44.29] --Catuse-- logged in with account (Catuse)
+[02:44.29] * Catuse (Catuse@gateway/shell/yourbnc/x-uqqjpcmrhxwmarrn) Quit (Changing host)
+[02:44.29] * Catuse (Catuse@trivialand/student/catuse) has joined channel ##math
+[02:44.36] <zestyCappacino> don't make another account. They'll see it as ban evasion
+[02:44.46] * belwar (7a69754e@gateway/web/freenode/ip.122.105.117.78) has joined channel ##math
+[02:44.49] * sure (~gregerge@unaffiliated/sure) has joined channel ##math
+[02:44.49] <Cybergirl> omg... I hate that kidding... can you stop please and come back on-topic?
+[02:44.51] * rindolf (~Shlomi@bzq-79-176-165-72.red.bezeqint.net) has joined channel ##math
+[02:44.59] <belwar> Can someone explain frequency modulation to me?
+[02:45.07] <belwar> Here is the formula: ＋＋http://upload.wikimedia.org/math/a/4/2/a42019642b4b73459daece5bd7d28ac8.png，，
+[02:45.09] <notmmango> So I get permenantly banned for saying "drama"?
+[02:45.12] <zestyCappacino> third order harmonic oscillators?
+[02:45.22] <Segfault0x40__> Mmango you were not banned
+[02:45.38] <zestyCappacino> "lieven has kicked Mmango from ##math (Mmango)"
+[02:45.41] <Segfault0x40__> It was only a kick i recall
+[02:45.50] <UidX> maybe followed by a +b
+[02:45.54] <zestyCappacino> nope
+[02:45.55] <lieven> the ban expires after a few hours
+[02:46.02] <notmmango> Okey dokey
+[02:46.13] <lieven> it takes more raindances with eir to make it permanently
+[02:46.53] <zestyCappacino> The sun is so kind to give provide unlimited energy to the earth without any expectation of return
+[02:47.15] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[02:47.30] * MLM (uid38638@gateway/web/irccloud.com/x-bcaojaucxvgulcuy) Quit (Quit: Connection closed for inactivity)
+[02:47.36] <Segfault0x40__> Except when it eventually expands and swallows the earth ^^
+[02:47.49] <Ozera> lieven, you ideas on what that guy was talking about?
+[02:47.50] <zestyCappacino> Earth had it coming
+[02:48.01] <Ozera> Er, the one in my question.
+[02:48.06] <lieven> energy can neither be created nor destroyed so one way of seeing it is that the sun gives us kindly low entropy energy that we use and convert into high entropy energy that we radiate away as warmth. But ##physics for that
+[02:48.22] <mr0everywhere> ok to my physics question, i have 2 weights suspended by a rope of no mass on a frictionless pully, weight 1(3 kg) is 1.5 m above the ground, weight 2(2kg) is on the ground. i have to find how fast weight 1 is moving when it hits the ground. I dont have the slightest idea where to begin with the math portion of this problem.
+[02:48.28] <UidX> why is this channel suddenly so not ##math-ish?
+[02:48.40] <Ozera> mr0everywhere, ##physics
+[02:48.43] <lieven> UidX: I have no idea
+[02:48.51] * skymaker (~skymaker@24.108.139.38) Quit (Ping timeout: 240 seconds)
+[02:49.09] <mr0everywhere> Ozera, cant join unless i install a seperate client
+[02:49.19] <Segfault0x40__> You can probably subtract the masses
+[02:49.46] <zestyCappacino> lieven, gives/provides whatever is necessary for life regardless of it's type, we ought to appreciate it lol
+[02:49.48] <lieven> hint: conservation of energy
+[02:49.55] <UidX> that is so physics, not really math
+[02:50.04] <Segfault0x40__> Then convert it to newtons and use the gravitation accel constant (~9.8m/s)
+[02:50.16] * whaletechno (~whaletech@unaffiliated/whaletechno) Quit (Quit: ha det bra)
+[02:50.22] <UidX> i can think of two solutions but everyone else said them faster than me
+[02:50.32] <zestyCappacino> I think this is more religion than logic
+[02:51.01] <zestyCappacino> Have you accepted the God as your Lord and Savior?
+[02:51.10] * ChanServ sets mode +o lieven for ##math
+[02:51.10] <UidX> wtf.
+[02:51.11] * lieven sets mode +b *!*@unaffiliated/indicator for ##math
+[02:51.13] * zestyCappacino was kicked by lieven(mal@unaffiliated/lieven)  - Reason (zestyCappacino)
+[02:52.04] * SrPx (b1cdae45@gateway/web/freenode/ip.177.205.174.69) has joined channel ##math
+[02:52.11] <Segfault0x40__> There is basically 9.8 newtons of downward force
+[02:52.39] * jerev (jerev@gateway/shell/panicbnc/x-eaoqnadaieoecpva) Quit (Ping timeout: 252 seconds)
+[02:52.42] * Segfault0x40__ (~holoirc@smtp.herzlia.com) Quit (Remote host closed the connection)
+[02:52.53] * wicope (~wicope@237.74.134.37.dynamic.jazztel.es) has joined channel ##math
+[02:52.57] <SrPx> I have a list of points... what is the easiest way to figure out the function that fits those points? I mean in a practical sense, i.e., an online tool. Not a theoretical question...
+[02:53.06] * uku (~uku@140-144-159-217.dyn.estpak.ee) has joined channel ##math
+[02:53.08] <belwar> Anyone?
+[02:53.30] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) has joined channel ##math
+[02:53.35] <@lieven> SrPx: define fit. interpolation? least squares?
+[02:53.39] <b2coutts> SrPx: well, there are lots of different functions to fit a series of points, and lots of different ways of finding such a function
+[02:53.45] <Ozera> I think i'm misunderstanding "It's enough to raise it to the 6th power, if none of those are one then it must be primitive" since that doesn't appear to be true. For 5, we have that 5^6 \neq 1 (mod 13), but 5 does not generate all elements of Z/13. Which is what we are operating in
+[02:53.49] <b2coutts> SrPx: what do you want to use this for?
+[02:53.50] <rindolf> SrPx: there are many functions that fit these points.
+[02:54.00] <SrPx> lieven: I have a list of benchmarks and I want to know the complexity of the function
+[02:54.09] * lieven sets mode -o lieven for ##math
+[02:54.11] <SrPx> a good guess, at least
+[02:54.26] * centrinia (~centrinia@107-208-218-105.lightspeed.tukrga.sbcglobal.net) has joined channel ##math
+[02:54.27] --centrinia-- logged in with account (centrinia)
+[02:54.28] <lieven> Ozera: could you give the link again. I've missed it among the noise
+[02:54.46] <SrPx> for example, [1.1, 2.1, 4.6, 7.9, 15.8] -- if those were my benchmarks, a good guess is that the complexity of my function is O(2^n)
+[02:55.03] <Ozera> lieven, sure: ＋＋http://math.stackexchange.com/q/1171460/220333，， It's in the comments.
+[02:55.27] <SrPx> (I hope this question isn't too localized for this channel)
+[02:55.59] --Haxxa-- logged in with account (Haxxa)
+[02:56.02] <sexy_bagels> ymm sexy bagels
+[02:56.02] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) Quit (Disconnected by services)
+[02:56.03] * free_beard1 (~mircea@109.103.63.82) has joined channel ##math
+[02:56.25] <sexy_bagels> yummsexy sexy bagels
+[02:56.45] <sexy_bagels> dat bagel so sexyyyy
+[02:56.48] * skymaker (~skymaker@24.108.139.38) has joined channel ##math
+[02:56.54] * ChanServ sets mode +o lieven for ##math
+[02:56.55] * lieven sets mode +b *!*@*77.245.70.35 for ##math
+[02:56.57] * sexy_bagels was kicked by lieven(mal@unaffiliated/lieven)  - Reason (sexy_bagels)
+[02:57.10] <UidX> so many lunatics today
+[02:57.11] * free_beard (~mircea@unaffiliated/free-beard/x-6152516) has joined channel ##math
+[02:57.11] <lyxia> Ozera: He means that you only need to check all powers up to 6.
+[02:57.13] <manymanywolves> oh god the more people you ban, the worse #not-math becomes
+[02:57.19] <manymanywolves> pls think of us
+[02:57.48] <notmmango> Woah!
+[02:57.51] <notmmango> DRAMA
+[02:57.51] <lyxia> Ozera: the order of g must divide 12, if it's not 12 then it's at most 12/2.
+[02:58.01] <Ozera> lyxia, oh.
+[02:58.02] <@lieven> yeah
+[02:58.13] * okanck (~okanck@37.72.60.9) has joined channel ##math
+[02:58.45] * lrs (~lars@88-83-56-124.customer.t3.se) has joined channel ##math
+[02:59.13] * berndl (~bernd@host-80-81-9-166.static.customer.m-online.net) Quit (Quit: WeeChat 1.0.1)
+[02:59.26] * sexy-lieven (253a3aee@gateway/web/freenode/ip.37.58.58.238) has joined channel ##math
+[02:59.47] * uku (~uku@140-144-159-217.dyn.estpak.ee) Quit (Ping timeout: 245 seconds)
+[02:59.54] * lieven sets mode -o lieven for ##math
+[03:00.26] <Ozera> lieven, why the condition that non of the resulting numbers not be 1?
+[03:01.15] <sexy-lieven> lievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlieven
+[03:01.30] * cj3kim_ (~cj3kim@unaffiliated/cj3kim) Quit (Ping timeout: 245 seconds)
+[03:01.35] <lrs> I have a set {1,2,3,...,90} and I pick 19 pairwise differences between (the larger minus the lesser) how do I show that out of these three differences atleast 3 are the same
+[03:01.35] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 255 seconds)
+[03:01.52] <Ozera> lrs, pigeonhole principle?
+[03:02.01] <sexy-lieven> lievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlievenlieven
+[03:02.06] <lrs> Ozera, Probably. But how?
+[03:02.11] <UidX> stop spamming
+[03:02.19] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) has joined channel ##math
+[03:02.44] <sexy-lieven> lieven
+[03:02.56] <lyxia> lrs: 1-1, 2-1, ..., 19-1, aren't they all different?
+[03:03.10] <Ozera> UidX, you can put users on ignore list. It's advised that you ignore trolls and let mods handle it.
+[03:03.12] * MulleDK19 (~MulleDK19@0120000080.0.fullrate.dk) has joined channel ##math
+[03:03.22] <UidX> oh that's great
+[03:03.27] <lrs> lyxia, Yes but out of all these differences three should be the saem
+[03:03.53] <Ozera> lrs, any pairwaise?
+[03:04.02] <Ozera> with larger minus lesser I mean.
+[03:04.08] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Quit: Leaving)
+[03:04.10] <sexy-lieven> lieven
+[03:04.10] <lyxia> lrs: I don't understand your question then. I have given a counter-example of your claim.
+[03:04.11] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##math
+[03:04.35] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 264 seconds)
+[03:04.40] * pspace (~bountyx@76.14.64.235) has joined channel ##math
+[03:04.43] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##math
+[03:04.56] * jerev (jerev@unaffiliated/jerev) has joined channel ##math
+[03:04.56] * jerev (jerev@unaffiliated/jerev) Quit (Changing host)
+[03:04.56] * jerev (jerev@gateway/shell/panicbnc/x-dsypiyghcrfdvdms) has joined channel ##math
+[03:05.03] <lieven> perhaps you can't use any number more than once
+[03:05.08] <sexy-lieven> lieven
+[03:05.17] <lrs> Ozera, It says : "From the subeset {1,2,3,...,90} you pick 19 different numbers and create pairwise differences between thesee two (always the bigger minus the smaller). Show that of these differenses atleast three are the same.
+[03:05.22] <lrs> So 8 sets
+[03:05.25] <lrs> But 19 numbers
+[03:05.46] <lyxia> That's totally different from what you first said!
+[03:05.48] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[03:05.55] <lrs> I know, I realized that now
+[03:06.01] --GnuYawk-- logged in with account (b4rbz)
+[03:06.22] <Ozera> haha
+[03:06.39] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Read error: Connection reset by peer)
+[03:06.40] * balance1 (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##math
+[03:06.53] <Ozera> lyxia, when you get back to it, could you please explain why we have the condition that the resulting numbers from checking powers up to 6 cannot be 1?
+[03:06.56] * pspace (~bountyx@76.14.64.235) Quit (Client Quit)
+[03:06.57] <sexy-lieven> a
+[03:07.44] --Trudko-- logged in with account (Trudko)
+[03:08.55] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[03:09.09] <lyxia> lrs: Count how many pairs you can make, and how many differences are possible with numbers between 1 and 90.
+[03:09.35] <lrs> lyxia, Do i use the binomial theorem for that?
+[03:09.42] --Haxxa-- logged in with account (Haxxa)
+[03:09.52] <lrs> I mean
+[03:10.29] <lyxia> Ozera: If g^r = 1 for r <= 6 then g does not have order 12 so it can't be a generator.
+[03:10.56] <lyxia> lrs: No you don't.
+[03:12.13] * belwar (7a69754e@gateway/web/freenode/ip.122.105.117.78) Quit (Quit: Page closed)
+[03:12.21] <lrs> lyxia, So not (90 choose 2) ?
+[03:12.26] * mr0everywhere (4403924b@gateway/web/freenode/ip.68.3.146.75) Quit (Ping timeout: 246 seconds)
+[03:12.55] <lyxia> No and it is not the binomial theorem either.
+[03:13.13] <Ozera> Hm, okay I thought order meant number of elements.
+[03:13.40] * njsg (~njsg@unaffiliated/njsg) has left ##math ()
+[03:14.07] <lyxia> Ozera: Speaking of a group element it is the smallest positive r such that g^r=1.
+[03:14.29] <lyxia> Ozera: Speaking of a group it is the number of elements.
+[03:14.52] <Ozera> oooohhh
+[03:14.55] <lyxia> lrs: Please don't confuse "binomial theorem" and "binomial coefficient".
+[03:15.11] <lrs> lyxia, Thats what I meant
+[03:15.21] * nbrader (~Thunderbi@host81-139-201-47.in-addr.btopenworld.com) has joined channel ##math
+[03:15.55] <sexy-lieven> .
+[03:16.37] * Tutator (~The@29.103.70.115.static.exetel.com.au) Quit (Quit: Leaving)
+[03:17.15] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 250 seconds)
+[03:17.25] * Mulder (~Mulder@unaffiliated/mulder) has joined channel ##math
+[03:17.39] <sexy-lieven> ayylmao
+[03:17.48] <lyxia> lrs: Also don't just throw numbers at me. "90 choose 2", what does that refer to?
+[03:17.48] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[03:17.48] --ZysFryar-- logged in with account (ZystemFryar)
+[03:17.48] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[03:17.48] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[03:18.10] * balance1 (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Ping timeout: 245 seconds)
+[03:18.20] <lrs> lyxia, (n choose k) = n!/(k!(n-k)!)
+[03:18.28] --Anodl-- logged in with account (Anodl)
+[03:18.56] * Isp-sec (~palach@95-28-18-117.broadband.corbina.ru) has joined channel ##math
+[03:19.08] <lyxia> lrs: I mean what are you counting?
+[03:19.22] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[03:19.28] <lrs> lyxia, How many (unique) pairs that can be created from 1-90 ?
+[03:19.50] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 245 seconds)
+[03:19.51] * ZysFryar is now known as ZystemFryar
+[03:19.56] <lrs> Or should I do the numbers?
+[03:20.10] * notmmango (5896853b@gateway/web/freenode/ip.88.150.133.59) Quit (Quit: Page closed)
+[03:20.16] * sexy-lieven (253a3aee@gateway/web/freenode/ip.37.58.58.238) Quit (Quit: Page closed)
+[03:21.07] * edon (~user@albalug/edon) has joined channel ##math
+[03:21.23] * Juslintek (~Juslintek@94.244.86.28) Quit (Ping timeout: 255 seconds)
+[03:21.30] * Juslintek (~Juslintek@94.244.86.28) has joined channel ##math
+[03:21.33] * Platyp (~Platyp@nusnet-228-5.dynip.nus.edu.sg) has joined channel ##math
+[03:21.37] --ParmesanCaesar-- logged in with account (ParmesanCaesar)
+[03:21.45] * superlinux-hp (~oracle@unaffiliated/superlinux) has joined channel ##math
+[03:22.26] <lyxia> lrs: Say we want to apply the pigeonhole principle: what would be the pigeons? what would be the holes?
+[03:22.45] <lrs> lyxia, Im not sure
+[03:22.58] <Ozera> pigeonhole principle is great. So strong.
+[03:23.19] <lrs> Stronk pidgeon.
+[03:23.29] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[03:23.35] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Read error: Connection timed out)
+[03:23.52] * LogUse (~LogUse@200-127-244-114.cab.prima.net.ar) has joined channel ##math
+[03:23.56] * oriig (~oriig@5.53.176.8) has joined channel ##math
+[03:24.17] <lyxia> lrs: You want to show that three differences are the same, hence the holes are differences, that is to say, numbers.
+[03:24.31] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##math
+[03:24.32] --LogUse-- logged in with account (LogUse)
+[03:24.38] * Nahra (~user@unaffiliated/nahra) Quit (Remote host closed the connection)
+[03:24.42] <lyxia> lrs: And the pigeons are the pairs of element in your 19-element set.
+[03:25.41] --Br41nd34d-- logged in with account (Br41nd34d)
+[03:26.29] * GodEmperorFrigo (~Frigo@catv-80-98-39-30.catv.broadband.hu) Quit (Read error: Connection reset by peer)
+[03:27.08] <lrs> lrs, Ok. So you are saying I get a pidgeonhole of 90 holes
+[03:27.20] <lrs> and then? I pick 19 random numbers?
+[03:29.30] <lyxia> lrs: You're supposed to prove that the proposition is true for any set of 19 numbers, so you shouldn't try to prove it only for one set.
+[03:29.38] * jacob___ (1fcc5a8c@gateway/web/freenode/ip.31.204.90.140) has joined channel ##math
+[03:29.49] --jacob___-- logged in with account (jacob___)
+[03:30.39] <jacob___> hi, my book on stochastic calcleous  is shit
+[03:30.45] <jacob___> very bad explenation
+[03:30.49] <jacob___> i hate bad books
+[03:30.54] <jacob___> anyone got a good one.
+[03:31.17] <lyxia> lrs: Count the number of pigeons.
+[03:31.32] --Hounddog-- logged in with account (hounddog)
+[03:31.46] <jacob___> "Introduction to stochastic calculus with applications"
+[03:32.11] * main (~main@bde127.neoplus.adsl.tpnet.pl) Quit (Ping timeout: 264 seconds)
+[03:32.56] * uku (~uku@2001:bb8:2002:3400:d9d4:805c:752e:e222) has joined channel ##math
+[03:33.35] * MrDoctor (~MrDoctor@unaffiliated/apostasy) has joined channel ##math
+[03:34.01] <lrs> lyxia, 90 pidgeons in 19 holes or?
+[03:34.05] * a3f (~a3f@2a02:810d:8a40:2e50:e057:51a6:e2e:674b) Quit (Ping timeout: 252 seconds)
+[03:35.24] <lyxia> lrs: How many unordered pairs can you make with 19 elements?
+[03:35.34] * Adib_ (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[03:35.41] <lrs> 2^19
+[03:35.41] <lrs> ?
+[03:38.33] * nbrader1 (~Thunderbi@host81-139-201-47.in-addr.btopenworld.com) has joined channel ##math
+[03:38.34] <lyxia> To make a pair you pick two elements. You can pick them in order: there are 19 choices for the first one, then 18 for the second one.
+[03:38.43] <jacob___> helloooo
+[03:38.58] * Quadrescence (~quad@unaffiliated/quadrescence) has joined channel ##math
+[03:39.24] <lyxia> jacob___: I don't have a good book on stochastic calculus.
+[03:39.25] * edon (~user@albalug/edon) Quit (Ping timeout: 256 seconds)
+[03:40.15] <lrs> lyxia, (19 choose 2) (18 choose 2) (17 choose 2 ) ?
+[03:40.17] <lyxia> lrs: But this counts ordered pairs, and two of them correspond to any unordered pair.
+[03:40.30] <lrs> And so on
+[03:40.46] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[03:40.57] * Guest12635 (no-n@that.bitch.stole-your.info) has left ##math ()
+[03:41.14] * joerisamson (~joerisams@94-225-152-16.access.telenet.be) has joined channel ##math
+[03:41.56] * unicodesnowman (~unicodesn@unaffiliated/unicodesnowman) has joined channel ##math
+[03:42.10] <lyxia> lrs: No. 19 choices followed by 18 choices gives a total of 19*18 possibilities, which I have explained should be divided by 2, so 19*18/2, that was a proof that 19 choose 2 is indeed the number of combinations of 2 elements you can make from 19.
+[03:42.12] <unicodesnowman> How can I work out the first and last 3 digits of a number like 2012^2012?
+[03:43.10] <lrs> lyxia, Isnt that the correct answer? 19 choose 2
+[03:43.26] <lrs> <lyxia> lrs: How many unordered pairs can you make with 19 elements? -> 19 choose 2
+[03:43.40] <jacob___> anyone can recommed a good book on stochastic calculeous?
+[03:44.18] <lyxia> lrs: Yes, but you said 2^19.
+[03:44.22] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 256 seconds)
+[03:44.36] <lrs> lyxia, That was because I thought I was wrong
+[03:44.39] <lrs> But right
+[03:44.49] <lyxia> lrs: I dislike combinatorics without explanation.
+[03:46.20] <Quadrescence> combronatorics
+[03:47.10] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[03:47.26] * schleppel (~quassel@141.39.226.237) has joined channel ##math
+[03:47.39] <lrs> lyxia, But isnt that unique pairs?
+[03:47.58] <lrs> As in, 1,2 and not 2,1
+[03:48.06] * neckutrek (~neckutrek@h-88-107.a163.priv.bahnhof.se) has joined channel ##math
+[03:48.17] * neckutrek (~neckutrek@h-88-107.a163.priv.bahnhof.se) Quit (Remote host closed the connection)
+[03:48.47] * absk007 (~absk007@unaffiliated/absk007) Quit (Read error: Connection reset by peer)
+[03:49.09] <lyxia> lrs: So what?
+[03:49.17] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##math
+[03:49.27] * absk007 (~absk007@unaffiliated/absk007) has joined channel ##math
+[03:49.42] <lrs> lyxia, So, unique pairs without accordance to order?
+[03:49.45] * agd (~agd@unaffiliated/agd) has joined channel ##math
+[03:49.51] --HarryMilnes-- logged in with account (HarryMilnes)
+[03:51.00] * UidX (~UidX@unaffiliated/uidx) Quit (Remote host closed the connection)
+[03:51.07] * junktext (~junktext@unaffiliated/junktext) Quit (Ping timeout: 246 seconds)
+[03:51.10] * AimHere (~bod@cpc6-sgyl33-2-0-cust77.sgyl.cable.virginm.net) Quit (Quit: Leaving)
+[03:51.21] <lyxia> lrs: Yes, that's what I have been calling "unordered pairs".
+[03:51.45] <lrs> Ok!
+[03:51.48] <lrs> Got it
+[03:52.09] <lrs> So now we know how many unordered pairs we can make from 19 numbers
+[03:52.12] --Trudko-- logged in with account (Trudko)
+[03:52.14] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Ping timeout: 272 seconds)
+[03:52.38] <lrs> Which is 171
+[03:52.47] <agd> lrs; that's right
+[03:53.53] * agd (~agd@unaffiliated/agd) Quit (Client Quit)
+[03:54.01] <lrs> So we know that of these 171 the difference when a > b and a-b atleast three have the same sum
+[03:55.47] <lyxia> You don't know it until you have proved it.
+[03:56.13] <unicodesnowman> reasking: How can I work out the first and last 3 digits of a number like 2012^2012?
+[03:56.16] * uku (~uku@2001:bb8:2002:3400:d9d4:805c:752e:e222) Quit (Ping timeout: 256 seconds)
+[03:56.20] <lrs> lyxia, Right
+[03:57.06] --ArtooDetoo-- logged in with account (ArtooDetoo)
+[03:58.06] <lyxia> unicodesnowman: You can find the last 3 digits of 2012^2012 by doing calculations modulo 1000.
+[03:59.15] <lyxia> unicodesnowman: And then use Euler's theorem.
+[03:59.35] <lrs>  lyxia Shouldnt i multiply that with 90/19?
+[04:00.07] * notpara (~para@213.187.75.26) has joined channel ##math
+[04:00.38] --L8D-- logged in with account (L8D)
+[04:01.02] <jacob___> anyone can recommed a good book on stochastic calculeous?
+[04:03.32] <lyxia> lrs: Please stop throwing numbers at me and make an effort to explain your thoughts.
+[04:04.15] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[04:04.47] <lrs>  lyxia Well, theres is 90/19 sets of 19 numbers in 90
+[04:04.48] <unicodesnowman> thank you lyxia
+[04:05.23] <lyxia> lrs: 90 choose 19, 90C19, but 90/19 is not even an integer.
+[04:05.36] <lrs> Right
+[04:05.50] <lrs> So maybe (90 choose 19)(19 choose 2) ?
+[04:05.51] <lyxia> lrs: See, that's the kind of thing that I can't guess if you don't talk more.
+[04:05.59] <lyxia> lrs: there you go again.
+[04:06.33] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) Quit (Quit: Leaving)
+[04:06.46] <lrs>  (90 choose 19)(19 choose 2) because 90 choose 19 is how many sets of 19 you can make and 19 choose 2 how many pairs of 2 you can make from 19
+[04:06.48] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##math
+[04:07.05] * darwin (d@206.63.237.146) Quit (Ping timeout: 252 seconds)
+[04:07.17] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) has joined channel ##math
+[04:07.19] --bernalex-- logged in with account (alexander__b)
+[04:07.19] * bernalex (~alexander@195.254.219.2) Quit (Changing host)
+[04:07.19] * bernalex (~alexander@gentoo/developer/fsf.member.bernalex) has joined channel ##math
+[04:08.10] * duncannz (~duncannz@121-74-220-38.telstraclear.net) Quit (Ping timeout: 245 seconds)
+[04:08.35] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 245 seconds)
+[04:08.50] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) has joined channel ##math
+[04:08.54] <lyxia> And what is the product then?
+[04:09.49] <lrs> lyxia, Alot
+[04:10.31] <lrs> 2.5 x 10^21
+[04:10.31] <lrs> :S
+[04:10.36] <lyxia> lrs: What is the product counting?
+[04:10.43] * unicodesnowman (~unicodesn@unaffiliated/unicodesnowman) has left ##math (("Leaving"))
+[04:10.47] <lyxia> Why would you want to take the product of these things?
+[04:11.06] <lrs> Im just trying to figure out
+[04:11.14] <lrs> How to do it
+[04:11.26] <lrs> "Trial and error"
+[04:11.30] <lrs> What do you suggest I do?
+[04:11.46] * snyp (~Snyp@150.129.132.221) has joined channel ##math
+[04:12.15] * Quadrescence (~quad@unaffiliated/quadrescence) Quit (Quit: This computer has gone to sleep)
+[04:13.01] * Haldrik (~haldrik@unaffiliated/haldrik) has joined channel ##math
+[04:13.24] <lyxia> lrs: Have you seen what you get by the pigeonhole principle yet?
+[04:13.34] <lrs>  No, im not sure how to do it
+[04:13.38] <lrs> Please explain my dear sir
+[04:13.46] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Read error: No route to host)
+[04:15.05] * uku (~uku@49.31.180.213.sta.estpak.ee) has joined channel ##math
+[04:15.06] --uku-- logged in with account (uku)
+[04:15.08] * apt-get_install (~sweden@91.214.89.190) Quit (Read error: Connection reset by peer)
+[04:15.10] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) has joined channel ##math
+[04:15.21] * balance (~balance@public-docking-pat-nw-mapped-0010.ethz.ch) Quit (Ping timeout: 240 seconds)
+[04:15.48] * apt-get_install (~sweden@91.214.89.190) has joined channel ##math
+[04:15.50] <lyxia> Well the point was that it doesn't work as is and it's kinda hard to explain both the principle and why it doesn't work here at the same time.
+[04:15.55] --nilg-- logged in with account (nilg)
+[04:16.59] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[04:17.01] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) Quit (Ping timeout: 265 seconds)
+[04:17.12] <lrs> lyxia, Ok. So binomialtheorem doesnt work. Got it
+[04:17.54] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) has joined channel ##math
+[04:17.55] --ZysFryar-- logged in with account (ZystemFryar)
+[04:17.55] * ZysFryar (~zysfryar@CPE78542ea227fd-CM0026f3377245.cpe.net.cable.rogers.com) Quit (Changing host)
+[04:17.55] * ZysFryar (~zysfryar@unaffiliated/zystemfryar) has joined channel ##math
+[04:17.56] <jacob___> anyone can recommed a good book on stochastic calculeous?
+[04:18.30] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##math
+[04:18.49] <lrs> lyxia, Youre saying I need only to use pidgeonhole principle to solve htis problem?
+[04:19.33] <lyxia> No, you need to think.
+[04:20.14] * ZystemFryar (~zysfryar@unaffiliated/zystemfryar) Quit (Ping timeout: 244 seconds)
+[04:20.15] * ZysFryar is now known as ZystemFryar
+[04:20.15] * uku (~uku@49.31.180.213.sta.estpak.ee) Quit (Ping timeout: 245 seconds)
+[04:20.55] <lrs> lyxia, How?
+[04:21.08] <lrs> How should i structure it?
+[04:21.11] <lrs> The way I see it now
+[04:21.31] <lrs> I first need t ocheck how many different ways i can order 19 numbers from 90
+[04:21.47] <lrs> And after that I need to check how many different ways i can order pairs from 90
+[04:22.08] --niemcu-- logged in with account (niemcu)
+[04:22.11] <lrs> And when that is done I need to take all this info and somehow come up with a formula that shows that three of the differences of all these pairs. three are the same...
+[04:25.17] --darsie-- logged in with account (darsie)
+[04:26.25] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[04:27.51] * smbullet (~eric@curl-84.dynamic2.rpi.edu) has joined channel ##math
+[04:27.58] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[04:29.00] * carlfoo (~Thunderbi@mnsr-d9bfa618.pool.mediaWays.net) has joined channel ##math
+[04:29.03] <smbullet> Anyone familiar with Fermat's Little Theorem?
+[04:29.12] * pedro3005 (~Pedro@unaffiliated/pedro3005) has joined channel ##math
+[04:30.14] * u-ou (no-n@unaffiliated/no-n) has joined channel ##math
+[04:30.17] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##math
+[04:31.10] <lyxia> smbullet: a^p = a mod p if p is prime
+[04:31.10] * kartapux (~quassel@APuteaux-651-1-205-248.w92-154.abo.wanadoo.fr) has joined channel ##math
+[04:31.29] --iive-- logged in with account (iive)
+[04:31.43] <smbullet> Yeah, I got that. But what if p isn't prime but has prime factors? Is it possible to break that up?
+[04:31.46] <kartapux> Hi every one.
+[04:32.09] * carlfoo (~Thunderbi@mnsr-d9bfa618.pool.mediaWays.net) Quit (Client Quit)
+[04:32.13] <lyxia> smbullet: Euler's theorem is a generalization.
+[04:32.17] <snyp> ＋＋http://i.imgur.com/HsmqHqE.png，，  how to derive k ?
+[04:32.26] <snyp> i can't seem to understand why
+[04:32.41] * carlfoo (~Thunderbi@mnsr-d9bfa618.pool.mediaWays.net) has joined channel ##math
+[04:33.06] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 256 seconds)
+[04:33.24] <smbullet> lyxia: I'll look into that thanks
+[04:33.28] --suvidu-- logged in with account (suvidu)
+[04:34.01] <snyp> i mean how is k theta(log n / log(log n)) ?
+[04:34.04] <kartapux> Do you know if there are continuous functions which second derivative are constant and that are not quadratic ?
+[04:34.29] * uku (~uku@49.31.180.213.sta.estpak.ee) has joined channel ##math
+[04:34.51] * NightRa (uid40361@gateway/web/irccloud.com/x-arzwryvlrdhsymyc) Quit (Quit: Connection closed for inactivity)
+[04:35.03] --gr8-- logged in with account (gr8)
+[04:35.18] <lyxia> snyp: It doesn't say what it's trying to "do better".
+[04:35.39] * `Eddie (~~deadword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[04:36.12] <snyp> lyxia: reduce the runtime of O(log n)
+[04:36.20] <snyp> n being the number of nodes in the tree
+[04:36.23] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Ping timeout: 264 seconds)
+[04:36.24] <lyxia> snyp: Still doesn't say the runtime of what.
+[04:36.32] <lyxia> kartapux: there aren't
+[04:36.48] <snyp> lyxia: a find operation in the disjoint set data structure (union-find)
+[04:37.04] <kartapux> lyxia: thank you ;-)
+[04:37.10] <snyp> lyxia: well 2 operations: is_same_set() and find()
+[04:37.40] <snyp> lyxia: a forest of trees, if traversing up from 2 nodes lead to the same root, they are in the same set
+[04:38.10] <snyp> ＋＋http://en.wikipedia.org/wiki/Disjoint-set_data_structure，，
+[04:38.43] <snyp> ＋＋http://en.wikipedia.org/wiki/Disjoint-set_data_structure#Disjoint-set_forests，， this one specifically.
+[05:19.52] *** Server disconnected on irc.freenode.net

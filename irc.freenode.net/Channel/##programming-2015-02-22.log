@@ -1,0 +1,553 @@
+Session Start: Sun Feb 22 12:00:03 2015
+Session Ident: ##programming
+[12:00.03] <nitrix> Pretty sure I have over 2k hours.
+[12:00.14] --LogUse-- logged in with account (LogUse)
+[12:00.17] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) Quit (Quit: Leaving)
+[12:00.24] <lf94> Yeah...unity based games kill my computer
+[12:00.31] <nitrix> It eats up all my evenings for a good year now, lol.
+[12:00.32] <lf94> also hi
+[12:00.34] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) has joined channel ##programming
+[12:00.34] <DogPolice> lol.
+[12:00.41] <DogPolice> Building spacecraft is friggin fun. :D
+[12:00.49] <nitrix> Exploring space is.
+[12:00.49] <lf94> Build real spacecraft
+[12:00.50] <lf94> B)
+[12:00.56] * DogPolice throws a Saturn V at lf94.
+[12:01.10] * nitrix throws a SSTO to DogPolice.
+[12:01.27] <DogPolice> nitrix: Aye.. 's why I'm doing all of this crazy stuff. By the way, have you seen this? ＋＋http://sirxemic.github.io/Interstellar/，，
+[12:01.41] * wilornel_ throws an Orion at nitrix 
+[12:01.49] <ecogiko> ""
+[12:01.49] <ecogiko> Your graphics card does not seem to support WebGL.
+[12:01.55] <DogPolice> Laaaame.
+[12:02.02] <wilornel_> Yes, seen it!
+[12:02.07] <wilornel_> Where is the black hole?
+[12:02.12] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) Quit (Ping timeout: 255 seconds)
+[12:02.15] <DogPolice> wilornel_: Through the wormhole! :D
+[12:02.21] <wilornel_> got it
+[12:02.22] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:02.27] <nitrix> DogPolice: Bookmarked, my laptop doesn't run that apprently. All pitch dark.
+[12:02.30] <DogPolice> Go through it, and you'll find gargantua, with lensing just like the movie.
+[12:02.38] * Bazzie (~0x2fab@68.235.130.115) Quit (Quit: you're in for wild ride, kid)
+[12:02.47] <DogPolice> nitrix: Odd, mine does.. and I have an Intel GPU. e_e.
+[12:02.55] <wilornel_> Ah my god, spawning new windows on me
+[12:03.11] <DogPolice> But yeah! This thing is possible because of a new method of raytracing involving clusters of light, not single light rays.
+[12:03.22] <DogPolice> It allows for lensing, and there's even a very digestable paper on it.
+[12:03.37] <nitrix> That sounds amazing, can't wait to see it :)
+[12:03.39] <DogPolice> :D
+[12:03.44] --GAMEOEUVRE-- logged in with account (GAMEOEUVRE)
+[12:03.48] <wilornel_> Huh, so this could not have been done before?
+[12:03.51] <nitrix> Oh and I'll get your KSP probably x]
+[12:03.55] <wilornel_> Isn't it just bending the image it should see?
+[12:03.57] <Lencl>   is this the right place to ask about Binary trees
+[12:04.00] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 250 seconds)
+[12:04.08] * Bazzie (~0x2fab@68.235.130.115) has joined channel ##programming
+[12:04.08] <nitrix> DogPolice: It's worth investing into that kind of thing for friends c:
+[12:04.10] <DogPolice> Lencl: Yep! Sorry, we're just on a physics discussion right now. X)
+[12:04.20] <Lencl> :)
+[12:04.22] <DogPolice> nitrix: D'awwh. :>
+[12:04.25] * neochronomo (a2f23aac@gateway/web/freenode/ip.162.242.58.172) Quit (Ping timeout: 246 seconds)
+[12:04.35] * episage (~episage@94.0.222.152) Quit (Ping timeout: 252 seconds)
+[12:04.37] * nitrix 's Zzzzz.
+[12:04.44] <DogPolice> Night man! Thanks for talkin'! :)
+[12:04.53] <Lencl> When you add a node to a binary tree.. how is the order supposed to be?
+[12:04.55] * episage (~episage@94.0.222.152) has joined channel ##programming
+[12:04.56] <Lencl> left to right?
+[12:05.00] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) has joined channel ##programming
+[12:05.00] --sctskw-- logged in with account (sctskw)
+[12:05.08] <nitrxgen> soldering 60~ 2mm pitched pins is a chore
+[12:05.13] <ecogiko> DogPolice: did you study physics in a uni or did you learn it in your spare time?
+[12:05.13] <wilornel_> smaller to the left and bigger to the right
+[12:05.23] <Lencl> parent node > left child > right child > right parent > left right child > right right child..?
+[12:05.32] <DogPolice> ecogiko: I started poking at it in my spare time.
+[12:05.39] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) Quit (Remote host closed the connection)
+[12:05.53] <wilornel_> Lencl: You will not necessarily have a linear order like this
+[12:05.58] * PlanckWalk (~Planck@ppp105-115.static.internode.on.net) Quit (Ping timeout: 264 seconds)
+[12:05.59] <Guest66212> DogPolice: do you know why the speed of light is constant?
+[12:06.15] <wilornel_> Usually what you try to achieve is having nodes branch out into two trees which have the same amount of nodes each
+[12:06.35] <wilornel_> this way you know that finding a node inside of the binary tree is always faster than a specific time t
+[12:06.36] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[12:06.44] * ChanServ sets mode +o DogPolice for ##programming
+[12:06.49] <Serpentine_> It really depends on the type of binary tree you would like to create
+[12:06.51] <@DogPolice> Dernit..
+[12:06.59] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) has joined channel ##programming
+[12:07.01] <wilornel_> Guest66212, DogPolice: I think it varies depending of location. If we go somewhere else very far, it would be a bit different
+[12:07.12] * DogPolice sets mode -b *!*@*190.190.32.227$##programming-ops for ##programming
+[12:07.13] * DogPolice sets mode -o DogPolice for ##programming
+[12:07.19] <Serpentine_> For example, skew heaps are bizarrely unordered and tend to have more nodes towards the left
+[12:07.22] * LogUse (~LogUse@190.190.32.227) has joined channel ##programming
+[12:07.27] <DogPolice> There ya go. sorry LogUse!
+[12:07.58] <Serpentine_> Whereas the more conventional binary search tree has a stricter ordering on the nodes
+[12:08.17] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[12:08.51] <Guest66212> wilornel_: i'm pretty sure light travels at every speed, but can only be observed traveling at the speed of light relative to the observer
+[12:08.58] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:09.47] <DogPolice> Guest66212: The speed of light is only important because it's the speed (or propagation) of packets (or particles) with no mass (i.e no interaction with the higgs field).
+[12:10.08] <Lencl> wilornel_ so if there is a subtree with 1 parent node and 2 child nodes.. and another subtree on the right with 1 parent node and 1 child.. I add to the right one as a new child?
+[12:10.19] * themanhimself (~themanhim@2601:8:600:816:e1b8:182b:3f35:dc21) Quit (Quit: Leaving...)
+[12:10.29] <DogPolice> The speed of light, in my framework, then becomes relative ("slowed") to the medium that gravitation can bend.
+[12:11.01] <Lencl> wilornel_ also some people are suggesting that everything greater than the root will go on right side of subtree.. and everything left goes on left side of subtree
+[12:11.01] <DogPolice> Without the medium, I don't know if it'd be a constant or an infinity.
+[12:11.09] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) has joined channel ##programming
+[12:11.11] * episage__ (~episage@94.0.222.152) has joined channel ##programming
+[12:11.19] <DogPolice> (constant implying it had some sort of actually realizable value.)
+[12:11.23] * episage (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[12:11.23] <Guest66212> DogPolice: i'm pretty sure instead of having mass, photons have energy observable angle
+[12:11.47] <Guest66212> DogPolice: like the energy of the photon is evenly distributed at every frame of reference
+[12:11.48] --hydri-- logged in with account (hydri)
+[12:11.56] <Guest66212> or something like that
+[12:12.14] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) Quit (Read error: Connection reset by peer)
+[12:12.25] <DogPolice> Guest66212: Yeah. And that energy interacts with the medium. It just so happens in ideal conditions (i.e extremely low energy regions of this medium we call "space"), the speed of light is the value we get normally.
+[12:12.43] <DogPolice> So it's really just the speed of "massless particles" zipping through the medium.
+[12:12.58] <DogPolice> Remove the medium and it's like trying to measure the speed of sound without air.
+[12:13.07] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[12:13.29] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) has joined channel ##programming
+[12:13.30] * episage (~episage@94.0.222.152) has joined channel ##programming
+[12:14.12] <Guest66212> the way i imagine it, when you change your speed, you change the part of the photon that is observable
+[12:15.15] <Guest66212> the part of it that is angled at the speed of light
+[12:15.18] <DogPolice> There was an article on phys.org about a year or two ago demonstrating that the phantom-like "vacuum energy" could, very carefully, introduce kinks in the speed of light.
+[12:15.24] * episage__ (~episage@94.0.222.152) Quit (Ping timeout: 245 seconds)
+[12:15.42] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:16.00] <DogPolice> These findings correspond to my theory of the medium: if it can vary, then something must be affecting it,
+[12:16.03] <DogPolice> And causing the variation.
+[12:16.12] <DogPolice> Annnnnd.. here's the article: ＋＋http://phys.org/news/2013-03-ephemeral-vacuum-particles-speed-of-light-fluctuations.html，，
+[12:16.26] --GerryMander-- logged in with account (haxxed)
+[12:16.43] <Guest66212> ＋＋http://i.imgur.com/vNgyWSE.png，，
+[12:16.55] <DogPolice> Right.
+[12:16.59] <DogPolice> Light cone.
+[12:17.07] <DogPolice> ('least, it looks like one.)
+[12:17.34] * episage (~episage@94.0.222.152) Quit (Ping timeout: 246 seconds)
+[12:17.59] * episage (~episage@94.0.222.152) has joined channel ##programming
+[12:18.09] <DogPolice> I'm not saying that high speeds don't produce this effect (only applied to massless particles). What I am saying is that the rate that these things happen is relative to something else.
+[12:19.19] <Guest66212> how do physicists seperate the effects of time dilation from the speed of light?
+[12:19.30] <DogPolice> Well, they don't..
+[12:20.11] <DogPolice> Take the water planet from Interstellar with a crazy high dilation factor.
+[12:20.14] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 255 seconds)
+[12:20.24] <DogPolice> If you look at it, you're not looking at what's happenig on the surface currently.
+[12:20.35] <DogPolice> That light took a looong time to reach you.
+[12:20.48] * thomas (~thomas@freenode/staff/thomas) Quit (Changing host)
+[12:20.48] * thomas (~thomas@freenode/staff/coward/thomas) has joined channel ##programming
+[12:20.54] <DogPolice> *happening.
+[12:22.34] * Rad- (~ko@c-68-40-57-57.hsd1.mi.comcast.net) has joined channel ##programming
+[12:22.44] <Rad-> struct t_node* bst_tree=NULL;
+[12:22.53] <Rad->  int bst_insert(struct t_node& tree, in
+[12:23.05] <Rad-> bst_insert(&bst_tree,test[i]);
+[12:23.20] <Rad-> other than the fact that i didn't copy my entire declaration, how come i can't edit my tree
+[12:23.30] <Guest66212> when you have two clocks that are synchronized at exactally the same point in space, and then one travels 1 light year away, how would a physicsist be able to determine how long it takes light from clock A to reach clock B considering that the two clocks will have desynchronized by 1 light year?
+[12:23.51] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) has joined channel ##programming
+[12:24.08] <Guest66212> in other words, the clock that moved 1 light year away will have experienced 1 light year of time as space
+[12:24.16] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) Quit (Read error: Connection reset by peer)
+[12:24.28] <DogPolice> Guest66212: But if they share a dilation factor, they will be the same.
+[12:24.42] <DogPolice> (That is, if they're in a vacuum.)
+[12:24.47] <Guest66212> 1 light year of it's experience of time will have translated into spatial movement relative to clock A
+[12:24.58] * justanotheruser is now known as FlechetteTP
+[12:25.04] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) has joined channel ##programming
+[12:25.18] <DogPolice> Right, and you'll view the light coming off of the clock.
+[12:25.19] * genbattle (~genbattle@115-188-151-169.jetstream.xtra.co.nz) Quit (Read error: Connection reset by peer)
+[12:25.30] * FlechetteTP is now known as justanotheruser
+[12:25.30] <DogPolice> But both clocks will be working with the same time, still.
+[12:25.48] <DogPolice> If you can observe both clocks on both sides of that light year of distance, you'll find that they were in sync (assuming a vacuum.)
+[12:25.57] <DogPolice> Rad-: C++/
+[12:25.58] <DogPolice> *?
+[12:26.05] <Guest66212> what i'm trying to say is, what was time for one of the clocks has become space for the other
+[12:26.38] <DogPolice> Guest66212: Replace "clocks" with "observers", and it becomes apparent. If I go one lightyear away and wave my hand at you, it'll take you a year to see that result.
+[12:26.42] <Rad-> DogPolice: C
+[12:26.54] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) Quit (Remote host closed the connection)
+[12:27.14] <DogPolice> Rad-: bst_insert takes a pointer to a struct t_node right?
+[12:27.21] <Rad-> i yeah
+[12:27.38] <DogPolice> So why are you taking the address of bst_tree when it's already a pointer? Or are you taking a pointer to a pointer?
+[12:27.43] <Rad-> i'm pretty sure my problem is pointers because i'm trying to display the tree and it says it's empty.
+[12:27.48] <Rad-> er sorry i've gone through a few edits
+[12:27.53] <Rad-> original was something like this
+[12:28.02] <DogPolice> Paste your actual code into somethin' like ideone.com.
+[12:28.28] <Guest66212> DogPolice: but my point is that the clock that traveled 1 light year away will have experienced 1 light year more time than you
+[12:28.38] <DogPolice> Guest66212: No, you'll still experience the same time.
+[12:28.55] <DogPolice> Guest66212: Again, if you can travel to each point at the same time, you'd see that both clocks are in sync.
+[12:29.11] <DogPolice> The clock desynchronization happens if you introduce a dilation factor, which isn't present here due to us assuming a vacuum.
+[12:30.05] --HenriettaSalt-- logged in with account (HenriettaSalt)
+[12:30.12] <Guest66212> DogPolice: time dilation is the result of experiencing time in the spatial dimensions relative to another observer
+[12:30.14] --astroo--- logged in with account (astroo-)
+[12:30.16] <DogPolice> No.
+[12:30.22] <DogPolice> Time dilation is the result of gravitation deforming spacetime.
+[12:30.34] <DogPolice> No gravity, no dilation, no shift.
+[12:30.46] <DogPolice> (this is in general relativity).
+[12:31.59] * eric_lagergren (~barsonme@c-76-121-113-163.hsd1.wa.comcast.net) has joined channel ##programming
+[12:33.52] <Rad-> DogPolice: ＋＋http://ideone.com/xiRqUZ，，
+[12:35.28] <DogPolice> Rad-: ＋＋http://ideone.com/VSBkXf，，
+[12:35.31] <DogPolice> Looks like it worked to me..
+[12:36.29] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[12:36.40] <Rad-> DogPolice: maybe my mockup is better than my actual code brb
+[12:36.44] <DogPolice> Hehe.
+[12:36.48] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) Quit (Quit: This computer has gone to sleep)
+[12:37.26] <Rad-> oh DogPolice does malloc have anything to do with it
+[12:37.40] <DogPolice> Very much so.
+[12:37.57] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 245 seconds)
+[12:37.59] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) has joined channel ##programming
+[12:38.01] <Rad-> oh DogPolice wait you got rid of hello2
+[12:38.05] <Rad-> hello2 is important
+[12:38.11] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) Quit (Client Quit)
+[12:38.28] <DogPolice> You have pointers to things, but as far as you know, those pointers are pointing to garbage. Just because this code worked doesn't mean it's correct.
+[12:38.39] <DogPolice> Also, it really isn't.. you have a pointer that you're modifying.
+[12:38.57] <DogPolice> Why do you need hello2 to modify hello?
+[12:39.19] <DogPolice> You need to point your pointers to memory that exists, then pass them around.
+[12:39.29] <DogPolice> Else things will get hairy.
+[12:39.36] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) has joined channel ##programming
+[12:40.08] <Rad-> hello is a tree
+[12:40.13] <Rad-> hello2 is navigating that tree lol
+[12:40.30] <DogPolice> Paste your whole code, man, not a mockup. :P
+[12:40.40] <DogPolice> Else I can't help you
+[12:40.56] <blizzy> what about a mockdown.
+[12:41.05] <DogPolice> Mockleft?
+[12:41.06] <Rad-> posting hw on the internet is a bad idea..
+[12:41.07] * max100 (~max100@unaffiliated/max100) has joined channel ##programming
+[12:41.11] * KiltedNinja (~KiltedNin@unaffiliated/kiltedninja) has joined channel ##programming
+[12:41.16] <DogPolice> Oh. Yeah. No. We're not helping you. :p
+[12:41.24] * max100 (~max100@unaffiliated/max100) Quit (Read error: Connection reset by peer)
+[12:41.31] <DogPolice> ＋＋http://cprogramming.com，，
+[12:41.39] * max100 (~max100@unaffiliated/max100) has joined channel ##programming
+[12:41.47] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) has joined channel ##programming
+[12:41.47] * xeno_ (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) Quit (Read error: Connection reset by peer)
+[12:41.47] <Rad-> I'm just trying to figure out what i'm doing wrong with pointers
+[12:41.48] <blizzy> I would of not said it was homework.
+[12:41.50] <Rad-> but it looks like...nothing
+[12:42.04] <Rad-> that's why i posted a mockup not the actual code =P
+[12:42.05] <blizzy> Rad-, I would give you a few pointers, but I don't know C.
+[12:42.06] <DogPolice> blizzy: He's honest. That's a good thing to be. :)
+[12:42.22] <Rad-> what i don't understand is why the mockup works but my code doesn't
+[12:42.24] <Rad-> prolly something else
+[12:42.25] <Rad-> meh
+[12:42.37] <DogPolice> Rad-: Your mockup doesn't work because your pointer in "main" is..
+[12:42.41] <DogPolice> Not pointing to anything.
+[12:42.49] <DogPolice> Valgrind would have a fit with that.
+[12:42.59] <Rad-> well in mockup
+[12:43.07] <Rad-> well in real code* it points to null
+[12:43.09] * Pengoo (~Pengoo@S0106c8fb2681704d.vf.shawcable.net) has joined channel ##programming
+[12:43.11] <blizzy> DogPolice, true.
+[12:43.12] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) Quit (Read error: Connection reset by peer)
+[12:43.14] <DogPolice> Yeah, and that's why it's not working.
+[12:43.15] <blizzy> honesty is great.
+[12:43.18] <DogPolice> You need to allocate memory for it.
+[12:43.22] <Guest66212> DogPolice: i thought the theory was that if you could travel twards another object purely in the time dimension, you would experience the entire progression as time where as the other object would experience none
+[12:43.27] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) has joined channel ##programming
+[12:43.33] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:43.36] <Rad-> DogPolice:  i do
+[12:43.39] <DogPolice> Guest66212: Nope. Gravitation takes control in general relativity.
+[12:43.40] <Rad-> i test in the function if it's null
+[12:43.41] <Rad-> if it's not
+[12:43.46] <Rad-> i allocate a struct
+[12:43.55] <DogPolice> Rad-: Do you return the structure or are you taking a double pointer?
+[12:43.57] --fran-- logged in with account (fcrCell)
+[12:44.06] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) Quit (Ping timeout: 252 seconds)
+[12:44.34] * Lady_Aleena (~L_Aleena@unaffiliated/lady-aleena) has joined channel ##programming
+[12:44.37] <Rad-> i don't reutnr the struct
+[12:44.58] <Lady_Aleena> Hello.
+[12:45.03] <DogPolice> Hola.
+[12:45.12] <ecogiko> greetings
+[12:45.13] * episage (~episage@94.0.222.152) Quit (Ping timeout: 246 seconds)
+[12:46.01] * episage (~episage@94.0.222.152) has joined channel ##programming
+[12:46.22] * LogUse (~LogUse@190.190.32.227) Quit (Read error: Connection reset by peer)
+[12:46.23] <Lady_Aleena> How are you tonight? I shoveled snow today, any I've been feeling it for hours. I would love something to come along to distract me.
+[12:46.31] <Lady_Aleena> s/any/and/;
+[12:46.35] * Shogun_ (~quassel@23-29-5-150.netptc.net) Quit (Remote host closed the connection)
+[12:46.41] <DogPolice> We've been well! Discussing physics and C. :0
+[12:46.41] * DolpheenDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Quit: DolpheenDream)
+[12:46.42] <DogPolice> *:)
+[12:47.29] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) has joined channel ##programming
+[12:47.31] <Lady_Aleena> DogPolice, I am unable to contribute to discussions of either. :S
+[12:47.52] <DogPolice> Pssh, everyone can contribute. :)
+[12:48.03] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 264 seconds)
+[12:48.16] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:48.50] <Lady_Aleena> DogPolice, I never took a physics class nor do I know anything about C.
+[12:49.03] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) Quit (Read error: Connection reset by peer)
+[12:49.13] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[12:50.05] <Lady_Aleena> Other than E = MC�, I am lost.
+[12:50.06] * episage (~episage@94.0.222.152) Quit (Ping timeout: 240 seconds)
+[12:50.34] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) has joined channel ##programming
+[12:50.45] * allegorical (63f4e292@gateway/web/freenode/ip.99.244.226.146) Quit (Quit: Page closed)
+[12:50.49] * episage (~episage@94.0.222.152) has joined channel ##programming
+[12:51.19] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[12:51.27] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Max SendQ exceeded)
+[12:51.40] --adhocadhoc-- logged in with account (adhocadhoc)
+[12:51.43] * Pengoo (~Pengoo@S0106c8fb2681704d.vf.shawcable.net) Quit (Quit: number one in the hood g)
+[12:52.15] * xeno_ (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) has joined channel ##programming
+[12:52.17] * RumpledElf (~leethacks@unaffiliated/leethacksaw) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:52.37] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 240 seconds)
+[12:52.48] * xeno (~xeno@2a02:fe0:c211:12c1:14da:a86f:d256:7568) Quit (Read error: Connection reset by peer)
+[12:52.55] * Myrl (~AndroidKi@unaffiliated/androidkitkat) has joined channel ##programming
+[12:53.03] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[12:53.22] --Chintu-- logged in with account (Kaash)
+[12:53.52] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 245 seconds)
+[12:54.10] <Guest66212> DogPolice: if you were to instantly accelerate twards another object at the speed of time so that your progression twards it existed purely in the time dimension, it would be in exactally the same state that it was in the moment that you left
+[12:55.07] * episage (~episage@94.0.222.152) Quit (Ping timeout: 240 seconds)
+[12:55.10] <DogPolice> Guest66212: Time is an emergent phenomenon of change and motion. Time does not, effectively, exist without motion.
+[12:55.21] <DogPolice> Because there would be no way to measure it.
+[12:55.49] <DogPolice> There's a reason why Planck Time and Planck Length have such an intimate relationship. :)
+[12:56.03] <Guest66212> motion is simply time being experienced in spatial dimension's relative to your self
+[12:56.03] <_X_C_V_B_> fuck
+[12:56.13] * Lanzafame (~textual@1.178.21.175) Quit (Remote host closed the connection)
+[12:56.30] <DogPolice> Actually, it's the opposite. Time is motion. :)
+[12:57.03] * Lanzafame (~textual@1.178.21.175) has joined channel ##programming
+[12:57.13] <Guest66212> an object in motion relative to your self is sliced through time
+[12:57.13] * Vivex_ (~Vivex@173-16-176-63.client.mchsi.com) has joined channel ##programming
+[12:57.26] <Myrl> This conversation is pretty interesting.
+[12:57.27] * Rilakkuma (~textual@p2022-ipbf3407marunouchi.tokyo.ocn.ne.jp) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:57.38] * _X_C_V_B_ just did a git commit
+[12:57.47] * rate_reducer (~rate_redu@18.189.115.168) Quit (Quit: rate_reducer)
+[12:57.50] <DogPolice> Guest66212: Here's the thing. Do you know how we measure time nowadays? We measure it in terms of speed and distance.
+[12:58.13] <DogPolice> That's why Planck Time is a thing. It's the time it takes for light to cover one planck length.
+[12:58.34] <Myrl> DogPolice: The oscillation?
+[12:58.43] <DogPolice> Myrl: ?
+[12:59.09] <Myrl> DogPolice: IIRC, one second is the oscillation of a cesium(-something).
+[12:59.21] <DogPolice> Myrl: No. Planck Time and Length.
+[12:59.25] <DogPolice> ＋＋http://en.wikipedia.org/wiki/Planck_time，，
+[12:59.54] * Vivex (~Vivex@173-16-176-63.client.mchsi.com) Quit (Ping timeout: 252 seconds)
+[01:00.15] * crayon (~user@unaffiliated/button) has joined channel ##programming
+[01:01.14] <vendu> what's up? :)
+[01:01.21] <wilornel_> Physics
+[01:01.25] <DogPolice> PHYSICS!
+[01:01.26] <ecogiko> fuck yeah
+[01:01.29] * DogPolice waves his particle hands around.
+[01:01.39] * vipergreen (~vipergree@c-50-149-123-95.hsd1.wa.comcast.net) has joined channel ##programming
+[01:02.12] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) Quit (Remote host closed the connection)
+[01:02.19] <vendu> apparently someone stole hundreds of millions from banks :P
+[01:02.28] <DogPolice> Source?
+[01:02.29] <vendu> looks like a modern kind of a social engineering attack, at its core
+[01:02.37] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) Quit (Ping timeout: 255 seconds)
+[01:02.42] <vendu> DogPolice, i think i saw something about it on some finnish site
+[01:02.48] <vendu> i'd think it'd be all over the news :)
+[01:02.51] --Dynamit-- logged in with account (Dynamit)
+[01:03.10] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) Quit (Quit: This computer has gone to sleep)
+[01:03.11] <DogPolice> Oh god.
+[01:03.14] <wilornel_> I've read that a couple days back
+[01:03.15] <_X_C_V_B_> social engineers are good at what they do
+[01:03.16] <DogPolice> Yeah, I'm seeing it.
+[01:03.23] <wilornel_> They would steal from multiple banks
+[01:03.35] <wilornel_> the reason they got found out is because of a faulty ATM machine?
+[01:04.06] * Myrl (~AndroidKi@unaffiliated/androidkitkat) Quit (Ping timeout: 252 seconds)
+[01:04.12] <vendu> hehe
+[01:04.23] <_X_C_V_B_> ＋＋http://thehackernews.com/2015/02/hacker-malware-bank-heist.html，，
+[01:04.28] <wilornel_> I don't know if that's exactly it: ＋＋http://www.dailymail.co.uk/news/article-2954705/Hackers-steal-1-billion-banks.html，，
+[01:04.29] <vendu> someone still did what i thought would be just a fancy idea for a book
+[01:04.30] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (Quit: Leaving)
+[01:04.35] <_X_C_V_B_> ^ found it
+[01:04.47] <DogPolice> Damn.
+[01:04.54] * KiltedNinja (~KiltedNin@unaffiliated/kiltedninja) has left ##programming (("Leaving"))
+[01:05.06] <vendu> i didn't think that would be _possible_ today
+[01:05.13] <vendu> but i suppose... social engineering.
+[01:05.14] <DogPolice> Yeah, like, the actual fuck.
+[01:05.23] <DogPolice> If this was the 90's, maybe I'd believe it.
+[01:05.27] <vendu> yeah :)
+[01:05.31] * gordonpn (~gordonpn@bas3-montreal03-1176347417.dsl.bell.ca) Quit (Read error: Connection reset by peer)
+[01:05.38] <wilornel_> It is still possible today, it's just a lot harder
+[01:05.47] <vendu> DogPolice, or someone injecting malicious code fixing stuff for the Y2K
+[01:05.52] <vendu> that was my book idea :)
+[01:05.56] <DogPolice> Hehehe.
+[01:05.57] <vendu> well, it still is :)
+[01:06.03] <wilornel_> I guess once you have access to a specific computer, the remaining variables are time and methodics
+[01:06.24] <_X_C_V_B_> you guys think it's the security guy's fault
+[01:06.27] * firenedo (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) has joined channel ##programming
+[01:06.37] <wilornel_> Not necessarily
+[01:06.50] <DogPolice> That entirely depends.
+[01:06.52] <wilornel_> But there must have been some physical access granted to a machine at some point
+[01:07.36] <wilornel_> Only thing is, how do you test these malicious software? What if you need to modify it? Do you make it download a new version of itself and update itself automatically?
+[01:07.46] --brett1479-- logged in with account (brett1479)
+[01:07.56] <wilornel_> Please guys, I need some tips here... for reasons..
+[01:08.02] * tortoise (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) Quit (Ping timeout: 255 seconds)
+[01:08.33] <_X_C_V_B_> I feel the reason that big companies get is because of idiots
+[01:08.57] <_X_C_V_B_> *hack
+[01:08.59] <wilornel_> idiots are unevitable though
+[01:09.05] * episage (~episage@94.0.222.152) has joined channel ##programming
+[01:09.06] <DogPolice> True.
+[01:09.46] * _X_C_V_B_ wonders if Google will every get hacked
+[01:09.59] <Serpentine_> There's always some place where you can do nasty hacking stuff without people ever realizing it
+[01:10.25] <Serpentine_> see ＋＋http://cm.bell-labs.com/who/ken/trust.html，，
+[01:10.33] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) has joined channel ##programming
+[01:10.36] <DogPolice> ＋＋https://www.youtube.com/watch?v=KIDNsRm1SL0，，
+[01:10.51] <wilornel_> I've seen google's campus. It's impossible to tailgate and even get in with a friend. I doubt it would be easy to social engineer there. Also, they must have strong security measures
+[01:11.22] * episage__ (~episage@94.0.222.152) has joined channel ##programming
+[01:11.46] <Serpentine_> I've been in a building owned by Google
+[01:12.00] <Serpentine_> It is indeed nearly impossible to tailgate
+[01:12.03] <DogPolice> I've been offered a job by Google.
+[01:12.09] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 240 seconds)
+[01:12.12] <vendu> ＋＋https://github.com/vendu/OS-Zero/blob/master/usr/games/y2k/y2k.txt，，
+[01:12.16] <DogPolice> I don't approve of them.
+[01:12.17] <vendu> there's parts of the book idea :)
+[01:12.49] <_X_C_V_B_> DogPolice: how the hell did you do that?
+[01:12.53] <DogPolice> Any forward facing company has a dark corner, and Google's is pretty large.
+[01:13.08] <DogPolice> _X_C_V_B_: By being good at what I do.
+[01:13.18] * episage (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[01:13.33] <Serpentine_> "properly paranoid system programmer type, ... lacks a bit in social skills, cyber cowboy who likes living on the edge" -  y2k plot
+[01:13.37] * episage (~episage@94.0.222.152) has joined channel ##programming
+[01:14.28] <vendu> hehe well, that's a somewhat early set of ideas
+[01:14.31] <_X_C_V_B_> what if Google got hacked
+[01:15.01] * dry_ (~dry@173-230-185-140.cable.teksavvy.com) Quit (Client Quit)
+[01:15.11] * Myrl (~AndroidKi@unaffiliated/androidkitkat) has joined channel ##programming
+[01:15.20] <Myrl> Meh.
+[01:15.31] * episage__ (~episage@94.0.222.152) Quit (Ping timeout: 245 seconds)
+[01:15.41] <Myrl> My last project will probably be a motion sensor on the Arduino.
+[01:15.50] <Myrl> Then I'll quit programming for like a year or two.
+[01:15.50] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[01:15.51] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) has joined channel ##programming
+[01:15.51] --insidious15-- logged in with account (insidious15)
+[01:16.03] <_X_C_V_B_> Myrl: why?
+[01:16.25] <Serpentine_> Myrl: What pastime will you take up when you do quit programming?
+[01:16.31] <Myrl> Serpentine_: Who knows.
+[01:16.32] * Shogun_ (~quassel@23-29-5-150.netptc.net) has joined channel ##programming
+[01:16.46] <Myrl> _X_C_V_B_: Dad's mad and decided to cut off the internet.
+[01:17.04] <DogPolice> Myrl: Take up physics.
+[01:17.08] <DogPolice> Or AI.
+[01:17.22] <DogPolice> I get lost in those two.
+[01:17.26] <wilornel_> DogPolice: Just by being good at what you do? You must have taken steps for them to know about you, though?
+[01:17.37] <Myrl> DogPolice: I'm going to study more about calculus and physics.
+[01:17.56] <DogPolice> wilornel_: Indeed. Those steps are the reason why I'm the head of my own Research and Development division of an unnamed institution.
+[01:18.07] * episage (~episage@94.0.222.152) Quit (Ping timeout: 264 seconds)
+[01:18.08] * episage__ (~episage@94.0.222.152) has joined channel ##programming
+[01:18.56] * Sadale (~Sadale@unaffiliated/sadale) Quit (Ping timeout: 250 seconds)
+[01:19.18] <DogPolice> All large companies are ruthless by design, and I'm not willing to submerge myself. Forward-facing companies especially, because they keep a great cover over everything that the public and, to some extent, their employees, see.
+[01:19.35] <DogPolice> And that would be fine, except for the dark corners of each of them.
+[01:20.11] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 265 seconds)
+[01:20.11] <DogPolice> It's a philosophy. I would rather work as a community of divisions under an anonymous host than be governed and responsible, partly, for the affairs of the whole company.
+[01:20.23] * episage (~episage@94.0.222.152) has joined channel ##programming
+[01:20.25] <DogPolice> I've done that. And I don't ever want to do it again. I've had to shut my mouth quite a few times because of it.
+[01:21.10] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 240 seconds)
+[01:21.13] <DogPolice> Where I am now, I can see everything.
+[01:21.23] <DogPolice> And that's fine by me.
+[01:21.27] <_X_C_V_B_> DogPolice: you live in maine, right?
+[01:21.31] --Rochvellon-- logged out of account
+[01:21.40] <DogPolice> _X_C_V_B_: I have a residence here.
+[01:22.25] * episage__ (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[01:22.38] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[01:23.19] <Myrl> DogPolice: Or perhaps I'll work on MyM(pronounced as mime), a stack-accumulator machine.
+[01:23.20] * bgnnr (~rohit@unaffiliated/roansh) Quit (Read error: Connection reset by peer)
+[01:23.35] * bgnnr (~rohit@unaffiliated/roansh) has joined channel ##programming
+[01:23.36] <DogPolice> Stack accumulator, huh?
+[01:23.42] <DogPolice> Why not just a stack?
+[01:24.02] <Myrl> DogPolice: I don't really know. :3
+[01:24.06] <DogPolice> X)
+[01:24.12] * KidBeta (~textual@130.56.77.93) has joined channel ##programming
+[01:24.35] <Myrl> Hmmm
+[01:24.45] * episage (~episage@94.0.222.152) Quit (Ping timeout: 245 seconds)
+[01:24.53] * episage (~episage@94.0.222.152) has joined channel ##programming
+[01:25.03] <Myrl> There's no non-sequential multiplier in 74xx?
+[01:25.03] <jkbbwr> Myrl: stack accum??
+[01:25.09] <jkbbwr> How does that work
+[01:25.18] <Myrl> jkbbwr: The accumulator is a stack.
+[01:25.27] <DogPolice> ..Then it's just a stack machine. :P
+[01:25.29] <jkbbwr> ^
+[01:25.37] <Myrl> DogPolice: But there'll be a register array.
+[01:25.41] <DogPolice> push 1, push 2, add.
+[01:25.46] * rem500 (62a9b15b@gateway/web/freenode/ip.98.169.177.91) has joined channel ##programming
+[01:25.48] <DogPolice> stack: 3
+[01:26.04] <rem500> hey everyone what type of programming jobs aren't related to web development?
+[01:26.11] <jkbbwr> rem500: Designing stack machines
+[01:26.14] <DogPolice> Lmao.
+[01:26.15] * horny-sama (~mr-fool@unaffiliated/horny-sama) Quit (Quit: bed time)
+[01:26.18] <jkbbwr> DogPolice: what?
+[01:26.18] <rem500> what is a stack machine
+[01:26.27] <Myrl> rem500: lol
+[01:26.34] <jkbbwr> rem500: its not a register machine. Thats for sure
+[01:26.42] <DogPolice> rem500: Plenty of jobs. Application development of all types, embedded development..
+[01:26.47] * episage_ (~episage@94.0.222.152) Quit (Ping timeout: 245 seconds)
+[01:26.51] <_X_C_V_B_> rem500: game dev,robtos,os,guis
+[01:26.56] <_X_C_V_B_> *robots
+[01:26.56] * Lencl (Lencl@ip68-106-223-14.oc.oc.cox.net) Quit (Ping timeout: 246 seconds)
+[01:27.00] <DogPolice> Robtos.
+[01:27.08] <rem500> in the future will all apps be on the internet?
+[01:27.13] <jkbbwr> rem500: yellow
+[01:27.16] <DogPolice> Very doubtful.
+[01:27.19] <_X_C_V_B_> probably
+[01:27.22] * episage_ (~episage@94.0.222.152) has joined channel ##programming
+[01:27.23] <DogPolice> But that's just my standpoint.
+[01:27.25] <DogPolice> We don't know.
+[01:27.28] <rem500> like instead of downloading word you can access it online
+[01:27.33] <DogPolice> ..You can already do that.
+[01:27.34] <Myrl> DogPolice: That, or I'll remake MyM to have a 32-bit wide ISA, and have 64 registers.
+[01:27.38] <rem500> yah
+[01:27.43] <_X_C_V_B_> it's called google docs
+[01:27.43] <DogPolice> Myrl: Why all the registers? :\
+[01:28.16] <Myrl> DogPolice: Well, it all started when RISC and CISC were partying and got drunk.
+[01:28.39] <Myrl> Basically, I'm making a RISC ISA, but with CISC functionality.
+[01:28.42] <Myrl> such as special registers.
+[01:28.48] * DogPolice shakes his head.
+[01:28.57] <DogPolice> Christ.. why do people just not go with stack machines.
+[01:29.05] <DogPolice> Optimize over cumulative operations, man. :(
+[01:29.08] --Salastil-- logged in with account (Salastil)
+[01:29.19] --Joufflu-- logged in with account (Joufflu)
+[01:29.20] * manuel__ (~manuel@c-24-61-40-209.hsd1.ma.comcast.net) Quit (Quit: manuel__)
+[01:29.22] * episage (~episage@94.0.222.152) Quit (Ping timeout: 250 seconds)
+[01:29.29] <rem500> as computer processing power increases is it possible that javascript will be obsolete and websites will use a better language to do graphics and popups and stuff?
+[01:29.34] <Myrl> DogPolice: Meh, too hard to work on a 74LSxx.
+[01:29.51] <DogPolice> Myrl: No..?
+[01:29.58] <DogPolice> Myrl: The stack is just an area of memory..?
+[01:30.02] <wilornel_> rem500: I think improvements in processors are currently being made in parallelization
+[01:30.02] <Serpentine_> rem500: As computer processing power increases, faster and older languages become obsolete
+[01:30.06] <Myrl> DogPolice: cumulative operations I mean.
+[01:30.08] <DogPolice> rem500: We'll have to wait and see.
+[01:30.10] <wilornel_> And graphics do make use of that
+[01:30.16] <wilornel_> So I think that the answer if yes
+[01:30.16] <Serpentine_> rem500: Newer and much slower languages will counteract the effects of Moore's law
+[01:30.20] <DogPolice> Myrl: ..No? You don't do that, the programmer does.
+[01:30.26] <_X_C_V_B_> Write the expression for the volume of a thick crust pizza with height "a" and radius "z".
+[01:30.31] <wilornel_> But it all depends on how the big companies pull it out
+[01:30.40] <DogPolice> _X_C_V_B_: Model it as a torus.
+[01:30.46] <Myrl> DogPolice: Ah. I thought what you were trying to say was optimizing by looking at the instruction pattern.
+[01:30.49] <rem500> it seems the speed of the language doesn't mean much, how fast you can develop something new is much more important right
+[01:30.52] <DogPolice> Myrl: Nope.
+[01:30.56] --HenriettaSalt-- logged in with account (HenriettaSalt)
+[01:31.07] <DogPolice> rem500: The consistency of the language and its target domain matters.
+[01:31.08] <Serpentine_> rem500: It's definitely important if your goal is to push out products at a faster rate
+[01:31.12] <DogPolice> rem500: Everything else is just noise.
+[01:31.13] <_X_C_V_B_> pi*z*z*a
+[01:31.30] <DogPolice> _X_C_V_B_: I... cannot argue with that.
+[01:31.34] <Myrl> DogPolice: Like if you have a read memory and bitmask operation right next to each other, the underlying hardware will only read according to the bitmask.
+[01:31.35] <Serpentine_> _X_C_V_B_: Oh my, that's ingenious!
+[01:31.46] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[01:31.47] <_X_C_V_B_> ＋＋http://www.businessinsider.com/13-math-jokes-that-every-mathematician-finds-absolutely-hilarious-2013-5，，
+[01:31.57] <Myrl> _X_C_V_B_: What if that's exactly the reason why it's called like that?
+[01:32.04] <wilornel_> :o
+[01:32.26] <DogPolice> "Two random variables were talking in a bar. They thought they were being discrete but I heard their chatter continuously."
+[01:32.29] <DogPolice> Ha.
+[01:32.31] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) has joined channel ##programming
+[01:32.45] <_X_C_V_B_> Mryl: you don't make any sense
+[01:33.04] <Myrl> _X_C_V_B_: What if pizza is called pizza because of that?
+[01:33.14] <_X_C_V_B_> ooo
+[01:33.17] <DogPolice> Lmfao the houseboat one.
+[01:33.22] <_X_C_V_B_> hmmm
+[01:33.31] * BlueProtoman (~BlueProto@ool-ad02e594.dyn.optonline.net) Quit (Quit: Leaving)
+[01:33.57] * drawingthesun (~drawingth@124-168-242-112.dyn.iinet.net.au) Quit (Read error: Connection reset by peer)
+[01:35.19] * rem500 (62a9b15b@gateway/web/freenode/ip.98.169.177.91) has left ##programming ()
+[01:35.21] <DogPolice> 13 is fucking terrible.
+[01:36.10] --zeitue-- logged in with account (zeitue)
+[01:36.32] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##programming
+[01:36.45] <Serpentine_> I heard the houseboat joke as "No,it's a holiday home" before
+[01:36.47] <Myrl> "The B in Benoît B. Mandelbrot stand for Benoît B. Mandelbrot."
+[01:36.51] <Myrl> Also works for recursion. :D
+[01:37.12] <DogPolice> A tree with three nodes, and the second node always links to itself.
+[01:37.20] <DogPolice> (sorry, not with itself, the root.)
+[01:37.31] <DogPolice> Then it's not a tree. :)
+[01:37.47] * RumpledElf (~leethacks@unaffiliated/leethacksaw) has joined channel ##programming
+[01:38.07] <Myrl> DogPolice: "That is one terrible pun. I'm sorry."
+[01:38.16] <DogPolice> Damn right it is.
+[01:38.39] <DogPolice> ＋＋https://www.youtube.com/watch?v=KIDNsRm1SL0，，
+[01:39.30] <Rad-> god fucking damn it i hate this shit
+[01:39.36] <_X_C_V_B_> ＋＋http://ideone.com/bVbmOi，，
+[01:39.42] <_X_C_V_B_> ^joke
+[01:39.45] * reaga (~Talx@cpc31-brad20-2-0-cust243.17-1.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[01:39.49] * dm7freek (~dm7freek@c-73-53-4-82.hsd1.wa.comcast.net) Quit (Remote host closed the connection)
+[01:40.26] <DogPolice> Youuu.
+[01:40.36] <_X_C_V_B_> what
+[01:40.48] <DogPolice> youu.
+[01:40.53] <_X_C_V_B_> what
+[01:41.54] <_X_C_V_B_> ...
+[01:42.17] <wilornel_> Rad-: sup
+[01:42.39] <Rad-> i'm not passing by reference properly
+[01:42.52] <DogPolice> 's right, you aren't. And I pointed that out to ya.
+[01:42.58] <wilornel_> vendu: Just saw OS-Zero. Where did you learn how to build a kernel?
+[01:43.06] --kuttenbrunzer-- logged in with account (kuttenbrunzer)
+[01:45.10] <_X_C_V_B_> How many lawyers does it take to change a lightbulb?
+[01:45.19] <wilornel_> Hmmmm
+[01:45.35] <wilornel_> They have to take many decisions as to the rules around installing it?
+[01:45.37] <wilornel_> So I guess
+[01:45.43] * oujh (~vfbtgn@86.126.16.66) Quit (Ping timeout: 240 seconds)
+[01:45.43] <wilornel_> A lot of them?
+[01:46.18] <Rad-> DogPolice: and i still don't get it =
+[01:46.24] <vendu> wilornel_, all over the place :)
+[05:47.38] *** Server disconnected on irc.freenode.net

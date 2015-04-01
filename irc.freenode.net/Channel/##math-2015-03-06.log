@@ -1,0 +1,1011 @@
+Session Start: Fri Mar 06 04:21:16 2015
+Session Ident: ##math
+[04:21.16] * You have joined ##math
+[04:21.16] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[04:21.16] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[04:21.18] Channel modes for ##math are :+Ccnt
+[04:21.18] Channel Created on: 8:42 PM 1/29/2010
+[04:21.48] <Szego> All of my remarks remain in place.
+[04:22.04] <Szego> You don't need f to be defined at 2 to make sense of the limit.
+[04:23.43] * Karlo_ (~karl@2602:30a:2e9c:dbe0:8d81:de39:a699:957) has joined channel ##math
+[04:24.10] <Pearson> i see, so no limit from RHS in either case
+[04:24.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[04:25.59] * z0kk_ (~textual@101.50.89.74) has joined channel ##math
+[04:25.59] * z0kk (~textual@101.50.89.74) Quit (Read error: Connection reset by peer)
+[04:26.12] * z0kk_ is now known as z0kk
+[04:28.51] * Cale (~Cale@CPEc8d3a35c2cdd-CM0c473de9d680.cpe.net.cable.rogers.com) Quit (Ping timeout: 240 seconds)
+[04:30.17] * huckleberry78 (~huckleber@104-176-154-16.lightspeed.tukrga.sbcglobal.net) Quit ()
+[04:30.40] * etothe2ipi (~etotheipi@host109-150-192-210.range109-150.btcentralplus.com) Quit (Ping timeout: 245 seconds)
+[04:30.54] * z0kk_ (~textual@49.213.28.28) has joined channel ##math
+[04:30.58] * etothe2ipi (~etotheipi@host86-177-13-55.range86-177.btcentralplus.com) has joined channel ##math
+[04:31.00] * eyvindandersen (~eyvind@80-71-135-9.u.parknet.dk) Quit (Ping timeout: 256 seconds)
+[04:31.29] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##math
+[04:31.47] * PinealGlandOptic (~PinealGla@82.144.205.57) Quit (Quit: leaving)
+[04:32.01] * kiyoaki (~alice@129.180.154.65) Quit (Quit: i was running through the six with my woes)
+[04:32.22] * poona (~poona@unaffiliated/poona) Quit (Ping timeout: 246 seconds)
+[04:32.42] * petersr_ (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) has joined channel ##math
+[04:33.14] * schleppel (~quassel@141.39.226.237) has joined channel ##math
+[04:33.27] * z0kk (~textual@101.50.89.74) Quit (Ping timeout: 252 seconds)
+[04:33.57] * przl (~przlrkt@p57922849.dip0.t-ipconnect.de) has joined channel ##math
+[04:34.03] * jagob (~jacob@h145.natout.aau.dk) has joined channel ##math
+[04:34.18] * petersr (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) Quit (Remote host closed the connection)
+[04:34.30] * circ-user-BWIaA (~circuser-@85.253.53.9.cable.starman.ee) has joined channel ##math
+[04:34.56] * petersr_ (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) Quit (Client Quit)
+[04:35.09] * tac-tics (~tac-tics@99-126-152-116.lightspeed.cicril.sbcglobal.net) Quit (Quit: Leaving)
+[04:35.14] * poona (~poona@117.221.38.22) has joined channel ##math
+[04:35.14] * poona (~poona@117.221.38.22) Quit (Changing host)
+[04:35.14] * poona (~poona@unaffiliated/poona) has joined channel ##math
+[04:36.34] * Cale (~Cale@CPEc8d3a35c2cdd-CM0c473de9d680.cpe.net.cable.rogers.com) has joined channel ##math
+[04:38.17] * cameronfr (~cameronfr@210.35.134.27.ap.yournet.ne.jp) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[04:39.53] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 250 seconds)
+[04:40.21] * austeritysucks (~AS@stud-141.sdu.dk) has joined channel ##math
+[04:40.21] * austeritysucks (~AS@stud-141.sdu.dk) Quit (Changing host)
+[04:40.21] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[04:43.27] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[04:44.00] * Pearson (~M@202-89-151-114.ue.woosh.co.nz) Quit (Quit: Bah!)
+[04:45.29] * cameronfr (~cameronfr@210.35.134.27.ap.yournet.ne.jp) has joined channel ##math
+[04:45.45] * X-Scale (~gbabios@2001:0:c38c:c38c:0:4a6e:b2c9:442e) has joined channel ##math
+[04:46.02] * pqrs (~a@195.184.106.201) Quit (Quit: Leaving)
+[04:46.38] * agd (~agd@unaffiliated/agd) has joined channel ##math
+[04:46.56] * qset (~qset@108-233-125-140.lightspeed.sntcca.sbcglobal.net) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[04:47.00] * NightRa (uid40361@gateway/web/irccloud.com/x-wbcilqgpkemxrtyg) has joined channel ##math
+[04:47.51] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 240 seconds)
+[04:49.13] * a3f (~a3f@2a02:810d:8a40:2e50:dc29:4a14:a88c:8233) Quit (Ping timeout: 252 seconds)
+[04:50.08] * bigbadjesus (~666@unaffiliated/psidrome) has joined channel ##math
+[04:52.19] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##math
+[04:53.02] * lunde (~user@js4.es.aau.dk) has joined channel ##math
+[04:55.12] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[04:55.39] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[04:58.23] * Qladstone (~qladstone@138.75.184.83) Quit (Remote host closed the connection)
+[05:00.21] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##math
+[05:02.54] * agd (~agd@unaffiliated/agd) Quit (Quit: agd)
+[05:02.58] * GPrime (~GPrime@d162-156-25-25.bchsia.telus.net) has joined channel ##math
+[05:03.09] * three1415 (~three1415@96-37-130-230.static.leds.al.charter.com) Quit (Ping timeout: 252 seconds)
+[05:03.31] * Guest15199 (bojangles@2a01:7e00::f03c:91ff:fedb:182b) Quit (Ping timeout: 252 seconds)
+[05:04.18] * AimHere (~bod@cpc6-sgyl33-2-0-cust77.sgyl.cable.virginm.net) Quit (Quit: Leaving)
+[05:05.06] * AimHere (~bod@cpc6-sgyl33-2-0-cust77.sgyl.cable.virginm.net) has joined channel ##math
+[05:05.48] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) has joined channel ##math
+[05:06.23] * superlinux (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 264 seconds)
+[05:06.50] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[05:07.31] * MLM (uid38638@gateway/web/irccloud.com/x-lydctesuxzydlkeh) Quit (Quit: Connection closed for inactivity)
+[05:07.35] * GPrime (~GPrime@d162-156-25-25.bchsia.telus.net) Quit (Ping timeout: 264 seconds)
+[05:08.54] * carp (4e95b49b@gateway/web/freenode/ip.78.149.180.155) has joined channel ##math
+[05:10.15] * uku (~uku@49.31.180.213.sta.estpak.ee) Quit (Ping timeout: 256 seconds)
+[05:10.25] <carp> Hello. I would like to go through a simple probability question again, but trying to learn the correct terminology. I am looking at the wikipedia page at this section: ＋＋http://en.wikipedia.org/wiki/Probability#Independent_events，，
+[05:11.08] * Mulder (~Mulder@unaffiliated/mulder) Quit (Quit: Leaving)
+[05:11.09] <carp> P(roll a 5 or 6, with 1 allowed re roll)
+[05:11.30] * Guest99246 (bojangles@2a01:7e00::f03c:91ff:fedb:182b) has joined channel ##math
+[05:11.57] <Karlo_> So, you roll one die, and if it's not 5-or-6, you get to roll a replacement, I guess.
+[05:12.05] * kexmex (~kexmex@195.42.130.233) has joined channel ##math
+[05:12.25] * eyvindandersen (~eyvind@80-71-135-9.u.parknet.dk) has joined channel ##math
+[05:12.30] <carp> karlo yes.
+[05:12.40] <Karlo_> What's your question?
+[05:12.43] <carp> ok so, if we roll the die once, is that called a single performance?
+[05:13.43] <Karlo_> "Performance" doesn't sound like the right word.
+[05:14.01] <Karlo_> Oh, I guess it's like performing an experiment.
+[05:14.03] * tarkus (~hello@109.230.140.12) has joined channel ##math
+[05:14.08] <Karlo_> Yes.
+[05:14.34] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##math
+[05:14.47] * Aniball (~Barthalom@69.6.118.196) Quit (Ping timeout: 264 seconds)
+[05:14.57] <Ozera> sounds like it would be right
+[05:15.06] <carp> 1 performance of an experiment, ok cool
+[05:15.36] <carp> so then, the event is the outcome of that first performance, which can either be a {5,6} or {1,2,3,4}
+[05:16.01] <Karlo_> OK
+[05:16.21] <carp> or actually, is the event either a 1, or 2, or 3, or 4, or 5, or 6 ?
+[05:16.41] <carp> actually, i think thats what the {} mean
+[05:16.53] <carp> ignore that last bit then whoops.
+[05:17.12] <Karlo_> The sample space is {1, 2, 3, 4, 5, 6}; *any* subset of this sample space is a valid "event".
+[05:17.21] <carp> ah ok great.
+[05:17.41] <Karlo_> {1}, {2}, {3}, {4}, {5}, {6} are the singleton events that each have equal probability by assumption.
+[05:17.51] <carp> subset or powerset also known as right?
+[05:18.15] <Karlo_> {5,6} is the compound event that, in this particular experiment, counts as "success".
+[05:19.08] <Karlo_> If S = {1,2,3,4,5,6}, then the power set P(S) is the set of all events; the probability measure is a function from P(S) to [0,1].
+[05:19.27] <Karlo_> I.e., for each event, there's a probability of that event occurring.
+[05:19.30] * elsewho (~elsewho@gna.informatik.tu-freiberg.de) Quit (Disconnected by services)
+[05:19.36] <carp> karlo ok
+[05:19.57] * elsewho_ (~elsewho@gna.informatik.tu-freiberg.de) has joined channel ##math
+[05:20.13] <Ozera> It's useful to draw a tree diagram or probabilities
+[05:20.40] * ess_tee_u (~NULL@unaffiliated/ess-tee-u/x-83456671) has joined channel ##math
+[05:21.06] <carp> so now, i am looking at the wiki page again, and there are 4 options. (independent events, mutually exclusive, non mutual, and conditional)
+[05:21.17] <Karlo_> Note that the relation between "subset" and "power set", in general, is that "A is a subset of S" is equivalent to "A is an element of P(S)".
+[05:21.28] <carp> now, what i would like to know is can it only be ONE of these 4 options?
+[05:21.53] <Karlo_> No
+[05:22.08] <carp> phew, good cus that was messing me up a bit i think haha
+[05:22.15] <Karlo_> That section might not be laid out as well as it should be.
+[05:22.40] <carp> the explanations when you click on each one are really confusing too
+[05:22.47] * robot-beethoven (~user@c-24-118-140-127.hsd1.mn.comcast.net) Quit (Quit: ERC Version 5.3 (IRC client for Emacs))
+[05:22.55] <Karlo_> Those are just four examples of cases where there's a rule for computing the probability.
+[05:23.05] <carp> or im just really dumb, more likely
+[05:23.46] <carp> so if we go back to my example of rerolling a failed 5 or 6.
+[05:24.14] * uku (~uku@49.31.180.213.sta.estpak.ee) has joined channel ##math
+[05:24.22] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[05:24.28] <carp> i will try to say if i think any of those 4 categories apply
+[05:24.48] <smbullet> How would I find the impulse response of this Cascade series? ＋＋http://mathb.in/28660，，
+[05:25.04] <Karlo_> "A is independent of B" is sometimes *defined* to mean P(A and B) = P(A)P(B) (in which case it's clearly a symmetric relationship); other sources define it to mean P(A | B) = P(A), in which case the symmetry is less obvious, but the equivalence follows from how P(A | B) is defined.
+[05:25.20] <carp> independent events; well the first roll doesnt affect the probability of the second roll. so yes they are independent.
+[05:25.23] * Isp-sec (~palach@95-28-18-117.broadband.corbina.ru) Quit (Ping timeout: 250 seconds)
+[05:25.26] <smbullet> Or more simply how would I calculate that convolution?
+[05:25.38] <Karlo_> That's correct, the first and second rolls are independent.
+[05:26.27] * liquidfl0ppy (~chris@c-73-204-78-199.hsd1.fl.comcast.net) Quit (Quit: Leaving.)
+[05:26.34] <carp> karlo_ the second formula you posted there is the formula for the conditional on the wiki page right?
+[05:26.48] <carp> oh wait no, sorry my mistake
+[05:27.31] * preschema (~preschema@essn-d9bb4e61.pool.mediaways.net) has joined channel ##math
+[05:27.52] <carp> ok cool so they are independent. but we dont use that formula cus it doesnt apply to the problem
+[05:28.15] <Karlo_> It might be useful later.
+[05:28.25] <carp> ok
+[05:28.41] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) has joined channel ##math
+[05:28.42] <carp> next, are they mutually exclusive. well, first i need to say what event 1 and event 2 actually are..
+[05:29.31] <carp> event 1 is {5,6} on the first roll
+[05:29.32] <carp> event 2 is NOT {5,6} on first roll AND {5,6} on second roll
+[05:29.39] <carp> is that correct?
+[05:29.48] <carp> this part really screwing me up haha
+[05:29.55] <Ozera> Cale, I was confused last night mostly because I didn't read the definition of a n cross polytope
+[05:30.14] <Ozera> carp, have you drawn a tree diagram
+[05:30.17] * z0kk_ (~textual@49.213.28.28) Quit (Ping timeout: 252 seconds)
+[05:30.45] <Karlo_> Ozera, carp is still dealing with the terminology; let's not get into the solving methods just yet.
+[05:30.53] <carp> ozera yes and i have actually solved the problem already yesterday, but now im trying to getthe wording right
+[05:31.03] <Ozera> mm
+[05:31.31] <Karlo_> Let me voice my objection to the Wikipedia page...
+[05:31.43] <carp> ah that makes me feel better haha
+[05:32.12] * struktured (~carm@2604:2000:dd21:3e00:b859:d21b:85fb:6e03) Quit (Ping timeout: 256 seconds)
+[05:32.29] <Karlo_> P(A or B) = P(A) + P(B) - P(A and B) is actually true for *any* events A, B, despite it being written under the heading "not mutually exclusive".
+[05:33.15] <carp> ok yes
+[05:33.17] <Karlo_> Since the *definition* of "mutually exclusive" is P(A and B) = 0, the formula simplifies to P(A or B) = P(A) + P(B) in that special case.
+[05:33.33] * bigbadjesus (~666@unaffiliated/psidrome) Quit (Ping timeout: 245 seconds)
+[05:33.37] * copt (copt@unaffiliated/copt) Quit (Ping timeout: 246 seconds)
+[05:33.41] * maximski (~maximski@g226005217.adsl.alicedsl.de) has joined channel ##math
+[05:34.08] * jonascj (~jonas@083073242129.mbb.telenor.dk) Quit (Ping timeout: 255 seconds)
+[05:34.12] <carp> yes i believe that is exactly (one) of the the things that was catching me out
+[05:34.47] <carp> ah thanks for pointing that out
+[05:35.01] <Karlo_> For your problem, it's simplest if we consider event A = {5,6} on the first roll, and B = {5,6} on the second roll.
+[05:35.45] <carp> see that is something i thought it might be, ok lets go with that then
+[05:36.04] <Karlo_> (The problem was stated in such a way that the second experiment is never performed if first experiment already determined the outcome; however, it simplifies things if we treat it as always performed, and simply ignored if its outcome is irrelevant.)
+[05:36.34] * fatalhalt (~fatalhalt@c-71-201-7-76.hsd1.il.comcast.net) Quit (Read error: Connection reset by peer)
+[05:37.12] <carp> ok yes. its one of those where you can choose what method to work it out, and one of the methods is to count some outcomes twice, then subtract that at the end
+[05:37.20] <Karlo_> Yes
+[05:38.00] <carp> there doesnt seem like an easy way to determine when this is the case or not, you just have to be good at reasoning or something
+[05:38.14] <carp> or like oz was saying use a tree diagram i guess
+[05:38.32] <carp> but that is impractical for a 3 event situation heh
+[05:38.35] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) Quit (Ping timeout: 256 seconds)
+[05:38.52] <Karlo_> Well, with A and B defined as above, the problem is to find P(A or B), so the formula applies.
+[05:38.56] * bigbadjesus (~666@199.254.238.193) has joined channel ##math
+[05:38.57] * bigbadjesus (~666@199.254.238.193) Quit (Changing host)
+[05:38.57] * bigbadjesus (~666@unaffiliated/psidrome) has joined channel ##math
+[05:39.16] <Karlo_> And that brings P(A and B) into play, and *now* it becomes relevant that A and B are independent.
+[05:39.24] * superlinux-hp (~oracle@unaffiliated/superlinux) has joined channel ##math
+[05:39.41] <carp> ah awesome, this is progress. but how do i know that we arent meant to use the conditional formula
+[05:40.18] <Karlo_> Because the problem didn't mention any conditionals?
+[05:40.42] * vocodork (~vocoder@94-226-71-45.access.telenet.be) has joined channel ##math
+[05:40.58] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) has joined channel ##math
+[05:41.00] <carp> or i mean, would i use the conditional formula if i used the events that i outlined, not the ones you suggested
+[05:41.22] * bigbadjesus (~666@unaffiliated/psidrome) Quit (Client Quit)
+[05:41.47] <Karlo_> Yeah, maybe.  I pretty much ignored it since there were two easier ways to work on the problem.  :-)
+[05:41.54] <carp> righto
+[05:42.23] <carp> so before we go on, i havent actually determined if they are mutually exclusive or not formally
+[05:42.29] * efm is now known as efm_
+[05:43.08] <carp> using your suggested events, it seems kind of clear that they are mutually exclusive
+[05:43.25] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[05:43.33] <carp> but using my suggested events, would it be different?
+[05:43.36] <Karlo_> The two events that I defined are *not* mutually exclusive, because it's possible for both to occur.
+[05:43.49] <carp> oh darn
+[05:44.04] <carp> oh yes, yes i geddit
+[05:44.11] <Karlo_> In fact, we already noted that they're independent -- and mutual exclusion is kind of the *opposite* of independence.
+[05:44.14] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[05:44.23] <carp> yeah
+[05:44.28] * vyadhaka (~rv_ghatak@220-244-20-169.tpgi.com.au) Quit (Quit: Leaving.)
+[05:44.40] <carp> how about with the 2 events i suggested?
+[05:45.12] <carp> event 1 is {5,6} on the first roll
+[05:45.17] <carp> event 2 is NOT {5,6} on first roll AND {5,6} on second roll
+[05:45.23] <Karlo_> You defined A = {5,6} in first experiment, and B = ({1,2,3,4} in first experiment and {5,6} in second experiment}.
+[05:45.29] <Karlo_> Those *are* mutually exclusive.
+[05:46.44] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##math
+[05:47.13] * preschema (~preschema@essn-d9bb4e61.pool.mediaways.net) Quit (Quit: Leaving)
+[05:47.13] <carp> heres a stumbling block for me, cus the wiki page says about 'single performance.' so now i need to get the terminology right..
+[05:47.28] <Karlo_> So, since P(A or B) still describes the question you were originally asked, you could use the formula P(A) + P(B).  But now P(B) is harder to compute.
+[05:47.35] <carp> a single performance that could lead to event 1 would be only a single roll whereas...
+[05:48.01] <carp> a single performance that could lead to event 2 would INCLUDE rolling twice. is that right?
+[05:48.03] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Client Quit)
+[05:48.47] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 256 seconds)
+[05:48.49] * swifte (~kanto@119.157.250.40) has joined channel ##math
+[05:48.52] <Karlo_> The 2nd event in your formulation involves performing 2 experiments.
+[05:49.05] <carp> tight
+[05:49.08] <carp> right*
+[05:49.34] <swifte> If X's value is 271 and Y's value is 307, how is Z's value 318 after joining them up?
+[05:50.10] * goodenough (~goodenoug@pool-108-13-18-239.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[05:50.16] * maximski (~maximski@g226005217.adsl.alicedsl.de) Quit ()
+[05:50.47] <carp> but here the problem, you said that they ARE mutually exclusive, and yet the wiki page says that
+[05:51.06] <carp> "If either event A or event B or both events occur on a single performance"
+[05:51.06] <carp> ah i think i was reading it incorrectly
+[05:51.29] <Karlo_> That's in the definition of "P(A or B)", aka "P(A u B)".
+[05:51.48] <carp> so in the example, event A occurs on a the first (single) performance, whereas event B occurs on BOTH the first and the second performance
+[05:51.48] * Mia (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[05:51.51] * [AFK]traxo-xx is now known as [AFK][AFK]traxo-
+[05:51.53] * [AFK][AFK]traxo- is now known as [AFK]traxo-xx
+[05:51.54] * [AFK]traxo-xx is now known as traxo-xx
+[05:52.09] * nayfie (~nayfie@CPE-58-160-174-54.unqy1.fli.bigpond.net.au) has joined channel ##math
+[05:52.17] <Karlo_> Btw, I said that there were two simpler ways to do it.  The first is the one I already mentioned: A={5,6} on first die, B={5,6} on second die, use formula for P(A or B) = P(A) + P(B) - P(A and B).  I should mention the second method, too.
+[05:52.33] * Mia (~Mia@217.131.216.20) has joined channel ##math
+[05:52.33] * Mia (~Mia@217.131.216.20) Quit (Changing host)
+[05:52.33] * Mia (~Mia@unaffiliated/mia) has joined channel ##math
+[05:53.02] <Karlo_> For any event K, P(not K) = 1 - P(K).
+[05:53.23] <carp> yes i understand the take away from 1 method, its great
+[05:53.36] * copt (copt@unaffiliated/copt) has joined channel ##math
+[05:53.49] <carp> i might start using that method more often
+[05:53.57] * efm_ is now known as efm
+[05:54.11] <Karlo_> So, instead of finding the probability of "5 or 6 on first roll, OR 5 or 6 on second roll", you can find the probability of "5 or 6 on NEITHER roll". and complement that.
+[05:54.24] <carp> yeah.
+[05:54.35] <Karlo_> This avoids the inclusion-exclusion thing, though in this case it's about the same amount of work.
+[05:55.25] <Karlo_> It's useful to know both methods, and in this case I'd recommend solving it both ways to confirm that they agree on the answer.
+[05:55.40] <carp> ill do that. good idea
+[05:56.45] <carp> may i be a pain and just brute force my worse method a bit longer too?
+[05:56.50] <carp> so in the example, event A occurs on a the first (single) performance, whereas event B occurs on BOTH the first and the second performance
+[05:57.44] <Karlo_> You're defining B = (first-{1,2,3,4} AND second-{5,6}) here?
+[05:58.05] <carp> yes
+[05:58.09] * eyvindandersen (~eyvind@80-71-135-9.u.parknet.dk) Quit (Quit: Lost terminal)
+[05:58.33] * CvP (CvP@203.76.123.238) Quit (Disconnected by services)
+[05:58.36] * xCG (CvP@203.76.123.238) has joined channel ##math
+[05:59.27] * xCG is now known as CvP
+[05:59.51] <Karlo_> OK, I'd say that event B is a compound event that involves performing both experiments...  But I think that your wording "event B occurs on BOTH the first and the second performance" is just making it more confusing.
+[06:00.11] <swifte> Karlo_; who is the observer?
+[06:00.43] <carp> event B is a compound event, and involves performing both experiments. OK that sounds great.
+[06:00.53] * sudlowbot (simpleirc@2600:3c00::f03c:91ff:feae:5893) Quit (Remote host closed the connection)
+[06:00.58] <carp> thankyou
+[06:01.01] <smbullet> \quit
+[06:01.11] * smbullet (~eric@heffner-wl-338.dynamic.rpi.edu) Quit (Quit: leaving)
+[06:01.36] <Karlo_> (Btw, I'm not sure whether "compound event" is a standard term here; but it seemed appropriate.)
+[06:01.50] <carp> and how do i determine if my event A and my event B are mutually exclusive
+[06:02.06] * a3f (~a3f@vidal.h-ab.de) has joined channel ##math
+[06:02.18] * moei (~moei@softbank221078042071.bbtec.net) Quit (Quit: Leaving...)
+[06:02.21] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 240 seconds)
+[06:02.42] <carp> event A can only occur on experiment 1 whereas event B require both experiments to be performed. therefore they cant happen at the same time? or something?
+[06:02.45] <Karlo_> Mutually exclusive means that the sets they represent are disjoint: they have no intersection.
+[06:02.59] <Karlo_> No
+[06:03.18] * Jellydog (~Jellykuf@c-94-255-242-216.cust.bredband2.com) Quit (Quit: Jellydog)
+[06:03.30] <carp> ah that sounds like a much better definition that the wikipedia one when you click on it. which is "Two events are mutually exclusive if they cannot occur at the same time."
+[06:03.34] <Karlo_> Event A requires the first experiment to have outcome {5,6} while event B requires the first experiment to have outcome {1,2,3,4}.  *That* is why they're exclusie.
+[06:03.43] <Karlo_> v
+[06:03.46] <carp> AHA!
+[06:03.53] * nick____ (c6fff6f3@gateway/web/freenode/ip.198.255.246.243) Quit (Ping timeout: 246 seconds)
+[06:04.02] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[06:04.03] * eyvindandersen (~eyvind@80-71-135-9.u.parknet.dk) has joined channel ##math
+[06:04.10] <carp> perfect ! that was one of my stumbling blocks for sure
+[06:04.26] <carp> ah this is so satisfying
+[06:05.27] <carp> yes cus if event A occurs, then event B cannot also occur, ok cool
+[06:05.56] <carp> ah it seems so bleedingly obvious now, how strange
+[06:08.03] * osoba (~me@77.105.50.185) Quit (Remote host closed the connection)
+[06:08.10] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 245 seconds)
+[06:08.41] <carp> OK so, we now finally get onto actually selecting a formula, and it has to be the mutually exclusive one. which is the one that doesnt include subtracting the intersection
+[06:09.04] <carp> that might be a mistake though.
+[06:09.37] <Karlo_> Yeah.  As I already mentioned, the other formula is valid for *any* events, but P(A and B) = 0 because (A intersect B) is the empty set.
+[06:09.54] * FreezingAlt (~FreezingC@135.0.41.14) has joined channel ##math
+[06:10.32] * hailviral1 (~jennylowe@70.89.173.121) has joined channel ##math
+[06:10.55] <carp> i had the feeling you had covered it already, but i wasnt ready to understand that yet. hmm let me stare at your last sentence a bit longer
+[06:11.01] * austeritysucks (~AS@stud-141.sdu.dk) has joined channel ##math
+[06:11.01] * austeritysucks (~AS@stud-141.sdu.dk) Quit (Changing host)
+[06:11.01] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[06:11.27] * z0kk (~textual@101.50.89.74) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[06:11.35] * thingummywut (~thingummy@91-145-92-106.bb.dnainternet.fi) Quit (Quit: Leaving)
+[06:11.50] <carp> ah i see, it is an empty set because they are mutually exclusive.
+[06:11.53] <Karlo_> Right
+[06:11.56] * mofai (~quassel@124.82.35.128) has joined channel ##math
+[06:11.56] * jonascj (~jonas@083073242129.mbb.telenor.dk) has joined channel ##math
+[06:12.08] <carp> but it is still a mistake?
+[06:12.08] <Karlo_> And the empty set has probability zero, either by axiom or by an easy consequence of the axioms.
+[06:12.27] <Karlo_> So P(A and B) = 0, which is why we were allowed to drop that term.
+[06:12.38] <carp> cool yep
+[06:13.33] <carp> when you said Yeah, that was saying i had selected the right formula, and NOT that i had made a mistake
+[06:13.47] <Karlo_> Correct
+[06:13.49] * riksi (4df2156a@gateway/web/freenode/ip.77.242.21.106) has joined channel ##math
+[06:13.50] <carp> cool cool
+[06:13.59] <carp> man im so slow , sorry
+[06:14.00] <Karlo_> So now you have P(A or B) = P(A) + P(B), and P(A) = 2/6 by counting, but you still need to evaluate P(B).
+[06:14.11] * Qladstone (~qladstone@138.75.166.10) has joined channel ##math
+[06:14.45] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[06:15.53] <riksi> Hi can I ask a simple geometry question ? I have 2 points and the angle between them. But y1 is unknown ? Meaning I have x1,x2,y2,angle_radiant but I don't know y1.
+[06:16.29] <Karlo_> riksi: Two points A and B, and I guess the angle you're referring to is AOB, the angle at the origin?
+[06:17.04] <carp> yes i agree and follow that. and to work out P(B) we use a different fomula and will later feed that number back in.
+[06:17.10] <riksi> Karlo_: The angle of the line connecting the 2 points.
+[06:17.23] <Karlo_> riksi: Oh -- the slope of the line?
+[06:19.19] <riksi> Karlo_: I have this function, GetAngleOfLineBetweenTwoPoints(p1, p2)=arc_tangent(yDiff, xDiff) that gives me the angle if I know x1,x2,y1,y2. What I want is the same thing, but I know the arc_tangent, but I don't know a.y
+[06:19.25] * capso (~Capso@about/networking/128.0.0.0/Capso) has joined channel ##math
+[06:19.44] <Karlo_> OK
+[06:20.05] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[06:20.13] <Karlo_> Let's call the angle theta.
+[06:20.24] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[06:20.28] <carp> B = (first-{1,2,3,4} AND second-{5,6})   so we use the independent events AND formula and do 4/6 * 2/6 = 8/36
+[06:20.41] * nbrader (~Thunderbi@host81-139-201-47.in-addr.btopenworld.com) Quit (Quit: nbrader)
+[06:20.44] * maximski (~maximski@g226005217.adsl.alicedsl.de) has joined channel ##math
+[06:20.53] * Axy (~Mia@217.131.216.20) has joined channel ##math
+[06:20.54] * Axy (~Mia@217.131.216.20) Quit (Changing host)
+[06:20.54] * Axy (~Mia@unaffiliated/mia) has joined channel ##math
+[06:21.17] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[06:21.18] * swifte (~kanto@119.157.250.40) Quit (Quit: swifte)
+[06:21.20] <Karlo_> You know that theta = atan(y2-y1, x2-x1).  This means that tan(theta) = (y2-y1)/(x2-x1).
+[06:21.34] <Karlo_> So (x2-x1)*tan(theta) = y2-y1
+[06:21.55] <Karlo_> So y1 = y2 - (x2-x1)*tan(theta) is the formula you need.
+[06:22.21] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[06:23.15] <Karlo_> I should have said "atan2" for the two-argument function, actually.
+[06:24.15] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[06:24.22] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[06:25.03] * Axy (~Mia@217.131.216.20) has joined channel ##math
+[06:25.03] * Axy (~Mia@217.131.216.20) Quit (Changing host)
+[06:25.03] * Axy (~Mia@unaffiliated/mia) has joined channel ##math
+[06:25.10] <riksi> Karlo_: You mean y1 = y2 - (x2-x1)*atan2(theta) ?
+[06:25.10] * Mia (~Mia@unaffiliated/mia) Quit (Quit: Leaving)
+[06:25.38] <Karlo_> No, y1 = y2 - (x2-x1)*tan(theta).
+[06:25.52] <carp> then I do feed that into the first formula so 2/6 + 8/36 = 10/36       however i know that the answer is meant to be 20/36 whoops
+[06:25.55] <Karlo_> theta = atan2(y2-y1, x2-x1) is the correction I was making
+[06:26.23] <Karlo_> carp: 2/6 + 8/36 is not 10/36
+[06:26.27] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) has joined channel ##math
+[06:26.40] <carp> oh yea lol.
+[06:27.30] <carp> 2/6 * 6 = 12/36   then add 8/36 yay! it worked
+[06:27.53] * jonascj (~jonas@083073242129.mbb.telenor.dk) Quit (Ping timeout: 265 seconds)
+[06:28.07] <Karlo_> Note also that 20/36 can be simplified.
+[06:28.17] <carp> 5/9
+[06:29.16] <carp> so in theory we could have just rolled a single 9 sided dice and asked for a 5 or higher outcome
+[06:29.46] <Karlo_> That would be an event with the same probability, yes.
+[06:30.08] <carp> or wait, 5 or lower i mean
+[06:30.11] <Karlo_> Well, depending on ...  yeah.
+[06:30.29] <carp> awesome
+[06:30.49] * Ixxie (~Ixxie@dsl-hkibrasgw3-54fb7f-131.dhcp.inet.fi) Quit (Remote host closed the connection)
+[06:30.59] <Karlo_> I'd better get some sleep
+[06:31.03] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Client Quit)
+[06:31.03] <carp> i will try the subtract from 1 method offline in a sec so as not to bother u more haha
+[06:31.12] <carp> ah ok, well thankyou very much for the help!
+[06:31.22] * Karlo_ (~karl@2602:30a:2e9c:dbe0:8d81:de39:a699:957) Quit (Quit: Leaving)
+[06:31.25] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) has joined channel ##math
+[06:36.38] * sudlowbot (simpleirc@2600:3c00::f03c:91ff:feae:5893) has joined channel ##math
+[06:36.56] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Quit: Lost terminal)
+[06:37.17] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) has joined channel ##math
+[06:38.09] * dorian_ (4df2156a@gateway/web/freenode/ip.77.242.21.106) has joined channel ##math
+[06:38.39] * darwin (d@206.63.237.146) Quit (Ping timeout: 246 seconds)
+[06:39.07] * darwin (d@206.63.237.146) has joined channel ##math
+[06:39.34] * n008f4g_ (~jacek1234@89-70-176-170.dynamic.chello.pl) has joined channel ##math
+[06:39.51] <dorian_> Hi, I have a simple geometry question. I have 2 points A,B and a line connecting them. I know B.x,B.y, distance, angle_of_line_radiant. How can I find A.x, A.y ?
+[06:40.05] <carp> Using the example of rolling a dice and needing a 5 or a 6. if it fails on the first try, you get to reroll once. Is it possible to solve this by using the Conditional probability formula ( P(A) * P (B) ) / P(B)
+[06:40.17] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 255 seconds)
+[06:40.33] * ess_tee_u (~NULL@unaffiliated/ess-tee-u/x-83456671) Quit (Remote host closed the connection)
+[06:41.16] * Kalov (~quassel@181.226.190.113) Quit (Read error: Connection reset by peer)
+[06:41.24] <carp> Event A would be failing to get a 5,6 on the first try, and Event B would be succeeding to get a 5,6 on the second try.
+[06:41.32] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[06:41.36] * mofai (~quassel@124.82.35.128) Quit (Ping timeout: 244 seconds)
+[06:42.31] * Kalov (~quassel@181.226.190.113) has joined channel ##math
+[06:42.41] * oo_miguel (~miguel@87-207-228-147.dynamic.chello.pl) has joined channel ##math
+[06:43.33] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) has joined channel ##math
+[06:44.08] * riksi (4df2156a@gateway/web/freenode/ip.77.242.21.106) Quit (Ping timeout: 246 seconds)
+[06:44.08] <oo_miguel> given a phtograph (as well as knowing the focal length of the used objective) I wonder how to calculate the angle between the camera-plane and a given point on this photograph.
+[06:45.00] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[06:46.00] * pyon (~suckmy@unaffiliated/pyon) has left ##math (("work"))
+[06:46.09] * pepijndevos (pepijndevo@37.247.53.27) has joined channel ##math
+[06:47.05] * sudlowbot (simpleirc@2600:3c00::f03c:91ff:feae:5893) Quit (Remote host closed the connection)
+[06:47.10] * nbrader (~Thunderbi@host81-139-201-47.in-addr.btopenworld.com) has joined channel ##math
+[06:47.29] <pepijndevos> If I take the discrete fourier transform of 1000 samples, do I always get 500 bins and their imaginary components?
+[06:47.43] * a3Dman (~3Dman@unaffiliated/a3dman) Quit (Ping timeout: 250 seconds)
+[06:48.38] * srd|_| (~srd@cpc7-sgyl32-2-0-cust435.18-2.cable.virginm.net) Quit (Ping timeout: 264 seconds)
+[06:49.21] * bleb (~caleb@209-6-88-180.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 244 seconds)
+[06:49.34] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 246 seconds)
+[06:49.37] <pepijndevos> I want to measure a broad spectrum at a low resolution, so I need to sample at least twice as fast as the highest frequency, and at least as long as the lowest frequency, right?
+[06:50.09] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[06:50.26] * AnoAnon (~AnoAnon@197.37.85.230) has joined channel ##math
+[06:51.27] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) has joined channel ##math
+[06:51.29] <carp> i work it out as Event A = 4/6       and        Event B = 2/6     so          ( 4/6 * 2/6 ) / (2/6) =            (8/36) / (2/6) =               48/72           which is not quite 5/9 ( and i know 5/9 is correct)
+[06:51.33] * AnoAnon (~AnoAnon@197.37.85.230) Quit (Read error: Connection reset by peer)
+[06:54.42] <carp> I think my division of fraction is wrong maybe
+[06:55.51] * Dodek (am291698@duch.mimuw.edu.pl) Quit (Ping timeout: 240 seconds)
+[06:55.59] <carp> oh wait, no its my rounding of 48/72  it actually rounds to 2/3
+[06:56.25] <carp> which is not 5/9 still and i know 5/9 is correct
+[06:57.03] * Dodek (am291698@duch.mimuw.edu.pl) has joined channel ##math
+[06:57.45] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[06:58.57] * przl (~przlrkt@p57922849.dip0.t-ipconnect.de) Quit (Ping timeout: 245 seconds)
+[06:59.43] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[07:00.26] * CvP (CvP@203.76.123.238) Quit (Read error: Connection reset by peer)
+[07:00.41] * CvP (CvP@203.76.123.238) has joined channel ##math
+[07:01.41] * Alessandro-Barbi (~ale@net-2-35-53-192.cust.vodafonedsl.it) has joined channel ##math
+[07:01.50] * Qladstone (~qladstone@138.75.166.10) Quit (Remote host closed the connection)
+[07:01.51] * o_lalertom (~o_lalerto@200-225-197-223.static.ctbctelecom.com.br) has joined channel ##math
+[07:01.51] * o_lalertom (~o_lalerto@200-225-197-223.static.ctbctelecom.com.br) Quit (Changing host)
+[07:01.51] * o_lalertom (~o_lalerto@moonstonemedical/developer/o-lalertom) has joined channel ##math
+[07:02.31] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[07:03.11] * Alessandro-Barbi (~ale@net-2-35-53-192.cust.vodafonedsl.it) has left ##math ()
+[07:03.25] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Ping timeout: 252 seconds)
+[07:03.55] * Szego (~N@37.46.47.11) Quit (Read error: Connection reset by peer)
+[07:04.14] * induktio (4c6a6c37@gateway/web/freenode/ip.76.106.108.55) Quit (Quit: Page closed)
+[07:04.34] * stochasm (~stochasm@unaffiliated/ahayweh) Quit (Ping timeout: 256 seconds)
+[07:07.15] * Qladstone (~qladstone@138.75.166.10) has joined channel ##math
+[07:07.33] * sacho (~hecatonic@176-12-62-113.pon.spectrumnet.bg) has joined channel ##math
+[07:08.18] * eyvindandersen (~eyvind@80-71-135-9.u.parknet.dk) Quit (Quit: Lost terminal)
+[07:08.34] * cameronfr (~cameronfr@210.35.134.27.ap.yournet.ne.jp) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[07:08.34] * superlinux-hp (~oracle@unaffiliated/superlinux) has joined channel ##math
+[07:09.47] * mofai (~quassel@124.82.35.128) has joined channel ##math
+[07:11.40] * xacktm (xacktm@unaffiliated/xacktm) Quit (Read error: Connection reset by peer)
+[07:11.47] * Fourteen (810c658b@gateway/web/freenode/ip.129.12.101.139) has joined channel ##math
+[07:12.08] * xacktm (xacktm@unaffiliated/xacktm) has joined channel ##math
+[07:12.46] <Fourteen> Hey guys, can anybody help me with a question on manifolds? ＋＋http://oi60.tinypic.com/2hncspf.jpg，， I think I've got most of it but only under certain conditions
+[07:13.24] * hfu (~hu@49.5.1.198) Quit (Quit: Konversation terminated!)
+[07:14.17] * agjacome (~agjacome@4.159.216.87.dynamic.jazztel.es) has joined channel ##math
+[07:15.12] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) Quit (Read error: Connection reset by peer)
+[07:15.14] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[07:16.20] * Freshrr (42bc472a@gateway/web/freenode/ip.66.188.71.42) Quit (Ping timeout: 246 seconds)
+[07:16.32] * objclassifier (~marco@ppp-121-251.33-151.iol.it) has joined channel ##math
+[07:17.51] <pedro3005> Fourteen, doesn't load for me
+[07:18.06] <Fourteen> This always seems to happen with my images, give me a sec
+[07:18.12] <pedro3005> use imgur
+[07:18.43] <Fourteen> ＋＋http://postimg.org/image/5zcnpj9sp/，，
+[07:18.48] <Fourteen> too late :P
+[07:20.16] <pedro3005> well, isn't that just a computation?
+[07:23.23] * notpara (~para@213.187.75.26) Quit (Quit: ->)
+[07:25.46] * trampi (~trampi@ns334621.ip-5-196-66.eu) Quit (Ping timeout: 245 seconds)
+[07:25.51] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Quit: Lost terminal)
+[07:26.11] * pimaster (~pimaster@23.94.33.215) Quit (Ping timeout: 245 seconds)
+[07:26.13] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) has joined channel ##math
+[07:26.19] * pimaster (~pimaster@23.94.33.215) has joined channel ##math
+[07:26.22] <pedro3005> Fourteen, i'd start computing the differential of pi, and then taking two tangent vectors to a point in S^m and computing their standard inner product, applying the differential to them and computing their standard inner product, and hoping it's off by exactly the 4/some crap factor indicated in the problem
+[07:26.36] * anthrnm (~vandrew@86.122.228.44) has joined channel ##math
+[07:27.57] * dokoo (~arch@151.75.3.28) has joined channel ##math
+[07:28.11] * sudlowbot (simpleirc@2600:3c00::f03c:91ff:feae:5893) has joined channel ##math
+[07:28.56] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) Quit (Ping timeout: 256 seconds)
+[07:29.33] * maximski (~maximski@g226005217.adsl.alicedsl.de) Quit ()
+[07:29.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:30.11] * Havis (~Havis@funtoo/user/havis) has joined channel ##math
+[07:30.52] <dokoo> As I understand, if f is a linear map from R^n to R^m, then each component of f(v) is necessarily a linear combination of the components of v. Is that true?
+[07:30.52] * z0kk (~textual@101.50.89.74) Quit (Read error: Connection reset by peer)
+[07:31.35] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) has joined channel ##math
+[07:32.29] <pedro3005> well, it's true, but kind of silly. each component of f(v) is a real number, and so is each component of v
+[07:32.44] <pedro3005> and asking if a real number is a linear combination of some other real numbers is silly
+[07:33.50] <pedro3005> at least if i'm not mistaken here; i'm kinda sleepy
+[07:34.05] * sdothum (~sdothum@207.112.101.84) has joined channel ##math
+[07:34.51] <pedro3005> oh, unless you mean to say the components of f(v) are linear functions of the components of v, thinking of v as a variable. in which case yeah.
+[07:35.22] <carp> I believe I made a series of gross mistakes above, and I think i have solved it. I switched event A and event B in the formulas by mistake. So after re doing the calculation properly, ( 2/6 * 4/6) / (4/6) =    (8/36) / (4/6) =    48/216 =   2/9
+[07:35.28] <pedro3005> well, each component of f(v) depends on all components of v, but yea
+[07:35.53] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 256 seconds)
+[07:35.56] <carp> previously i said i was expecting 5/9 but now i believe that this 2/9 is correct so yay. ignore me sorry.
+[07:36.02] <pedro3005> but then this is nothing else than the fact that composition of linear functions is linear, and projection in some component is a linear function
+[07:36.52] <Fourteen> Hmm, okay. I had tried it before where X and Y were the tangent vectors and were both sums of a_i ∂/∂x_i   and b_i ∂/∂x_i, and pi*X and pi*Y were similarly c_i ∂/∂y_i and d_i ∂/∂y_i. (where each y_i is x_i/(1-x_0) I then tried to get from one to another by conputing a jacobian, but even then I can only get them to match when x_0, a_0 and b_0 are all zero
+[07:37.16] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[07:38.09] <pedro3005> yeah just do it like
+[07:38.33] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[07:39.05] <pedro3005> X = (a_0, ..., a_m), Y = (b_0, ..., b_m). so the standard inner product is gonna be a_0 b_0 + ... + a_m b_m. now apply the differential of pi to X and to Y, and get something, and compute their inner product, and hopefully you get some z such that z/(a_0 b_0 + ... + a_m b_m) = 4/blabla
+[07:39.46] * dokoo (~arch@151.75.3.28) Quit (Ping timeout: 272 seconds)
+[07:39.47] <pedro3005> and by differential of pi i mean the jacobian matrix
+[07:40.24] <Fourteen> Okay give me a second :)
+[07:40.42] * lrs (~lars@88-83-56-124.customer.t3.se) has joined channel ##math
+[07:41.50] * frenda (02b80b40@gateway/web/freenode/ip.2.184.11.64) has joined channel ##math
+[07:42.30] * cameronfr (~cameronfr@210.35.134.27.ap.yournet.ne.jp) has joined channel ##math
+[07:43.07] * kexmex (~kexmex@195.42.130.233) Quit (Quit: Computer has gone to sleep.)
+[07:43.11] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 250 seconds)
+[07:43.23] <frenda> Is it possible to find angles of any triangle by knowing  the three sides?
+[07:44.10] <lieven> frenda: yes. the cosine rule.
+[07:44.15] * edon (~user@albalug/edon) Quit (Ping timeout: 265 seconds)
+[07:44.55] * kexmex (~kexmex@195.42.130.233) has joined channel ##math
+[07:44.58] <Fourteen> pedro3005: Just checking with you, as we're mapping m+1 terms to m terms, the Jacobian has to be an m x m+1 matrix right? :)
+[07:45.48] * Smilerut (~CoasterTo@79.116.253.174) has joined channel ##math
+[07:45.48] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[07:45.54] <lrs> Anyone know how to solve x^2-8floor(x)+7=0
+[07:45.55] <lrs> ?
+[07:46.10] * Aune (~arne@hades.lysator.liu.se) has joined channel ##math
+[07:47.07] * russoneto (~russo_@189.35.132.24) Quit (Quit: Going offline, see ya! (＋＋www.adiirc.com，，))
+[07:47.13] <pedro3005> Fourteen, right
+[07:47.41] <pedro3005> where the entry (i, j) is dpi_i/dx_j
+[07:49.47] * rustymyers (~rustymyer@CB110-74.tlt.psu.edu) has joined channel ##math
+[07:49.47] <lieven> lrs: x=1 and x=7?
+[07:49.57] <lrs> lieven, Yeah, thats one of hte roots
+[07:50.01] <lrs> But theres two others
+[07:50.06] <Fourteen> pedro3005: Yeah, so the first column will be all (x_i)/(1-x_0)^2, and the diagonal of dpi_i/dx_i would all be 1/(1-x_0) with all others zero right?
+[07:50.32] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 272 seconds)
+[07:50.44] * zeezey (~textual@172.56.39.131) has joined channel ##math
+[07:51.20] * dorian_ (4df2156a@gateway/web/freenode/ip.77.242.21.106) Quit (Ping timeout: 246 seconds)
+[07:52.13] <Fourteen> pedro3005: so if each a_i was mapped to a c_i, each c_i would have the value x_i/(1-x_0)^2* a_0 + a_i/(1-x_0)
+[07:53.49] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[07:54.20] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##math
+[07:55.36] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) Quit (Ping timeout: 272 seconds)
+[07:57.20] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) Quit (Quit: (   ͡°   ͜ʖ   ͡°  ))
+[07:57.31] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) has joined channel ##math
+[07:58.15] <Fourteen> pedro3005: But don't these two inner products only become equal when x_0, a_0 and b_0 are all zero?
+[07:58.32] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[07:58.42] * tsoutseki (~tsoutseki@213.249.12.96) has joined channel ##math
+[07:58.51] * carp (4e95b49b@gateway/web/freenode/ip.78.149.180.155) has left ##math ()
+[07:59.46] * tsoutseki (~tsoutseki@213.249.12.96) Quit (Client Quit)
+[08:00.01] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:00.52] * fstd (~fstd@unaffiliated/fisted) has joined channel ##math
+[08:01.07] * tsoutseki (~tsoutseki@213.249.12.96) has joined channel ##math
+[08:01.16] * Trekka12 (~Trekka12@c-cbf1e355.226-2-64736c11.cust.bredbandsbolaget.se) has joined channel ##math
+[08:03.45] * edon (~user@albalug/edon) has joined channel ##math
+[08:04.28] * whaletechno (~whaletech@unaffiliated/whaletechno) Quit (Quit: ha det bra)
+[08:04.33] * tsoutseki is now known as tsoutseki_AFK
+[08:04.40] <pedro3005> Fourteen, they're not supposed to be equal, because there's the 4/something factor
+[08:04.44] <pedro3005> not that i checked your calculations
+[08:05.03] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[08:05.30] * vyadhaka1 (~rv@220-244-20-169.tpgi.com.au) Quit (Quit: Leaving.)
+[08:06.31] <Fourteen> pedro3005: Hmm, okay. I know if you set all three of those to zero then the factor disappears as well
+[08:06.51] * ess_tee_u (~NULL@2001:8b0:908:6a91:8e89:a5ff:fe52:e41d) has joined channel ##math
+[08:06.51] * ess_tee_u (~NULL@2001:8b0:908:6a91:8e89:a5ff:fe52:e41d) Quit (Changing host)
+[08:06.51] * ess_tee_u (~NULL@unaffiliated/ess-tee-u/x-83456671) has joined channel ##math
+[08:07.05] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[08:07.27] * vyadhaka (~rv_ghatak@220-244-20-169.tpgi.com.au) has joined channel ##math
+[08:07.32] * przl (~przlrkt@p57922849.dip0.t-ipconnect.de) has joined channel ##math
+[08:07.52] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[08:09.10] * edon (~user@albalug/edon) Quit (Ping timeout: 256 seconds)
+[08:09.11] * FragmentedCurve (~FC@2605:f700:c0:1::d13b:47b) Quit (Read error: Connection reset by peer)
+[08:09.32] * nilg (~user@AAubervilliers-653-1-220-28.w86-212.abo.wanadoo.fr) has joined channel ##math
+[08:09.38] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 264 seconds)
+[08:09.40] * Linne (~beren@85.103.158.175) has joined channel ##math
+[08:10.18] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 256 seconds)
+[08:10.41] * PatrickRobotham (uid18270@gateway/web/irccloud.com/x-gbtfcmemgpljljdb) Quit (Quit: Connection closed for inactivity)
+[08:11.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[08:11.42] <lrs> lieven, Any ideas?
+[08:11.50] <Linne> According to Ramanujan summation is this correct: ＋＋http://mathb.in/28666，，
+[08:12.43] * tsoutseki_AFK (~tsoutseki@213.249.12.96) Quit (Ping timeout: 256 seconds)
+[08:12.45] * Erraunt (~main@user-31-174-207-53.play-internet.pl) has joined channel ##math
+[08:13.09] * paulo_______ (~paulo__@49.146.135.134) has joined channel ##math
+[08:13.44] * zeezey (~textual@172.56.39.131) Quit (Ping timeout: 265 seconds)
+[08:14.18] * Erraunt (~main@user-31-174-207-53.play-internet.pl) Quit (Client Quit)
+[08:15.53] <Fourteen> pedro3005: ＋＋http://mathb.in/28668，， This is what I did, They are equal when I set them all to zero, but I don't know if that's what i do and if it is, why I would do it.
+[08:16.08] * paulo___ (~paulo__@49.146.135.134) Quit (Ping timeout: 255 seconds)
+[08:16.44] * hailviral1 (~jennylowe@70.89.173.121) Quit (Quit: hailviral1)
+[08:18.00] * arubi (~ese168@unaffiliated/arubi) Quit (Quit: Leaving)
+[08:23.59] * stakewinner00 (~stakewinn@74.108.15.37.dynamic.jazztel.es) has joined channel ##math
+[08:24.50] * Emperor (~Supernova@host-87-242-253-224.ppp.onetel.net.uk) has joined channel ##math
+[08:25.44] * tsoutseki_AFK (~tsoutseki@213.249.12.87) has joined channel ##math
+[08:28.52] * xacktm (xacktm@unaffiliated/xacktm) Quit ()
+[08:31.51] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[08:32.33] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[08:33.05] * wei2912 (~wei2912@unaffiliated/wei2912) Quit (Quit: leaving)
+[08:33.20] * wei2912 (~wei2912@175.156.173.42) has joined channel ##math
+[08:33.28] * wei2912 (~wei2912@175.156.173.42) Quit (Changing host)
+[08:33.28] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##math
+[08:34.21] * CheckDavid (uid14990@gateway/web/irccloud.com/x-otcqgnwryeywxbfs) has joined channel ##math
+[08:35.10] * Dante (~quassel@aruba-ctlr11-nat.its.manchester.ac.uk) has joined channel ##math
+[08:35.21] * zeezey (~textual@172.56.41.230) has joined channel ##math
+[08:35.27] * Mercury12314 (~Mercury12@212.56.74.10) has joined channel ##math
+[08:35.37] * capso (~Capso@about/networking/128.0.0.0/Capso) Quit (Ping timeout: 245 seconds)
+[08:35.48] * pyon (~suckmy@unaffiliated/pyon) has joined channel ##math
+[08:36.52] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[08:37.21] * stochasm (~stochasm@unaffiliated/ahayweh) has joined channel ##math
+[08:37.28] * Aune (~arne@hades.lysator.liu.se) Quit (Remote host closed the connection)
+[08:38.33] * Aune (~arne@glados.lysator.liu.se) has joined channel ##math
+[08:41.12] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[08:42.21] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##math
+[08:42.24] * Doddlin (~anonymous@w237083.eduroam.gu.se) has joined channel ##math
+[08:43.06] <Doddlin> Hi! Can someone help me with some stats, or is this the wrong channel for that?
+[08:43.57] <Doddlin> I need help to conduct a chi-squared test with a small data-set for an assignment in school
+[08:44.45] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:45.31] * terencetao (~qed@bzq-84-110-112-164.red.bezeqint.net) has joined channel ##math
+[08:45.45] <frenda> If I measure height (y) of  right triangle and its hypotenuse (r) in the accuracy of 0.01 mm, the angle will be calculated by θ=arcsin(y/r) which is given in decimal form; Now how shoud I round it? How many number after the decimal point?
+[08:45.54] * Sterile (~Alex@23.233.109.101) has joined channel ##math
+[08:45.54] * superlinux-hp (~oracle@unaffiliated/superlinux) Quit (Quit: Leaving)
+[08:45.56] * docdoak (~docdoak4@ool-182e6a83.dyn.optonline.net) Quit (Read error: Connection reset by peer)
+[08:46.29] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[08:46.41] * z0kk (~textual@101.50.89.74) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[08:46.44] * lunde (~user@js4.es.aau.dk) Quit (Remote host closed the connection)
+[08:47.16] * Didrik (~anonymous@c-5eeaaa4b-74736162.cust.telenor.se) has joined channel ##math
+[08:47.18] * oleo (~oleo@unaffiliated/oleo) has joined channel ##math
+[08:47.22] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) has joined channel ##math
+[08:48.07] <Didrik> Hi all! Can someone help me conduct a chi-squared test for a small sample, n=8, I can upload the data-file if needed :)
+[08:48.09] * Doddlin (~anonymous@w237083.eduroam.gu.se) Quit (Ping timeout: 246 seconds)
+[08:48.10] * Didrik is now known as Doddlin
+[08:49.12] * Sweet_Ride (~Sweet@199.47.65.58) Quit (Ping timeout: 246 seconds)
+[08:49.30] <Doddlin> Don’t know what happens to Colloquy atm...
+[08:49.36] <Fourteen> pedro3005: I don't know if you'll be around later but I have to leave soon, have you seen what I said?
+[08:49.42] <Doddlin> Did you see my question?
+[08:50.16] * terencetao (~qed@bzq-84-110-112-164.red.bezeqint.net) Quit (Changing host)
+[08:50.16] * terencetao (~qed@unaffiliated/terencetao) has joined channel ##math
+[08:50.55] <Doddlin> ＋＋https://dl.dropboxusercontent.com/u/852939/Ch11_Q15_V24_Data_File%20%281%29.xls，，
+[08:51.01] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) Quit (Ping timeout: 246 seconds)
+[08:51.06] * Szego (~N@37.46.47.11) has joined channel ##math
+[08:51.25] <Doddlin> I want to compute the test statistics of it
+[08:51.33] * z0kk (~textual@101.50.89.74) has joined channel ##math
+[08:51.46] * kexmex (~kexmex@195.42.130.233) Quit (Quit: Computer has gone to sleep.)
+[08:52.37] <Doddlin> and it’s supposed to be a chi-squared
+[08:53.11] * zeezey (~textual@172.56.41.230) Quit (Ping timeout: 264 seconds)
+[08:53.43] * austeritysucks (~AS@users69.kollegienet.dk) has joined channel ##math
+[08:53.43] * austeritysucks (~AS@users69.kollegienet.dk) Quit (Changing host)
+[08:53.43] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[08:53.48] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 246 seconds)
+[08:54.42] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[08:54.44] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##math
+[08:54.54] * przl (~przlrkt@p57922849.dip0.t-ipconnect.de) Quit (Ping timeout: 244 seconds)
+[08:54.56] * AimHere (~bod@cpc6-sgyl33-2-0-cust77.sgyl.cable.virginm.net) Quit (Quit: Leaving)
+[08:55.25] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) Quit (Quit: Feeling sleepy...)
+[08:55.50] * AimHere (~bod@cpc6-sgyl33-2-0-cust77.sgyl.cable.virginm.net) has joined channel ##math
+[08:55.54] * pwanda1 (~pwanda@nova011-184.cust-nat.nova.is) has joined channel ##math
+[08:56.40] * agd (~agd@unaffiliated/agd) has joined channel ##math
+[08:57.07] * wito_ (~wito@totlandweb.info) has joined channel ##math
+[08:57.10] * dannyfritz (~DannyFrit@205-178-122-103.c3-0.stk-ubr2.chi-stk.il.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[08:57.10] * wito (~wito@unaffiliated/wito) Quit (Ping timeout: 245 seconds)
+[08:57.34] * br0d1n (~mikaj@173-171-162-247.res.bhn.net) has joined channel ##math
+[08:57.49] * lukaramu (~lukaramu@port-54033.pppoe.wtnet.de) has joined channel ##math
+[08:57.55] * revolve (~username@199.19.119.133) has joined channel ##math
+[08:58.16] * Fourteen (810c658b@gateway/web/freenode/ip.129.12.101.139) Quit (Quit: Page closed)
+[01:00.23] *** Server disconnected on irc.freenode.net
+[01:00.27] *** Server disconnected on irc.freenode.net
+[07:52.47] * You have joined ##math
+[07:52.47] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[07:52.47] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[07:52.49] Channel modes for ##math are :+Ccnt
+[07:52.49] Channel Created on: 8:42 PM 1/29/2010
+[07:53.09] * gravitation (~gravitati@atlas.phys.columbia.edu) Quit (Ping timeout: 246 seconds)
+[07:53.09] * gravitation_ is now known as gravitation
+[07:53.35] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) has joined channel ##math
+[07:53.53] * kevr (~kevr@unaffiliated/kevr) Quit (Excess Flood)
+[07:54.23] * AndroidLoverInSF (~AndroidLo@64.56.206.254) Quit (Ping timeout: 264 seconds)
+[07:55.26] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 252 seconds)
+[07:55.29] <Koen_> asdjhsdflkhfd: it's integrable over any *finite* interval
+[07:55.50] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:55.56] * blight (~greg@reactos/developer/blight) Quit (Quit: Konversation terminated!)
+[07:56.00] <asdjhsdflkhfd> why not infinite?
+[07:56.13] * kevr (~kevr@unaffiliated/kevr) has joined channel ##math
+[07:56.55] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[07:57.27] * u1F3B2 (~u1F3B2@h214.146.82.166.dynamic.ip.windstream.net) has joined channel ##math
+[07:59.13] <Koen_> erm I think you're right actually
+[07:59.31] <benzrf> hmmmm
+[07:59.59] <benzrf> i know that in some branches of math theres notions of logics based in topologies (er, toposes, maybe?)
+[08:00.01] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:00.04] <benzrf> so
+[08:00.28] <benzrf> does the notion of hausdorffness somehow carry over into the notion of distinguishability vs identity?
+[08:00.44] * revolve (~username@199.19.119.133) has joined channel ##math
+[08:00.52] * fstd (~fstd@unaffiliated/fisted) has joined channel ##math
+[08:01.14] * cameronfr (~cameronfr@210.35.134.27.ap.yournet.ne.jp) has joined channel ##math
+[08:01.52] <benzrf> hmm maybe hausdorff is stronger than what i am thinking of
+[08:02.26] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##math
+[08:03.48] * Rollabunna (~Rollabunn@69.109.69.86.rev.sfr.net) has joined channel ##math
+[08:04.04] <asdjhsdflkhfd> lol alright
+[08:04.52] * NightRa (uid40361@gateway/web/irccloud.com/x-wbcilqgpkemxrtyg) Quit (Quit: Connection closed for inactivity)
+[08:05.52] * Koen_ (~Koen@vbo91-6-78-245-243-132.fbx.proxad.net) Quit (Quit: The struct held his beloved integer in his strong, protecting arms, his eyes like sapphire orbs staring into her own. "W-will you... Will you union me?")
+[08:07.23] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[08:07.33] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:07.34] <episplit> benzrf, are you looking for T0?
+[08:07.37] * cigarshark (~Todd@73.166.207.22) Quit (Quit: Leaving)
+[08:07.41] <benzrf> hell if i know
+[08:08.02] * odds (~odds@ip70-181-74-63.oc.oc.cox.net) has joined channel ##math
+[08:08.17] <episplit> ＋＋http://en.wikipedia.org/wiki/Kolmogorov_space，，
+[08:08.28] <episplit> that's basically where it starts
+[08:08.30] * OxE6|zzz is now known as OxE6
+[08:08.30] * schmity|home (~schmity@174-31-176-96.tukw.qwest.net) Quit (Quit: Computer has gone to sleep.)
+[08:08.35] <episplit> what with the distinguishability and all
+[08:08.44] * CheckDavid (uid14990@gateway/web/irccloud.com/x-qbmpoesxuzpcomhz) Quit (Quit: Connection closed for inactivity)
+[08:09.33] * revolve (~username@199.19.119.133) Quit (Ping timeout: 256 seconds)
+[08:10.14] * BenLand100 (~blandtop@24.130.27.8) has joined channel ##math
+[08:10.24] * Fiki (~Fiki@chello080109027244.17.14.wu-wien.teleweb.at) Quit (Read error: Connection reset by peer)
+[08:12.02] * hassiktir (~schmity@174-31-176-96.tukw.qwest.net) has joined channel ##math
+[08:12.21] <etothe2ipi> the guy who taught me algebraic topology said there was a T_x axiom for every real x
+[08:12.28] <etothe2ipi> I still haven't found a source
+[08:12.57] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Ping timeout: 256 seconds)
+[08:13.21] <ekaj> I'm reviewing for a test, and of course the last piece I get to review is the one I don't understand due to being sick and missing class (yay flu!).. Anyways, I've been working on this project for a little bit, but I'm stuck on how to find the values for the quadratic equation.
+[08:13.27] <ekaj> I thought I had the correct method, but my graph for the lower part was way off.. so that's wrong. Could anyone point me in the right direction to find a, b, and c so that I can then find the equation for the 2nd half of f(x)? This is what I have so far: ＋＋http://i.imgur.com/RlnVZjb.png，，
+[08:13.30] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Quit: WeeChat 1.1.1)
+[08:14.11] <quintopia> ekaj: do you have three points?
+[08:14.44] <quintopia> oh you have two points and a slope
+[08:14.49] <quintopia> no problem!
+[08:15.54] <quintopia> you get 2ax+b=-0.62 at x = 0, so b=-0.62. That's a freebie!
+[08:16.48] <quintopia> which means you get 2ax-0.62=-0.12 at x=25
+[08:16.54] <quintopia> solve for a
+[08:17.13] * germ13 (~germ13@cpe-104-33-105-125.socal.res.rr.com) has joined channel ##math
+[08:17.30] <quintopia> lastly, you have that c=0 because it goes through the origin
+[08:17.35] <quintopia> DONE DONE DONE
+[08:18.12] * revolve (~username@199.19.119.133) has joined channel ##math
+[08:19.36] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[08:19.37] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) has joined channel ##math
+[08:19.43] * dondie (dondie@unaffiliated/pnint) Quit (Remote host closed the connection)
+[08:19.57] <iWaldo> what sort of ski jump points downwards?
+[08:20.22] <ekaj>   Good question, wondered that myself =p
+[08:20.55] <iWaldo> i was wondering whether i had missed part of the problem haha
+[08:21.32] * Gr1zzly (Elite9820@gateway/shell/elitebnc/x-ulbnepapxiaxkxvf) has joined channel ##math
+[08:22.46] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Quit: Zzzzz...)
+[08:23.13] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[08:24.08] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) Quit (Ping timeout: 256 seconds)
+[08:24.14] * toccatanfugue (~bionet@199.201.65.131) Quit (Quit: Computer has gone to sleep)
+[08:24.18] * stanreg (~stan@38.74.19.34) has left ##math (("Leaving"))
+[08:24.31] <ekaj> quintopia: Thank you! I really appreciate it
+[08:24.46] * sansay (8e9c01df@gateway/web/freenode/ip.142.156.1.223) has joined channel ##math
+[08:25.23] <sansay> Hey guys could someone help me find the formula to create an amortization schedule biweekly? i cant seem to find it.. only calculators
+[08:26.48] * aslant (~aslant@5751a00f.skybroadband.com) Quit (Remote host closed the connection)
+[08:26.53] <sansay> is this the same formula? ＋＋http://en.wikipedia.org/wiki/Amortization_calculator，， just more payments?
+[08:27.41] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 256 seconds)
+[08:28.29] * rigor789 is now known as rigor789|away
+[08:28.35] * oriba (~oliver@e178004197.adsl.alicedsl.de) Quit (Quit: Verlassend)
+[08:28.55] * krankenwagen (~mocl4@unaffiliated/mocl4) Quit (Quit: Ping timeout: 246 seconds)
+[08:31.40] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[08:33.05] * gelignite (~gelignite@i528C3962.versanet.de) Quit (Quit: ＋＋http://bit.ly/1kso8Ta，，)
+[08:33.42] * etothe2ipi (~etotheipi@host86-177-13-55.range86-177.btcentralplus.com) Quit ()
+[08:33.51] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##math
+[08:34.27] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##math
+[08:34.58] * wikiemol (~wikiemol@75.102.129.139) Quit (Ping timeout: 244 seconds)
+[08:35.12] * arubi (~ese168@unaffiliated/arubi) Quit (Ping timeout: 252 seconds)
+[08:36.50] * Trekka12 (~Trekka12@c-cbf1e355.226-2-64736c11.cust.bredbandsbolaget.se) Quit (Ping timeout: 240 seconds)
+[08:37.11] <illustion> cads
+[08:37.15] <illustion> Z-module
+[08:37.19] <illustion> you here?
+[08:37.31] <illustion> I asked this question yesterday but I think I relost the intuition
+[08:37.40] <illustion> want to make sure my intuition is right for something
+[08:38.55] * uku (~uku@140-144-159-217.dyn.estpak.ee) has joined channel ##math
+[08:39.02] * broken_symlink (~broken_sy@73.165.69.3) has joined channel ##math
+[08:39.35] <SL0P3> relational algebra anyone
+[08:39.49] <illustion> The algebraic laws  satisfied by the operation of union for pairs can be generalized to arbitrary unions. Suppose, for instance, that {I_j} is a family of sets with domain J, say; write K = U_j I_j , and let {A_k} be a family of sets with domain K. It is not difficult to prove that U(k in K) A_k = U_(j in J) (U_(i in Ij) Ai)
+[08:41.42] * asdjhsdflkhfd (~Kironide@c-76-28-206-25.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+[08:43.21] * Catuse|BNC is now known as Catuse
+[08:43.22] * Catuse (Catuse@gateway/shell/yourbnc/x-zapoismxousdhxqj) Quit (Changing host)
+[08:43.22] * Catuse (Catuse@trivialand/student/catuse) has joined channel ##math
+[08:44.55] * u1F3B2 (~u1F3B2@h214.146.82.166.dynamic.ip.windstream.net) Quit (Quit: Leaving)
+[08:45.54] * whaletechno (~whaletech@unaffiliated/whaletechno) has joined channel ##math
+[08:47.30] * jrolland-ubuntu2 (~jrolland@108-231-120-72.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[08:47.54] * jrolland-ubuntu2 (~jrolland@108-231-120-72.lightspeed.milwwi.sbcglobal.net) Quit (Max SendQ exceeded)
+[08:48.24] * jrolland-ubuntu2 (~jrolland@108-231-120-72.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[08:48.27] * NoCreativity (~quassel@177.207.55.74.dynamic.adsl.gvt.net.br) has joined channel ##math
+[08:50.48] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[08:50.56] <sansay> how do you calculate interest if it compounds semi annually?
+[08:52.32] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) has joined channel ##math
+[08:53.08] * yamadapc (~yamadapc@201.81.163.75) has joined channel ##math
+[08:53.28] * Platyp (~Platyp@nusnet-228-5.dynip.nus.edu.sg) has joined channel ##math
+[08:53.31] * jrolland-ubuntu2 (~jrolland@108-231-120-72.lightspeed.milwwi.sbcglobal.net) Quit (Quit: Leaving)
+[08:53.44] <iWaldo> multiplication
+[08:54.06] <SL0P3> ^
+[08:54.17] <SL0P3> VOUCH
+[08:55.03] <iWaldo> i think i'll try my question once more: a textbook asked me to prove that the derivative (wrt arc length) of a vector that traces a curve (parameterized by arc length) is the unit tangent vector.  i am able to show that the magnitude of R'(s) is 1, but the fact that it is the "tangent" vector seems like a definitional thing
+[08:55.12] * guisilva (~guisilva@189.55.71.70) Quit (Ping timeout: 252 seconds)
+[08:55.16] <iWaldo> and other than simply taking R'(s) and defining it as the tangent vector, i'm not sure what to do
+[08:55.26] <SL0P3> call it potato
+[08:55.30] <SL0P3> professors normally accept potato
+[08:55.34] <iWaldo> well
+[08:55.43] <iWaldo> no prof
+[08:55.44] * calmdiddlydown (60f4fd4f@gateway/web/freenode/ip.96.244.253.79) has joined channel ##math
+[08:55.54] * Freshrr (42bc472a@gateway/web/freenode/ip.66.188.71.42) has joined channel ##math
+[08:55.58] <SL0P3> r u
+[08:56.01] <SL0P3> dense
+[08:56.03] <SL0P3> fukterd
+[08:56.05] <iWaldo> yes
+[08:56.07] <Freshrr> lol sl0p3
+[08:56.17] <SL0P3> freshrr
+[08:56.20] <SL0P3> sheush
+[08:56.24] <Freshrr> classic
+[08:56.25] <SL0P3> go apply to your
+[08:56.27] <SL0P3> colleges
+[08:56.27] <SL0P3> you retard
+[08:56.36] <Freshrr> I did yesturdday
+[08:56.47] <Freshrr> jk, Im tu yung
+[08:56.56] <iWaldo> so
+[08:56.57] <calmdiddlydown> and tu dumb
+[08:57.04] <iWaldo> hows about dem tangents?
+[08:57.10] * it0a (~it0a@cpe-76-189-250-113.neo.res.rr.com) has joined channel ##math
+[08:57.20] <Freshrr> fite me
+[08:57.30] <iWaldo> i'll punish ya
+[08:57.45] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[08:58.00] * copt (copt@unaffiliated/copt) has joined channel ##math
+[08:58.01] <justanotheruser> Freshrr: roasted
+[08:58.32] * jrolland-ubuntu2 (~jrolland@108-231-120-72.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[08:58.39] <SL0P3> justanotheruser, are u
+[08:58.40] <SL0P3> srs?
+[08:59.22] <justanotheruser> SL0P3: what is srs?
+[08:59.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[08:59.28] <SL0P3> srs
+[08:59.30] <SL0P3> r u
+[08:59.32] <SL0P3> srs
+[08:59.40] <justanotheruser> how do I determine that
+[08:59.47] * yamadapc (~yamadapc@201.81.163.75) Quit (Ping timeout: 255 seconds)
+[08:59.55] <iWaldo> induction on potato
+[08:59.56] * gravitation (~gravitati@dyn-128-59-171-48.dyn.columbia.edu) Quit (Quit: gravitation)
+[09:00.26] <justanotheruser> 20:58 < Freshrr> lol sl0p3 is such a bully
+[09:00.37] <SL0P3> dude
+[09:00.38] <SL0P3> are you serious
+[09:00.40] <SL0P3> ill fuck that kid up
+[09:01.01] <iWaldo> pics or it didn't happen
+[09:01.05] <iWaldo> but srsly
+[09:01.12] <iWaldo> gimme some tangent info
+[09:01.16] <iWaldo> math gods
+[09:01.33] <justanotheruser> iWaldo: ＋＋https://i.imgur.com/FFc1uUz.png，，
+[09:02.04] * mkeer (~mkeer@wn-campus-nat-129-97-124-120.dynamic.uwaterloo.ca) has joined channel ##math
+[09:02.15] <iWaldo> kek
+[09:02.41] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 250 seconds)
+[09:02.51] <SL0P3> srsly
+[09:02.54] <SL0P3> all u
+[09:02.55] <SL0P3> fagits
+[09:02.55] <SL0P3> need sum die
+[09:03.22] <calmdiddlydown> what the fuck is a sl0p3
+[09:03.27] <calmdiddlydown> is that even a thing
+[09:03.32] <iWaldo> no i need to know how i am supposed to prove that dR(s)/ds is a tangent to a curve
+[09:03.43] <SL0P3> sl0p3
+[09:03.45] <SL0P3> its like slope
+[09:03.47] <SL0P3> but downhill
+[09:03.49] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) has joined channel ##math
+[09:03.54] <calmdiddlydown> yeah like ur life
+[09:03.54] * Catuse (Catuse@trivialand/student/catuse) Quit (Killed (asimov.freenode.net (Nickname regained by services)))
+[09:04.04] * Catuse|BNC (Catuse@gateway/shell/yourbnc/x-eypacwufyewaxwnp) has joined channel ##math
+[09:04.10] <mkeer> My textbook claims that the set of all continuous real valued function on K (K is a compact subset of R^n) with norm defined as the supremum of the function over K and vector addition and scalar multiplication defined naturally is a normed vector space.
+[09:04.17] * hiptobecubic (~john@unaffiliated/hiptobecubic) has joined channel ##math
+[09:04.47] <mkeer> But is it not wrong if you consider K = singleton consisting of the zero vector
+[09:06.13] <mkeer> nevermind
+[09:06.15] <mkeer> Got it
+[09:08.02] <ekaj> If you have a linear equation,  say f(x) = -0.62x, then the derivative is f'(x) = 0.. if this isn't velocity, what would it be considered? The velocity at any point x along that line couldn't always be 0
+[09:08.36] <mkeer> The derivative is -0.62
+[09:08.41] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) has joined channel ##math
+[09:09.03] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##math
+[09:09.11] <ekaj> damnit i was thinking product rule, of course it's -.62 because that's the slope
+[09:09.38] <Irrelium> You can use product rule if you want, it still works
+[09:09.52] <iWaldo> use the chain rule too i spose
+[09:09.52] <ekaj> ..you're right, i just had a brain fart
+[09:09.59] <Irrelium> a'b + ab' = 0x + -0.62(1)
+[09:10.49] * Mmango (~user@108-217-142-114.lightspeed.milwwi.sbcglobal.net) Quit (Quit: Leaving)
+[09:11.38] <SL0P3> i am
+[09:11.39] * uku (~uku@140-144-159-217.dyn.estpak.ee) Quit (Ping timeout: 244 seconds)
+[09:11.44] <SL0P3> a stanford graduate student
+[09:11.46] <SL0P3> were do i wave mydong
+[09:12.44] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[09:12.50] * Macuser (~textual@unaffiliated/macuser) Quit (Max SendQ exceeded)
+[09:13.00] <SL0P3> ＋＋http://i.imgur.com/Dq8yaDe.jpg，，
+[09:13.01] * exactly_ (~exactly_@ti0145a400-1399.bb.online.no) Quit (Ping timeout: 256 seconds)
+[09:13.04] <SL0P3> help
+[09:13.25] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math
+[09:13.31] <ekaj> GED is where it's at
+[09:14.00] * cads (43a6c169@gateway/web/freenode/ip.67.166.193.105) has joined channel ##math
+[09:14.03] <SL0P3> lel
+[09:14.04] <SL0P3> r u
+[09:14.08] <SL0P3> a dumb tard
+[09:14.15] <ekaj> no u
+[09:14.45] * {0}grant (~{0}grant@24-216-192-43.dhcp.vinc.in.charter.com) has joined channel ##math
+[09:14.57] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:15.28] * sussman (~sussman@177.40.31.126) has joined channel ##math
+[09:15.50] * revolve (~username@199.19.119.133) Quit (Ping timeout: 240 seconds)
+[09:15.54] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[09:17.38] * Ouroboros (1805e3ca@gateway/web/freenode/ip.24.5.227.202) has joined channel ##math
+[09:17.58] * scinawa (~scinawa@2-230-246-32.ip204.fastwebnet.it) Quit (Ping timeout: 256 seconds)
+[09:17.58] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[09:18.55] * norkle (~norkle@unaffiliated/norkle) Quit ()
+[09:19.13] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[09:19.25] * broken_symlink (~broken_sy@73.165.69.3) Quit (Quit: Leaving)
+[09:19.35] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:20.19] * Flynnn (~Flynnn@68-116-36-156.static.mdfd.or.charter.com) Quit (Quit: This computer has gone to sleep)
+[09:21.19] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Quit: allahu akbar)
+[09:21.40] <Freshrr> Hello everyone.
+[09:21.59] <calmdiddlydown> u already said that moron
+[09:22.18] <Ouroboros> that escalated quickly
+[09:22.47] * Beetny_ (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##math
+[09:23.08] <tac-tics> Ouroboros: clearly not lipschitz
+[09:23.12] <cads> Hey guys, just checking: a ring of polynomials A over a commutative ring R also going to be an R-module, right? And also so will any ideal of A?
+[09:23.42] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[09:24.21] <cads> The first idea holds because the ordinary scalar multiplication of R on polynomials in A obeys the law for a module's scalar multiplication operation
+[09:24.23] * nahtnam (uid22411@gateway/web/irccloud.com/x-mpiokvigaiyyvaod) has joined channel ##math
+[09:25.09] * revolve (~username@199.19.119.133) has joined channel ##math
+[09:25.15] * silo (Si@unaffiliated/silo) Quit (Ping timeout: 264 seconds)
+[09:26.22] <Ouroboros> tac-tics: more like dipshits, amirite?
+[09:26.22] * Macuser (~textual@unaffiliated/macuser) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:27.33] * yamadapc (~yamadapc@201.81.163.75) has joined channel ##math
+[09:27.47] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[09:27.50] * yamadapc (~yamadapc@201.81.163.75) Quit (Remote host closed the connection)
+[09:28.08] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 255 seconds)
+[09:28.58] * yamadapc (~yamadapc@201.81.163.75) has joined channel ##math
+[09:29.33] <cads> and the second is true because a ideal I of A is closed under multiplication by elements of A. This includes the constants in A, and it turns out multiplying by constants again gives us a module's scalar multiplication law
+[09:30.01] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 256 seconds)
+[09:30.54] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit ()
+[09:31.02] <SL0P3> lol
+[09:31.03] <SL0P3> stanford
+[09:31.04] <SL0P3> is best
+[09:31.05] <SL0P3> ever
+[09:31.06] <SL0P3> 420
+[09:31.07] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[09:33.42] * knknn (~knknn@cpe-65-25-38-171.neo.res.rr.com) has joined channel ##math
+[09:33.49] <Ouroboros> thats what she said
+[09:34.19] <knknn> anyone good with statistics?
+[09:34.50] * knknn (~knknn@cpe-65-25-38-171.neo.res.rr.com) Quit (Client Quit)
+[09:34.50] * arubi (~ese168@unaffiliated/arubi) Quit (Ping timeout: 245 seconds)
+[09:35.38] * Szego (~N@37.46.47.11) has joined channel ##math
+[09:36.04] <eatmaggot> berkeley is better.  no fucking rodan on campus and if there was, it would be vandalized which is cool.  plus, a t-rex skeleton.  plus views of the bay and the golden gate from 1015.
+[09:36.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:36.27] * Szego1 (~N@37.46.47.11) Quit (Ping timeout: 246 seconds)
+[09:36.29] <eatmaggot> also, you'll die in an earthquake.  that's badass.
+[09:36.32] <SL0P3> we have a black guy.
+[09:36.35] <SL0P3> Jelus?
+[09:36.44] <eatmaggot> wut
+[09:37.40] * Cirus (~Cirus@2601:9:80:74:e841:672:584e:7ab) has joined channel ##math
+[09:38.02] * cads (43a6c169@gateway/web/freenode/ip.67.166.193.105) Quit (Ping timeout: 246 seconds)
+[09:38.23] * CSStud_ (4f995ed5@gateway/web/freenode/ip.79.153.94.213) Quit (Ping timeout: 246 seconds)
+[09:38.33] * revolve (~username@199.19.119.133) Quit (Ping timeout: 246 seconds)
+[09:39.26] * xrumb (d1c34a91@gateway/web/freenode/ip.209.195.74.145) has joined channel ##math
+[09:39.40] <xrumb> ＋＋http://lpaste.net/123331，，
+[09:39.51] * revolve (~username@199.19.119.133) has joined channel ##math
+[09:39.58] <xrumb> is this refering to taking any f as in for all f... ?
+[09:40.22] <SL0P3> yes
+[09:40.39] * mkeer (~mkeer@wn-campus-nat-129-97-124-120.dynamic.uwaterloo.ca) Quit (Ping timeout: 246 seconds)
+[09:40.40] <xrumb> then surely the property cannot be true..
+[09:40.58] <xrumb> since f can be an arbitrary function, but (_f_ o i) is structure preserving
+[09:41.01] * wyett (~wyett@Dyn136248.cc.lehigh.edu) has joined channel ##math
+[09:41.10] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[09:42.28] <SL0P3> anyone here do much relational algebra?
+[09:42.39] * sacho_ (~hecatonic@176-12-62-113.pon.spectrumnet.bg) Quit (Ping timeout: 244 seconds)
+[09:43.13] <iWaldo> if u know wat i m sayin
+[09:44.20] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##math
+[09:44.25] * deSouza (~deSouza@unaffiliated/desouza) has joined channel ##math
+[09:45.04] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) has joined channel ##math
+[09:45.05] * _kmh_ (~kmh@p5B358654.dip0.t-ipconnect.de) has joined channel ##math
+[09:45.56] * _kmh_ (~kmh@p5B358654.dip0.t-ipconnect.de) Quit (Client Quit)
+[09:47.11] * Yottabyte (~Yottabyte@unaffiliated/yottabyte) Quit (Ping timeout: 264 seconds)
+[09:47.18] * Mercury12314 (~Mercury12@212.56.74.10) Quit (Ping timeout: 244 seconds)
+[09:48.20] * kmh_ (~kmh@p5B358BDC.dip0.t-ipconnect.de) Quit (Ping timeout: 244 seconds)
+[09:50.18] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[09:50.33] <SL0P3> can anyone answer this
+[09:50.34] <SL0P3> ＋＋http://i.imgur.com/v5X47vG.jpg，，
+[09:51.14] <Ouroboros> xrumb: does this help? ＋＋http://en.wikipedia.org/wiki/Universal_property#Formal_definition，，
+[09:51.21] * Yottabyte (~Yottabyte@cpe-67-240-37-188.nycap.res.rr.com) has joined channel ##math
+[09:51.21] * Yottabyte (~Yottabyte@cpe-67-240-37-188.nycap.res.rr.com) Quit (Changing host)
+[09:51.21] * Yottabyte (~Yottabyte@unaffiliated/yottabyte) has joined channel ##math
+[09:52.11] * Technocrat7 (~Technocra@69.27.21.152) has joined channel ##math
+[09:52.16] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) Quit (Quit: I liked it when I was here, as well as when I'm not!)
+[09:52.23] * Racquetball (~namestole@cpe-76-184-137-113.tx.res.rr.com) has joined channel ##math
+[09:52.59] * sansay (8e9c01df@gateway/web/freenode/ip.142.156.1.223) Quit (Quit: Page closed)
+[09:53.46] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) has joined channel ##math
+[09:54.22] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[09:59.29] * revolve (~username@199.19.119.133) Quit (Ping timeout: 256 seconds)
+[09:59.41] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##math
+[10:00.33] * pulse (~pulse@unaffiliated/pulse) Quit (Ping timeout: 246 seconds)
+[10:01.46] * Technocrat7 (~Technocra@69.27.21.152) Quit (Ping timeout: 244 seconds)
+[10:02.18] * n008f4g_ (~jacek1234@89-70-176-170.dynamic.chello.pl) Quit (Ping timeout: 252 seconds)
+[10:02.41] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Read error: Connection reset by peer)
+[10:02.55] * cerebrum_ (~cerebrum@p5DC1BCF7.dip0.t-ipconnect.de) has joined channel ##math
+[10:03.03] * komarov (~komarov@92-100-250-188.dynamic.avangarddsl.ru) Quit (Ping timeout: 264 seconds)
+[10:03.43] * mr_yogurt (~mr_yogurt@65-130-220-188.slkc.qwest.net) has joined channel ##math
+[10:04.30] <mr_yogurt> Is there something similar to a normal distribution, except with a range of 0 to infinity instead of negative infinity to infinity?
+[10:04.35] * cerebrum__ (~cerebrum@p5DC1AD48.dip0.t-ipconnect.de) Quit (Ping timeout: 256 seconds)
+[10:05.10] * dude12312414 (None@gateway/shell/elitebnc/x-ayenuclvhtbhstje) has joined channel ##math
+[10:06.19] <UltraFly> I could certainly invent one for you.
+[10:06.45] <mr_yogurt> But is there one that you wouldn't be inventing?
+[10:06.46] <UltraFly> but it will always lack perfect symmetry of the normal
+[10:06.50] <mr_yogurt> I know that
+[10:06.59] <UltraFly> depends on what qualifies as similiar
+[10:07.10] <UltraFly> there are other things with a central hump
+[10:07.25] <eatmaggot> you probably want the log normal distribution.
+[10:08.01] <mr_yogurt> That sounds like something I would want to be using
+[10:08.24] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) has joined channel ##math
+[10:08.27] * sikio (~sikio@unaffiliated/sikio) Quit (Quit: WeeChat 0.4.2)
+[10:08.58] <UltraFly> the log normal doesn't have the median at the peak right?
+[10:09.02] <UltraFly> err
+[10:09.03] <UltraFly> mean
+[10:09.23] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[10:09.33] <mr_yogurt> Wait. Does the gamma function also fulfill this requirement, or am I mistaken from looking at the wiki page?
+[10:09.47] <mr_yogurt> *gamma distribution
+[10:10.08] <UltraFly> there is also the Gibbs/Boltzmann distribution I think
+[10:11.29] * Platyp (~Platyp@nusnet-228-5.dynip.nus.edu.sg) Quit (Remote host closed the connection)
+[10:11.42] <SL0P3> im 12
+[10:11.52] <SL0P3> how do I add -x = +x
+[10:12.14] <mr_yogurt> wait so is the gamma distribution from 0 to infinity (or whatever other minimum you want) or is it from negative infinity to infinity?
+[10:12.45] * buddhaphomet (~buddhapho@1-19-190-109.dsl.ovh.fr) Quit (Ping timeout: 245 seconds)
+[10:12.55] * _Atom_ (~jawat@172.56.15.103) has joined channel ##math
+[10:13.05] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) Quit (Ping timeout: 256 seconds)
+[10:14.09] * gremly (~gremly@190.85.36.58) Quit (Quit: WeeChat 0.3.2)
+[10:14.17] * gremly (~gremly@190.85.36.58) has joined channel ##math
+[10:14.33] * schleppel (~quassel@141.39.226.237) Quit (Ping timeout: 246 seconds)
+[10:16.15] <mr_yogurt> or is it something else
+[10:16.57] * sysfault (~exalted@p3m/member/sysfault) has joined channel ##math
+[10:17.38] <jiraffe> SL0P3: divide by x on both sides :3
+[10:17.58] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) has joined channel ##math
+[10:18.05] <SL0P3> what does that mean
+[10:18.06] <SL0P3> we can only divide by numbers
+[10:18.20] <jiraffe> :P
+[10:18.44] * hassiktir (~schmity@174-31-176-96.tukw.qwest.net) Quit (Quit: Computer has gone to sleep.)
+[10:19.16] <SL0P3> ?
+[10:19.17] <SL0P3> what
+[10:19.21] <SL0P3> can you help girafye
+[10:20.10] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[10:20.10] * AndroidLoverInSF (~AndroidLo@64.56.206.254) has joined channel ##math
+[10:20.23] <dude12312414> SL0P3: what you wrote "-x = +x" is an equation. What do you mean by "adding" it?
+[10:20.35] <jiraffe> ^
+[10:20.38] * AndroidLoverInSF (~AndroidLo@64.56.206.254) Quit (Max SendQ exceeded)
+[10:20.40] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[10:20.42] <etotheipi> ☝
+[10:21.51] * sdothum (~sdothum@207.112.101.84) Quit (Remote host closed the connection)
+[10:23.55] * tac-tics (~tac-tics@99-126-152-116.lightspeed.cicril.sbcglobal.net) Quit (Quit: Leaving)
+[10:24.27] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) has joined channel ##math
+[10:25.05] * _Atom_ (~jawat@172.56.15.103) Quit (Read error: Connection reset by peer)
+[10:25.39] * brett1479 (~brett1479@pool-173-56-121-99.nycmny.fios.verizon.net) has joined channel ##math
+[10:25.46] * sussman (~sussman@177.40.31.126) Quit (Changing host)
+[10:25.46] * sussman (~sussman@unaffiliated/andybotwin) has joined channel ##math
+[10:25.48] * expo873 (uid11626@gateway/web/irccloud.com/x-idasmfdrlilhbuqu) Quit (Quit: Connection closed for inactivity)
+[10:26.06] * revolve (~username@199.19.119.133) has joined channel ##math
+[10:26.07] * toccatanfugue (~bionet@pool-108-48-158-239.washdc.fios.verizon.net) has joined channel ##math
+[10:26.10] * sussman (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[10:26.19] * wikiemol (~wikiemol@75.102.129.139) has joined channel ##math
+[10:26.34] * AndyBotwin (~sussman@unaffiliated/andybotwin) has joined channel ##math
+[10:26.51] * buddhaphomet (~buddhapho@1-19-190-109.dsl.ovh.fr) has joined channel ##math
+[10:26.56] * user123321 (~user@112.134.200.101) has joined channel ##math
+[10:27.01] * user123321 (~user@112.134.200.101) Quit (Read error: Connection reset by peer)
+[10:27.09] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Read error: Connection reset by peer)
+[10:27.48] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[10:29.14] * HenriettaSalt (~Henrietta@eduroam-160-126.dyn.carleton.edu) Quit (Ping timeout: 265 seconds)
+[10:29.24] * Macuser (~textual@unaffiliated/macuser) has joined channel ##math

@@ -1,0 +1,72 @@
+Session Start: Sun Mar 01 04:30:30 2015
+Session Ident: ##engineering
+[04:30.30] * You have joined ##engineering
+[04:30.30] Topic: we like to talk about making stuff | preferably in SI | '"The odds are good, but the goods are odd." ~ said by girls in engineering schools.' | sometimes it takes a while to get an answer - longer if you don't ask the question
+[04:30.31] Channel Topic Set by: marienz on 1:34 AM 2/25/2011
+[04:30.31] Channel modes for ##engineering are :+nst
+[04:30.31] Channel Created on: 6:42 AM 11/26/2006
+[04:31.04] <Rainb> I just saw a documentary about tesla developing a machine that could transfer electricity without wire
+[04:36.29] --L8D-- logged in with account (L8D)
+[04:45.41] * nfk (~nfk@unaffiliated/nfk) Quit (Quit: yawn)
+[04:49.45] <SpeedEvil> In short - no.
+[04:54.11] --Suchorski-- logged in with account (Suchorski)
+[05:04.29] --vhlfd-- logged out of account
+[05:05.41] --ulrichard-- logged in with account (ulrichard)
+[05:07.28] --rabbitdew-- logged in with account (rabbitdew)
+[05:08.17] --_Atom_-- logged in with account (_Atom_)
+[05:11.07] * Blood-Wiper (~AA104106@pool-173-71-58-17.dllstx.fios.verizon.net) has joined channel ##engineering
+[05:11.07] --Blood-Wiper-- logged in with account (Blood-Wiper)
+[05:15.27] --Suchorski-- logged in with account (Suchorski)
+[05:29.07] --_Atom_-- logged in with account (_Atom_)
+[05:32.48] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 264 seconds)
+[05:33.47] * Black_Phoenix (~phoenix@ip-6317.proline.net.ua) has joined channel ##engineering
+[05:35.51] --_Atom_-- logged in with account (_Atom_)
+[05:36.30] --Yordan89-- logged in with account (Yordan89)
+[05:39.31] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##engineering
+[05:44.24] --p-trust-- logged in with account (p-trust)
+[05:49.17] * jzk (~eccehomo@ec2-54-176-48-31.us-west-1.compute.amazonaws.com) Quit (Quit: Leaving.)
+[05:53.24] * jzk (~eccehomo@ec2-54-176-48-31.us-west-1.compute.amazonaws.com) has joined channel ##engineering
+[06:00.25] --fluter-- logged in with account (fluter)
+[06:03.35] --defense_bot-- logged in with account (defense_bot)
+[06:06.08] --atomicalloy-- logged in with account (atomicalloy)
+[06:07.47] --defense_bot-- logged in with account (defense_bot)
+[06:08.34] --D-e-X-- logged in with account (D-e-X)
+[06:09.01] --guilt_-- logged in with account (guilt_)
+[06:12.17] --santpython-- logged in with account (santpython)
+[06:18.41] --ZysFryar-- logged in with account (ZystemFryar)
+[06:18.43] --skapata-- logged in with account (skapata)
+[06:23.37] --Lancien-- logged in with account (Lancien)
+[06:26.31] * UltraFly (~UltraFlyI@173.48.203.54) has joined channel ##engineering
+[06:26.56] --mheath-- logged in with account (mheath)
+[06:28.22] --kerframil-- logged in with account (kerframil)
+[06:34.00] *** Server disconnected on irc.freenode.net
+[07:54.42] * You have joined ##engineering
+[07:54.42] Topic: we like to talk about making stuff | preferably in SI | '"The odds are good, but the goods are odd." ~ said by girls in engineering schools.' | sometimes it takes a while to get an answer - longer if you don't ask the question
+[07:54.42] Channel Topic Set by: marienz on 1:34 AM 2/25/2011
+[07:54.43] Channel modes for ##engineering are :+nst
+[07:54.43] Channel Created on: 6:42 AM 11/26/2006
+[07:54.52] <Viper168> it's not ionizing radiation so unlikely
+[07:55.30] <Viper168> but if you're pumping a bunch of RF into the air there are other issues
+[07:55.30] <Blood-Wiper> like what
+[07:59.11] *** Server disconnected on irc.freenode.net
+[09:05.51] * You have joined ##engineering
+[09:05.51] Topic: we like to talk about making stuff | preferably in SI | '"The odds are good, but the goods are odd." ~ said by girls in engineering schools.' | sometimes it takes a while to get an answer - longer if you don't ask the question
+[09:05.51] Channel Topic Set by: marienz on 1:34 AM 2/25/2011
+[09:05.52] Channel modes for ##engineering are :+nst
+[09:05.52] Channel Created on: 6:42 AM 11/26/2006
+[09:05.59] <DanFrederiksen> it can't handle real world data
+[09:06.02] <Blood-Wiper> so do you work at a company that does ai stuff?
+[09:06.03] <DanFrederiksen> like images
+[09:06.14] <DanFrederiksen> no, one man company. doing projects
+[09:27.44] * unreal_ (~unreal@unaffiliated/unreal) has joined channel ##engineering
+[09:30.32] * unreal (~unreal@unaffiliated/unreal) Quit (Ping timeout: 265 seconds)
+[09:39.21] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 240 seconds)
+[09:50.42] * SpeedEvil (~quassel@tor/regular/SpeedEvil) Quit (Quit: No Ping reply in 180 seconds.)
+[09:51.29] * SpeedEvil (~quassel@tor/regular/SpeedEvil) has joined channel ##engineering
+[09:54.27] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##engineering
+[10:09.07] * Black_Phoenix (~phoenix@ip-6317.proline.net.ua) Quit (Ping timeout: 246 seconds)
+[11:25.55] * mocl4 (mocl4@unaffiliated/mocl4) Quit (Quit: Ping timeout: 246 seconds)
+[11:29.51] * mocl4 (mocl4@unaffiliated/mocl4) has joined channel ##engineering
+[11:41.12] * Viper168_ (~Viper@unaffiliated/viper168) has joined channel ##engineering
+[11:43.49] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 252 seconds)
+[11:45.42] * Viper168_ (~Viper@unaffiliated/viper168) Quit (Max SendQ exceeded)

@@ -1,0 +1,1558 @@
+Session Start: Fri Mar 06 04:21:17 2015
+Session Ident: ##programming
+[04:21.17] * You have joined ##programming
+[04:21.17] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[04:21.17] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[04:21.19] Channel modes for ##programming are :+cntf ##overflow
+[04:21.19] Channel Created on: 5:23 AM 2/4/2007
+[04:24.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[04:26.14] * Seacow (~Seacow@unaffiliated/seacow) Quit (Ping timeout: 244 seconds)
+[04:27.23] * mwdev (~myworldde@S0106306023d71b33.vs.shawcable.net) Quit (Ping timeout: 264 seconds)
+[04:27.39] <Twey> apoplexy_da_boss: Print it out, grab it firmly in both hands, and apply lateral force
+[04:28.09] <apoplexy_da_boss> its a forum that costs $400/month
+[04:28.11] <apoplexy_da_boss> huge forum
+[04:28.21] <apoplexy_da_boss> trying to store the data after my month term expires so i can keep reading content
+[04:28.26] <apoplexy_da_boss> is this possible?
+[04:30.06] * admg (~admg@host86-147-105-161.range86-147.btcentralplus.com) has joined channel ##programming
+[04:30.40] <adsc> Ixxie: okay, but you specificially said it's unproductive, so I guess you were wrong
+[04:30.43] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[04:31.03] * renxx (~renxx@keila-gw.radionet.ee) has joined channel ##programming
+[04:31.13] <adsc> apoplexy_da_boss: it certainly is
+[04:31.29] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##programming
+[04:31.44] <rindolf> Hi all! Sup?
+[04:31.44] <Ixxie> adsc: sure, you got a point there. But I use this ancient Asian pedagogic technique where you emphasize the opposite of what somewhat else is convinced in order to cancel it out, if you know what I mean
+[04:31.50] <adsc> apoplexy_da_boss: there is a firefox plugin i used in the past to download websites, called scrapbook i think
+[04:31.59] <adsc> yo rindolf, how are you?
+[04:32.12] <rindolf> adsc: I'm fine - I did backups yesterday.
+[04:32.24] <adsc> did you do a restore test?
+[04:32.35] <rindolf> adsc: and I started working on my April Fools' Day Gag for this year.
+[04:32.39] <rindolf> adsc: no, not yet.
+[04:32.40] <adsc> backups are worthless if you haven't restored them at least 1 successfully
+[04:32.54] <rindolf> adsc: I have restored them in the past.
+[04:33.13] <rindolf> But I'd like to do it again.
+[04:33.33] <apoplexy_da_boss> thank you adsc, that is all i needed to know
+[04:34.46] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 246 seconds)
+[04:35.05] * strainwrld (~strainwrl@a95-92-81-37.cpe.netcabo.pt) Quit (Remote host closed the connection)
+[04:35.21] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 240 seconds)
+[04:35.45] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 265 seconds)
+[04:36.29] <adsc> rindolf: you amass a lot of content on your website, it's quite impressive
+[04:36.37] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[04:36.43] <adsc> rindolf: looking forward to that gag
+[04:39.18] <apoplexy_da_boss> lmao adsc, that kid is a moron
+[04:39.34] <rindolf> adsc: thanks! :-)
+[04:39.41] <apoplexy_da_boss> "i worked security"
+[04:39.50] <apoplexy_da_boss> i want to get that dudes pic and make a meme now
+[04:39.53] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 250 seconds)
+[04:40.05] <apoplexy_da_boss> "HE WORKED SECURITY"
+[04:40.58] <adsc> i don't think he's a moron, but he's probably wrong in this matter
+[04:41.25] <adsc> the way I see it, you pay for updated content on this forum, not simple acces
+[04:41.44] <adsc> you basically pay to be part of the community and get the latest information
+[04:41.57] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[04:41.58] <apoplexy_da_boss> yeah prob not, prob a great coder but he was a jerk lol
+[04:42.01] <adsc> which you lose if you refuse to pay, even if you download everything there is during your stay
+[04:42.07] * leq (~leq@5-179-101-46.glidedsl.com) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[04:42.38] <adsc> to go a bit further, I think this is the future of digital content
+[04:42.46] * darsie (~darsie@chello080108047045.34.11.vie.surfer.at) has joined channel ##programming
+[04:43.06] <darsie> Is there a programming language called spaghetti, yet?
+[04:43.30] <adsc> yes
+[04:43.38] <darsie> cool ;)
+[04:43.49] <darsie> cause there's lots of code for it :)
+[04:43.51] <adsc> all questions starting with "is there a programming language called ..." are to be answered with yes
+[04:43.56] <adsc> ＋＋http://esolangs.org/wiki/Spaghetti，，
+[04:44.00] * Pearson (~M@202-89-151-114.ue.woosh.co.nz) Quit (Quit: Bah!)
+[04:46.56] * qset (~qset@108-233-125-140.lightspeed.sntcca.sbcglobal.net) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[04:47.47] * yaswanth (~yravella@inet-hqmc01-o.oracle.com) has joined channel ##programming
+[04:48.14] * darsie (~darsie@chello080108047045.34.11.vie.surfer.at) has left ##programming (("Once you know what it is you want to be true, instinct is a very useful device for enabling you to know that it is"))
+[04:50.26] * kggr (~korggrodn@mail.ramtex.by) Quit (Remote host closed the connection)
+[04:50.42] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##programming
+[04:52.15] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[04:52.19] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##programming
+[04:55.39] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[04:57.24] * zadock (~zadock@muscalu.tuiasi.ro) has joined channel ##programming
+[04:57.36] * Click66 (~Click66@94.143.188.0) has joined channel ##programming
+[05:00.22] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##programming
+[05:05.16] * _slade_ (~Slade@fq-130-49-39-204.wireless.pitt.edu) Quit (Ping timeout: 246 seconds)
+[05:07.11] <apoplexy_da_boss> adsc: do you know anything about landing pages?
+[05:07.26] * nh_99 (~nh@nohowdezign.com) Quit (Ping timeout: 250 seconds)
+[05:07.27] * Korhonen is now known as AmericanHandegg
+[05:07.53] * fangs124 is now known as fangs124_afk
+[05:08.30] <Jck_true_> apoplexy_da_boss: It's best the pilot have those read before he attempts to land the plane
+[05:08.47] <apoplexy_da_boss> Jck_true_: cool
+[05:09.26] <adsc> apoplexy_da_boss: in which context?
+[05:09.47] * Gluesticky (~nobody@unaffiliated/gluesticky) Quit (Quit: This is the end. Goodbye cruel world!)
+[05:11.55] * ghostpl_ (~ghostpl@85.232.253.2) Quit (Remote host closed the connection)
+[05:12.44] <aawe> I made a template<class T> T undefined() { throw "Not implemented"; return T(); } that I call like this: float z = undefined<float>(); is there anything better in the stdlib or boost?
+[05:12.44] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 244 seconds)
+[05:13.48] * pimlu (~pimlu@128.172.35.9) has joined channel ##programming
+[05:13.57] * Eremox (~Eremox@193.44.1.80) has joined channel ##programming
+[05:14.02] * tarkus (~hello@109.230.140.12) has joined channel ##programming
+[05:14.33] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) has joined channel ##programming
+[05:14.35] * ghostpl_ (~ghostpl@85.232.253.2) has joined channel ##programming
+[05:14.58] * epitamizor (~snake@66-189-201-119.dhcp.yakm.wa.charter.com) has joined channel ##programming
+[05:16.44] * saikrishna (saikrishna@nat/iiit/x-duiprmgduiqdmmph) has joined channel ##programming
+[05:17.40] <apoplexy_da_boss> im going to be pursuing internet marketing. landing pages are integral. lets say i have a concept i dont want taken but my landing pages are obviously displaying on other peoples computers -- is there a way to hide the code?
+[05:17.49] <apoplexy_da_boss> or typically can someone just rip whatever they want
+[05:18.10] <apoplexy_da_boss> (i want to be able to rip other peoples stuff but not have people rip mine) ;)
+[05:18.23] <aawe> apoplexy_da_boss: so you want to display the idea on a landing page, but you don't want them to see the idea in case they steal it?
+[05:18.35] <adsc> apoplexy_da_boss: well, you control what you serve them, so...
+[05:18.36] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[05:18.38] <aawe> sounds like having a cake and eating it
+[05:18.50] <adsc> apoplexy_da_boss: what you serve them is what they get and they can do whatever they want with it
+[05:18.52] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Client Quit)
+[05:19.13] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[05:19.35] <apoplexy_da_boss> of course, they have to see it for me to generate revenue
+[05:19.47] <apoplexy_da_boss> but my question is -- they can always just take the sourcecode and alter it and use it right?
+[05:20.01] <aawe> yes, and that is never a problem
+[05:20.03] <adsc> the html?
+[05:20.14] <adsc> what they can get is what you give them
+[05:20.18] <apoplexy_da_boss> (im not a programmer btw)
+[05:20.20] <adsc> nothing more
+[05:20.53] <apoplexy_da_boss> ok lets say an ad shows up on your computer. you're in internet marketing and like DAMN, THATS A SWEET LANDER DUDE! can you rip that exact page?
+[05:21.03] <apoplexy_da_boss> using the sourcecode available via browser, etc etc?
+[05:21.14] <adsc> i don't even understand what you're saying
+[05:21.21] <apoplexy_da_boss> prob my fault
+[05:21.32] <adsc> rip which page?
+[05:21.35] <apoplexy_da_boss> when an ad shows up in a popup on your laptop
+[05:21.36] <aawe> apoplexy_da_boss: why would anyone rip a "landing page" for someone elses product?
+[05:21.39] <adsc> the page the ad is displayed on?
+[05:21.47] <apoplexy_da_boss> its a popup
+[05:21.53] <adsc> a popup window?
+[05:21.56] <apoplexy_da_boss> yes
+[05:22.07] <adsc> yeah, you can get all the content that is shown in the window
+[05:22.19] <adsc> make an exact 1 to 1 copy of that page
+[05:22.26] <apoplexy_da_boss> and just alter it for their own product if they liked the template, etc? aawe thats my concern
+[05:22.34] <adsc> yep
+[05:22.39] <apoplexy_da_boss> if its a good converting ad, ppl could potentially steal the ad and compete against me
+[05:22.41] <apoplexy_da_boss> thats the logic
+[05:22.49] <apoplexy_da_boss> take my "secret sauce"
+[05:22.54] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[05:22.56] <Jck_true_> apoplexy_da_boss: Obfuscation is a way to avoid that - But I really wouldn't be concerned about that
+[05:23.08] <apoplexy_da_boss> obfuscation = ?
+[05:23.14] <Jck_true_> You don't see people copying Yahoo/Google/Microsoft blantly anyway
+[05:23.17] <pyon> apoplexy_da_boss: Once you deploy information to the user, what the user does with it is none of your business - even if it were, you can't control it.
+[05:23.27] <apoplexy_da_boss> pyon: i understand
+[05:23.34] <aawe> apoplexy_da_boss: and if they do this, how does it matter?
+[05:23.43] <pyon> apoplexy_da_boss: Obfuscation is making code deliberately harder to understand.
+[05:23.47] <aawe> how do you suffer if someone else use your shitty design?
+[05:23.53] <pyon> hard*
+[05:23.54] <apoplexy_da_boss> because they can setup a campaign for the same production, outbid me for clicks and take profits lol
+[05:24.02] <apoplexy_da_boss> and then how am i supposed to pay the hydro bill, aawe ?
+[05:24.12] <aawe> you own a hydroelectric plant?
+[05:24.22] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[05:24.23] <apoplexy_da_boss> ah ok
+[05:24.33] <aawe> your water bill?
+[05:24.34] <apoplexy_da_boss> ok perfect, thanks for the help guys :]
+[05:24.42] <adsc> you know that designs can be copyrighted
+[05:24.53] <adsc> if someone copies your design, you can sue them
+[05:25.19] <apoplexy_da_boss> roger
+[05:25.22] * Gluesticky (~IceChat9@unaffiliated/gluesticky) has joined channel ##programming
+[05:25.38] <adsc> obfuscation is not really effective, btw.
+[05:25.52] <Jck_true_> I love how ##programming is always about solving problems that shouldn't even be problems in the first place :D
+[05:25.54] <adsc> there are a lot of simplifiers out there that remove obfuscation
+[05:26.16] <aawe> copying a design only requires a set of eyes and a graphics editor
+[05:26.38] * varibull_ (~varibull@c-69-137-131-106.hsd1.de.comcast.net) Quit (Remote host closed the connection)
+[05:26.40] <Jck_true_> Yeah it does seem rather pointless to obfuscate HTML
+[05:27.02] * varibull_ (~varibull@c-69-137-131-106.hsd1.de.comcast.net) has joined channel ##programming
+[05:27.11] <Jck_true_> (One could argue it's already happying with thoose stupid Javascript and CSS compressors...)
+[05:27.15] * eniLCP_ (~eniLCP__@cpe-69-133-54-2.cinci.res.rr.com) Quit (Ping timeout: 246 seconds)
+[05:27.16] <Jck_true_> happening*
+[05:27.48] * pyon wonders why not make browsers simply deploy binaries.
+[05:28.13] <pyon> Minified JavaScript isn't readable -- yet it still takes more space than equivalent bytecode would.
+[05:28.23] <pyon> Actually, most JavaScript isn't readable even before minifying.
+[05:28.27] <Jck_true_> Too much legacy..
+[05:28.58] <Jck_true_> pyon: Wanna bring back Gopher?
+[05:29.12] <pyon> Jck_true_: I wasnt' complaining about HTTP.
+[05:29.15] <pyon> (Today.)
+[05:29.49] <adsc> well, you should, do
+[05:29.54] <adsc> because it's terrible
+[05:30.15] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##programming
+[05:30.21] <pyon> adsc: Oh, I've expressed my dissatisfaction with HTML at some point in time.
+[05:30.32] <pyon> adsc: It's just that I don't see how Gopher is an alternative to *JavaScript*.
+[05:30.50] <pyon> Jck_true_: A much better retord would've been "Wanna bring back Java applets?"
+[05:30.57] <pyon> retort*
+[05:31.10] <Jck_true_> Well you wanted bytecode :)
+[05:31.32] <pyon> And what does Gopher have to do with bytecode?
+[05:31.32] <Jck_true_> You can also have flash (But not shockwave)
+[05:31.41] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[05:31.49] * Richdog (~Richdog@cpe-075-183-106-080.triad.res.rr.com) Quit (Ping timeout: 265 seconds)
+[05:32.07] <Jck_true_> pyon: You're right - You're right
+[05:33.30] <pyon> Anyway, the Web is the way it is, because it's built atop one layer after another of permissive technologies.
+[05:33.37] * apotheon (~ren@copyfree/founder/apotheon) Quit (Ping timeout: 246 seconds)
+[05:34.12] <adsc> indeed
+[05:34.21] <pyon> Crap code that isn't even properly thought out gets posted for the whole world to see, because "it seems to work".
+[05:34.39] <adsc> and is then used to build even crappier code
+[05:35.03] <adsc> at some point, features emerge from all the holes in the code that nobody thought would be possible
+[05:35.47] * pimlu (~pimlu@128.172.35.9) Quit (Ping timeout: 252 seconds)
+[05:36.46] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[05:37.08] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 265 seconds)
+[05:41.16] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Ping timeout: 246 seconds)
+[05:42.04] * hanshenrik_ (~hanshenri@ti0016a400-0911.bb.online.no) Quit (Read error: Connection reset by peer)
+[05:46.44] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##programming
+[05:48.03] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Client Quit)
+[05:52.36] * ChoiKyuSang (~Valkyrie@unaffiliated/choikyusang) Quit (Read error: Connection reset by peer)
+[05:53.44] * ChoiKyuSang (~Valkyrie@unaffiliated/choikyusang) has joined channel ##programming
+[05:55.01] * ap0c (~ap0c@unaffiliated/ap0c) Quit (Ping timeout: 256 seconds)
+[05:58.25] * Leftas (~leftas@91.228.84.180) has joined channel ##programming
+[05:58.42] * apotheon (~ren@copyfree/founder/apotheon) has joined channel ##programming
+[06:00.09] <nikio_> you guys know the advantage of using  a heap structure for a priority que in terms of time complexity
+[06:00.10] <nikio_> ?
+[06:00.15] * absk007 (~absk007@unaffiliated/absk007) has joined channel ##programming
+[06:00.58] * lapide_viridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 272 seconds)
+[06:03.18] * Jellydog (~Jellykuf@c-94-255-242-216.cust.bredband2.com) Quit (Quit: Jellydog)
+[06:03.38] * yaswanth (~yravella@inet-hqmc01-o.oracle.com) Quit (Quit: Leaving.)
+[06:04.35] <pyon> nikio_: Um, there's more than one heap structure.
+[06:05.16] <pyon> nikio_: "Heap" and "priority queue" are pretty much synonymous: they don't refer to a specific implementation, they refer to the signature of an abstract type.
+[06:05.43] <nikio_> nope pyo
+[06:05.43] <nikio_> n
+[06:05.50] <nikio_> pyon a heap is a binary tree structure
+[06:06.07] <pyon> nikio_: Are you talking about *binary* heaps?
+[06:06.24] <pyon> nikio_: I'm pretty sure there are multiple possible heap structures, and I can provide examples.
+[06:06.57] <nikio_> pyon more generally a heap is a tree
+[06:07.13] <nikio_> so its not as abstract as a priority quee
+[06:07.20] <nikio_> which can be implemented using a heap
+[06:07.42] <pyon> nikio_: Binomial heaps (and variants: scheduled binomial heaps, skew-binomial heaps, etc.), Fibonacci heaps, leftist heaps, bootstrapped heaps (parameterized by an underlying primitive heap type)...
+[06:07.51] <pyon> ＋＋https://en.wikipedia.org/wiki/Binomial_heap，，
+[06:07.57] <pyon> ＋＋https://en.wikipedia.org/wiki/Fibonacci_heap，，
+[06:08.04] * halcyforn (~ecovent@83.220.118.20.umts.static.t-mobile.pl) has joined channel ##programming
+[06:08.11] <pyon> ＋＋https://en.wikipedia.org/wiki/Skew_binomial_heap，，
+[06:08.19] <pyon> ＋＋https://en.wikipedia.org/wiki/Leftist_tree，，
+[06:08.38] <pyon> nikio_: Binary heaps are just one particular implementation of heaps.
+[06:08.47] <pyon> (And not even a particularly good one.)
+[06:08.55] <nikio_> pyon they are all tree based
+[06:09.10] <pyon> nikio_: A binomial heap is actually a forest - a collection of trees.
+[06:09.12] * plushwork (~jakubka@Wikipedia/Plushy) Quit (Read error: Connection reset by peer)
+[06:09.21] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) Quit ()
+[06:09.30] <nikio_> pyon ok, but still its more abstract than a priority que
+[06:09.37] <pyon> nikio_: wut
+[06:09.39] <nikio_> i mean
+[06:09.43] <nikio_> its less abstract
+[06:09.45] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 256 seconds)
+[06:09.48] * kcj (~kcj@unaffiliated/kcj) Quit (Remote host closed the connection)
+[06:09.53] <nikio_> we can say we implement a priority quee with a heap
+[06:10.00] <nikio_> but not other way around
+[06:10.19] <pyon> nikio_: Correction: you can implement a priority queue (aka heap) using a binary heap.
+[06:10.28] <halcyforn> hello. i need small help, i must wirite a smal program what calculate something and make result to pdf, this must be multiplatform(mac linux and windows) what language shuld be good for this and easy.
+[06:11.00] <nikio_> pyon a priority quee isnt aka a heap because it can be implemented using other types of data structures than a heap
+[06:11.04] * Gurkenglas (~Gurkengla@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[06:11.28] <rindolf> pyon: hi, what time is it there?
+[06:11.29] <nikio_> pyon While priority queues are often implemented with heaps, they are conceptually distinct from heaps. A priority queue is an abstract concept like "a list" or "a map"; just as a list can be implemented with a linked list or an array, a priority queue can be implemented with a heap or a variety of other methods such as an unordered array.
+[06:11.33] <pyon> rindolf: 6am
+[06:11.57] <rindolf> pyon: ah, did you sleep today?
+[06:12.02] <pyon> rindolf: A little.
+[06:12.20] <pyon> rindolf: What's up there? How's your morning been?
+[06:12.48] <rindolf> pyon: it's been fine.
+[06:12.53] <pyon> rindolf: Nice.
+[06:13.00] <rindolf> pyon: I handled the morning's emails and worked on my backups.
+[06:13.08] <pyon> Ah.
+[06:13.16] <rindolf> I Reduced the gzip --rsyncable -9 to under 9MByte.
+[06:13.34] * icetooth (~icetooth@unaffiliated/icetooth) Quit (Ping timeout: 256 seconds)
+[06:13.38] <rindolf> 8,706,467 to be precise.
+[06:13.43] <pyon> rindolf: What do you keep backups of?
+[06:13.50] <rindolf> pyon: my data.
+[06:13.55] <pyon> rindolf: Everything?
+[06:13.57] <rindolf> pyon: stuff that's not in VCSEs.
+[06:14.01] <pyon> Ah.
+[06:14.13] <rindolf> pyon: well, I have many --exclude-s
+[06:14.22] <rindolf> I use tar.
+[06:14.45] * `Eddie (~dedword@unaffiliated/eddie/x-2286721) Quit (Quit: the mac is asleep)
+[06:16.15] <pyon> nikio_: Quoting Purely Functional Data Structures: "Heaps are *often* implemented as heap-ordered trees, in which the element at each node is no larger than the elements at its children. Under this ordering, the minimum element in a tree is always at the root." [Emphasis mine.] Heaps don't need to be implemented using heap-ordered trees. They just *often* are.
+[06:16.58] * VaticanCameos (~pritishc@182.68.132.77) Quit (Ping timeout: 246 seconds)
+[06:17.19] <pyon> nikio_: You're just conflating a heap with a heap-ordered tree.
+[06:18.15] <nikio_> pyon that book sounds a bit shitty
+[06:18.17] <nikio_> In computer science, a heap is a specialized tree-based data structure that satisfies the heap property: If A is a parent node of B then the key of node A is ordered with respect to the key of node B with the same ordering applying across the heap. Heaps can be classified further as either a "max heap" or a "min heap". In a max heap, the keys of parent nodes are always greater than or equal to those of the children and the highest k
+[06:18.18] <nikio_> ey is in the root node. In a min heap, the keys of parent nodes are less than or equal to those of the children and the lowest key is in the root node.
+[06:18.32] <nikio_> this is less vague  than the quote from your book
+[06:18.51] * zoso (~arvind@unaffiliated/arvind-khadri/x-2237230) Quit (Ping timeout: 240 seconds)
+[06:18.57] * nisi (4fb73f1a@gateway/web/freenode/ip.79.183.63.26) has joined channel ##programming
+[06:19.05] <nisi> there is a c++ & visual studio channel??
+[06:20.23] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[06:20.38] <pyon> nikio_: Also, anyone who knows order theory knows that the distinction between min-heap and max-heap is superfluous: the inverse of a weak total order is also a weak total order. A so-called "max-heap" is just a regular min-heap (there is no other kind) whose underlying order is the inverse of another order you're considering.
+[06:21.01] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[06:21.08] * snhmib (~jurjen@a83-163-200-186.adsl.xs4all.nl) has joined channel ##programming
+[06:21.28] <pyon> nisi: AFAICT, there's no channel specifically about Visual Studio. But, if you have a question, just ask here or in Stack Overflow or whatever. (Sadly, ##c++ doesn't welcome questions about specific tools.)
+[06:23.07] * baum (~baum@2a02:d40:9:159::bd4e) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[06:23.49] * baum (~baum@2a02:d40:9:159::bd4e) has joined channel ##programming
+[06:23.51] * nisi (4fb73f1a@gateway/web/freenode/ip.79.183.63.26) has left ##programming ()
+[06:24.34] * lapide_viridi (~lapide_vi@139.98.2.55) has joined channel ##programming
+[06:25.42] <pyon> nikio_: In any case, if you define a "heap" as a heap-ordered tree, then binomial heaps or Fibonacci heaps (and many other interesting heaps) by definition *aren't* heaps: their underlying implementation is a forest.
+[06:26.01] * abugar (~abugar@unaffiliated/abugar) has joined channel ##programming
+[06:26.24] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 246 seconds)
+[06:26.45] <adsc> halcyforn: google cross platform pdf library
+[06:27.39] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 244 seconds)
+[06:27.45] <o0elise0o> ＋＋https://play.google.com/store/apps/details?id=com.elise.fistfulofsound，，
+[06:27.52] <o0elise0o> MWAHAHHAHAHA
+[06:27.54] * aawe (~aawe@orvar.me) Quit (Remote host closed the connection)
+[06:28.04] * aawe (~aawe@orvar.me) has joined channel ##programming
+[06:28.18] * o0elise0o kicks nitrix.
+[06:28.35] * plushwork (~jakubka@Wikipedia/Plushy) has joined channel ##programming
+[06:29.55] <adsc> o0elise0o: your first one?
+[06:30.21] <o0elise0o> yeah
+[06:30.49] * Ixxie (~Ixxie@dsl-hkibrasgw3-54fb7f-131.dhcp.inet.fi) Quit (Remote host closed the connection)
+[06:31.50] * Thiht (~Thunderbi@ARennes-655-1-176-245.w92-139.abo.wanadoo.fr) has joined channel ##programming
+[06:32.19] <adsc> o0elise0o: congrats!
+[06:32.24] <o0elise0o> Thanks
+[06:32.24] * pimlu (~pimlu@128.172.35.9) has joined channel ##programming
+[06:32.37] <o0elise0o> I had to fight off the Google legal team to do it, but it worked out ok
+[06:32.46] <adsc> i should probably put more work into mine some day
+[06:33.00] <o0elise0o> Are you the one with the Love game?
+[06:33.03] <adsc> no
+[06:33.04] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[06:33.08] <adsc> i'm working on another game
+[06:33.12] <o0elise0o> damnit, i have no idea who that was
+[06:33.13] <adsc> a climbing game
+[06:33.28] <adsc> with libgdx
+[06:33.40] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[06:34.04] * abugar (~abugar@unaffiliated/abugar) Quit (Quit: Leaving)
+[06:34.05] <adsc> but i'm getting nowhere because of reasons
+[06:36.14] * GeDaMo (~GeDaMo@62.56.105.232) has joined channel ##programming
+[06:37.08] * pimlu (~pimlu@128.172.35.9) Quit (Ping timeout: 255 seconds)
+[06:38.41] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##programming
+[06:39.44] <o0elise0o> I. Have. An. App.
+[06:41.11] * leetplayah (~leetplaya@dhcp-22-124.stud.cs.uit.no) has joined channel ##programming
+[06:41.30] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 272 seconds)
+[06:41.31] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##programming
+[06:42.01] * vendoo (~Juissi_@unaffiliated/vendu) has joined channel ##programming
+[06:42.14] <vendoo> what's up on the planet of love today? :)
+[06:42.51] <vendoo> i got baked and i'm enjoying the ride :)
+[06:43.24] <mniip> did you get the cake
+[06:44.40] * lapide_viridi (~lapide_vi@139.98.2.55) Quit (Ping timeout: 272 seconds)
+[06:45.28] * lapide_viridi (~lapide_vi@139.98.2.55) has joined channel ##programming
+[06:45.58] <vendoo> hehe
+[06:46.00] * pyon (~suckmy@unaffiliated/pyon) has left ##programming (("work"))
+[06:46.13] <vendoo> feels good to be irie :)
+[06:46.32] * Bhavya (~Bhavya.Ma@122.248.161.142) Quit (Quit: Leaving)
+[06:46.41] <vendoo> don't forget life's how you look at it and what you make of it
+[06:46.50] <vendoo> basically, life would be mostly too short to be unbaked :)
+[06:47.01] <vendoo> irie 24/7 yo! :P
+[06:48.19] <nikio_> pyon i am trying to find out the definition of a heap in knuths boks
+[06:48.21] <nikio_> boks
+[06:48.38] <vendoo> what kind of a heap?
+[06:48.50] * sinapsi`afk is now known as sinapsi
+[06:48.52] <vendoo> process heap segment? sorting heap? what? :)
+[06:49.15] <vendoo> today's execution model tends to be stack-based
+[06:49.21] <vendoo> all hail c + assembly yo :)
+[06:50.01] * atrx (~atrx@ppp-171-96-168-146.revip8.asianet.co.th) has joined channel ##programming
+[06:50.09] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[06:50.26] * AnoAnon (~AnoAnon@197.37.85.230) has joined channel ##programming
+[06:50.30] * halcyforn (~ecovent@83.220.118.20.umts.static.t-mobile.pl) Quit (Quit: Wychodzi)
+[06:50.41] * sevcanalkan_ (~sevcanalk@88.227.34.66) has joined channel ##programming
+[06:51.00] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) Quit (Quit: See you/Bye/-other farewell-)
+[06:51.18] <nikio_> vendoo, we first define what a heap is, no matter what kind
+[06:51.33] * AnoAnon (~AnoAnon@197.37.85.230) Quit (Read error: Connection reset by peer)
+[06:51.42] * epitamizor (~snake@66-189-201-119.dhcp.yakm.wa.charter.com) Quit (Remote host closed the connection)
+[06:55.27] * Gurkenglas (~Gurkengla@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 246 seconds)
+[06:56.22] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[06:57.05] * lapideviridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##programming
+[06:57.53] <vendoo> hmm
+[06:58.02] <vendoo> i suppose google or wikipedia :)
+[06:58.12] * amigojapan (~amigojapa@c119045.net21845.cablenet.ne.jp) has joined channel ##programming
+[06:58.24] <vendoo> i don't recall much from the structure and algo course i exceled in at the uni :)
+[06:59.02] <ams> i don't suppose anyone here is sitting on a box running apple os 9 or 8? say .. a macintorch ii or quadras ..
+[06:59.21] * Gurkenglas (Gurkenglas@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) has joined channel ##programming
+[06:59.43] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[06:59.44] <plushwork> ams: doing software archeology?
+[07:00.03] <ams> always
+[07:00.43] * lapide_viridi (~lapide_vi@139.98.2.55) Quit (Ping timeout: 244 seconds)
+[07:01.29] <vendoo> gotta go smoke my friend out :)
+[07:01.32] <vendoo> cya guys later :)
+[07:03.10] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 245 seconds)
+[07:03.15] <nikio_> vendoo, what do u do now
+[07:03.23] <nikio_> what is your occupation?
+[07:03.26] <nikio_> friendsmoker?
+[07:03.35] <adsc> fireman, obviously
+[07:03.44] * KidBeta (~textual@130.56.77.56) has joined channel ##programming
+[07:05.45] * Moshbit (~Moshbit@p54966DCF.dip0.t-ipconnect.de) has joined channel ##programming
+[07:08.14] * KidBeta (~textual@130.56.77.56) Quit (Client Quit)
+[07:09.21] <vendoo> nikio, bush doctor :)
+[07:09.40] <vendoo> one of the original finnish herbsmen :)
+[07:09.48] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[07:11.47] * zoraj (~zoraj@197.231.191.234) Quit (Ping timeout: 255 seconds)
+[07:12.19] <vendoo> nikio, i'm a hobby hacker, too, a software kind of :)
+[07:15.23] * vmldml (~victor@94.18.229.18) Quit (Ping timeout: 264 seconds)
+[07:15.34] * Lapide (~lapide_vi@139.98.2.55) has joined channel ##programming
+[07:16.10] * vmldml (~victor@94.18.229.18) has joined channel ##programming
+[07:16.11] <vendoo> hmm :)
+[07:16.20] <vendoo> nikio_, ＋＋http://vendu.twodots.nl/projects.html，， :)
+[07:16.27] <vendoo> hey adsc :)
+[07:18.33] * lapideviridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Ping timeout: 246 seconds)
+[07:19.18] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[07:19.20] * chicoenslips (~cerditofa@35.Red-88-26-116.staticIP.rima-tde.net) has joined channel ##programming
+[07:20.59] <nikio_> lol vendoo, you are smoking herbs?
+[07:23.25] * Von_Neumann (~holoirc@unaffiliated/church-) Quit (Ping timeout: 256 seconds)
+[07:23.29] * mu (~mu@unaffiliated/mu) Quit (Ping timeout: 255 seconds)
+[07:23.47] * niemcu (~niemcu@89-74-233-231.dynamic.chello.pl) Quit (Ping timeout: 264 seconds)
+[07:24.09] * vendoo (~Juissi_@unaffiliated/vendu) Quit (Quit: Leaving)
+[07:24.43] * pi- (~Ohmu@cpc69129-oxfd25-2-0-cust987.4-3.cable.virginm.net) has joined channel ##programming
+[07:24.45] * vendoo (~Juissi_@unaffiliated/vendu) has joined channel ##programming
+[07:24.47] <vendoo> hello :)
+[07:24.57] <vendoo> nikio_, mostly the good old herb, yeah :)
+[07:25.10] <Sadale> lol! ＋＋https://xkcd.com/1495/#，，
+[07:25.16] <vendoo> herb makes it cooler to code :)
+[07:25.34] <vendoo> it makes one lazy enough to write highly efficient programs :)
+[07:26.10] <vendoo> hey Sadale :)
+[07:26.16] <Sadale> vendoo, o/
+[07:26.21] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) Quit (Ping timeout: 240 seconds)
+[07:26.36] * anthrnm (~vandrew@86.122.228.44) has joined channel ##programming
+[07:26.36] * PhyloGenesis (~PhyloGene@c-24-16-209-109.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+[07:27.28] * KidBeta (~textual@130.56.77.56) has joined channel ##programming
+[07:29.42] * KidBeta (~textual@130.56.77.56) Quit (Client Quit)
+[07:29.53] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[07:32.44] * mu (~mu@unaffiliated/mu) has joined channel ##programming
+[07:33.04] <rindolf> vendoo: meoo!
+[07:33.06] <rindolf> vendoo: sup?
+[07:33.10] <rindolf> Sadale: hi, sup?
+[07:33.22] <vendoo> rindolf, smoking the good stuff and chatting away, you? :)
+[07:33.36] <Sadale> rindolf, nothing much
+[07:34.04] <rindolf> vendoo: lazy to write efficient programs? Don't efficient programs require more effort than non-efficient ones?
+[07:34.41] <GeDaMo> Sadale: ＋＋https://en.wikipedia.org/wiki/Crash-only_software，，
+[07:35.05] * Sadale clicks
+[07:36.01] <vendoo> hmm %)
+[07:36.12] <Sadale> GeDaMo, interesting
+[07:36.39] <vendoo> rindolf, fast code is not just about what you do, but to a big point what you avoid doing :)
+[07:36.54] <vendoo> strategies such as buffering/reducing system calls are good and pay back in speed :)
+[07:37.09] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[07:37.20] <txdv> how expensive are system calls on linux?
+[07:37.24] <o0elise0o> vendoodoo
+[07:38.02] <vendoo> hey o0elise0o :)
+[07:38.51] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 240 seconds)
+[07:39.39] <protodev> txdv: the question got answered here: ＋＋https://stackoverflow.com/questions/3787358/measuring-speed-of-a-system-call，，
+[07:41.18] <vendoo> any
+[07:41.19] <rindolf> o0elise0o: hi, sup?
+[07:41.19] <vendoo> hmm
+[07:41.25] <vendoo> anyone else doing the 420? :)
+[07:41.39] <GeDaMo> System calls tend to be expensive because they involve changing privilege level
+[07:42.41] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 256 seconds)
+[07:43.11] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 250 seconds)
+[07:43.15] <vendoo> hey GeDaMo :)
+[07:43.27] <GeDaMo> Hi vendoo :)
+[07:43.30] <vendoo> gedamo, for example for memory allocations, it's good to cache and slice them :)
+[07:43.37] <vendoo> buffer them
+[07:43.45] <vendoo> for a smaller number of system calls made :)
+[07:44.00] <GeDaMo> Yeah, you want to minimise actual system calls
+[07:44.22] <GeDaMo> Although there are OSs which run everything at the same privilege level and do protection in software
+[07:44.48] <txdv> protodev: doesn't provide any numbers
+[07:45.48] * Smilerut (~CoasterTo@79.116.253.174) has joined channel ##programming
+[07:47.03] <GeDaMo> txdv: "In most existing systems switching from “user mode” to “kernel mode” has  a high cost in performance associated. It has been measured, on the  basic request getpid,  to cost 1000-1500 cycles on most machines. Of these just around 100 are  for the actual switch (70 from user to kernel space, and 40 back), the  rest is "kernel overhead"" ＋＋https://en.wikipedia.org/wiki/Protection_ring，，
+[07:48.17] * saikrishna (saikrishna@nat/iiit/x-duiprmgduiqdmmph) Quit (Remote host closed the connection)
+[07:49.27] <txdv> linux/windows?
+[07:49.54] * Thiht (~Thunderbi@ARennes-655-1-176-245.w92-139.abo.wanadoo.fr) Quit (Ping timeout: 272 seconds)
+[07:50.57] <lf94> sesame seed squares are so calorie dense.
+[07:50.57] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[07:53.15] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) has joined channel ##programming
+[07:53.25] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 244 seconds)
+[07:53.51] <vendoo> hmm :)
+[07:54.20] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##programming
+[07:57.03] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Ping timeout: 246 seconds)
+[07:57.31] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 252 seconds)
+[07:57.44] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[07:59.50] * vendoo (~Juissi_@unaffiliated/vendu) Quit (Ping timeout: 245 seconds)
+[07:59.54] * xeno_ (~xeno@cm-84.208.231.159.getinternet.no) has joined channel ##programming
+[08:00.06] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 256 seconds)
+[08:00.50] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[08:01.42] * xeno (~xeno@2a02:fe0:c211:12c1:9094:222b:1410:43ba) Quit (Ping timeout: 252 seconds)
+[08:02.40] * shahidbhavwala (~shahidbha@182.74.245.210) has joined channel ##programming
+[08:05.10] <txdv> 1500 cycles
+[08:05.21] <txdv> to get the time of the date
+[08:05.27] * Merkss (~Merkss@dhcp-089-098-150-090.chello.nl) has joined channel ##programming
+[08:05.53] <txdv> this why epoll is so good and so shitty at the same time
+[08:06.01] <txdv> it could write the buffers directly instead of just notifying
+[08:06.40] * lapideviridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) has joined channel ##programming
+[08:07.14] * lapideviridi (~lapide_vi@ip-245-51-149-91.dialup.ice.net) Quit (Remote host closed the connection)
+[08:07.18] * sinapsi is now known as sinapsi`afk
+[08:07.52] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[08:08.05] * jkli_ (~jkli@brln-5f72fb79.pool.mediaWays.net) Quit (Remote host closed the connection)
+[08:09.33] <adsc> hey vendoo, sorry, got distracted by work ;)
+[08:09.40] * Linne (~beren@85.103.158.175) has joined channel ##programming
+[08:09.51] <txdv> em
+[08:09.52] <adsc> stupid work always keeping me from procrastination
+[08:09.57] <txdv> yeah
+[08:10.00] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[08:10.48] * Lapide (~lapide_vi@139.98.2.55) Quit (Ping timeout: 272 seconds)
+[08:11.02] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[08:12.39] <jkbbwr> Im still clueless for a demo program
+[08:12.43] <jkbbwr> for my virtual machine
+[08:12.46] <jkbbwr> im so confused
+[08:13.21] * Nizumzen (~Nizumzen@cpc1-reig5-2-0-cust251.6-3.cable.virginm.net) has joined channel ##programming
+[08:13.27] <Linne> jkbbwr: ＋＋http://www.99-bottles-of-beer.net/lyrics.html，，
+[08:13.42] <jkbbwr> Linne: Too simple
+[08:13.45] <jkbbwr> thats just a forloop
+[08:13.56] <wei2912> jkbbwr: fractals
+[08:14.03] <Linne> jkbbwr: You want floating point?
+[08:14.11] <jkbbwr> I don't have floating point yet
+[08:14.11] <Linne> Or multithreading?
+[08:14.15] <jkbbwr> Linne: no threading
+[08:14.18] <GeDaMo> Game of life?
+[08:14.21] <Linne> jkbbwr: So what complexity do you want?
+[08:14.34] <wei2912> jkbbwr: dragon curve
+[08:14.37] <jkbbwr> Linne: Its hard to gauge
+[08:14.41] <jkbbwr> wei2912: dragon curve hmm
+[08:14.49] <Linne> Riemann sum image?
+[08:15.01] <Linne> Hmm but no floating point sorry
+[08:15.13] <jkbbwr> wei2912: I still don't really any output except stdout on the console
+[08:15.13] <jkbbwr> hah
+[08:15.28] <jkbbwr> Linne: Im adding floating soon
+[08:15.48] <wei2912> jkbbwr: what GeDaMo said then
+[08:15.50] * i56yards (~i56yards@gatej.thls.bbc.co.uk) Quit (Remote host closed the connection)
+[08:15.59] <wei2912> cellular automaton
+[08:15.59] * Nizumzen (~Nizumzen@cpc1-reig5-2-0-cust251.6-3.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[08:16.15] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##programming
+[08:16.19] <Linne> jkbbwr: You can try some fractals or riemann sum when you implement it then
+[08:16.32] * i56yards (~i56yards@gatek.mh.bbc.co.uk) has joined channel ##programming
+[08:18.51] <Linne> Lol brainfart I didn't mean riemann sum
+[08:19.09] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 250 seconds)
+[08:19.20] <Linne> I mean zeta function images you know :S
+[08:19.27] * zima (zima@173.182.129.50) has joined channel ##programming
+[08:19.46] <jkbbwr> Hmm
+[08:19.56] <jkbbwr> I have a pretty dumb instruction set
+[08:20.05] <jkbbwr> Idk how hard these might be
+[08:20.55] * VaticanCameos (~pritishc@182.68.132.77) has joined channel ##programming
+[08:21.03] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##programming
+[08:21.23] * i56yards (~i56yards@gatek.mh.bbc.co.uk) Quit (Ping timeout: 264 seconds)
+[08:21.32] * Henke37 (~Henrik@2001:2002:4e48:8217:2597:3299:6d74:9862) has joined channel ##programming
+[08:21.33] * Gluesticky (~IceChat9@unaffiliated/gluesticky) Quit (Quit: This is the end. Goodbye cruel world!)
+[08:23.59] * stakewinner00 (~stakewinn@74.108.15.37.dynamic.jazztel.es) has joined channel ##programming
+[08:25.02] * varibull_ (~varibull@c-69-137-131-106.hsd1.de.comcast.net) Quit (Ping timeout: 256 seconds)
+[08:26.41] * mwdev (~myworldde@S0106306023d71b33.vs.shawcable.net) has joined channel ##programming
+[08:28.32] * Moonlightning (~blackl@unaffiliated/moonlightning) has joined channel ##programming
+[08:29.22] * Richard_2340985 (~Miranda@dslb-088-066-077-189.088.066.pools.vodafone-ip.de) has joined channel ##programming
+[08:30.22] * Maerc (~textual@71-45-93-23.res.bhn.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[08:31.04] * pythease (0e8bbb91@gateway/web/freenode/ip.14.139.187.145) has joined channel ##programming
+[08:31.17] <pythease> hellello!
+[08:33.05] * wei2912 (~wei2912@unaffiliated/wei2912) Quit (Quit: leaving)
+[08:33.10] * Eremox (~Eremox@193.44.1.80) Quit (Ping timeout: 245 seconds)
+[08:33.20] * wei2912 (~wei2912@175.156.173.42) has joined channel ##programming
+[08:33.28] * wei2912 (~wei2912@175.156.173.42) Quit (Changing host)
+[08:33.28] * wei2912 (~wei2912@unaffiliated/wei2912) has joined channel ##programming
+[08:34.00] * rgr (~user@f054139087.adsl.alicedsl.de) has joined channel ##programming
+[08:34.40] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 256 seconds)
+[08:34.50] * mwdev (~myworldde@S0106306023d71b33.vs.shawcable.net) Quit (Ping timeout: 264 seconds)
+[08:35.48] * pyon (~suckmy@unaffiliated/pyon) has joined channel ##programming
+[08:37.06] <Moonlightning> I know nothing about testing. Got any resources for getting started?
+[08:39.10] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[08:40.08] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[08:40.53] <aawe> Moonlightning: which language are you using?
+[08:41.17] <Moonlightning> aawe: None in particular?
+[08:41.28] * HoloIRCUser (~holoirc@14.194.2.65) has joined channel ##programming
+[08:41.55] <aawe> Moonlightning: different languages have different tools for and philosophies around testing. Do you mean TDD in general?
+[08:42.09] <aawe> or just, what makes a unit test
+[08:42.21] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##programming
+[08:42.28] <aawe> or even, "Why should I test, and what should I test"?
+[08:42.46] <Moonlightning> Sure. That sounds like a good place to start. ^^
+[08:42.51] <Moonlightning> The latter.
+[08:43.18] * shahidbhavwala (~shahidbha@182.74.245.210) Quit (Read error: Connection reset by peer)
+[08:44.18] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 246 seconds)
+[08:44.45] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:45.36] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[08:46.13] <aawe> Moonlightning: perhaps ＋＋http://www.codecademy.com/courses/testing-your-code/0/1，， would be a good intro
+[08:46.28] <Moonlightning> Thanks, aawe
+[08:47.28] * kidu (~kid@p2003007A0F66F20F34F7779713E57E11.dip0.t-ipconnect.de) has joined channel ##programming
+[08:48.09] * pythease (0e8bbb91@gateway/web/freenode/ip.14.139.187.145) Quit (Quit: Page closed)
+[08:49.12] * Sweet_Ride (~Sweet@199.47.65.58) Quit (Ping timeout: 246 seconds)
+[08:50.33] * crayon (~user@unaffiliated/button) has joined channel ##programming
+[08:51.05] <rindolf> Moonlightning: hi.
+[08:51.12] * tortoise (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) Quit ()
+[08:51.19] <Moonlightning> Hello, rindolf
+[08:52.10] <rindolf> Moonlightning: I've written about testing with a focus on Perl here - ＋＋http://www.shlomifish.org/lecture/Perl/Newbies/lecture5/testing/，， and here - ＋＋http://perl-begin.org/uses/qa/，，
+[08:52.29] <Moonlightning> Ahh, I don't know Perl x.x
+[08:52.55] <rindolf> Moonlightning: OK, a lot of it may be applied to other languages.
+[08:53.07] <aawe> Moonlightning: the motivation chapter answers you "why" question elegantly
+[08:53.23] <aawe> (of the first link)
+[08:53.48] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 246 seconds)
+[08:54.40] * Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net) has joined channel ##programming
+[08:54.44] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##programming
+[08:55.36] <Moonlightning> Thank you, both of you. :)
+[08:55.37] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[08:58.13] <rindolf> Moonlightning: you're welcome .
+[08:58.17] <rindolf> aawe: what's new?
+[01:00.24] *** Server disconnected on irc.freenode.net
+[01:00.27] *** Server disconnected on irc.freenode.net
+[07:52.47] * You have joined ##programming
+[07:52.47] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[07:52.47] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[07:52.49] Channel modes for ##programming are :+cntf ##overflow
+[07:52.49] Channel Created on: 5:23 AM 2/4/2007
+[07:53.01] <nitrix> Ahahahah.
+[07:53.11] <nitrix> 19:40:50         ihatehex | o0elise0o, why aren't you employed again
+[07:53.14] <nitrix> 19:41:11        o0elise0o | cuz it's lame and unfashionable
+[07:53.17] <nitrix> <3
+[07:53.19] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) has joined channel ##programming
+[07:53.44] <nitrix> ihatehex: Normal people are boring.
+[07:54.23] * AndroidLoverInSF (~AndroidLo@64.56.206.254) Quit (Ping timeout: 264 seconds)
+[07:55.26] * justanotheruser (~Justan@unaffiliated/justanotheruser) Quit (Ping timeout: 252 seconds)
+[07:55.50] <_blizzy_> hmm, rails projects
+[07:55.52] <_blizzy_> what to do
+[07:56.14] <ihatehex> nitrix, i am employed, part time
+[07:56.18] <ihatehex> and full time I suck at studying
+[07:56.20] <ihatehex> :D
+[07:57.08] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[07:57.31] * Zhq (~Zhq@247.5.71.86.rev.sfr.net) Quit (Read error: Connection reset by peer)
+[07:57.49] * Iev (~Iev@105.154.78.8) has joined channel ##programming
+[07:57.52] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) has joined channel ##programming
+[07:58.19] * Iev (~Iev@105.154.78.8) Quit (Excess Flood)
+[07:58.29] <nitrxgen_> god my asshole is sore
+[07:58.49] <_blizzy_> I love it when
+[07:58.53] <_blizzy_> I have 0 project ideas.
+[07:59.05] <nitrxgen_> lucky you, i got tons of shit to work on
+[07:59.19] * dtk (~dtk@105.154.78.8) has joined channel ##programming
+[07:59.40] <_blizzy_> hmm, I just had an idea
+[07:59.52] * MyMind (~Sembei@unaffiliated/sembei) Quit (Quit: WeeChat 1.2-dev)
+[08:00.46] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) has joined channel ##programming
+[08:01.20] <ihatehex> nitrxgen_, why is your asshole sore?
+[08:01.21] * Seanmcn (~seanmcna@x-137.82.99.109.library.ubc.ca) Quit (Quit: Leaving.)
+[08:01.21] <ihatehex> :[
+[08:01.27] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 245 seconds)
+[08:01.32] <ihatehex> did your boyfriend treat you badly?
+[08:01.34] <nitrxgen_> ihatehex, i dont know
+[08:02.03] <nitrxgen_> pfft, i remember when my gf at the time wanted to do stuff to my asshole, i was just noping the whole day
+[08:02.26] * justanotheruser (~Justan@unaffiliated/justanotheruser) has joined channel ##programming
+[08:02.33] <nitrxgen_> um
+[08:02.35] <_blizzy_> lol, funny
+[08:02.37] <_blizzy_> I want a boyfriend
+[08:02.39] <_blizzy_> c:
+[08:02.48] <nitrxgen_> yeah, i dont
+[08:02.51] <nitrxgen_> :D
+[08:02.59] * boB_K7IQ (~IceChat9@50.46.87.250) has joined channel ##programming
+[08:03.08] <nitrxgen_> actually, from the way things are going now, I might be gay
+[08:03.09] <ihatehex> _blizzy_, I bet you can talk nitrxgen_ into it
+[08:03.12] <ihatehex> Show him your manboobs
+[08:03.16] <_blizzy_> ihatehex, I'm only 17
+[08:03.19] <ihatehex> that's ok
+[08:03.23] <nitrxgen_> thats legal here
+[08:03.24] <ihatehex> he won't judge
+[08:03.31] <nitrxgen_> i mean no thanks
+[08:03.34] <_blizzy_> I like gay bears/chubs ( don't google that )
+[08:03.41] <ihatehex> we're not 17
+[08:03.43] <nitrxgen_> i dont have to, i know what it is
+[08:03.44] <ihatehex> we know what those things are
+[08:03.45] <ihatehex> we've met them irl
+[08:03.55] <_blizzy_> really?
+[08:03.58] <nitrxgen_> i have a romanian bear friend :D
+[08:04.02] <_blizzy_> nice.
+[08:04.03] <nitrxgen_> fuzzy as fuck
+[08:04.13] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) Quit (Remote host closed the connection)
+[08:04.15] <nitrxgen_> built like a square on steroids
+[08:04.17] * rcr (~rcr@zymeworks.com) Quit (Remote host closed the connection)
+[08:04.18] <ihatehex> I bet he's a good 'friend', nitrxgen_
+[08:04.18] <ihatehex> ;
+[08:04.19] <ihatehex> o
+[08:04.31] <nitrxgen_> not really, he pisses me off and i havent heard from himin like a month
+[08:04.31] <_blizzy_> all I do is program and game
+[08:04.39] <_blizzy_> I want to have a relationship
+[08:04.42] <nitrxgen_> he owed me money for a year and fucked off to romania for a while
+[08:04.51] <ihatehex> well go find a nice man/woman, _blizzy_
+[08:04.58] * tortoise (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) has joined channel ##programming
+[08:05.01] <ihatehex> whatever floats your boat
+[08:05.03] <nitrxgen_> _blizzy_, you gay?
+[08:05.04] <_blizzy_> ihatehex, I'm an introvert with ocd, anxiety, and some depression.
+[08:05.07] <_blizzy_> nitrxgen_, oui.
+[08:05.14] <ihatehex> _blizzy_, great, take SSRIs, go get a boyfriend/girlfriend
+[08:05.17] <_blizzy_> I also live in Kentucky.
+[08:05.23] <nitrxgen_> _blizzy_, thats ok
+[08:05.26] <ihatehex> watch Justified
+[08:05.28] <ihatehex> become awesome
+[08:05.28] <nitrxgen_> I have 2 gay friends as well
+[08:05.32] <_blizzy_> aka one of the few states that doesn't have gay marriage legal yet
+[08:05.34] <sir_galahad_ad> _blizzy_: relationships are just trouble
+[08:05.35] <nitrxgen_> you wouldnt know it though
+[08:05.36] <_blizzy_> fuck you, McConnell
+[08:05.59] <_blizzy_> sir_galahad_ad, that might be true
+[08:06.03] <_blizzy_> but I want to experience it
+[08:06.07] <nitrxgen_> unlike this gaylord on another network who wont shut the fuck up about being gay and acting like hes a target to everybody
+[08:06.08] <_blizzy_> to be loved by another guy.
+[08:06.20] <_blizzy_> oh
+[08:06.20] <ihatehex> I'm sure you'll get there _blizzy_
+[08:06.30] <_blizzy_> thanks, ihatehex.
+[08:06.33] <ihatehex> especially if you're into fat guys, I mean, how could you not find someone
+[08:06.36] <nitrxgen_> im making one of my coworkers gay also
+[08:06.42] <nitrxgen_> his wife hates me
+[08:06.42] <Rainb> Hmm
+[08:06.44] * sotram (~sotram@cblmdm72-240-214-155.buckeyecom.net) has joined channel ##programming
+[08:06.46] <_blizzy_> it's called 'bears', 'chubs'
+[08:06.47] <_blizzy_> ;c
+[08:06.48] <ihatehex> nitrxgen_, don't be retarded
+[08:06.54] <ihatehex> I don't care what it's called _blizzy_
+[08:06.54] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[08:06.56] <nitrxgen_> cant help it
+[08:06.57] <ihatehex> I'm not gay
+[08:06.57] * b00ger_daddy (~aiB00gerD@pool-173-57-81-29.dllstx.fios.verizon.net) has joined channel ##programming
+[08:07.00] <_blizzy_> ihatehex, ok.
+[08:07.03] <ihatehex> nitrxgen_, pix or fuck off
+[08:07.04] <ihatehex> :P
+[08:07.08] <_blizzy_> well, time to make a gist clone.
+[08:07.12] <nitrxgen_> ihatehex, hes a chub :D
+[08:07.22] <nitrxgen_> no pix cuz im not weird
+[08:07.24] <_blizzy_> this chat got um
+[08:07.28] <_blizzy_> lewd
+[08:07.30] <ihatehex> nitrxgen_, then no one is going gay for you
+[08:07.32] <nitrxgen_> lewd butts
+[08:07.37] * cigarshark (~Todd@73.166.207.22) Quit (Quit: Leaving)
+[08:07.46] <nitrxgen_> ihatehex, what, you doubt i have coworkers to confuse?
+[08:07.48] <ihatehex> I bet people go gay for Audioburn, he plays the guitar very well
+[08:07.54] <ihatehex> pretty nice vocals too
+[08:07.57] <nitrxgen_> i work in the ambulance service, i see people every day lol
+[08:08.09] <ihatehex> nitrxgen_, you can save my life any day man
+[08:08.14] <Audioburn> ihatehex, lol whats up man
+[08:08.18] <nitrxgen_> i make a lot of exceptions
+[08:08.23] <ihatehex> not much, bored, drinking, don't want to go to sleep
+[08:08.38] <ihatehex> what's up with you?
+[08:08.47] <Audioburn> ihatehex, preparing for a move to nyc
+[08:08.55] <ihatehex> bring roach traps
+[08:08.57] <Audioburn> finally hitting the big city
+[08:08.57] <ihatehex> also rat traps
+[08:08.58] <nitrxgen_> _blizzy_, youre young, youll find someone
+[08:08.59] * fangs124 (~fangs124@unaffiliated/fangs124) has joined channel ##programming
+[08:09.01] <Audioburn> yea :/
+[08:09.02] <ihatehex> in fact, fuck it, make friends with those critters
+[08:09.03] <Audioburn> lol
+[08:09.05] <ihatehex> you're not gonna get rid of them
+[08:09.09] <ihatehex> might as well team up
+[08:09.09] <Audioburn> good source of protein
+[08:09.13] <ihatehex> haha
+[08:09.36] <Rainb> I want to remember words like ere, hither, yonder, and things like that, when talking
+[08:09.43] <Rainb> huehehuehue
+[08:09.51] * porkbonk (porkbonk@62.217.48.168) Quit (Remote host closed the connection)
+[08:09.53] --hydri-- logged in with account (hydri)
+[08:09.53] <_blizzy_> nitrxgen_, thanks.
+[08:09.57] <nitrxgen_> I have 2 jobs and a lot of coworkers said they didn't know what i was, many just assumed bi because i would joke abot being gay, but legit be over women as well
+[08:10.10] <nitrxgen_> i must be good at pretending
+[08:10.16] <_blizzy_> I remember when I thought I was straight
+[08:10.23] <nitrxgen_> lol
+[08:10.24] * Fiki (~Fiki@chello080109027244.17.14.wu-wien.teleweb.at) Quit (Read error: Connection reset by peer)
+[08:11.05] <ihatehex> Audioburn, what IS the best way to cook a rat?
+[08:11.17] <ihatehex> I mean roaches is obvious, you fry 'em and then you slice them into pieces and make them into flour
+[08:11.20] <nitrxgen_> a couple of coworkers were having a discussion about me and i walked in, they didnt know if i liked them as friends or not because i talk to them weird
+[08:11.23] <ihatehex> you can't flour-ize a rat
+[08:11.43] <Audioburn> ihatehex,  rotisserie style of course
+[08:11.53] <ihatehex> Audioburn, That does make sense.
+[08:11.59] <Audioburn> lmao
+[08:12.42] <nitrxgen_> I was considering being gay after my ex, but then I had sex with a Spanish woman 10 years older than me and I kinda enjoyed that
+[08:12.53] <Rainb> being gay?
+[08:12.59] <Rainb> isn't that kinda gay?
+[08:13.11] <nitrxgen_> then I went to Jordan, mostly a Islamic state and had sex with a girl I met online
+[08:13.13] <ihatehex> Rainb, who gives a fuck
+[08:13.22] <ihatehex> nitrxgen_, I would love to fuck a Jordanian girl
+[08:13.22] <nitrxgen_> I kinda enjoyed that as well
+[08:13.30] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Quit: WeeChat 1.1.1)
+[08:13.36] <nitrxgen_> ihatehex, they're cute people
+[08:13.40] <ihatehex> I think so
+[08:13.42] * b00ger_daddy (~aiB00gerD@pool-173-57-81-29.dllstx.fios.verizon.net) has left ##programming ()
+[08:13.51] <ihatehex> I like middle-eastern girls
+[08:13.56] <ihatehex> Not a huge fan of african girls, meh
+[08:13.58] --rbowlby-- logged in with account (rbowlby)
+[08:14.03] <nitrxgen_> not all
+[08:14.13] <nitrxgen_> I work with a couple, dat ass(es)
+[08:14.15] <ihatehex> Nono, in general you don't like 'all' girls from any people
+[08:14.18] * justinreyesv (~justinrey@97.68.199.74) Quit (Ping timeout: 244 seconds)
+[08:14.26] <nitrxgen_> slim, not short, awesome figure, pretty face
+[08:14.44] <nitrxgen_> and generally flirtatious so theyre nice to be around
+[08:14.48] <toccatanfugue> ihatehex: when figuring out new address locations in hex (ia32), is it best to convert to decimal, add, and convert back to hex?
+[08:14.55] <ihatehex> I don't care about short or slim, nice figure is good, nice face is also good
+[08:15.01] <nitrxgen_> oh im sorry, am i disrupting programming talk in here?
+[08:15.08] <toccatanfugue> no way
+[08:15.10] <Rainb> toccatanfugue: is more expensive to convert for no reason
+[08:15.10] <nitrxgen_> no regrats
+[08:15.14] <ihatehex> toccatanfugue, computers should do this for you
+[08:15.24] <toccatanfugue> computers wont do this for me on my exam haha
+[08:15.29] <ihatehex> toccatanfugue, binary is more efficient than hex
+[08:15.33] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[08:15.33] --dantarion-- logged in with account (dantarion)
+[08:15.43] <ihatehex> toccatanfugue, so if you really need to add stuff easily, do it in binary and swap back
+[08:15.47] <nitrxgen_> is this channel publicly logged? i could get in trouble for what i just said lol
+[08:15.58] <ihatehex> worst case go hexadecimal -> binary -> decimal -> binary -> hexadecimal
+[08:16.01] <Rainb> I could release my logs
+[08:16.04] <_blizzy_> nitrxgen_, why would you get in trouble?
+[08:16.05] <ihatehex> nitrxgen_, no oen cares
+[08:16.11] <ihatehex> we don't know who the fuck you are
+[08:16.13] <ihatehex> or care
+[08:16.13] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[08:16.16] <toccatanfugue> %eax = 0x100,   %edx = 0x3   Operand = (%eax, %edx, 4) <-- how would you approach this?
+[08:16.23] <_blizzy_> nitrxgen_, nvm.
+[08:16.25] <nitrxgen_> ihatehex, thats not my question though lol
+[08:16.29] <_blizzy_> but yeah, what you said isn't wrong.
+[08:16.30] <Rainb> I secretly know ur ip btw
+[08:16.33] <Rainb> hueuheuhue
+[08:16.43] <nitrxgen_> that also means nothing
+[08:16.45] <nitrxgen_> :D
+[08:16.49] <ihatehex> nitrxgen_, asking makes it more likely it becomes publically logged
+[08:16.57] <nitrxgen_> but i have been meaning to get a vhost on here
+[08:17.01] <toccatanfugue> you had sex with a Jordanian girl you met online?
+[08:17.03] <ihatehex> besides there's no bot prowling around to trace irc identities to real people
+[08:17.04] * Ale46 (~ale46@2.237.242.245) has joined channel ##programming
+[08:17.04] <ihatehex> yet
+[08:17.13] <ihatehex> ...well, found my BSc thesis
+[08:17.14] <ihatehex> :D
+[08:17.22] <nitrxgen_> lol
+[08:17.25] <Rainb> it's the art of doxxing I guess.
+[08:17.25] <ihatehex> I wish I had sex with a Jordanian girl I met online
+[08:17.28] <ihatehex> Arabic is hot
+[08:17.29] <nitrxgen_> i knwo who half of you are anyway
+[08:17.38] <ihatehex> nitrxgen_, who am I
+[08:17.40] <ihatehex> I don't know who I m
+[08:17.40] <ihatehex> am
+[08:17.44] <nitrxgen_> ihatehex
+[08:17.53] <ihatehex> that's not knowing who I am
+[08:18.01] <ihatehex> I have multiple logins on freenode
+[08:18.01] <nitrxgen_> thats subjective :p
+[08:18.10] <ihatehex> one of them is like 5-6 years old
+[08:18.12] <Rainb> toccatanfugue: I would just add in hexadecimal, seems way more expensive as a human to convert it
+[08:18.20] <ihatehex> I actually have pretty funny quotes in one channel
+[08:18.21] <ihatehex> :(
+[08:18.27] <ezekielnoob> ihatehex go for it
+[08:18.39] <ezekielnoob> oh my god
+[08:18.41] --furrykef-- logged in with account (furrykef)
+[08:18.43] <ezekielnoob> i didn't see the age
+[08:18.44] <ezekielnoob> damn it!
+[08:18.48] <Rainb> toccatanfugue: It's just like adding in decimal, just that there are 16 numbers and not 10
+[08:18.51] * snhmib (~jurjen@a83-163-200-186.adsl.xs4all.nl) has joined channel ##programming
+[08:19.02] <toccatanfugue> Rainb: what about carry?
+[08:19.14] <nitrxgen_> toccatanfugue, anyway that was to put it crudely (about the Jordanian girl)
+[08:19.15] <toccatanfugue> 0xF + 0x1 = ? 0x10?
+[08:19.17] <Rainb> toccatanfugue: uhh, you pass it around as any base
+[08:19.26] <_blizzy_> if each programming language was a toolbox, what would each language be.
+[08:19.35] <nitrxgen_> she's actually a long term friend of mine I've known online longer than anybody else I've ever known beside my own family
+[08:19.59] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 244 seconds)
+[08:20.02] <Rainb> toccatanfugue: I see numbers like wheels, so when the last number wants to roll around it returns to 0 and the next number is turned one
+[08:20.05] <nitrxgen_> we had a lot of fun to say the least when we eventually met
+[08:20.09] <nitrxgen_> :D
+[08:20.17] <Rainb> so F being the "last number"  would return to 0 and add a 1
+[08:20.18] <Rainb> so yes
+[08:20.20] <nitrxgen_> trying to dampen the effects here
+[08:20.21] <Rainb> f+1=10
+[08:20.24] * DogPolice (~RJones@unaffiliated/rjones) has joined channel ##programming
+[08:20.32] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) Quit (Remote host closed the connection)
+[08:20.46] <Rainb> Do common core way if it's too hard for ya
+[08:20.50] --dony-- logged in with account (dony)
+[08:20.54] --taru-- logged in with account (taru)
+[08:20.55] <Rainb> f+f=f+1+(f-1)
+[08:21.04] <nitrxgen_> DogPolice is here, so as i was saying about adding a pointer to that last C structure on the namespace ok Rainb?
+[08:21.11] <Rainb> 10+e=1e
+[08:21.28] <nitrxgen_> you know what i mean, the bit about memory capacity and endoscopic gastrostomy feedings
+[08:21.33] <toccatanfugue> how dare you tell me to do common core
+[08:21.39] --TarkusDillo-- logged in with account (TXRoadkill)
+[08:21.40] <DogPolice> What the hell is going on. :P
+[08:21.48] <Rainb> nitrixgen_: I am not talking bout structures
+[08:21.51] <Rainb> wut
+[08:21.55] <nitrxgen_> DogPolice, nothing we're just talking about a lot of programming because thats why im here
+[08:22.06] <nitrxgen_> i mean we, yes
+[08:22.23] <Rainb> Oh, okay.
+[08:22.25] <DogPolice> Anybody wanna update me on the conversation? Seems to be something I'm interested in.
+[08:22.26] <toccatanfugue> did you tell DogPolice about the Jordanian algorithm
+[08:22.26] * nitrxgen_ sweats
+[08:22.36] <DogPolice> :|
+[08:22.41] <Rainb> DogPolice: It seems people don't know how to add in decimal
+[08:22.43] <Rainb> i mean
+[08:22.46] <Rainb> hexadecimal
+[08:22.54] * nitrxgen_ hands DogPolice some handwritten IRC logs
+[08:22.57] <Rainb> But it's the same way as adding in decimal.
+[08:23.05] <Rainb> just that it's 0 to f
+[08:23.12] <nitrxgen_> Rainb, just xor the nybbles together, come on
+[08:23.22] <Rainb> Xor won't add shit
+[08:23.23] * ihatehex puts DogPolice in a simulation of the universe
+[08:23.26] <DogPolice> Rainb: It's hard to move away from the number system you were raised with.
+[08:23.27] <Rainb> what the fuck
+[08:23.33] <toccatanfugue> lol
+[08:23.34] <ihatehex> DogPolice, wat
+[08:23.34] <nitrxgen_> and bit shift to the direction of saturn in 45 minutes time from now
+[08:23.38] <DogPolice> Also, you two.
+[08:23.44] <DogPolice> I don't know what you did.
+[08:23.49] <Rainb> nitrixgen_:oh you're just talking shit.
+[08:23.51] <DogPolice> But shut up.
+[08:24.10] <toccatanfugue> Rainb: thanks for the help :) gotta run home. bbl
+[08:24.11] <nitrxgen_> youll hate me when im rich and famous
+[08:24.14] * toccatanfugue (~bionet@199.201.65.131) Quit (Quit: Computer has gone to sleep)
+[08:24.21] <DogPolice> I'll hate you when you derail shit.
+[08:24.23] <nitrxgen_> that is if you dont hate me now :D
+[08:24.23] <DogPolice> :P
+[08:24.37] <ihatehex>  DogPolice you can have hugs
+[08:24.39] <Rainb> DogPolice: uhm, it can't be that hard. I mean do people really memorize additions
+[08:24.49] <ihatehex> Rainb, only vendu knows
+[08:24.49] <Rainb> I think I did common core way mentally all the time.
+[08:25.00] <Rainb> like when adding 7+5
+[08:25.02] <ihatehex> vendu can calculate memory values by heart
+[08:25.05] <ihatehex> he's a wizard
+[08:25.09] <ihatehex> I don't think he even uses calculators
+[08:25.10] <ihatehex> ever
+[08:25.13] <Rainb> I just 5-2
+[08:25.14] <DogPolice> Rainb: Nobody does, it's just that it's hard to move away from base ten sometimes.
+[08:25.16] <Rainb> then 13
+[08:25.22] <DogPolice> Shifting domains is difficult for some people.
+[08:25.37] <Rainb> Hmm
+[08:25.49] <Rainb> Maybe because they memorize that 7+5 is 13 fixed.
+[08:25.53] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[08:25.59] * ihatehex shifts DogPolice into a CAFO
+[08:26.00] <Rainb> not sure
+[08:26.02] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 245 seconds)
+[08:26.07] <Rainb> I don't know how people add
+[08:26.13] <Rainb> DogPolice: How do you add?
+[08:26.28] <nitrxgen_> you can get good at anything if you practice and find tricks to things
+[08:26.33] * Yordan89 (Yordan89@77.78.0.47) has joined channel ##programming
+[08:26.40] <DogPolice> Rainb: I take pieces of number individually and add them.
+[08:26.49] <ihatehex> Rainb, how do you add any base?
+[08:26.52] <DogPolice> 2 + 2 = 1 + 1 + 1 + 1.
+[08:27.11] <Rainb> Well, I imagine like a number is like a wheel
+[08:27.15] <nitrxgen_> an ordinary person can look at a hex dump of a binary file and be blown to smitherines. I can look at it and find a detailed pattern how to parse it all
+[08:27.16] <Rainb> and you spin it # of times
+[08:27.22] <Rainb> and when it reaches the last number
+[08:27.29] <Rainb> you continue on the second row
+[08:27.35] <ihatehex> Rainb, wat
+[08:27.36] <Rainb> like
+[08:27.38] <Rainb> Hmm
+[08:27.41] <ihatehex> is that how you calculate 5-3?
+[08:27.42] <nitrxgen_> I spend most of my time parsing data, reverse engineering file formats and whatnot
+[08:27.47] <ihatehex> that's fucking weird
+[08:27.48] <ihatehex> no offence
+[08:27.48] <DogPolice> Rainb: I see it as a transformation.
+[08:28.04] <Rainb> ihatehex: it's more like an analogy, but thank you.
+[08:28.11] <Rainb> DogPolice: How so?
+[08:28.15] <ihatehex> Rainb, bad analogies are not worth making
+[08:28.16] <ihatehex> :P
+[08:28.25] <Rainb> ihatehex: I had trouble expressing myself.
+[08:28.29] <Rainb> Have*
+[08:28.30] <ihatehex> Rainb, modulo is like a wheel
+[08:28.31] <ihatehex> :D
+[08:28.39] <ihatehex> a wheel of FORTUNE!
+[08:28.42] <Rainb> module is like division for me
+[08:28.42] <DogPolice> Rainb: Essentially, you take a unit, and then you stack those units on top of eachother until you can stand on top of the pile.
+[08:28.55] <ihatehex> Rainb, it ... is the anti-division
+[08:28.56] <ihatehex> :P
+[08:28.58] <DogPolice> It's pretty visual.
+[08:29.00] <ihatehex> whatever isn't divided
+[08:29.14] <ihatehex> DogPolice is a pile
+[08:29.28] <Rainb> DogPolice: So when you reach the last number, you start another pile?
+[08:29.30] * BearishMushroom (~BearishMu@90-231-174-194-no159.tbcn.telia.com) Quit (Read error: Connection reset by peer)
+[08:29.36] <DogPolice> Rainb: When I must carry, yeah.
+[08:29.37] <ihatehex> Rainb, ok, let's do a simple example
+[08:29.39] <ihatehex> let's do ternary
+[08:29.41] <Rainb> Oh, awesome.
+[08:29.42] <ihatehex> ok?
+[08:29.47] <Rainb> 012 kay
+[08:29.56] <Rainb> do I explain it or I just do it
+[08:29.59] <ihatehex> wat, 3-kay?
+[08:30.14] <Rainb> kay means okay, my little piece of... nuthin
+[08:30.24] <ihatehex> you wrote 012 in ternary first
+[08:30.28] <ihatehex> so
+[08:30.34] <ihatehex> what does it mean when you write 012
+[08:30.40] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[08:30.47] <Rainb> it means the numbers that have the base
+[08:30.53] <Rainb> like binary has 01
+[08:30.57] <Rainb> octal has 01234567
+[08:31.00] * Yordan89 (Yordan89@77.78.0.47) Quit (Ping timeout: 252 seconds)
+[08:31.03] <Rainb> helps visualize
+[08:31.08] <ihatehex> how about hexanary
+[08:31.10] <ihatehex> let's do that
+[08:31.16] <Rainb> is that base 11?
+[08:31.22] <ihatehex> turn 23 base 10 into base 6.
+[08:31.25] <ihatehex> no, hexanary is base 6
+[08:31.30] * jjhurt5 (~jjhurt5@184.63.31.183) has joined channel ##programming
+[08:31.31] <Rainb> I thought it was called hexal
+[08:31.33] <Rainb> Okay then
+[08:31.35] <ihatehex> no idea
+[08:31.38] <ihatehex> you may be right
+[08:31.47] <Rainb> I don't convert shit
+[08:31.53] <Rainb> converting shit is just division and module
+[08:31.58] <Rainb> i add shit in base shit
+[08:32.05] <ihatehex> then it should be eay
+[08:32.06] <ihatehex> easy
+[08:32.07] <ihatehex> get to it
+[08:32.09] <Rainb> if you want to convert shit just follow the algorithm
+[08:32.12] <Rainb> god
+[08:32.14] <Rainb> damn
+[08:32.38] <ihatehex> just tell me what 23 is in base 6
+[08:32.39] <ihatehex> :O
+[08:32.44] <Rainb> I can tell you what's 124 + 325 both hexal numbers in hexal, 
+[08:32.46] <Rainb> okayy..
+[08:32.48] <Rainb> let's see
+[08:32.55] <ihatehex> no one cares what your fancy numbers are
+[08:32.57] <Rainb> 23/6 is
+[08:33.10] <ihatehex> you're doing it wrong
+[08:33.20] <Rainb> is it module?
+[08:33.22] <DogPolice> ihatehex: You're dangerously close to being thrown into a ditch.
+[08:33.30] <ihatehex> Rainb, there's a trick
+[08:33.35] <ihatehex> Rainb, a sneaky trick
+[08:33.44] <ihatehex> involving understanding some basic math
+[08:33.44] <Rainb> I can just google the fucking algorithm.
+[08:33.50] <Rainb> Okay tell me this trick
+[08:33.52] --wlczkun-- logged in with account (wlcz)
+[08:34.13] <ihatehex> well, let's say you want to convert the number 23 (decimal) to hexanal
+[08:34.17] <ihatehex> or whatever anal you like
+[08:34.18] * boB_K7IQ (~IceChat9@50.46.87.250) has joined channel ##programming
+[08:34.18] --boB_K7IQ-- logged in with account (boB_K7IQ)
+[08:34.25] <Rainb> oh, you're still talking shit
+[08:34.27] <ihatehex> first thing you do is figure out what power of 6 fits into it
+[08:34.28] <Rainb> of course
+[08:34.33] <ihatehex> nope
+[08:34.37] <Rainb> >hexanal
+[08:34.39] <Rainb> >anal
+[08:34.42] <Rainb> ayy lmao
+[08:34.45] <Rainb> shut up
+[08:34.48] * moonlander (~moonlande@ip72-192-35-26.ri.ri.cox.net) has joined channel ##programming
+[08:34.55] <DogPolice> Both of you quit your shit or I will quiet both of you.
+[08:34.56] <DogPolice> Last warning.
+[08:34.57] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 250 seconds)
+[08:35.13] <ihatehex> I thought I was being helpful, but all right, I'll stop talking.
+[08:35.18] <jesther> Now c'mon.  They're just sparring.
+[08:35.36] <DogPolice> And I have a boomstick. :P
+[08:35.57] <ihatehex> I'm not sure that's any kind of valid excuse, but I've learned that logic is not related to your actions, so I won't push it
+[08:35.57] <ihatehex> :P
+[08:36.27] <DogPolice> ihatehex: Here's my logic: there's conflict, and I stop it.
+[08:36.38] <DogPolice> You wanna contest that, ##programming-ops.
+[08:36.39] <ihatehex> Is there a conflict? o_O
+[08:36.50] * eric_lagergren (~barsonme@c-71-231-122-10.hsd1.wa.comcast.net) Quit (Ping timeout: 255 seconds)
+[08:36.51] <DogPolice> That's the end of the conversation.
+[08:37.04] <ihatehex> DogPolice, what did you do today?
+[08:37.07] <DogPolice> Let's talk about Ruby.
+[08:37.11] <ihatehex> no.
+[08:37.27] * mven (~textual@72.183.104.138) has joined channel ##programming
+[08:37.32] * mven (~textual@72.183.104.138) Quit (Excess Flood)
+[08:38.39] <ihatehex> Let's talk about why JavaScript will conquer the world in 30 yeras
+[08:38.41] <ihatehex> years*
+[08:38.56] --uku-- logged in with account (uku)
+[08:39.03] <delta-nry> Is going through the C++ Programming Language exercises a good way to learn C++ or would you suggest something else?
+[08:39.10] * abugar (~abugar@unaffiliated/abugar) has joined channel ##programming
+[08:39.16] <ihatehex> delta-nry, do the exercises give you any cool ideas of your own?
+[08:39.18] <DogPolice> delta-nry: Well, practice makes perfect..
+[08:39.20] <ihatehex> do you have cool ideas of your own?
+[08:39.31] * abugar (~abugar@unaffiliated/abugar) Quit (Client Quit)
+[08:39.34] <ihatehex> if they give you cool ideas, do them, then do cool ideas
+[08:39.42] <ihatehex> if they don't give you cool ideas
+[08:39.45] <ihatehex> but you have cool ideas
+[08:39.47] <ihatehex> do cool ideas
+[08:39.49] <delta-nry> ihatehex: one of them is to learn C++ properly
+[08:39.58] <ihatehex> delta-nry, hope you have 15 years handy
+[08:39.59] <ihatehex> :P
+[08:40.40] <DogPolice> Doesn't take 15 years.
+[08:40.52] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[08:40.55] <ihatehex> DogPolice, it 's just a common c++ joke
+[08:41.05] * DogPolice never heard it.
+[08:41.10] <DogPolice> :P
+[08:41.12] <ihatehex> most people are not like you
+[08:41.18] <ihatehex> they don't spend their free time simulating particles
+[08:41.21] <DogPolice> It is extensive, though.
+[08:41.29] <DogPolice> Also, is that a slam against me? :P
+[08:41.34] <ihatehex> no
+[08:41.36] <ihatehex> observation
+[08:41.42] <DogPolice> Point taken.
+[08:42.05] <ihatehex> then you are clearly in the lead
+[08:42.07] <ihatehex> :<
+[08:42.17] * WindyDays (~WindyDays@110-174-128-86.static.tpgi.com.au) has joined channel ##programming
+[08:42.33] <sir_galahad_ad> :O
+[08:43.22] --Catuse-- logged in with account (Catuse)
+[08:43.46] * Sembei (~Sembei@unaffiliated/sembei) has joined channel ##programming
+[08:45.36] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[08:45.38] * d0nkeyBOB (~richarddo@c-50-187-27-83.hsd1.ma.comcast.net) has joined channel ##programming
+[08:45.53] <Rainb> delta-nry: I suggest about making something you want to do instead of just excercises, but depending on it, the difficulty of some might just be fun
+[08:46.06] <Rainb> I still feel bad tho
+[08:46.21] <Rainb> no matter how good I get at math I always feel stupid on it
+[08:46.26] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[08:46.37] <DogPolice> Rainb: Intuition comes if you pursue it.
+[08:46.53] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[08:46.56] <DogPolice> Here's a good site I discovered recently, ＋＋http://betterexplained.com，，
+[08:46.58] <Rainb> Depends on the problem
+[08:47.05] * HateDread (HateDread@14-200-31-158.static.tpgi.com.au) has joined channel ##programming
+[08:47.08] <Rainb> lemme see
+[08:47.31] <Rainb> Interesting
+[08:47.39] <Rainb> Will have to see if I like it
+[08:47.53] <Rainb> Personally I like discovered math
+[08:48.00] <HateDread> is anyone here a fan of /r/programming? Trying to figure out how to self-post so I can ask a question about apis
+[08:48.27] <Rainb> what do you want to ask, anyway?
+[08:48.57] <HateDread> I'm trying to find any modern voice-recognition APIs for Windows 7+, that work in C++ preferably. Everything is kinda buried
+[08:49.12] <Rainb> I see.
+[08:49.15] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[08:49.31] <Rainb> DogPolice: and with discovered math I mean like math that I'd like to think I discovered it in some way, and you do that by trying to solve problems you don't know how to solve.
+[08:49.31] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[08:49.32] --dantarion-- logged in with account (dantarion)
+[08:49.49] <DogPolice> Rainb: Well.. that's what intuition is.
+[08:49.56] * jesther (~jesther@121.1.54.52) Quit (Quit: BRB.  Gonna update.)
+[08:50.40] <Rainb> yet still some problems are still hard, and some math uhh, uhm, topics are not explained in that way, well maybe they are, but I just haven't gotten to the right materials yet.
+[08:50.56] <Rainb> Now, lemme check that website
+[08:51.10] <delta-nry> I not a fan of math as much as some people. Perhaps it's the way I was taught
+[08:51.41] * somepunk (~rohinpate@dhcp-128-189-225-46.ubcsecure.wireless.ubc.ca) Quit (Ping timeout: 255 seconds)
+[08:52.16] <Rainb> It's very possible the way it was taught.
+[08:52.31] <Rainb> I believe math just shouldn't be mandatory.
+[08:52.51] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 264 seconds)
+[08:53.00] <DogPolice> Iiii don't believe that whatsoever.
+[08:53.05] <Rainb> Most people use it seldomly, and if you use it, you just type data on computers, of course programmers do need to know math, because, well, they, make, the programs.
+[08:53.07] <DogPolice> Mathematics is a fundamental human idea.
+[08:53.08] --yamadapc-- logged in with account (assia_t)
+[08:53.19] <DogPolice> I can add two things together and get another number.
+[08:53.21] <GeneralVagueness> either math or logic should be mandatory
+[08:53.25] <Rainb> Logic.
+[08:53.29] --Platyp-- logged in with account (Platyp)
+[08:53.34] <Rainb> Yeah, that's the one I am after.
+[08:53.36] <DogPolice> If you deny that, then you deny teaching a child skills that it needs.
+[08:53.37] * abugar (~abugar@unaffiliated/abugar) has joined channel ##programming
+[08:53.47] <Rainb> You're not denying it
+[08:53.50] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 240 seconds)
+[08:53.52] <Rainb> you're not saying no.
+[08:54.00] <Rainb> You're just not forcing it.
+[08:54.07] <DogPolice> Just because your instruction sucked doesn't mean math is the problem.
+[08:54.15] <DogPolice> Your instructor is the problem, or you're the problem.
+[08:54.25] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 245 seconds)
+[08:54.27] <abugar> I have an application installed on my Ubuntu system called "Python Interpreter". Is this a compiler or do I have to install this seperately to compile Python code?
+[08:54.33] <DogPolice> Either A: The instructor didn't teach it in the way you liked, or B: You were either distracted or didn't care.
+[08:54.46] <DogPolice> abugar: Nope. Python is not a compiled language. You can use it.
+[08:55.03] <abugar> Not a compiled language? What does that mean?
+[08:55.06] <Rainb> and people who like math, can work on it.
+[08:55.39] <DogPolice> abugar: It means that it's not a compiled language. It doesn't compile to a binary. This is a pretty loose term.
+[08:56.16] <abugar> Okay, I think I understand. But how is the source code made into an executeable?
+[08:56.25] <DogPolice> abugar: It isn't.
+[08:56.25] <abugar> Or how does it run?
+[08:56.29] <Rainb> it is interpreted
+[08:56.31] <DogPolice> You run python scripts with the python interpreter.
+[08:56.35] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[08:56.36] <Rainb> python.exe runs it.
+[08:56.42] <Rainb> or python process.
+[08:56.45] * it0a (~it0a@cpe-76-189-250-113.neo.res.rr.com) has joined channel ##programming
+[08:56.47] <abugar> Oh, okay, now I get it. I apologize.
+[08:56.47] <Rainb> To be more technical correct.
+[08:56.56] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 245 seconds)
+[08:57.09] <DogPolice> abugar: Effectively your python interpreter _is_ the executable.
+[08:57.23] <DogPolice> You just feed it instructions, your program.
+[08:57.30] <abugar> In other words, a Python program is always open source, since the program is the source code?
+[08:57.41] <DogPolice> Pretty much.
+[08:57.45] --ystael-- logged in with account (ystael)
+[08:57.47] <abugar> Thanks :-)
+[08:57.53] <DogPolice> Np.
+[08:58.02] <Rainb> But math in schools is not really math tho
+[08:58.13] <Rainb> It's just doing repeated excercises.
+[08:58.15] <DogPolice> Rainb: Mathematics in schools is indeed math.
+[08:58.22] <DogPolice> It's rigorous, and rigor is boring to kids.
+[08:58.27] * abugar (~abugar@unaffiliated/abugar) Quit (Client Quit)
+[08:58.30] <DogPolice> Rigor comes after intuition.
+[08:58.50] <Rainb> I can't help but wonder if rigor is not boring to adults.
+[08:59.17] <delta-nry> There's just less excuse to not follow rigor
+[08:59.18] <Rainb> and you're not teaching kids to be intuitive.
+[08:59.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[08:59.26] <Rainb> You're just training them.
+[08:59.26] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[09:00.00] <Rainb> Yes, it's easier, as a teacher to lay back down, and evaluate them based on the scores.
+[09:00.19] <Rainb> and just do lectures on definitions and processes, and bla.
+[09:00.35] * FriskyK (SomeWhere@2.220.120.126) has joined channel ##programming
+[09:01.16] <Rainb> but without how and why, how can you ever come up with intuition
+[09:01.55] <DogPolice> Exactly.
+[09:02.04] <DogPolice> So, your problem isn't the Math.
+[09:02.07] <Rainb> and without intuition you're no better than computers, and computers are faster and more accurate than you.
+[09:02.08] <DogPolice> Your problem is its conveyance.
+[09:02.18] <Rainb> so, you're just as useless.
+[09:02.21] <DogPolice> And rigor is fine to us.
+[09:02.28] <DogPolice> As adults. Because we know the how and why.
+[09:03.05] <Rainb> Most adults still don't know the how and why, or would you think they do?
+[09:03.23] * FriskyKat (SomeWhere@90.208.58.17) Quit (Ping timeout: 264 seconds)
+[09:03.30] <DogPolice> Those that had the intuition conveyed to them enjoy rigor.
+[09:03.47] <DogPolice> Because it's like using shorthand to convey ideas.
+[09:03.50] <DogPolice> Easier, faster, efficient.
+[09:03.54] --Catuse-- logged out of account
+[09:03.54] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 246 seconds)
+[09:04.37] * KidBeta (~textual@130.56.72.52) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:04.39] <Rainb> We don't need more people that memorize formulas for no reason.
+[09:04.46] <Rainb> We need people that solve problems.
+[09:04.58] <Rainb> using any tool available
+[09:04.58] <DogPolice> And that calls for, say it with me now...
+[09:05.00] <DogPolice> Intuition.
+[09:05.19] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[09:05.19] * Voyage (Voyage@182.185.209.224) has joined channel ##programming
+[09:05.23] <Rainb> Exactly, so, as math curriculum doesn't do that
+[09:05.29] <Rainb> It could be discarded.
+[09:05.49] <DogPolice> That's throwing the baby out with the bathwater. It needs to be reformulated.
+[09:05.57] * remmie (~remmie@cpe-74-64-69-38.hvc.res.rr.com) Quit (Quit: Leaving)
+[09:06.05] * Voyage_ (Voyage@182.185.245.43) Quit (Ping timeout: 265 seconds)
+[09:06.21] <Rainb> Okay, but while you still wait for that to be done.
+[09:06.26] <Rainb> You could discard it right now
+[09:06.34] <Rainb> As it effectively does nothing nowdays.
+[09:07.45] * SOLIDPIZZA (~snake@unaffiliated/snake/x-2550465) has left ##programming (("Konversation terminated!"))
+[09:08.16] <DogPolice> No, because then you take that bare minimum education away from people who need it.
+[09:08.35] <DogPolice> You use these things every day. You are advocating for ignorance.
+[09:09.02] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##programming
+[09:09.37] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 256 seconds)
+[09:11.13] --oeuvre-- logged out of account
+[09:11.13] --oeuvre-- logged in with account (oeuvre)
+[09:11.21] * Gluesticky (~nobody@unaffiliated/gluesticky) Quit (Quit: This is the end. Goodbye cruel world!)
+[09:11.27] * FriskyK is now known as FriskyKat
+[09:11.29] <Rainb> Math curriculum as taught now, and what people 'get' from it, it's not advocating for ignorance, most people are already ignorant in what.. I don't know.. you would call "intuitive math", or math that is actually needed. If you're saying they won't learn how to add or rest by themselves, I doubt that, even then, they can still use a calculator. 
+[09:11.36] * somepunk (~rohinpate@dhcp-128-189-224-119.ubcsecure.wireless.ubc.ca) has joined channel ##programming
+[09:11.50] <Rainb> Music being non-mandatory is advocating for ignorance.
+[09:12.13] <DogPolice> Rainb: The fact that you seem to find it hard doesn't mean that it is a problem with the subject.
+[09:12.40] <Rainb> what do you mean with that?
+[09:13.02] <DogPolice> Buckle down and try to understand it, follow along, and pursue extra resources, or not. But blaming it on other things outside of reasonable causes is a stupid thing to do.
+[09:13.20] * thumpba__ (~thumpba@38.104.231.214) Quit (Ping timeout: 240 seconds)
+[09:13.28] * tus (~tus@unaffiliated/tus) Quit ()
+[09:13.32] <Rainb> find hard what thing?
+[09:13.40] <DogPolice> Math.
+[09:13.47] <DogPolice> From simple addition to polynomials.
+[09:14.57] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:15.18] * thumpba (~thumpba@38.104.231.214) has joined channel ##programming
+[09:15.28] * sussman (~sussman@177.40.31.126) has joined channel ##programming
+[09:15.41] <Rainb> I don't think I find it hard, if explained on a way that's easy to understand, even the most obscure math concepts are just 'oh, dumb' things
+[09:16.11] <Rainb> But that's not the point.
+[09:16.28] <DogPolice> "This bridge doesn't work very well, so burn the bridge."
+[09:16.33] <DogPolice> Good logic, man.
+[09:16.34] <DogPolice> :)
+[09:17.53] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[09:18.17] * Gentilhomme (~Gentilhom@cpe-24-193-9-147.nyc.res.rr.com) has joined channel ##programming
+[09:18.28] --Gentilhomme-- logged in with account (J-SBach)
+[09:18.28] * Gentilhomme (~Gentilhom@cpe-24-193-9-147.nyc.res.rr.com) Quit (Changing host)
+[09:18.28] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##programming
+[09:18.42] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) Quit (Read error: Connection reset by peer)
+[09:19.00] * Gentilhomme (~Gentilhom@unaffiliated/gentilhomme) has joined channel ##programming
+[09:19.08] * fleshtheworld_ (~fleshthew@2602:306:cf0f:4da0:3890:f911:e30e:705c) has joined channel ##programming
+[09:19.08] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:3890:f911:e30e:705c) Quit (Disconnected by services)
+[09:19.35] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Remote host closed the connection)
+[09:19.35] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[09:19.45] <Rainb> But that bridge that doesn't work way, does generate problems by being there, so if you're not gonna fix that bridge soon, you're rather get it out of the way. First, people could specialize more on what they're good, and if they're good at math, fantastic, let them be. But if you're good at art, you just shouldn't be forced to memorize formulas, be evaluated for them. Maybe if you change how math is tested will change how math is taught.
+[09:19.45] * MINIMAN10001 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:20.00] <plzburger> ... bridge . . . ¿
+[09:20.01] <Rainb> I'm not good with analogies, really.
+[09:20.12] <plzburger> i'm not good with analog
+[09:20.21] <plzburger> i prefer 1's and 0's
+[09:20.23] --Joufflu-- logged in with account (Joufflu)
+[09:20.36] <_blizzy_> oh, depression, how much I hate you.
+[09:20.39] <plzburger> no bridge rectifiers for me
+[09:21.02] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) has joined channel ##programming
+[09:21.14] --asarch-- logged in with account (asarch)
+[09:21.16] <Rainb> I'd rather replace math by logic, then we can work our way up.
+[09:21.23] --star114-- logged in with account (star114)
+[09:21.24] <DogPolice> Rainb: Math is logic.
+[09:21.27] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 245 seconds)
+[09:21.35] <_blizzy_> Friendship is Logic.
+[09:21.38] <DogPolice> That's the problem. You don't know it, so you can't have an opinion about it. :)
+[09:21.43] <Rainb> Lol
+[09:21.45] <DogPolice> At least one that holds water.
+[09:21.49] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:21.49] <plzburger> some math is illogical
+[09:21.55] * thumpba_ (~thumpba@38.104.231.214) has joined channel ##programming
+[09:22.06] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) Quit (Quit: DolphinDream)
+[09:22.10] <DogPolice> Sure it is. :P
+[09:22.28] <fear> KEVIN SPACEEEY
+[09:22.39] <DogPolice> In House of Cards?
+[09:22.43] <Rainb> Well, in that case, rename the subject as logic, and instead of doing numbercrunching and definitions, just start by basic (dumb-ass) logic. and work from there.
+[09:22.52] <fear> He's good in house of cards but he's got other things too DogPolice :P
+[09:22.56] * plzburger snatches some cheese
+[09:23.00] <DogPolice> Indeed. Saw him in Se7en.
+[09:23.08] <DogPolice> And in American Beauty.. what else.. 21..
+[09:23.12] <DogPolice> Good stuff.
+[09:23.14] <Rainb> That bridge is still generating trouble and wasting time, tho.
+[09:23.31] * hyuke (~alan@c-50-134-181-139.hsd1.co.comcast.net) has joined channel ##programming
+[09:23.33] <plzburger> bridge rectifier generating heat and being plain inefficient? o.o
+[09:23.36] <DogPolice> Rainb: I'm going to further disenchant you and say that your proposal doesn't work, so the conversation will stagnate after this point.
+[09:23.42] --HenriettaSalt-- logged in with account (HenriettaSalt)
+[09:23.54] * MINIMAN10002 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:24.01] <DogPolice> As such, no benefit to continuing it. :P
+[09:24.12] * MINIMAN10001 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 246 seconds)
+[09:24.21] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 256 seconds)
+[09:24.32] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 255 seconds)
+[09:24.44] <Rainb> I am just going to say that it's okay. 
+[09:24.51] * HateDread (HateDread@14-200-31-158.static.tpgi.com.au) has left ##programming ()
+[09:25.41] <Rainb> DogPolice: also, thanks for that website, anyway.
+[09:25.50] <DogPolice> Np! I love it. :)
+[09:26.08] <DogPolice> It makes invariant constants digestable.
+[09:26.39] * MINIMAN10001 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:26.44] * Snake2k ~$ ./hug -v DogPolice 
+[09:26.49] * DogPolice is hugged.
+[09:26.55] <Snake2k> Lmao
+[09:27.22] <plzburger> $ ./bug -vvvv DogPolice
+[09:27.31] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 272 seconds)
+[09:27.32] * DogPolice is BUBUBUBUBUBUBUGGED.
+[09:27.36] <fear> DogPolice LA confidential
+[09:27.38] <fear> is a masterpiece
+[09:28.03] <DogPolice> Never seen.
+[09:28.05] <fear> so is usual suspects
+[09:28.07] <fear> you should.
+[09:28.11] <DogPolice> Usual Suspects!
+[09:28.12] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:28.35] <fear> Why do universities insist on teaching java as starting language
+[09:28.43] <DogPolice> History.
+[09:28.44] <plzburger> because i hate java :|
+[09:28.45] <fear> What makes them think it's a good starting language?
+[09:28.51] <fear> same.
+[09:28.53] * MINIMAN10002 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 256 seconds)
+[09:28.58] <DogPolice> fear: Because it's an "enterprise" language.
+[09:29.02] <plzburger> i epicfailed my java class because the professor disliked me
+[09:29.10] <DogPolice> And they have a lot of people involved with it.
+[09:29.11] <fear> DogPolice Yeah but that doesn't make it good for beginners
+[09:29.12] <plzburger> i corrected him one too many times in class
+[09:29.20] <DogPolice> fear: Never said it was logical. :)
+[09:29.21] <fear> plzburger My current prof is absolutely racist and can't wait till I get out of her class
+[09:29.24] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Read error: Connection reset by peer)
+[09:29.26] <Snake2k> fear: What DogPolice said...
+[09:29.29] <plzburger> Ò.ó
+[09:29.32] <fear> I realise that it's a big accusation
+[09:29.38] <fear> plzburger favours asians :P
+[09:29.38] <Snake2k> I dislike Java being taught as a starting language for college students
+[09:29.42] <DogPolice> That is an incredible accusation.
+[09:29.47] <DogPolice> And I'll ask you to not utter it again.
+[09:29.49] * plzburger is asian :D
+[09:29.50] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) has joined channel ##programming
+[09:29.51] * GeneralVagueness (~General@2601:4:1780:677:1e:5a73:a608:7e56) Quit (Ping timeout: 256 seconds)
+[09:29.52] * Sadale (~Sadale@unaffiliated/sadale) Quit (Read error: Connection reset by peer)
+[09:29.55] <fear> plzburger twat :P
+[09:29.56] <Rainb> >not knowing programming before going to college
+[09:29.58] <Rainb> ayy lmao
+[09:29.58] <plzburger> derp.
+[09:30.39] <fear> Rainb I really like python, probably because it was my primary language
+[09:30.44] * Albori (~Albori@64-251-150-248.fidnet.com) Quit (Ping timeout: 265 seconds)
+[09:30.49] <fear> some people really hate it
+[09:30.52] <Rainb> I really dislike python
+[09:30.52] <fear> but most are fine with python
+[09:30.54] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit ()
+[09:30.56] <plzburger> i really like php. i did some really gnarly things with it.
+[09:31.02] <DogPolice> People grow attached to their first languages..
+[09:31.05] <ihatehex> %s/DogPolice/Raptors/g
+[09:31.08] <fear> plzburger I haven't started PHP yet
+[09:31.09] * MINIMAN10001 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 246 seconds)
+[09:31.10] <fear> Idk if I want to
+[09:31.13] <DogPolice> It's a part of growing up. :)
+[09:31.18] <plzburger> PHP is sorta like C
+[09:31.24] <plzburger> i've ported apps both ways before
+[09:31.24] <ihatehex> plzburger, you take that back
+[09:31.25] <Rainb> Python is supposed to be a first language, and that's it
+[09:31.30] <plzburger> ihatehex: ORLY
+[09:31.30] <delta-nry> DogPolice: I started with Python and I don't have a super-favorable stance on it
+[09:31.33] <ihatehex> that's an insult to Python
+[09:31.39] <ihatehex> I mean PHP
+[09:31.43] <Rainb> php sucks
+[09:31.46] <plzburger> ...
+[09:31.48] <ihatehex> C is awful, PHP is slightly less awful
+[09:31.55] <ihatehex> Python is pretty good
+[09:31.56] * plzburger smells language war coming up
+[09:31.59] * gyonka (18d4c394@gateway/web/freenode/ip.24.212.195.148) has joined channel ##programming
+[09:32.01] * DogPolice cocks a shotgun.
+[09:32.04] <fear> LISP MASTERRACE
+[09:32.05] <ihatehex> delta-nry, write some webapps with it
+[09:32.13] <LowNa> LISP MASTERRACE
+[09:32.15] <DogPolice> All languages cover their respective domain, and we're going to continue like that.
+[09:32.21] <fear> DogPolice shut up commie
+[09:32.22] <delta-nry> Python is fine, but programmers have to know their languages' limits
+[09:32.25] <DogPolice> Any language war starting will have its participants quieted.
+[09:32.27] <DogPolice> Last warning.
+[09:32.31] <ihatehex> DogPolice, C imports the source of its libraries
+[09:32.32] <ihatehex> that is insane
+[09:32.37] <ihatehex> while compiling
+[09:32.38] <ihatehex> what the hell
+[09:32.40] * ChanServ sets mode +o DogPolice for ##programming
+[09:32.43] <Snake2k> English > every programming language
+[09:32.46] <@DogPolice> If I have to say it again.
+[09:32.47] <fear> DogPolice You're still a commie.
+[09:32.48] * drunkcheetah (63e28c97@gateway/web/freenode/ip.99.226.140.151) has joined channel ##programming
+[09:32.48] * Snake2k hides
+[09:32.54] <ihatehex> +
+[09:32.55] <delta-nry> Snake2k: please don't add fuel to this
+[09:32.58] <fear> HALP, CENSORSHEEP
+[09:33.02] <@DogPolice> fear: And you're a dirty commie. :P
+[09:33.07] <@DogPolice> At least I'm clean.
+[09:33.08] <fear> DogPolice ayy bb wan sum fuk
+[09:33.13] * DogPolice sighs.
+[09:33.15] <Rainb> police brutality
+[09:33.15] <fear> :P
+[09:33.18] <Snake2k> delta-nry: But I like english :'(
+[09:33.21] * DogPolice sets mode -o DogPolice for ##programming
+[09:33.21] <gyonka> i came to this channel specifically for this
+[09:33.24] <DogPolice> Keep it civil people.
+[09:33.28] <fear> no u
+[09:33.29] <DogPolice> And don't start language wars.
+[09:33.35] <fear> Language wars are fun
+[09:33.37] <ihatehex> it'
+[09:33.43] <ihatehex> s only a war if you get involved
+[09:33.43] <ihatehex> :P
+[09:33.45] <Rainb> So
+[09:33.48] <fear> ihatehex er
+[09:33.49] <ihatehex> no one else has the weaponry
+[09:33.52] * MINIMAN10000 (~MINIMAN10@c-71-227-128-41.hsd1.wa.comcast.net) Quit (Ping timeout: 244 seconds)
+[09:33.53] <fear> I don't think you know how wars work
+[09:33.55] <Rainb> what channel is the channel specified for language wats
+[09:33.56] <fear> :P
+[09:34.01] <Rainb> wars*
+[09:34.01] <DogPolice> Lolwut.
+[09:34.17] <ihatehex> fear, DogPolice is like the US arming Iraq and then invading it
+[09:34.18] <ihatehex> :P
+[09:34.19] * Sadale (~Sadale@unaffiliated/sadale) has joined channel ##programming
+[09:34.32] <Rainb> #programming-wars
+[09:34.36] <DogPolice> ^
+[09:34.37] <DogPolice> Do it.
+[09:34.45] <Rainb> excellent
+[09:34.51] <ihatehex> I don't even understand C
+[09:34.53] <ihatehex> :(
+[09:34.59] <ihatehex> It confuses me
+[09:35.11] <gyonka> "A Chinese spy manages to steal the last 50MB of the Lisp program governing U.S. missile launches. Fortunately, it was all closing parentheses."
+[09:35.11] <DogPolice> ihatehex: No wonder you find it horrible. People are always afraid of things they don't understand. :)
+[09:35.21] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[09:35.21] * Sadale (~Sadale@unaffiliated/sadale) Quit (Read error: Connection reset by peer)
+[09:35.23] <ihatehex> I don't really find it horrible
+[09:35.27] <ihatehex> xeno_, told me it was
+[09:35.31] <DogPolice> Lmao.
+[09:35.31] <ihatehex> I trust his judgement
+[09:35.38] * cosmicjunkie (~wow4thcho@173.245.65.230) has joined channel ##programming
+[09:35.42] <DogPolice> All languages are horrible in their own special ways. It's called "having a domain".
+[09:35.44] * drunkcheetah (63e28c97@gateway/web/freenode/ip.99.226.140.151) Quit (Client Quit)
+[09:35.46] <ihatehex> he's a pretty good programmer
+[09:36.03] <gyonka> lets be real php is for gods
+[09:36.06] <ihatehex> he works for people who do a fairly important job
+[09:36.07] <DogPolice> Lmfao.
+[09:36.10] <ihatehex> :o
+[09:36.11] * LowNa (~LowNa@gateway/vpn/privateinternetaccess/lowna) Quit (Quit: Leaving)
+[09:36.19] <ihatehex> his arguments seem to make sense
+[09:36.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:36.29] <ihatehex> he doesn't really argue for a programming language being GOOD, just less bad
+[09:36.38] <DogPolice> Less bad implies good.
+[09:36.44] <DogPolice> So.. badabingbadaboom.
+[09:37.03] * DolphinDream (~DolphinDr@pool-173-75-54-132.pitbpa.fios.verizon.net) has joined channel ##programming
+[09:37.09] * cosmicjunkie (~wow4thcho@173.245.65.230) Quit (Read error: Connection reset by peer)
+[09:37.21] <ihatehex> No it doesn't
+[09:37.23] <ihatehex> That's stupid
+[09:37.23] * cosmicjunkie (~wow4thcho@CPE788df7448541-CM788df7448540.cpe.net.cable.rogers.com) has joined channel ##programming
+[09:37.34] <DogPolice> Sure it is.
+[09:37.43] * gyonka (18d4c394@gateway/web/freenode/ip.24.212.195.148) Quit (Quit: Page closed)
+[09:37.48] * fear is now known as asphyxxia
+[09:37.55] <ihatehex> I'm glad we agree
+[09:38.06] <DogPolice> I'm glad you understand none of what he said. :P
+[09:38.20] * yhulp (6bbf210d@gateway/web/freenode/ip.107.191.33.13) has joined channel ##programming
+[09:38.27] * asphyxxia is now known as fear
+[09:38.29] <Rainb> well
+[09:38.41] <Rainb> In the language war channel
+[09:38.45] <fear> #programming-wars is a thing guise
+[09:38.46] * Ale46 (~ale46@2.237.242.245) Quit (Quit: WeeChat 1.1.1)
+[09:38.47] <Rainb> the general concensus is
+[09:38.51] <Rainb> German is the best language.
+[09:38.55] <fear> Rainb No
+[09:38.58] <Rainb> ya
+[09:39.14] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##programming
+[09:39.21] <DogPolice> Ha.
+[09:39.28] <DogPolice> Take it there. :P
+[09:39.33] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 244 seconds)
+[09:39.40] <fear> Rainb Говноед
+[09:39.41] <fear> >.>
+[09:40.00] <Rainb> Nein, dich
+[09:40.10] <ihatehex> Ich habe keine Deutsch
+[09:40.19] * fear is now known as asphyxxia
+[09:40.30] * LowSodium (~LowNa@gateway/vpn/privateinternetaccess/lowna) has joined channel ##programming
+[09:40.40] <plzburger> Ich habe einige Deutsch-Fähigkeit
+[09:40.49] <ihatehex> Blitzkartoffel.
+[09:40.57] * max100 (~max100@unaffiliated/max100) Quit (Ping timeout: 246 seconds)
+[09:42.02] <Rainb>  irc.snoonet.org[09:41.39] -irc.snoonet.org- *** Attempting to connect to irc.snoonet.org (178.62.104.79) on port 6667
+[09:42.02] <Rainb> [09:41.39] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on
+[09:42.02] <Rainb> this class.
+[09:42.16] <Rainb> Java surely is nice in there
+[09:42.28] <ihatehex>  dln T
+[09:42.36] <ihatehex> Don't blame Java for your inability to write code
+[09:42.37] <ihatehex> :P
+[09:42.39] * meandi_1 (~meandi_3@dyndsl-031-150-056-193.ewe-ip-backbone.de) has joined channel ##programming
+[09:42.54] <ihatehex> Java is OOP with training wheels
+[09:43.09] <DogPolice> Let's not go into this again.
+[09:44.20] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[09:45.04] * meoblast001 (~meoblast@dynamic-acs-24-112-206-77.zoominternet.net) has joined channel ##programming
+[09:45.15] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 245 seconds)
+[09:45.18] <ihatehex> DogPolice, it's my primary programming language
+[09:45.32] <ihatehex> I can definitely call Java OOP with training wheels
+[09:45.33] <DogPolice> And?
+[09:45.34] <ihatehex> legitimate
+[09:45.37] <ihatehex> :P
+[09:45.40] <Rainb> All first programming language should be brainfuck
+[09:45.48] <Rainb> best language ever
+[09:46.12] * meandi_2 (~meandi_3@dyndsl-031-150-049-237.ewe-ip-backbone.de) Quit (Ping timeout: 246 seconds)
+[09:46.24] <koollman> followed by whitespace. when you are ready to write cleaner source code :)
+[09:46.38] <ihatehex> :|
+[09:46.50] <Rainb> you need whitespace in order to become good at indentation
+[09:46.55] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) Quit (Quit: Leaving)
+[09:48.19] * bocard (~bocard@dhcp-189-183.gjk.dk) has joined channel ##programming
+[09:49.25] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[09:51.27] * significance (4c732114@gateway/web/freenode/ip.76.115.33.20) has joined channel ##programming
+[09:52.10] * Technocrat7 (~Technocra@69.27.21.152) has joined channel ##programming
+[09:52.27] <significance> For a medium-sized static database (data will just be read, not written) on an iPhone app, is it better to use CoreData or SQLite?
+[09:52.36] <asphyxxia> Anyone using linux
+[09:53.40] * bocard (~bocard@dhcp-189-183.gjk.dk) Quit (Ping timeout: 256 seconds)
+[09:53.45] * _X_C_V_B_ (~XCVB@dur-dhcp-1-117.dsl.airstreamcomm.net) has joined channel ##programming
+[09:53.56] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 265 seconds)
+[09:53.57] <significance> asphyxxia - what's your question?
+[09:54.06] <asphyxxia> significance ANYONE USING LINUX?
+[09:54.07] <asphyxxia> *
+[09:54.22] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[09:54.38] <_X_C_V_B_> me
+[09:55.07] * thumpba_ (~thumpba@38.104.231.214) Quit (Ping timeout: 250 seconds)
+[09:55.21] <asphyxxia> _X_C_V_B_ What distro?
+[09:55.29] <_X_C_V_B_> ubuntu
+[09:55.34] * Qasaur (~qasaur@81-230-125-42-no118.bredband.skanova.com) Quit (Ping timeout: 244 seconds)
+[09:55.43] <asphyxxia> _X_C_V_B_ >.>
+[09:55.47] <asphyxxia> peasant
+[09:55.50] * significance (4c732114@gateway/web/freenode/ip.76.115.33.20) Quit (Quit: Page closed)
+[09:55.57] <asphyxxia> seriously though did unity actually start to become non-laggy?
+[09:56.18] --DilloYoda-- logged in with account (TXRoadkill)
+[09:56.38] <_X_C_V_B_> I don't use unity
+[09:56.44] <Rainb> I use linux
+[09:56.45] <_X_C_V_B_> I use xfce4
+[09:56.51] <Rainb> it's android
+[09:56.56] <Rainb> ayy llmmaaao
+[09:57.03] <doomlord_1> xfce ftw
+[09:58.12] * Henke37b (~Henrik@h23n2-ks-d3.ias.bredband.telia.com) Quit (Read error: Connection reset by peer)
+[09:59.42] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) has joined channel ##programming
+[10:00.33] * pulse (~pulse@unaffiliated/pulse) Quit (Ping timeout: 246 seconds)
+[10:01.46] * Technocrat7 (~Technocra@69.27.21.152) Quit (Ping timeout: 244 seconds)
+[10:02.41] * alienspy (alienspy@2600:3c00::f03c:91ff:fe84:cf6a) Quit (Read error: Connection reset by peer)
+[10:02.49] * _slade_ (~Slade@pool-98-111-219-146.pitbpa.fios.verizon.net) has joined channel ##programming
+[10:08.55] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Quit: Leaving)
+[10:10.10] * dantarion (~quassel@ps164606.dreamhost.com) has joined channel ##programming
+[10:10.25] * tony_ (ad223d16@gateway/web/freenode/ip.173.34.61.22) has joined channel ##programming
+[10:12.13] <tony_> hey i am trying to load android on a usb flash drive on my emachines desktop. i have been trying for like 2 hours now, i dont see the option to add the usb to the boot order in the bios. any ideas?
+[10:12.44] * hyuke (~alan@c-50-134-181-139.hsd1.co.comcast.net) Quit (Ping timeout: 252 seconds)
+[10:12.56] * _Atom_ (~jawat@172.56.15.103) has joined channel ##programming
+[10:13.02] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) has joined channel ##programming
+[10:13.33] <tony_> pyon you there?
+[10:14.20] * dantarion (~quassel@ps164606.dreamhost.com) Quit (Ping timeout: 240 seconds)
+[10:15.36] * MageJames (~Magejames@cpe-071-075-069-030.carolina.res.rr.com) has joined channel ##programming
+[10:15.58] * dtk (~dtk@105.154.78.8) Quit (Remote host closed the connection)
+[10:16.18] * aidanh (~aidanh@unaffiliated/aidanh) Quit (Ping timeout: 246 seconds)
+[10:17.57] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) has joined channel ##programming
+[10:18.04] * nedbat (~nedbat@python/psf/nedbat) has left ##programming (("Textual IRC Client: ＋＋www.textualapp.com，，"))
+[10:18.08] * apoasdasdasd (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) has joined channel ##programming
+[10:18.36] * firelegend (~legendary@46.40.126.253) Quit (Ping timeout: 252 seconds)
+[10:18.44] * firelegend (~legendary@46.40.126.253) has joined channel ##programming
+[10:18.56] * Dfsd3w (~Mister@2a02:8109:9280:1738:c9ec:bc15:9949:3a4a) Quit (Quit: Dfsd3w)
+[10:19.15] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[10:19.38] * zima (zima@173.182.129.50) Quit (Quit: zima)
+[10:20.10] * Captain_Matrix (~terabit@unaffiliated/terabit) has joined channel ##programming
+[10:20.10] * AndroidLoverInSF (~AndroidLo@64.56.206.254) has joined channel ##programming
+[10:20.12] * MageJames (~Magejames@cpe-071-075-069-030.carolina.res.rr.com) Quit (Ping timeout: 245 seconds)
+[10:20.38] * AndroidLoverInSF (~AndroidLo@64.56.206.254) Quit (Max SendQ exceeded)
+[10:20.43] * apoplexy_da_boss (~whatupbra@CPE2cd05a1a8339-CMbc1401279700.cpe.net.cable.rogers.com) Quit (Ping timeout: 272 seconds)
+[10:21.05] * sethj (~seth@c-24-17-37-205.hsd1.wa.comcast.net) has joined channel ##programming
+[10:21.29] * aidanh (~aidanh@unaffiliated/aidanh) has joined channel ##programming
+[10:23.49] --rbowlby-- logged in with account (rbowlby)
+[10:23.49] <Rainb> I want to go to a house that doesn't have beds nor sofas
+[10:23.54] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Ping timeout: 265 seconds)
+[10:23.55] <Rainb> so I am forced to sleep on the floor
+[10:24.03] <ser_berry> why would you want that?
+[10:24.05] <Rainb> cause I don't have the self-discipline to do it
+[10:24.26] <ser_berry> there are bettter ways to test your self-discipline
+[10:24.28] --HenriettaSalt-- logged in with account (HenriettaSalt)
+[10:24.36] <Rainb> no, better way
+[10:24.38] * yhulp (6bbf210d@gateway/web/freenode/ip.107.191.33.13) has left ##programming ()
+[10:25.03] <Rainb> dunno
+[10:25.05] * _Atom_ (~jawat@172.56.15.103) Quit (Read error: Connection reset by peer)
+[10:25.15] * Captain_Matrix (~terabit@unaffiliated/terabit) Quit (Ping timeout: 264 seconds)
+[10:25.16] <Rainb> but what other ways to test self-disicipline
+[10:25.17] <Rainb> like
+[10:25.29] <Rainb> responding to alarm clocks
+[10:25.34] <Rainb> that's a good one I need to learn
+[10:25.39] <Rainb> but I never do it.
+[10:25.46] --sussman-- logged in with account (AndyBotwin)
+[10:25.46] * sussman (~sussman@177.40.31.126) Quit (Changing host)
+[10:25.46] * sussman (~sussman@unaffiliated/andybotwin) has joined channel ##programming
+[10:25.48] <Rainb> Maybe it's because bed is too comfortable
+[10:25.48] * _slade_ (~Slade@pool-98-111-219-146.pitbpa.fios.verizon.net) Quit (Ping timeout: 246 seconds)
+[10:25.57] <ser_berry> sports, exercise etc
+[10:26.00] <Rainb> so maybe if I sleep on floors I will hear the alarm 
+[10:26.06] <Rainb> and be more eager to wake up
+[10:26.07] * toccatanfugue (~bionet@pool-108-48-158-239.washdc.fios.verizon.net) has joined channel ##programming
+[10:26.10] * sussman (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[10:26.10] <ser_berry> I find weight lifting to be quite an awesome challenge and test of self-discipline
+[10:26.34] * AndyBotwin (~sussman@unaffiliated/andybotwin) has joined channel ##programming
+[10:26.50] <Rainb> I will do weight lifting with my cats sometime then.
+[10:26.56] * user123321 (~user@112.134.200.101) has joined channel ##programming
+[10:27.01] * user123321 (~user@112.134.200.101) Quit (Read error: Connection reset by peer)
+[10:27.09] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Read error: Connection reset by peer)
+[10:27.10] * antons (~antons@199.48.121.14) has joined channel ##programming
+[10:27.46] * JanC (~janc@lugwv/member/JanC) Quit (Ping timeout: 265 seconds)
+[10:27.49] * arup_r (~chatzilla@122.171.28.99) has joined channel ##programming
+[10:27.57] * ecthiender (ecthiender@unaffiliated/ecthiender) has joined channel ##programming
+[10:27.58] * pimlu (~pimlu@pool-74-110-222-47.rcmdva.fios.verizon.net) Quit (Ping timeout: 255 seconds)
+[10:28.16] <PlanckWalk> Yep, do 100 reps with cats.  Push through the pain, you can apply bandages to your wrists later.
+[10:28.39] --Guest52797-- logged in with account (daynaskully)
+[10:28.50] * d0nkeyBOB (~richarddo@c-50-187-27-83.hsd1.ma.comcast.net) Quit (Ping timeout: 240 seconds)

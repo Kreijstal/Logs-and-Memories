@@ -1,0 +1,44 @@
+Session Start: Wed Feb 18 12:30:05 2015
+Session Ident: ##programming
+[12:30.05] * You have joined ##programming
+[12:30.05] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[12:30.05] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[12:30.06] Channel modes for ##programming are :+cntf ##overflow
+[12:30.06] Channel Created on: 5:23 AM 2/4/2007
+[12:30.22] <pyon> Multiple interface inheritance is... basically useless. The whole point to inheritance is reusing behavior. An interface gives you no behavior to reuse.
+[12:30.28] <nikio_> whats the difference between imperative and procedural programming?
+[12:30.30] * U235 (~textual@71-220-77-115.mpls.qwest.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[12:31.04] <pyon> nikio_: Programming with lots of gotos and no procedures is imperative, but not procedural.
+[12:31.16] <LovCAPONE> pyon: how's your project coming along?
+[12:31.20] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Quit: Leaving)
+[12:31.30] <pyon> LovCAPONE: Not so well.
+[12:31.41] <LovCAPONE> pyon: ???
+[12:31.52] * pyon keeps running into all sorts of hard type-theoretic issues.
+[12:32.19] <LovCAPONE> pyon: a programmer's job is to solve problems! You'll solve em'
+[12:32.24] <nikio_> pyon, how do you know? where can i read a confirmation that this is the truth on how things are defined
+[12:32.27] <delta-nry> pyon: I personally keep inheritance to a minimum. Multiple interface inheritance is good when you want to guarantee that an object contains some methods (although overrides are a concern)
+[12:33.49] * DrIranian (2ee0741f@gateway/web/freenode/ip.46.224.116.31) has joined channel ##programming
+[12:34.04] * nabya (~nabya@CPEbc140133a5b3-CMbc140133a5b0.cpe.net.cable.rogers.com) has joined channel ##programming
+[12:34.25] <delta-nry> IIRC C# requires you to specify the interfaces of what your generic types can do which is one reason why generics in C# have less issues than C++ templates
+[12:34.54] * blackb1rd (~zack@2602:30a:c021:2ee0:3d9b:46c:5205:f7ed) has joined channel ##programming
+[12:34.58] * mooson (~mooson@24-240-26-230.dhcp.gwnt.ga.charter.com) Quit (Quit: Leaving)
+[12:35.00] <pyon> delta-nry: I prefer other code reuse mechanisms that have less issues, e.g., functors ("functor RedBlackTree (X : ORDERED) : RED_BLACK_TREE = ..."), or constrained type class instances ("instance Foo a => Bar (Qux a) where...".)
+[12:35.03] * nabya (~nabya@CPEbc140133a5b3-CMbc140133a5b0.cpe.net.cable.rogers.com) Quit (Client Quit)
+[12:35.04] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:35.13] <pyon> Rust's traits are essentially type classes, so they are okay as well.
+[12:36.04] * aoseki (~akaseki@unaffiliated/akaseki) has joined channel ##programming
+[12:36.13] * Corey84 (~Corey84@unaffiliated/corey84) Quit (Ping timeout: 246 seconds)
+[12:37.32] * nabya (~nabya@CPEbc140133a5b3-CMbc140133a5b0.cpe.net.cable.rogers.com) has joined channel ##programming
+[12:37.41] * nabya (~nabya@CPEbc140133a5b3-CMbc140133a5b0.cpe.net.cable.rogers.com) Quit (Client Quit)
+[12:38.27] <DrIranian> What programming language pays best at the moment?
+[12:39.13] <pyon> dunno
+[12:39.16] <Leftmost> f77.
+[12:39.33] <pyon> What about COBOL?
+[12:39.48] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) Quit (Ping timeout: 252 seconds)
+[12:39.56] <DrIranian> Really? no C#/Java/C++?
+[12:40.11] <ezrios> DrIranian: all the COBOL programmers are dying
+[12:40.26] <ezrios> and soon no one will be able to maintain all that legacy banking software
+[12:40.34] <DrIranian> ezrios: lol man :)
+[12:40.44] <ezrios> I've heard of retired COBOL programmers being hired back on as contractors for $100/h
+[12:40.51] <DrIranian> ezrios: So what's the hourly pay for a COBOL guru?
+[04:42.14] *** Server disconnected on irc.freenode.net

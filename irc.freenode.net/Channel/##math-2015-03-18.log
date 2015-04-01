@@ -1,0 +1,112 @@
+Session Start: Wed Mar 18 04:40:01 2015
+Session Ident: ##math
+[04:40.01] * You have joined ##math
+[04:40.01] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[04:40.01] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[04:40.05] Channel modes for ##math are :+Ccnt
+[04:40.05] Channel Created on: 8:42 PM 1/29/2010
+[04:40.48] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) Quit (Ping timeout: 250 seconds)
+[04:41.23] <Ploppz> I'm also confused because N∩S consists of Q so that g(Q) = 0, but a necessary condition is that all partial derivatives of g(Q) are not 0 when Q is in N∩S..?
+[04:41.35] * Gargantua (~gargantua@206-47-30-78.dsl.ncf.ca) has joined channel ##math
+[04:42.08] * fattest (9b8f0a15@gateway/web/freenode/ip.155.143.10.21) has joined channel ##math
+[04:42.15] * mmhun (~anonymous@cpe-67-242-2-86.twcny.res.rr.com) Quit (Quit: mmhun)
+[04:42.41] * Kiryx (~Kiryx@77-173-208-146.ip.telfort.nl) has joined channel ##math
+[04:42.45] <fattest> Need help with vector question please : ＋＋http://i.imgur.com/GDn4isk.png，，
+[04:44.33] <Ploppz> fattest: just substitute a and b with the two expressions provided. 2(u + v) - 3(3u - 2v)
+[04:44.57] * Akuma (~Akuma@modemcable221.82-177-173.mc.videotron.ca) Quit (Quit: So long sukkas!)
+[04:45.57] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[04:46.22] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##math
+[04:46.36] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[04:46.53] <fattest> <Ploppz>: oh yeah excellent; didn't see that; thanks so much
+[04:46.58] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##math
+[04:48.19] * ruler501 (~ruler501@172.56.6.97) Quit (Ping timeout: 246 seconds)
+[04:48.59] * Rollabunna (~Rollabunn@69.109.69.86.rev.sfr.net) Quit (Remote host closed the connection)
+[04:49.38] * Rollabunna (~Rollabunn@69.109.69.86.rev.sfr.net) has joined channel ##math
+[04:54.08] * h00k3r (~h00k3r@93.37.166.43) has joined channel ##math
+[04:54.48] * harryvv (~haryv@S01061c1b689dc279.vs.shawcable.net) Quit (Ping timeout: 245 seconds)
+[04:55.03] * ess_tee_u (~NULL@unaffiliated/ess-tee-u/x-83456671) has joined channel ##math
+[04:55.40] * Litt (~M@202-89-151-114.ue.woosh.co.nz) Quit (Quit: Bah!)
+[04:56.00] <Gargantua> what is the proof that every function has a power/taylor series representation?
+[04:56.15] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[04:56.24] * revolve (~username@199.19.119.133) has joined channel ##math
+[04:56.36] * daniel-s_ (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##math
+[04:57.07] <lyxia> Ploppz: Is it not twice the typo for the curvy S?
+[04:57.24] <Ploppz> hm, might be
+[04:57.30] * notpara (~para@213.187.75.26) Quit (Quit: ->)
+[04:57.37] * ruler501 (~ruler501@172.56.6.97) has joined channel ##math
+[04:58.11] * jrahmy (~jrahmy@173.192.187.137-static.reverse.softlayer.com) Quit (Ping timeout: 245 seconds)
+[04:58.17] <lyxia> Ploppz: Oh maybe it's the surface defined by g which may not quite be curvy_S...
+[04:59.10] * CheckDavid (uid14990@gateway/web/irccloud.com/x-yifgqcjgncazuxca) has joined channel ##math
+[05:00.06] <Ploppz> hm I guess you can say that this defintion defines S as all points Q in N in which g(Q) = 0, so yeah
+[05:00.21] * tommah (~tommah@67-43-243-183.fidnet.com) Quit (Ping timeout: 240 seconds)
+[05:00.39] * Madmallard (~androirc@ip68-105-81-99.sd.sd.cox.net) has left ##math (("Quit"))
+[05:01.00] <Ploppz> not in N, just all points that satisfy the second condition?
+[05:01.17] <lyxia> yes
+[05:01.25] <signalsea> Hi. What does it mean when one says the Cramer-Rao inequality applies to estimations of parameters T s.t. T does not appear in the _limits_ of the distribution?
+[05:01.46] <signalsea> (this is the phrasing in a set of notes i am reading)
+[05:02.11] * revolve (~username@199.19.119.133) Quit (Ping timeout: 264 seconds)
+[05:02.16] * leonheard (~user@r41c.math.su.se) has joined channel ##math
+[05:02.47] * fpqc (~Negi@unaffiliated/fpqc) has joined channel ##math
+[05:03.32] * n008f4g_ (~jacek1234@89-70-176-170.dynamic.chello.pl) has joined channel ##math
+[05:04.08] * sacho (~hecatonic@176-12-62-113.pon.spectrumnet.bg) has joined channel ##math
+[05:05.12] * bigbadjudas (~WAT@pool-98-115-142-29.phlapa.fios.verizon.net) Quit (Ping timeout: 264 seconds)
+[05:05.17] * Adib (~Adib@5249A66B.cm-4-2c.dynamic.ziggo.nl) has joined channel ##math
+[05:05.46] * austeritysucks (~AS@unaffiliated/austeritysucks) Quit (Ping timeout: 246 seconds)
+[05:05.55] * edlinde_ (~ed@wlan-141-23-105-198.tubit.tu-berlin.de) has joined channel ##math
+[05:06.22] * tommah (~tommah@67-43-243-183.fidnet.com) has joined channel ##math
+[05:06.58] * TheBigDeal (~quassel@unaffiliated/innocent99) has joined channel ##math
+[05:07.40] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##math
+[05:08.37] * edlinde_ (~ed@wlan-141-23-105-198.tubit.tu-berlin.de) Quit (Client Quit)
+[05:08.54] * TheScholar (~randomman@ool-44c4dd0b.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[05:09.36] * redjuggler (~redjuggle@224.Red-83-43-12.dynamicIP.rima-tde.net) has joined channel ##math
+[05:10.21] * edlinde (~ed@wlan-141-23-105-198.tubit.tu-berlin.de) has joined channel ##math
+[05:12.28] * austeritysucks (~AS@unaffiliated/austeritysucks) has joined channel ##math
+[05:13.36] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) has joined channel ##math
+[05:14.45] * coolcustomer (~androirc@pool-108-46-97-204.nycmny.east.verizon.net) Quit (Changing host)
+[05:14.45] * coolcustomer (~androirc@unaffiliated/coolcusty) has joined channel ##math
+[05:15.32] * prkl (~prkl@tug-swl-e148.tu-graz.ac.at) has joined channel ##math
+[05:16.40] * bigbadjudas (~WAT@pool-98-115-142-29.phlapa.fios.verizon.net) has joined channel ##math
+[05:17.47] <Ploppz> say you have a parametric curve r(t). You can say that ∂r/∂t = change in r per unit t. Can you say that ∂r/∂t dt = change in r per dt?
+[05:17.56] * pulse (~pulse@unaffiliated/pulse) has joined channel ##math
+[05:18.30] <fattest> Help with vector question please : ＋＋http://i.imgur.com/k3XudlA.png，， Ploppz
+[05:18.30] * moonlily (~moonlily@unaffiliated/moonlilies) Quit (Read error: Connection reset by peer)
+[05:18.47] * wlarip (~wlarip@209.26.240.148) Quit (Quit: Leaving.)
+[05:19.15] * tjger (~tjger@46.128.43.80.dynamic.cablesurf.de) Quit (Ping timeout: 256 seconds)
+[05:19.21] * sheer_ (~textual@118.127.97.24) has joined channel ##math
+[05:19.47] * moonlily (~moonlily@unaffiliated/moonlilies) has joined channel ##math
+[05:20.39] * z0kk (~textual@49.213.28.26) Quit (Ping timeout: 250 seconds)
+[05:20.59] * technomancer (~technoman@115.184.85.155) Quit (Remote host closed the connection)
+[05:22.11] <Ploppz> fattest: first make a vector of each of the two travels
+[05:22.45] <Ploppz> 30 degrees north of east is pretty much just 30 degrees. southeast is -45 degrees.
+[05:23.17] <Ploppz> how do you make a vector given length and direction?
+[05:23.37] <Ploppz> (rhetorical question)
+[05:23.45] * sheer_ (~textual@118.127.97.24) Quit (Client Quit)
+[05:24.03] <Ploppz> unless I misunderstood "30 degrees north of east"
+[05:24.17] <fattest> allow me to draw ghis out
+[05:24.35] * nayfie (~nayfie@CPE-58-160-174-54.unqy1.fli.bigpond.net.au) has joined channel ##math
+[05:27.05] <fattest> Ploppz: ＋＋http://i.imgur.com/0s9Uqcp.png，， ?
+[05:27.44] <Ploppz> fattest: Yup, that's how I see it too
+[05:27.45] * albert_ (~albert@222.90.34.143) Quit (Remote host closed the connection)
+[05:28.04] <fattest> what do i do now ?
+[05:28.30] <Ploppz> you can easily make a vector given angle and direction using cos and sin
+[05:28.32] * cyborg-one (~cyborg-on@185.23.104.75) Quit (Ping timeout: 272 seconds)
+[05:29.09] <Ploppz> eh.. angle and length
+[05:29.18] <Ploppz> [rcos(t), rsin(t)] where r is the length and t is the angle
+[05:29.21] * cyborg-one (~cyborg-on@130-0-47-43.broadband.tenet.odessa.ua) has joined channel ##math
+[05:30.14] <fattest> we're trying to find the length of blue line right? ＋＋http://imgur.com/yaV3qk3，，
+[05:31.00] <ramp> yo
+[05:31.05] <ramp> anyone able to help with a status question
+[05:31.41] * tjger (~tjger@89.248.172.148) has joined channel ##math
+[05:31.58] <Ploppz> fattest: oh, yeah. given in direction and length that too
+[05:33.05] <Ploppz> if you find the two black vectors, you can add them, which will produce the blue vector, and then you can find the length and direction of that vector.
+[05:33.19] * Kingsquee (~kingsley@d154-20-148-78.bchsia.telus.net) Quit (Quit: Konversation terminated!)
+[05:33.52] <fattest> do i have to find the magnitude of the 2 black vectors?
+[05:34.10] <Ploppz> you already know the magnitude; 20 and 10 respectively
+[05:34.15] * hunteriam (uid63798@gateway/web/irccloud.com/x-ubarwwtaapnkorbu) Quit (Quit: Connection closed for inactivity)
+[05:34.33] * notpara (~para@213.187.75.26) has joined channel ##math
+[05:34.33] <Ploppz> I meant you need to find the x and y representation of the vectors
+[05:34.56] <fattest> ohh
+[05:36.03] * wlarip (~wlarip@209.26.240.148) has joined channel ##math
+[05:36.25] * pewpew (~myusernam@trivialand/guesser/pewpew) has joined channel ##math
+[05:36.47] * Superslash2 (97e1c5d7@gateway/web/freenode/ip.151.225.197.215) has joined channel ##math
+[09:39.29] *** Server disconnected on irc.freenode.net

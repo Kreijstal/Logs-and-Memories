@@ -1,0 +1,120 @@
+Session Start: Thu Mar 19 02:36:14 2015
+[02:36.14] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (192.241.250.9) on port 6667
+[02:36.14] -irc.tulpa.info- Sending User Registration Information
+[02:36.14] --storge.tulpa.info-- *** Looking up your hostname...
+[02:36.15] --storge.tulpa.info-- *** Checking Ident
+[02:36.15] --storge.tulpa.info-- *** Couldn't look up your hostname
+[02:36.24] --storge.tulpa.info-- *** No Ident response
+[02:36.25] -irc.tulpa.info- Capabilities supported: account-notify extended-join multi-prefix sasl
+[02:36.25] -irc.tulpa.info- Capabilities requested: account-notify extended-join multi-prefix
+[02:36.25] -irc.tulpa.info- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[02:36.25] -storge.tulpa.info- Welcome to the Tulpa.info Internet Relay Chat Network Rainb
+[02:36.25] -storge.tulpa.info- Your host is storge.tulpa.info[storge.tulpa.info/6667], running version elemental-ircd-6.6.2
+[02:36.25] -storge.tulpa.info- This server was created Sun Dec 28 2014 at 22:57:04 UTC
+[02:36.25] -storge.tulpa.info- storge.tulpa.info elemental-ircd-6.6.2 BCDGIQRSVZagilopswxz CDEFIJKLMOPQTabcdefghijklmnopqrstuvyz yabefhjklovqI
+[02:36.25] -storge.tulpa.info- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CDEFJKLMOPQTcdgimnprstuz CHANLIMIT=#:50 PREFIX=(yaohv)~!@%+ OWNER=y MAXLIST=bqeI:100 MODES=4 NETWORK=Tulpa.info KNOCK STATUSMSG=@+ :are supported by this server
+[02:36.25] -storge.tulpa.info- CALLERID=g CASEMAPPING=rfc1459 NICKLEN=31 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[02:36.25] -storge.tulpa.info- EXTBAN=$,acjorx WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[02:36.25] -storge.tulpa.info- There are 5 users and 201 invisible on 9 servers
+[02:36.25] -storge.tulpa.info- There are 7 IRC Operators online
+[02:36.25] -storge.tulpa.info- There are 269 channels formed
+[02:36.25] -storge.tulpa.info- I have 58 clients and 1 servers
+[02:36.25] -storge.tulpa.info- Current local users 58, max 93
+[02:36.25] -storge.tulpa.info- Current global users 206, max 276
+[02:36.25] -storge.tulpa.info- Highest connection count: 94 (93 clients) (15200 connections received)
+[02:36.25] -storge.tulpa.info- You have successfully connected to storge.tulpa.info
+[02:36.25] -storge.tulpa.info- Auto-joining Channels
+[02:36.25] * Your mode is now +ix
+[02:36.25] -storge.tulpa.info- 190.9.hvk.pk is now your hidden host
+[02:36.25] --InfoServ-- *** Message(s) of the Day ***
+[02:36.25] --InfoServ-- [Invites] Notice from DPR, posted 02:01 on 05/23/2014:
+[02:36.25] --InfoServ-- We've been receiving a lot of reports about unsolicited channel invite spam. If you get any unsolicited invitations to a channel, please let a member of network staff know in #help or via PM.
+[02:36.25] --InfoServ-- [Agape Retirement] Notice from Quora, posted 04:20 on 04/10/2014:
+[02:36.25] --InfoServ-- The node agape.tulpa.info has relayed its last message today. It has been a part of our network since day 1 back in June of 2013. If you had previously hardcoded your client to connect there, please take if off your server list and instead connect to irc.tulpa.info.
+[02:36.25] --InfoServ-- [Vhost Timing] Notice from Quora, posted 20:20 on 02/24/2014:
+[02:36.25] --InfoServ-- The delay between vhost requests has now been changed to 2 weeks (14 days). The rules against using vhost changes to evade bans or quiets are still in effect. If you have any questions about this change or the vhost policy, please ask in #help.
+[02:36.25] --InfoServ-- [Quiet mode] Notice from Heartmender, posted 03:32 on 12/16/2013:
+[02:36.25] --InfoServ-- TulpaInfo supports what is called a channel quiet list. To use this, set mode +q the same way you would set a ban. People matching a quiet will be able to join and part channels, but not change their nickname or speak unless they have voice. This means you can quiet individual people without having to voice everyone and mute the room.
+[02:36.26] --InfoServ-- *** End of Message(s) of the Day ***
+[02:36.26] --NickServ-- Welcome to Tulpa.info, Rainb! Here on Tulpa.info, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+[02:36.26] Rainb resolved to 190.9.202.85
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.12] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.12] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.12] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.12] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.12] -irc.tulpa.info- *** Server disconnected on irc.tulpa.info
+[03:04.13] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.13] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.13] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.14] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.14] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.14] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.15] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.15] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.16] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.17] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.18] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.18] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.19] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.20] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.20] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (81.4.124.191) on port 6667
+[03:04.20] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.20] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (82.196.3.102) on port 6667
+[03:04.20] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.20] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (192.241.250.9) on port 6667
+[03:04.20] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (192.241.250.9) on port 6667
+[03:04.20] -irc.tulpa.info- *** Attempting to re-connect to irc.tulpa.info
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] -irc.tulpa.info- *** Attempting to connect to irc.tulpa.info (81.4.124.191) on port 6667
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] -irc.tulpa.info- Waiting 60 seconds to re-connect to (irc.tulpa.info)
+[03:04.20] ERROR: Null Socket - Can not Connect
+[03:04.20] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect

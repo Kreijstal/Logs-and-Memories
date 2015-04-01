@@ -1,0 +1,221 @@
+Session Start: Fri Feb 27 05:16:28 2015
+Session Ident: ##windows
+[05:16.28] * You have joined ##windows
+[05:16.28] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[05:16.28] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[05:16.29] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[05:16.29] Channel Created on: 7:11 PM 10/7/2005
+[05:16.29] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[05:16.36] * ThomasB (~ThomasB@unaffiliated/thomasboxley) Quit (Ping timeout: 264 seconds)
+[05:20.47] * Axy (~Mia@unaffiliated/mia) Quit (Read error: Connection reset by peer)
+[05:22.24] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[05:22.43] * LucaTM (~Luca@ppp-247-93.33-151.iol.it) has joined channel ##windows
+[05:23.40] * hirogen_ (57547682@gateway/web/freenode/ip.87.84.118.130) has joined channel ##windows
+[05:29.41] * pm001 (~pm0001@212.6.182.1) Quit ()
+[05:29.44] * wormmus (~wormmus@173-28-168-243.client.mchsi.com) has joined channel ##windows
+[05:32.05] * Dylo (~Dylo@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) has joined channel ##windows
+[05:32.19] * Dylo (~Dylo@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) Quit (Excess Flood)
+[05:33.12] * Iodt (~Iodt@89-159-36-45.rev.dartybox.com) has joined channel ##windows
+[05:33.52] * Iodt (~Iodt@89-159-36-45.rev.dartybox.com) Quit (Excess Flood)
+[05:34.38] * Iazrq (~Iazrq@89-93-136-125.hfc.dyn.abo.bbox.fr) has joined channel ##windows
+[05:34.50] * Iazrq (~Iazrq@89-93-136-125.hfc.dyn.abo.bbox.fr) Quit (Excess Flood)
+[05:35.08] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (Read error: Connection reset by peer)
+[05:35.21] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##windows
+[05:35.24] * qoio (~qoio@AStrasbourg-552-1-113-104.w86-204.abo.wanadoo.fr) Quit (Ping timeout: 252 seconds)
+[05:35.35] * Guest92960 (~xao@89-93-136-125.hfc.dyn.abo.bbox.fr) has joined channel ##windows
+[05:36.47] * funch (~funch@2.25.168.213.sta.estpak.ee) Quit (Quit: ( ＋＋＋＋www.，，，nnscript.com， :: NoNameScript 4.22 :: ＋＋＋www.，，，esnation.com ))
+[05:37.46] * Baronawesome (~Alphard@191.191.163.20) has joined channel ##windows
+[05:37.46] * Baronawesome (~Alphard@191.191.163.20) Quit (Changing host)
+[05:37.46] * Baronawesome (~Alphard@unaffiliated/baronawesome) has joined channel ##windows
+[05:40.22] * Baronawesome_ (~Alphard@191.191.163.20) Quit (Ping timeout: 252 seconds)
+[05:41.06] * rooferdave (~rooferdav@174-150-10-154.pools.spcsdns.net) Quit (Ping timeout: 265 seconds)
+[05:45.59] * Anti-Pizza (~pizzerino@system.telenet.ru) Quit (Quit: Leaving)
+[05:46.38] * frank1e2 (~frank1e@95.90.200.103) has joined channel ##windows
+[05:47.21] * frank1e2 (~frank1e@95.90.200.103) Quit (Client Quit)
+[05:47.34] * tus (~tus@unaffiliated/tus) has joined channel ##windows
+[05:48.57] * aias (~ice@151.249.73.38) has joined channel ##windows
+[05:49.24] * GentileBen (GentileBen@cpc5-lutn10-2-0-cust681.9-3.cable.virginm.net) has joined channel ##windows
+[05:53.42] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[05:54.28] * ulrichard_ (~richi@184.187.196.178.dynamic.wline.res.cust.swisscom.ch) has joined channel ##windows
+[05:54.56] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 250 seconds)
+[05:55.06] * ninjahatodi (~androirc@117.201.165.253) has joined channel ##windows
+[05:55.11] <ninjahatodi> Why do people knowingly install "Linux" and waste time? Just wondering why not use Windows and use that time watching porno
+[05:55.14] <ninjahatodi> Why
+[05:55.21] <ninjahatodi> Tell
+[05:55.36] <ninjahatodi> Such a beautiful cock
+[05:56.04] <ninjahatodi> Windows
+[05:56.12] <Stryyker> We're not here to bash other OS, many in here use multiple OS. We talk about Windows here.
+[05:56.33] <iNeophyte> Can I ask a question about Imgburn here?
+[05:56.34] * Baronawesome_ (~Alphard@191.191.163.20) has joined channel ##windows
+[05:56.48] <Stryyker> you can try
+[05:58.43] <iNeophyte> Well I get this error when I try to validate the burned disk. ＋＋http://puu.sh/geKX7.png，，
+[05:59.31] <Stryyker> It can be a sign of media issues, more likely writer is on the way out. How much work has the drive done?
+[05:59.42] * Baronawesome (~Alphard@unaffiliated/baronawesome) Quit (Ping timeout: 250 seconds)
+[05:59.55] <iNeophyte> A lot :x
+[06:00.26] <Stryyker> Do you have access to another writer?
+[06:00.26] <iNeophyte> Nope :(
+[06:00.26] <iNeophyte> So it broke...?
+[06:01.09] <Stryyker> Not as reliable as it was. You could try different burn speeds or media. For Windows you can often install via USB flash drive. I like to use Rufus to make such things.
+[06:01.10] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 250 seconds)
+[06:01.21] <iNeophyte> I tried 4x
+[06:01.38] <Stryyker> Do you have different media make to try?
+[06:01.49] <iNeophyte> I rather have a copy of my legal DVD with me all the time :p
+[06:01.56] * rooferdave (~rooferdav@174.150.10.154) has joined channel ##windows
+[06:02.01] <aias> hello. i have a lenovo thinkpad x240 with two batteries (internal and usual slot in back style). when i charge them both from empty, first the internal fills to 80%, then the removable to 100%. the final 20% of the internal battery does not charge until i remove the removable battery and plug in
+[06:02.24] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[06:02.27] <iNeophyte> It is not safe to install windows with this dvd either then?
+[06:02.34] <Stryyker> no
+[06:02.37] <aias> anyone else experience this? perhaps this is a good thing for the batteries health...
+[06:02.54] <Stryyker> I never trust/use/keep anything that fails the verify step.
+[06:03.15] <Stryyker> aias:Try ##hardware
+[06:03.20] <ninjahatodi> Fapped
+[06:03.27] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[06:03.28] <ninjahatodi> I am fapping
+[06:03.33] <ninjahatodi> What are you doing
+[06:03.35] * ChanServ sets mode +o Stryyker for ##windows
+[06:03.38] * Stryyker sets mode +b *!*@117.201.165.253 for ##windows
+[06:03.42] * ninjahatodi was kicked by Stryyker(stryyker16@about/windows/staff/stryyker)  - Reason (ninjahatodi)
+[06:03.46] * meesebyte (~meesebyte@45-107-35-72.mtaonline.net) Quit (Quit: Graphic Designer & Photographer - ＋＋http://meesebyte.com，，)
+[06:04.36] * Stryyker sets mode -o Stryyker for ##windows
+[06:06.14] <hirogen_> someoens getting a fake windows 7 activation come up it looks like its legit but windows 7 is actualyl activated
+[06:06.17] <hirogen_> any ideas
+[06:07.15] <joga> what did you do to get the activation dialog?
+[06:08.31] * ThomasB2 (~ThomasB@xpress44230.htc.net) Quit (Quit: Leaving)
+[06:08.49] * ThomasB (~ThomasB@unaffiliated/thomasboxley) has joined channel ##windows
+[06:10.17] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[06:10.40] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[06:11.06] * funch (~funch@251-239-191-90.dyn.estpak.ee) has joined channel ##windows
+[06:13.17] * vla (~vla@AMontpellier-651-1-278-48.w92-143.abo.wanadoo.fr) has joined channel ##windows
+[06:13.49] <SCHAAP137> hi, is there a way to create a desktop shortcut on the Surface pro 3 that _instantly_ starts projecting to the second screen?
+[06:14.53] * pm001 (~pm0001@5.147.134.207) has joined channel ##windows
+[06:18.30] <hirogen_> says
+[06:18.33] <hirogen_> the regular thing
+[06:19.25] <hirogen_> says this computer is not running genuine windows
+[06:19.25] <hirogen_> resolve online now
+[06:20.26] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[06:20.30] <Legal2k> hirogen, should tottaly click it and enter your password and credit card info, that should solve everything ;(
+[06:20.44] * akiva-thinkpad (~akiva-thi@38.108.79.102) Quit (Ping timeout: 265 seconds)
+[06:23.08] * star114 (~star114@61.33.151.165) has joined channel ##windows
+[06:24.04] * br34l (~br34l@unaffiliated/br34l) Quit ()
+[06:24.04] <hirogen_> thing is it doesnt look like spam
+[06:24.10] <hirogen_> its not like a bwoser page
+[06:24.14] <hirogen_> its like the legit one
+[06:25.05] * wormmus (~wormmus@173-28-168-243.client.mchsi.com) Quit (Ping timeout: 246 seconds)
+[06:25.12] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[06:26.44] * dtcrshr (~datacrush@unaffiliated/datacrusher) Quit (Ping timeout: 252 seconds)
+[06:27.59] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[06:28.05] * dino82 (~deeno@unaffiliated/dino82) Quit (Ping timeout: 272 seconds)
+[06:28.41] * Ucaq (~Ucaq@AOrleans-652-1-32-38.w90-19.abo.wanadoo.fr) has joined channel ##windows
+[06:29.02] * br34l (~br34l@p4FF7E2A5.dip0.t-ipconnect.de) has joined channel ##windows
+[06:29.02] * br34l (~br34l@p4FF7E2A5.dip0.t-ipconnect.de) Quit (Changing host)
+[06:29.02] * br34l (~br34l@unaffiliated/br34l) has joined channel ##windows
+[06:29.48] * wormmus (~wormmus@173-28-168-243.client.mchsi.com) has joined channel ##windows
+[06:30.20] * Guest92960 (~xao@89-93-136-125.hfc.dyn.abo.bbox.fr) Quit (Ping timeout: 246 seconds)
+[06:30.34] * linuxuz3r (~linuxuz3r@2602:306:bd2a:a160:f579:a087:1bb9:b6b4) Quit (Read error: Connection reset by peer)
+[06:31.26] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 256 seconds)
+[06:32.03] * dtcrshr (~datacrush@unaffiliated/datacrusher) has joined channel ##windows
+[06:33.35] * dino82 (~deeno@unaffiliated/dino82) has joined channel ##windows
+[06:33.47] * Type-21 (~type-21@unaffiliated/type-21) has joined channel ##windows
+[06:35.02] * decoponio (~decoponio@pon059-128.kcn.ne.jp) has joined channel ##windows
+[06:37.48] * David-- (none@pdpc/supporter/active/david--/x-2357539) has joined channel ##windows
+[06:39.12] <Haxxa> I'm on windows 10 and chrome is basically unusable it always fails to close properally and often ignores keystorkes and becomnes unresponsive and needs killing in task amanger - any known issues like this?
+[06:40.37] * star114 (~star114@61.33.151.165) Quit (Remote host closed the connection)
+[06:40.39] * David-- (none@pdpc/supporter/active/david--/x-2357539) Quit (Read error: Connection reset by peer)
+[06:42.21] * David-- (none@pdpc/supporter/active/david--/x-2357539) has joined channel ##windows
+[06:42.26] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) Quit (Quit: BWMerlin)
+[06:44.19] <Wizard> Haxxa: Win 10 hasn't been released yet and is in early alpha stage?
+[06:45.24] * cubear (~user@BSN-142-238-203.dynamic.siol.net) has joined channel ##windows
+[06:45.50] * phinxy (~tehhhd@unaffiliated/phinxy) Quit (Read error: Connection reset by peer)
+[06:45.52] <Entalyan> That sounds like Chrome to me. Regardless of which OS though
+[06:46.02] <SCHAAP137> Anyone here with a Surface Pro 3? How can I create a shortcut that leads directly to projecting on a wireless 2nd screen?
+[06:46.10] <SCHAAP137> (desktop shortcut)
+[06:46.46] <SCHAAP137> without any intermediate actions, just click and boom
+[06:47.01] * baroof (51507095@gateway/web/freenode/ip.81.80.112.149) has joined channel ##windows
+[06:47.18] <Entalyan> Not without coding...
+[06:47.27] <SCHAAP137> hmm, disappointing
+[06:47.46] <SCHAAP137> i'll get a different machine
+[06:47.56] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[06:47.58] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 250 seconds)
+[06:48.06] <Entalyan> Well it's already only 2 easy moves compared to the 8 it was before.
+[06:48.22] <Entalyan> If you find a machine that can do it in 1 click by default, let me know
+[06:48.41] <SCHAAP137> true, but it's unclear what is needed to do this in 1 move, it seems it's not calling an executable when performing this action
+[06:48.57] <SCHAAP137> it's not transparent enough to see what's actually going on, that's not cool
+[06:49.10] <Entalyan> It's a command, I can look it up if you want
+[06:49.36] <SCHAAP137> If you can find it, that would be great
+[06:49.52] * baroof (51507095@gateway/web/freenode/ip.81.80.112.149) Quit (Quit: Page closed)
+[06:49.58] <Entalyan> DisplaySwitch.exe with some parameters
+[06:49.59] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[06:50.38] <Entalyan> BAM I sold a Surface Pro, now where's my commission
+[06:53.34] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:c75:ff85:f6f5:7e15) Quit (Read error: Connection reset by peer)
+[06:55.24] <SCHAAP137> hmm, selection seems correct, cloned mode is set, Entalyan, do you know if there is a command to "connect" to this wireless screen immediately?
+[06:55.30] <SCHAAP137> using the same shortcut?
+[06:55.41] * sphenxes01 (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[06:57.13] * David-- (none@pdpc/supporter/active/david--/x-2357539) Quit (Quit: Going, Going, Gone...)
+[06:57.29] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##windows
+[06:59.08] * happy-dude (uid62780@gateway/web/irccloud.com/x-gocsbqurbhkllqgk) has joined channel ##windows
+[06:59.34] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) has joined channel ##windows
+[06:59.42] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Max SendQ exceeded)
+[06:59.46] * rooferdave (~rooferdav@174.150.10.154) Quit (Ping timeout: 256 seconds)
+[07:00.09] * Javacat (~Javacat@unaffiliated/javacat) has joined channel ##windows
+[07:00.31] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) has joined channel ##windows
+[07:02.38] * sphenxes (~sphenxes@178-191-169-163.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[07:04.21] <SCHAAP137> does anyone know whether there's a specific executable in Windows 8.1 for connecting to a wireless screen?
+[07:04.36] <SCHAAP137> have not been able to find it yet
+[07:05.37] <MaSOuD> Have you tried Google?
+[07:05.51] * Gore (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[07:07.00] * eekthecat (~aaronscie@rrcs-173-198-40-226.west.biz.rr.com) Quit (Ping timeout: 264 seconds)
+[07:08.20] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 244 seconds)
+[07:09.06] * genera (~genera@unaffiliated/genera) Quit (Ping timeout: 255 seconds)
+[07:09.24] <SCHAAP137> MaSOuD, yes
+[07:09.49] <SCHAAP137> I'm unable to find any resources describing what command is used for the wireless projection / MiraCast
+[07:10.11] <SCHAAP137> it only describes the GUI steps but that's irrelevant for my issue
+[07:11.30] <MaSOuD> ＋＋http://windows.microsoft.com/en-us/windows-8/project-wireless-screen-miracast，，
+[07:11.53] <SCHAAP137> yeah already saw this page, it does not mention the command used to create the connection
+[07:12.14] <SCHAAP137> it's just a superficial step1 step2 kind of page
+[07:12.47] * Baronawesome (~Alphard@191.191.163.20) has joined channel ##windows
+[07:12.47] * Baronawesome (~Alphard@191.191.163.20) Quit (Changing host)
+[07:12.47] * Baronawesome (~Alphard@unaffiliated/baronawesome) has joined channel ##windows
+[07:14.45] * parduse (~parduse@unaffiliated/parduse) has joined channel ##windows
+[07:15.00] <SCHAAP137> i'd need an actual explanation of the commands and their parameters, not a general description of steps to follow
+[07:15.28] * Baronawesome_ (~Alphard@191.191.163.20) Quit (Ping timeout: 255 seconds)
+[07:17.01] <SCHAAP137> i wish microsoft's documentation on this would be more low-level
+[07:19.46] * aias (~ice@151.249.73.38) Quit (Quit: leaving)
+[07:19.50] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##windows
+[07:19.52] * eekthecat (~aaronscie@rrcs-173-198-40-226.west.biz.rr.com) has joined channel ##windows
+[07:20.33] * Gore (~Alex@tenatena.static.otenet.gr) Quit (Read error: Connection reset by peer)
+[07:20.44] * dimm0k (~dimm0k@unaffiliated/dimm0k) has joined channel ##windows
+[07:21.09] * khanman (~khan@74.215.219.231) Quit (Read error: Connection reset by peer)
+[07:21.33] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[07:21.37] * khanman (~khan@74.215.219.231) has joined channel ##windows
+[07:23.36] * troete (~troete@pD9F5D93B.dip0.t-ipconnect.de) has joined channel ##windows
+[07:24.00] * Phurious (~Phurious@205.185.214.48) Quit (Ping timeout: 256 seconds)
+[07:24.05] * Phur10us (~Phurious@cpe-76-186-96-158.tx.res.rr.com) has joined channel ##windows
+[07:24.39] * papa (~papa@5.79.86.129) has joined channel ##windows
+[07:24.41] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Remote host closed the connection)
+[07:24.51] * Voovod3 (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[07:25.29] * Anodl (~Anodl@p5B15F272.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[07:26.32] * khanman (~khan@74.215.219.231) Quit (Ping timeout: 245 seconds)
+[07:27.33] * Voovode (~Alex@tenatena.static.otenet.gr) Quit (Ping timeout: 255 seconds)
+[07:28.28] * AlexPortable (uid7568@gateway/web/irccloud.com/x-mixvxtnvjhwakepe) has joined channel ##windows
+[07:28.43] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##windows
+[07:28.47] * paws- (~paws@mail.hofhcanada.com) has joined channel ##windows
+[07:28.52] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Max SendQ exceeded)
+[07:28.54] <dj_tjerk> What setting in windows affects sparse file writing performance?
+[07:29.08] <dj_tjerk> Or rather, writing a little bit beyond the EOF
+[07:29.41] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) has joined channel ##windows
+[07:30.02] <dj_tjerk> The problem I had yesterday boils down to my desktop affected ever so slightly by EOF+1 writes
+[07:30.22] <dj_tjerk> and my laptop getting seemingly very confused
+[07:30.52] * paws (~paws@unaffiliated/paws) Quit (Ping timeout: 240 seconds)
+[07:31.11] <dj_tjerk> Tests at friends' computers showed varying results.. Two other Win7 systems were affected as well, and two Windows 8.1 systems work fine
+[07:31.30] * Ussat (~Ussat@pdpc/supporter/active/ussat) has joined channel ##windows
+[07:32.42] <dj_tjerk> source of my little test program: ＋＋http://www.hastebin.com/efisosaqam.cpp，， (Windows only, because it's probably related to NTFS)
+[07:33.25] * sphenxes (~sphenxes@178-190-233-165.adsl.highway.telekom.at) Quit (Read error: Connection reset by peer)
+[07:33.59] * Eagleman (~Eagleman@546BC110.cm-12-4d.dynamic.ziggo.nl) Quit (Ping timeout: 245 seconds)
+[07:34.35] <dj_tjerk> and my results, showing a few situations where excessive write times are measured: ＋＋http://www.hastebin.com/emuqitucix.txt，，
+[07:34.50] * Voovod3 (~Alex@tenatena.static.otenet.gr) Quit (Quit: Byeeeeeeeee!)
+[07:34.54] * Anodl (~Anodl@p5B15F272.dip0.t-ipconnect.de) has joined channel ##windows
+[07:35.58] * SinGer23 (~StinGer@27.125.149.204) has joined channel ##windows
+[07:36.27] * geothom (~geothom@ppp-94-68-185-201.home.otenet.gr) has joined channel ##windows
+[07:36.38] <SinGer23> hi guys i have and old 750gb hdd that is faulty but i am able to access the factory recovery drive on that hardisk. isit possible for me to copy it to my new 500gb hardisk and perfom the reinstall
+[07:36.43] <SinGer23> can someone help
+[08:15.00] *** Server disconnected on irc.freenode.net

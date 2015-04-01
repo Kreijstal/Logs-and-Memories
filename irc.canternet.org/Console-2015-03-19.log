@@ -1,0 +1,223 @@
+Session Start: Thu Mar 19 02:38:43 2015
+[02:38.44] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[02:38.44] -irc.canternet.org- Sending User Registration Information
+[02:38.44] --cadance.canternet.org-- *** Looking up your hostname...
+[02:38.44] -irc.canternet.org- Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+[02:38.44] -irc.canternet.org- Capabilities requested: account-notify away-notify extended-join multi-prefix
+[02:38.44] --cadance.canternet.org-- *** Could not resolve your hostname: Domain name not found; using your IP address (190.9.202.85) instead.
+[02:38.44] --cadance.canternet.org-- *** If you are having problems connecting due to ping timeouts, please type /quote PONG aTRCMwkSqJ or /raw PONG aTRCMwkSqJ now.
+[02:38.44] -irc.canternet.org- Capabilities acknowledged: away-notify extended-join account-notify multi-prefix
+[02:38.45] --cadance.canternet.org-- Welcome to Canternet!
+[02:38.45] -cadance.canternet.org- Welcome to the Canternet IRC Network Rainb!IceChat9@190.9.202.85
+[02:38.45] -cadance.canternet.org- Your host is cadance.canternet.org, running version InspIRCd-2.0
+[02:38.45] -cadance.canternet.org- This server was created 22:52:10 Nov 14 2014
+[02:38.45] -cadance.canternet.org- cadance.canternet.org InspIRCd-2.0 BIRSWcdghiorswx ABCDFHIJKLMNOPQRSTXYabcdefghijklmnopqrstuvz FHIJLXYabdefghjkloqv
+[02:38.45] -cadance.canternet.org- AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXbeg,k,FHJLdfjl,ABCDKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+[02:38.45] -cadance.canternet.org- KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=128 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=Canternet NICKLEN=31 OPERLOG PREFIX=(Yqaohv)!~&@%+ SILENCE=32 :are supported by this server
+[02:38.45] -cadance.canternet.org- SSL=0.0.0.0:6659 STARTTLS STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+[02:38.45] -cadance.canternet.org- your unique ID 142AFK03S
+[02:38.45] -cadance.canternet.org- You have successfully connected to cadance.canternet.org
+[02:38.45] -cadance.canternet.org- Auto-joining Channels
+[02:38.45] -cadance.canternet.org- There are 6 users and 824 invisible on 7 servers
+[02:38.45] -cadance.canternet.org- There are 38 operator(s) online
+[02:38.46] -cadance.canternet.org- There are 697 channels formed
+[02:38.46] -cadance.canternet.org- I have 187 clients and 1 servers
+[02:38.46] -cadance.canternet.org- Current Local Users: 187  Max: 353
+[02:38.46] -cadance.canternet.org- Current Global Users: 830  Max: 1079
+[02:38.46] -cadance.canternet.org- Pony-q0i.mcm.9.190.IP is now your displayed host
+[02:38.46] * Your mode is now +xi
+[02:38.46] --InfoServ-- *** Message(s) of the Day ***
+[02:38.46] --InfoServ-- [Hotmail] Notice from Colgate, posted 05:07 on 10/19/2014:
+[02:38.46] --InfoServ-- Currently hotmail, livee, and outlook are blocking our emails. We are working with getting ourselves unblocked(again), but in the meantime, please do not use an email address associated with Microsoft for registration.
+[02:38.46] --InfoServ-- [Tor] Notice from Colgate, posted 00:21 on 10/01/2014:
+[02:38.46] --InfoServ-- We offer a tor hidden server to connect to. In order to connect you MUST have a nickserv account and your client MUST support sasl authentication. To connect, point your client at your Tor installation and use canternet7qgrnu4.onion as the IP. On connection, your hostname will be set to @tor.sasl.youraccount or your vhost if you have one.
+[02:38.46] --InfoServ-- [Public BNC] Notice from Googolplexed, posted 07:06 on 02/10/2014:
+[02:38.46] --InfoServ-- Canternet now has a public bouncer for use by regular users of the network! It's currently undergoing beta in #PublicBNC Join if you want an account! (Users must have a nickserv account older than 3 months)
+[02:38.46] --InfoServ-- *** End of Message(s) of the Day ***
+[02:38.46] --NickServ-- Welcome to Canternet, Rainb! Here on Canternet, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+[02:38.47] Rainb (Pony-q0i.mcm.9.190.IP) can not be resolved
+[02:38.47] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 30000 seconds
+[02:38.47] *** cadance.canternet.org Replaying up to 50 lines of pre-join history spanning up to 60 seconds
+[02:38.47] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 300 seconds
+[02:38.48] *** cadance.canternet.org Replaying up to 15 lines of pre-join history spanning up to 600 seconds
+[02:38.48] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 600 seconds
+[02:38.49] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 600 seconds
+[02:38.49] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 600 seconds
+[02:38.49] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 300 seconds
+[02:38.50] *** cadance.canternet.org Replaying up to 10 lines of pre-join history spanning up to 300 seconds
+[02:38.50] *** cadance.canternet.org TS for #ponymarillion changed from 1426750716 to 1410313855
+[02:40.20] -cadance.canternet.org- Colgate is set as away (Detached from screen since 2015-03-19 00:40:10-0700)
+[02:45.27] -cadance.canternet.org- RiskyHiatusGuy is set as away (zzz)
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.10] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.11] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.11] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.11] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.11] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.12] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.12] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.12] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.13] -irc.canternet.org- *** Server disconnected on irc.canternet.org
+[03:04.13] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.13] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.13] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.13] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.14] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.14] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.14] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.14] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.14] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.14] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.15] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.16] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.16] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.17] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.17] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.17] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.17] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.18] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.18] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.18] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.18] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.18] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.20] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.20] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.20] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.20] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.244.255.81) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.244.255.81) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.21] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.21] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.244.255.81) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] ERROR: Null Socket - Can not Connect
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.22] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.228.211.168) on port 6667
+[03:04.22] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.22] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.225.226.8) on port 6667
+[03:04.22] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.22] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (142.4.202.203) on port 6667
+[03:04.22] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.22] -irc.canternet.org- *** Attempting to re-connect to irc.canternet.org
+[03:04.22] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.228.211.168) on port 6667
+[03:04.22] -irc.canternet.org- *** Attempting to connect to irc.canternet.org (54.228.211.168) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.canternet.org- Waiting 60 seconds to re-connect to (irc.canternet.org)
+[03:04.23] ERROR: Null Socket - Can not Connect
+[03:04.23] ERROR: Null Socket - Can not Connect

@@ -1,0 +1,166 @@
+Session Start: Thu Mar 19 02:37:28 2015
+[02:37.29] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[02:37.29] -irc.chathispano.com- Sending User Registration Information
+[02:37.29] --ariel.chathispano.com-- *** Looking up your hostname...
+[02:37.30] --ariel.chathispano.com-- *** Couldn't resolve your hostname.
+[02:37.30] -ariel.chathispano.com- Welcome to the IRC-Hispano IRC Network, Rainb
+[02:37.30] -ariel.chathispano.com- Your host is ariel.chathispano.com, running version u2.10.H.10.217
+[02:37.30] -ariel.chathispano.com- This server was created mié jun 11 2014 at 10:05:34 CEST
+[02:37.30] -ariel.chathispano.com- ariel.chathispano.com u2.10.H.10.217 dioswkgxXrRaChSBcnz biklmnopstvcrRMCNuz
+[02:37.30] -ariel.chathispano.com- CHANMODES=b,k,l,imnpstcrRMCNuz CHANTYPES=#&+ KICKLEN=160 MAXBANS=200 :are supported by this server
+[02:37.30] -ariel.chathispano.com- MAXCHANNELS=40 CHANNELLEN=64 MAXTARGETS=20 MODES=6 NICKLEN=30 :are supported by this server
+[02:37.30] -ariel.chathispano.com- PREFIX=(ov)@+ SILENCE=25 TOPICLEN=240 WALLCHOPS WHOX :are supported by this server
+[02:37.31] -ariel.chathispano.com- USERIP CPRIVMSG CNOTICE CHARMAPPING=rfc1459 NETWORK=IRC-Hispano :are supported by this server
+[02:37.31] -ariel.chathispano.com- MAP SAFELIST QUITLEN=300 AWAYLEN=160 FNC GHOST WATCH=128 :are supported by this server
+[02:37.31] -ariel.chathispano.com- There are 2875 users and 2884 invisible on 7 servers
+[02:37.31] -ariel.chathispano.com- There are 15 Helper(s), 27 IRCop(s) and 24 official bot(s) online
+[02:37.31] -ariel.chathispano.com- There are 3 unknown connection(s)
+[02:37.31] -ariel.chathispano.com- There are 4496 channels formed
+[02:37.31] -ariel.chathispano.com- I have 5736 clients and 6 servers
+[02:37.31] -ariel.chathispano.com- Highest connection count: 18001 (17995 clients)
+[02:37.31] -ariel.chathispano.com- Current local users: 5736 Max: 18001
+[02:37.31] -ariel.chathispano.com- Current global users: 5759 Max: 18024
+[02:37.31] -ariel.chathispano.com- You have successfully connected to ariel.chathispano.com
+[02:37.31] -ariel.chathispano.com- Auto-joining Channels
+[02:37.31] *** ariel.chathispano.com on 1 ca 1(4) ft 10(10)
+[02:37.31] * Your mode is now +ix
+[02:37.31] Rainb resolved to 190.9.202.85
+[03:04.10] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+[03:04.11] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.12] -irc.chathispano.com- *** Server disconnected on irc.chathispano.com
+[03:04.12] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.12] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.12] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.12] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.12] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.12] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.12] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.14] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.14] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.14] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.15] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.15] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.15] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.15] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.15] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.16] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.16] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.16] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.16] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.16] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.16] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.17] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.17] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.17] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.17] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.17] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.17] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.18] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.18] ERROR: Socket Error 11001 :No such host is known - ＋＋http://msdn.microsoft.com/en-us/library/ms740668.aspx，， for further information
+[03:04.18] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.19] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.19] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.19] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.19] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.19] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.19] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.19] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.19] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.20] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.20] ERROR: Null Socket - Can not Connect
+[03:04.20] ERROR: Parameter name: asyncResult
+[03:04.20] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.21] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] ERROR: Parameter name: asyncResult
+[03:04.21] ERROR: Null Socket - Can not Connect
+[03:04.21] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.21] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.21] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.124) on port 6667
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] -irc.chathispano.com- *** Attempting to re-connect to irc.chathispano.com
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[03:04.22] -irc.chathispano.com- *** Attempting to connect to irc.chathispano.com (195.234.61.123) on port 6667
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.22] ERROR: Null Socket - Can not Connect
+[03:04.22] ERROR: Parameter name: asyncResult
+[03:04.22] -irc.chathispano.com- Waiting 60 seconds to re-connect to (irc.chathispano.com)
+[03:04.22] ERROR: Null Socket - Can not Connect

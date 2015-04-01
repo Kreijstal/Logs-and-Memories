@@ -1,0 +1,517 @@
+Session Start: Mon Mar 02 12:00:16 2015
+Session Ident: ##windows
+[12:00.16] * Linux1000 (49227766@gateway/web/freenode/ip.73.34.119.102) Quit (Quit: Page closed)
+[12:02.04] * soulisson (~IceChat9@41.251.58.22) Quit (Read error: Connection reset by peer)
+[12:02.28] * Ringtailed-Fox (~FoxFoxFox@d24-57-5-172.home.cgocable.net) Quit (Quit: Leaving)
+[12:04.15] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[12:06.06] * kggr (~korggrodn@mail.ramtex.by) has joined channel ##windows
+[12:06.50] * LMNOP (~LMNOP@unaffiliated/ea08ba8f51) has joined channel ##windows
+[12:07.05] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) Quit (Read error: Connection reset by peer)
+[12:07.37] * ron_o (~ron_o@unaffiliated/ron-o/x-8242187) Quit (Ping timeout: 265 seconds)
+[12:07.53] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) Quit (Ping timeout: 255 seconds)
+[12:08.32] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##windows
+[12:09.13] <sd20> Why is there no %STARTUP%?
+[12:09.42] <sd20> Stryyker: Well, I don't get it.
+[12:09.53] <sd20> I thought Program Files was where non-user-specific data went.
+[12:10.13] <sd20> But there is both both Program Files, Program Files (x86), ProgramData and %APPDATA%.
+[12:11.04] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[12:11.23] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[12:12.35] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[12:12.47] * Raziel (~Raziel@cpc16-broo8-2-0-cust158.14-2.cable.virginm.net) Quit (Read error: Connection reset by peer)
+[12:13.02] <sd20> Please wake up.
+[12:13.10] * thumpba (~thumpba@38.104.231.214) has joined channel ##windows
+[12:13.16] * Raziel (~Raziel@cpc16-broo8-2-0-cust158.14-2.cable.virginm.net) has joined channel ##windows
+[12:13.18] <sd20> After all, this is the closest thing to an official MS chat we have.
+[12:13.43] * Afteraffekt (~Afteraffe@unaffiliated/afteraffekt) Quit (Read error: Connection reset by peer)
+[12:16.07] * last_staff (~Thunderbi@34-20-232.connect.netcom.no) has joined channel ##windows
+[12:17.33] * thumpba (~thumpba@38.104.231.214) Quit (Ping timeout: 252 seconds)
+[12:17.36] * ron_o (~ron_o@unaffiliated/ron-o/x-8242187) has joined channel ##windows
+[12:19.10] * fleshtheworld (~fleshthew@2602:306:cf0f:4da0:a99f:ad7d:40cf:1a3b) Quit (Read error: Connection reset by peer)
+[12:19.21] * Cymage (~james@unaffiliated/cymage) Quit (Ping timeout: 240 seconds)
+[12:19.37] * guideX (~guide_X@unaffiliated/guidex) has joined channel ##windows
+[12:20.44] <guideX> having a weird problem with a driver.. "The drivers for this device are not installed. (Code 28)
+[12:20.45] <guideX> This operation requires an interactive window station." with win10 for my pcap multitouch controller on my asus eee slate tabletpc
+[12:25.25] * sukeruke (~sukeruke@unaffiliated/sukeruke) has joined channel ##windows
+[12:26.08] <sukeruke> hi someone doesnt let me visit facebook and youtube
+[12:26.24] <sukeruke> what can i do to fix this?
+[12:26.37] <guideX> what do you mean
+[12:26.41] * meteorx64 (~willc_000@75.64.231.4) Quit (Quit: Leaving)
+[12:26.53] <sukeruke> when i try to visit youtube or facebook
+[12:27.05] <sukeruke> it says untrusted connection
+[12:27.13] <sukeruke> when i click okay let me visit it
+[12:27.31] <sukeruke> they tell me your flash player is outdated
+[12:27.35] <sukeruke> (scam)
+[12:27.45] <VaccinesHARM> My ext2 formatted external drive with a small FAT16 partition at the end containing the windows ext2fs drivers is working so well under Windows
+[12:27.51] <sukeruke> but the site is still ＋＋www.youtube.com，，
+[12:28.07] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 246 seconds)
+[12:28.26] <VaccinesHARM> humm hijack facebook to install malware what a wonderful idea
+[12:28.47] <sukeruke> ＋＋http://i.imgur.com/agAAHmW.png?1，，
+[12:29.19] <sukeruke> VaccinesHARM, they didnt hijack facebook, there is a man in the middle that doesnt let me visit it
+[12:29.35] <sukeruke> i tried with tor and i can visit youtube
+[12:29.41] <VaccinesHARM> just facebook and youtube?
+[12:29.44] * guideX (~guide_X@unaffiliated/guidex) Quit ()
+[12:30.02] <sukeruke> VaccinesHARM, maybe others too but i didnt find any other
+[12:30.17] <VaccinesHARM> I'll help if it's not about facebook or youtube
+[12:30.52] <sukeruke> what?
+[12:30.56] <VaccinesHARM> I don't give to the homeless if it's for drugs and alcohol
+[12:31.33] * Sir_Leto (~Sir_Leto@unaffiliated/sir-leto/x-356438) Quit (Ping timeout: 250 seconds)
+[12:31.40] <sukeruke> you think that youtube is bad?
+[12:32.14] * meteorx64 (~willc_000@75.64.231.4) has joined channel ##windows
+[12:32.29] <Aldem> ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[12:32.30] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) Quit (Quit: I liked it when I was here, as well as when I'm not!)
+[12:33.38] <VaccinesHARM> sukeruke, does ebay.com work
+[12:33.58] <sukeruke> yes
+[12:34.12] <VaccinesHARM> Is this a public wifi?
+[12:34.19] <sukeruke> yes
+[12:34.32] <sukeruke> that is why i didnt close the modem yet
+[12:34.55] <VaccinesHARM> well do you think the owner of the access point is doing it intentionally?
+[12:35.22] <Aldem> So, you're asking how you can access sites that the hotstop doesn't permit ?
+[12:35.33] <sukeruke> VaccinesHARM, no
+[12:35.43] <VaccinesHARM> Aldem, he says it redirects to a fke flash player download on certain sites
+[12:35.56] <Aldem> Phishing
+[12:36.11] <alan`> sukeruke: what browser are you using?
+[12:36.28] <VaccinesHARM> yeah make sure any proxies are turned off in your browser
+[12:36.33] <Aldem> Install AdBlock for your browser.
+[12:36.37] <sukeruke> all the browsers have the same problem
+[12:36.45] <sukeruke> Aldem, already have adblocker
+[12:36.54] <VaccinesHARM> It's possible that you aren't connected to the AP that yo uthink
+[12:37.04] <VaccinesHARM> or somebody installed malware on the wireless access point
+[12:37.25] <VaccinesHARM> have you tried any other wireless hotspots?
+[12:37.28] <Aldem> Or the manager is using poor DNSs
+[12:37.38] <sukeruke> even if i log in from phone same problem
+[12:37.43] <Aldem> But this is more of a ##networking talk sukeruke
+[12:37.48] <Aldem> Not a Windows one
+[12:37.49] <VaccinesHARM> oh so the problem is on your computer then
+[12:38.02] <VaccinesHARM> he likely has windows malware
+[12:38.08] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) has joined channel ##windows
+[12:38.09] <sukeruke> no cause i have same problem from phone
+[12:38.17] <VaccinesHARM> oh I see then
+[12:38.20] <sukeruke> Aldem, probably
+[12:38.27] <alan`> sukeruke: wait, only on that network or data as well
+[12:38.44] * Benjaminhusky (~compusr71@38.129.215.226) has joined channel ##windows
+[12:38.45] <sukeruke> alan`, what you mean?
+[12:38.50] * Techspectre (~daniel@ool-4572e6b2.dyn.optonline.net) has joined channel ##windows
+[12:38.55] <VaccinesHARM> does your phone have a data plan
+[12:38.59] <alan`> yea
+[12:39.21] <alan`> i would turn off the wifi and try to load the websites on data on the phone, if you get that same problem then it infected your phone and your computer
+[12:39.26] <sukeruke> ah yes i dont have data
+[12:39.31] <sukeruke> i didnt pay for it
+[12:39.35] <alan`> what kind of phone do you have?
+[12:39.37] <VaccinesHARM> a user at the wireless hotspot could be playing ARP games, or the could have set up rogue DHCP with bad DNS
+[12:40.06] <sukeruke> ARP?
+[12:41.10] <VaccinesHARM> the protocol that maps IP address to the MAC ethernet address on a LAN. By generating fake ARP packets, it's possible for someone to trick a host in to sending IP packets to the wrong MAC address or in other words trick it to sending to another host
+[12:41.27] * silv3r_m00n (~enlighten@122.163.34.240) has left ##windows ()
+[12:41.33] <VaccinesHARM> that host then modifies the data and transmits it on to the correct destination
+[12:42.24] <Benjaminhusky> hey,is anyone else having trouble getting the latest signatures for security essentials?
+[12:42.44] * sydbarret (~proxychec@190.186.146.182) has joined channel ##windows
+[12:42.57] <VaccinesHARM> there are a couple of ways in which someone could cause trouble at a wifi hotspot, and this is one of them.
+[12:42.57] <sydbarret> anybody awake?
+[12:43.14] <sydbarret> i have win8 and i wanna print with a lpt1 printer
+[12:43.27] * oeuvre (~E6500@unaffiliated/oeuvre) Quit (Quit: May the stars shine down on you.)
+[12:43.28] <VaccinesHARM> I love my LPT printer
+[12:43.29] <sydbarret> my pc have only usb though
+[12:43.44] <VaccinesHARM> With IRQ & DMA enabled in windows, it does 3MB/sec with 0% CPU use
+[12:43.44] <sydbarret> I have the usb lpt1 adpater
+[12:44.09] <sydbarret> but the driver is not supported in win8
+[12:44.12] <sydbarret> any trick?
+[12:44.19] <sukeruke> VaccinesHARM, so you think that a user of the wifi is probably the fault? why would someone do thisN
+[12:44.35] <VaccinesHARM> to install spyware on your computer
+[12:45.02] <VaccinesHARM> but they could have accessed the access point and left some malware on that
+[12:45.16] <VaccinesHARM> or they could modify the DNS servers on it and set them to their own malicious ones
+[12:45.17] <sydbarret> Vaccine do u have a lpt port in yer pc?
+[12:45.59] * fev3r101 (~fev3r101@116.251.214.209) has joined channel ##windows
+[12:46.13] <VaccinesHARM> yeah I have parallel ports on all my PCs except for one laptop
+[12:46.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[12:46.19] <sukeruke> VaccinesHARM, people here are not experts on pcs
+[12:47.27] <VaccinesHARM> My old HP printer doesn't have anti refil chips on the ink, and I can get perfectly good expired ink for only $4 on eBay
+[12:47.54] <Benjaminhusky> gosh,that is pretty awesome
+[12:48.03] * Haxxa (~Harrison@CPE-120-149-49-246.oirx3.win.bigpond.net.au) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[12:48.10] <Benjaminhusky> probably saves you quite a bit
+[12:49.34] <VaccinesHARM> sukeruke, it's probably not something that can be fixed properly without advanced knowledge, but you could try to manually set your DNS servers to good ones if that is the problem (4.2.2.2 and .3 and .4 are AT&T DNS)
+[12:49.45] <VaccinesHARM> or get some kind of proxy services set up like OpenVPN
+[12:50.07] * hirogen (~hirogen@2.120.71.183) has joined channel ##windows
+[12:51.04] * last_staff (~Thunderbi@34-20-232.connect.netcom.no) Quit (Quit: last_staff)
+[12:51.27] * Cymage (~james@unaffiliated/cymage) has joined channel ##windows
+[12:51.32] * rupertbg (~Ru@210.54.34.107) Quit (Quit: Leaving.)
+[12:51.44] * phinxy (~tehhhd@unaffiliated/phinxy) has joined channel ##windows
+[12:51.45] <sydbarret> Vaccine I'm using an lpt1 usb adaptor, my win8 recognize it when I plug it and even put a document in the que but doesnt print
+[12:52.35] <sydbarret> queue I meant
+[12:53.41] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[12:54.21] * hirogen (~hirogen@2.120.71.183) Quit (Ping timeout: 240 seconds)
+[12:54.41] * filadome (~filadome_@pool-173-70-161-59.nwrknj.fios.verizon.net) has joined channel ##windows
+[12:55.00] <Benjaminhusky> hey,is anyone else having trouble getting the latest signatures for security essentials?
+[12:55.13] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[12:55.30] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[12:56.12] * filadome__ (~filadome_@216.151.180.63) has joined channel ##windows
+[12:56.16] * wethu (~egray@unaffiliated/wethu) Quit (Quit: This computer has gone to sleep)
+[12:56.20] <VaccinesHARM> sydbarret, do you have an LPT1 port that shows up then?
+[12:56.28] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) Quit ()
+[12:56.39] <VaccinesHARM> you probably have to add or modify the printer to print on that port after it is plugged in to USB
+[12:56.59] * filadome_ (~filadome_@216.151.180.63) Quit (Ping timeout: 252 seconds)
+[12:57.18] <sydbarret> my pc is relative new and it didnt come with lpt1 port but when i add a printer I chose the nearest one to my LX 810 which appears as LX 300 in win8
+[12:57.27] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) has joined channel ##windows
+[12:57.42] * Haxxa (~Harrison@CPE-120-149-49-246.oirx3.win.bigpond.net.au) has joined channel ##windows
+[12:57.42] <sydbarret> nearest driver i meant from the list
+[12:57.43] <VaccinesHARM> what PORT is it on that is what matters
+[12:57.52] <sydbarret> on the ports tab
+[12:57.55] <VaccinesHARM> oh
+[12:58.00] <sydbarret> i tried with LPT1 and usb001
+[12:58.04] * armyriad (~armyriad@66-214-18-26.dhcp.lnbh.ca.charter.com) Quit (Remote host closed the connection)
+[12:58.08] <sd20> I thought Program Files was where non-user-specific data went.  But there is both both Program Files, Program Files (x86), ProgramData and %APPDATA%.
+[12:58.11] <VaccinesHARM> win8 likely doesn't include a driver for that printer
+[12:58.18] <sydbarret> yes it doesnt
+[12:58.38] <VaccinesHARM> you'll have to download the driver and hope it is supported
+[12:58.49] * sukeruke (~sukeruke@unaffiliated/sukeruke) has left ##windows (("Leaving"))
+[12:59.00] <sydbarret> is not supported i bought this printer in 1987
+[12:59.13] <sydbarret> but here is a guy that i think has the solution ＋＋http://superuser.com/questions/182655/how-do-i-simulate-a-parallel-lpt-printer-with-a-usb-printer，，
+[12:59.37] * filadome (~filadome_@pool-173-70-161-59.nwrknj.fios.verizon.net) Quit (Ping timeout: 246 seconds)
+[01:01.00] * armyriad (~armyriad@198.144.158.13) has joined channel ##windows
+[01:01.35] <Stryyker> sd20: nope, some devs may have done it but since the inception of NT Program Files should have been about the non-changing things.
+[01:02.11] <sd20> Stryyker: Do you not get what I'm asking?
+[01:02.18] <sd20> Basically: why is there a ProgramData dir?
+[01:02.23] <sd20> Why isn't that data put in Program Files?
+[01:02.41] <sd20> Note that I'm not involving %APPDATA%, because that data makes sense to be separate.
+[01:02.48] <Stryyker> ＋＋http://stackoverflow.com/a/27181428/555420，， with links to references
+[01:02.54] <sd20> Yeah... you already linked to that.
+[01:02.58] * Shogun (~quassel@23-29-5-150.netptc.net) has joined channel ##windows
+[01:02.58] <sd20> It didn't explain anything.
+[01:03.07] <Stryyker> Did you read the links that it links to?
+[01:04.31] * Sir_Leto (~Sir_Leto@unaffiliated/sir-leto/x-356438) has joined channel ##windows
+[01:04.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 246 seconds)
+[01:04.35] <VaccinesHARM> sydbarret, even if your computer had a parallel port it won't work without th edriver
+[01:05.42] <VaccinesHARM> unless you want to print text only or from MSDOS
+[01:06.00] <sd20> Stryyker: Yes, and it *did not explain anything*.
+[01:06.03] <sd20> Do you know yourself?
+[01:06.38] * cubear (~user@89-212-51-216.static.t-2.net) has joined channel ##windows
+[01:06.42] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) has joined channel ##windows
+[01:07.14] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[01:07.57] <sydbarret> VaccinesHARM i was able to print the test page
+[01:08.03] <sydbarret> but i dont know why doesnt work now
+[01:08.29] <VaccinesHARM> is the test page built in to the printer or the windows one?
+[01:08.36] <sydbarret> i tried to plug with different usb holes thinking that might be the 3.0 or 2.0 issue
+[01:08.46] <y0tta0> beware - he iss sysop/sysadmin on this channel - will boot you in an nano-second
+[01:09.15] * Sir_Leto (~Sir_Leto@unaffiliated/sir-leto/x-356438) Quit (Ping timeout: 250 seconds)
+[01:09.17] <sydbarret> VaccinesHARM i dont know but its a button in the properties icon of that printer
+[01:09.19] <VaccinesHARM> does windows have nano second precision timers?
+[01:09.40] <VaccinesHARM> so the printer is installed but you can't print to it?
+[01:09.43] <VaccinesHARM> other than the test page
+[01:09.51] * Joufflu (~Jouffluxx@2602:306:8b23:1250:2554:b203:eda3:9401) has joined channel ##windows
+[01:10.01] <VaccinesHARM> I would guess that it is an issue with using a driver for such a different model of printer
+[01:10.16] <sydbarret> yes that is the problem the driver is not supported
+[01:10.21] <sydbarret> not even for winxp
+[01:10.22] <VaccinesHARM> well the test page would say windows 8 on it
+[01:10.27] <sydbarret> worse for windows 8
+[01:10.37] <VaccinesHARM> are you sure winXP doesn't have the printer driver built in?
+[01:10.58] <VaccinesHARM> I'm not sure if win8 dropped printer drivers since XP or not
+[01:11.01] <sydbarret> sorry winxp has it but dont want to print
+[01:11.31] <y0tta0> VaccinesHARM - suspect it does - latest mawk returns systime() in nano-seconds since 1601 year
+[01:11.59] <VaccinesHARM> it's probably not correctly installex in XP then
+[01:12.06] <VaccinesHARM> y0tta0, haha good to know :)
+[01:12.23] <VaccinesHARM> is 1601 the 1970 of unix?
+[01:12.25] <y0tta0> ＋＋http://invisible-island.net/mawk/，，
+[01:12.32] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[01:12.55] * Megaf (~Megaf@unaffiliated/megaf) has joined channel ##windows
+[01:12.56] <y0tta0> not sure why 1601
+[01:13.14] <VaccinesHARM> y0tta0, most XP computers have parallel ports
+[01:13.20] * SuperStink (Sneak@CPE-121-222-160-124.lnse1.woo.bigpond.net.au) has joined channel ##windows
+[01:13.34] * SuperStink (Sneak@CPE-121-222-160-124.lnse1.woo.bigpond.net.au) Quit (Client Quit)
+[01:13.42] <VaccinesHARM> I have to go. Good luck with it sydbarret
+[01:14.07] <y0tta0> parallel ports obsolite years ago
+[01:14.10] * break3r (~wayne@213.157.15.42) has joined channel ##windows
+[01:14.11] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Read error: Connection reset by peer)
+[01:14.21] * Deihmos_ (~Deihmos@ool-44c683c9.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[01:14.27] * Megaf_ (~Megaf@unaffiliated/megaf) Quit (Ping timeout: 250 seconds)
+[01:14.47] * wisey (~Steven@host-2-102-71-48.as13285.net) Quit (Quit: Leaving)
+[01:14.55] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:15.04] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) has joined channel ##windows
+[01:16.13] * wisey (~Steven@host-2-102-71-48.as13285.net) has joined channel ##windows
+[01:16.39] * Anti-Pizza (~pizzerino@system.telenet.ru) has joined channel ##windows
+[01:18.00] <sydbarret> VaccinesHARM i have an old ibm486 that had lpt1 port do you think if i plug that to my new pci card will it work?
+[01:18.36] <y0tta0> try #hardware
+[01:19.14] * Deihmos_ is now known as Deihmos
+[01:21.03] * BromeoAndCooliet (~BromeoAnd@pool-74-101-93-133.nycmny.fios.verizon.net) Quit (Quit: Leaving)
+[01:25.29] * xust- (~ident@ip72-209-247-9.dc.dc.cox.net) Quit (Remote host closed the connection)
+[01:29.05] * korg (~korggrodn@mail.ramtex.by) has joined channel ##windows
+[01:30.16] * kggr (~korggrodn@mail.ramtex.by) Quit (Ping timeout: 265 seconds)
+[01:34.07] * xust- (~ident@ip72-209-247-9.dc.dc.cox.net) has joined channel ##windows
+[01:34.08] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Ping timeout: 265 seconds)
+[01:34.43] * Mia (~Mia@unaffiliated/mia) has joined channel ##windows
+[01:35.00] * ManikM (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[01:35.03] * Manny (~quassel@14.139.122.114) has joined channel ##windows
+[01:35.48] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[01:36.52] * ErrantEgo (~ErrantEgo@freenode/jester/errantego) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[01:37.12] * ErrantEgo (~ErrantEgo@freenode/jester/errantego) has joined channel ##windows
+[01:38.42] * Guest3775 is now known as Cyrus
+[01:38.46] * Cyrus (~Cyrus@104.236.10.76) Quit (Changing host)
+[01:38.46] * Cyrus (~Cyrus@unaffiliated/cyrus) has joined channel ##windows
+[01:43.31] * DarkBloodWolf (~muffins@unaffiliated/darkbloodwolf) has joined channel ##windows
+[01:44.02] * pereba (~pereba@unaffiliated/pereba) Quit (Quit: (._. ) ( ._.) ( '-') ('-' ) Are you using AdiIRC? [＋＋www.adiirc.com]，，)
+[01:44.30] * drale (~drale@unaffiliated/drale) Quit (Quit: Leaving)
+[01:45.24] * kzard (~kzard@41.85.12.100) has joined channel ##windows
+[01:45.31] <sydbarret> VaccinesHARM u still awake?
+[01:46.31] <sabotender> so when is windows 10 scheduled to be officially released?
+[01:47.00] <sabotender> and is it true that it is going to be a limited time free upgrade?
+[01:48.21] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[01:48.51] <S_SubZero> later this year and yes.
+[01:49.07] * Macaveli (~Macaveli@68.252-240-81.adsl-static.isp.belgacom.be) has joined channel ##windows
+[01:49.35] * Aldem (~Aldem@unaffiliated/aldem) Quit (Quit: Leaving)
+[01:49.37] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 246 seconds)
+[01:49.38] <sabotender> so what are we looking at? July?
+[01:49.42] <sabotender> November?
+[01:49.54] <S_SubZero> later this year.
+[01:50.10] <sabotender> I am trying to mark my calendar to make sure that I do not miss the free upgrade window
+[01:50.18] * sabotender waves at S_SubZero ;-)
+[01:50.55] <S_SubZero> don’t mark your calendar.
+[01:51.03] <sabotender> O_o why not
+[01:51.27] <sabotender> I heard that the window to upgrade would be a limited time
+[01:51.28] <S_SubZero> cuz you have no idea where to put the mark.
+[01:51.39] <S_SubZero> you “heard"
+[01:51.44] <S_SubZero> from what, a pidgeon
+[01:51.55] <sabotender> hmm. some tech site I believe
+[01:52.22] <S_SubZero> was it an official Microsoft tech site?
+[01:52.28] * JoshuaZ (Gatis@78.84.3.196) has joined channel ##windows
+[01:52.30] <JoshuaZ> Hi. I have HP Compaq 6715s laptop. AMD Mobile Sempron processor, 1GB RAM, ATI X1200 Integrated Video card 128MB ram. What linux OS you recommend for my system?
+[01:52.54] * sabotender shrugs. 
+[01:53.01] * last_staff (~Thunderbi@79.135.14.226) has joined channel ##windows
+[01:53.10] <S_SubZero> i know there’s absolutely no way to validate this, you just have to sorta sit on your hands and wonder.
+[01:53.33] <S_SubZero> i mean you could do a little research
+[01:53.34] <S_SubZero> ＋＋http://blogs.windows.com/bloggingwindows/2015/01/21/the-next-generation-of-windows-windows-10/，，
+[01:53.36] <S_SubZero> but what do I know
+[01:53.50] <S_SubZero> “We announced that a free upgrade for Windows 10 will be made available to customers running Windows 7, Windows 8.1, and Windows Phone 8.1 who upgrade in the first year after launch.*”
+[01:54.00] <sabotender> meh. i keep up with the windows scene enough to be fairly certain that I would not miss the free upgrade window
+[01:54.04] <S_SubZero> if you miss that window, you deserved it.
+[01:54.21] <sabotender> lawl, the first year.
+[01:54.27] <sabotender> that's right
+[01:54.35] <pinPoint> JoshuaZ: wrong channel
+[01:54.40] * Deihmos (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[01:54.41] <pinPoint> try ##linux
+[01:54.55] <JoshuaZ> banned
+[01:54.58] <S_SubZero> JoshuaZ: Garbage Can Linux (throw that junk in the trash can)
+[01:55.16] <pinPoint> That is just too bad.
+[01:55.17] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Ping timeout: 252 seconds)
+[01:55.39] * Haxxa (~Harrison@CPE-120-149-49-246.oirx3.win.bigpond.net.au) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[01:56.01] * james41382 (~james4138@unaffiliated/james41382) Quit (Ping timeout: 252 seconds)
+[01:56.07] <JoshuaZ> lubuntu?
+[01:56.14] <sabotender> I am still working the local account thing. I hate the heavy encouragement to use their online services.
+[01:56.40] * nicedice (~nicedice@unaffiliated/nicedice) Quit (Ping timeout: 246 seconds)
+[01:56.44] <S_SubZero> i use my MS account for all my Win8.1 machines, and it’s sw33tness
+[01:57.02] * Alina-malina (~Alina-mal@unaffiliated/alina-malina) has joined channel ##windows
+[01:57.03] <sabotender> I don't trust microsoft with my personal information.
+[01:57.09] <JoshuaZ> problem im using now windows 7 trial
+[01:57.12] * Soda (~user@109.229.230.161) Quit (Remote host closed the connection)
+[01:57.22] * asandweech (~thissand@unaffiliated/asandweech) Quit (Read error: Connection reset by peer)
+[01:57.23] * drale (~drale@d27-96-75-251.evv.wideopenwest.com) has joined channel ##windows
+[01:57.35] * Haxxa (~Harrison@cpe-120-149-49-246.oirx3.win.bigpond.net.au) has joined channel ##windows
+[01:58.26] <JoshuaZ> widows need more system requirements than linux
+[01:58.43] <S_SubZero> just run ubuntu then
+[01:58.55] <JoshuaZ> ubuntu too heavy]
+[01:58.57] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[01:59.01] <S_SubZero> oh, are the requirements too high?
+[01:59.05] <sabotender> some of the first things that i do immediately after a new windows installation is turn off: OneDrive, internet explorer, windows media player, automatic updates (I prefer to update my computer on my own schedule. I hate forced restarts).
+[01:59.12] <JoshuaZ> i'll swithc to tablet soon anyway
+[01:59.18] <JoshuaZ> adroid or windows
+[01:59.24] <S_SubZero> sabotender: you do what you want.
+[01:59.29] <sabotender> oh, and I turn off 'show window contents while dragging' :-P
+[01:59.41] <JoshuaZ> i'll keep windows 7
+[01:59.47] * netsjanek (~netsjanek@199.115.231.98) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[01:59.47] <JoshuaZ> on this old lap
+[01:59.59] <JoshuaZ> for my needs tablet is best :)
+[02:00.26] <JoshuaZ> then i will throw out this laptop i hope because tired of it. battery dead need to keep wire plugged in
+[02:00.57] * HeliusCron (~wrenny@c-50-152-37-227.hsd1.co.comcast.net) Quit (Ping timeout: 252 seconds)
+[02:01.00] <JoshuaZ> tablet is great to me. Can sleep in couch and surf web with tablet
+[02:01.15] <JoshuaZ> All i need is in this little tablet :)
+[02:02.08] * LordWillO (~LordWillO@unaffiliated/lordwillo) has joined channel ##windows
+[02:02.33] * funch (~funch@2.25.168.213.sta.estpak.ee) has joined channel ##windows
+[02:02.51] * vagweif7 (~vagweif7@ool-43577979.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[02:02.51] <JoshuaZ> Since i watch videos, read news, chat, type something etc, nothing else while tablet gives me more stuff to do than that actually
+[02:03.17] <JoshuaZ> Only thing i would want laptop is because of keyboard
+[02:03.36] <JoshuaZ> But i like touchscreen thing
+[02:03.43] <S_SubZero> ok well you’re well off topic and you have your plan so rock and roll
+[02:04.02] * fatalhalt (~fatalhalt@c-71-201-7-76.hsd1.il.comcast.net) has joined channel ##windows
+[02:04.27] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 250 seconds)
+[02:04.41] <JoshuaZ> agree with me?
+[02:04.52] * KomradeVirtunov (~KomradeVi@104-57-8-227.lightspeed.clmboh.sbcglobal.net) Quit (Quit: Gone)
+[02:04.55] <JoshuaZ> To me tablet is a lot more comfortable ad easy to use
+[02:05.03] <S_SubZero> do what you want. But if you want to talk about tablets take it to ##hardware.
+[02:05.24] <JoshuaZ> i found this cheap shop where you can unknown brand tablets from China for very cheap prices
+[02:05.37] <JoshuaZ> ＋＋http://www.geekbuying.com/，，
+[02:05.49] * lkjh0 (~lkjh@178.62.38.128) Quit (Quit: leaving)
+[02:05.52] <sydbarret> I found my motherboard accepts paralel port for old printers but the drivers is not supported for Win8. How can i make it work?
+[02:06.10] <Stryyker> sd20: From memory it relates to issues relating to the old allusers/default user from the past so ProgramData was created to fix that issue. I can't remember a good reference. Generally people like Chris Jackson, Raymond Chen (both from MS) are good for history and security info,
+[02:06.37] <Stryyker> JoshuaZ: Please use ##hardware for hardware discussion. This channel is a topical channel for MS Windows (the OS).
+[02:06.40] <S_SubZero> did you just respond to something from like three hours ago
+[02:06.51] * JoshuaZ (Gatis@78.84.3.196) Quit ()
+[02:07.56] <S_SubZero> …and the odd thing is they don’t usually even go to ##hardware.
+[02:08.18] * lkjh0 (~lkjh@178.62.38.128) has joined channel ##windows
+[02:08.33] <Stryyker> Me? No. I responded to the link to buy hardware.
+[02:08.52] <S_SubZero> i mean the response to sd20.
+[02:08.55] <Stryyker> unless you mean the sd20 thing, it's been a discussion that has had plenty of gaps :)
+[02:09.08] <S_SubZero> i coulda sworn they asked that before I went to the gym three hours ago.
+[02:10.19] * u0m3 (~u0m3@109.96.158.146) Quit (Ping timeout: 246 seconds)
+[02:10.27] <S_SubZero> that folder confuses me too.  Our enterprise AV software sets up shop there for some stuff and that’s relatively new.  I suspected they just wanted to hide some stuff out of common user view
+[02:11.07] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[02:11.28] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[02:12.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[02:13.17] * Anodl (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) has joined channel ##windows
+[02:13.46] * notpara (~para@213.187.75.26) Quit (Ping timeout: 246 seconds)
+[02:15.07] <sd20> Stryyker: Hmm...
+[02:15.16] * JoyinDespair (uid32977@gateway/web/irccloud.com/x-nzjitgxatcjpqses) Quit (Quit: Connection closed for inactivity)
+[02:15.22] <Stryyker> ＋＋http://www.microsoft.com/security/portal/mmpc/shared/variables.aspx，， shows how it has moved. As it isn't a kernel thing there is nothing in Windows Internals books.
+[02:15.29] * FreezingCold (~FreezingC@135.0.41.14) Quit (Read error: Connection reset by peer)
+[02:16.04] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##windows
+[02:16.04] <sd20> It's cannot be a fun task for the people who have to somehow manage and develop the enormous Windows ecosystem of standards, guidelines, actual practices, etc.
+[02:16.25] <sd20> Millions of vendors, big and small, often using outdated or bad practices, placing files here and there.
+[02:16.54] <Wizard> Hi
+[02:17.29] * pm001 (~pm0001@212.6.182.1) has joined channel ##windows
+[02:18.23] * WizJin (~WizJinAFK@103.241.46.220) has joined channel ##windows
+[02:20.54] <Stryyker> sd20: It is easy actually. Most of the old stuff works fine if people did things the correct way.
+[02:22.22] <S_SubZero> “rogue developer followed no guidelines and made their own app their own way”   You can say that about an app on any operating system, not just Windows.
+[02:23.39] <Stryyker> And people still ignore advice to follow guidelines. For example last year I noticed a few asking for help with some things and they had it in their mind they must put settings files in Program Files and it must be full RW access for all users. So they do odd hacks which removes security.
+[02:24.06] * cathode (~cathode@76.115.13.9) has joined channel ##windows
+[02:24.08] <cathode> hi
+[02:24.19] * anaeem1_ (~anaeem1@58-65-169-81.nayatel.pk) has joined channel ##windows
+[02:24.21] * Aoyagi_trashtop (~Aoyagi@unaffiliated/aoyagi) has joined channel ##windows
+[02:25.55] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Quit: Leaving)
+[02:26.12] <Stryyker> SHGetKnownFolderPath is what is recommended since Vista. Before that SHGetFolderPath was used.
+[02:26.49] * linuxuz3r (6bd2aa16@gateway/web/freenode/ip.107.210.170.22) has joined channel ##windows
+[02:27.18] * WizJin (~WizJinAFK@103.241.46.220) Quit (Quit: Leaving)
+[02:29.00] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[02:30.04] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Client Quit)
+[02:30.48] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[02:31.03] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Client Quit)
+[02:31.19] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[02:31.52] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Client Quit)
+[02:32.08] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[02:32.11] * genera (~genera@unaffiliated/genera) Quit (Ping timeout: 264 seconds)
+[02:32.34] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) Quit (Client Quit)
+[02:33.09] * NeoGeo64 (~oxycodone@173-22-42-207.client.mchsi.com) has joined channel ##windows
+[02:33.42] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Ping timeout: 272 seconds)
+[02:34.41] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[02:35.46] * Voovode (~Alex@tenatena.static.otenet.gr) has joined channel ##windows
+[02:35.47] * Benjaminhusky (~compusr71@38.129.215.226) Quit (Quit: i am quitting)
+[02:37.26] * linuxuz3r (6bd2aa16@gateway/web/freenode/ip.107.210.170.22) Quit (Ping timeout: 246 seconds)
+[02:38.28] * jmc75 (~jmc75@31.95.218.157) has joined channel ##windows
+[02:41.07] * jmc75 (~jmc75@31.95.218.157) Quit (Remote host closed the connection)
+[02:42.10] * LordWillO (~LordWillO@unaffiliated/lordwillo) has joined channel ##windows
+[02:43.11] * jmc75 (~jmc75@31.95.218.157) has joined channel ##windows
+[02:45.01] * Anodl (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[02:45.47] * aeon-ltd (~freenode@94.13.198.135) has joined channel ##windows
+[02:46.43] * HeliusCron (~wrenny@gateway/vpn/privateinternetaccess/wrenny) has joined channel ##windows
+[02:46.57] * jmc75 (~jmc75@31.95.218.157) Quit (Remote host closed the connection)
+[02:50.11] * sydbarret (~proxychec@190.186.146.182) Quit ()
+[02:50.15] * jonascj (~jonas@emp.sdu.dk) has joined channel ##windows
+[02:50.48] <jonascj> Does Win7 include a service/application to monitor other processes and (re)start them if they are not running?
+[02:50.53] * jmc75 (~jmc75@31.95.218.157) has joined channel ##windows
+[02:50.57] <jonascj> like a watch dog
+[02:53.50] * cathode (~cathode@76.115.13.9) has left ##windows ()
+[02:53.53] * Haxxa (~Harrison@cpe-120-149-49-246.oirx3.win.bigpond.net.au) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[02:54.09] * Shoe14 (uid40690@gateway/web/irccloud.com/x-tyzjynwnubzepgkv) has joined channel ##windows
+[02:54.16] * vooze (~vooze@unaffiliated/vooze) has joined channel ##windows
+[02:55.59] * Haxxa (~Harrison@cpe-120-149-49-246.oirx3.win.bigpond.net.au) has joined channel ##windows
+[02:57.04] * jmc75 (~jmc75@31.95.218.157) Quit (Read error: Connection reset by peer)
+[02:57.05] * BOKALDO (~BOKALDO@87.110.77.17) has joined channel ##windows
+[02:59.54] <Stryyker> services have the option to restart
+[03:00.00] * Huntyz (~Huntyz@82-69-144-126.dsl.in-addr.zen.co.uk) Quit (Quit: Huntyz)
+[03:00.40] <Stryyker> check the recovery tab of the service when configuring it via service.msc
+[03:01.33] * hirogen (50a97404@gateway/web/freenode/ip.80.169.116.4) has joined channel ##windows
+[03:02.50] * no_gravity (~user@unaffiliated/no-gravity/x-0632109) has joined channel ##windows
+[03:02.52] <no_gravity> Which tablet would you guys buy these days?
+[03:04.51] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 256 seconds)
+[03:05.27] <Stryyker> no_gravity: ##hardware is a place to use for hardware advice
+[03:05.28] * sd20 (257ba077@gateway/web/cgi-irc/kiwiirc.com/ip.37.123.160.119) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[03:07.29] * Joufflu (~Jouffluxx@2602:306:8b23:1250:2554:b203:eda3:9401) Quit (Read error: Connection reset by peer)
+[03:07.36] * Haxxa (~Harrison@cpe-120-149-49-246.oirx3.win.bigpond.net.au) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[03:09.23] * LetErikTry (~LetErikTr@unaffiliated/leteriktry) has joined channel ##windows
+[03:09.42] * Haxxa (~Harrison@cpe-120-149-49-246.oirx3.win.bigpond.net.au) has joined channel ##windows
+[03:10.09] * genera_ (~genera@unaffiliated/genera) has joined channel ##windows
+[03:11.06] * jmc75 (~jmc75@31.95.218.157) has joined channel ##windows
+[03:12.05] * Stryyker (stryyker16@about/windows/staff/stryyker) Quit (Remote host closed the connection)
+[03:12.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:13.21] * genera (~genera@unaffiliated/genera) Quit (Ping timeout: 256 seconds)
+[03:13.21] * Stryyker (stryyker16@about/windows/staff/stryyker) has joined channel ##windows
+[03:15.47] <jonascj> Stryyker: okay, so the application I am wanting to monitor and restart, turn that into a service and use the service restart option?
+[03:15.53] <Peppi> hmmwhatsthisdo: you around?
+[03:16.01] <Peppi> lol guess not :/
+[03:16.03] * jmc75 (~jmc75@31.95.218.157) Quit (Remote host closed the connection)
+[03:16.06] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:16.23] <Stryyker> jonascj: Does the application have any type of user interface? (text for GUI)
+[03:17.21] <jonascj> Stryyker: nope, it is a cli application (a python script) started from a bat script (to avoid typing in all the arguments each time)
+[03:18.09] * filadome__ (~filadome_@216.151.180.63) Quit (Read error: Connection reset by peer)
+[03:18.19] * Anodl (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) has joined channel ##windows
+[03:18.33] <jonascj> I know there are python libraries for interacting with the windows service system, but it would be nicer if a bat script could just be turned into a service, ofc.
+[03:18.34] * filadome__ (~filadome_@216.151.180.63) has joined channel ##windows
+[03:19.22] <jonascj> And I think that is possible, and if the Win Services then have the option to auto monitor and restart if stopped, then I'm good to go :)
+[03:21.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:24.10] <vooze> Is it correct to assume that when my GPU (Intel HD 5500(broadwell)) is supported, chrome is going to stop go CPU crazy displaying video? I don't have this problem in internet explorer, but maybe it gets its GPU drivers from windows and not the browser itself.
+[03:24.11] * pinPoint (~pinPoint@about/windows/regular/pinpoint) Quit (Ping timeout: 250 seconds)
+[03:25.02] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:25.41] * Br41nd34d (~quassel@80.69.207.207) has joined channel ##windows
+[03:26.45] * tbosua (~tbosua@office.hostnetbv.nl) has joined channel ##windows
+[03:26.54] * genera_ (~genera@unaffiliated/genera) Quit (Ping timeout: 272 seconds)
+[03:30.29] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:30.31] * Nirvash (~Nirvash@c-68-57-118-153.hsd1.tn.comcast.net) Quit (Read error: Connection reset by peer)
+[03:32.38] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:32.47] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) has joined channel ##windows
+[03:33.10] * habanany (~AndChat63@cpe-142-255-42-254.nyc.res.rr.com) Quit (Read error: Connection reset by peer)
+[03:33.50] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:33.55] * guilt_ (~guilt_@unaffiliated/guilt/x-3798015) Quit (Quit: Later dudes.)
+[03:35.01] * LucaTM (~Luca@ppp-247-93.33-151.iol.it) has joined channel ##windows
+[03:35.03] * Manny (~quassel@14.139.122.114) Quit (Read error: Connection reset by peer)
+[03:35.04] * ManikM (~quassel@14.139.122.114) has joined channel ##windows
+[03:36.34] * Kabouik_ (~quassel@147.99.218.243) has joined channel ##windows
+[03:36.37] * no_gravity (~user@unaffiliated/no-gravity/x-0632109) Quit (Quit: leaving)
+[03:37.46] * AlexxEG (~AlexxEG@2a02:fe0:c510:1c90:c32:f88a:a628:b69a) has joined channel ##windows
+[03:39.17] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:39.39] * stevenm (~stevenm@stevenm.keele.netcentral.co.uk) has joined channel ##windows
+[03:42.08] * S_SubZero (~S_SubZero@about/windows/regular/s-subzero) Quit (Quit: S_SubZero)
+[03:42.43] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:44.22] * FreezingCold (~FreezingC@135.0.41.14) Quit (Ping timeout: 256 seconds)
+[03:45.34] * David-- (none@pdpc/supporter/active/david--/x-2357539) has joined channel ##windows
+[03:47.49] * Tinfoilhat_ (~quassel@142.68.118.212) has joined channel ##windows
+[03:48.13] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:49.16] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##windows
+[03:49.51] * HarryMilnes (~HarryMiln@164.39.0.14) has joined channel ##windows
+[03:49.51] * HarryMilnes (~HarryMiln@164.39.0.14) Quit (Changing host)
+[03:49.51] * HarryMilnes (~HarryMiln@unaffiliated/harrymilnes) has joined channel ##windows
+[03:50.19] * meesebyte (~meesebyte@45-107-35-72.mtaonline.net) has joined channel ##windows
+[03:51.31] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[03:52.31] * iphorde (~Thunderbi@cpe-66-25-16-140.tx.res.rr.com) Quit (Ping timeout: 246 seconds)
+[03:53.10] * iphorde (~Thunderbi@cpe-66-25-16-140.tx.res.rr.com) has joined channel ##windows
+[03:56.04] * Anodl1 (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) has joined channel ##windows
+[03:57.04] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[03:58.15] * swatti (~swatti@business-89-132-60-56.business.broadband.hu) has joined channel ##windows
+[03:58.32] * Anodl (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) Quit (Ping timeout: 245 seconds)
+[03:58.40] * Anodl1 (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) Quit (Client Quit)
+[04:00.06] * notpara (~para@213.187.75.26) has joined channel ##windows
+[04:01.29] * vooze (~vooze@unaffiliated/vooze) Quit ()
+[04:03.27] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) Quit (Ping timeout: 250 seconds)
+[04:04.25] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Ping timeout: 245 seconds)
+[04:12.13] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) Quit (Read error: Connection reset by peer)
+[04:12.37] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:13.14] * Anodl (~Anodl@p5B15E0AC.dip0.t-ipconnect.de) has joined channel ##windows
+[04:16.59] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Ping timeout: 252 seconds)
+[04:17.01] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) Quit (Ping timeout: 265 seconds)
+[04:17.35] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[04:18.30] * Milkweed (~Milkweeds@cpc69833-shep12-2-0-cust153.8-3.cable.virginm.net) has joined channel ##windows
+[04:18.55] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:22.08] * Raziel (~Raziel@cpc16-broo8-2-0-cust158.14-2.cable.virginm.net) Quit (Ping timeout: 255 seconds)
+[04:24.32] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:25.35] * HansE_ (~HansE@3badr-gr7-m6.testlab.aitel.hist.no) has joined channel ##windows
+[04:27.57] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (Max SendQ exceeded)
+[04:28.14] * meteorx64 (~willc_000@75.64.231.4) Quit (Quit: Leaving)
+[04:29.33] * berz3rk (~quassel@dslb-088-076-018-243.088.076.pools.vodafone-ip.de) has joined channel ##windows
+[04:30.16] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[04:31.13] * LetErikTry (~LetErikTr@unaffiliated/leteriktry) Quit (Quit: sleep)
+[04:31.29] * iive (~iive@87.119.101.204.client.entry.bg) has joined channel ##windows
+[04:31.29] * iive (~iive@87.119.101.204.client.entry.bg) Quit (Changing host)
+[04:31.29] * iive (~iive@unaffiliated/iive) has joined channel ##windows
+[04:32.13] * genera_ (~genera@unaffiliated/genera) has joined channel ##windows
+[04:33.28] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##windows
+[04:34.13] * iphorde (~Thunderbi@cpe-66-25-16-140.tx.res.rr.com) Quit (Ping timeout: 250 seconds)
+[04:34.53] * iphorde (~Thunderbi@cpe-66-25-16-140.tx.res.rr.com) has joined channel ##windows
+[04:35.52] * LordWillO (~LordWillO@unaffiliated/lordwillo) Quit (Read error: Connection reset by peer)
+[04:37.21] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) Quit (Read error: Connection reset by peer)
+[04:37.34] * happytoo (~happyone@gateway/vpn/privateinternetaccess/happyone) has joined channel ##windows
+[04:37.48] * br34l (~br34l@unaffiliated/br34l) Quit ()
+[04:38.12] * ulrichard (~richi@120.190.14.46.static.wline.lns.sme.cust.swisscom.ch) has joined channel ##windows
+[05:19.52] *** Server disconnected on irc.freenode.net

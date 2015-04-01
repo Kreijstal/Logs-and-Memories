@@ -1,0 +1,29 @@
+Session Start: Fri Feb 13 10:59:25 2015
+[10:59.25] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[10:59.25] -irc.freenode.net- Sending User Registration Information
+[10:59.26] --tepper.freenode.net-- *** Looking up your hostname...
+[10:59.26] --tepper.freenode.net-- *** Checking Ident
+[10:59.26] --tepper.freenode.net-- *** Couldn't look up your hostname
+[10:59.35] --tepper.freenode.net-- *** No Ident response
+[10:59.35] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[10:59.35] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[10:59.35] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[10:59.35] -tepper.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[10:59.35] -tepper.freenode.net- Your host is tepper.freenode.net[192.186.157.43/6667], running version ircd-seven-1.1.3
+[10:59.35] -tepper.freenode.net- This server was created Sun Jul 20 2014 at 01:18:10 UTC
+[10:59.35] -tepper.freenode.net- tepper.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[10:59.35] -tepper.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[10:59.35] -tepper.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[10:59.36] -tepper.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[10:59.36] -tepper.freenode.net- There are 161 users and 83584 invisible on 26 servers
+[10:59.36] -tepper.freenode.net- There are 24 IRC Operators online
+[10:59.36] -tepper.freenode.net- There are 11 unknown connection(s)
+[10:59.36] -tepper.freenode.net- There are 49430 channels formed
+[10:59.36] -tepper.freenode.net- I have 2799 clients and 1 servers
+[10:59.36] -tepper.freenode.net- Current local users 2799, max 3593
+[10:59.36] -tepper.freenode.net- Current global users 83745, max 98451
+[10:59.36] -tepper.freenode.net- Highest connection count: 3594 (3593 clients) (98650 connections received)
+[10:59.36] -tepper.freenode.net- You have successfully connected to tepper.freenode.net
+[10:59.36] * Your mode is now +i
+[10:59.36] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[10:59.41] Rainb resolved to 181.50.196.58

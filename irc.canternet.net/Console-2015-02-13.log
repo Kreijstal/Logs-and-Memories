@@ -1,0 +1,819 @@
+Session Start: Fri Feb 13 10:59:20 2015
+[10:59.20] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] ERROR: Socket Exception Error: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 141.8.225.80:6667
+[10:59.41] -irc.canternet.net- Waiting 60 seconds to re-connect to (irc.canternet.net)
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.41] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.41] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.42] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.42] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.43] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.43] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.44] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.44] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.45] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.45] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.46] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.46] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.47] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.47] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.48] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.48] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.49] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.49] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.50] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.50] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.51] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.51] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.52] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.52] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.53] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.53] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.54] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.54] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.55] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.55] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.56] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.56] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.57] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.57] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.58] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.58] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[10:59.59] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[10:59.59] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.00] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.00] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.01] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.01] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] -irc.canternet.net- *** Attempting to re-connect to irc.canternet.net
+[11:00.02] -irc.canternet.net- *** Attempting to connect to irc.canternet.net (141.8.225.80) on port 6667
+[11:00.02] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[11:00.02] ERROR: Parameter name: asyncResult
+[11:00.02] -irc.canternet.net- Waiting 60 seconds to re-connect to (irc.canternet.net)
+[11:00.02] ERROR: Null Socket - Can not Connect
+[11:00.02] ERROR: Null Socket - Can not Connect
+[11:00.02] ERROR: Null Socket - Can not Connect
+[11:00.02] ERROR: Null Socket - Can not Connect
+[11:00.02] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.03] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.04] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.05] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.06] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.07] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.08] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.09] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.10] ERROR: Null Socket - Can not Connect
+[11:00.11] ERROR: Null Socket - Can not Connect
+[11:00.11] ERROR: Null Socket - Can not Connect
+[11:00.11] ERROR: Null Socket - Can not Connect
+[11:00.11] ERROR: Null Socket - Can not Connect
+[11:00.11] ERROR: Null Socket - Can not Connect

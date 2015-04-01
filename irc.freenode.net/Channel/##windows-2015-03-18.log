@@ -1,0 +1,186 @@
+Session Start: Wed Mar 18 04:40:03 2015
+Session Ident: ##windows
+[04:40.03] * You have joined ##windows
+[04:40.03] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[04:40.03] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[04:40.05] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[04:40.05] Channel Created on: 7:11 PM 10/7/2005
+[04:40.07] <Reiny> pre3 sry but u telling bullshit?
+[04:40.16] <Aldem> ...
+[04:40.20] <neoromantique> Is Win10 Stable enough?
+[04:40.20] <pre3> im running the tech preview right now
+[04:40.29] <Fizzy_Changeling> ich bin doof
+[04:40.29] <pre3> and unblocking does not work
+[04:40.30] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) has joined channel ##windows
+[04:40.38] <pre3> let me test something
+[04:40.43] <Reiny> i can rul dled files without unblock them
+[04:40.47] <aias> windows 10 is testing you lol
+[04:41.10] <Reiny> ja fizzy macht nix
+[04:41.18] <pre3> yep - no matter what I've got UAC set to, unblock won't work
+[04:41.24] <pre3> only way to make it work is to fully disable uac
+[04:41.46] <Fizzy_Changeling> Gah!
+[04:41.56] <Reiny> you dont have to unblock files to let them work
+[04:42.02] <pre3> you do if they require admin privs
+[04:42.05] <Fizzy_Changeling> How long does downloading a Snow Leopard DVD take
+[04:42.07] <Fizzy_Changeling> .-.
+[04:42.18] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) has joined channel ##windows
+[04:42.28] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) Quit (Max SendQ exceeded)
+[04:42.43] <Reiny> not yosemite?
+[04:42.48] <Fizzy_Changeling> MacPro1,1
+[04:43.02] <Fizzy_Changeling> Only run up to Lion without a modified boot.efi and supported graphics card
+[04:43.08] <Reiny> ah appleuser
+[04:43.11] <Fizzy_Changeling> Yea...
+[04:43.27] <Aldem> But this is ##windows
+[04:43.28] <Fizzy_Changeling> I run Windows in virtual machines tho
+[04:43.41] <Reiny> i dont like apple, full with worms
+[04:43.50] * fleshtheworld- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) has joined channel ##windows
+[04:43.50] <Fizzy_Changeling> XD
+[04:45.34] * ace2race (~ace2race@50-83-243-209.client.mchsi.com) Quit (Remote host closed the connection)
+[04:46.05] <Reiny> pre3 wich build of win10 are u using?7
+[04:46.32] * Jan\ (kvirc@104.204.235.30) has joined channel ##windows
+[04:46.44] * newbie|2 (kvirc@104.204.235.30) Quit (Ping timeout: 272 seconds)
+[04:46.54] * CheckDavid (uid14990@gateway/web/irccloud.com/x-yifgqcjgncazuxca) has joined channel ##windows
+[04:47.00] * fleshtheworld-- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) Quit (Ping timeout: 265 seconds)
+[04:47.18] * wiiguy (fake@unaffiliated/wiiguy) has joined channel ##windows
+[04:47.51] * fleshtheworld-- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) has joined channel ##windows
+[04:48.01] <pre3> build 9926 with all the updates
+[04:48.12] <Reiny> hm
+[04:48.15] <Fizzy_Changeling> pre3: Is that the latest? o.o
+[04:48.21] <Reiny> i run exact same
+[04:48.31] <Reiny> yep
+[04:48.32] <pre3> I think it is, I only downloaded it a day ago
+[04:48.43] <Fizzy_Changeling> Ugh... My Apple Cinema Display is hot x.x
+[04:48.59] <Reiny> i can install any aplikation
+[04:49.22] <Reiny> just say yes at uac and all is ok
+[04:49.32] <Fizzy_Changeling> Guess that's what happens when you have a high resolution screen o.o
+[04:50.24] <Reiny> guess that happens if u run apple products
+[04:50.41] * SuperStink (Sneak@CPE-121-223-86-238.lnse2.woo.bigpond.net.au) has joined channel ##windows
+[04:50.44] <Aldem> No bashing please
+[04:50.51] <pre3> reiny: when you click Unblock does the button work?
+[04:50.59] * SuperStink (Sneak@CPE-121-223-86-238.lnse2.woo.bigpond.net.au) Quit (Client Quit)
+[04:51.06] <Reiny> well sec
+[04:51.20] * fleshtheworld- (~fleshthew@2602:306:cf0f:4da0:f49f:68e5:f7f5:a5a9) Quit (Ping timeout: 256 seconds)
+[04:51.39] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) Quit ()
+[04:51.53] <Reiny> unblock and then apply works here
+[04:52.00] <pre3> that is strange
+[04:52.06] <Reiny> but well
+[04:52.10] <Reiny> i remember
+[04:52.45] <Reiny> first time i downloaded the isi it was semicorrupt, it installed fine but had errors
+[04:52.49] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) has joined channel ##windows
+[04:52.57] <Reiny> might u have to redownload
+[04:53.00] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) Quit (Max SendQ exceeded)
+[04:53.12] <Reiny> *iso
+[04:53.17] <pre3> clicking unblock makes it so Apply isn't grayed out anymore for me
+[04:53.24] <pre3> so i can click apply, but it doesnt unblock
+[04:53.28] <pre3> yours actually unblocks?
+[04:53.46] <Reiny> mine did euned fine
+[04:53.50] <pre3> hmm, ok
+[04:54.02] <Reiny> try fsc /scannow
+[04:54.13] <Reiny> ur system is corrupted mate
+[04:54.14] <Aldem> Sfc...
+[04:54.37] <Reiny> oh see what happens if i type to fast..
+[04:54.44] <Fizzy_Changeling> dd if=/dev/zero of=/dev/null
+[04:54.52] <Reiny> i mant Sfc /scannow ofc
+[04:55.20] <Reiny> dd is useless fizzy
+[04:55.48] <pre3> Windows Resource Protection could not start the repair service
+[04:55.52] <pre3> heh
+[04:55.55] <Reiny> yuppy
+[04:55.57] <Fizzy_Changeling> Okay
+[04:56.03] <Reiny> u can redownload
+[04:56.16] * vivekananda (~vvikramjh@pool-108-40-30-134.bltmmd.fios.verizon.net) Quit (Quit: Leaving)
+[04:56.41] * newbie|2 (kvirc@104.204.235.30) has joined channel ##windows
+[04:56.49] <Fizzy_Changeling> format C: /Q /FS:NTFS
+[04:57.30] * notpara (~para@213.187.75.26) Quit (Quit: ->)
+[04:57.30] <Reiny> u meant format C: /offline
+[04:57.34] * Jan\ (kvirc@104.204.235.30) Quit (Ping timeout: 256 seconds)
+[04:57.34] <Fizzy_Changeling> o.o
+[04:57.57] <Reiny> next time u restart ur drive will be wiped to hell
+[04:58.34] <pre3> idk
+[04:58.41] <pre3> maybe it is because i am running in a VHD
+[04:58.47] <joga> whoa, *FINALLY* ＋＋http://www.techworm.net/2015/02/windows-7-iso-can-now-be-downloaded-legally-from-microsoft.html，，
+[04:58.48] <Reiny> pre3 redownload the iso
+[04:59.03] <neoromantique> joga: Woah.
+[04:59.12] <neoromantique> joga: Good timing.
+[04:59.13] <joga> it's like it was so damn difficult to do that for years and years
+[04:59.22] <Reiny> joga i vahe 3 win7 oem dvds here, want one?
+[04:59.28] <joga> no, I don't need any
+[04:59.44] * Macaveli (~Macaveli@68.252-240-81.adsl-static.isp.belgacom.be) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[04:59.47] <Reiny> then have fun making joga
+[04:59.51] <joga> I don't need to
+[05:00.18] <joga> I get all the doze I need simply, but "where to get w7 iso" is one of Top-3 questions here probably
+[05:00.35] * rupertbg (~Ru@210.54.34.122) has joined channel ##windows
+[05:00.48] <Reiny> lol win7 is becomming like xp
+[05:01.12] <joga> wish they would also give windows for legacy pcs for free
+[05:01.21] <joga> not many people even know there's a superior XP out there
+[05:01.22] <joga> :p
+[05:01.46] <Reiny> superior xp?
+[05:02.00] <Reiny> u mean Windows XD?
+[05:02.02] <joga> yeah, ie. it's xp but with less bullcrap and fuss and silly stuff
+[05:02.13] <joga> I mean windows for legacy pcs
+[05:02.20] <Reiny> or might windows XS?
+[05:02.34] <joga> guess I mean you should use google
+[05:04.20] * KT6 (~mp|node@5ED29D00.cm-7-3c.dynamic.ziggo.nl) has joined channel ##windows
+[05:04.25] * technec (~Technec@c-69-248-151-85.hsd1.nj.comcast.net) Quit (Ping timeout: 246 seconds)
+[05:05.11] <Fizzy_Changeling> Windows XP needs to die
+[05:05.12] * bigbadjudas (~WAT@pool-98-115-142-29.phlapa.fios.verizon.net) Quit (Ping timeout: 264 seconds)
+[05:06.47] * Jan\ (kvirc@104.204.235.30) has joined channel ##windows
+[05:07.00] * newbie|2 (kvirc@104.204.235.30) Quit (Ping timeout: 272 seconds)
+[05:07.08] * Slacko_Live_CD (~cyber@72-186-20-90.res.bhn.net) has joined channel ##windows
+[05:07.21] * circ-user-eFe3a (~circuser-@sushi.pld.ttu.ee) has joined channel ##windows
+[05:08.04] <circ-user-eFe3a> How do I #include <windows.h> \n int main() { Sleep(5000); return 0; } into into a prog.c file?
+[05:08.23] <ocZio> say what?
+[05:08.35] <circ-user-eFe3a> How do I echo #include <windows.h> \n int main() { Sleep(5000); return 0; } into into a prog.c file?
+[05:08.48] <ocZio> say what again?
+[05:08.55] <circ-user-eFe3a> what
+[05:09.24] * crowleyman (crowleyman@gateway/shell/bnc4free/x-dfrqonpdcdtsfuri) Quit (Excess Flood)
+[05:09.43] <ocZio> if you mean 'echo' by the echo command then you can use the redirection operators
+[05:09.46] <ocZio> > and >>
+[05:10.08] <ocZio> if you want to compile that program and execute, then you will need a compiler (mscv/mingw)
+[05:10.38] <ocZio> msvc, sorry
+[05:10.40] <Fizzy_Changeling> cygwin
+[05:10.41] <joga> perhaps the real question is: "how do I echo newlines in cmd"
+[05:11.03] <circ-user-eFe3a> How do I echo #include <windows.h>   > prog.c?
+[05:11.11] <ocZio> say what ?
+[05:11.35] <circ-user-eFe3a> How do I echo <> chars without the fucking quotes?
+[05:12.17] <ocZio> no need to be rude.
+[05:12.41] <mota> polite language please
+[05:12.47] <ocZio> you can escape characters. or use echo "foobar<T>" > prog.c
+[05:12.53] <circ-user-eFe3a> Address substance, not tone
+[05:13.06] <mota> and you escape them: ^<windows.h^>
+[05:13.20] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) has joined channel ##windows
+[05:13.31] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) Quit (Max SendQ exceeded)
+[05:13.54] <circ-user-eFe3a> thanks
+[05:14.18] <mota> the substance was, you used language a lot of people don't want their children or bosses seeing on their screen, and there was no need to do so.
+[05:15.11] <ocZio> mota: correct.
+[05:15.19] <ocZio> 10 points for mota, 0 for circ-user-eFe3a
+[05:15.28] <ocZio> mota is leading circ-user-eFe3a, next move ?
+[05:15.45] <Aldem> Move on...
+[05:15.54] <mota> yes, let's
+[05:16.21] * crowleyman (crowleyman@gateway/shell/bnc4free/x-hpkrsxguunqrnoik) has joined channel ##windows
+[05:16.23] * David-- (none@pdpc/supporter/active/david--/x-2357539) Quit (Read error: Connection reset by peer)
+[05:16.39] * bigbadjudas (~WAT@pool-98-115-142-29.phlapa.fios.verizon.net) has joined channel ##windows
+[05:16.45] * Jan\ (kvirc@104.204.235.30) Quit (Ping timeout: 250 seconds)
+[05:16.54] * Jan\ (kvirc@104.204.235.30) has joined channel ##windows
+[05:19.36] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[05:22.34] * ByT3b0N3 (~ByT3b0N3@141.28.133.119) has joined channel ##windows
+[05:22.40] * Jck_true_ is now known as Jck_true
+[05:23.05] * jkli (~jkli@brln-d9ba336a.pool.mediaWays.net) has joined channel ##windows
+[05:24.53] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) has joined channel ##windows
+[05:25.05] * Fizzy_Changeling (~stevendal@ppp118-208-125-182.lns20.bne4.internode.on.net) Quit (Quit: Fizzy_Changeling)
+[05:25.49] * rupertbg (~Ru@210.54.34.122) Quit (Quit: Leaving.)
+[05:26.26] * dan2k3k4 (~dan2k3k4@unaffiliated/dan2k3k4) has joined channel ##windows
+[05:27.02] * newbie|2 (kvirc@104.204.235.30) has joined channel ##windows
+[05:27.15] * Jan\ (kvirc@104.204.235.30) Quit (Ping timeout: 264 seconds)
+[05:29.31] * nealshire (~Nealshire@unaffiliated/nealshire) has joined channel ##windows
+[05:29.48] * Soda (~user@109.229.230.161) has joined channel ##windows
+[05:30.30] * Aldem (4537f7f7@gateway/web/freenode/ip.69.55.247.247) Quit (Ping timeout: 246 seconds)
+[05:30.59] * r3doz (~r3doz@unaffiliated/r3do) has joined channel ##windows
+[05:33.52] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) has joined channel ##windows
+[05:33.59] * neoromantique (~neo@unaffiliated/neoromantique) Quit (Quit: Lost terminal)
+[05:34.03] * raub (~raub@cpe-076-182-097-140.nc.res.rr.com) Quit (Max SendQ exceeded)
+[05:34.32] * wyre (~wyre@81.172.90.37.dyn.user.ono.com) has joined channel ##windows
+[05:34.33] * notpara (~para@213.187.75.26) has joined channel ##windows
+[05:36.46] * peppi (~Peppi@S01065404a62a7737.ed.shawcable.net) Quit (Ping timeout: 272 seconds)
+[05:36.55] * newbie|2 (kvirc@104.204.235.30) Quit (Ping timeout: 246 seconds)
+[05:37.08] * newbie|2 (kvirc@104.204.235.30) has joined channel ##windows
+[09:39.29] *** Server disconnected on irc.freenode.net

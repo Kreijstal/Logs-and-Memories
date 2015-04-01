@@ -1,0 +1,59 @@
+Session Start: Thu Mar 19 02:29:19 2015
+Session Ident: ##math
+[02:29.19] * You have joined ##math
+[02:29.19] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[02:29.19] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[02:29.22] Channel modes for ##math are :+Ccnt
+[02:29.22] Channel Created on: 8:42 PM 1/29/2010
+[02:29.35] * PoA (~PoA@123.252.165.30) Quit (Quit: Leaving)
+[02:29.38] * pandoxer (~bluu@ip98-164-219-234.oc.oc.cox.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[02:31.18] * t0by (~t0by@93.37.202.21) has joined channel ##math
+[02:31.22] * pedrito_guzman (80eddfe4@gateway/web/freenode/ip.128.237.223.228) Quit (Ping timeout: 246 seconds)
+[02:32.47] * hassiktir (~schmity@174-24-200-127.tukw.qwest.net) Quit (Quit: Computer has gone to sleep.)
+[02:32.49] * t0by (~t0by@93.37.202.21) Quit (Remote host closed the connection)
+[02:35.16] * avarsh (~avarsh@d-199-203-121.bootp.Virginia.EDU) Quit (Remote host closed the connection)
+[02:36.15] * veek (~veek@unaffiliated/veek) Quit (Excess Flood)
+[02:37.21] * veek (~veek@unaffiliated/veek) has joined channel ##math
+[02:39.03] * codesoup (~codesoup@CPE68b6fcf580d3-CM68b6fcf580d0.cpe.net.cable.rogers.com) Quit (Ping timeout: 252 seconds)
+[02:39.09] * hassiktir (~schmity@174-24-200-127.tukw.qwest.net) has joined channel ##math
+[02:39.34] * Verttone (~Verttone@62-76-223-208.vpn.vsu.ru) Quit (Ping timeout: 245 seconds)
+[02:40.28] * wikiemol (~wikiemol@75.102.129.139) Quit (Ping timeout: 250 seconds)
+[02:40.36] * mofai (~quassel@124.82.37.232) Quit (Ping timeout: 246 seconds)
+[02:42.22] * elsewho (~elsewho@dslb-088-072-063-048.088.072.pools.vodafone-ip.de) Quit (Ping timeout: 272 seconds)
+[02:42.25] * a3Dman (~3Dman@unaffiliated/a3dman) has joined channel ##math
+[02:43.04] * mofai (~quassel@124.82.37.232) has joined channel ##math
+[02:43.12] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[02:43.58] * dark_cat (~white_cat@5-23-92-9.ljoshradi.is) has joined channel ##math
+[02:43.59] * dark_cat (~white_cat@5-23-92-9.ljoshradi.is) Quit (Changing host)
+[02:43.59] * dark_cat (~white_cat@unaffiliated/ph0ne) has joined channel ##math
+[02:44.16] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Ping timeout: 264 seconds)
+[02:44.53] * Pritchard (~Pritchard@unaffiliated/pritchard) has joined channel ##math
+[02:45.13] * bantamug (~tariq@luckynmalone.co.uk) Quit (Ping timeout: 244 seconds)
+[02:45.17] * z0kk (~textual@101.50.102.159) has joined channel ##math
+[02:45.21] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Client Quit)
+[02:46.50] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[02:46.54] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Max SendQ exceeded)
+[02:47.31] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[02:48.12] * thevishy (~thevishy@122.179.25.5) has joined channel ##math
+[02:48.58] * zeRez (~zeRez@93.129.241.240) has joined channel ##math
+[02:49.56] <veek> ＋＋https://en.wikipedia.org/wiki/Neighbourhood_%28mathematics%29，， where's the set M forming the neighborhood of 'a' in that diagram bottom right?
+[02:50.21] <veek> does he mean the bounded interval [a+eps, a-eps]
+[02:51.25] * aviraldg (uid35462@gateway/web/irccloud.com/x-hljejxysbjutaqbs) Quit (Quit: Connection closed for inactivity)
+[02:51.25] * Earlo (~Earlo@213.143.167.6) has joined channel ##math
+[02:52.36] * revolve (~username@199.19.119.133) Quit (Ping timeout: 256 seconds)
+[02:53.16] * vyadhaka (~rv@220-244-20-169.tpgi.com.au) has joined channel ##math
+[02:54.13] * jagob (~jacob@h196.natout.aau.dk) has joined channel ##math
+[02:54.40] * kaffeetrauma (~Thunderbi@85-22-37-153.ip.dokom21.de) has joined channel ##math
+[02:54.48] * jennifer (~ryra@unaffiliated/ryra) Quit (Quit: This computer has gone to sleep)
+[02:55.00] * Verttone (~Verttone@188.235.1.7) has joined channel ##math
+[02:57.07] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##math
+[02:57.38] * duncannz (~duncannz@121-74-222-255.telstraclear.net) Quit (Ping timeout: 244 seconds)
+[02:58.07] * Alex6 (~Alex6@ool-44c7d170.dyn.optonline.net) Quit (Read error: Connection reset by peer)
+[02:58.41] * Alex6 (~Alex6@ool-ad0330ee.dyn.optonline.net) has joined channel ##math
+[03:00.37] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Remote host closed the connection)
+[03:01.16] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[03:01.19] * RWOverdijk (~RWOverdij@87.213.98.98) Quit (Max SendQ exceeded)
+[03:01.49] * psy_ (~psy@103.6.159.177) Quit (Ping timeout: 264 seconds)
+[03:01.59] * RWOverdijk (~RWOverdij@87.213.98.98) has joined channel ##math
+[03:02.54] * revolve (~username@199.19.119.133) has joined channel ##math
+[03:04.11] *** Server disconnected on irc.freenode.net

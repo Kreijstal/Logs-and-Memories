@@ -1,0 +1,164 @@
+Session Start: Mon Feb 23 12:46:19 2015
+Session Ident: ##physics
+[12:46.19] * You have joined ##physics
+[12:46.19] Topic: Don't ask to ask, just ask! Provide all data, including diagrams (use mathb.in and/or imgur.com) | Off-topic/social chan: ##not-physics | No PMs without permission | Ops at ##physics-ops | Challenge Problem: ＋＋http://j.mp/1yILAED，，
+[12:46.19] Channel Topic Set by: sujeet!sujeet@unaffiliated/freeboson on 6:33 AM 10/30/2014
+[12:46.19] Channel modes for ##physics are :+Ccgnt
+[12:46.19] Channel Created on: 4:02 AM 12/19/2007
+[12:46.21] <superposition> is the line at rest in T=1?
+[12:46.25] <spudzee1111> no
+[12:46.36] <spudzee1111> I just want to know where it is at t=1
+[12:46.44] <superposition> that's geometry
+[12:46.45] <spudzee1111> obviously it will continue to move
+[12:46.58] <superposition> has nothing to do with how much force results in what angle
+[12:47.09] <spudzee1111> I don’t understand
+[12:47.14] <superposition> it's pure geometry
+[12:47.21] <superposition> you can find theta without calculating any forces.
+[12:47.48] <spudzee1111> theta is not moving until the force is applied at t=0
+[12:47.53] <spudzee1111> burrr
+[12:47.55] <spudzee1111> not theta
+[12:47.59] <spudzee1111> ignore that last comment
+[12:48.13] <spudzee1111> the line isn’t rotating until a force is applied at t=0
+[12:48.53] <superposition> and the line will keep moving, and theta will keep changing, until it comes to rest at some point in the future beyond T=1
+[12:49.06] <spudzee1111> yes
+[12:49.24] <spudzee1111> but I don’t care about beyond t=1
+[12:49.29] <spudzee1111> I care about t=1
+[12:50.50] <spudzee1111> does my question make sense? I wouldn’t think the answer would be that complicated.
+[12:51.07] * kreiGT (~kreig@201.216.140.134) Quit (Remote host closed the connection)
+[12:51.13] <superposition> no it doesnt
+[12:51.18] <spudzee1111> kk
+[12:51.24] <spudzee1111> let me try to explain a bit
+[12:51.38] <superposition> for any equation, the sum of the forces have to balance
+[12:52.00] <superposition> you're telling me it's still moving, so you have to analyze that inertial frame
+[12:52.11] * dk0r_ (~dk0r@unaffiliated/dk0r) has joined channel ##physics
+[12:52.21] <superposition> but you wont say what the force is, what the line is, or what resistive forces there are
+[12:52.29] <dk0r_> what's the name of that site frequently used in this chann to draw together?
+[12:52.34] <superposition> which is why I'm telling you absent all those, it's a geometry problem
+[12:53.49] <spudzee1111> I’m just trying to find a ratio, not a specific answer to a specific problem.
+[12:54.17] * CvP (CvP@203.76.123.238) Quit (Read error: No route to host)
+[12:54.29] <spudzee1111> fuck I just noticed the typ
+[12:54.32] <spudzee1111> typo*
+[12:54.33] <spudzee1111> fss
+[12:54.35] <spudzee1111> ffs
+[12:54.45] <spudzee1111> for fucking fuck sakes. I can’t spell anything right today
+[12:54.52] * norkle (~norkle@unaffiliated/norkle) has joined channel ##physics
+[12:54.55] * CvP (CvP@203.76.123.238) has joined channel ##physics
+[12:55.08] <spudzee1111> I hate seeing a type in my diagram :(
+[12:55.35] <superposition> okay, the ratio you're looking for is based on the weight of the line.
+[12:55.42] <spudzee1111> yes
+[12:55.48] <spudzee1111> for purposes, just assume it’s 1 kg
+[12:55.52] <spudzee1111> well
+[12:55.54] <spudzee1111> mass
+[12:55.57] <spudzee1111> mass is 1 kg
+[12:57.18] * thang1 (~thang@74-85-82-130.wallawalla.edu) Quit (Quit: thang1)
+[12:57.33] <spudzee1111> okay, I don’t think I ever explicitly said this, but the force being applied to the far right of the line is not from gravity. It could be like a finger pressing upon the edge of a pen or something.
+[12:57.41] <superposition> it's roughly analogous to a cantilever.
+[12:57.42] <superposition> ＋＋http://engineering-references.sbainvent.com/strength_of_materials/shear-and-moment-diagrams.php，，
+[12:58.41] <spudzee1111> fuck
+[12:58.44] <spudzee1111> ＋＋http://en.wikipedia.org/wiki/Lever，，
+[12:59.24] <superposition> right
+[12:59.26] <spudzee1111> that’s what I was looking for all along.
+[12:59.46] <spudzee1111> ffs, this is like shit you learn in 5th grade
+[12:59.47] <superposition> <superposition> so, you are being asked to generalize a singly-loaded lever?
+[12:59.58] <superposition> -.-
+[01:00.12] <spudzee1111> and I’m over here already solving the schrodinger equation for a hydrogen atom :(
+[01:01.17] <spudzee1111> My physics knowledge has gaps...
+[01:02.38] <superposition> master the basics before going into quanta
+[01:02.57] <spudzee1111> But I can understand (thus far) the quanta...
+[01:03.05] <spudzee1111> classical mechanics confuses the fuck out of me
+[01:03.11] <spudzee1111> but...
+[01:03.36] <xihr> QM heavily relies on some of the mature obtuse and confusing parts of CM, so you're going to have a bit of a problem there ...
+[01:03.43] * foreignFunction (~ai@ip-4761.sunline.net.ua) has joined channel ##physics
+[01:04.31] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[01:04.56] <spudzee1111> Generally speaking, the more math and less,”that’s just the way it is” a physics concept is, the easier it is for me to understand.
+[01:07.17] <superposition> working with physical objects is another approach to developing an intuitive grasp of classical force relationships.
+[01:07.30] <superposition> *to = towards, I guess
+[01:08.08] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:09.25] <spudzee1111> part of the issue is that I don’t know what I don’t know. So I can’t tell if there exist some part of physics I haven’t learned about yet.
+[01:10.42] <spudzee1111> I’m sure there are plenty, I just haven’t found em yet.
+[01:10.58] * Viper168_ (~Viper@unaffiliated/viper168) has joined channel ##physics
+[01:11.13] * RockLee (~Lizard@c-50-130-117-0.hsd1.tn.comcast.net) Quit (Ping timeout: 244 seconds)
+[01:11.49] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 245 seconds)
+[01:12.27] <xihr> huh?
+[01:13.58] * xihr boggles
+[01:14.24] <spudzee1111> I mean like, I didn’t know about all this amazing lever shit until now. And it’s not necessarily that I have a hard time understanding it. It’s more like I didn’t know it existed.
+[01:14.43] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (Quit: Leaving)
+[01:16.17] * mmhun (~anonymous@NYUFWA-WLESSAUTHCLIENTS-EXP02.NATPOOL.NYU.EDU) Quit (Quit: mmhun)
+[01:17.17] * sbellina (~sbellina@66.29.187.54.static.utbb.net) Quit (Ping timeout: 245 seconds)
+[01:24.25] * sbellina (~sbellina@66.29.187.53.static.utbb.net) has joined channel ##physics
+[01:29.10] * out0xCF8 (~out0xCF8@user-0c8hr4u.cable.mindspring.com) Quit (Quit: Linkinus - ＋＋http://linkinus.com，，)
+[01:30.46] * fireballs (~fireballs@128.135.100.111) has joined channel ##physics
+[01:35.18] <baus> for the next couple of years the LHC will run at double power to try and understand supersymmetry
+[01:35.31] <baus> how do the physicists know that won't destroy the earth?
+[01:36.17] <superposition> math
+[01:36.22] <mrdata> baus, cosmic ray events are greater energy than thaqt
+[01:36.26] <mrdata> and we're still here
+[01:37.03] <baus> idk seems selfish to me
+[01:37.04] <xihr> far greater
+[01:37.16] <superposition> the LHC seems selfish?
+[01:37.29] <xihr> good use of logic
+[01:37.38] <baus> i hope that they don't find data to corroborate supersymmetry
+[01:37.46] <baus> and have to rethink all their theories
+[01:37.56] <superposition> thats not what that would mean.
+[01:37.59] <baus> like the standard model
+[01:38.50] <xihr> it would not do that, SUSY is on top of the SM
+[01:40.17] <baus> if they still don't find supersymmetry, they're just going to run it at higher power
+[01:40.29] <xihr> ...
+[01:40.29] <baus> until they do find it or destroy the earth
+[01:40.37] * Viper168_ is now known as Viper168
+[01:40.41] <xihr> you've already been told why it will do no such thing
+[01:42.23] * mrdata (~mrdata@unaffiliated/mrdata) Quit (Ping timeout: 246 seconds)
+[01:45.04] <superposition> ＋＋http://hasthelhcdestroyedtheearthyet.com/，，
+[01:47.34] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[01:50.12] <@sujeet> lol
+[01:51.08] * mrdata (~mrdata@unaffiliated/mrdata) has joined channel ##physics
+[01:51.35] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##physics
+[01:53.30] * foreignFunction (~ai@ip-4761.sunline.net.ua) Quit (Quit: Leaving.)
+[01:54.42] * mr^swift (~benjaminp@14-203-74-6.tpgi.com.au) Quit (Ping timeout: 244 seconds)
+[01:56.55] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) has joined channel ##physics
+[01:58.14] <superposition> proudly up since 2008.  nice javascript to check if doomsday has in fact occurred.
+[02:00.19] * Litt (~EightyTwo@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[02:00.39] <monoprotic> im glad that i can easily tweet about it
+[02:00.49] <monoprotic> that was a real burden before
+[02:05.11] <superposition> wind powered freighters are apparently being reconsidered.  ＋＋http://machinedesign.com/fea-and-simulation/updating-sailing-cargo-ship，，
+[02:06.51] * TheLoneMilkMan__ (~Gamemaste@vincelaptop.rh.rit.edu) Quit (Quit: Leaving)
+[02:09.46] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) Quit (Quit: allahu akbar)
+[02:10.20] * fireballs (~fireballs@128.135.100.111) Quit (Ping timeout: 256 seconds)
+[02:10.44] <mrdata> goes around, comes around
+[02:10.54] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Ping timeout: 256 seconds)
+[02:12.02] * bigbadjudas (~666@pool-108-16-8-95.phlapa.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[02:13.06] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[02:20.33] * Jellysnake (~jellysnak@bru1516703.lnk.telstra.net) has joined channel ##physics
+[02:24.28] * thang1 (~thang@74-85-83-127.wallawalla.edu) has joined channel ##physics
+[02:25.30] * superposition (~chiro@unaffiliated/chirality) has left ##physics ()
+[02:25.40] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) has joined channel ##physics
+[02:30.12] * delphinas (~delphinas@cpc23-seve21-2-0-cust98.13-3.cable.virginm.net) Quit (Ping timeout: 256 seconds)
+[02:31.36] * anton02 (~n6910556@131.181.23.232) has joined channel ##physics
+[02:31.45] * cbot_ (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Quit: Leaving)
+[02:35.48] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (Read error: Connection reset by peer)
+[02:35.49] <anton02> who came up with the raisin bun model
+[02:38.36] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) Quit (Excess Flood)
+[02:38.57] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) has joined channel ##physics
+[02:41.53] * mr^swift (~benjaminp@14-203-74-6.tpgi.com.au) has joined channel ##physics
+[02:44.48] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##physics
+[02:45.16] * Karan47 (~androirc@182.48.234.210) has joined channel ##physics
+[02:45.34] * asandweech (~thissand@unaffiliated/asandweech) Quit (Ping timeout: 246 seconds)
+[02:45.35] <Karan47> What is it that makes time go slow or fast?
+[02:47.02] <Karan47> Anyone there
+[02:47.04] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[02:47.27] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##physics
+[02:48.55] <Karan47> Hi Daniel s
+[02:49.29] * anton02 (~n6910556@131.181.23.232) Quit (Read error: Connection reset by peer)
+[02:49.41] * Guest79147 (~maphry@host109-155-144-65.range109-155.btcentralplus.com) Quit (Quit: This computer has gone to sleep)
+[02:49.43] <Karan47> Hallo
+[02:53.35] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:15d:3ec8:aa93:46a9) Quit (Ping timeout: 250 seconds)
+[02:56.26] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) Quit (Remote host closed the connection)
+[02:56.51] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##physics
+[03:00.46] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 252 seconds)
+[03:01.29] * Karan47 (~androirc@182.48.234.210) has left ##physics (("Quit"))
+[03:05.35] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:dd9b:3c0a:3a75:f476) has joined channel ##physics
+[03:13.07] * boB_K7IQ (~IceChat9@50.125.40.122) Quit (Ping timeout: 250 seconds)
+[03:13.09] * Kompton (~Kompton@unaffiliated/condenado) Quit (Remote host closed the connection)
+[03:13.18] * uv (~uv@51B6036F.dsl.pool.telekom.hu) has joined channel ##physics
+[03:13.20] * sbellina (~sbellina@66.29.187.53.static.utbb.net) Quit (Ping timeout: 265 seconds)
+[07:15.43] *** Server disconnected on irc.freenode.net

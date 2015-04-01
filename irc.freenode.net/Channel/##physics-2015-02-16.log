@@ -1,0 +1,1724 @@
+Session Start: Mon Feb 16 12:00:17 2015
+Session Ident: ##physics
+[12:00.17] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[12:05.04] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 246 seconds)
+[12:05.30] * levite- is now known as Levite
+[12:06.46] * piareround (neoshadow@162.242.10.163) Quit (Quit: Leaving)
+[12:10.06] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[12:10.18] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[12:18.34] * kreiGT (~kreig@201.216.140.134) Quit (Remote host closed the connection)
+[12:24.26] * demophobia (~demophobi@unaffiliated/dan1) Quit (Quit: see you later 🇺🇸🎭🎶🎵🎼🎧🎹🐱🌈💖👺🙊👤😎)
+[12:26.12] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[12:32.50] * telex (teletype@freeshell.de) Quit (Remote host closed the connection)
+[12:34.43] * telex (teletype@freeshell.de) has joined channel ##physics
+[12:37.44] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) has joined channel ##physics
+[12:41.01] * Vutral (~ss@mirbsd/special/Vutral) Quit (Ping timeout: 245 seconds)
+[12:43.21] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##physics
+[12:44.31] * _Atom_ (~jawat@172.56.9.168) has joined channel ##physics
+[12:46.18] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) Quit (Quit: qeed)
+[12:46.27] * pulse (~pulse@unaffiliated/pulse) Quit (Remote host closed the connection)
+[12:51.42] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) has joined channel ##physics
+[12:53.48] * enthropy (~aavogt@65.92.35.183) Quit (Ping timeout: 256 seconds)
+[12:54.06] * pierre1_ (~pierre1@189.122.208.96) Quit (Ping timeout: 245 seconds)
+[12:56.42] * asandweech (~thissand@unaffiliated/asandweech) Quit (Remote host closed the connection)
+[12:58.37] * foreignFunction (~ai@ip-4761.sunline.net.ua) has joined channel ##physics
+[01:00.02] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[01:00.22] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (Ping timeout: 252 seconds)
+[01:00.38] * Vutral (~ss@mirbsd/special/Vutral) Quit (Excess Flood)
+[01:04.56] * KAHR-Alpha (~chatzilla@AReims-652-1-198-168.w86-192.abo.wanadoo.fr) has joined channel ##physics
+[01:05.13] * rikut (~dominus@dsl-jklbrasgw1-54fb1d-181.dhcp.inet.fi) Quit (Remote host closed the connection)
+[01:08.38] * foreignFunction (~ai@ip-4761.sunline.net.ua) Quit (Quit: Leaving.)
+[01:09.22] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[01:16.28] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[01:16.42] * annoymouse (uid11754@gateway/web/irccloud.com/x-gcepgtctjmuhrhoz) Quit (Quit: Connection closed for inactivity)
+[01:18.22] * Litt (~EightyTwo@202-89-151-114.ue.woosh.co.nz) has joined channel ##physics
+[01:26.34] * olabaz (~olabaz@146.201.163.42) Quit (Quit: Leaving)
+[01:27.56] * The_DarkKnight (~textual@c-76-30-144-231.hsd1.tx.comcast.net) has joined channel ##physics
+[01:28.36] * zorg24 (~zorg24@130.253.34.120) has joined channel ##physics
+[01:35.27] * veek (~veek@unaffiliated/veek) has joined channel ##physics
+[01:36.09] <veek> anyone read daniel fleisch's books on waves, etc
+[01:36.11] * SiegeX (~SiegeX@unaffiliated/siegex) Quit (Ping timeout: 246 seconds)
+[01:38.25] * demophobia (~demophobi@unaffiliated/dan1) has joined channel ##physics
+[01:40.55] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 256 seconds)
+[01:43.38] * SiegeX (~SiegeX@unaffiliated/siegex) has joined channel ##physics
+[01:45.18] * FluxNabla (~androirc@66-214-64-212.dhcp.snlo.ca.charter.com) has joined channel ##physics
+[01:47.22] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[01:47.26] * The_DarkKnight (~textual@c-76-30-144-231.hsd1.tx.comcast.net) Quit (Ping timeout: 264 seconds)
+[01:49.14] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 264 seconds)
+[01:53.06] * johnflux_ (~johnflux@konversation/developer/JohnFlux) Quit (Quit: Konversation terminated!)
+[01:53.27] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) has joined channel ##physics
+[01:53.33] * fireballs (~fireballs@128.135.100.109) has joined channel ##physics
+[01:54.40] * merzo (~merzo@41-5-133-95.pool.ukrtel.net) has joined channel ##physics
+[01:55.39] * slurik (~slurik@CPE00a0d197f29e-CM788df7fc0870.cpe.net.cable.rogers.com) Quit (Remote host closed the connection)
+[02:01.46] * _Atom_ (~jawat@172.56.9.168) Quit (Ping timeout: 245 seconds)
+[02:04.59] * fireballs (~fireballs@128.135.100.109) Quit (Ping timeout: 246 seconds)
+[02:13.52] * Guest438 (~maphry@host81-152-55-172.range81-152.btcentralplus.com) Quit (Quit: This computer has gone to sleep)
+[02:16.34] * esas (~esas@unaffiliated/esas) Quit (Ping timeout: 252 seconds)
+[02:17.14] * sbellina (~sbellina@66.29.187.51.static.utbb.net) Quit (Ping timeout: 244 seconds)
+[02:20.26] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) has joined channel ##physics
+[02:20.31] * KAHR-Alpha (~chatzilla@AReims-652-1-198-168.w86-192.abo.wanadoo.fr) Quit (Ping timeout: 245 seconds)
+[02:20.47] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[02:21.35] * SailorR (~IceChat7@72.143.228.53) has joined channel ##physics
+[02:21.46] <SailorR> does time flow at a uniform rate?
+[02:22.13] <SailorR> (guess im asking if its rate of change is constant or not)
+[02:24.11] <mortdeus> SailorR,  Time is diluted by motion.
+[02:24.20] <mortdeus> dilated*
+[02:24.28] <egg> SailorR: rate of change with respect to ...?
+[02:24.59] * fireballs (~fireballs@128.135.100.109) has joined channel ##physics
+[02:25.00] <SailorR> egg: I guess im trying to figure that out ...I suppose I need some meta-time
+[02:25.06] <SailorR> or to look at it like a scalar field
+[02:25.35] <egg> there's no meta-time in physics. but there are different times measured by clocks in different states of motion.
+[02:25.48] <egg> (and different places)
+[02:25.53] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:8d5b:c0cd:58db:dfe8) Quit (Ping timeout: 250 seconds)
+[02:26.25] <SailorR> egg so could we take the derivative wrt to motion
+[02:26.36] <egg> motion is not a quantity
+[02:27.01] <SailorR> its a vector though isnt it?
+[02:27.03] <egg> special and general relativity describes what happens when we compare different clocks
+[02:27.04] <SailorR> maybe a vector derivative
+[02:28.04] * diprotic (~monoproti@unaffiliated/monoprotic) Quit (Quit: bite me)
+[02:28.13] * rawfodog (~rawfodog@modemcable186.163-59-74.mc.videotron.ca) Quit (Read error: Connection reset by peer)
+[02:28.14] <shminux> SailorR, since rate is measured with respect to time, the rate of flow of time is always 1...
+[02:28.22] * pnint2 (pnint2@unaffiliated/pnint) has joined channel ##physics
+[02:30.12] <SailorR> ok what about if we consider the multiverse model where each universe has different times ...is there a way to compare them?
+[02:30.13] <SailorR> at all
+[02:30.16] <SailorR> even abstractly
+[02:30.32] <mortdeus> SailorR, your notion of time is relative to your frame of reference. As matter approaches the speed of light it turns out that light is constant for all observers at rest. (in other words, not accellerating.)
+[02:30.35] <egg> SailorR: comparing different clocks (even of the same construction) makes perfect sense. and it's interesting. clocks on a tower measure a different time than clocks at its base. clocks on a satellite measure different time than clocks on earth. it's experimentally confirmed.
+[02:31.17] <SailorR> egg but if time is so relative then what determines what can interact with what?
+[02:31.32] <SailorR> if not time
+[02:31.56] <egg> ??
+[02:31.56] <SailorR> even if our times are relative I can interact with you all
+[02:31.56] <SailorR> why?
+[02:32.05] <egg> why not
+[02:32.41] <mortdeus> which brings this bizarre effect that if you were traveling 99.9% of the speed of light, from your frame of reference light still travels at 300 million meters per second as far as you and your instruments are concerned.
+[02:32.55] <mortdeus> So what the hell has happened?
+[02:33.30] * fireballs (~fireballs@128.135.100.109) Quit (Ping timeout: 245 seconds)
+[02:33.41] <SailorR> egg: there must be some notion of simultaneous events (meta-time)
+[02:35.08] <SailorR> if you ccan deduce event A happened prior to event B
+[02:35.15] <SailorR> in that A and B cant interact
+[02:35.28] <SailorR> regardless of reference frames
+[02:37.23] <egg> SailorR: sorry, even the simultaneity of two events is relative :)
+[02:37.32] * egg afk
+[02:37.57] <SailorR> so I could interact with my parents before I was born?
+[02:37.58] <SailorR> lol
+[02:38.01] <SailorR> or the big bang
+[02:38.17] <SailorR> or beethoven was born after me
+[02:38.49] <SailorR> I agree that the simultaneity of two events might be relative as in not exact but obviously some events precede others
+[02:38.53] <SailorR> its not that free
+[02:38.56] <mortdeus> it turns at that as you approach the speed of light, atomic clocks are forced to slow down because they have mass and e=mc2, which is basically a way of saying that the more energy you put behind matter trying to push it to achieve the speed of a massless particle the more mass it starts to gain as energy is diverted into matter.
+[02:39.23] <mortdeus> and everything regarding our notion of time is dependent on our relative notion of the speed on light here on earth.
+[02:39.24] * pnint2 (pnint2@unaffiliated/pnint) has left ##physics ()
+[02:39.33] * qnt (pnint2@unaffiliated/pnint) has joined channel ##physics
+[02:40.19] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 255 seconds)
+[02:40.20] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##physics
+[02:40.41] <SailorR> the only way that makes sense is if there was no cause and effect lol
+[02:40.46] <SailorR> or everything was occuring simultaneously
+[02:41.08] * merzo (~merzo@41-5-133-95.pool.ukrtel.net) Quit (Remote host closed the connection)
+[02:41.13] <SailorR> did einstein consider the idea of cause /effect
+[02:41.15] <ldunn> SailorR: you can assign an order to events which could be causally connected which is preserved in all frames of reference
+[02:41.20] <SailorR> when he said events arent simultaneous
+[02:41.35] <SailorR> ldunn hm
+[02:41.36] <mortdeus> everything from a sun dial, to an atomic clock, to the neurons in your brains, are all dependent on the speed of light propogating through a conductive medium. And as it turns out the more mass the conductive medium gains the more energy it takes to get the clock to "tick".
+[02:41.46] <ldunn> relativity of simultaneity does not mean "for any events A and B there is a frame of reference where A occurs before B, another where they are simulatenous, and another where B occurs before A"
+[02:43.26] <SailorR> now im wondering if theres some absolute universal meta-time
+[02:43.36] <SailorR> thats true in all referencce frames across all multiverses
+[02:43.45] <SailorR> determined by cause and effect
+[02:43.55] <SailorR> and if so where are we in this chain
+[02:43.55] <mortdeus> ultimately it should be understood that our notion of the rate time flows is flawed and biased towards what we percieve
+[02:44.06] <mortdeus> SailorR, the speed of light
+[02:44.10] <ldunn> mortdeus: uh
+[02:44.58] <qnt> i need to make a PI-regulator. i have that G(s) = p*t_1/(1 + s*t_1) for an open system. i have to choose the regulator parameters so that the closed system gets the relative attentuation S (symbol i can't make) and the eigenanglefrequence w, that is so that characteristic polynomial is s^2 + 2Sws + w^2. in the answer i need to express K and T_1 in p and t_1 plus w and S. can someone help me,
+[02:44.58] <qnt> please? i'm stuck
+[02:45.06] <ldunn> you can illustrate the dilation of time without invoking E = mc^2 :(
+[02:46.09] <mortdeus> idunn, the speed of light is a key part of the lorentz transformation.
+[02:46.17] <ldunn> I know that
+[02:46.24] <SailorR> I think cause and effect
+[02:46.24] <ldunn> I didn't say it wasn't
+[02:46.29] <SailorR> is ccloser to what people perceive as time
+[02:46.34] <ldunn> E = mc^2 is not the lorentz transformation
+[02:46.36] <SailorR> but different than what einstein measured
+[02:46.40] <SailorR> or talked about
+[02:49.35] <mortdeus> ＋＋http://ffden-2.phys.uaf.edu/212_fall2003.web.dir/Eddie_Trochim/lorenzeq1.jpg，，
+[02:49.40] * s3v3n62mm2 (~s3v3n62mm@p5DDC2820.dip0.t-ipconnect.de) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[02:50.04] * demophobia (~demophobi@unaffiliated/dan1) Quit (Remote host closed the connection)
+[02:50.31] <mortdeus> note that in the numerator that velocity is set porportional to the speed of light.
+[02:50.38] <SailorR> wat
+[02:50.47] <SailorR> those equatons arent true for v=c
+[02:50.48] <SailorR> so
+[02:50.52] <SailorR> how does einstien conclude anything
+[02:50.56] <SailorR> about what happens when v=c
+[02:50.56] <SailorR> lol
+[02:51.04] <mortdeus> SailorR, Thats the point.....
+[02:51.24] <mrdata> v approaches c but never gets there
+[02:51.26] <SailorR> mortdeus no he concludes time stops and blah blah blah infinite mass etc
+[02:51.28] <SailorR> but in fact
+[02:51.34] <SailorR> anything could happen because equations break down lol
+[02:51.38] <SailorR> maybe theres no equations for when v=c
+[02:51.50] <SailorR> *new
+[02:52.50] * caramel (~caramel@unaffiliated/caramel) has joined channel ##physics
+[02:53.55] <mortdeus> as v approaches c, you end up in a situation where the square root of 1-v^2/c^2 becomes infinitely closer to the square root of 0. Which is impossible.
+[02:54.05] <ldunn> ...
+[02:54.17] <SailorR> mortdeus yea I get its a limit but
+[02:54.25] <SailorR> you cant conclude aobut what actually is the truth
+[02:54.28] <SailorR> at v=c from a limit lol
+[02:54.43] <mortdeus> in this particular instance because that means we are going to divide by 0, and the universe only likes to do that when you are a fatass star.
+[02:55.09] <mrdata> perhaps not even then
+[02:56.06] * Xenolith (~Xenolith@unaffiliated/xenolith) Quit (Read error: Connection reset by peer)
+[02:56.43] <SailorR> I thought the whole problem with quantum gravity was
+[02:56.46] <SailorR> the limit broke down
+[02:56.49] <mortdeus> mrdata, this is where blacks holes comes from.
+[02:56.51] <SailorR> I mean the equation broke down
+[02:57.01] <SailorR> so no conclusions coculd be made
+[02:57.14] <SailorR> why are ppl drawing cocnlusions about what happens at v=c here?
+[02:57.24] <SailorR> shouldnt there be a new field of physics that investigagtes this question?
+[02:57.26] <mrdata> mortdeus, the real universe tends to avoid inifinities
+[02:57.26] <SailorR> like for quantum gravity
+[02:57.54] <SailorR> physics at the speed of light
+[03:00.17] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 252 seconds)
+[03:00.35] * acetoline (~alireza@122-57-135-202.jetstream.xtra.co.nz) has joined channel ##physics
+[03:01.26] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[03:01.26] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Ping timeout: 246 seconds)
+[03:02.18] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[03:05.13] <mortdeus> SailorR, the problem is that since light is constant yet it is influenced by the force of gravity; there is a scenario where a super massive star's core gains so much mass that heavier atoms than hydron start to undergo nuclear fusion which increases their mass dramatically, and gravity becomes all that more powerful, and then it fuses again, and each time the core manages to fuse into another heavier element, we push our V element faster and faster a
+[03:05.13] <mortdeus> nd faster and faster until we reach a point where light has to lose because space is collapsing in on itself faster than light can propogate through space.
+[03:06.58] <mortdeus> and thats where all sorts of weirdness begins to happen.
+[03:07.27] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##physics
+[03:07.29] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 265 seconds)
+[03:08.15] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[03:10.59] * unpro (~unpro@hack.us.org) Quit (Ping timeout: 255 seconds)
+[03:13.16] * unpro (~unpro@hack.us.org) has joined channel ##physics
+[03:13.16] * unpro is now known as Guest75267
+[03:13.31] * acetoline (~alireza@122-57-135-202.jetstream.xtra.co.nz) Quit (Ping timeout: 252 seconds)
+[03:13.39] * Thooms (~thooms@salle106.atilla.org) has joined channel ##physics
+[03:13.41] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##physics
+[03:15.31] * acetoline (~alireza@122-59-5-171.jetstream.xtra.co.nz) has joined channel ##physics
+[03:20.24] <mrdata> mortdeus, i dont think the core is gaining mass; density yes, not mass
+[03:21.33] <mrdata> unless stuff is falling in
+[03:22.20] <mrdata> does it fall in? or is it pushed back
+[03:22.32] * sbellina (~sbellina@66.29.187.48.static.utbb.net) Quit (Ping timeout: 252 seconds)
+[03:23.50] <mrdata> and nuclesr fusion is kind of a nonsequitur
+[03:23.53] <mortdeus> mrdata, E = MC2
+[03:24.10] <mortdeus> or in this case E/C^2 = M
+[03:24.13] <SpeedEvil> It's losing mass even - the nucleii are being converted to photons which gradually escape (and neutrinos, which escape faster)
+[03:24.41] <SpeedEvil> Nuclear fusion does not increase the mass of the stellar core.
+[03:24.51] <SpeedEvil> Or any part of it. It may increase the density.
+[03:25.24] <mortdeus> have you guys ever seen a period table before?
+[03:25.32] <mortdeus> periodic*
+[03:26.02] * Emrakul (~NomZ@unaffiliated/nomz) has joined channel ##physics
+[03:26.03] * NomZ (~NomZ@unaffiliated/nomz) has joined channel ##physics
+[03:26.09] * NomZ__ (~NomZ@unaffiliated/nomz) has joined channel ##physics
+[03:26.35] * NomZ__ (~NomZ@unaffiliated/nomz) Quit (Read error: Connection reset by peer)
+[03:26.35] * NomZ (~NomZ@unaffiliated/nomz) Quit (Read error: Connection reset by peer)
+[03:26.35] * Emrakul (~NomZ@unaffiliated/nomz) Quit (Read error: Connection reset by peer)
+[03:26.38] * SecretFire (~SecretFir@c-67-168-220-193.hsd1.wa.comcast.net) has joined channel ##physics
+[03:27.00] * BojackTheCodeman (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[03:28.48] <mrdata> mortdeus, E = m c^2  gives you the energy released related tro the mass lost
+[03:28.54] <mortdeus> SpeedEvil, observe that when hydrogen undergoes fusion to become helium, its molar mass goes from a total of ~2 individually to ~4 together.   ＋＋http://www.ptable.com/Images/periodic%20table.png，，
+[03:29.26] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[03:29.30] * ob (~ob@mail.bonillas.net) Quit (Ping timeout: 246 seconds)
+[03:29.41] <SpeedEvil> Woo.
+[03:29.50] <SpeedEvil> Now, compute the total mass.
+[03:30.03] <SpeedEvil> The key is in the ~
+[03:30.07] <SpeedEvil> What is the exact figure
+[03:30.48] <mortdeus> mrdata, yeah and E/C^2 gives you the amount of energy it takes to become 1 unit of mass.
+[03:31.21] * BojackHorseman (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) has joined channel ##physics
+[03:31.37] * ldunn (~ldunn@freenode/staff-emeritus/ldunn) Quit (Ping timeout: 256 seconds)
+[03:32.04] * ob (~ob@mail.bonillas.net) has joined channel ##physics
+[03:32.14] * uv (~uv@1F2E5151.dsl.pool.telekom.hu) has joined channel ##physics
+[03:32.37] * acetoline (~alireza@122-59-5-171.jetstream.xtra.co.nz) Quit (Ping timeout: 264 seconds)
+[03:33.01] <SpeedEvil> Also, 2+2=4 does not increase the total number on eiter side
+[03:33.28] <mrdata> mortdeus, i'm not so much feeling like explaining this. but, take a pair of deuterium nuclei, combine them to get helium, compare total mass
+[03:34.01] * acetoline (~alireza@122-57-93-146.jetstream.xtra.co.nz) has joined channel ##physics
+[03:34.01] <mrdata> you will find the helium lost some mass
+[03:34.12] * BojackHorseman is now known as Bojack
+[03:34.28] <SpeedEvil> The key is in the ~
+[03:35.11] <M4dH4TT3r> ~/
+[03:36.12] <SailorR> how do we even know that the laws of thought
+[03:36.13] <SailorR> are the same
+[03:36.16] <SailorR> in a blackhole
+[03:36.20] <SailorR> and 2 + 2 =4 lol
+[03:36.34] * ldunn (~ldunn@ldunn.me) has joined channel ##physics
+[03:36.59] * ldunn is now known as Guest61553
+[03:37.29] <mortdeus> mrdata, considering that the square of the speed of light == ~8.987 x 10^16th, you would need a crapton of joules forcing two hydron particles to double their mass.
+[03:37.51] <mortdeus> forcing two hydrogen particles together*
+[03:38.03] * M4dH4TT3r has always seen a blackhole like a mobius strip that distorts time
+[03:38.45] * mueslo (~mueslo@p54B4155E.dip0.t-ipconnect.de) has joined channel ##physics
+[03:39.29] <M4dH4TT3r> SailorR the "laws of thought" are not the same anywhere
+[03:40.50] <SailorR> M4dH4TT3r why not
+[03:41.11] <mortdeus> mrdata, deuterium is produced in stars because of exactly what im talking about.
+[03:41.44] <M4dH4TT3r> just because the ant decided to crawl up a branch of a tree does not cause other branches to disappear or other trees for that matter
+[03:42.03] * mrdata laments, that the laws of thought may be breaking down here; and it's bed time... nn
+[03:42.14] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Ping timeout: 264 seconds)
+[03:42.24] <M4dH4TT3r> heavy water has an intresting effect of the human boay as well mortdeus
+[03:42.44] <M4dH4TT3r> s/boay/body/
+[03:42.44] <+dirac> M4dH4TT3r meant to say: heavy water has an intresting effect of the human body as well mortdeus
+[03:42.50] * Guest75267 (~unpro@hack.us.org) Quit (Ping timeout: 264 seconds)
+[03:42.55] * zhangyh26258 (~zhangyh@192.241.220.85) has joined channel ##physics
+[03:44.15] <M4dH4TT3r> sweet yet satisfying
+[03:45.32] <mortdeus> mrdata, ＋＋http://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis，，
+[03:45.53] * unpro_ (~unpro@hack.us.org) has joined channel ##physics
+[03:46.42] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) has joined channel ##physics
+[03:47.19] * SpeedEvil sighs.
+[03:48.37] * acetoline (~alireza@122-57-93-146.jetstream.xtra.co.nz) Quit (Ping timeout: 252 seconds)
+[03:48.38] * Cirus (~Cirus@2601:9:80:74:687c:4ac1:38e2:c5c) Quit (Read error: Connection reset by peer)
+[03:50.28] * acetoline (~alireza@122-59-149-34.jetstream.xtra.co.nz) has joined channel ##physics
+[03:50.49] * Ebola-C (ROMA@213.180.118.42) has joined channel ##physics
+[03:54.02] * boB_K7IQ (~IceChat9@50.125.42.5) Quit (Ping timeout: 246 seconds)
+[03:54.03] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[03:55.55] * acetoline (~alireza@122-59-149-34.jetstream.xtra.co.nz) Quit (Ping timeout: 265 seconds)
+[03:56.05] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:15d:3ec8:aa93:46a9) has joined channel ##physics
+[03:57.41] * acetoline (~alireza@122-59-144-156.jetstream.xtra.co.nz) has joined channel ##physics
+[04:00.18] * KornKage (~KornKageQ@bl13-78-166.dsl.telepac.pt) Quit (Ping timeout: 246 seconds)
+[04:00.34] * qnt (pnint2@unaffiliated/pnint) Quit (Remote host closed the connection)
+[04:00.42] * Ebola-C (ROMA@213.180.118.42) Quit (Ping timeout: 245 seconds)
+[04:00.45] * KornKage (KornKage@bl14-113-194.dsl.telepac.pt) has joined channel ##physics
+[04:01.30] * sparetire (~sparetire@unaffiliated/sparetire) Quit (Quit: sparetire)
+[04:08.03] * acetoline (~alireza@122-59-144-156.jetstream.xtra.co.nz) Quit (Ping timeout: 250 seconds)
+[04:08.11] * cbot` (~FS@ool-4355a0bf.dyn.optonline.net) Quit (Quit: Leaving)
+[04:10.05] * acetoline (~alireza@122-59-94-217.jetstream.xtra.co.nz) has joined channel ##physics
+[04:13.42] * haggis (uid6619@wikimedia/Addihockey10) Quit (Quit: Connection closed for inactivity)
+[04:17.56] * johnflux_ (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[04:21.41] * johnflux_ (~johnflux@konversation/developer/JohnFlux) Quit (Read error: Connection reset by peer)
+[04:26.19] * KAHR-Alpha (~chatzilla@AReims-652-1-198-168.w86-192.abo.wanadoo.fr) has joined channel ##physics
+[04:26.58] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) Quit ()
+[04:30.46] * veek (~veek@unaffiliated/veek) Quit (Ping timeout: 272 seconds)
+[04:30.53] * johnflux (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) has joined channel ##physics
+[04:30.54] * johnflux (~johnflux@cpc19-brig16-2-0-cust194.3-3.cable.virginm.net) Quit (Changing host)
+[04:30.54] * johnflux (~johnflux@konversation/developer/JohnFlux) has joined channel ##physics
+[04:35.12] * veek (~veek@unaffiliated/veek) has joined channel ##physics
+[04:36.15] * expo873 (uid11626@gateway/web/irccloud.com/x-dqvyycljbrnbhcns) Quit (Quit: Connection closed for inactivity)
+[04:36.36] * depate (~depate@wprt-4db6e6b2.pool.mediaWays.net) has joined channel ##physics
+[04:44.36] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[04:47.14] * expo873 (uid11626@gateway/web/irccloud.com/x-mqgcvqyizxemcwok) has joined channel ##physics
+[04:48.00] * jle` (~mstksg@unaffiliated/mstksg) Quit (Quit: WeeChat 1.1-dev)
+[04:51.43] * Tamae (~Tamae@mna75-1-81-57-129-31.fbx.proxad.net) has joined channel ##physics
+[05:02.00] * moses (~madara@unaffiliated/madara) Quit (Remote host closed the connection)
+[05:02.42] * Litt (~EightyTwo@202-89-151-114.ue.woosh.co.nz) Quit (Quit: Bah!)
+[05:05.20] * SailorR (~IceChat7@72.143.228.53) Quit (Quit: REALITY.SYS Corrupted: Re-boot universe? (Y/N/Q))
+[05:05.46] * merzo (~merzo@user-94-45-58-141.skif.com.ua) has joined channel ##physics
+[05:15.42] * veek (~veek@unaffiliated/veek) Quit (Quit: Leaving)
+[05:18.42] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##physics
+[05:20.25] * curiousguy13 (~curiousgu@125.19.38.42) has joined channel ##physics
+[05:21.38] * Carbonflux (~BOB@174-21-30-114.tukw.qwest.net) Quit (Quit: Lumen est solum textura opus)
+[05:23.44] * xyzwhatever (~xyzwhatev@ee-ibt-hpx-dock-1-232.ethz.ch) has joined channel ##physics
+[05:27.23] * rdrandrng (~intel@105.102.127.248) has joined channel ##physics
+[05:27.27] * osoba (~me@79.175.67.41) has joined channel ##physics
+[05:27.36] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) Quit (Ping timeout: 246 seconds)
+[05:31.01] <rdrandrng> why when i jump i fallow the earth spin?
+[05:32.19] <SpeedEvil> Inertia
+[05:32.32] <SpeedEvil> You do not follow the earths spin.
+[05:32.50] <SpeedEvil> Neglecting drag - when  you jump - you follow a (small) segment of an orbit.
+[05:33.23] <SpeedEvil> It just happens that humans can't jump hard enough for that to be a significant difference from a non-rotating flat earth case.
+[05:33.40] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[05:33.59] <rdrandrng> SpeedEvil: sorry for my english, but why when i jump i don't find self in other city?
+[05:34.12] <SpeedEvil> Your legs aren't strong enough.
+[05:34.17] <rdrandrng> :3
+[05:34.26] <SpeedEvil> _all_ speeds are relative.
+[05:35.05] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 245 seconds)
+[05:36.21] <rdrandrng> SpeedEvil: the jumping is vertical, am serious, i need the theory name that explain that.
+[05:36.44] <SpeedEvil> Newtons laws - fundamentally.
+[05:37.14] <SpeedEvil> Why would you accellerate to more than your jump speed in relation to the earth?
+[05:37.19] <SpeedEvil> What force is causing you to do so?
+[05:38.40] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) Quit (Remote host closed the connection)
+[05:39.15] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[05:41.01] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) Quit (Ping timeout: 245 seconds)
+[05:42.17] <rdrandrng> SpeedEvil: if the earth gravity is very very low and it is spinning very fast my location can be changed when i back?
+[05:43.30] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) has joined channel ##physics
+[05:45.41] * heez (~abc@unaffiliated/yj) has joined channel ##physics
+[05:48.51] <SpeedEvil> If your 'jump' is a significant fraction of escape speed - then yes - the earth will rotate under you while you're in the air
+[05:49.06] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) Quit (Ping timeout: 252 seconds)
+[05:50.15] * heez (~abc@unaffiliated/yj) Quit (Read error: Connection reset by peer)
+[05:51.01] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) has joined channel ##physics
+[05:51.06] * ValicekB (~tbox@dot.snat.baz.cz) Quit (Ping timeout: 246 seconds)
+[05:52.16] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-lpbwcwcqarskqqpj) has joined channel ##physics
+[05:52.16] * dominus_ (~dominus@dsl-jklbrasgw1-54fb1d-181.dhcp.inet.fi) has joined channel ##physics
+[05:52.30] * dominus_ is now known as rikut
+[05:52.33] * pulse (~pulse@unaffiliated/pulse) has joined channel ##physics
+[05:55.10] * ^peter^ (peter@30.0.168.125.sta.wbroadband.net.au) Quit ()
+[05:56.01] * ValicekB (~tbox@dot.snat.baz.cz) has joined channel ##physics
+[06:02.57] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[06:04.25] * Fiki_ (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##physics
+[06:05.17] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) Quit (Read error: Connection reset by peer)
+[06:05.27] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) has joined channel ##physics
+[06:07.59] * rdrandrng (~intel@105.102.127.248) has left ##physics ()
+[06:08.10] * Fiki (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) Quit (Ping timeout: 250 seconds)
+[06:08.36] * curiousguy13 (~curiousgu@125.19.38.42) Quit (Ping timeout: 255 seconds)
+[06:12.45] * acetoline (~alireza@122-59-94-217.jetstream.xtra.co.nz) Quit (Ping timeout: 244 seconds)
+[06:17.48] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)
+[06:18.14] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) has joined channel ##physics
+[06:19.35] * curiousguy13 (~curiousgu@202.56.234.34) has joined channel ##physics
+[06:19.36] * superkuh (~superkuh@unaffiliated/superkuh) Quit (Ping timeout: 252 seconds)
+[06:20.08] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[06:20.45] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 250 seconds)
+[06:21.15] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) Quit (Ping timeout: 246 seconds)
+[06:22.46] * superkuh (~superkuh@unaffiliated/superkuh) has joined channel ##physics
+[06:26.07] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) has joined channel ##physics
+[06:26.15] * uv_ (~uv@178-164-143-233.pool.digikabel.hu) has joined channel ##physics
+[06:32.22] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) Quit (Ping timeout: 245 seconds)
+[06:33.40] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) has joined channel ##physics
+[06:34.30] * TheBigDeal (~antar@unaffiliated/innocent99) has joined channel ##physics
+[06:35.58] * curiousguy13 (~curiousgu@202.56.234.34) Quit (Ping timeout: 264 seconds)
+[06:47.31] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) Quit (Quit: kaffeetrauma)
+[06:51.11] * depate (~depate@wprt-4db6e6b2.pool.mediaWays.net) Quit (Ping timeout: 252 seconds)
+[06:51.40] * oinil (~noinil@fold.biophys.kyoto-u.ac.jp) has joined channel ##physics
+[06:55.14] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) has joined channel ##physics
+[06:58.56] * TheBigDeal (~antar@unaffiliated/innocent99) Quit (Ping timeout: 245 seconds)
+[07:00.53] * sw0rdfish (~JackBauer@unaffiliated/sw0rdfish) Quit (Ping timeout: 265 seconds)
+[07:01.05] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[07:01.46] * Guest61553 (~ldunn@ldunn.me) Quit (Changing host)
+[07:01.46] * Guest61553 (~ldunn@freenode/staff-emeritus/ldunn) has joined channel ##physics
+[07:01.49] * Guest61553 is now known as ldunn
+[07:07.37] * uv_ (~uv@178-164-143-233.pool.digikabel.hu) Quit (Remote host closed the connection)
+[07:08.32] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##physics
+[07:11.12] * TheBigDeal (~antar@unaffiliated/innocent99) has joined channel ##physics
+[07:18.53] * SohamG (~soham@117.195.4.52) has joined channel ##physics
+[07:19.35] <SohamG> Can someone give me a link to a guide on making davy's arc light?
+[07:20.17] * thomas (~thomas@freenode/staff/thomas) has joined channel ##physics
+[07:25.46] * Lis (~Lis@business-092-079-130-087.static.arcor-ip.net) has joined channel ##physics
+[07:26.37] <SpeedEvil> I'd start with a 3000V 1A power supply
+[07:26.47] <SpeedEvil> And a couple of electrodes arranged horizontally
+[07:27.04] <SpeedEvil> May be quite lethal if you get things wrong
+[07:27.11] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[07:27.32] <SpeedEvil> What do you actually want to make, and why
+[07:27.34] <SpeedEvil> ?
+[07:30.10] <SohamG> SpeedEvil, i want to make an arc lamp as a project for my school's exhibition on science day. Which CLEARLLY means NOT mean 3k volts.......
+[07:30.13] <SohamG> lol
+[07:30.26] <SpeedEvil> The original arc lamp used about that.
+[07:30.43] <SpeedEvil> you can do arc lamps with a welder on ~50V or so
+[07:31.23] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[07:31.34] <SohamG> SpeedEvil, I have seen designs with 18/12volt batteries...
+[07:32.07] <SpeedEvil> Sure. The original version was ~3000V. Depends what sort of lamp you want.
+[07:32.19] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) has joined channel ##physics
+[07:32.20] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 256 seconds)
+[07:32.50] <SohamG> I want a demonstration purpose lamp, not something that lights up the room...
+[07:33.06] <SpeedEvil> Small carbon arc lamps don't really exist
+[07:33.14] <SpeedEvil> unless perhaps you mean under vacuum
+[07:33.17] <SpeedEvil> they don't scale
+[07:33.49] * phykyew (~despicabl@103.246.106.24) Quit (Ping timeout: 255 seconds)
+[07:34.08] <SohamG> ＋＋http://www.instructables.com/id/Carbon-Arc-Lights/step3/Extracting-the-Carbon-Rods/，，   ＋＋http://www.make-digital.com/make/vol20?pg=168#pg170，， are some of the designs I found...
+[07:34.11] <SohamG> SpeedEvil, ^
+[07:35.16] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[07:35.34] <SpeedEvil> ＋＋http://www.ebay.co.uk/itm/Vintage-Eveready-Sunshine-Carbon-Arc-Lamp-for-Parts-/161583821045?pt=LH_DefaultDomain_0&hash=item259f2570f5，，
+[07:35.48] <SohamG> SpeedEvil, should I just replicate the make-digital one?
+[07:36.05] <SpeedEvil> If it does what you want, sure
+[07:36.35] * expo873 (uid11626@gateway/web/irccloud.com/x-mqgcvqyizxemcwok) Quit (Quit: Connection closed for inactivity)
+[07:36.40] <SohamG> SpeedEvil, a) I dont have that high of a budget for buying that and b) I cant just put stuff from ebay as my contribution to the exhibition...:P
+[07:37.05] <SpeedEvil> A welder would make it lots easier.
+[07:37.12] * MulleDK19 (MulleDK19@0120000080.0.fullrate.dk) Quit (Ping timeout: 265 seconds)
+[07:37.22] * crayons_melting (~crayons_m@c211-31-63-46.kelvn3.qld.optusnet.com.au) has joined channel ##physics
+[07:37.24] <SpeedEvil> Be aware that it does make lots of UV
+[07:37.35] <SpeedEvil> you need for safety to put it inside a UV absorbing case
+[07:37.42] <SohamG> I know..... but glass should stop that...
+[07:37.49] <SpeedEvil> sure
+[07:37.50] * crayons_melting (~crayons_m@c211-31-63-46.kelvn3.qld.optusnet.com.au) has left ##physics ()
+[07:38.10] <SpeedEvil> ＋＋http://www.ebay.co.uk/itm/100-Amp-Arc-welder-Stick-Metal-Steel-Welder-240v-100A-Electric-with-Accessories-/381031700342?pt=LH_DefaultDomain_3&hash=item58b7425776，， - for example would be ideal for the PSU
+[07:38.17] <SpeedEvil> tehre are often great bargains - locally
+[07:38.25] <SohamG> do you think any mod. are req to the make-digital one>?
+[07:38.58] <SohamG> SpeedEvil, I can get away 12/18v batteries, right?'
+[07:39.05] <SpeedEvil> 18V batteries?
+[07:39.08] * Aune (~arne@bishibosh.lysator.liu.se) has joined channel ##physics
+[07:39.27] <SohamG> battery packs....or whatever they are :P
+[07:39.39] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) has joined channel ##physics
+[07:40.46] <SpeedEvil> It's probably more sane to use a car battery
+[07:41.08] <SpeedEvil> Or a welder as a power source
+[07:41.41] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[07:41.44] <SpeedEvil> ＋＋http://www.ebay.co.uk/itm/SIP-140-ARC-WELDER-ELECTRIC-240V-STICK-WELDER-/191511060012?pt=LH_DefaultDomain_3&hash=item2c96f2de2c，， - an example of what you might find locally
+[07:41.58] <SpeedEvil> ＋＋http://www.ebay.co.uk/itm/OK-Carbon-Arc-Gouging-Rods-8mm-12-50-in-total-/281576638201?pt=LH_DefaultDomain_3&hash=item418f4686f9，，
+[07:43.37] <SohamG> SpeedEvil, why is it 'more sane'? I am not trying to be 'ideal' I just wanna have an arc between the electrodes...
+[07:44.05] <SpeedEvil> because the drill battery may not relaiably work at all
+[07:44.12] <SpeedEvil> and may damage or destroy it
+[07:44.23] <SpeedEvil> And at best is goig to work for a few minutes
+[07:45.03] <SpeedEvil> It is designed to look good as a pretty project - not one that's actually easy for the amateur to construct
+[07:45.43] <SohamG> SpeedEvil, the damage-the-battery part is taken care of by using loops of nichrome wire as resistance...
+[07:46.08] <SpeedEvil> Sure.
+[07:46.20] <SpeedEvil> If you have specs on the battery - and are monitoring the discharge voltage
+[07:47.11] <SohamG> SpeedEvil, did you read the make-digital article I linked above :P
+[07:47.45] <SpeedEvil> yes, it contains not adequate information to make something that works.
+[07:48.13] <SpeedEvil> Guage of the nichrome wire, for example. How to work out how muchlength you need for a given diameter. How not to burn it up
+[07:48.51] * Beetny (~Beetny@14-202-48-200.tpgi.com.au) Quit (Ping timeout: 252 seconds)
+[07:49.20] <SohamG> SpeedEvil, man..this is getting complicated.....
+[07:49.47] <SpeedEvil> Also - some drill batteries require various interlock signals drom the drill,before tehy will provide power
+[07:50.20] * massless (~loop3@177.42.51.79) has joined channel ##physics
+[07:50.39] <SohamG> SpeedEvil, I dont have much of a budget....thats why i am looking at 12/18v ones......it's like the more money you put in the better...
+[07:51.52] <SpeedEvil> A working rechargable drill battery will not be that much  cheaper than a used welder.
+[07:52.41] <SohamG> see.....the point of an exhibition is that you  make everything YOURSELF....:P
+[07:54.58] * depate (~depate@wprt-4db6e6b2.pool.mediaWays.net) has joined channel ##physics
+[07:57.23] * resttime (~resttime@host-18-42.ilurcco.clients.pavlovmedia.com) Quit (Quit: resttime)
+[08:00.57] * fstd (~fstd@unaffiliated/fisted) Quit (Remote host closed the connection)
+[08:01.48] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[08:07.12] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) has joined channel ##physics
+[08:08.54] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) Quit (Client Quit)
+[08:12.26] <SpeedEvil> Which you're not doing if you buy a rechargeable battery
+[08:12.55] <SpeedEvil> you can make - just about - lead acid batteries at home, if you have a supply of glass, lead, and sulphur.
+[08:13.37] * mueslo_ (~quassel@p54B4155E.dip0.t-ipconnect.de) has joined channel ##physics
+[08:17.42] * caramel (~caramel@unaffiliated/caramel) Quit (Read error: Connection reset by peer)
+[08:20.09] * BossKonaSegwaY (~Michael@cpe-65-27-230-132.cinci.res.rr.com) Quit (Read error: Connection reset by peer)
+[08:21.18] * firenedo (~x@host-239.180-235-182.cable.dynamic.kbtelecom.net) Quit ()
+[08:21.33] * oleo (~oleo@unaffiliated/oleo) has joined channel ##physics
+[08:22.09] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[08:22.29] * CapsAdmin (~CapsAdmin@109.199.217.23) Quit (Quit: Leaving)
+[08:22.44] * CapsAdmin (~CapsAdmin@109.199.217.23) has joined channel ##physics
+[08:23.03] * main (~main@abem178.neoplus.adsl.tpnet.pl) has joined channel ##physics
+[08:23.16] <SohamG> SpeedEvil, everything as in everything possible.....I cant sit around making my own copper wires...xP
+[08:23.17] * oleo__ (~oleo@unaffiliated/oleo) Quit (Ping timeout: 246 seconds)
+[08:23.45] * jj_konk (~jj@37.228.204.29) Quit (Ping timeout: 252 seconds)
+[08:23.53] <SpeedEvil> It's fun!
+[08:24.01] <SpeedEvil> All you need is a block of copper, and a draw-plate
+[08:25.56] * Erraunt (~main@acqe164.neoplus.adsl.tpnet.pl) Quit (Ping timeout: 250 seconds)
+[08:27.32] * apetiss (~apetiss@host-37-191-202-2.lynet.no) has joined channel ##physics
+[08:28.43] <SohamG> SpeedEvil, must. make. block of copper. yourself xD
+[08:33.33] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[08:36.46] * WaffleZ (wafflez@unaffiliated/wafflez) Quit (Ping timeout: 265 seconds)
+[08:37.18] * johnflux (~johnflux@konversation/developer/JohnFlux) Quit (Ping timeout: 246 seconds)
+[08:38.40] * WaffleZ (wafflez@unaffiliated/wafflez) has joined channel ##physics
+[08:38.41] <SohamG> SpeedEvil, and I can use a non-alkaline cell to get a carbon rod, right? i.e. the only problem being messier chemicals on the floor
+[08:40.09] * wukong (~wukong@38.sub-70-196-2.myvzw.com) has joined channel ##physics
+[08:40.36] * UidX (~UidX@unaffiliated/uidx) has joined channel ##physics
+[08:40.38] <SpeedEvil> I would strongly advise agaisnt it
+[08:40.42] <UidX> hu
+[08:40.44] <UidX> hi*
+[08:40.52] <SpeedEvil> you are efficiently evaporating any liquid in the rod into the air
+[08:41.27] <SohamG> oh.....but I have dissected non-alkaline's in the past....
+[08:42.15] * Flerb (~will@unaffiliated/willdude123) Quit (Ping timeout: 255 seconds)
+[08:42.29] * blablaa (~z@unaffiliated/blablaa) has joined channel ##physics
+[08:43.59] * Flerb (~will@162.220.240.120) has joined channel ##physics
+[08:43.59] * Flerb (~will@162.220.240.120) Quit (Changing host)
+[08:43.59] * Flerb (~will@unaffiliated/willdude123) has joined channel ##physics
+[08:44.02] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) has joined channel ##physics
+[08:45.14] * pierre1_ (~pierre1@189.122.208.96) has joined channel ##physics
+[08:52.19] * veek (~veek@unaffiliated/veek) has joined channel ##physics
+[08:52.36] <veek> ＋＋http://imgur.com/cmpESKr，， ＋＋http://imgur.com/kyOpv9e，， can someone explain this..
+[08:52.44] * pierre1_ (~pierre1@189.122.208.96) Quit (Ping timeout: 244 seconds)
+[08:52.46] <veek> "distance between measurable changes..."
+[08:53.35] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[09:01.23] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Ping timeout: 240 seconds)
+[09:04.24] * pierre1_ (~pierre1@189.122.208.96) has joined channel ##physics
+[09:07.45] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[09:07.51] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[09:08.24] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 255 seconds)
+[09:12.23] * Viper168 (~Viper@unaffiliated/viper168) Quit (Ping timeout: 256 seconds)
+[09:14.09] * zyxw (~zyx@esp64-2-83-155-176-36.fbx.proxad.net) has joined channel ##physics
+[09:14.46] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) has joined channel ##physics
+[09:17.52] <fahadash> This MPI reading says a Blackhole is not a solid matter, but a portion of space with some weird properties. So there is no matter in Blackhole at all? I thought there was something called Singularity.
+[09:18.48] <SpeedEvil> The singularity is not matter
+[09:19.09] <KAHR-Alpha> veek: distance between two points in space for which the temperature difference is measurable
+[09:19.27] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[09:19.47] <fahadash> SpeedEvil, What is it then?
+[09:20.24] <mortdeus> fahadash, its not solid matter. There is still physical stuff inside its just important to understand that inside a black hole things are very chaotic, much like the first early moments right after the bang bang.
+[09:20.28] <mortdeus> big bang*
+[09:20.47] <veek> KAHR-Alpha, right, okay why does he multiply vs adding.. i can't visualise that
+[09:20.53] <fahadash> mortdeus, Plasma then?
+[09:21.13] * oinil (~noinil@fold.biophys.kyoto-u.ac.jp) Quit (Ping timeout: 250 seconds)
+[09:21.39] * Drashta (~drashta@unaffiliated/drashta) has joined channel ##physics
+[09:21.41] <KAHR-Alpha> veek: multiply what?
+[09:21.50] <veek> he's multiplying the two rates
+[09:22.15] <mortdeus> fahadash, its more complicated then that.
+[09:22.23] <KAHR-Alpha> that doesn't seem to be part of what you pasted
+[09:22.23] <veek> rate of change of the function wrt 'x' * rate of change of 'x'
+[09:22.42] <SpeedEvil> In a very real sense - the inside of a black hole is not in our universe.
+[09:22.47] <fahadash> mortdeus, Are there basic particles like neutrons? or hadrons, gluons?
+[09:22.54] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[09:23.03] <veek> KAHR-Alpha, ah hmm darn a sec
+[09:23.51] <mortdeus> fahadash, im looking for a video you should watch
+[09:24.00] <fahadash> Thank you
+[09:24.08] <veek> KAHR-Alpha, ＋＋http://imgur.com/8FlGwMq，，
+[09:24.09] * Drashta (~drashta@unaffiliated/drashta) Quit (Remote host closed the connection)
+[09:24.37] <mortdeus> fahadash, ＋＋https://www.youtube.com/watch?v=2DIl3Hfh9tY，，
+[09:25.39] <xihr> anything inside a black hole hits the singularity in finite time
+[09:25.58] * Drashta (~drashta@unaffiliated/drashta) has joined channel ##physics
+[09:25.59] <xihr> even if quantum gravity comes to save things, anything falling in is utterly destroyed, no matter what its final state ends up being
+[09:26.00] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[09:26.01] * napster (~textual@117.253.166.239) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[09:26.07] * WaffleZ (wafflez@unaffiliated/wafflez) Quit (Ping timeout: 265 seconds)
+[09:26.15] <mortdeus> xihr, thats not necessarily true.
+[09:26.23] * napster (~textual@117.253.166.239) has joined channel ##physics
+[09:26.29] <mortdeus> xihr, watch the video I just posted.
+[09:26.41] <xihr> that is not relevant to the general comment
+[09:26.47] <KAHR-Alpha> veek: you mean the "function with x (df/dx)" part?
+[09:27.08] <xihr> what you end up with in a full theory of quantum gravity is unknown, but QG forces dominate only very, very close to the classical singularity
+[09:27.35] <xihr> the holographic principle is simply about mapping what INFORMATION it swallowed to a surface, not what useful state that matter might be in
+[09:28.10] <KAHR-Alpha> quick, paste some verlinde paper!
+[09:28.57] * WaffleZ (wafflez@copper.sllabs.com) has joined channel ##physics
+[09:28.57] * WaffleZ (wafflez@copper.sllabs.com) Quit (Changing host)
+[09:28.57] * WaffleZ (wafflez@unaffiliated/wafflez) has joined channel ##physics
+[09:29.19] * ubernoob12 (~gorav5@nat-eduroam5.uni-saarland.de) has joined channel ##physics
+[09:29.35] * KAHR-Alpha pokes veek
+[09:29.53] * veek (~veek@unaffiliated/veek) Quit (Ping timeout: 272 seconds)
+[09:30.27] * veek (~veek@unaffiliated/veek) has joined channel ##physics
+[09:30.35] <veek> darn disconnected! grr
+[09:30.43] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Ping timeout: 245 seconds)
+[09:30.52] <KAHR-Alpha> veek: you mean the "function with x (df/dx)" part?
+[09:30.53] * napster (~textual@117.253.166.239) Quit (Ping timeout: 252 seconds)
+[09:31.00] * Drashta (~drashta@unaffiliated/drashta) Quit (Remote host closed the connection)
+[09:31.00] * telex (teletype@freeshell.de) Quit (Remote host closed the connection)
+[09:32.12] * Drashta (~drashta@unaffiliated/drashta) has joined channel ##physics
+[09:32.21] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[09:32.32] * Drashta (~drashta@unaffiliated/drashta) Quit (Remote host closed the connection)
+[09:32.35] <veek> KAHR-Alpha, nope.. i'm just wondering why he's multiplying the two rates of change (5th last line) ＋＋http://imgur.com/8FlGwMq，，
+[09:32.46] * telex (teletype@freeshell.de) has joined channel ##physics
+[09:33.14] <KAHR-Alpha> veek: equation 2.27?
+[09:33.30] <veek> KAHR-Alpha, ah yep.. but why the multiply
+[09:35.42] <KAHR-Alpha> well, it's a calculus thing
+[09:36.36] <KAHR-Alpha> veek: ＋＋http://en.wikipedia.org/wiki/Exact_differential，，
+[09:36.50] * xyzwhatever (~xyzwhatev@ee-ibt-hpx-dock-1-232.ethz.ch) has left ##physics ()
+[09:37.42] <mortdeus> xihr, yes it is because the idea that a blackhole destroys information is a pretty outrageous axiom to accept considering we have have proven that destroying information is a pardox in our universe.
+[09:37.56] * jidiculous (uid64981@gateway/web/irccloud.com/x-focwnqdorryndepw) has joined channel ##physics
+[09:38.43] <xihr> mortdeus: that issue is still unresolved, but "not destroying information" has nothing to do with "any useful structure at all is retained inside the black hole," as I already pointed out
+[09:39.14] <xihr> tidal forces near the classical singularity tear ATOMS apart long before you get into the QG realm
+[09:39.16] <fahadash> mortdeus, This guy is saying that "erasing bits" from computers means "ejecting them out of computer", while erasing bits really mean is replacing them with another. A bit is just a state in flip-flop.
+[09:39.18] <veek> KAHR-Alpha, hmm nm, got it, talking to you cleared it up :p
+[09:39.30] <KAHR-Alpha> mortdeus: what happens when I'm deleting files then?
+[09:40.02] <xihr> i.e., nothing he's saying there has anything to do with anything useful being inside the black hole
+[09:42.35] <fahadash> KAHR-Alpha, To be precise depends on file-system. But many file systems just erase the "link" in allocation-table.
+[09:43.27] <mortdeus> we would have to accept that information is never destroyed anywhere in the universe; except inside blackholes. It's enough of a ludicrous idea, that Einstein didn't believe black holes were out there, despite accepting the theoretical reality that the universe allows them to exist.
+[09:43.37] <xihr> mortdeus: you're not reading
+[09:44.09] <xihr> even if AdS/CFT is right (and its implications are not understood), information not being destroyed doesn't mean that the information is arranged in a useful way inside a black hole
+[09:44.37] <xihr> things are smashed and ruined beyond all recognizability in a black hole, before QG effects dominate
+[09:44.49] <xihr> in short, AdS/CFT or no, what you said is simply not true
+[09:45.02] <KAHR-Alpha> fahadash: what about a low level formatting?
+[09:45.44] <xihr> the special weirdness involving firewalls, etc. (just a guess as to how to resolve the paradox, which is just as weird as the other solutions, such as violation of conservation of information) have to do with entangled particles in Hawking radiation, not anything previously inside the black hole
+[09:46.07] * Drashta (~drashta@unaffiliated/drashta) has joined channel ##physics
+[09:46.15] <mortdeus> and the fact is we have seen damning evidence that they exist out there; so now we have to ask ourselves what makes blackholes so special that they get to break the universe; yet the universe doesn't implode or anything.
+[09:46.20] * zhangyh_ (~zhangyh@192.241.220.85) has joined channel ##physics
+[09:46.27] <xihr> still not reading
+[09:46.43] <fahadash> KAHR-Alpha, Low level formats reset every magnetic bit on the disc in case of hdd
+[09:47.12] <mortdeus> fahadash, he is talking about the photons
+[09:47.31] * _Atom_ (~jawat@172.56.38.86) has joined channel ##physics
+[09:47.56] * Drashta (~drashta@unaffiliated/drashta) Quit (Remote host closed the connection)
+[09:48.05] <mortdeus> fahadash, read einstein's the photo electric effect to understand what he means.
+[09:48.41] <SpeedEvil> fahadash: there is no such thing as low level format in hard disks over 100MB
+[09:49.02] <mortdeus> xihr, the information is projected onside the outside of a blackhole.
+[09:49.36] <mortdeus> blehhh im too tired
+[09:49.52] <xihr> mortdeus: you still need to read what was I said, especially since I said it three times
+[09:50.03] <fahadash> SpeedEvil, Because it is too slow?
+[09:50.45] <mortdeus> xihr, mortdeus: that issue is still unresolved, but "not destroying information" has nothing to do with "any useful structure at all is retained inside the black hole," as I already pointed out
+[09:50.51] * Grimshaw (~Grimshaw@bl17-41-219.dsl.telepac.pt) has joined channel ##physics
+[09:50.52] <SpeedEvil> No, because hard disks have no absolute positioner in them like they did in the 80s
+[09:51.16] <KAHR-Alpha> SpeedEvil: what about SSDs?
+[09:51.50] <SpeedEvil> #not-physics on reflection
+[09:53.32] <mortdeus> xihr, the issue was that we were under the impression that blackholes took in information, whether its light, a planet, or your puppy dog toto; the fact is nobody would argue with the fact that if toto falls in a black hole he won't be a very happy dog for very long.
+[09:53.47] <mortdeus> he will be a pretty damn dead obliterated dog
+[09:53.50] * enthropy (~aavogt@65.92.35.183) has joined channel ##physics
+[09:54.06] <KAHR-Alpha> spaghettified dog
+[09:54.11] <xihr> yes, that was my point, which you obviously hadn't read until now
+[09:55.13] <mortdeus> but the issue we have is that once toto goes in, hawking radiation comes out and the black hole "evaporates".
+[09:55.57] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) has joined channel ##physics
+[09:57.18] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) Quit (Client Quit)
+[09:57.20] <mortdeus> which means after the blackhole dissipates were in a situation where we cant find the quantum sized bits of toto.
+[09:58.05] <xihr> no one knows the answer to that, so I don't know why you're still talking about it
+[09:58.08] <mortdeus> or rather we saw toto go in and now we couldn't prove he ever existed because the matter which once constituted him is just gone.
+[09:58.41] <mortdeus> the holographic principle presents a pretty damn compelling answer to where toto went.
+[09:59.22] <xihr> it's theoretical and disputed, but even if true, it has nothing to do with the conclusions you were stating earlier
+[09:59.50] <xihr> the interior could be completely static, leaving a remnant of mashed up "matter" that still has the same quantum information, just in a horribly jumbled, useless state
+[10:00.02] <xihr> conservation of information doesn't mean the information is easy to access
+[10:00.38] * SohamG_ (~soham@117.248.183.11) has joined channel ##physics
+[10:01.21] <mortdeus> xihr, " This MPI reading says a Blackhole is not a solid matter, but a portion of space with some weird properties. So there is no matter in Blackhole at all? I thought there was something called Singularity.",    That doesn't mean that blackholes don't contain matter.*
+[10:01.39] * SohamG (~soham@117.195.4.52) Quit (Ping timeout: 264 seconds)
+[10:01.42] <mortdeus> thats my argument, he asked me if it was plasma and I said it was more complicated then that.
+[10:01.58] <xihr> what I've been saying this whole time is not inconsistent with that!
+[10:02.03] <xihr> yeesh
+[10:02.22] <xihr> that isn't what you first said; the interior is not like the "Big Bang"
+[10:04.06] * nebbia (~giuseppe@net-37-117-20-119.cust.vodafonedsl.it) has joined channel ##physics
+[10:04.27] * jj_konk (~jj@37.228.204.29) Quit (Read error: Connection reset by peer)
+[10:05.42] * Havis (~Havis@funtoo/user/havis) has joined channel ##physics
+[10:06.51] * badintegral (ca4eaca2@gateway/web/cgi-irc/kiwiirc.com/ip.202.78.172.162) has joined channel ##physics
+[10:07.36] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[10:08.24] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) has joined channel ##physics
+[10:08.40] <badintegral> A vessel of volume 5 cubic metres has 4.95 cubic metres of saturated water and rest saturated vapor at 0.1 MPa. Heat is supplied until vessel is filled with unsaturated vapor. Determine heat transfer.
+[10:08.48] * Fiki_ (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) Quit (Ping timeout: 255 seconds)
+[10:08.51] <badintegral> My question is...
+[10:09.02] * webley792 (irc2gowebc@67-150-125-90.lsan.mdsg-pacwest.com) has joined channel ##physics
+[10:09.08] <badintegral> I it possible to boil water in closed container?
+[10:09.19] * km00000 (~km00000@ip-18-16.net.ksu.edu) has joined channel ##physics
+[10:09.54] <webley792> if one knows a mass & its density is it possible to calculate the resulting warp of spacetime?
+[10:10.28] <xihr> webley792: sure; if it's sphereically symmetric, the external metric is just Schwarzschild
+[10:12.16] <fahadash> badintegral, That has to be thought with definition of 'boil'
+[10:12.17] <webley792> if one has a mass of 2M density D is the increase in the area/volume of spacetime greater, the same or less than 2 times a mass of M density D?
+[10:12.17] <mortdeus> xihr, I said the state of matter is similar in the sense that its chaotic and thinking of matter inside of a black hole in terms of protons and neutrons is probably not the right way to interpret matter in those kind of conditions.
+[10:12.53] * Se-bash (~seba@unaffiliated/se-bash) has joined channel ##physics
+[10:13.05] * badintegral (ca4eaca2@gateway/web/cgi-irc/kiwiirc.com/ip.202.78.172.162) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[10:13.41] <xihr> it may be completely static, as I already said; no one knows
+[10:14.08] * anthrnm (~vandrew@86.126.96.29) has joined channel ##physics
+[10:15.02] * TeXbot (~TeXbot@205.167.126.240) Quit (Ping timeout: 244 seconds)
+[10:15.09] * TeXbot (~TeXbot@205.167.126.240) has joined channel ##physics
+[10:15.36] <mortdeus> xihr, in some sense it is static.
+[10:15.42] <xihr> :-/
+[10:15.52] <mortdeus> atleast for an observer looking at somebody who jumps in.
+[10:16.20] * CapsAdmin is now known as testtt
+[10:16.26] * testtt is now known as CapsAdmin
+[10:18.32] * veek (~veek@unaffiliated/veek) Quit (Excess Flood)
+[10:19.03] * Guest15 (~textual@cpc1-heme11-2-0-cust438.9-1.cable.virginm.net) has joined channel ##physics
+[10:19.32] * nfk (~nfk@unaffiliated/nfk) has joined channel ##physics
+[10:19.49] * enlightified (~amir@77.231.164.225) Quit (Quit: Leaving.)
+[10:20.09] * rosalindwills (~Rosalind@209.64.168.66) has joined channel ##physics
+[10:20.23] * Ebola-C (ROMA@213.180.118.42) has joined channel ##physics
+[10:21.06] * s3v3n62mm (~s3v3n62mm@p5DDC2820.dip0.t-ipconnect.de) has joined channel ##physics
+[10:21.33] * veek (~veek@unaffiliated/veek) has joined channel ##physics
+[10:23.26] <webley792> does bringing two equal mass bodies together, reduce the sum total curvature of spacetime?
+[10:24.18] * jj_konk (~jj@37.228.204.29) Quit (Quit: Leaving)
+[10:24.36] <mortdeus> I mean the implication that black holes can swallow light, and everything we know about the motion of bodies moving through spacetime suggest that as we approach the speed of light we essentially slow time to a point that 1 of our years could be 100,000,000,000 years relative to somembody on earth, and every little push gets us closer and closer to that becoming a billions -> trillions -> quadrillion years. (although its worth pointing out that blackh
+[10:24.36] <mortdeus> oles likely won't last that long, even the supermassive ones)
+[10:24.36] * jj_konk (~jj@37.228.204.29) has joined channel ##physics
+[10:25.22] <xihr> bleep bloop boop
+[10:25.32] <mortdeus> if you were to fall into a blackhole for the most part you are in an environment where time does essentially stop.
+[10:25.36] <xihr> black holes last much, much longer than that, you're rambling
+[10:25.49] <mortdeus> trillions of years??
+[10:26.02] <xihr> 10^66 yr for a solar mass black hole with zero cosmic background radiation
+[10:26.15] <xihr> and no, you're not; you near the singularity and are ripped to shreds in 10^-5 s of proper time per solar mass black hole
+[10:26.22] <xihr> enough rambling, already
+[10:28.27] * Fiki_ (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##physics
+[10:28.43] <webley792> if bringing two mass bodies together reduces the total increase volume/area of spacetime that would create a more efficient use of spacetime
+[10:29.01] * _Atom_ (~jawat@172.56.38.86) Quit (Ping timeout: 256 seconds)
+[10:30.07] <xihr> webley792: it creates more spacetime curvature, i.e., gravity, if that's what you mean
+[10:30.43] <webley792> more than the original sums added together?
+[10:31.38] <xihr> depends on the details; there'd likely be additional binding energy, for instance
+[10:31.58] <mortdeus> xihr, ＋＋http://arxiv.org/pdf/1401.5761v1.pdf，，  I wouldn't say "ripped to shreds" more like instantaneously combusted, and that would happen long before you even got close to the singularity.
+[10:32.36] <xihr> mortdeus: huhhhh, that's the firewall I mentioned, and it's a guess that's just as crazy as the other solutions ... no one knows what the resolution is ... as I've said several times
+[10:33.41] <webley792> it could be gravity is just spacetime finding a reduced total volume/area
+[10:33.48] <webley792> but only if the math is correct
+[10:33.56] * shminux (~shminux@unaffiliated/shminux) has joined channel ##physics
+[10:34.01] <xihr> webley792: that's been known since Newton
+[10:34.11] * veek (~veek@unaffiliated/veek) Quit (Ping timeout: 244 seconds)
+[10:35.43] <mortdeus> however from the perspective of the friends who are watching from afar after daring you to jump in; they are yellling at you to quit be a pansy and jump in already and there is no telling how long they are going to think you are just chilling there at the edge long after you had already been vaporized.
+[10:36.07] <xihr> ...
+[10:36.09] <xihr> no
+[10:36.13] <xihr> again, read
+[10:36.31] <xihr> QG or not, you approach the singularity in a very short amount of proper time after crossing the horizon
+[10:37.03] <xihr> from the outside, they never see you fall in; they're only seeing images (which rapidly become totally undetectable because of dimming and redshifting and the quantum nature of light)
+[10:37.07] <xihr> just, stop
+[10:38.50] <webley792> if one overlaps two curves it seems possible it would use less curvature of spacetime overall
+[10:39.07] <fahadash> Yeah, there was a video simulation of it. The person falling into a blackhole, outside observers see him coming to a point where he looks to be just staying still in that position
+[10:39.14] <webley792> is there a reasonably simple calculation for that?
+[10:39.28] <xihr> webley792: there's really nothing to do with "efficiency" or "less" ... spacetime cruvature IS gravity
+[10:39.29] <xihr> no
+[10:39.36] <xihr> you'd need to know GR and do numerical simulations
+[10:42.49] * visof (~visof@41.236.177.16) has joined channel ##physics
+[10:42.59] * visof (~visof@41.236.177.16) Quit (Changing host)
+[10:42.59] * visof (~visof@unaffiliated/visof) has joined channel ##physics
+[10:43.12] * Havis (~Havis@funtoo/user/havis) Quit (Quit: Leaving)
+[10:43.35] * webley792 (irc2gowebc@67-150-125-90.lsan.mdsg-pacwest.com) Quit (Ping timeout: 240 seconds)
+[10:44.25] <mortdeus> xihr, the point I was trying to make wasn't necessarily to say that they can still see you, but rather once you fall in then there is no telling how time dilation comes into effect because the gravity is so intense that even light cant escape it's will. You might be obliterated almost instantly after you jump in, but there is no telling how long even 1 ms is to you relative to an observer from earth. Atleast thats what I believe logic would seem to di
+[10:44.25] <mortdeus> ctate. Note that I am technically trying to validate your argument that it could theoretically be static in a black hole. I am trying to agree with you, but okay be a dick.
+[10:45.41] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) has joined channel ##physics
+[10:46.35] * webley (irc2gowebc@67-150-126-156.lsan.mdsg-pacwest.com) has joined channel ##physics
+[10:46.36] * etudor (~asdasdada@5-12-145-203.residential.rdsnet.ro) has joined channel ##physics
+[10:46.37] <xihr> there IS telling, this is well-understood and it's in the completely classical domain
+[10:47.25] <webley> the warp of spacetime happens independently on its own
+[10:47.44] * enlightified (~amir@73-37-103.uoc.es) has joined channel ##physics
+[10:47.46] <webley> gravity is the attractive 'force' between mass bodies
+[10:47.52] * Havis (~Havis@funtoo/user/havis) has joined channel ##physics
+[10:48.44] * zhangyh_ (~zhangyh@192.241.220.85) Quit (Quit: Leaving)
+[10:50.11] <webley> what would make sense to me is that the convergence of warps reduces the total warp
+[10:50.29] * mithenks (~eymerich@host82-247-static.21-80-b.business.telecomitalia.it) has joined channel ##physics
+[10:50.37] <xihr> webley: GR doesn't really correlate with what "makes sense" to you
+[10:50.41] <webley> but i don't know the math to prove or disprove it
+[10:51.14] <webley> gravity is 'lateral', the warp is 'vertical'
+[10:53.34] <webley> which would make gravity an effect of the cohesive force of spacetime
+[10:53.50] <webley> which is why it would be a very small thing
+[10:54.00] <xihr> :-/
+[10:55.06] <webley> and gravity would be spacetime finding a lower energy level
+[10:55.24] <webley> which would release energy
+[10:55.30] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##physics
+[10:55.44] <webley> and might add to the acceleration of spacetime expansion
+[10:56.04] <webley> but i don't know the math
+[10:56.28] <xihr> that's not the way it works, as I already said
+[10:56.53] <xihr> "more energy" != expansion of spacetime; it's only a very particular kind of energy that's not relevant to what you're talking about
+[10:57.08] <webley> it would be logical based on that initial premise
+[10:57.10] <xihr> i.e., no
+[10:57.13] <xihr> no, it is not at all
+[10:57.25] <xihr> you are just making things up; you keep admitting you don't know GR
+[10:59.47] <webley> gravity is an incredibly weak force, yes?
+[11:01.38] * uv (~uv@1F2E5151.dsl.pool.telekom.hu) Quit (Remote host closed the connection)
+[11:02.27] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Ping timeout: 255 seconds)
+[11:02.50] <webley> if gravity is the warp of space, why would bodies need to move closer together?
+[11:03.39] <xihr> read an introduction to GR
+[11:04.02] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[11:05.31] * asd5a (~asd5a@unaffiliated/asd6a) has joined channel ##physics
+[11:05.35] * etudor (~asdasdada@5-12-145-203.residential.rdsnet.ro) Quit (Quit: Leaving)
+[11:06.35] <mortdeus> gravity as described in GR is that we are all in free fall and the reason you fall to the earth is because space is being displaced by the mass of the earth and like a trampoline when you stand in the middle the trampoline's topology will bend to accomdate your weight; however in a sense you could claim that just as much as you are weighing the trampoline down, its also pushing you up via the tension of the springs.
+[11:06.56] <xihr> :-/
+[11:07.19] <mortdeus> I don't really like that description of gravity though
+[11:07.32] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) Quit (Read error: Connection reset by peer)
+[11:07.49] * Sir_Pony (~rawr@cpe-174-099-005-078.nc.res.rr.com) has joined channel ##physics
+[11:08.52] <xihr> it's an analogy, and one you're mangling terribly and taking way too literally (there is no equivalent of "tensions in the springs" in GR)
+[11:09.54] * webley (irc2gowebc@67-150-126-156.lsan.mdsg-pacwest.com) Quit (Ping timeout: 256 seconds)
+[11:10.55] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Quit: tmager)
+[11:11.00] * phykyew (~despicabl@103.246.106.24) has joined channel ##physics
+[11:13.03] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) has joined channel ##physics
+[11:13.29] <webley> got bumped, missed what someone was saying
+[11:14.50] <webley> for things to move only together, there must be a change of state
+[11:15.23] <webley> like a chemical reaction finding a local minimum
+[11:16.24] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[11:16.46] * UidX (~UidX@unaffiliated/uidx) Quit (Remote host closed the connection)
+[11:18.17] * jj_konk (~jj@37.228.204.29) Quit (Quit: Leaving)
+[11:19.29] <mortdeus> xihr, I know its more involved then that and I am not a fan of the spring analogy either but I didn't know to explain frame dragging and felt that it was important to note that space is a real enough substance that it can bend and ripple in ways that aren't immediately intuitive to us.
+[11:20.02] * Guest15 (~textual@cpc1-heme11-2-0-cust438.9-1.cable.virginm.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[11:20.43] <xihr> the analogy has nothing to do with springs, it's about objects following geodesics
+[11:22.06] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) has joined channel ##physics
+[11:22.56] <mortdeus> xihr, right. geodesics are the "springs" in my analogy so to speak. Fwiw I know that the trampoline analogy sucks but its the way it's explained in GR. :P
+[11:23.13] * enlightified (~amir@73-37-103.uoc.es) Quit (Ping timeout: 250 seconds)
+[11:23.32] <xihr> springs have nothing to do with the analogy, the analogy is simply about the curved surface (spacetime in actuality in GR)
+[11:23.41] <xihr> you are not even getting the analogy right
+[11:24.13] <Slereah> Spacetime is like a mountain lion
+[11:25.06] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[11:25.17] <mortdeus> that or the table cloth, however I think the table cloth is insufficient because space can rebound in chaotic fashion if say the sun were to disappear instantaneously. A table cloth doesn't snap back from its distorted topology when the object causing the distortion is removed.
+[11:25.45] * xihr facepalms
+[11:25.50] <mortdeus> The the more taught you make the table cloth, the further you could bounce an orange off it.
+[11:25.54] <mortdeus> :P
+[11:26.21] * zhangyh26258 (~zhangyh@192.241.220.85) Quit (Remote host closed the connection)
+[11:26.48] * anthrnm (~vandrew@86.126.96.29) Quit (Ping timeout: 252 seconds)
+[11:26.49] <webley> elastic surface on a fluid support?
+[11:27.21] <mortdeus> webley, no its wrong to think about it like that.
+[11:27.42] <webley> isn't it equally supported everywhere?
+[11:29.10] * merzo (~merzo@user-94-45-58-141.skif.com.ua) Quit (Ping timeout: 252 seconds)
+[11:30.21] <mortdeus> webley, what do you mean by supported?
+[11:31.07] <webley> it sort of has a general fixated plane that is only distorted by mass bodies?
+[11:31.07] * kaffeetrauma (~Thunderbi@n37.informatik.fh-dortmund.de) Quit (Quit: kaffeetrauma)
+[11:31.42] * Bojack (ae04ad12@gateway/web/cgi-irc/kiwiirc.com/ip.174.4.173.18) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[11:32.13] * cornusammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) has joined channel ##physics
+[11:32.14] <webley> and even there it is symetric
+[11:32.52] <mortdeus> webley, one thing that is important to add to the picture is the understanding that space is not static. The space around you is expanding away at a super fast rate, so to say its like elastic isn't right and there is no evidence to suggest we are expecting the universe to snap back like a rubberband.
+[11:33.14] * Grimshaw (~Grimshaw@bl17-41-219.dsl.telepac.pt) Quit (Read error: Connection reset by peer)
+[11:33.27] <webley> sort of like the cohesive force of spacetime is consistent
+[11:33.32] * enlightified (~amir@73-37-103.uoc.es) has joined channel ##physics
+[11:33.46] <webley> something has to give it continuity
+[11:33.59] <mortdeus> rather as far as we can tell the universe is going to expand forever.
+[11:34.27] <webley> but doesn't the warp follow a moving body?
+[11:34.27] <mortdeus> webley, dark matter/enegry.
+[11:34.50] <webley> which implies recovery in its wake?
+[11:35.12] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) Quit (Ping timeout: 246 seconds)
+[11:35.31] <webley> gravity is a function of proximity, which includes moving proimity
+[11:35.36] <webley> proximity
+[11:36.12] * SohamG_ (~soham@117.248.183.11) Quit (Remote host closed the connection)
+[11:36.15] <webley> otherwise objects would fall into a lingering troph
+[11:37.50] <mortdeus> webley, gravity is a bit more complex than being a function of proximity.
+[11:38.06] <b0g> can someone explain ＋＋http://www.physics.utah.edu/~woolf/2220_buehler/magnetism.pdf，， problem 3 in the 2nd scenario? admittedly im a little rusty on trig but i have no idea how the hell h = R - Rcos(theta) in this case
+[11:38.14] <b0g> basic magnetism problem
+[11:38.54] * Vivex (~Vivex@173-16-176-63.client.mchsi.com) Quit (Read error: Connection reset by peer)
+[11:38.55] <webley> certainly it increases with proxmity
+[11:40.22] * blight (~greg@chello212186028041.tirol.surfer.at) has joined channel ##physics
+[11:40.23] * blight (~greg@chello212186028041.tirol.surfer.at) Quit (Changing host)
+[11:40.23] * blight (~greg@reactos/developer/blight) has joined channel ##physics
+[11:40.23] * visof (~visof@unaffiliated/visof) Quit (Ping timeout: 252 seconds)
+[11:40.35] * shminux (~shminux@unaffiliated/shminux) Quit (Ping timeout: 250 seconds)
+[11:40.46] <mortdeus> the thing is, when you get closer to the earth of course gravity gets stronger, enough so that even the lightest and fastest moving elements in the universe get forced into our atmosphere.
+[11:40.56] <webley> if it were just a warp of spacetime they would just pile up and then flow past each other like waves on the ocean
+[11:41.14] <xihr> :-/
+[11:41.46] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) has joined channel ##physics
+[11:42.14] <webley> there must be a change of state for the warps to pile up as it were
+[11:42.39] * CustosL1men (~CustosLim@unaffiliated/cust0slim3n) Quit (Ping timeout: 264 seconds)
+[11:42.41] <webley> gravity is sticky?
+[11:42.44] <webley> jk
+[11:43.09] * dardevelin (~dardeveli@unaffiliated/dardevelin) has joined channel ##physics
+[11:43.28] <mortdeus> the thing is, when you are floating out in space, earths gravitational influence on you greatly diminishes pretty damn quickly. You don't have to travel that far out there to get out of Earth's orbit. So we could ask ourselves, have we reached the range of earth's gravitational field?
+[11:44.03] <webley> or at least that it is cancelled out by all the other weak gravity forces
+[11:44.06] * map (~maphry@host81-152-55-172.range81-152.btcentralplus.com) has joined channel ##physics
+[11:44.19] <mortdeus> No, we know we havent. Most nights we can look up in the sky and see evidence that earth's gravity extends far beyond its influence on us.
+[11:44.24] <webley> essentially flat space
+[11:44.30] * map is now known as Guest20255
+[11:45.19] * merzo (~merzo@user-94-45-58-141.skif.com.ua) has joined channel ##physics
+[11:45.28] <wukong> like a sleeping mountain lion
+[11:45.34] <mortdeus> The moon is alot further away than us when we fall out of orbit yet the moon is still stuck firmly within its grasp
+[11:46.23] <webley> i assume there is a low bridge between the fields of earth and moon
+[11:46.26] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Ping timeout: 252 seconds)
+[11:46.34] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) has joined channel ##physics
+[11:46.42] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[11:46.58] * arun_ (~arun@49.244.253.81) has joined channel ##physics
+[11:47.16] <webley> which is why it keeps circling around the earth
+[11:48.04] * paperbagcorner_ (~paperbagc@184.75.208.122) has joined channel ##physics
+[11:48.19] * Guest15 (~textual@cpc1-heme11-2-0-cust438.9-1.cable.virginm.net) has joined channel ##physics
+[11:49.14] <webley> a rational idea why two warps would stick together is perhaps because there is a reduced total area/volume of spacetime that way
+[11:50.23] <webley> a bit like slipstreaming maybe
+[11:50.37] <mortdeus> not only that, but now consider the sun. To us its about the size of a quarter in diameter when we look up at it from ground level. If we were to say that its mass and distance was directly porportional to the size of the moon and distance of earth. We would conclude logically that the sun might be hella far away but its as big as the moon and therefore it's mass must be atleast porportionally related to the moon's mass if you considered the distance.
+[11:51.03] * Maverick (~Maverick@unaffiliated/maverick) Quit (Read error: Connection reset by peer)
+[11:51.41] <webley> both fit in the same conical perspective
+[11:51.57] <mortdeus> it makes intuitive sense to say that if the earth can keep the moon in orbit, it makes sense that the sun can atleast keep a planet as porportionally far away as it is from us in its orbit when its as big as our moon in relative circumference from our vantage point.
+[11:52.01] * zorg24 (~zorg24@130.253.34.120) Quit (Ping timeout: 250 seconds)
+[11:52.23] <webley> it is a thought
+[11:52.50] <webley> although densities could be different
+[11:52.59] * CrazyH (~hakachuka@adsl-184-39-245-151.clt.bellsouth.net) Quit (Ping timeout: 276 seconds)
+[11:53.40] <mortdeus> the thing is, the sun has waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaayy more gravitational influence on its satellites than we do on the objects around us.
+[11:54.12] <webley> in a sense there would be relative, local 'flatness'
+[11:54.21] <mortdeus> I mean it keeps pluto in orbit and thats not even the furthest planetoid out there.
+[11:55.22] <webley> obviously a planet has more effect on its moon(s) than the sun alone does
+[11:55.39] <mortdeus> we couldn't keep the moon in orbit if it was all the way chilling where jupiter is (and all the planets out there magically went on vaction to the pinwheel galaxy for a day to make my point valid)
+[11:56.06] <webley> maybe if there was nothing else for lightyears
+[11:56.13] <webley> if it really was flat
+[11:56.29] <webley> then a tiny inclination might be enough
+[11:56.37] <webley> for a slow long orbit period
+[11:57.05] <mortdeus> so there is more to it than just to say that a big mass attracts a littler mass porportionally the same as you scale up and down.
+[11:57.15] <webley> it is all those gravity bumps that get in the way
+[11:57.40] <webley> it is mutual 'attraction'
+[11:58.20] <webley> sticking my foot in it, warp sharing
+[11:59.20] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) Quit (Quit: #libreoffice-calc)
+[11:59.53] * helasraizam (~helasraiz@cpe-24-92-60-48.nycap.res.rr.com) has joined channel ##physics
+[12:00.09] <mortdeus> there is a piece of the puzzle that we just don't quite understand really and thats when we consider quantum gravity.
+[12:00.15] <webley> if two bodies are autonomous then they might joint warps, but then they would move on out
+[12:00.40] * Xenolith (~Xenolith@unaffiliated/xenolith) has joined channel ##physics
+[12:00.43] <webley> to me it seems like something must change for them to stay together
+[12:01.34] <webley> achieving a lower energy state sounds sensible to me
+[12:02.16] <mortdeus> webley, well we know for one that space is expanding as an exponentially increasing rate. However we also know that space is being sucked in to the super massive blackhole in the center of our galaxy.
+[12:02.49] <SpeedEvil> No, we don't.
+[12:02.59] <webley> and by two objects sharing the same spacetime, they free up loose space
+[12:03.02] <SpeedEvil> The supermassive blackhole is fucking small.
+[12:03.13] <SpeedEvil> And a basically constant diameter
+[12:03.24] <SpeedEvil> Black holes do not suck in space.
+[12:03.34] <webley> there aren't microscopic black holes?
+[12:03.35] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) has joined channel ##physics
+[12:03.47] * paperbagcorner_ (~paperbagc@184.75.208.122) has left ##physics (("Konversation terminated!"))
+[12:05.19] <webley> a cohesive force of spacetime would be far more proportional to light that is rippling on/along spacetime
+[12:05.39] <mortdeus> SpeedEvil, Regardless we do know that the black hole in the middle of our galaxy is strong enough to have an influence to have every star in the milkey way orbit around it.
+[12:05.41] <webley> natural compliments
+[12:06.06] * cornusammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) Quit (Ping timeout: 256 seconds)
+[12:06.37] <mortdeus> maybe not a super fast orbit but enough for us to consider that we spin because blackholes do.
+[12:06.47] <webley> something must define what is in/of the universe and what is not
+[12:07.06] * cornusammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) has joined channel ##physics
+[12:07.55] <SpeedEvil> Brimming over with wrongness.
+[12:08.09] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) Quit (Ping timeout: 246 seconds)
+[12:08.12] <SpeedEvil> The black hole at the centre of the galaxy spins because the infalling matter spun.
+[12:08.13] <webley> but wrongness feels so good
+[12:08.31] <SpeedEvil> It continues to spin at exactly the ame speed as it would without that black hole
+[12:08.36] <webley> maybe it is the corellas effect of a spinning universe
+[12:09.44] * heili (~nein@73.174.61.121) Quit (Ping timeout: 240 seconds)
+[12:09.45] * CapsAdmin is now known as testtt
+[12:09.47] * testtt is now known as CapsAdmin
+[12:11.37] <mortdeus> SpeedEvil, of course I understand that things were spinning and orbiting around each other before the supermassive blackhole in our galaxy existed.
+[12:12.02] <webley> can anyone tell me how to calculate the total curvature of spacetime for a given mass of a given density?
+[12:13.02] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) has joined channel ##physics
+[12:14.12] * KAHR-Alpha_ (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) has joined channel ##physics
+[12:14.33] <mortdeus> however, the uniformity of the milkey way rotating as an entire galaxy, suggests that the massive gravity at the center of our galaxy seems to spin in a way that influences everything else to start orbiting around it.
+[12:25.52] * tomaw (tom@freenode/staff/tomaw) Quit (*.net *.split)
+[12:25.52] * nebbia (~giuseppe@net-37-117-20-119.cust.vodafonedsl.it) Quit (*.net *.split)
+[12:25.52] * CapsAdmin (~CapsAdmin@109.199.217.23) Quit (*.net *.split)
+[12:25.52] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) Quit (*.net *.split)
+[12:25.52] * pulse (~pulse@unaffiliated/pulse) Quit (*.net *.split)
+[12:25.52] * chewyDelicious (~nooblet@101.98.199.224) Quit (*.net *.split)
+[12:25.52] * Alcc (~Alc@unaffiliated/lyn) Quit (*.net *.split)
+[12:25.52] * Verttone (~Verttone@188.235.1.7) Quit (*.net *.split)
+[12:25.52] * baus (baus@unaffiliated/baus) Quit (*.net *.split)
+[12:25.52] * aural (~aural@unaffiliated/necrodearia) Quit (*.net *.split)
+[12:25.52] * liara (~xzvf@80.79.126.176) Quit (*.net *.split)
+[12:25.52] * Pluto (~Kokor@189.122.217.48) Quit (*.net *.split)
+[12:25.52] * soypirate (~soypirate@74.60.8.227) Quit (*.net *.split)
+[12:25.52] * norg__ (yherro@55.109-247-138.customer.lyse.net) Quit (*.net *.split)
+[12:25.52] * Vohveli (jwkangas@melkki.cs.helsinki.fi) Quit (*.net *.split)
+[12:25.52] * mozzarella (~sam@unaffiliated/sam113101) Quit (*.net *.split)
+[12:25.53] * R0b0t1 (~dev@unaffiliated/r0b0t1) Quit (*.net *.split)
+[12:25.53] * diamat (~diamat@mlaugharn.com) Quit (*.net *.split)
+[12:25.53] * blight (~greg@reactos/developer/blight) Quit (*.net *.split)
+[12:25.53] * Havis (~Havis@funtoo/user/havis) Quit (*.net *.split)
+[12:25.53] * nfk (~nfk@unaffiliated/nfk) Quit (*.net *.split)
+[12:25.53] * WaffleZ (wafflez@unaffiliated/wafflez) Quit (*.net *.split)
+[12:25.53] * shikhin (~shikhin@unaffiliated/shikhin) Quit (*.net *.split)
+[12:25.53] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) Quit (*.net *.split)
+[12:25.53] * Tamae (~Tamae@mna75-1-81-57-129-31.fbx.proxad.net) Quit (*.net *.split)
+[12:25.53] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) Quit (*.net *.split)
+[12:25.53] * SiegeX (~SiegeX@unaffiliated/siegex) Quit (*.net *.split)
+[12:25.53] * moei (~moei@softbank221078042071.bbtec.net) Quit (*.net *.split)
+[12:25.53] * Brando753 (~Brando753@unaffiliated/brando753) Quit (*.net *.split)
+[12:25.53] * jackal^ (jackal@jackal6.efnet.at) Quit (*.net *.split)
+[12:25.53] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-mkhxjdijpjaalbta) Quit (*.net *.split)
+[12:25.53] * woo2 (~woo2@unaffiliated/woo2) Quit (*.net *.split)
+[12:25.53] * MKCoin (~MK@unaffiliated/mk/x-7191235) Quit (*.net *.split)
+[12:25.54] * wirwe__ (~molenz@pool11.physik.hu-berlin.de) Quit (*.net *.split)
+[12:25.54] * belmont (~belmont@cl-130-49-6-176.wireless.pitt.edu) Quit (*.net *.split)
+[12:25.54] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) Quit (*.net *.split)
+[12:25.54] * g2` (g2@gateway/shell/yourbnc/x-ydologwrehadejxf) Quit (*.net *.split)
+[12:25.54] * benhunter09 (Ben@i.ate.your.coooki.es) Quit (*.net *.split)
+[12:25.54] * edenist (edenist@2600:3c01::f03c:91ff:fe6e:b2c8) Quit (*.net *.split)
+[12:25.54] * fractal (~fractal@unaffiliated/scounder) Quit (*.net *.split)
+[12:25.54] * Xenofon (Xenofon@unaffiliated/xenofon) Quit (*.net *.split)
+[12:25.54] * tdy (~tdy@unaffiliated/tdy) Quit (*.net *.split)
+[12:25.54] * tintu (~tintu@aibn1200.astro.uni-bonn.de) Quit (*.net *.split)
+[12:25.54] * kalz (~kalz@2602:fff6:f:29c9::2c33) Quit (*.net *.split)
+[12:25.55] * Hatamoto (~Hata@hlfxns016cw-156034031238.dhcp-dynamic.FibreOP.ns.bellaliant.net) Quit (*.net *.split)
+[12:25.55] * dock9 (sid49786@gateway/web/irccloud.com/x-vbqdzxxoayjlphbi) Quit (*.net *.split)
+[12:25.55] * berndj (~berndj@azna.co.za) Quit (*.net *.split)
+[12:25.55] * codehero (codehero@i.have.ipv6.on.coding4coffee.org) Quit (*.net *.split)
+[12:25.55] * rwg (~rwg@awos/tester/rwg) Quit (*.net *.split)
+[12:25.55] * mpk (~mp@aggr.com) Quit (*.net *.split)
+[12:25.56] * CCFL_Man (bca15083da@pool-71-161-241-139.sctnpa.east.verizon.net) Quit (*.net *.split)
+[12:25.56] * TTimoNN (~TTimoNN@tt.cloud.tilaa.com) Quit (*.net *.split)
+[12:25.56] * arun_ (~arun@49.244.253.81) Quit (*.net *.split)
+[12:25.56] * enlightified (~amir@73-37-103.uoc.es) Quit (*.net *.split)
+[12:25.56] * Viper168 (~Viper@unaffiliated/viper168) Quit (*.net *.split)
+[12:25.56] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) Quit (*.net *.split)
+[12:25.56] * mxiia (~mxiia@unaffiliated/mxiia) Quit (*.net *.split)
+[12:25.56] * githogori_ (~githogori@c-98-234-68-44.hsd1.ca.comcast.net) Quit (*.net *.split)
+[12:25.56] * heril_ (~heril@demoseen.com) Quit (*.net *.split)
+[12:25.56] * davor (~davor@unaffiliated/davor) Quit (*.net *.split)
+[12:25.56] * Puppet` (~Puppet@73.22.162.96) Quit (*.net *.split)
+[12:25.56] * splitter (~paul@leonardo.netwichtig.de) Quit (*.net *.split)
+[12:25.56] * niko (~niko@freenode/staff/ubuntu.member.niko) Quit (*.net *.split)
+[12:25.56] * kachoufuugetsu (~getsu@130.159.149.215) Quit (*.net *.split)
+[12:25.57] * emma (~em@unaffiliated/emma) Quit (*.net *.split)
+[12:25.57] * klap (~sold_not_@ks360056.kimsufi.com) Quit (*.net *.split)
+[12:25.57] * dualbus (~dualbus@dualbus.me) Quit (*.net *.split)
+[12:25.57] * koollman (samson_t@sp1.kooll.info) Quit (*.net *.split)
+[12:25.57] * UukGoblin (~jaa@unaffiliated/uukgoblin) Quit (*.net *.split)
+[12:25.57] * sujeet (sujeet@unaffiliated/freeboson) Quit (*.net *.split)
+[12:25.57] * seev (~seev@73.163.172.107) Quit (*.net *.split)
+[12:25.57] * CaveJohnson (Matrixiumn@unaffiliated/matrixiumn) Quit (*.net *.split)
+[12:25.57] * kstar (~kstar@kde/asimha) Quit (*.net *.split)
+[12:25.58] * pppingme (~pppingme@unaffiliated/pppingme) Quit (*.net *.split)
+[12:25.58] * erdic (~erdic@unaffiliated/motley) Quit (*.net *.split)
+[12:25.58] * wilornel_ (~ubuntu@ec2-54-68-25-61.us-west-2.compute.amazonaws.com) Quit (*.net *.split)
+[12:25.58] * acg (~micronesi@unaffiliated/acg) Quit (*.net *.split)
+[12:25.58] * mrdata (~mrdata@unaffiliated/mrdata) Quit (*.net *.split)
+[12:25.58] * rudi91 (~rudi95@unaffiliated/rudi95) Quit (*.net *.split)
+[12:25.58] * dirac (dirac@unaffiliated/freeboson/bot/dirac) Quit (*.net *.split)
+[12:25.58] * dustinm (~dustinm@105.ip-167-114-152.net) Quit (*.net *.split)
+[12:25.58] * piccata (~irenacob@li629-190.members.linode.com) Quit (*.net *.split)
+[12:25.58] * albertig (albertig@shell.onid.oregonstate.edu) Quit (*.net *.split)
+[12:25.58] * malglim (~malglim@78.46.45.78) Quit (*.net *.split)
+[12:25.59] * jxport (~sold_not_@ks360056.kimsufi.com) Quit (*.net *.split)
+[12:25.59] * cynicalcats (~cynicalca@c-50-170-239-77.hsd1.co.comcast.net) Quit (*.net *.split)
+[12:25.59] * Clerian (~clerian@193.170.93.244) Quit (*.net *.split)
+[12:25.59] * JohnDory (JohnDory@rouk.org) Quit (*.net *.split)
+[12:25.59] * wito_ (~wito@totlandweb.info) Quit (*.net *.split)
+[12:25.59] * bofh__ (~bofh@corn-syrup.csclub.uwaterloo.ca) Quit (*.net *.split)
+[12:25.59] * Enthralled (~Enthralle@unaffiliated/dxdydz) Quit (*.net *.split)
+[12:25.59] * KAHR-Alpha_ (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) Quit (*.net *.split)
+[12:25.59] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (*.net *.split)
+[12:25.59] * TeXbot (~TeXbot@205.167.126.240) Quit (*.net *.split)
+[12:25.59] * km00000 (~km00000@ip-18-16.net.ksu.edu) Quit (*.net *.split)
+[12:25.59] * telex (teletype@freeshell.de) Quit (*.net *.split)
+[12:25.59] * unpro_ (~unpro@hack.us.org) Quit (*.net *.split)
+[12:25.59] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (*.net *.split)
+[12:25.59] * Ebola-C (ROMA@213.180.118.42) Quit (*.net *.split)
+[12:26.00] * fstd (~fstd@unaffiliated/fisted) Quit (*.net *.split)
+[12:26.00] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) Quit (*.net *.split)
+[12:26.00] * enterprisedc (~enterpris@ip68-109-198-52.oc.oc.cox.net) Quit (*.net *.split)
+[12:26.00] * LiquidOxygen (~off@ool-4579d24e.dyn.optonline.net) Quit (*.net *.split)
+[12:26.00] * CvP (~CvP@203.76.123.238) Quit (*.net *.split)
+[12:26.00] * Guest15 (~textual@cpc1-heme11-2-0-cust438.9-1.cable.virginm.net) Quit (*.net *.split)
+[12:26.00] * mithenks (~eymerich@host82-247-static.21-80-b.business.telecomitalia.it) Quit (*.net *.split)
+[12:26.00] * rosalindwills (~Rosalind@209.64.168.66) Quit (*.net *.split)
+[12:26.00] * TheBigDeal (~antar@unaffiliated/innocent99) Quit (*.net *.split)
+[12:26.00] * KAHR-Alpha (~chatzilla@AReims-652-1-198-168.w86-192.abo.wanadoo.fr) Quit (*.net *.split)
+[12:26.00] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (*.net *.split)
+[12:26.00] * dk0r (~dk0r@unaffiliated/dk0r) Quit (*.net *.split)
+[12:26.00] * AyraXaryA (~AyraXaryA@c-50-156-7-51.hsd1.ca.comcast.net) Quit (*.net *.split)
+[12:26.00] * kriskropd (~kris@unaffiliated/kriskropd) Quit (*.net *.split)
+[12:26.00] * unreal_ (~unreal@unaffiliated/unreal) Quit (*.net *.split)
+[12:26.00] * ubuntor (~ubuntor@ubuntor.org) Quit (*.net *.split)
+[12:26.00] * boozo (~c2leader@89-212-90-45.static.t-2.net) Quit (*.net *.split)
+[12:26.01] * ryankarason (~rak@opensource.cse.ohio-state.edu) Quit (*.net *.split)
+[12:26.01] * Bazzie (~0x2fab@68.235.130.115) Quit (*.net *.split)
+[12:26.01] * FreezingCold (~FreezingC@135.0.41.14) Quit (*.net *.split)
+[12:26.01] * lahwran (~lahwran@python/site-packages/lahwran) Quit (*.net *.split)
+[12:26.01] * SpeedEvil (~quassel@tor/regular/SpeedEvil) Quit (*.net *.split)
+[12:26.01] * ChanServ (ChanServ@services.) Quit (*.net *.split)
+[12:26.01] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) Quit (*.net *.split)
+[12:26.01] * phykyew (~despicabl@103.246.106.24) Quit (*.net *.split)
+[12:26.01] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) Quit (*.net *.split)
+[12:26.01] * main (~main@abem178.neoplus.adsl.tpnet.pl) Quit (*.net *.split)
+[12:26.01] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) Quit (*.net *.split)
+[12:26.01] * jamesson (~asd@pool-71-127-193-78.nwrknj.fios.verizon.net) Quit (*.net *.split)
+[12:26.01] * MjrTom (MjrTom@azureus/MjrTom) Quit (*.net *.split)
+[12:26.01] * vibhav_ (vibhav@gateway/shell/trekweb.org/x-rfakwboaxgmuhtly) Quit (*.net *.split)
+[12:26.01] * sifeic` (~sifeic@c-75-71-117-103.hsd1.co.comcast.net) Quit (*.net *.split)
+[12:26.01] * linear4 (L@unaffiliated/lynear) Quit (*.net *.split)
+[12:26.02] * booleanxy (~root@65.181.121.95) Quit (*.net *.split)
+[12:26.02] * murosai (~murokki@62-78-255-113.bb.dnainternet.fi) Quit (*.net *.split)
+[12:26.02] * sorressean (~tyler@tds-solutions.net) Quit (*.net *.split)
+[12:26.02] * ross` (~ross@spam.im) Quit (*.net *.split)
+[12:26.02] * Padawan- (~MJ-12@unaffiliated/padawan-) Quit (*.net *.split)
+[12:26.02] * Xenolith (~Xenolith@unaffiliated/xenolith) Quit (*.net *.split)
+[12:26.02] * asd5a (~asd5a@unaffiliated/asd6a) Quit (*.net *.split)
+[12:26.02] * thomas (~thomas@freenode/staff/thomas) Quit (*.net *.split)
+[12:26.02] * ValicekB (~tbox@dot.snat.baz.cz) Quit (*.net *.split)
+[12:26.02] * rikut (~dominus@dsl-jklbrasgw1-54fb1d-181.dhcp.inet.fi) Quit (*.net *.split)
+[12:26.03] * gelswip (~gel@178.62.74.145) Quit (*.net *.split)
+[12:26.03] * joshd (~joshd@185.21.216.130) Quit (*.net *.split)
+[12:26.03] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) Quit (*.net *.split)
+[12:26.03] * Richie086 (~Richie086@bespin.org) Quit (*.net *.split)
+[12:26.03] * quintopia (~quintopia@unaffiliated/quintopia) Quit (*.net *.split)
+[12:26.03] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) Quit (*.net *.split)
+[12:26.03] * lolocaust (~loloc@unaffiliated/lolocaust) Quit (*.net *.split)
+[12:26.03] * firewyre (~you.dont@185.21.216.169) Quit (*.net *.split)
+[12:26.03] * Liothen (~liothen@pdpc/supporter/professional/liothen) Quit (*.net *.split)
+[12:26.03] * Polylith (~Polylith@188.166.40.139) Quit (*.net *.split)
+[12:26.03] * M4dH4TT3r (~M4dH4TT3r@unaffiliated/m4dh4tt3r) Quit (*.net *.split)
+[12:26.03] * yuastnav (~quassel@80.152.1.100) Quit (*.net *.split)
+[12:26.03] * s3v3n62mm (~s3v3n62mm@p5DDC2820.dip0.t-ipconnect.de) Quit (*.net *.split)
+[12:26.04] * blablaa (~z@unaffiliated/blablaa) Quit (*.net *.split)
+[12:26.04] * oleo (~oleo@unaffiliated/oleo) Quit (*.net *.split)
+[12:26.04] * mueslo_ (~quassel@p54B4155E.dip0.t-ipconnect.de) Quit (*.net *.split)
+[12:26.04] * Lis (~Lis@business-092-079-130-087.static.arcor-ip.net) Quit (*.net *.split)
+[12:26.04] * foul_owl (~kerry@c-71-227-170-157.hsd1.wa.comcast.net) Quit (*.net *.split)
+[12:26.04] * Neros (~Neros@128-79-158-242.hfc.dyn.abo.bbox.fr) Quit (*.net *.split)
+[12:26.04] * rabbitdew (~rabbitdew@unaffiliated/rabbitdew) Quit (*.net *.split)
+[12:26.04] * Nik05 (~Nik05@unaffiliated/nik05) Quit (*.net *.split)
+[12:26.04] * Church- (~hatter@unaffiliated/church-) Quit (*.net *.split)
+[12:26.04] * albel727 (~albel727@unaffiliated/albel727) Quit (*.net *.split)
+[12:26.04] * kraft (kraft@gateway/shell/blinkenshell.org/x-snuxaxfpkswhnugh) Quit (*.net *.split)
+[12:26.04] * nb (~nb@prgmr/staff/fedora.nb) Quit (*.net *.split)
+[12:26.05] * KindOne (kindone@colchester-lug/silly-fool/donut) Quit (*.net *.split)
+[12:26.05] * Amadiro (jonathri@dalvik.ping.uio.no) Quit (*.net *.split)
+[12:26.05] * crack (~crack@mar75-4-82-230-46-11.fbx.proxad.net) Quit (*.net *.split)
+[12:26.05] * away (ecks@wookieepedia/administrator/pdpc.active.ecks) Quit (*.net *.split)
+[12:26.05] * gandaro (~gandaro@wikipedia/Gorlingor) Quit (*.net *.split)
+[12:26.05] * tuningmind (~tuningmin@2607:fcd0:daaa:1400:f::12) Quit (*.net *.split)
+[12:26.05] * Vutral (~ss@mirbsd/special/Vutral) Quit (*.net *.split)
+[12:26.06] * General1337 (~General13@138.229.248.168) Quit (*.net *.split)
+[12:26.06] * jidiculous (uid64981@gateway/web/irccloud.com/x-focwnqdorryndepw) Quit (*.net *.split)
+[12:26.06] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) Quit (*.net *.split)
+[12:26.06] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-lpbwcwcqarskqqpj) Quit (*.net *.split)
+[12:26.06] * osoba (~me@79.175.67.41) Quit (*.net *.split)
+[12:26.06] * KornKage (KornKage@bl14-113-194.dsl.telepac.pt) Quit (*.net *.split)
+[12:26.06] * ob (~ob@mail.bonillas.net) Quit (*.net *.split)
+[12:26.06] * sonstwo (~garland@unaffiliated/ffs) Quit (*.net *.split)
+[12:26.07] * Kalov_ (~quassel@181.226.21.246) Quit (*.net *.split)
+[12:26.07] * theTroy (~troy@unaffiliated/thetroy) Quit (*.net *.split)
+[12:26.07] * Adran (~adran@botters/staff/adran) Quit (*.net *.split)
+[12:26.07] * MohammadAG (~MohammadA@Maemo/community/contributor/MohammadAG) Quit (*.net *.split)
+[12:26.07] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) Quit (*.net *.split)
+[12:26.07] * PlanckWalk (~Planck@ppp105-115.static.internode.on.net) Quit (*.net *.split)
+[12:26.07] * forrestv (forrestv@unaffiliated/forrestv) Quit (*.net *.split)
+[12:26.07] * ruphy (roophie@kde/ruphy) Quit (*.net *.split)
+[12:26.08] * edk (edk@spy/edk0) Quit (*.net *.split)
+[12:26.08] * stoat (stoat@stoat.org) Quit (*.net *.split)
+[12:26.08] * Trieste (~Trieste@unaffiliated/trieste) Quit (*.net *.split)
+[12:26.08] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) Quit (*.net *.split)
+[12:26.08] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) Quit (*.net *.split)
+[12:26.08] * Corey84 (~Corey84@unaffiliated/corey84) Quit (*.net *.split)
+[12:26.08] * Fiki_ (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) Quit (*.net *.split)
+[12:26.08] * zyxw (~zyx@esp64-2-83-155-176-36.fbx.proxad.net) Quit (*.net *.split)
+[12:26.08] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) Quit (*.net *.split)
+[12:26.08] * apetiss (~apetiss@host-37-191-202-2.lynet.no) Quit (*.net *.split)
+[12:26.08] * depate (~depate@wprt-4db6e6b2.pool.mediaWays.net) Quit (*.net *.split)
+[12:26.08] * Aune (~arne@bishibosh.lysator.liu.se) Quit (*.net *.split)
+[12:26.08] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:15d:3ec8:aa93:46a9) Quit (*.net *.split)
+[12:26.08] * SecretFire (~SecretFir@c-67-168-220-193.hsd1.wa.comcast.net) Quit (*.net *.split)
+[12:26.08] * Levite (levite@gateway/shell/panicbnc/x-woyvgslxwbtfbdxk) Quit (*.net *.split)
+[12:26.08] * mark_vh (~pi@a91-152-110-124.elisa-laajakaista.fi) Quit (*.net *.split)
+[12:26.09] * loose (~loose@looniness.de) Quit (*.net *.split)
+[12:26.09] * ultra (~ed@unaffiliated/ultra) Quit (*.net *.split)
+[12:26.09] * spooky (spooky@unaffiliated/socksoff) Quit (*.net *.split)
+[12:26.09] * LetGo (LetGo@that.bitch.stole-your.info) Quit (*.net *.split)
+[12:26.09] * Zhao|laggy (~quassel@wikipedia/Zhaofeng-Li) Quit (*.net *.split)
+[12:26.09] * skarn (skarn@unaffiliated/skarn) Quit (*.net *.split)
+[12:26.09] * seeknstrike (~Admin@191-247-228-63.3g.claro.net.br) Quit (*.net *.split)
+[12:26.09] * nyuszika7h (nyuszika7h@cadoth.net) Quit (*.net *.split)
+[12:26.09] * BurnZeZ (none@adsl-99-103-74-135.dsl.sgnwmi.sbcglobal.net) Quit (*.net *.split)
+[12:26.09] * chiburbs (~chiburbs@24.1.185.247) Quit (*.net *.split)
+[12:26.09] * mist (~mrmist@freenode/staff/mist) Quit (*.net *.split)
+[12:26.10] * nooblet (~nooblet@penrose.otago.ac.nz) Quit (*.net *.split)
+[12:26.10] * shahri (~shahri@unaffiliated/shahri) Quit (*.net *.split)
+[12:26.10] * PotatoGim (~PotatoGim@220.90.135.162) Quit (*.net *.split)
+[12:26.10] * tys0n (weltt@unaffiliated/tys0n) Quit (*.net *.split)
+[12:26.10] * nsh (~lol@wikipedia/nsh) Quit (*.net *.split)
+[12:26.10] * zero7 (sid10708@gateway/web/irccloud.com/x-mccbgqmmjahybelv) Quit (*.net *.split)
+[12:26.10] * maaarghk (~mark@earthshine.it) Quit (*.net *.split)
+[12:26.10] * Jikan (~Jikan@noein.haruka.fr) Quit (*.net *.split)
+[12:26.11] * Taylor (~Taylor@unaffiliated/taylor) Quit (*.net *.split)
+[12:26.11] * twibird (~epit@99-64-48-184.lightspeed.lbcktx.sbcglobal.net) Quit (*.net *.split)
+[12:26.11] * Xjs|moonshine (moon@chrysostomos.aoide.de) Quit (*.net *.split)
+[12:26.11] * merzo (~merzo@user-94-45-58-141.skif.com.ua) Quit (*.net *.split)
+[12:26.11] * enthropy (~aavogt@65.92.35.183) Quit (*.net *.split)
+[12:26.11] * ubernoob12 (~gorav5@nat-eduroam5.uni-saarland.de) Quit (*.net *.split)
+[12:26.11] * Flerb (~will@unaffiliated/willdude123) Quit (*.net *.split)
+[12:26.11] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) Quit (*.net *.split)
+[12:26.11] * superkuh (~superkuh@unaffiliated/superkuh) Quit (*.net *.split)
+[12:26.11] * wukong (~wukong@38.sub-70-196-2.myvzw.com) Quit (*.net *.split)
+[12:26.11] * BrainDamage (~BrainDama@unaffiliated/braindamage) Quit (*.net *.split)
+[12:26.11] * jdiez_ (~jdiez@178.32.51.157) Quit (*.net *.split)
+[12:26.11] * ketas (~ketas@65-38-190-90.dyn.estpak.ee) Quit (*.net *.split)
+[12:26.12] * Dianora (~db@freebsd/developer/db) Quit (*.net *.split)
+[12:26.12] * imaami (imaami@zen.zc.fi) Quit (*.net *.split)
+[12:26.12] * Visario (~vis@ec2-54-154-247-180.eu-west-1.compute.amazonaws.com) Quit (*.net *.split)
+[12:26.12] * tortal (tortal@unaffiliated/tortal) Quit (*.net *.split)
+[12:26.12] * ineiros (~itniemin@dsl-hkibrasgw1-58c3fe-184.dhcp.inet.fi) Quit (*.net *.split)
+[12:26.12] * GomJabbar (GomJabbar@216.245.216.190) Quit (*.net *.split)
+[12:26.12] * gratimax (~gratimax@irc.gratimax.net) Quit (*.net *.split)
+[12:26.12] * iulian (iulian@ubuntu/member/iulian) Quit (*.net *.split)
+[12:26.12] * ix (kvamtroe@unaffiliated/ix) Quit (*.net *.split)
+[12:26.12] * a1f (~user@199.83.60.61.static.nyinternet.net) Quit (*.net *.split)
+[12:26.12] * torkelatgenet_ (~quassel@38.84-234-168.customer.lyse.net) Quit (*.net *.split)
+[12:26.12] * NeilHanlon (~NeilHanlo@unaffiliated/neilhanlon) Quit (*.net *.split)
+[12:26.12] * xiphiasx1 (~xiph@unaffiliated/dkingston) Quit (*.net *.split)
+[12:26.13] * phantomcircuit (~phantomci@smartcontracts.us) Quit (*.net *.split)
+[12:26.13] * Aster (~Aster@april-fools/2013/ninth/aster) Quit (*.net *.split)
+[12:26.13] * songarchaeology (~songarcha@unaffiliated/songarchaeology) Quit (*.net *.split)
+[12:26.13] * mefistofeles (mefistofel@gateway/shell/yourbnc/x-ghqasusqvqnreugx) Quit (*.net *.split)
+[12:26.13] * NaiveFrost (~NaiveFros@andromeda.ryanwelch.me) Quit (*.net *.split)
+[12:26.13] * GoGi (~gogi@hyde.gogi.eu) Quit (*.net *.split)
+[12:26.13] * wapiflapi (~Wapi@ctl.ovh) Quit (*.net *.split)
+[12:26.13] * welterde (welterde@thinkbase.srv.welterde.de) Quit (*.net *.split)
+[12:26.14] * slick (~slick@unaffiliated/anderson) Quit (*.net *.split)
+[12:26.14] * egg (egg@wikimedia/egg) Quit (*.net *.split)
+[12:26.14] * udevd (~udevd@23.102.32.251) Quit (*.net *.split)
+[12:26.14] * sparr (~sparr@pdpc/supporter/active/sparr) Quit (*.net *.split)
+[12:26.14] * drdo (~drdo@2a02:2498:e000:20::16f:2) Quit (*.net *.split)
+[12:26.14] * bawki (bogie@mail.epow0.org) Quit (*.net *.split)
+[12:26.14] * cornusammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) Quit (*.net *.split)
+[12:26.14] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) Quit (*.net *.split)
+[12:26.14] * Se-bash (~seba@unaffiliated/se-bash) Quit (*.net *.split)
+[12:26.14] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) Quit (*.net *.split)
+[12:26.14] * Thooms (~thooms@salle106.atilla.org) Quit (*.net *.split)
+[12:26.14] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) Quit (*.net *.split)
+[12:26.14] * Extreme (extreme7@unaffiliated/extreme7) Quit (*.net *.split)
+[12:26.15] * The_Mad_Pirate (~leandro@181.167.77.56) Quit (*.net *.split)
+[12:26.15] * sparetire_ (~sparetire@unaffiliated/sparetire) Quit (*.net *.split)
+[12:26.15] * BenLand100 (~blandtop@24.130.27.8) Quit (*.net *.split)
+[12:26.15] * nintendo3DS (~Nintendo3@cpe-69-206-65-132.hvc.res.rr.com) Quit (*.net *.split)
+[12:26.15] * supferrets (~supferret@unaffiliated/supferrets) Quit (*.net *.split)
+[12:26.15] * kPa (~kPa@unaffiliated/kpa) Quit (*.net *.split)
+[12:26.15] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) Quit (*.net *.split)
+[12:26.15] * Slereah (x@176.222.51.233) Quit (*.net *.split)
+[12:26.15] * Xionaba (Xionaba@h83-209-139-61.dynamic.se.alltele.net) Quit (*.net *.split)
+[12:26.15] * MoALTz (~no@78.11.179.104) Quit (*.net *.split)
+[12:26.15] * hammond (proscan@gateway/shell/insomnia247/x-cyhdkjdawdaevqqr) Quit (*.net *.split)
+[12:26.15] * HiggsPossum (~HiggsPoss@unaffiliated/higgspossum) Quit (*.net *.split)
+[12:26.15] * nisstyre (~yourstrul@oftn/member/Nisstyre) Quit (*.net *.split)
+[12:26.15] * wirwe (~molenz@amo16.physik.hu-berlin.de) Quit (*.net *.split)
+[12:26.16] * Guest90609 (~root@104.131.8.116) Quit (*.net *.split)
+[12:26.16] * pdxleif (~pdxleif@ec2-50-112-124-255.us-west-2.compute.amazonaws.com) Quit (*.net *.split)
+[12:26.16] * Cprossu (~Cprossu@ip68-230-83-99.ph.ph.cox.net) Quit (*.net *.split)
+[12:26.16] * MissionCritical (~MissionCr@unaffiliated/missioncritical) Quit (*.net *.split)
+[12:26.16] * dukwon (~dukwon@188.166.55.237) Quit (*.net *.split)
+[12:26.16] * Maxdamantus (~Maxdamant@unaffiliated/maxdamantus) Quit (*.net *.split)
+[12:26.16] * kloeri (~kloeri@freenode/staff/exherbo.kloeri) Quit (*.net *.split)
+[12:26.16] * bwehlin (~bwehlin@c129.broadband.quicknet.se) Quit (*.net *.split)
+[12:26.16] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) Quit (*.net *.split)
+[12:26.16] * guibou (~guibou@195-154-113-144.rev.poneytelecom.eu) Quit (*.net *.split)
+[12:26.16] * eroen (~eroen@unaffiliated/eroen) Quit (*.net *.split)
+[12:26.17] * Shapeshifter (~Shapeshif@unaffiliated/shapeshifter) Quit (*.net *.split)
+[12:26.17] * Adamo (~Adamo@shadydealings.net) Quit (*.net *.split)
+[12:26.17] * chabibi (scum@unaffiliated/chabibi) Quit (*.net *.split)
+[12:26.17] * ryannathans (~ryannatha@unaffiliated/ryannathans) Quit (*.net *.split)
+[12:26.17] * Axone (~Axone@ip-72.net-82-216-159.suresnes3.rev.numericable.fr) Quit (*.net *.split)
+[12:26.17] * s1dev (~s1dev@199.241.28.135) Quit (*.net *.split)
+[12:26.17] * mheath (~mheath@unaffiliated/mheath) Quit (*.net *.split)
+[12:26.17] * mh_le (~Mads@unaffiliated/mhle/x-0173978) Quit (*.net *.split)
+[12:26.17] * jesus_ (~jesus_@d51A44EA3.access.telenet.be) Quit (*.net *.split)
+[12:26.17] * Spitfire (spitfire@wikipedia/spitfire) Quit (*.net *.split)
+[12:26.17] * haasn (~haasn@2a01:4f8:d13:5245::2) Quit (*.net *.split)
+[12:26.17] * eXeC64 (~eXeC64@exec64.co.uk) Quit (*.net *.split)
+[12:26.17] * crazedpsyc (~crazedpsy@2a01:4f8:d16:1f53::2) Quit (*.net *.split)
+[12:26.18] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) Quit (*.net *.split)
+[12:26.18] * pinkmuffinere (~pinkmuffi@137.110.161.169) Quit (*.net *.split)
+[12:26.18] * nubcake__ (~0@104.236.83.51) Quit (*.net *.split)
+[12:26.18] * Sigyn (~lokasenna@freenode/utility-bot/sigyn) Quit (*.net *.split)
+[12:26.18] * jv (jv@pilsedu.cz) Quit (*.net *.split)
+[12:26.18] * zymurgy (~zymurgy@li607-220.members.linode.com) Quit (*.net *.split)
+[12:26.18] * pythonsnake (~pythonsna@fedora/pythonsnake) Quit (*.net *.split)
+[12:26.18] * yashi (~yashi@unaffiliated/yashi) Quit (*.net *.split)
+[12:26.18] * Riviera_ (Riviera@2a03:b0c0:1:d0::10:b001) Quit (*.net *.split)
+[12:26.18] * Guest20255 (~maphry@host81-152-55-172.range81-152.btcentralplus.com) Quit (*.net *.split)
+[12:26.18] * dardevelin (~dardeveli@unaffiliated/dardevelin) Quit (*.net *.split)
+[12:26.19] * pierre1_ (~pierre1@189.122.208.96) Quit (*.net *.split)
+[12:26.19] * massless (~loop3@177.42.51.79) Quit (*.net *.split)
+[12:26.19] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) Quit (*.net *.split)
+[12:26.19] * mueslo (~mueslo@p54B4155E.dip0.t-ipconnect.de) Quit (*.net *.split)
+[12:26.19] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (*.net *.split)
+[12:26.19] * mortdeus (~mortdeus@74.196.96.188) Quit (*.net *.split)
+[12:26.19] * YarnFive8 (YarnFive8@unaffiliated/yarnfive8) Quit (*.net *.split)
+[12:26.19] * b0g (~hello@unaffiliated/b0g) Quit (*.net *.split)
+[12:26.19] * pasky_ (~pasky@nikam.ms.mff.cuni.cz) Quit (*.net *.split)
+[12:26.19] * krnlyng (~liar@83.175.90.24) Quit (*.net *.split)
+[12:26.19] * masquera1e (~rdeaton@162.243.126.156) Quit (*.net *.split)
+[12:26.19] * tonsofpcs (~mythbuntu@rivendell/member/tonsofpcs) Quit (*.net *.split)
+[12:26.19] * GargantuaSauce (~sauce@blk-224-183-201.eastlink.ca) Quit (*.net *.split)
+[12:26.19] * iibewegung (~iibewegun@pdpc/supporter/student/iibewegung) Quit (*.net *.split)
+[12:26.19] * seg (~seg@fsf/member/seg) Quit (*.net *.split)
+[12:26.19] * repiv (~Repiv@74.203.133.59) Quit (*.net *.split)
+[12:32.00] * CapsAdmin (~CapsAdmin@109.199.217.23) has joined channel ##physics
+[12:32.00] * GGMethos (~methos@2a02:418:6a04:178:209:40:77:1) has joined channel ##physics
+[12:32.00] * Jackneill (~Jackneill@unaffiliated/jackneill) has joined channel ##physics
+[12:32.00] * Noldorin (~noldorin@unaffiliated/noldorin) has joined channel ##physics
+[12:32.00] * heili (nein@73.174.61.121) has joined channel ##physics
+[12:32.00] * KAHR-Alpha (~chatzilla@AReims-652-1-134-106.w90-1.abo.wanadoo.fr) has joined channel ##physics
+[12:32.00] * cornus_ammonis (~Cornus@pool-96-255-179-93.washdc.fios.verizon.net) has joined channel ##physics
+[12:32.00] * Xenolith (~Xenolith@unaffiliated/xenolith) has joined channel ##physics
+[12:32.00] * arun_ (~arun@49.244.253.81) has joined channel ##physics
+[12:32.00] * peepsalot (~Sir@99-179-4-215.lightspeed.austtx.sbcglobal.net) has joined channel ##physics
+[12:32.00] * merzo (~merzo@user-94-45-58-141.skif.com.ua) has joined channel ##physics
+[12:32.00] * Guest20255 (~maphry@host81-152-55-172.range81-152.btcentralplus.com) has joined channel ##physics
+[12:32.00] * dardevelin (~dardeveli@unaffiliated/dardevelin) has joined channel ##physics
+[12:32.00] * blight (~greg@reactos/developer/blight) has joined channel ##physics
+[12:32.00] * enlightified (~amir@73-37-103.uoc.es) has joined channel ##physics
+[12:32.00] * azv4 (~azv4@dynamic-acs-24-112-238-60.zoominternet.net) has joined channel ##physics
+[12:32.00] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##physics
+[12:32.00] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) has joined channel ##physics
+[12:32.00] * phykyew (~despicabl@103.246.106.24) has joined channel ##physics
+[12:32.00] * asd5a (~asd5a@unaffiliated/asd6a) has joined channel ##physics
+[12:32.00] * Corey84 (~Corey84@unaffiliated/corey84) has joined channel ##physics
+[12:32.00] * greenbagels (~gb@cpe-24-93-214-22.neo.res.rr.com) has joined channel ##physics
+[12:32.00] * mithenks (~eymerich@host82-247-static.21-80-b.business.telecomitalia.it) has joined channel ##physics
+[12:32.00] * Havis (~Havis@funtoo/user/havis) has joined channel ##physics
+[12:32.00] * Fiki_ (~Fiki@cable-178-148-41-253.dynamic.sbb.rs) has joined channel ##physics
+[12:32.00] * s3v3n62mm (~s3v3n62mm@p5DDC2820.dip0.t-ipconnect.de) has joined channel ##physics
+[12:32.00] * Ebola-C (ROMA@213.180.118.42) has joined channel ##physics
+[12:32.00] * rosalindwills (~Rosalind@209.64.168.66) has joined channel ##physics
+[12:32.00] * nfk (~nfk@unaffiliated/nfk) has joined channel ##physics
+[12:32.00] * TeXbot (~TeXbot@205.167.126.240) has joined channel ##physics
+[12:32.00] * Se-bash (~seba@unaffiliated/se-bash) has joined channel ##physics
+[12:32.00] * km00000 (~km00000@ip-18-16.net.ksu.edu) has joined channel ##physics
+[12:32.00] * nebbia (~giuseppe@net-37-117-20-119.cust.vodafonedsl.it) has joined channel ##physics
+[12:32.00] * enthropy (~aavogt@65.92.35.183) has joined channel ##physics
+[12:32.00] * jidiculous (uid64981@gateway/web/irccloud.com/x-focwnqdorryndepw) has joined channel ##physics
+[12:32.00] * telex (teletype@freeshell.de) has joined channel ##physics
+[12:32.00] * ubernoob12 (~gorav5@nat-eduroam5.uni-saarland.de) has joined channel ##physics
+[12:32.00] * WaffleZ (wafflez@unaffiliated/wafflez) has joined channel ##physics
+[12:32.00] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##physics
+[12:32.00] * Viper168 (~Viper@unaffiliated/viper168) has joined channel ##physics
+[12:32.00] * fahadash (~sgrA@c-66-177-185-10.hsd1.fl.comcast.net) has joined channel ##physics
+[12:32.00] * zyxw (~zyx@esp64-2-83-155-176-36.fbx.proxad.net) has joined channel ##physics
+[12:32.00] * pierre1_ (~pierre1@189.122.208.96) has joined channel ##physics
+[12:32.00] * qeed (~qeed@ip98-169-57-14.dc.dc.cox.net) has joined channel ##physics
+[12:32.00] * Flerb (~will@unaffiliated/willdude123) has joined channel ##physics
+[12:32.00] * blablaa (~z@unaffiliated/blablaa) has joined channel ##physics
+[12:32.00] * wukong (~wukong@38.sub-70-196-2.myvzw.com) has joined channel ##physics
+[12:32.00] * shikhin (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[12:32.00] * apetiss (~apetiss@host-37-191-202-2.lynet.no) has joined channel ##physics
+[12:32.00] * main (~main@abem178.neoplus.adsl.tpnet.pl) has joined channel ##physics
+[12:32.00] * oleo (~oleo@unaffiliated/oleo) has joined channel ##physics
+[12:32.00] * mueslo_ (~quassel@p54B4155E.dip0.t-ipconnect.de) has joined channel ##physics
+[12:32.00] * fstd (~fstd@unaffiliated/fisted) has joined channel ##physics
+[12:32.00] * depate (~depate@wprt-4db6e6b2.pool.mediaWays.net) has joined channel ##physics
+[12:32.00] * massless (~loop3@177.42.51.79) has joined channel ##physics
+[12:32.00] * Aune (~arne@bishibosh.lysator.liu.se) has joined channel ##physics
+[12:32.00] * MulleDK20 (MulleDK19@0120000080.0.fullrate.dk) has joined channel ##physics
+[12:32.00] * matt|home (~matt@adsl-65-9-107-179.mia.bellsouth.net) has joined channel ##physics
+[12:32.00] * Lis (~Lis@business-092-079-130-087.static.arcor-ip.net) has joined channel ##physics
+[12:32.00] * thomas (~thomas@freenode/staff/thomas) has joined channel ##physics
+[12:32.00] * TheBigDeal (~antar@unaffiliated/innocent99) has joined channel ##physics
+[12:32.00] * utack (~utack@ip9234cb8c.dynamic.kabel-deutschland.de) has joined channel ##physics
+[12:32.00] * TheOneWhoKnocks (~TheOneWho@198.23.128.25) has joined channel ##physics
+[12:32.00] * Logicwax (Logicwax@c-50-161-23-192.hsd1.ca.comcast.net) has joined channel ##physics
+[12:32.00] * superkuh (~superkuh@unaffiliated/superkuh) has joined channel ##physics
+[12:32.00] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) has joined channel ##physics
+[12:32.00] * rettaw (~Rettaw@c-fcffe555.07-322-73746f1.cust.bredbandsbolaget.se) has joined channel ##physics
+[12:32.00] * ValicekB (~tbox@dot.snat.baz.cz) has joined channel ##physics
+[12:32.00] * pulse (~pulse@unaffiliated/pulse) has joined channel ##physics
+[12:32.00] * rikut (~dominus@dsl-jklbrasgw1-54fb1d-181.dhcp.inet.fi) has joined channel ##physics
+[12:32.00] * Arab_Aspie (uid48177@gateway/web/irccloud.com/x-lpbwcwcqarskqqpj) has joined channel ##physics
+[12:32.00] * osoba (~me@79.175.67.41) has joined channel ##physics
+[12:32.00] * Tamae (~Tamae@mna75-1-81-57-129-31.fbx.proxad.net) has joined channel ##physics
+[12:32.00] * KornKage (KornKage@bl14-113-194.dsl.telepac.pt) has joined channel ##physics
+[12:32.00] * helaughsatfear (~helaughsa@2602:306:ccba:8e0:15d:3ec8:aa93:46a9) has joined channel ##physics
+[12:32.00] * unpro_ (~unpro@hack.us.org) has joined channel ##physics
+[12:32.00] * mueslo (~mueslo@p54B4155E.dip0.t-ipconnect.de) has joined channel ##physics
+[12:32.00] * ob (~ob@mail.bonillas.net) has joined channel ##physics
+[12:32.00] * SecretFire (~SecretFir@c-67-168-220-193.hsd1.wa.comcast.net) has joined channel ##physics
+[12:32.00] * Thooms (~thooms@salle106.atilla.org) has joined channel ##physics
+[12:32.00] * hmw_ (~user@dslb-088-066-052-124.088.066.pools.vodafone-ip.de) has joined channel ##physics
+[12:32.00] * SiegeX (~SiegeX@unaffiliated/siegex) has joined channel ##physics
+[12:32.00] * Vutral (~ss@mirbsd/special/Vutral) has joined channel ##physics
+[12:32.00] * mortdeus (~mortdeus@74.196.96.188) has joined channel ##physics
+[12:32.00] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) has joined channel ##physics
+[12:32.00] * toastydeath (~toast@c-69-244-86-195.hsd1.md.comcast.net) has joined channel ##physics
+[12:32.00] * Extreme (extreme7@unaffiliated/extreme7) has joined channel ##physics
+[12:32.00] * sqrt2 (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[12:32.00] * mxiia (~mxiia@unaffiliated/mxiia) has joined channel ##physics
+[12:32.00] * dk0r (~dk0r@unaffiliated/dk0r) has joined channel ##physics
+[12:32.00] * xihr (resu@c-50-156-82-26.hsd1.ca.comcast.net) has joined channel ##physics
+[12:32.00] * Levite (levite@gateway/shell/panicbnc/x-woyvgslxwbtfbdxk) has joined channel ##physics
+[12:32.00] * AyraXaryA (~AyraXaryA@c-50-156-7-51.hsd1.ca.comcast.net) has joined channel ##physics
+[12:32.00] * chewyDelicious (~nooblet@101.98.199.224) has joined channel ##physics
+[12:32.00] * kriskropd (~kris@unaffiliated/kriskropd) has joined channel ##physics
+[12:32.00] * foul_owl (~kerry@c-71-227-170-157.hsd1.wa.comcast.net) has joined channel ##physics
+[12:32.00] * mark_vh (~pi@a91-152-110-124.elisa-laajakaista.fi) has joined channel ##physics
+[12:32.00] * Alcc (~Alc@unaffiliated/lyn) has joined channel ##physics
+[12:32.00] * githogori_ (~githogori@c-98-234-68-44.hsd1.ca.comcast.net) has joined channel ##physics
+[12:32.00] * YarnFive8 (YarnFive8@unaffiliated/yarnfive8) has joined channel ##physics
+[12:32.00] * unreal_ (~unreal@unaffiliated/unreal) has joined channel ##physics
+[12:32.00] * jamesson (~asd@pool-71-127-193-78.nwrknj.fios.verizon.net) has joined channel ##physics
+[12:32.00] * moei (~moei@softbank221078042071.bbtec.net) has joined channel ##physics
+[12:32.00] * sorressean (~tyler@tds-solutions.net) has joined channel ##physics
+[12:32.00] * mrdata (~mrdata@unaffiliated/mrdata) has joined channel ##physics
+[12:32.00] * ubuntor (~ubuntor@ubuntor.org) has joined channel ##physics
+[12:32.00] * Brando753 (~Brando753@unaffiliated/brando753) has joined channel ##physics
+[12:32.00] * MjrTom (MjrTom@azureus/MjrTom) has joined channel ##physics
+[12:32.00] * Verttone (~Verttone@188.235.1.7) has joined channel ##physics
+[12:32.00] * acg (~micronesi@unaffiliated/acg) has joined channel ##physics
+[12:32.00] * boozo (~c2leader@89-212-90-45.static.t-2.net) has joined channel ##physics
+[12:32.00] * jackal^ (jackal@jackal6.efnet.at) has joined channel ##physics
+[12:32.00] * BrainDamage (~BrainDama@unaffiliated/braindamage) has joined channel ##physics
+[12:32.00] * The_Mad_Pirate (~leandro@181.167.77.56) has joined channel ##physics
+[12:32.00] * loose (~loose@looniness.de) has joined channel ##physics
+[12:32.00] * gelswip (~gel@178.62.74.145) has joined channel ##physics
+[12:32.00] * ultra (~ed@unaffiliated/ultra) has joined channel ##physics
+[12:32.00] * woo2 (~woo2@unaffiliated/woo2) has joined channel ##physics
+[12:32.00] * spooky (spooky@unaffiliated/socksoff) has joined channel ##physics
+[12:32.00] * wolf_mozart (wolf_mozar@gateway/shell/panicbnc/x-mkhxjdijpjaalbta) has joined channel ##physics
+[12:32.00] * LetGo (LetGo@that.bitch.stole-your.info) has joined channel ##physics
+[12:32.00] * Zhao|laggy (~quassel@wikipedia/Zhaofeng-Li) has joined channel ##physics
+[12:32.00] * baus (baus@unaffiliated/baus) has joined channel ##physics
+[12:32.00] * skarn (skarn@unaffiliated/skarn) has joined channel ##physics
+[12:32.00] * aural (~aural@unaffiliated/necrodearia) has joined channel ##physics
+[12:32.00] * sonstwo (~garland@unaffiliated/ffs) has joined channel ##physics
+[12:32.00] * MKCoin (~MK@unaffiliated/mk/x-7191235) has joined channel ##physics
+[12:32.00] * sparetire_ (~sparetire@unaffiliated/sparetire) has joined channel ##physics
+[12:32.00] * vibhav_ (vibhav@gateway/shell/trekweb.org/x-rfakwboaxgmuhtly) has joined channel ##physics
+[12:32.00] * b0g (~hello@unaffiliated/b0g) has joined channel ##physics
+[12:32.00] * liara (~xzvf@80.79.126.176) has joined channel ##physics
+[12:32.00] * jdiez_ (~jdiez@178.32.51.157) has joined channel ##physics
+[12:32.00] * pasky_ (~pasky@nikam.ms.mff.cuni.cz) has joined channel ##physics
+[12:32.00] * wirwe__ (~molenz@pool11.physik.hu-berlin.de) has joined channel ##physics
+[12:32.00] * Neros (~Neros@128-79-158-242.hfc.dyn.abo.bbox.fr) has joined channel ##physics
+[12:32.00] * heril_ (~heril@demoseen.com) has joined channel ##physics
+[12:32.00] * joshd (~joshd@185.21.216.130) has joined channel ##physics
+[12:32.00] * davor (~davor@unaffiliated/davor) has joined channel ##physics
+[12:32.00] * ryankarason (~rak@opensource.cse.ohio-state.edu) has joined channel ##physics
+[12:32.00] * sifeic` (~sifeic@c-75-71-117-103.hsd1.co.comcast.net) has joined channel ##physics
+[12:32.00] * belmont (~belmont@cl-130-49-6-176.wireless.pitt.edu) has joined channel ##physics
+[12:32.00] * negatratoron (~negatrato@71-89-76-184.dhcp.bycy.mi.charter.com) has joined channel ##physics
+[12:32.00] * seeknstrike (~Admin@191-247-228-63.3g.claro.net.br) has joined channel ##physics
+[12:32.00] * g2` (g2@gateway/shell/yourbnc/x-ydologwrehadejxf) has joined channel ##physics
+[12:32.00] * benhunter09 (Ben@i.ate.your.coooki.es) has joined channel ##physics
+[12:32.00] * edenist (edenist@2600:3c01::f03c:91ff:fe6e:b2c8) has joined channel ##physics
+[12:32.00] * fractal (~fractal@unaffiliated/scounder) has joined channel ##physics
+[12:32.00] * nyuszika7h (nyuszika7h@cadoth.net) has joined channel ##physics
+[12:32.00] * enterprisedc (~enterpris@ip68-109-198-52.oc.oc.cox.net) has joined channel ##physics
+[12:32.00] * Puppet` (~Puppet@73.22.162.96) has joined channel ##physics
+[12:32.00] * Bazzie (~0x2fab@68.235.130.115) has joined channel ##physics
+[12:32.00] * ketas (~ketas@65-38-190-90.dyn.estpak.ee) has joined channel ##physics
+[12:32.00] * wapiflapi (~Wapi@ctl.ovh) has joined channel ##physics
+[12:32.00] * Kalov_ (~quassel@181.226.21.246) has joined channel ##physics
+[12:32.00] * LiquidOxygen (~off@ool-4579d24e.dyn.optonline.net) has joined channel ##physics
+[12:32.00] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##physics
+[12:32.00] * BurnZeZ (none@adsl-99-103-74-135.dsl.sgnwmi.sbcglobal.net) has joined channel ##physics
+[12:32.00] * BenLand100 (~blandtop@24.130.27.8) has joined channel ##physics
+[12:32.00] * nintendo3DS (~Nintendo3@cpe-69-206-65-132.hvc.res.rr.com) has joined channel ##physics
+[12:32.00] * theTroy (~troy@unaffiliated/thetroy) has joined channel ##physics
+[12:32.00] * supferrets (~supferret@unaffiliated/supferrets) has joined channel ##physics
+[12:32.00] * krnlyng (~liar@83.175.90.24) has joined channel ##physics
+[12:32.00] * chiburbs (~chiburbs@24.1.185.247) has joined channel ##physics
+[12:32.00] * kPa (~kPa@unaffiliated/kpa) has joined channel ##physics
+[12:32.00] * tonsofpcs (~mythbuntu@rivendell/member/tonsofpcs) has joined channel ##physics
+[12:32.00] * rabbitdew (~rabbitdew@unaffiliated/rabbitdew) has joined channel ##physics
+[12:32.00] * rudi91 (~rudi95@unaffiliated/rudi95) has joined channel ##physics
+[12:32.00] * Adran (~adran@botters/staff/adran) has joined channel ##physics
+[12:32.00] * CvP (~CvP@203.76.123.238) has joined channel ##physics
+[12:32.00] * MohammadAG (~MohammadA@Maemo/community/contributor/MohammadAG) has joined channel ##physics
+[12:32.00] * CustosLimen (~CustosLim@unaffiliated/cust0slim3n) has joined channel ##physics
+[12:32.00] * lahwran (~lahwran@python/site-packages/lahwran) has joined channel ##physics
+[12:32.00] * masquera1e (~rdeaton@162.243.126.156) has joined channel ##physics
+[12:32.00] * linear4 (L@unaffiliated/lynear) has joined channel ##physics
+[12:32.00] * splitter (~paul@leonardo.netwichtig.de) has joined channel ##physics
+[12:32.00] * AntiSpamMeta (~MetaBot@AntiSpamMeta/.) has joined channel ##physics
+[12:32.00] * seev (~seev@73.163.172.107) has joined channel ##physics
+[12:32.00] * GargantuaSauce (~sauce@blk-224-183-201.eastlink.ca) has joined channel ##physics
+[12:32.00] * deathonater (~deathonat@cpe-69-203-208-219.nyc.res.rr.com) has joined channel ##physics
+[12:32.00] * Pluto (~Kokor@189.122.217.48) has joined channel ##physics
+[12:32.00] * Slereah (x@176.222.51.233) has joined channel ##physics
+[12:32.00] * Nik05 (~Nik05@unaffiliated/nik05) has joined channel ##physics
+[12:32.00] * niko (~niko@freenode/staff/ubuntu.member.niko) has joined channel ##physics
+[12:32.00] * Xionaba (Xionaba@h83-209-139-61.dynamic.se.alltele.net) has joined channel ##physics
+[12:32.00] * kachoufuugetsu (~getsu@130.159.149.215) has joined channel ##physics
+[12:32.00] * Church- (~hatter@unaffiliated/church-) has joined channel ##physics
+[12:32.00] * Xenofon (Xenofon@unaffiliated/xenofon) has joined channel ##physics
+[12:32.00] * albel727 (~albel727@unaffiliated/albel727) has joined channel ##physics
+[12:32.00] * mist (~mrmist@freenode/staff/mist) has joined channel ##physics
+[12:32.00] * Dianora (~db@freebsd/developer/db) has joined channel ##physics
+[12:32.00] * tdy (~tdy@unaffiliated/tdy) has joined channel ##physics
+[12:32.00] * iibewegung (~iibewegun@pdpc/supporter/student/iibewegung) has joined channel ##physics
+[12:32.00] * nooblet (~nooblet@penrose.otago.ac.nz) has joined channel ##physics
+[12:32.00] * dirac (dirac@unaffiliated/freeboson/bot/dirac) has joined channel ##physics
+[12:32.00] * seg (~seg@fsf/member/seg) has joined channel ##physics
+[12:32.00] * Richie086 (~Richie086@bespin.org) has joined channel ##physics
+[12:32.00] * imaami (imaami@zen.zc.fi) has joined channel ##physics
+[12:32.00] * soypirate (~soypirate@74.60.8.227) has joined channel ##physics
+[12:32.00] * Visario (~vis@ec2-54-154-247-180.eu-west-1.compute.amazonaws.com) has joined channel ##physics
+[12:32.00] * emma (~em@unaffiliated/emma) has joined channel ##physics
+[12:32.00] * SpeedEvil (~quassel@tor/regular/SpeedEvil) has joined channel ##physics
+[12:32.00] * booleanxy (~root@65.181.121.95) has joined channel ##physics
+[12:32.00] * dustinm (~dustinm@105.ip-167-114-152.net) has joined channel ##physics
+[12:32.00] * Shapeshifter (~Shapeshif@unaffiliated/shapeshifter) has joined channel ##physics
+[12:32.00] * norg__ (yherro@55.109-247-138.customer.lyse.net) has joined channel ##physics
+[12:32.00] * piccata (~irenacob@li629-190.members.linode.com) has joined channel ##physics
+[12:32.00] * quintopia (~quintopia@unaffiliated/quintopia) has joined channel ##physics
+[12:32.00] * Vohveli (jwkangas@melkki.cs.helsinki.fi) has joined channel ##physics
+[12:32.00] * PlanckWalk (~Planck@ppp105-115.static.internode.on.net) has joined channel ##physics
+[12:32.00] * cynicalcats (~cynicalca@c-50-170-239-77.hsd1.co.comcast.net) has joined channel ##physics
+[12:32.00] * kraft (kraft@gateway/shell/blinkenshell.org/x-snuxaxfpkswhnugh) has joined channel ##physics
+[12:32.00] * tortal (tortal@unaffiliated/tortal) has joined channel ##physics
+[12:32.00] * tintu (~tintu@aibn1200.astro.uni-bonn.de) has joined channel ##physics
+[12:32.00] * repiv (~Repiv@74.203.133.59) has joined channel ##physics
+[12:32.00] * shahri (~shahri@unaffiliated/shahri) has joined channel ##physics
+[12:32.00] * wito_ (~wito@totlandweb.info) has joined channel ##physics
+[12:32.00] * PotatoGim (~PotatoGim@220.90.135.162) has joined channel ##physics
+[12:32.00] * forrestv (forrestv@unaffiliated/forrestv) has joined channel ##physics
+[12:32.00] * daniel-s (~daniel-s@mu00053769.eng.monash.edu.au) has joined channel ##physics
+[12:32.00] * MoALTz (~no@78.11.179.104) has joined channel ##physics
+[12:32.00] * murosai (~murokki@62-78-255-113.bb.dnainternet.fi) has joined channel ##physics
+[12:32.00] * kalz (~kalz@2602:fff6:f:29c9::2c33) has joined channel ##physics
+[12:32.00] * mozzarella (~sam@unaffiliated/sam113101) has joined channel ##physics
+[12:32.00] * welterde (welterde@thinkbase.srv.welterde.de) has joined channel ##physics
+[12:32.00] * lolocaust (~loloc@unaffiliated/lolocaust) has joined channel ##physics
+[12:32.00] * hammond (proscan@gateway/shell/insomnia247/x-cyhdkjdawdaevqqr) has joined channel ##physics
+[12:32.00] * firewyre (~you.dont@185.21.216.169) has joined channel ##physics
+[12:32.00] * tys0n (weltt@unaffiliated/tys0n) has joined channel ##physics
+[12:32.00] * albertig (albertig@shell.onid.oregonstate.edu) has joined channel ##physics
+[12:32.00] * nsh (~lol@wikipedia/nsh) has joined channel ##physics
+[12:32.00] * asimov.freenode.net sets mode +v dirac    for ##physics
+[12:32.00] * ineiros (~itniemin@dsl-hkibrasgw1-58c3fe-184.dhcp.inet.fi) has joined channel ##physics
+[12:32.00] * Hatamoto (~Hata@hlfxns016cw-156034031238.dhcp-dynamic.FibreOP.ns.bellaliant.net) has joined channel ##physics
+[12:32.00] * R0b0t1 (~dev@unaffiliated/r0b0t1) has joined channel ##physics
+[12:32.00] * HiggsPossum (~HiggsPoss@unaffiliated/higgspossum) has joined channel ##physics
+[12:32.00] * GomJabbar (GomJabbar@216.245.216.190) has joined channel ##physics
+[12:32.00] * malglim (~malglim@78.46.45.78) has joined channel ##physics
+[12:32.00] * klap (~sold_not_@ks360056.kimsufi.com) has joined channel ##physics
+[12:32.00] * nb (~nb@prgmr/staff/fedora.nb) has joined channel ##physics
+[12:32.00] * ruphy (roophie@kde/ruphy) has joined channel ##physics
+[12:32.00] * diamat (~diamat@mlaugharn.com) has joined channel ##physics
+[12:32.00] * gandaro (~gandaro@wikipedia/Gorlingor) has joined channel ##physics
+[12:32.00] * KindOne (kindone@colchester-lug/silly-fool/donut) has joined channel ##physics
+[12:32.00] * gratimax (~gratimax@irc.gratimax.net) has joined channel ##physics
+[12:32.00] * jxport (~sold_not_@ks360056.kimsufi.com) has joined channel ##physics
+[12:32.00] * ChanServ (ChanServ@services.) has joined channel ##physics
+[12:32.00] * zero7 (sid10708@gateway/web/irccloud.com/x-mccbgqmmjahybelv) has joined channel ##physics
+[12:32.00] * dualbus (~dualbus@dualbus.me) has joined channel ##physics
+[12:32.00] * nisstyre (~yourstrul@oftn/member/Nisstyre) has joined channel ##physics
+[12:32.00] * maaarghk (~mark@earthshine.it) has joined channel ##physics
+[12:32.00] * General1337 (~General13@138.229.248.168) has joined channel ##physics
+[12:32.00] * Liothen (~liothen@pdpc/supporter/professional/liothen) has joined channel ##physics
+[12:32.00] * Polylith (~Polylith@188.166.40.139) has joined channel ##physics
+[12:32.00] * koollman (samson_t@sp1.kooll.info) has joined channel ##physics
+[12:32.00] * Jikan (~Jikan@noein.haruka.fr) has joined channel ##physics
+[12:32.00] * UukGoblin (~jaa@unaffiliated/uukgoblin) has joined channel ##physics
+[12:32.00] * TTimoNN (~TTimoNN@tt.cloud.tilaa.com) has joined channel ##physics
+[12:32.00] * CCFL_Man (bca15083da@pool-71-161-241-139.sctnpa.east.verizon.net) has joined channel ##physics
+[12:32.00] * mpk (~mp@aggr.com) has joined channel ##physics
+[12:32.00] * rwg (~rwg@awos/tester/rwg) has joined channel ##physics
+[12:32.00] * codehero (codehero@i.have.ipv6.on.coding4coffee.org) has joined channel ##physics
+[12:32.00] * berndj (~berndj@azna.co.za) has joined channel ##physics
+[12:32.00] * dock9 (sid49786@gateway/web/irccloud.com/x-vbqdzxxoayjlphbi) has joined channel ##physics
+[12:32.00] * edk (edk@spy/edk0) has joined channel ##physics
+[12:32.00] * Amadiro (jonathri@dalvik.ping.uio.no) has joined channel ##physics
+[12:32.00] * ross` (~ross@spam.im) has joined channel ##physics
+[12:32.00] * crack (~crack@mar75-4-82-230-46-11.fbx.proxad.net) has joined channel ##physics
+[12:32.00] * stoat (stoat@stoat.org) has joined channel ##physics
+[12:32.00] * pinkmuffinere (~pinkmuffi@137.110.161.169) has joined channel ##physics
+[12:32.00] * sujeet (sujeet@unaffiliated/freeboson) has joined channel ##physics
+[12:32.00] * Clerian (~clerian@193.170.93.244) has joined channel ##physics
+[12:32.00] * wirwe (~molenz@amo16.physik.hu-berlin.de) has joined channel ##physics
+[12:32.00] * Axone (~Axone@ip-72.net-82-216-159.suresnes3.rev.numericable.fr) has joined channel ##physics
+[12:32.00] * M4dH4TT3r (~M4dH4TT3r@unaffiliated/m4dh4tt3r) has joined channel ##physics
+[12:32.00] * iulian (iulian@ubuntu/member/iulian) has joined channel ##physics
+[12:32.00] * Taylor (~Taylor@unaffiliated/taylor) has joined channel ##physics
+[12:32.00] * yuastnav (~quassel@80.152.1.100) has joined channel ##physics
+[12:32.00] * asimov.freenode.net sets mode +o ChanServ    for ##physics
+[12:32.00] * twibird (~epit@99-64-48-184.lightspeed.lbcktx.sbcglobal.net) has joined channel ##physics
+[12:32.00] * a1f (~user@199.83.60.61.static.nyinternet.net) has joined channel ##physics
+[12:32.00] * Trieste (~Trieste@unaffiliated/trieste) has joined channel ##physics
+[12:32.00] * ix (kvamtroe@unaffiliated/ix) has joined channel ##physics
+[12:32.00] * Padawan- (~MJ-12@unaffiliated/padawan-) has joined channel ##physics
+[12:32.00] * s1dev (~s1dev@199.241.28.135) has joined channel ##physics
+[12:32.00] * xiphiasx1 (~xiph@unaffiliated/dkingston) has joined channel ##physics
+[12:32.00] * tuningmind (~tuningmin@2607:fcd0:daaa:1400:f::12) has joined channel ##physics
+[12:32.00] * CaveJohnson (Matrixiumn@unaffiliated/matrixiumn) has joined channel ##physics
+[12:32.00] * away (ecks@wookieepedia/administrator/pdpc.active.ecks) has joined channel ##physics
+[12:32.00] * Guest90609 (~root@104.131.8.116) has joined channel ##physics
+[12:32.00] * pdxleif (~pdxleif@ec2-50-112-124-255.us-west-2.compute.amazonaws.com) has joined channel ##physics
+[12:32.00] * mheath (~mheath@unaffiliated/mheath) has joined channel ##physics
+[12:32.00] * mh_le (~Mads@unaffiliated/mhle/x-0173978) has joined channel ##physics
+[12:32.00] * jesus_ (~jesus_@d51A44EA3.access.telenet.be) has joined channel ##physics
+[12:32.00] * Spitfire (spitfire@wikipedia/spitfire) has joined channel ##physics
+[12:32.00] * JohnDory (JohnDory@rouk.org) has joined channel ##physics
+[12:32.00] * phantomcircuit (~phantomci@smartcontracts.us) has joined channel ##physics
+[12:32.00] * kstar (~kstar@kde/asimha) has joined channel ##physics
+[12:32.00] * torkelatgenet_ (~quassel@38.84-234-168.customer.lyse.net) has joined channel ##physics
+[12:32.00] * haasn (~haasn@2a01:4f8:d13:5245::2) has joined channel ##physics
+[12:32.00] * eXeC64 (~eXeC64@exec64.co.uk) has joined channel ##physics
+[12:32.00] * Aster (~Aster@april-fools/2013/ninth/aster) has joined channel ##physics
+[12:32.00] * crazedpsyc (~crazedpsy@2a01:4f8:d16:1f53::2) has joined channel ##physics
+[12:32.00] * pppingme (~pppingme@unaffiliated/pppingme) has joined channel ##physics
+[12:32.00] * wilornel_ (~ubuntu@ec2-54-68-25-61.us-west-2.compute.amazonaws.com) has joined channel ##physics
+[12:32.00] * Cprossu (~Cprossu@ip68-230-83-99.ph.ph.cox.net) has joined channel ##physics
+[12:32.00] * songarchaeology (~songarcha@unaffiliated/songarchaeology) has joined channel ##physics
+[12:32.00] * tomaw (tom@freenode/staff/tomaw) has joined channel ##physics
+[12:32.00] * MissionCritical (~MissionCr@unaffiliated/missioncritical) has joined channel ##physics
+[12:32.00] * mefistofeles (mefistofel@gateway/shell/yourbnc/x-ghqasusqvqnreugx) has joined channel ##physics
+[12:32.00] * erdic (~erdic@unaffiliated/motley) has joined channel ##physics
+[12:32.00] * Xjs|moonshine (moon@chrysostomos.aoide.de) has joined channel ##physics
+[12:32.00] * dukwon (~dukwon@188.166.55.237) has joined channel ##physics
+[12:32.00] * Maxdamantus (~Maxdamant@unaffiliated/maxdamantus) has joined channel ##physics
+[12:32.00] * Sigyn (~lokasenna@freenode/utility-bot/sigyn) has joined channel ##physics
+[12:32.00] * kloeri (~kloeri@freenode/staff/exherbo.kloeri) has joined channel ##physics
+[12:32.00] * bwehlin (~bwehlin@c129.broadband.quicknet.se) has joined channel ##physics
+[12:32.00] * heinrich5991 (~hein5991@unaffiliated/heinrich5991) has joined channel ##physics
+[12:32.01] * NaiveFrost (~NaiveFros@andromeda.ryanwelch.me) has joined channel ##physics
+[12:32.01] * GoGi (~gogi@hyde.gogi.eu) has joined channel ##physics
+[12:32.01] * nubcake__ (~0@104.236.83.51) has joined channel ##physics
+[12:32.01] * bofh__ (~bofh@corn-syrup.csclub.uwaterloo.ca) has joined channel ##physics
+[12:32.01] * ryannathans (~ryannatha@unaffiliated/ryannathans) has joined channel ##physics
+[12:32.01] * Enthralled (~Enthralle@unaffiliated/dxdydz) has joined channel ##physics
+[12:32.01] * jv (jv@pilsedu.cz) has joined channel ##physics
+[12:32.01] * zymurgy (~zymurgy@li607-220.members.linode.com) has joined channel ##physics
+[12:32.01] * pythonsnake (~pythonsna@fedora/pythonsnake) has joined channel ##physics
+[12:32.01] * sparr (~sparr@pdpc/supporter/active/sparr) has joined channel ##physics
+[12:32.01] * drdo (~drdo@2a02:2498:e000:20::16f:2) has joined channel ##physics
+[12:32.01] * bawki (bogie@mail.epow0.org) has joined channel ##physics
+[12:32.01] * chabibi (scum@unaffiliated/chabibi) has joined channel ##physics
+[12:32.01] * Riviera_ (Riviera@2a03:b0c0:1:d0::10:b001) has joined channel ##physics
+[12:32.01] * NeilHanlon (~NeilHanlo@unaffiliated/neilhanlon) has joined channel ##physics
+[12:32.01] * Adamo (~Adamo@shadydealings.net) has joined channel ##physics
+[12:32.01] * yashi (~yashi@unaffiliated/yashi) has joined channel ##physics
+[12:32.01] * udevd (~udevd@23.102.32.251) has joined channel ##physics
+[12:32.01] * guibou (~guibou@195-154-113-144.rev.poneytelecom.eu) has joined channel ##physics
+[12:32.01] * egg (egg@wikimedia/egg) has joined channel ##physics
+[12:32.01] * eroen (~eroen@unaffiliated/eroen) has joined channel ##physics
+[12:32.01] * slick (~slick@unaffiliated/anderson) has joined channel ##physics
+[12:32.19] <webley> those galaxies moving away from us must not like us
+[12:32.19] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) Quit (Excess Flood)
+[12:32.19] * Ring0` (~mike@unaffiliated/ring0/x-8667941) Quit (Max SendQ exceeded)
+[12:32.19] * BlastHardcheese (chris@pdpc/supporter/active/blasthardcheese) Quit (Max SendQ exceeded)
+[12:32.38] * Ring0` (~mike@unaffiliated/ring0/x-8667941) has joined channel ##physics
+[12:32.47] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) has joined channel ##physics
+[12:32.48] <mortdeus> So you could either logically conclude that everybody is moving in respects to you, or we are all moving in respect to space itself.
+[12:32.50] * BlastHardcheese (chris@pdpc/supporter/active/blasthardcheese) has joined channel ##physics
+[12:33.18] <webley> the universe spins around the earth once a day
+[12:33.26] <webley> at superluminal speeds
+[12:34.47] <webley> or maybe the earth spins
+[12:36.15] <webley> what exactly is space?
+[12:36.29] <webley> it must be very slippery
+[12:36.51] * enlightified (~amir@73-37-103.uoc.es) Quit (Ping timeout: 244 seconds)
+[12:38.47] <mortdeus> the momentum of big bang explains why everything is in motion. However the question imm curious about is what made everything start diverting some of that outward linear momentum into eliptical motion.
+[12:39.01] <webley> the temporal ambiguity of quatum events mean the future is pulling the present into it
+[12:39.25] <webley> but due to the diffuse nature of the quanum events, causes the one way arrow of time
+[12:39.58] <webley> that is a good point, mortdeus
+[12:40.17] * FluxNabla (~androirc@66-214-64-212.dhcp.snlo.ca.charter.com) Quit (Ping timeout: 255 seconds)
+[12:40.21] <webley> there must be some kind of thing that holds the universe together
+[12:40.31] * Grimshaw (~Grimshaw@bl17-41-219.dsl.telepac.pt) has joined channel ##physics
+[12:40.36] <webley> channels events/energy back into it
+[12:40.44] <webley> it has to be pretty efficient
+[12:41.23] <niston> gaffer tape
+[12:41.38] * nvon (~nvon@a79-168-185-2.cpe.netcabo.pt) Quit (Ping timeout: 255 seconds)
+[12:41.38] <webley> unicorns with gaffer tape
+[12:41.42] <webley> that glitters!
+[12:42.00] * calango (bd20b23c@pdpc/supporter/active/calango) has joined channel ##physics
+[12:42.07] <mortdeus> webley, the force?
+[12:42.23] <webley> can you feel the force?
+[12:42.32] <mortdeus> its a star wars joke
+[12:42.45] <webley> yes
+[12:43.36] <webley> i think what we feel with gravity is working against the taut stretch of spacetime around this [relative to us] large planet
+[12:43.45] <mortdeus> what holds the universe together seems to be dark energy, what holds galaxies together seems to be blackholes.
+[12:44.09] * calango (bd20b23c@pdpc/supporter/active/calango) Quit (Client Quit)
+[12:44.22] <webley> i am thinking there must be some kind of general, evenly distributed cohesive thing
+[12:44.34] * calango (bd20b23c@pdpc/supporter/active/calango) has joined channel ##physics
+[12:44.35] * calango (bd20b23c@pdpc/supporter/active/calango) Quit (Client Quit)
+[12:44.48] <mortdeus> webley, dark energy
+[12:45.14] <mortdeus> well I dont know about evenly distributed
+[12:45.43] <webley> someone suggest it was a whole bunch of quantum entanglement
+[12:46.01] <mortdeus> but its what supposebly causes the universe to expand at an increasingly accellerating rate.
+[12:46.03] <webley> but i am not sure that works as locality, especially out in deep space
+[12:46.56] <webley> if the gravitational effect consolidates space it leaves more space available for expansion
+[12:47.11] <mortdeus> quantum entanglement is isnt bound by distance in the natural sense.
+[12:47.14] <webley> i doubt that is the whole story
+[12:47.33] <webley> they said nutrinos didn't have mass, until . ..
+[12:47.58] * Macuser (~textual@unaffiliated/macuser) has joined channel ##physics
+[12:48.03] <webley> it sounds like a weak dubious proposal
+[12:48.19] <webley> the universe could be on the surface of something
+[12:48.29] <webley> a one-way bias thing
+[12:48.49] <webley> otherwise it has to be autonomous and freestanding
+[12:49.01] <webley> which it might be
+[12:50.09] <webley> i am not sure i believe in a pure logic universe
+[12:50.25] <webley> most things are organic
+[12:51.17] * asandweech (~thissand@unaffiliated/asandweech) has joined channel ##physics
+[12:54.57] * enlightified (~amir@73-34-170.uoc.es) has joined channel ##physics
+[12:56.28] * TheBigDeal (~antar@unaffiliated/innocent99) Quit (Quit: Leaving)
+[12:57.53] * Thooms (~thooms@salle106.atilla.org) Quit (Quit: WeeChat 1.0.1)
+[12:58.00] * sqrt2_ (~ben@212186197142.klafu.surfer.at) has joined channel ##physics
+[12:58.00] * sqrt2_ (~ben@212186197142.klafu.surfer.at) Quit (Changing host)
+[12:58.00] * sqrt2_ (~ben@unaffiliated/sqrt2) has joined channel ##physics
+[12:58.25] <apetiss> what do you mean logic universe? - and organic !=> logical? - organic (a living entity), from organism; one or more cells working together towards a common goal.
+[12:58.56] <webley> organic; arising from existing context, by small adaptations & changes
+[12:59.51] <webley> logic; arising from an arbitrary organizing paradigm
+[01:00.10] * sqrt2 (~ben@unaffiliated/sqrt2) Quit (Ping timeout: 250 seconds)
+[01:00.30] <webley> i think the subjective division between life & non-life is arbitrary
+[01:00.50] <webley> magically, poof, something becomes 'alive'?
+[01:01.05] <webley> most things are spectrums
+[01:03.08] <webley> it makes it easier to deal with things, mentally, by binary bifurcation
+[01:04.29] <apetiss> obviously.......
+[01:04.31] <apetiss> lol
+[01:04.34] <mortdeus> apetiss, well when it comes down to it all matter in the universe is composed of either stardust or the first elements that formed shortly after the big bang.
+[01:04.42] <webley> lol, me likes things easy
+[01:04.53] * sbellina (~sbellina@66.29.187.48.static.utbb.net) has joined channel ##physics
+[01:06.00] <apetiss> my thinking about life: life is intelligence, wherever there is a purpose or goal, there is life "pushing in that direction"
+[01:06.09] <apetiss> I don't believe life is a spectrum
+[01:06.18] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) Quit (Quit: Leaving)
+[01:06.25] <apetiss> And I think it makes much sense to differentiate between living and non-living things
+[01:06.45] <mortdeus> apetiss, in a sense humans can think because there is laws in physics in place that allow for elements to react in such a way to create a chemical reaction we call life.
+[01:06.49] <webley> are you sure it is not ego, apetiss? just asking
+[01:07.29] <webley> it is a way of dismissing all the potential noise
+[01:07.35] <webley> which is almost necessary
+[01:07.53] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Remote host closed the connection)
+[01:09.04] <webley> i think will must preceed organized life forms
+[01:09.40] <apetiss> webley I dont understand anything you say, really :p
+[01:09.40] <mortdeus> not only are there laws that permit for a chemical called life, but this chemical can react in a way that causes a variation between the chemical reactions that take place so that you don't always get the same result time after time
+[01:09.51] <webley> lol, apetiss
+[01:10.01] <webley> you are not alone
+[01:10.09] <apetiss> hehe good to know :)
+[01:10.27] <webley> what is really bad is when i don't understand myself
+[01:10.33] <webley> that's break time
+[01:10.38] * uv (~uv@178-164-143-233.pool.digikabel.hu) has joined channel ##physics
+[01:11.24] * fireballs (~fireballs@128.135.100.111) has joined channel ##physics
+[01:11.45] <apetiss> hehe
+[01:11.54] <webley> the reason we go after science is [mostly] determinism
+[01:12.12] <webley> making the seeming unpredictable [more] predictable
+[01:12.26] <mortdeus> and after so many chemical reactions, some of this chemical we call life changes into compounds that can start reacting with each other in a way that they produce a much more complex and sophisticated compound, and given enough time evolution keeps pushing forward until sentient beings like humans form.
+[01:12.35] <webley> but that bias may taint the science
+[01:13.25] * CarlosPL (~CarlosPL@234.120.117.91.dynamic.mundo-r.com) Quit (Ping timeout: 264 seconds)
+[01:13.43] <webley> looking for answers, presumes there are some
+[01:16.02] <webley> what is a common problem is arbitrary, rather than data led assignation of 'cause' & 'effect'
+[01:16.03] <mortdeus> humans can think in much the same way that computers can think using sophisticated circuits of logic gates made out of silicon which electricty can propogate through in a way that exploits a fundamental law of nature called semiconductivity.
+[01:17.03] <mortdeus> its just we are running on way more sophisticated hardware than what you can buy at walmart.
+[01:17.33] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) has joined channel ##physics
+[01:18.25] <koollman> mortdeus: I strongly disagree. We can try to think like computers, but we're not very good at it
+[01:18.41] <webley> are there a variety of fermions? a variety of bosons?
+[01:18.58] <koollman> so it's a waste of our hardware, because the walmart stuff will beat us on the 'think like a computer' benchmark :)
+[01:19.29] <webley> darn computers can think like computers
+[01:19.47] <apetiss> I think there is another explaination on why we cant do simple computer computations, kollman
+[01:19.50] <mortdeus> koollman, and when computers try to think like us they suck too. Whats your point?
+[01:20.05] <koollman> mortdeus: "can think in much the same way that computers can think" -> false
+[01:20.07] <apetiss> we are programmed differently
+[01:20.11] <webley> computers cant touch our confusion
+[01:20.51] <webley> bosons exclude bosons, but do they exclude fermions?
+[01:21.03] <webley> do fermions exclude bosons?
+[01:21.53] * shikhin_ (~shikhin@unaffiliated/shikhin) has joined channel ##physics
+[01:22.24] <fahadash> Can Quantum Entaglement be used to send information from one point in universe to another? Example, communication between Curiosity and Earth stations?
+[01:23.19] <mortdeus> koollman, I mean that the idea of human intelligence and sentience is possible because physics permit for logic systems to exist.
+[01:23.42] <koollman> I'm not sure it's a logic system
+[01:24.00] <koollman> humans are rarely rational
+[01:24.00] <webley> they are getting really good at peripheral, delicate sensing of things without direct observation
+[01:24.33] <webley> the human brain is mostly an irrational advatage seeking device
+[01:24.46] <webley> but that is probably life too.
+[01:25.00] <webley> irrational opportunism
+[01:25.04] <niston> fahadash: nope. ＋＋http://en.wikipedia.org/wiki/Superluminal_communication，，
+[01:25.20] * shikhin (~shikhin@unaffiliated/shikhin) Quit (Ping timeout: 265 seconds)
+[01:25.23] <webley> keep throwing it at the wall till something sticks, or you die trying
+[01:26.18] * xyzwhatever (~xyzwhatev@adsl-62-167-53-123.adslplus.ch) has joined channel ##physics
+[01:27.05] * rosalindwills (~Rosalind@209.64.168.66) Quit (Ping timeout: 250 seconds)
+[01:27.17] * shikhin_ is now known as shikhin
+[01:27.42] <mortdeus> and that from a physical interpretation, the difference between a human and a computer is, if you guys bare with me, is like the difference between a mac and a pc. Where a mac is a totally different platform than windows when it comes to silicon based, boolean logic derived logic system, we are just a different platform of computer when compared to digital computers when speaking in the most abstract interpretation of logic systems.
+[01:28.25] <mortdeus> ＋＋https://en.wikipedia.org/wiki/Transcriptor，，
+[01:28.57] <webley> computers are proceedural, humans [neurological entities] are irrational compulsive thrashers
+[01:29.18] <imaami> humans be wet.
+[01:29.26] * kaffeetrauma (~Thunderbi@ip-37-24-206-234.hsi14.unitymediagroup.de) has joined channel ##physics
+[01:29.28] <webley> sometimes messy
+[01:29.42] * mithenks (~eymerich@host82-247-static.21-80-b.business.telecomitalia.it) Quit (Quit: Sto andando via)
+[01:30.08] <webley> it is bosons that have exclusive occupation of space, yes?
+[01:30.24] <mortdeus> that is the biological version of a CPU transistor. And here is the digital version of the neuron. ＋＋http://www.research.ibm.com/cognitive-computing/#fbid=erMcHPa9acP，，
+[01:31.45] <webley> it is probably the fragmentary, broken bits of logic that lead dynamic action
+[01:31.46] * zyxw (~zyx@esp64-2-83-155-176-36.fbx.proxad.net) Quit (Quit: Quitte)
+[01:32.09] <SpeedEvil> All of this seems quite off-topic
+[01:32.12] * rosalindwills (~Rosalind@209.64.168.66) has joined channel ##physics
+[01:32.48] <mortdeus> webley, Well, we all run on a form of software. Some people just have malware and unfortunately we havent figured out how to install sophos on them yet. ;P
+[01:33.02] * dankas (~dankas@ua-213-113-231-233.cust.bredbandsbolaget.se) has joined channel ##physics
+[01:33.13] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) Quit (Quit: irc2go)
+[01:35.18] * wizkidsafo (~wizkidsaf@CPEc8fb26475313-CMc8fb26475310.cpe.net.cable.rogers.com) has joined channel ##physics
+[01:35.44] * pierre1_ (~pierre1@189.122.208.96) Quit (Ping timeout: 252 seconds)
+[01:37.52] * webley (irc2gowebc@67-150-127-74.lsan.mdsg-pacwest.com) has joined channel ##physics
+[01:39.30] <wizkidsafo> Greetings, So I got this problem where I'm to calculate total displacement by adding displacements in opposite directions. Q:"If a dog leaves her trainer & runs 80m due west to pick up a ball, she then carries the ball 27m due east to a drop off point. whats the dogs total displacement" So I have the solution and it says that 27 meters due east is the same as -27m [W]... I dont understand how that can be
+[01:39.32] <wizkidsafo> true.
+[01:40.54] <koollman> wizkidsafo: if you walk 10m one way, then walk back to your starting point 10m, what's the displacement ?
+[01:41.02] * cbot` (~FS@ool-4355a0bf.dyn.optonline.net) has joined channel ##physics
+[01:42.01] <wizkidsafo> 0m?
+[01:42.21] <wizkidsafo> sorry 20m
+[01:42.37] * arun__ (~arun@150.107.204.33) has joined channel ##physics
+[01:42.55] * gravitation (~gravitati@atlas.phys.columbia.edu) has joined channel ##physics
+[01:48.27] *** Server disconnected on irc.freenode.net

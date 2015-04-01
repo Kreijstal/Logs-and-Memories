@@ -1,0 +1,269 @@
+Session Start: Sat Mar 07 02:31:01 2015
+Session Ident: ##windows
+[02:31.01] *** Server disconnected on irc.freenode.net
+[02:31.22] * You have joined ##windows
+[02:31.22] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[02:31.22] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[02:31.24] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[02:31.24] Channel Created on: 7:11 PM 10/7/2005
+[09:31.26] *** Server disconnected on tepper.freenode.net
+[12:01.31] * You have joined ##windows
+[12:01.32] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[12:01.32] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[12:01.33] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[12:01.33] Channel Created on: 7:11 PM 10/7/2005
+[12:02.01] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[12:02.31] * friendlyguy (~Winshit@HSI-KBW-46-237-236-232.hsi.kabel-badenwuerttemberg.de) Quit (Quit: Leaving.)
+[12:02.36] * star114 (~star114@182.230.175.34) Quit (Remote host closed the connection)
+[12:03.03] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Remote host closed the connection)
+[12:03.07] * exixt (~exixt@c83-251-238-230.bredband.comhem.se) has joined channel ##windows
+[12:03.35] * exixt (~exixt@c83-251-238-230.bredband.comhem.se) Quit (Changing host)
+[12:03.35] * exixt (~exixt@unaffiliated/exixt) has joined channel ##windows
+[12:03.57] * sleap64 (~sleap64@97e4c216.skybroadband.com) has joined channel ##windows
+[12:04.27] * hirogen1 (hirogen@90.217.53.94) has joined channel ##windows
+[12:05.07] * SonikkuAmerica (~S-USA@unaffiliated/sonikkuamerica) has joined channel ##windows
+[12:08.25] * Cymage (~james@unaffiliated/cymage) has joined channel ##windows
+[12:10.14] * Markus_123 (~Markus123@80-121-45-143.adsl.highway.telekom.at) Quit (Quit: Leaving)
+[12:13.49] * genera (~genera@unaffiliated/genera) has joined channel ##windows
+[12:14.05] * Sir_Leto3 (~Sir_Leto@unaffiliated/sir-leto/x-356438) Quit (Ping timeout: 252 seconds)
+[12:16.52] * Javacat (~Javacat@unaffiliated/javacat) Quit (Ping timeout: 264 seconds)
+[12:17.10] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Leaving)
+[12:18.22] * oleo (~oleo@xdsl-84-44-208-138.netcologne.de) has joined channel ##windows
+[12:18.29] * oleo (~oleo@xdsl-84-44-208-138.netcologne.de) Quit (Changing host)
+[12:18.29] * oleo (~oleo@unaffiliated/oleo) has joined channel ##windows
+[12:19.02] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[12:20.24] * kggr (~korggrodn@37.214.160.175) has joined channel ##windows
+[12:20.30] * oleo (~oleo@unaffiliated/oleo) Quit (Read error: Connection reset by peer)
+[12:22.06] * occultus (~occultus@207.196.185.57) Quit (Quit: Leaving)
+[12:22.09] * khanman (~khan@74.215.219.231) Quit (Ping timeout: 252 seconds)
+[12:22.11] * astrofog (~astrofog@unaffiliated/astrofog) Quit (Quit: Quite)
+[12:25.09] * dionysus69 (~chatzilla@93.177.161.67) has joined channel ##windows
+[12:27.14] * oleo (~oleo@unaffiliated/oleo) has joined channel ##windows
+[12:27.24] * Keanu73 (~Keanu73@unaffiliated/keanu73) has joined channel ##windows
+[12:27.40] * CookieJar (~CookieJar@wnklmb01dc1-186-205.dynamic.mtsallstream.net) Quit (Ping timeout: 264 seconds)
+[12:30.10] * dionysus69 (~chatzilla@93.177.161.67) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 36.0.1/20150305021524])
+[12:30.54] * wonderworld (~ww@ip-176-199-166-61.hsi06.unitymediagroup.de) Quit (Remote host closed the connection)
+[12:33.21] <user123321> Here's a riddle question: Other than pressing enter or down key arrow, how can the cursor be moved down along the notepad's left edge? :)
+[12:34.21] <Extreminador> using a finger
+[12:35.32] <user123321> oops, I mean using the keyboard* - no touch screens ;)
+[12:35.59] * STalKer-X (stalker@unaffiliated/sothotalker) Quit (Remote host closed the connection)
+[12:36.11] * mki (~mki@vpnx242.nemendur.hi.is) has joined channel ##windows
+[12:36.20] <mki> hey guys, what's up
+[12:36.37] * STalKer-X (stalker@unaffiliated/sothotalker) has joined channel ##windows
+[12:37.02] <user123321> mki, good day.
+[12:37.17] <mki> have you got some multitasking tips for me?
+[12:37.56] <mki> roughly a year ago i switched to windows from a mac, and i'm having a hard time multitasking (no hater)
+[12:39.14] <user123321> mki, I thought Apple was not a fan of "multitasking"
+[12:39.35] <user123321> mki, what do you specifically mean though?
+[12:39.52] * Mr_X (~Mr_X@unaffiliated/mr-x/x-3310228) Quit ()
+[12:40.36] * Nazgul (nazgul@US-govt.org) has joined channel ##windows
+[12:41.17] * troete (~troete@p5491D54A.dip0.t-ipconnect.de) has joined channel ##windows
+[12:41.50] * Joufflu (~Jouffluxx@2602:306:8b23:1250:2054:ecef:4931:ad38) Quit (Ping timeout: 265 seconds)
+[12:42.09] * CookieJar (~CookieJar@wnklmb01dc1-206-7.dynamic.mtsallstream.net) has joined channel ##windows
+[12:42.11] <mki> for example, now i'm working on different stuff, 1) a job application (word, e-mails, browser), 2) a report (word, excel, browser, skype) and 3) programming (word processors, IDEs etc.)
+[12:42.34] <mki> so i'm working 3 different things and i've got so much stuff open i can't be closing and opening again all the time
+[12:42.45] <mki> and my desktop is just a pile of windows
+[12:43.11] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 245 seconds)
+[12:43.19] <mki> including explorer windows i've got 23 windows in my desktop
+[12:43.30] <mki> it's just a mess cycling through using alt-tab
+[12:44.02] * phre4k (~phre4k@55d4116c.access.ecotel.net) Quit (Quit: Leaving)
+[12:44.10] <mki> e.g. can i use some alt-tab shortcut to cycle through open windows within a specific application?
+[12:44.37] * bleepy (~bleepy@bleepy.org) Quit (Quit: ZNC - ＋＋http://znc.in，，)
+[12:45.13] * bleepy (~bleepy@bleepy.org) has joined channel ##windows
+[12:46.18] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[12:46.19] * CookieJar (~CookieJar@wnklmb01dc1-206-7.dynamic.mtsallstream.net) Quit (Ping timeout: 244 seconds)
+[12:47.16] <user123321> mki, Umm, instead of cycling, you could use the taskbar to restore the required Window back
+[12:47.29] * Nazgul (nazgul@US-govt.org) Quit (Remote host closed the connection)
+[12:47.46] * icecream (icecream@unaffiliated/icecream-) Quit (Remote host closed the connection)
+[12:47.58] <mki> yeah, i've got 5 chrome windows open
+[12:49.04] * Nazgul (nazgul@US-govt.org) has joined channel ##windows
+[12:49.38] * user1233211 (~user@112.134.191.246) has joined channel ##windows
+[12:49.58] * Soda (~user@109.229.230.161) has joined channel ##windows
+[12:50.20] * Kitar|st (Kitarst@89.142.14.173) Quit ()
+[12:50.35] * icetea (icecream@unaffiliated/icecream-) has joined channel ##windows
+[12:50.58] * icetea is now known as Guest48841
+[12:51.48] * Guest48841 is now known as icecream
+[12:52.35] * user123321 (~user@112.134.225.108) Quit (Ping timeout: 264 seconds)
+[12:53.03] * icecream (icecream@unaffiliated/icecream-) Quit (Remote host closed the connection)
+[12:53.57] * icetea_ (icecream@unaffiliated/icecream-) has joined channel ##windows
+[12:54.07] * Kitar|st (Kitarst@89.142.14.173) has joined channel ##windows
+[12:54.10] * Pyrotek (~pyrotek@c-50-141-140-211.hsd1.il.comcast.net) has joined channel ##windows
+[12:54.38] <RedOrangeZ> CCC has a multidesktop option.
+[12:57.12] * slojanko (~usuck@internet-188-196-100-242.narocnik.mobitel.si) has joined channel ##windows
+[12:57.28] * icetea_ (icecream@unaffiliated/icecream-) Quit (Client Quit)
+[12:58.41] * CookieJar (~CookieJar@wnklmb01dc1-191-158.dynamic.mtsallstream.net) has joined channel ##windows
+[12:59.21] * icecream (icecream@unaffiliated/icecream-) has joined channel ##windows
+[12:59.23] * sleap64 (~sleap64@97e4c216.skybroadband.com) has joined channel ##windows
+[12:59.33] * CTtechguy (~CTtechguy@unaffiliated/cttechguy) Quit (Quit: There can only be Arch...)
+[12:59.35] * oeuvre (~WIN95@unaffiliated/oeuvre) has joined channel ##windows
+[01:03.02] * star114 (~star114@182.230.175.34) has joined channel ##windows
+[01:03.35] * CookieJar (~CookieJar@wnklmb01dc1-191-158.dynamic.mtsallstream.net) Quit (Ping timeout: 265 seconds)
+[01:05.12] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[01:06.46] <hirogen1> any lync support guys here god damn we get a lot of lync issues
+[01:08.05] * Deihmos_ (~Deihmos@ool-44c6863f.dyn.optonline.net) has joined channel ##windows
+[01:08.09] * star114 (~star114@182.230.175.34) Quit (Ping timeout: 250 seconds)
+[01:08.39] * Martiini (~Martiini@8e55-7800-2385-314d-c201-840b-07d0-2001.dyn.estpak.ee) has joined channel ##windows
+[01:10.34] * Deihmos (~Deihmos@ool-44c6863f.dyn.optonline.net) Quit (Ping timeout: 246 seconds)
+[01:11.42] * NinjaCowboy (~NinjaCowb@ip184-190-70-217.no.no.cox.net) Quit (Quit: Nettalk6 - ＋＋www.ntalk.de，，)
+[01:11.59] * web-man (~silver-ma@46-146-221.adsl.cyta.gr) has joined channel ##windows
+[01:12.04] * Anodl (~Anodl@p57B24EDE.dip0.t-ipconnect.de) Quit (Quit: Leaving.)
+[01:12.10] * Anodl (~Anodl@p57B24EDE.dip0.t-ipconnect.de) has joined channel ##windows
+[01:13.01] * QORRiE (~dorian@77-173-0-137.ip.telfort.nl) Quit (Remote host closed the connection)
+[01:16.30] * Anodl (~Anodl@p57B24EDE.dip0.t-ipconnect.de) Quit (Ping timeout: 245 seconds)
+[01:17.42] * NinjaCowboy (~ninjacowb@ip184-190-70-217.no.no.cox.net) has joined channel ##windows
+[01:18.15] * QORRiE (~dorian@77-173-0-137.ip.telfort.nl) has joined channel ##windows
+[01:20.02] <m0dest> mki: Windows 10 has multiple desktops.
+[01:21.39] * Yoofie (~chatzilla@75-114-203-47.res.bhn.net) has joined channel ##windows
+[01:23.21] * hirogen1 (hirogen@90.217.53.94) Quit (Ping timeout: 240 seconds)
+[01:25.06] * MasterShake_ (~MasterSha@cpe-74-71-137-173.nyc.res.rr.com) has joined channel ##windows
+[01:25.55] * TimothyWT (~chairman@h186.48.189.173.dynamic.ip.windstream.net) Quit (Ping timeout: 250 seconds)
+[01:25.58] * ManikM (~quassel@103.251.227.172) has joined channel ##windows
+[01:26.26] * MasterShake2 (~MasterSha@pool-100-2-161-103.nycmny.fios.verizon.net) has joined channel ##windows
+[01:26.57] * TimothyWT (~chairman@h186.48.189.173.dynamic.ip.windstream.net) has joined channel ##windows
+[01:27.25] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) has joined channel ##windows
+[01:27.28] * aca20031 (~aca@192.99.32.104) has joined channel ##windows
+[01:28.07] <aca20031> Is there a way to use different credentials for essentially all network connections? e.g. im on a VPN for work and want to tell windows to just use my domain credentials by default when accessing shares and intranet sites rather than prompting me every time
+[01:29.23] * korg (~korggrodn@37.214.160.175) has joined channel ##windows
+[01:29.28] * NinjaCowboy (~ninjacowb@ip184-190-70-217.no.no.cox.net) Quit (Ping timeout: 264 seconds)
+[01:29.49] * MasterShake_ (~MasterSha@cpe-74-71-137-173.nyc.res.rr.com) Quit (Ping timeout: 246 seconds)
+[01:30.07] * funch_ (~funch@251-239-191-90.dyn.estpak.ee) has joined channel ##windows
+[01:31.19] * robin0800 (~manjaro-k@cpc7-brig15-2-0-cust747.3-3.cable.virginm.net) has joined channel ##windows
+[01:32.13] * funch (~funch@251-239-191-90.dyn.estpak.ee) Quit (Ping timeout: 256 seconds)
+[01:33.20] * kggr (~korggrodn@37.214.160.175) Quit (Ping timeout: 244 seconds)
+[01:33.49] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Remote host closed the connection)
+[01:33.59] * korg (~korggrodn@37.214.160.175) Quit (Ping timeout: 264 seconds)
+[01:35.19] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[01:36.46] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) has joined channel ##windows
+[01:37.08] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Read error: Connection reset by peer)
+[01:38.45] * CheckDavid (uid14990@gateway/web/irccloud.com/x-zbakpbnizhmqdyua) Quit (Quit: Connection closed for inactivity)
+[01:41.16] * Nazgul (nazgul@US-govt.org) Quit (Quit: changing servers)
+[01:41.53] * Nazgul (nazgul@174.128.239.222) has joined channel ##windows
+[01:44.04] * littlebunnyfufu (~S-USA@unaffiliated/sonikkuamerica) has joined channel ##windows
+[01:45.09] * Auv (~jack@unaffiliated/auv5) has joined channel ##windows
+[01:45.55] * SonikkuAmerica (~S-USA@unaffiliated/sonikkuamerica) Quit (Ping timeout: 246 seconds)
+[01:47.51] * x-faktor (~WinGuru@reactos/tester/x-fak) Quit (Ping timeout: 240 seconds)
+[01:50.29] * mki (~mki@vpnx242.nemendur.hi.is) has left ##windows ()
+[01:52.05] * Nazgul (nazgul@174.128.239.222) Quit (Quit: changing servers)
+[01:55.17] * slojanko (~usuck@internet-188-196-100-242.narocnik.mobitel.si) Quit (Quit: Got stuff to do!)
+[01:56.12] * tus (~tus@unaffiliated/tus) has joined channel ##windows
+[01:56.23] * decoponio (~decoponio@pon059-128.kcn.ne.jp) Quit (Quit: Leaving...)
+[01:56.47] <Phurious> aca20031: Have you tried the Credentials Manager in W7?
+[01:56.51] <Phurious> Have not myself
+[01:56.53] <Phurious> Just curious
+[01:58.15] * vaba (~user@78-56-221-194.static.zebra.lt) has joined channel ##windows
+[01:58.33] * Vespine (~user@89.142.2.42) has joined channel ##windows
+[01:59.01] <vaba> can anyone help me with windbg, i want to analyze dump file to find out why i am getting bsods?
+[02:00.42] * kggr (~korggrodn@37.214.160.175) has joined channel ##windows
+[02:01.52] * cubear (~user@89.142.13.230) Quit (Ping timeout: 272 seconds)
+[02:02.46] * hirogen1 (hirogen@90.217.53.94) has joined channel ##windows
+[02:04.01] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[02:04.47] <aca20031> lets see
+[02:05.21] <aca20031> vaba what do you waNT TO KNOW
+[02:05.29] <aca20031> besides how to use caps lock
+[02:05.55] <vaba> aca20031, well, i want to track down what is causing bsods
+[02:06.13] <Phurious> aca20031: You should be able to add a credential based on the domain name
+[02:06.14] * kruug (~kruug@unaffiliated/kruug) Quit (Ping timeout: 255 seconds)
+[02:06.28] <aca20031> Yeah I jsut dont see how to mark one as "default" so to speak
+[02:06.47] <Phurious> Not sure you need to
+[02:06.52] <vaba> it looks like it is ndis.sys, but i am not sure if i did ir right and what to do next
+[02:07.01] <Phurious> As long as you have a *.domain.com
+[02:07.09] <aca20031> vaba !analyze -v says what
+[02:07.30] * Scourjee (uid63311@gateway/web/irccloud.com/x-dsctdnnwxbakndpm) has joined channel ##windows
+[02:07.57] * kggr (~korggrodn@37.214.160.175) Quit (Ping timeout: 244 seconds)
+[02:10.23] <vaba> aca20031, ＋＋http://pastebin.com/nDANWBMq，，
+[02:10.52] <aca20031> driver error
+[02:11.00] <aca20031> so check the stack with: kp
+[02:11.44] * BrianBlaze420 (~blaze@unaffiliated/brianblaze) Quit (Ping timeout: 265 seconds)
+[02:11.48] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) Quit (Remote host closed the connection)
+[02:11.52] * sleap64 (~sleap64@97e4c216.skybroadband.com) has joined channel ##windows
+[02:12.08] * RobotsOnDrugs (~IAmTheCla@freebsd/lover/iamtheclaw) has joined channel ##windows
+[02:12.11] <vaba> aca20031, ＋＋http://pastebin.com/YRfhvSVu，，
+[02:12.21] <aca20031> oh thats not eeven a bit helpful
+[02:13.22] <vaba> what to do to make it helpful?
+[02:14.12] <aca20031> whats .sympath say
+[02:15.13] <vaba> Symbol search path is: <empty>
+[02:15.13] <vaba> Expanded Symbol search path is: <empty>
+[02:15.17] <aca20031> try .symfix
+[02:15.18] <aca20031> .reload
+[02:15.21] <aca20031> and another !analyze -v
+[02:15.24] <aca20031> but i dont haver much faith
+[02:16.43] <sepeck> vaba: ＋＋http://www.freenode-windows.org/resources/all-windows-versions/troubleshooting-bsod，，
+[02:17.06] <aca20031> wheres the fun in that
+[02:17.16] <vaba> aca20031, ＋＋http://pastebin.com/X0jWXmVQ，，
+[02:18.55] * pteh (~pteh@105.154.78.8) has joined channel ##windows
+[02:19.04] <aca20031> . is that all it printed?
+[02:19.27] <vaba> yes
+[02:19.33] * sleap64 (~sleap64@97e4c216.skybroadband.com) Quit (Quit: Client Terminated)
+[02:19.39] <aca20031> fascinating.
+[02:19.54] <vaba> sorry
+[02:20.02] <vaba> it seems it was "busy"
+[02:20.06] <vaba> now i see more info
+[02:20.14] * pteh (~pteh@105.154.78.8) Quit (Excess Flood)
+[02:20.31] <aca20031> paste it; it looks like a kernal routine that  checks the integrity of that data structure periodically found something corrupted it - which means whatever corrupted it is likely not on the stack
+[02:21.03] * Lpfn (~Lpfn@plb95-1-82-229-89-38.fbx.proxad.net) has joined channel ##windows
+[02:21.41] <vaba> ＋＋http://pastebin.com/y6GBUHHe，，
+[02:22.02] * Gr1zzly (Elite9820@gateway/shell/elitebnc/x-ulbnepapxiaxkxvf) has left ##windows ()
+[02:23.15] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) has joined channel ##windows
+[02:24.07] <aca20031> installed any services lately (or when the BSODs started)?
+[02:24.38] * thumpba (~thumpba@99-180-68-233.lightspeed.irvnca.sbcglobal.net) Quit (Remote host closed the connection)
+[02:24.56] <vaba> i think no
+[02:26.30] * wisey (~Steven@host-2-102-71-48.as13285.net) has joined channel ##windows
+[02:27.37] <aca20031> frankly its not that helpful, something corrupted a data structure and a service caught it and bugchecked.  Finding that something would be hard - you could check to see what preocesses are running during the dump (window > processes and threads) and check eventvwr for any errors to but probably they dont know they corrupted it and wont have logged an error
+[02:27.55] <vaba> aca20031, just double checked my recently installed programs - i have not installed anything in the last month
+[02:27.55] <aca20031> tracking it down would take a decicated developer :)
+[02:28.25] <aca20031> you could search for those buckets online and see if anyone has any thoughts - someone suggested doing a windows upgrade to repair
+[02:28.37] * Expel (~Expel@88.84.253.236) has joined channel ##windows
+[02:29.25] * allstarsnorks2 (~als2@202.166.23.80) has joined channel ##windows
+[02:30.35] <allstarsnorks2> Hey there. Just asking. Will I get the final build of Windows 10 if I am on TP?
+[02:31.12] <CaptObvious> no
+[02:31.22] <aca20031> wouldnt trust the windows upgrade system even if you do
+[02:31.24] * sleap64 (~sleap64@97e4c216.skybroadband.com) has joined channel ##windows
+[02:31.35] <CaptObvious> aca20031 - I upgraded from 8.1 to the TP and it went flawlessly
+[02:31.36] <CaptObvious> I was shocked
+[02:31.41] <aca20031> lol
+[02:31.54] <CaptObvious> had it on a USB stick just in case, tried the upgrade
+[02:32.00] <CaptObvious> took about 20 mins and I was in win10 with everything there
+[02:32.12] <aca20031> at the very least i bet its kept useless registry entries or SxS directories
+[02:32.18] * teku_ (~tekuru@95.235.32.194) has joined channel ##windows
+[02:32.54] * Defunk (defunk@telnetd.org) Quit (Ping timeout: 272 seconds)
+[02:33.21] <vaba> aca20031, are my bsods related to ndis.sys (something related with network)?
+[02:33.22] <aca20031> back to my "default credentials" question; I entered: server *.corp.domain.com, DOMAIN\user as user, and password into credential manager (under windows credentials)
+[02:33.24] * Defunk (defunk@telnetd.org) has joined channel ##windows
+[02:33.31] * allstarsnorks2 (~als2@202.166.23.80) Quit (Client Quit)
+[02:33.34] <aca20031> but when I connect to \\foo where foo is foo.corp.domain.com (DNS) it prompts me
+[02:33.35] * ManikM (~quassel@103.251.227.172) Quit (Ping timeout: 245 seconds)
+[02:33.50] * Happzz (void@unaffiliated/ducch) has joined channel ##windows
+[02:33.56] <aca20031> vaba I see no sign of that from that dump
+[02:34.22] <aca20031> mm
+[02:34.24] <aca20031> well thats notr tue
+[02:34.31] <aca20031> MODULE_NAME: NETIO
+[02:34.37] <aca20031> seems networky to me
+[02:34.45] * lkjh1 (~lkjh@178.62.38.128) Quit (Quit: leaving)
+[02:35.04] <vaba> there was: "Probably caused by : ndis.sys ( ndis+2fa29 )"
+[02:35.45] <aca20031> ndis!ndisNsiGetInterfaceInformation
+[02:35.49] <aca20031> that is on the stack
+[02:36.19] <vaba> i am not sure if that is coincidence or not, but i am getting bsods when i am surfing on Chrome
+[02:36.42] <aca20031> does view > processes and threads show anyhing or is this a mini dump
+[02:37.06] * applegal (applegal@unaffiliated/applegal) has joined channel ##windows
+[02:37.30] * `coma (~relax@CPE0026f3966ed8-CM0026f3966ed5.cpe.net.cable.rogers.com) has joined channel ##windows
+[02:37.38] <vaba> processes and threads shows: 1 2 3 4 :)
+[02:37.51] * Expel (~Expel@88.84.253.236) Quit (Quit: I'm off, take care.)
+[02:37.56] <aca20031> pretty useless eh
+[02:38.30] <aca20031> I guess you could try reinstalling your network drivers but thats a shot in the dark
+[02:39.53] <vaba> i guess i will have to reinstall windows :/
+[02:40.14] * lkjh0 (~lkjh@178.62.38.128) has joined channel ##windows
+[02:40.17] <aca20031> might as well follow  that boring l ink from above first
+[02:40.28] <aca20031> 11:16:53] <sepeck> vaba: ＋＋http://www.freenode-windows.org/resources/all-windows-versions/troubleshooting-bsod，，
+[02:40.43] <vaba> i saw that
+[02:41.16] <vaba> in my case it is 2 -> 2
+[02:41.44] <vaba> bluescreenview is not helpful
+[02:41.48] * DrHouse|DellM650 (~mmanley@71-95-55-206.dhcp.rvsd.ca.charter.com) has joined channel ##windows
+[02:42.02] * Morfio (~Morfio@p4FC33FB0.dip0.t-ipconnect.de) Quit (Quit: Leaving)
+[02:42.13] <aca20031> sure it is
+[02:42.44] <aca20031> we know why there was a fault - if you were a developer getting this in your program you could probably track it down
+[02:42.59] <aca20031> but since youre not, and you dont know for sure what program causes it...yeah kind of meh
+[02:43.45] * Lpfn (~Lpfn@plb95-1-82-229-89-38.fbx.proxad.net) Quit (Remote host closed the connection)
+[02:43.47] <aca20031> interesting. I entered foo.corp.domain.com into the credential manager (instead of *)
+[02:44.01] <aca20031> now when I go anywhere I get "An extended error has occured"
+[02:46.01] * Aukn (~Aukn@AToulouse-556-1-160-51.w92-162.abo.wanadoo.fr) has joined channel ##windows
+[03:58.13] *** Server disconnected on irc.freenode.net

@@ -1,0 +1,63 @@
+Session Start: Wed Feb 18 12:30:04 2015
+Session Ident: ##math
+[12:30.04] * You have joined ##math
+[12:30.05] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[12:30.05] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[12:30.06] Channel modes for ##math are :+Ccnt
+[12:30.06] Channel Created on: 8:42 PM 1/29/2010
+[12:30.39] <Ouroboros_> s3a: ＋＋http://en.wikipedia.org/wiki/Random_variable#Functions_of_random_variables，，
+[12:30.59] <s3a> Ouroboros_, are you implying that i'm saying nonsense? :P
+[12:31.06] * prashant1cr (~prashanth@wff098-111.ust.hk) has joined channel ##math
+[12:31.20] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Quit: Leaving)
+[12:31.24] <s3a> Ouroboros_, (but thanks for that link)
+[12:31.32] <s3a> i saw the link, but didn't notice that section
+[12:31.59] <Dann20> Anyone?
+[12:32.23] <s3a> Ouroboros_, but, could you just give me one simple-to-understand sentence that doesn't go too deep about functions of random variables like Y = X^2 + 1?
+[12:33.22] <Rainb> how do I calculate "bulgeness" of a curve as in, very round or very square-like
+[12:33.32] <Rainb> if that makes any sense
+[12:33.39] * goodenough (~goodenoug@pool-108-13-13-188.lsanca.fios.verizon.net) has joined channel ##math
+[12:33.40] <Ouroboros_> s3a: i guess essentially P(Y = y) = sum_{x | x^2+1 = y} P(x), but there might be some technicalities why you want to use the CDF instead
+[12:33.54] <lavender> rainb: do you mean curvature?
+[12:34.02] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) has joined channel ##math
+[12:34.08] * paulo___ (~paulo__@49.146.147.17) has joined channel ##math
+[12:34.52] <paulo___> hello, simple statistics question, I have a game with a chance of winning P, I have n tries. what is the probability that I win once?
+[12:34.57] <paulo___> *once or more
+[12:34.58] * mooson (~mooson@24-240-26-230.dhcp.gwnt.ga.charter.com) Quit (Quit: Leaving)
+[12:35.07] <paulo___> I just need to win once.
+[12:35.16] <Ouroboros_> paulo___: what is the probability that you always lose?
+[12:35.26] <Rainb> lavender: Maybe, I think so.
+[12:35.34] <lavender> well, curvature has a definition
+[12:35.46] <lavender> you can ask the wikipedia for detials
+[12:36.01] <s3a> Ouroboros_, what you wrote seems like it could be simpler than the other stuff that i read, but i realize i'm just too sleepy to think anymore . . . I'll look at my logs tomorrow. thanks. :)
+[12:36.03] <paulo___> Intuition tells me that the more chances n I get, the higher the probability of winning
+[12:36.25] <Rainb> lavender: I looked curvature in wikipedia up, before replying as I didn't know what curvature was.
+[12:36.27] <lavender> can you quantify that intuition?
+[12:37.12] <euclid> I should have that: (1+j/n)^((1/2)*(n+j+1) * (1-j/n)^((1/2)*(n-j+1) approximately equals exp(-j^2/2n)
+[12:37.15] <paulo___> for P=50%, the chance of winning is 1-2^-n
+[12:37.19] <Rainb> lavender: so a small curvature means that the curve is very square like, however a 'infinite' curvature would be a line
+[12:37.21] * frivol (~frivol@unaffiliated/flippo) Quit (Quit: Reality reasserts itself sooner or later.)
+[12:37.36] <euclid> for the big expression on left, you take the ln and then use taylor series and stop at second term because j/n is very small
+[12:37.39] <euclid> then raise to e
+[12:37.48] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 240 seconds)
+[12:37.50] <euclid> but i keep getting exp(-j^2(n-1)/2n^2
+[12:37.52] <euclid> )
+[12:37.55] * s3a (~s3a@ip216-239-83-48.vif.net) Quit (Quit: Leaving)
+[12:38.04] <Ouroboros_> s3a: the fully rigourous.... argh he left
+[12:38.06] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[12:38.17] <paulo___> how do I solve it for arbitrary P?
+[12:38.33] * Guest93291 (~rvchangue@onawhole.com) Quit (Read error: Connection timed out)
+[12:38.49] <Ouroboros_> paulo___: ues the feynman method
+[12:39.20] * paulo___ chuckles
+[12:39.32] * Dann20 (6c3d6598@gateway/web/cgi-irc/kiwiirc.com/ip.108.61.101.152) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:39.40] <Ouroboros_> paulo___: what is the probability of losing once
+[12:39.41] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[12:40.06] <paulo___> 1-P
+[12:40.19] <SailorR> \＋＋https://www.youtube.com/watch?v=zPO5wausim8，，
+[12:40.21] <SailorR> ＋＋https://www.youtube.com/watch?v=zPO5wausim8，，
+[12:40.22] <Ouroboros_> ok, what is the proability of losing the first time AND the second time?
+[12:40.34] <paulo___> (1-P)(1-P) ?
+[12:40.37] * Dann20 (68cf8819@gateway/web/cgi-irc/kiwiirc.com/ip.104.207.136.25) has joined channel ##math
+[12:40.46] * illustion (~Mr@24.114.27.93) has joined channel ##math
+[12:40.50] <Dann20> Can someone tell me why this proof is wrong?
+[12:40.51] <Dann20> ＋＋http://mathb.in/27705，，
+[04:42.14] *** Server disconnected on irc.freenode.net

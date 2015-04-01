@@ -1,0 +1,173 @@
+Session Start: Sat Feb 21 06:48:36 2015
+Session Ident: ##windows
+[06:48.36] * You have joined ##windows
+[06:48.36] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[06:48.36] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[06:48.36] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[06:48.36] Channel Created on: 7:11 PM 10/7/2005
+[06:48.39] <Rainb> hai
+[06:48.40] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[06:48.40] --ChanServ-- [##physics] Don't ask to ask... ask!
+[06:48.40] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[06:48.40] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[06:49.24] <Rainb> So, uhm, can you create custom keyboard layouts in windows 8
+[06:49.38] * windows-newbie (8eb07e45@gateway/web/freenode/ip.142.176.126.69) has joined channel ##windows
+[06:50.16] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##windows
+[06:50.42] * CheckDavid (uid14990@gateway/web/irccloud.com/x-idudtlzjcpgqpdfr) has joined channel ##windows
+[06:51.35] * Tinfoilhat_ (~quassel@142.68.118.112) has joined channel ##windows
+[06:51.37] * Ecil (~Ecil@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) has joined channel ##windows
+[06:51.45] * donavan01 (~donavan01@c-24-131-204-16.hsd1.wv.comcast.net) has joined channel ##windows
+[06:51.45] --donavan01-- logged in with account (donavan01)
+[06:52.55] * Thecrazylumberja (~Thecrazyl@cpe-67-248-142-93.nycap.res.rr.com) Quit (Quit: Leaving)
+[06:53.16] * Thecrazylumberja (~Thecrazyl@cpe-67-248-142-93.nycap.res.rr.com) has joined channel ##windows
+[06:53.30] <windows-newbie> Hello, I just recently installed a super old windows xp pro (sp1) on a friends computer after formatting, and it has no drivers :S. I'm trying to get connected to the net but have some barriers: I'm trying to install ethernet drivers to connect via direct [dsl] but the USB storage devices im trying to use to transfer the drivers is not seen - is there anything I can do short of burning a disc ? (we have none here)|
+[06:53.47] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) has joined channel ##windows
+[06:53.51] * rubytor (~quassel@200.8.120.76) has joined channel ##windows
+[06:53.55] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) Quit (Remote host closed the connection)
+[06:54.23] * wisey (~Steven@host-2-102-71-48.as13285.net) Quit (Ping timeout: 265 seconds)
+[06:55.08] * daynaskully (~digifiv5e@unaffiliated/daynaskully) Quit (Ping timeout: 256 seconds)
+[06:55.10] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) has joined channel ##windows
+[06:55.13] * Vtarl (~Vtarl@ARouen-651-1-289-59.w109-209.abo.wanadoo.fr) Quit (Ping timeout: 264 seconds)
+[06:55.55] * JotaK (~Seven@unaffiliated/jotak) Quit (Quit: ChatZilla 0.9.90.1-rdmsoft [XULRunner 1.9.2.19/20110707195905])
+[06:56.11] * mikeydoodles (~Michael@2601:0:bb00:f9a:bd43:dced:9b53:55e9) has joined channel ##windows
+[06:56.20] * rigor789|away is now known as rigor789
+[06:57.34] * digifiv5e (~digifiv5e@blk-252-14-23.eastlink.ca) has joined channel ##windows
+[06:57.41] * digifiv5e is now known as Guest71148
+[06:58.16] * Pyrotek (~pyrotek@c-50-141-140-211.hsd1.il.comcast.net) Quit (Quit: Leaving)
+[06:58.44] * ormaaj (~ormaaj@75-168-129-146.mpls.qwest.net) Quit (Quit: WeeChat 1.1-rc2)
+[07:00.20] * Jan\ (kvirc@198.13.234.47) Quit (Quit: KVIrc 4.2.0 Equilibrium ＋＋http://www.kvirc.net/，，)
+[07:00.53] * ormaaj (~ormaaj@75-168-129-146.mpls.qwest.net) has joined channel ##windows
+[07:01.21] * windows-newbie (8eb07e45@gateway/web/freenode/ip.142.176.126.69) Quit (Quit: Page closed)
+[07:02.30] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) Quit (Quit: Leaving)
+[07:02.33] * Rhapsody (462c98a2@gateway/web/freenode/ip.70.44.152.162) has joined channel ##windows
+[07:02.48] * SCHAAP137 (~dorian@77-173-0-137.ip.telfort.nl) has joined channel ##windows
+[07:04.54] * Aldem (~Aldem@unaffiliated/aldem) has joined channel ##windows
+[07:05.37] * TheHonz (~TheHonz@unaffiliated/thehonz) has joined channel ##windows
+[07:05.55] <Entalyan> When does Windows 8.1 apply changes made to the environment variables through the Control Panel->System->Advanced system settings->Advanced->Environment Variables (wow, typing that out made me realise how hidden that is...) dialog? I don't seem to have access to one I just added from the command line, or from the actual application that needs it.
+[07:06.36] * Rhapsody (462c98a2@gateway/web/freenode/ip.70.44.152.162) Quit (Client Quit)
+[07:07.39] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[07:08.23] * wyreSp (wyre@81.172.88.157.dyn.user.ono.com) Quit (Ping timeout: 252 seconds)
+[07:08.35] * Deihmos (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[07:09.24] * SimenOlai (~SimenOlai@204.81-166-174.customer.lyse.net) Quit (Ping timeout: 250 seconds)
+[07:09.30] * wyre (wyre@81.172.88.157.dyn.user.ono.com) has joined channel ##windows
+[07:10.02] * Quatroking (~Quatrokin@ip226-139-211-87.adsl2.static.versatel.nl) Quit (Read error: Connection reset by peer)
+[07:10.39] * Ecil (~Ecil@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[07:10.49] * u0m3 (~u0m3@92.80.115.124) has joined channel ##windows
+[07:12.16] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 250 seconds)
+[07:12.36] * Fun (~Fun@unaffiliated/fun) has joined channel ##windows
+[07:12.44] <Fun> hi folks
+[07:13.01] <Aldem> Hi
+[07:13.05] <Fun> I am using remnina to access win server I get ping 156m however lag seems to be more
+[07:13.23] <Fun> I wonder what can I do to increase rdp response time
+[07:13.36] <Fun> some tweaks to optimise rdp perfomance
+[07:13.40] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[07:13.59] <Aldem> I don't know Remnima
+[07:14.37] * urf (~urf@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) has joined channel ##windows
+[07:14.38] * Vodka_Gobalsky (~SL89@unaffiliated/sl89) Quit (Ping timeout: 252 seconds)
+[07:15.28] * urf (~urf@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) Quit (Excess Flood)
+[07:16.09] * fuio (~fuio@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##windows
+[07:17.05] * fuio (~fuio@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[07:17.55] <Entalyan> Is it also slow when using the stock RDP client? And where is the server located in relation to the client you're connecting from?
+[07:18.30] <Fun> what stock I am using ubuntu
+[07:18.36] * Tinfoilhat_ (~quassel@142.68.118.112) Quit (Ping timeout: 240 seconds)
+[07:18.40] <Fun> across the atlantic ocean
+[07:18.45] <Fun> EU to USA
+[07:18.50] <Entalyan> You weren't clear so I was assuming Windows
+[07:18.56] <Fun> I see
+[07:19.07] <Entalyan> Oh, in that case 152ms is actually quite reasonable I'ld say
+[07:19.13] <Fun> well I can try to spin some EU wins server to see whats up
+[07:19.16] * hirogen (hirogen@90.212.179.113) Quit (Ping timeout: 264 seconds)
+[07:19.26] * Roonay (~Roonay@72.27.13.77) has left ##windows ()
+[07:19.37] * oyee (~oyee@41.251.57.249) has joined channel ##windows
+[07:20.34] <Entalyan> I think you can get them off Microsoft for free/cheap using Azure
+[07:20.38] * donavan01 (~donavan01@c-24-131-204-16.hsd1.wv.comcast.net) Quit ()
+[07:21.55] <Fun> cool
+[07:21.56] <Fun> ty
+[07:24.31] * Varrick (~SwiggityS@208-96-113-215.eastlink.ca) has joined channel ##windows
+[07:24.55] * Lartza (lartza@unaffiliated/lartza) Quit (Read error: Connection reset by peer)
+[07:25.16] * hirogen (hirogen@90.212.179.113) has joined channel ##windows
+[07:25.20] <Varrick> Hello world!
+[07:25.38] * rubytor (~quassel@200.8.120.76) Quit (Ping timeout: 244 seconds)
+[07:26.04] * Lartza (lartza@unaffiliated/lartza) has joined channel ##windows
+[07:26.07] <guest342156743> for visual studios i know the backend c/c++ compiler is cl , linker is LINK  for C# we have csc compiler ,  vbc.exe for visual basic and not sure of the top of my head what the j,j++,j#,F# compilers/linkers are named but don't currently care about those. My questions are is vbc /platform anycpu is that the equivalent of it compiling to byte code CLR .net machine byte code  as opposed to the old native machine code x86,x64,ar
+[07:26.07] <guest342156743> m,..etc
+[07:26.46] * CyberTrekker (~CyberTrek@unaffiliated/cybertrekker) has joined channel ##windows
+[07:27.45] * Chintu_ (~DpkChintz@112.110.19.60) has joined channel ##windows
+[07:27.56] <Entalyan> I'm not sure I understand, but .NET stuff never compiles to machine code, always to IL, afaik.
+[07:28.14] * ChanServ sets mode +o sepeck for ##windows
+[07:28.15] * sepeck sets mode +q *!*@unaffiliated/fun for ##windows
+[07:28.15] * sepeck sets mode -o sepeck for ##windows
+[07:28.21] <guest342156743> which i think is /Platform anycpu
+[07:28.54] <guest342156743> as opposed to /Platform x86 which would be native machine code :)
+[07:28.55] * Fun (~Fun@unaffiliated/fun) has left ##windows ()
+[07:28.56] * Chintu (~DpkChintz@49.15.66.33) Quit (Ping timeout: 250 seconds)
+[07:29.02] * Chintu_ is now known as Chintu
+[07:29.44] * rand1024 (6d1a341c@gateway/web/freenode/ip.109.26.52.28) Quit (Quit: Page closed)
+[07:29.56] <guest342156743> similar with the csc.exe c# compilter
+[07:30.16] * Deihmos_ (~Deihmos@unaffiliated/deihmos) Quit (Ping timeout: 252 seconds)
+[07:31.17] * Deihmos_ (~Deihmos@unaffiliated/deihmos) has joined channel ##windows
+[07:31.23] <Varrick> Can anyone name a music player that looks good and plays FLACs?
+[07:31.35] * Usurp is now known as Usurp|zZz
+[07:32.37] * circ-user-xHs8X (~circuser-@sushi.pld.ttu.ee) Quit (Ping timeout: 245 seconds)
+[07:33.27] <Entalyan> Guest32601____: csc for x86 doesn't output machine code, it outputs IL compatible with x86 .NET runtimes...
+[07:34.17] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) Quit (Ping timeout: 264 seconds)
+[07:34.45] <Entalyan> Varrick: Good looking is pretty subjective. I like Foobar2000, which is very barebones by default, but can be extended with lots of modules and skins
+[07:35.28] <Varrick> Entalyan: Can it play FLACs?
+[07:35.38] <Entalyan> Varrick: Yes
+[07:35.50] <Entalyan> Varrick: Windows 10 will be natively compatible with them :)
+[07:35.51] <guest342156743> so i am curious  though for c/c++ .net compiling i know by default it compiles with some cl switch to allow it to compile to .net bytecode instead of the orignal native machine language anybody know the equivalent to /platform anycpu but for the c/c++ language in visual studios i am thinking it is /clr and if i don't uses this switch the compiler will compile to native machine code. Is this correct
+[07:36.13] <Varrick> Entalyan: I hope, my friend.
+[07:36.17] <Entalyan> c/c++ compile to machine code, c# doesn't
+[07:36.31] * bigwax (~bigwax__@blk-222-117-211.eastlink.ca) Quit (Read error: Connection reset by peer)
+[07:36.34] * MrAlexanB (~MrAlexand@43.232.251.212.customer.cdi.no) has joined channel ##windows
+[07:36.45] <Entalyan> Also, try the ##csharp channel for .NET compiling related questions
+[07:38.18] <guest342156743> i thought in visual studio's all the languages by default compile to the clr runtime bytecode unless specifically shutting off a switch on the compiler i know for  csc , vbc it is /platform that determines weather it is bytecode or machine code compiled
+[07:38.54] <sepeck>  ##windows-coding, #win32 , ##WinJS or #winapi, or a channel specific to your programming language.  <-- may gt more coding oriented answers in those channels
+[07:39.57] <guest342156743> but for c/c++ i always used more as machine compiled but with new visual studio i would imagine it is by default the bytecode which i rather emmit the machine code may /clr switch being omitted would change it to machine code
+[07:40.02] <Entalyan> Also, check ＋＋https://msdn.microsoft.com/en-us/library/8ck8e1y2.aspx，，
+[07:40.44] <Entalyan> .NET NEVER compiles to machinecode, always to IL for the CLR. C and C++ do compile to machine code.
+[07:41.39] <guest342156743> not in visual studios i thought by default all languages compile to the IL  byte code that the VM runs
+[07:41.42] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) Quit (Read error: Connection reset by peer)
+[07:43.31] * Dynamit (~Mohamed@84-55-71-67.customers.ownit.se) has joined channel ##windows
+[07:43.58] <guest342156743> if i am wrong then for c/c++ language i can you tell them to emit  IL or native machine code there should be a way to do both haven't found it for c/c++ on commandline program
+[07:44.21] <Entalyan> You CAN get VS to compile C++ for the CLR, but that's not default, and only useful in specific circumstances
+[07:45.14] * Adran (~adran@botters/staff/adran) has joined channel ##windows
+[07:45.41] * factory812 (~factory81@108-70-84-224.lightspeed.gdrpmi.sbcglobal.net) Quit (Ping timeout: 252 seconds)
+[07:45.54] <Entalyan> That is also specific for C++/CLI, not base C++
+[07:46.06] <guest342156743> yes i know but i was wondering what the switch to the compiler is to affect the machine code or bytecode generation would it be just /clr omitting or emitting it to the compiler
+[07:46.15] <guest342156743> like cl /clr
+[07:46.17] * happy-dude (uid62780@gateway/web/irccloud.com/x-coynblvbhcqovzap) Quit (Quit: Connection closed for inactivity)
+[07:46.21] <guest342156743> cl
+[07:46.24] <Entalyan> Yeah just remove /clr
+[07:46.33] <guest342156743> would determine the difference
+[07:46.43] <guest342156743> ok then that was it
+[07:47.03] <guest342156743> what the visual studio properties are using cool
+[07:47.05] <Entalyan> This would have been a lot faster if you would have just asked that last question :p
+[07:47.47] * mikeydoodles (~Michael@2601:0:bb00:f9a:bd43:dced:9b53:55e9) Quit (Quit: AndroidIrc Disconnecting)
+[07:52.04] <guest342156743> O and F# is fsc , j# is  vjc ,...etc curious what is the linker if any used do they all uses the same linker as c/c++ LINK or do they have specific different ones... currently i don't have my windows visual studio's up and running so can't check the compiler/linker options/configurations
+[07:52.48] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) has joined channel ##windows
+[07:52.53] * Mr_X (Mr_X@unaffiliated/mr-x/x-3310228) Quit (Remote host closed the connection)
+[07:52.59] <guest342156743> not really wanting to create default projects for each either at the moment that is my only reason
+[07:53.13] * Salastil (~Salastil@c-73-188-202-80.hsd1.pa.comcast.net) has joined channel ##windows
+[07:53.46] <Entalyan> A) Why do you need to know all this? B) Google is your friend C) Go to one of the channels sepeck listed
+[07:54.19] * Isacco (~quassel@24-176-234-48.dhcp.atsc.ca.charter.com) has joined channel ##windows
+[07:54.55] * fev3r101 (~fev3r101@116.251.214.209) Quit (Quit: fev3r101)
+[07:55.09] * GinoMan (~quassel@pool-98-114-49-65.phlapa.fios.verizon.net) Quit (Ping timeout: 244 seconds)
+[07:55.11] * NotJavacat (~Javacat@unaffiliated/javacat) has joined channel ##windows
+[07:55.21] * NotJavacat is now known as Javacat
+[07:56.41] <guest342156743> humm visual studio 2012 version doesn't make it easy to see the properties of the compiler/linker for the project or add switches , included libraries very easily
+[07:58.40] * DLSteve (~DLSteve@c-73-7-226-217.hsd1.ga.comcast.net) Quit (Quit: Leaving)
+[07:59.19] <guest342156743> it has a pre and post build commandline editing under build events in properties of the app but it doesn't show the compiler path or switches it is using by default nor a way to modify these like older visual studio's had
+[10:03.27] *** Server disconnected on irc.freenode.net
+[11:50.07] * You have joined ##windows
+[11:50.07] Topic: MS Windows Support and Discussion. Keep it polite, reasonable, constructive. || Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，， || Server? ##windows-server || Offtopic? /msg alis list *social* || Windows Phone? ##windows-phone || Windows 10 ＋＋http://www.freenode-windows.org/resources/windows-10，，
+[11:50.07] Channel Topic Set by: sepeck on 8:30 PM 10/1/2014
+[11:50.08] Channel modes for ##windows are :+CPcntjf 3:45 ##windows-please-register
+[11:50.08] Channel Created on: 7:11 PM 10/7/2005
+[11:51.25] * superposition (~chiro@unaffiliated/chirality) has joined channel ##windows
+[11:51.50] <superposition> hi, anyone ever used a rom emulator?
+[11:52.11] <superposition> for ps
+[11:53.24] * BWMerlin (~Thunderbi@142.45.233.220.static.exetel.com.au) Quit (Ping timeout: 252 seconds)
+[11:55.54] * FreezingCold (~FreezingC@135.0.41.14) Quit (Remote host closed the connection)
+[11:56.24] * FreezingCold (~FreezingC@135.0.41.14) has joined channel ##windows
+[11:58.02] * superposition (~chiro@unaffiliated/chirality) has left ##windows ()

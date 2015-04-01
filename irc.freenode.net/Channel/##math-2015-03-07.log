@@ -1,0 +1,846 @@
+Session Start: Sat Mar 07 02:30:58 2015
+Session Ident: ##math
+[02:30.58] *** Server disconnected on irc.freenode.net
+[02:31.19] * You have joined ##math
+[02:31.19] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[02:31.19] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[02:31.23] Channel modes for ##math are :+Ccnt
+[02:31.23] Channel Created on: 8:42 PM 1/29/2010
+[02:31.29] * mofai (~quassel@124.82.35.128) has joined channel ##math
+[09:31.24] *** Server disconnected on tepper.freenode.net
+[12:01.30] * You have joined ##math
+[12:01.30] Topic: Just ask your question! | Go to ##statistics and ##math-software | LaTeX pastebin: ＋＋http://mathb.in，， | Unmaintained wiki: ＋＋http://freenode-math.wikia.com/，， | LaTeX symbol lookup: ＋＋http://detexify.kirelabs.org/classify.html，， | Ping ops in ##math-ops if someone is misbehaving
+[12:01.30] Channel Topic Set by: JordiGH!~jordi@octave/developer/JordiGH on 6:41 PM 11/17/2014
+[12:01.33] Channel modes for ##math are :+Ccnt
+[12:01.33] Channel Created on: 8:42 PM 1/29/2010
+[12:01.42] * tcoppi (~nuclear@tcoppi.net) has joined channel ##math
+[12:02.01] * AndyBotwin (~sussman@unaffiliated/andybotwin) Quit (Quit: Leaving)
+[12:03.10] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) Quit (Ping timeout: 265 seconds)
+[12:03.12] * boni (~boni@90.192.59.61) has joined channel ##math
+[12:03.41] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) has joined channel ##math
+[12:05.06] * Guest92852 (~agarwalvi@2401:fa00:a:0:a82a:4774:730f:bd00) Quit (Ping timeout: 265 seconds)
+[12:07.15] * gniourf (~gniourf@pdm-l03.insa-lyon.fr) has joined channel ##math
+[12:07.45] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[12:09.43] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) has joined channel ##math
+[12:09.44] * wagonboi (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) has joined channel ##math
+[12:10.25] * leeN (~leeN@e181221022.adsl.alicedsl.de) Quit (Read error: Connection reset by peer)
+[12:12.45] * z0kk (~textual@119.81.92.183-static.reverse.softlayer.com) has joined channel ##math
+[12:16.23] * goodenough (~goodenoug@pool-108-13-18-239.lsanca.fios.verizon.net) has joined channel ##math
+[12:16.57] * Guest92852 (~agarwalvi@2401:fa00:a:0:8875:1ed4:2649:1504) has joined channel ##math
+[12:17.10] * oleo (~oleo@unaffiliated/oleo) Quit (Quit: Leaving)
+[12:17.21] * diprotic (~monoproti@unaffiliated/monoprotic) has joined channel ##math
+[12:18.03] * BrandonB (~bd@pool-96-251-77-106.lsanca.fios.verizon.net) has joined channel ##math
+[12:18.22] * oleo (~oleo@xdsl-84-44-208-138.netcologne.de) has joined channel ##math
+[12:18.29] * oleo (~oleo@xdsl-84-44-208-138.netcologne.de) Quit (Changing host)
+[12:18.29] * oleo (~oleo@unaffiliated/oleo) has joined channel ##math
+[12:19.10] * Vornicus (~vorn@c-76-19-15-99.hsd1.ct.comcast.net) has joined channel ##math
+[12:20.30] * oleo (~oleo@unaffiliated/oleo) Quit (Read error: Connection reset by peer)
+[12:22.11] * astrofog (~astrofog@unaffiliated/astrofog) Quit (Quit: Quite)
+[12:22.13] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[12:22.42] * Mmango (~user@108-217-142-114.lightspeed.milwwi.sbcglobal.net) has joined channel ##math
+[12:23.15] * pandora789 (~pandora78@250.170.203.77.rev.sfr.net) Quit (Quit: Quitte)
+[12:23.53] * athan (~quassel@174-16-132-33.hlrn.qwest.net) has joined channel ##math
+[12:24.09] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) has joined channel ##math
+[12:25.17] * ananna (~anannie@unaffiliated/anannie) Quit (Remote host closed the connection)
+[12:25.39] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) Quit (Ping timeout: 244 seconds)
+[12:26.06] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) has joined channel ##math
+[12:26.12] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:26.46] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) Quit (Quit: WeeChat 1.1.1)
+[12:27.03] * godel (~gonzalo@181-110-235-201.fibertel.com.ar) has joined channel ##math
+[12:27.11] * oleo (~oleo@unaffiliated/oleo) has joined channel ##math
+[12:27.12] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 244 seconds)
+[12:27.15] * godel is now known as el_tano
+[12:27.45] * timlyg (~timlyg@static-64-61-79-37.isp.broadviewnet.net) has joined channel ##math
+[12:28.08] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) Quit (Quit: Feeling sleepy...)
+[12:28.14] * el_tano is now known as godel
+[12:28.32] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) Quit (Ping timeout: 245 seconds)
+[12:29.16] * lnk (~lnk@mail.cerronavia.cl) Quit (Ping timeout: 246 seconds)
+[12:29.31] * whilo (~quassel@HSI-KBW-046-005-000-093.hsi8.kabel-badenwuerttemberg.de) has joined channel ##math
+[12:29.34] * tommah (~tommah@67-43-243-183.fidnet.com) has joined channel ##math
+[12:29.48] * Travisty (~anonymous@c-73-183-50-181.hsd1.pa.comcast.net) has joined channel ##math
+[12:30.23] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 264 seconds)
+[12:30.39] * Serpentine_ (~chatzilla@175.156.125.140) has joined channel ##math
+[12:31.05] * lnk (~lnk@mail.cerronavia.cl) has joined channel ##math
+[12:31.29] <Serpentine_> How do I find the k-th number of the n-nacci sequence in under O(log(k)) time?
+[12:31.36] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[12:31.49] <antonfire> "the n-acci sequence" needs elaboration
+[12:32.21] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[12:32.30] <barfod> -naccified
+[12:32.52] <barfod> yeah i just made that up
+[12:33.20] <barfod> I interpreted it as fibonnaci number sequence extrapolated from N
+[12:33.22] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) has joined channel ##math
+[12:33.36] <barfod> though i also just made that up
+[12:33.46] <Serpentine_> f(x<0)=0, f(0)=f(1)=1, f(2)=2, f(x>2)=sum of f(x-u) for u in {1<=u<=(n+1)}
+[12:34.00] <antonfire> barfod: If you think "fibonacci number sequence extrapolated from N" doesn't need elaboration, you are wrong.
+[12:34.10] * edlinde (~ed@p54842926.dip0.t-ipconnect.de) has joined channel ##math
+[12:34.19] <barfod> yeah i assumed as much
+[12:34.36] <barfod> that's why I am here, to learn
+[12:34.44] <antonfire> Serpentine_: the k-th term in that sequence has more than log(k) digits.
+[12:34.44] * nayfie (~nayfie@CPE-58-160-174-54.unqy1.fli.bigpond.net.au) Quit (Quit: bb xoxo :3)
+[12:34.54] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:35.00] <antonfire> So log(k) time isn't even enough time to write it down once you've computed it.
+[12:35.21] * revolve (~username@199.19.119.133) Quit (Ping timeout: 240 seconds)
+[12:35.29] <pedro3005> just say "i've computed it" :>
+[12:35.42] <Serpentine_> I actually only need the k-th number modulo 2^31-1
+[12:35.53] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) has joined channel ##math
+[12:36.01] * revolve (~username@199.19.119.133) has joined channel ##math
+[12:36.15] <Serpentine_> (so I assume that arithmetic operations always take constant time)
+[12:36.18] * CvP (CvP@203.76.123.238) Quit (Disconnected by services)
+[12:36.20] * xCG (CvP@203.76.123.238) has joined channel ##math
+[12:36.30] <antonfire> that's a repeating sequence.
+[12:36.48] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[12:36.53] <antonfire> so if you can take k modulo some fixed number in constant time, you can use a lookup table.
+[12:37.07] <antonfire> so hurray, you can do what you want in O(1) time.
+[12:37.13] * xCG is now known as CvP
+[12:37.58] * boni (~boni@90.192.59.61) Quit (Quit:  )
+[12:38.08] * ohxvoa (uid68187@gateway/web/irccloud.com/x-fnrrenpqqiavlrtr) Quit (Quit: Connection closed for inactivity)
+[12:38.10] <antonfire> of course, you can't take k modulo some fixed number in constant time, since it takes time O(log(k)) to even read all the digits of k.
+[12:38.47] <Serpentine_> Well, I would definitely not want to incur the huge constant overheads
+[12:39.24] * anthrnm (~vandrew@86.122.228.44) has joined channel ##math
+[12:39.51] <Serpentine_> Additionally, while I do not need to make many queries of the k-th number, k is large (k>10^18)
+[12:39.57] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[12:39.59] * nikio_ (~nikio@5356837D.cm-6-7c.dynamic.ziggo.nl) has joined channel ##math
+[12:40.10] <antonfire> how familiar are you with linear algebra
+[12:41.06] * titankiller (67157f4d@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.127.77) Quit (Quit: ＋＋http://www.kiwiirc.com/，， - A hand crafted IRC client)
+[12:41.15] <Serpentine_> Well, I noticed that the k-th Fibonacci number can be found using matrix exponentation
+[12:41.22] <antonfire> you're basically looking for the k'th power of a certain (n+1)x(n+1) matrix, modulo 2^whatever - 1.
+[12:41.35] <antonfire> Which you can work out using repeated squaring.
+[12:41.40] * arubi (~ese168@unaffiliated/arubi) Quit (Ping timeout: 244 seconds)
+[12:41.47] * TeslasMHD (foobar@ip92340111.dynamic.kabel-deutschland.de) Quit (Ping timeout: 264 seconds)
+[12:42.00] <user123321> What is the formula for finding the n-th prime number?
+[12:42.21] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[12:42.33] <user123321> can someone find that for me?
+[12:43.30] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) has joined channel ##math
+[12:43.54] <Serpentine_> user123321: There are some pretty useless but interesting formulas at ＋＋http://math.stackexchange.com/questions/1160411/，，
+[12:43.56] * disorder20 (~m3l720@78-134-76-212.v4.ngi.it) Quit (Read error: Connection reset by peer)
+[12:44.08] <timlyg> how do i figure out how many power of 2 procudes 20,000,000 digits?
+[12:44.41] <Serpentine_> user123321: A decent approximation for the n-th prime number would be n ln n
+[12:44.42] <user123321> Serpentine_, Aha
+[12:44.51] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 240 seconds)
+[12:45.39] <user123321> Serpentine_, Will human beings ever find a definitive formula?
+[12:46.30] * antonfire (~antonfire@unaffiliated/antonfire) Quit (Ping timeout: 272 seconds)
+[12:46.37] <Serpentine_> user123321: I doubt that we would ever find a closed-form formula for the n-th prime number
+[12:46.46] <krator44> timlyg: base-10 digits?
+[12:47.19] <timlyg> krator44: yea...my bad.
+[12:47.47] <user123321> Serpentine_, What possibly could be preventing that?
+[12:47.48] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##math
+[12:48.11] * KornKage (KornKage@bl13-77-70.dsl.telepac.pt) has joined channel ##math
+[12:48.13] <krator44> timlyg: 3 base-10 digits is approximately 10 base-2 digits
+[12:48.31] * karahug (~karahug@174-26-52-21.phnx.qwest.net) has joined channel ##math
+[12:49.05] * cyphase (~cyphase@unaffiliated/cyphase) Quit (Ping timeout: 265 seconds)
+[12:49.12] * smaug (None@gateway/shell/elitebnc/x-pfxcgrumwqecvohj) has left ##math ()
+[12:49.34] * diprotic (~monoproti@unaffiliated/monoprotic) Quit (Quit: bite me)
+[12:49.38] * user1233211 (~user@112.134.191.246) has joined channel ##math
+[12:49.50] <timlyg> krator44: you sure the proportionality works the same
+[12:49.54] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[12:49.54] <Serpentine_> user123321: One problem would be that no (non-constant) polynomial function f(n) will have prime values for almost all n
+[12:50.25] <krator44> timlyg: shrugs
+[12:50.26] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[12:50.55] <Serpentine_> user123321: exists, which seems to rule out a large portion of all the obviously useful formulas possible
+[12:51.08] <krator44> timlyg: i think so.. but you can use logs to get a more exact approximation
+[12:51.31] * mr_yogurt (~mr_yogurt@65-130-220-188.slkc.qwest.net) Quit (Read error: Connection reset by peer)
+[12:51.38] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[12:51.56] <timlyg> 10^7 => 2^57mil...that sounds rought?
+[12:51.59] <timlyg> right
+[12:52.14] <user1233211> hmm
+[12:52.32] <timlyg> oops...let me correct it
+[12:52.35] * user123321 (~user@112.134.225.108) Quit (Ping timeout: 264 seconds)
+[12:52.39] * aslant (~aslant@5751a00f.skybroadband.com) has joined channel ##math
+[12:52.52] * Arsonide (~Arsonide@doc-72-47-52-211.cabot.ar.cebridge.net) has joined channel ##math
+[12:52.57] <timlyg> 10^10mil => 2^57mil
+[12:53.15] <krator44> but you want 2^n = 10^20M
+[12:53.26] <timlyg> yea
+[12:54.09] <krator44> so if you take log base 2 of both side you're gonna have the answer
+[12:54.26] <timlyg> krator44: I get you now...it's simple math, i can't believe it...THANKS!!
+[12:54.56] <timlyg> krator44: Now i can work on my primality test algorithm, muahaha...
+[12:55.32] <timlyg> krator44: but I don't think I can solve it - the largest prime known. But it will help my curiosity
+[12:55.35] * lrs (~lars@88-83-56-124.customer.t3.se) Quit (Remote host closed the connection)
+[12:57.41] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[12:57.59] * byron2 (~byron@unaffiliated/byron2) Quit (Ping timeout: 264 seconds)
+[12:59.09] * ido (~ido@pdpc/supporter/student/ido) has joined channel ##math
+[12:59.15] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[12:59.51] * theseb (~cs@r74-193-13-167.cnrocmta01.conrtx.tl.dh.suddenlink.net) has joined channel ##math
+[01:00.14] <krator44> so its like approximately 70M
+[01:00.16] * yamadapc (~yamadapc@201.81.163.75) Quit (Remote host closed the connection)
+[01:01.17] <krator44> (a megabyte of data)
+[01:01.31] <krator44> no wait
+[01:01.42] <krator44> 10 megabytes of data
+[01:02.44] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) has joined channel ##math
+[01:03.03] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:03.07] * revtintin (~pydroid@bb119-74-26-138.singnet.com.sg) Quit (Quit: WeeChat 0.4.2)
+[01:03.23] * cyphase (~cyphase@unaffiliated/cyphase) has joined channel ##math
+[01:03.23] * Euclide (58a2a2c7@gateway/web/freenode/ip.88.162.162.199) has joined channel ##math
+[01:03.29] <Euclide> Hello everbody !
+[01:04.07] <Euclide> How are you ? , Is "Have you got not?" correct in english please ?
+[01:04.21] <oleo> no
+[01:04.23] <oleo> it is not
+[01:04.24] * anthrnm (~vandrew@86.122.228.44) has joined channel ##math
+[01:04.26] * aureianimus (~quassel@53543888.cm-6-5a.dynamic.ziggo.nl) has joined channel ##math
+[01:05.02] <oleo> "haven't you got" should be tho.....
+[01:05.53] <oleo> "you got", "you haven't"
+[01:05.58] <Euclide> Thanks :)
+[01:06.00] <oleo> "you haven't got"
+[01:06.03] <oleo> ok
+[01:06.13] <Euclide> So , we can say Have you got , or haven't you got ? it's this ? :)
+[01:06.22] <oleo> i think so
+[01:06.29] <Euclide> thx !
+[01:06.46] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[01:06.54] <krator44> anata wa arimasen ka
+[01:07.07] * dude12312414 (None@gateway/shell/elitebnc/x-pfxcgrumwqecvohj) has joined channel ##math
+[01:07.21] <oleo> but don't linearize it to "have not you got"... lol
+[01:07.33] <oleo> that sounds odd again...
+[01:07.35] <oleo> hahahhaaha
+[01:07.49] <krator44> it really depends on what you want to say
+[01:08.16] * struktured (~carm@2604:2000:dd21:3e00:2d40:e088:931b:1d4c) Quit (Ping timeout: 256 seconds)
+[01:08.51] * frege (~frege@unaffiliated/frege) has joined channel ##math
+[01:09.11] <frege> hey guys, has anyone worked on space partitioning problems?
+[01:09.24] * pyon is now known as continuous-pyon
+[01:09.43] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) has joined channel ##math
+[01:10.25] * wlczkun (~e@c-98-235-165-166.hsd1.pa.comcast.net) Quit (Remote host closed the connection)
+[01:10.26] <Euclide> But we can say : Do you understand not ? please :)
+[01:10.47] <krator44> "does that make sense?"
+[01:10.51] * crick_ (~crick_FTW@6.Red-83-35-150.dynamicIP.rima-tde.net) Quit (Ping timeout: 240 seconds)
+[01:11.26] <Euclide> But that's correct ?
+[01:11.37] <Euclide> Or it's wrong ?
+[01:12.18] <Travisty> Given a convex polytope P in R^d, P will have some number of corners. Is it true that for each corner, call it c, there is an invertible d by d matrix H and a vector b so that c = H^{-1}b?
+[01:12.40] <Travisty> Clearly, actually, taking H = I and b = c, this holds
+[01:12.59] <oleo> Euclide: "don't you understand"
+[01:13.03] * wat_ (18fff85e@gateway/web/freenode/ip.24.255.248.94) Quit (Quit: Page closed)
+[01:13.15] * cads (~cadsu@2601:0:9301:6a39:d005:5804:2498:11ed) has joined channel ##math
+[01:13.20] <krator44> Euclide: no you have to say "do you understand or not" or if you want to be kind of rude "do you not understand" or "don't you understand"
+[01:13.25] <Z-module> Travisty, if H is invertible then H^-1 sends R^d to all of R^d
+[01:13.39] <Z-module> so that's true with nothing at all about polytopes being relevant
+[01:13.57] <krator44> or "didn't that make sense"
+[01:14.05] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) Quit (Read error: No route to host)
+[01:14.05] <Euclide> thanks =)
+[01:14.08] * agd (~agd@unaffiliated/agd) has joined channel ##math
+[01:14.23] * wat_ (18fff85e@gateway/web/freenode/ip.24.255.248.94) has joined channel ##math
+[01:14.28] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) has joined channel ##math
+[01:15.07] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) Quit (Max SendQ exceeded)
+[01:15.21] * shammancer (~shammance@d199-126-160-115.abhsia.telus.net) has joined channel ##math
+[01:15.42] * goodenough (~goodenoug@pool-108-13-18-239.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[01:15.45] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) has joined channel ##math
+[01:16.01] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) has joined channel ##math
+[01:16.54] <Travisty> Z-module: Yeah, I see that. We can write any hyperplane as h(x) = 0, where h is an affine function. What I want to understand is when h1, …, hd are the linear functions associated with the hyperplanes that “define” a corner c of a polytope, when is the map h(x) = (h1(x), …, hd(x)) invertible
+[01:17.26] <cads> hey Z-mod!
+[01:17.44] <Z-module> hi
+[01:18.01] <Travisty> I expect that the answer is always, somehow as a consequence of the fact that h1(x) = 0, …, hd(x) = 0 are the faces of the corner
+[01:18.07] * TeslasMHD (foobar@ip92340111.dynamic.kabel-deutschland.de) has joined channel ##math
+[01:18.13] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:18.32] <cads> I was just thining of you - so any group is a module over Z in an unique way!
+[01:18.48] <Z-module> an abelian group only
+[01:18.59] * cads is trying to wrap his head around modules today
+[01:19.05] <cads> ah
+[01:19.06] * binary01 (~DL@96.246.228.228) has joined channel ##math
+[01:19.13] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) has joined channel ##math
+[01:19.26] * timlyg (~timlyg@static-64-61-79-37.isp.broadviewnet.net) Quit (Quit: leaving)
+[01:19.45] <Z-module> they're basically vector spaces, but over looser things than fields -- things that can lack multiplicative inverses, and where pairs of scalars might not even commute
+[01:19.53] <krator44> or wakaranaikatta..
+[01:20.24] <gniourf> that's already the case for vector spaces over non-commutative fields
+[01:20.40] * math780 (4e0835b2@gateway/web/freenode/ip.78.8.53.178) has joined channel ##math
+[01:20.41] * freecoder (~freecoder@49.248.160.146) Quit (Ping timeout: 245 seconds)
+[01:21.00] <Z-module> (OK, though lots of mathematicians insist that a thing isn't called a vector space unless it's over a (commutative) field)
+[01:21.16] <gniourf> lots, but not me :D
+[01:21.24] <Z-module> (you don't need that for things like bases and dimension, but you do for other stuff)
+[01:21.26] <math780> hey, can anyone explain me how to convert 4bits signed number to 8bits signed number? i know how to do this with unsigned numbers only
+[01:21.44] <sure> well, vector spaces are action of a field over a commutative group
+[01:21.50] <sure> modules are action of a ring over a commutative group
+[01:21.53] <cads> Z-module, what gets me is that all the vector spaces over a field fall into a neat linear heirarchy according to the cardinality of their bases
+[01:22.00] <gniourf> sure, it's more than just an action
+[01:22.00] <sure> one could look at action of fields on monoid
+[01:22.07] <sure> gniourf: how is that just more than an action ?
+[01:22.13] <sure> its the action that makezs everything compatible
+[01:22.22] <sure> associativity, distributivity, ...
+[01:22.25] <krator44> math780: 2s complement notation i assume
+[01:22.25] <gniourf> it's an action *that is compatible with the underlying structure*
+[01:22.28] <sure> yes
+[01:22.31] <sure> so i call that "an action"
+[01:22.33] <sure> it sounds legit
+[01:22.44] * SomeT (~SomeT@cpc3-leic16-2-0-cust382.8-1.cable.virginm.net) has joined channel ##math
+[01:22.45] * roxlu (~textual@5ED2B568.cm-7-3c.dynamic.ziggo.nl) Quit (Read error: Connection reset by peer)
+[01:22.47] <gniourf> that's not what is called an action, in general
+[01:22.48] <Z-module> cads, yes, *in themselves* vector spaces are ridiculously easy/boring algebraic objects. The content of linear algebra is really in the linear maps, not the spaces themselves.
+[01:22.59] * RaptorJesus (~RaptorJes@unaffiliated/raptorjesus) has joined channel ##math
+[01:23.02] <sure> gniourf: you're thinking of "action of group", i said "action of field"
+[01:23.10] <pedro3005> linear algebra is easy, that's the point of linear algebra
+[01:23.10] <sure> let me define action of field on a group the obvious way
+[01:23.12] <krator44> math780: you just extend the leftmost bit and that is all you need to do
+[01:23.15] <Z-module> module action, in particular
+[01:23.43] * anthrnm (~vandrew@86.122.228.44) Quit (Ping timeout: 256 seconds)
+[01:23.48] <krator44> math780: so for example 1101 will be 11111101
+[01:24.03] <sure> the concept of action is actually the only legitimate concept
+[01:24.05] <sure> its unifying
+[01:24.07] <math780> krator44: ok i get it, thank you :)
+[01:24.10] <sure> its the one we should teach to everyone
+[01:24.18] <sure> all algebraic structure should be taught in terms of action
+[01:24.27] * timlyg (~timlyg@static-64-61-79-37.isp.broadviewnet.net) has joined channel ##math
+[01:24.42] * roxlu (~textual@5ED2B568.cm-7-3c.dynamic.ziggo.nl) has joined channel ##math
+[01:24.57] <sure> so you don't have to "remember the 156 axioms" of such structure
+[01:25.03] <sure> its just the obvious action that makes it everything compatible
+[01:25.05] <timlyg> In Mersenne's Primes: 2^p-1, is the nature of p known?
+[01:25.53] <gniourf> nonsense
+[01:26.03] <agd> it seems to me that the topological trickster is steadily casting his reign over the mathematical trickster's dungeon
+[01:26.06] * pwanda1 (~pwanda@89-160-151-184.du.xdsl.is) Quit (Ping timeout: 244 seconds)
+[01:26.15] <Z-module> timlyg: well it has to be prime.
+[01:26.18] <Z-module> Do you mean beyond that?
+[01:26.32] <timlyg> z-module: kind of...like n=23 doesn't work
+[01:26.33] <sure> gniourf: thats because you're from insa lyon, you never did any algebra in your life
+[01:26.43] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) Quit (Read error: Connection reset by peer)
+[01:26.51] <gniourf> FYI, I didn't graduate there at all, I only teach there
+[01:26.53] <Z-module> timlyg, *most* p don't work ... all but the 40-some-odd known values
+[01:26.56] <Z-module> so far
+[01:27.04] <sure> well its still a shame to accept teaching there
+[01:27.04] <sure> ;>
+[01:27.06] <Z-module> there might be infinitely many others but we don't know yet
+[01:27.21] * hodgeclass (algebraicc@cpe-75-80-48-51.san.res.rr.com) has joined channel ##math
+[01:27.25] <gniourf> it's a good place, actually, it's much better to teach there than at university
+[01:27.26] <timlyg> z-module: i take it there's no way to find p?
+[01:27.36] <Z-module> timlyg: so anyhow:   2^p - 1 prime  -->   p prime,   but not conversely as you saw
+[01:27.44] <sure> maybe for first years yes
+[01:27.51] <timlyg> z-module: I see....cool...i knew it wasn't that easy...well, there goes my way to find the largest prime
+[01:28.13] <Z-module> timlyg: use the "Lucas-Lehmer test". That's how people find Mersenne primes... letting machines crank away at that test.
+[01:28.18] <timlyg> z-module: yea...
+[01:28.27] <Z-module> check out ＋＋http://mersenne.org，，   if you haven't yet
+[01:28.46] <gniourf> sure, you shouldn't assume anything about people you meet on the internet
+[01:28.47] <timlyg> z-module: I came across that, but did not understand the Lucas-Lehmer implementation
+[01:28.57] <agd> timlyg; once you click the link provided by the trickster, you'll be spending the rest of your days under the trickster's spell
+[01:28.59] <Z-module> the test itself is straightforward
+[01:29.02] <timlyg> z-module: checking nw
+[01:29.10] <gniourf> sure, you don't know anything about me… maybe I've done some algebra ;)
+[01:29.10] <sure> gniourf: i don't assume anything, but telling me that its non sense to present modules, vector spaces, and so on in terms of acting
+[01:29.13] <sure> is really being dumb
+[01:29.19] <timlyg> agd: what trickster?
+[01:29.22] <sure> either you teach category theory to everyone in second year
+[01:29.25] <Z-module> agd, if I could cast spells, it sure wouldn't be for the purpose of distracting people with complicated math
+[01:29.25] <sure> either you present it in terms of action
+[01:29.29] <agd> timlyg; you don't know about the trickster?
+[01:29.34] <timlyg> agd: nope
+[01:29.36] <Z-module> (what a boring useless goal)
+[01:30.04] <gniourf> sure, you seem to have a very precise point of view. Do you actually teach or even remotely do math in real life?
+[01:30.06] * continuous-pyon is now known as garbage-pyon
+[01:30.20] <timlyg> z-module: I take it it is highly unlikely for a home pc to find the largest prime these days
+[01:30.28] <sure> no i'm not a mathematician, but i can see what concepts are simplifying and unifying the basics ones
+[01:30.31] <Z-module> timlyg: it's happened before actually
+[01:30.38] <Z-module> just takes very long calculation times
+[01:30.39] <gniourf> sure, ok, so shut up.
+[01:30.41] <timlyg> z-module: oh yea?
+[01:30.46] <sure> if you want students to understand the "unity" of algebra, you have to present them such unifying concepts
+[01:30.52] <timlyg> z-module: coz the largest prime is so big now
+[01:31.02] <sure> gniourf: well i did teach some maths in my life don't worry
+[01:31.12] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:31.17] <timlyg> z-module: i figured that the largest prime known takes a computer 7MB just to store it
+[01:31.21] <Z-module> timlyg: I'm not actually all that confident they've found all the Mersenne primes *up to* the largest known one. Discoveries have been out of order.
+[01:31.29] <Bashar^> I'm not sure that "just make everything compatible" is any better than "just make the axioms nice"
+[01:32.01] <sure> Bashar^: then you didn't understand algebra i guess
+[01:32.02] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##math
+[01:32.05] <timlyg> z-module: did they not test their big prime by bruteforce?
+[01:32.08] <sure> algebra is the "science" of making operations compatible
+[01:32.16] <Bashar^> in the end you still have to define precisely what you mean by the action of a field
+[01:32.22] <sure> yes, but it becomes obvious
+[01:32.31] <sure> you have units, multiplication, addition, and you want everything to be compatible
+[01:32.34] <sure> so its ... obvious
+[01:32.38] <sure> just make everything commutes
+[01:32.55] <agd> it's as blatant as the sun rising beneath the fabric of spacetime!
+[01:33.23] <Z-module> timlyg: they did
+[01:33.41] * larc6 (~larc6@pool-74-98-211-129.pitbpa.fios.verizon.net) Quit ()
+[01:33.46] <timlyg> z-module: i see what you mean
+[01:33.49] * red_horned_rihno (~red_horne@unaffiliated/red-horned-rihno/x-2983785) Quit (Remote host closed the connection)
+[01:33.58] <Z-module> by the way, the first prime after a googol (10^100) is  googol + 267
+[01:34.05] <sure> or maybe you prefer presenting category theory to second yezars student ?
+[01:34.05] * freecoder (~freecoder@49.248.160.146) has joined channel ##math
+[01:34.06] <sure> why not
+[01:34.07] <sure> :}}
+[01:34.09] * larc6 (~larc6@pool-74-98-211-129.pitbpa.fios.verizon.net) has joined channel ##math
+[01:34.13] <g0th> hi
+[01:34.36] <math780> krator44: one more question, what is the result of adding zero to the right side of number in 2s complement notation? i understand how it works in unsigned numbers (it multiplies number by two)
+[01:34.38] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) Quit (Remote host closed the connection)
+[01:34.38] <g0th> whats the name of deg(numerator)-deg(denominator)?
+[01:34.44] <timlyg> z-module: what I don't get is who is going to verify their finding? performing another bruteforce check?
+[01:34.47] * capso (~Capso@73.162.33.34) has joined channel ##math
+[01:34.56] <g0th> for a rational function
+[01:35.00] <g0th> iirc it's not called the degree
+[01:35.03] <Bashar^> so why can't you just say "take the obvious axioms"?
+[01:35.16] <dude12312414> timlyg: AKS test maybe?
+[01:35.21] <g0th> in my case the denominator is homogeneous
+[01:35.22] <sure> Bashar^: because there's still the concept of "actions" behind these obvious axioms
+[01:35.26] <timlyg> dude: what's AKS test?
+[01:35.34] <Bashar^> sure: of course
+[01:35.37] <agd> sure; are you a topologist?
+[01:35.42] <sure> agd: no why
+[01:35.45] <g0th> f(1/x) should be -1
+[01:35.50] <timlyg> checking ask test now
+[01:35.56] <hodgeclass> i don't recommend that, sure.  seen too many students go over the top with fancy language while failing their algebraic geometry exams where they were asked to solve easy concrete problems (linear systems, divisors, ..)
+[01:36.05] <lyxia> g0th: I call it the degree of the rational function.
+[01:36.08] <dude12312414> timlyg: It's a polynomial time, deterministic algorithm to decide whether a number is prime or composite
+[01:36.18] <g0th> lyxia: the degree means something else
+[01:36.36] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) has joined channel ##math
+[01:36.39] <sure> hodgeclass: i wouldn't recommand category theory either to second years student, but i would reocmmand some unifying concepts as the one of action
+[01:36.54] <sure> or seeing a first universal property, say, the one for quotient nd equivalence classes, ...
+[01:36.56] <hodgeclass> there aren't too many students who can stomach it
+[01:37.01] <hodgeclass> *properly*
+[01:37.03] <Z-module> (apparently topological trickery is the most dangerous of all)
+[01:37.03] <dude12312414> The Lucas-Lehmer test is already proof, though. But I guess checking with AKS can be done to confirm the discovery
+[01:37.10] <g0th> lyxia: the closest I have is something like "valuation" as a formal power series??
+[01:37.21] <g0th> or something like that
+[01:37.21] <sure> (Z-module: i don't understand why this guy wants me to be a trickster)
+[01:37.24] <g0th> is there no name for it?
+[01:37.37] <sure> hodgeclass: well, the sooner you teach them, the faster they grasp it
+[01:37.41] * xrlk (~xrlk@216-58-27-26.cpe.distributel.net) has joined channel ##math
+[01:37.48] * desuvader (~desuvader@c83-249-29-114.bredband.comhem.se) Quit (Client Quit)
+[01:37.49] <Z-module> sure: presumably the same reason as for me. Mysterious.
+[01:37.50] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) has joined channel ##math
+[01:37.59] * edlinde_ (~ed@p54842926.dip0.t-ipconnect.de) has joined channel ##math
+[01:37.59] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[01:38.04] <sure> Z-module: i guess he doesn't like people who are trying to do maths
+[01:38.05] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:38.20] <timlyg> dude: i see...thanks
+[01:38.21] * HoloIRCUser1 (~holoirc@92.86.112.87) has joined channel ##math
+[01:38.23] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:38.26] <lyxia> g0th: I don't know sorry.
+[01:38.32] * edlinde (~ed@p54842926.dip0.t-ipconnect.de) Quit (Ping timeout: 245 seconds)
+[01:38.33] * edlinde_ is now known as edlinde
+[01:38.33] * kexmex (~kexmex@195.42.130.233) Quit (Quit: Computer has gone to sleep.)
+[01:38.35] * HoloIRCUser1 is now known as florin
+[01:38.45] * CheckDavid (uid14990@gateway/web/irccloud.com/x-zbakpbnizhmqdyua) Quit (Quit: Connection closed for inactivity)
+[01:38.48] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) has joined channel ##math
+[01:38.54] * florin is now known as florinoo
+[01:38.55] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:39.14] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:39.21] <timlyg> I assume the largest prime is found by tons of supercomputers, how can someone beat them in his garage?
+[01:39.25] * Bantalon (~Bantalon@c83-251-39-36.bredband.comhem.se) Quit (Remote host closed the connection)
+[01:39.36] <florinoo> Hello
+[01:39.42] <hodgeclass> for me personally studying category theory made much more sense only after having worked through most exercises of Hartshorne's AG
+[01:39.49] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:39.55] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:40.00] <sure> timlyg: there's a nice conjecture about mersenne primes
+[01:40.00] <florinoo> I'm having problems solving a limit
+[01:40.03] <hodgeclass> and i think it goes the same for many others
+[01:40.16] <timlyg> sure: what conjecture?
+[01:40.18] * UltraFly (~UltraFlyI@173.48.203.54) has joined channel ##math
+[01:40.18] <g0th> lyxia: just fyi, the degree usually means the maximum of the degrees of the numerator and denominator
+[01:40.24] <sure> take the following sequences: p_n = 2^p_{n-1} -1, with p_0 = 2
+[01:40.33] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:40.34] <sure> and notice that its always prime up to n = 5, then we don't know
+[01:40.41] <hodgeclass> otherwise you're stuck with a lot of abstraction for a *long time* before you see any application
+[01:40.51] <sure> hodgeclass: well category theory is like set theory, its only a language by itself
+[01:40.53] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:40.59] <timlyg> sure: cool!
+[01:41.02] <sure> so its nice to understand/learn the language
+[01:41.02] * Liebknecht (~Mio-chan@unaffiliated/mio-chan) Quit (Quit: Leaving)
+[01:41.09] <sure> even if you don't see any application
+[01:41.12] <hodgeclass> language that is guided by examples from various branches of math
+[01:41.13] <timlyg> sure: I mean the fact that we don't know is cool
+[01:41.14] <florinoo> Lim n-->inf of sum from k=2 to n of 1/(k *ln k), where ln is natural logarithm...
+[01:41.15] <Z-module> some people seem to thrive on (and find beautiful) abstraction for its own sake. I'm not usually such a person.
+[01:41.18] <sure> hodgeclass: i agree
+[01:41.23] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:41.36] <sure> timlyg: ahah there are many things we don't know
+[01:41.39] * pouledodue (~textual@modemcable082.140-131-66.mc.videotron.ca) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:41.39] <florinoo> I tried partial fraction decomposition
+[01:41.41] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:41.43] * arubi (~ese168@unaffiliated/arubi) Quit (Ping timeout: 246 seconds)
+[01:41.50] <Z-module> florinoo: that trns out to be +infinity
+[01:41.51] <florinoo> I cant writhe that as a sum
+[01:41.55] <timlyg> sure: yea but the cool ones are the conjectures that i can grasp
+[01:42.02] <florinoo> Z-moduke why?
+[01:42.08] <sure> timlyg: then number theory is for you
+[01:42.15] <timlyg> sure: :)
+[01:42.16] <sure> full of simple conjectures that are ultra hard
+[01:42.23] <sure> and requires 15034053 theories to be solved
+[01:42.34] <gniourf> florinoo, this a Bertrand series which diverges
+[01:42.35] <dude12312414> number theory is biggest troll in math
+[01:42.43] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:42.51] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:42.53] <math780> what is the result of adding zero to the right side of number in 2s complement notation? i understand how it works in unsigned numbers (it multiplies number by two)
+[01:42.54] * Barrin6 (~Barrin6@user-0c8gm3t.cable.mindspring.com) Quit (Quit: Barrin6)
+[01:42.57] <timlyg> sure: I just want to find the largest prime and get some $$$ to buy a house, so i don't have to pay rent anymore
+[01:43.13] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 265 seconds)
+[01:43.17] <Z-module> who's paying for big primes? I haven't seen that.
+[01:43.19] <sure> timlyg: then i'm sorry for you, but there is no largest prime
+[01:43.21] * malkomalko (~malkomalk@ool-457a23b1.dyn.optonline.net) Quit (Ping timeout: 240 seconds)
+[01:43.23] <florinoo> gniourf is that a known series? I mean, whats the method for solving it?
+[01:43.31] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:43.36] <timlyg> sure: I heard there's prize money...on wiki
+[01:43.39] <user1233211> timemage, the largest prime number is infinity.
+[01:43.41] <florinoo> All i have to do is learn it as it is
+[01:43.43] <timlyg> i mean z-module
+[01:43.44] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Max SendQ exceeded)
+[01:43.46] <florinoo> ?
+[01:43.50] <gniourf> florinoo, yes it's a known series
+[01:43.59] <timlyg> sure; I meant largest known
+[01:44.05] <gniourf> florinoo, a way to prove divergence is to use the integral comparison test
+[01:44.11] <florinoo> Ok, thanks
+[01:44.24] * schleppel (~quassel@141.39.226.237) has joined channel ##math
+[01:44.26] <sure> timlyg: you won't win anything, not even fame
+[01:44.28] * duncannz (~duncannz@121-74-198-190.telstraclear.net) has joined channel ##math
+[01:44.32] <sure> who cares about computing primes seriously
+[01:44.35] <timlyg> sure: I heard there's $$$ no?
+[01:44.45] <sure> i don't think so, maybe
+[01:44.46] <timlyg> sure: the last one was like $100k
+[01:44.52] <sure> crazy
+[01:44.53] <dude12312414> timlyg: I would rather try to find a polynomial time factorization algorithm
+[01:44.54] <sure> who fkn pays for that
+[01:45.10] <Z-module> florinoo: by the "Cauchy condensation" criterion. See pages 61-63 in Rudin's "Principles of Mathematical Analysis"
+[01:45.11] <cads> hey guys, are there any commonly encountered examples of coalgebras in undergrad math?
+[01:45.13] <dude12312414> that would get you money if you make smart movves
+[01:45.20] <timlyg> ＋＋http://en.wikipedia.org/wiki/Largest_known_prime_number，，
+[01:45.38] <cads> I know we have some algebras, for example the scalar product
+[01:45.42] <timlyg> dude: I dunno what is that
+[01:45.55] <dude12312414> algorithm to factor a number
+[01:46.01] <timlyg> dude: I get polynomial, dunno bout factorization
+[01:46.07] <gniourf> cads, are you sure? oO
+[01:46.09] <sure> timlyg: you can also try to solve some clay institute problem: 1million$ each
+[01:46.14] <sure> timlyg: good luck
+[01:46.25] <timlyg> dude: oh you mean codes that factor polynomials?
+[01:46.34] <timlyg> sure: those are beyond me
+[01:46.38] <sure> oh and by the way, you don't solve problems because you try to solve them explicitely, but because you find theories and concepts that solve them
+[01:46.39] <dude12312414> yeah. Faster than currently known ones
+[01:46.58] <timlyg> dude: i see...yea, i like that too
+[01:47.16] <timlyg> dude: i didn't know it was a hard problem
+[01:47.25] <sure> there's a nice sentences from many guys i particularly like
+[01:47.31] <timlyg> dude: but i think the solution is too complex for me
+[01:47.36] <hodgeclass> sure: have you solved anything?
+[01:47.42] <dude12312414> timlyg: as a bonus, you could crack a bunch of RSA keys after that :P
+[01:47.45] <sure> "trying to solve a big problem is the best way to never solve it forbids yoiu to develop the tools you would need to solve it"
+[01:47.56] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[01:48.00] <sure> +because
+[01:48.10] <hodgeclass> yea yea yea i've heard this million times from 1st year undergrad students who are just annoying
+[01:48.30] <sure> hodgeclass: well i haven't solve any big problems no
+[01:48.31] <sure> did you ?
+[01:48.37] <hodgeclass> i did
+[01:48.37] <dude12312414> that doesn't seem to make much sense though
+[01:48.40] <sure> hodgeclass: which ?
+[01:48.45] <hodgeclass> not a big problem, but some problems
+[01:48.46] <timlyg> dude: I just like to keep the computer busy 24/7 for good reason, but i'm still taking baby steps theoretically
+[01:48.53] <sure> thats not a big problem then
+[01:48.59] <hodgeclass> ok
+[01:48.59] <math780> what is the result of adding zero to the right side of number in 2s complement notation? i understand how it works in unsigned numbers (it multiplies number by two)
+[01:49.03] <sure> every phd student "solves some problems"
+[01:49.12] <sure> how is that supposed to be nice
+[01:49.12] <dude12312414> sure: If you're not trying to solve the problem, why would you be developing tools to solve it?
+[01:49.18] <hodgeclass> ok
+[01:49.32] <cads> oh wait, the scalar product projects a pair of vector space elements down to the base field
+[01:49.33] <sure> dude12312414: because usually when you try to solve a problem explicitely, you're using the tools you know, you're not trying to develop them
+[01:49.35] <timlyg> ok, good chat, gotta leave now. Thank you, sure, dude, z-module
+[01:49.37] <hodgeclass> enough talking to a cop-out.  bye now
+[01:49.41] <sure> hodgeclass: a+
+[01:49.50] <gniourf> cads, correct, so you don't have an algebra structure there
+[01:50.29] <cads> a cross product works though, and also complex multiplication between pairs of reals
+[01:50.31] <gniourf> cads, on R^3 you have an algebra structure with the cross product
+[01:50.44] * timlyg (~timlyg@static-64-61-79-37.isp.broadviewnet.net) Quit (Quit: leaving)
+[01:50.48] <sure> its non associative algebra
+[01:50.55] <sure> its a nice example of non associative algebra
+[01:51.00] <gniourf> it's a Lie algebra :)
+[01:51.09] <Z-module> timlyg, around a decade ago, someone found, using nothing but brute computer search, the 6692367337 in ＋＋http://primes.utm.edu/curios/page.php/40487.html，，
+[01:51.11] <sure> ah it respects jacobi ?
+[01:51.17] <gniourf> of course!
+[01:51.21] <sure> never noticed that
+[01:51.21] <sure> :>
+[01:51.26] <gniourf> oh dear…
+[01:51.40] <sure> a x (b x c) + c x (a x b) + b x (c x a) = ...
+[01:51.51] <sure> k you would have to develop it component by component i guess
+[01:51.51] <sure> :<
+[01:51.55] <Z-module> (the largest known prime p whose first positive root is not a primitive root of p^2 )
+[01:51.55] <gniourf> nope
+[01:52.03] * duncannz (~duncannz@121-74-198-190.telstraclear.net) Quit (Ping timeout: 256 seconds)
+[01:52.05] <Z-module> positive primitive* root
+[01:52.08] <gniourf> you only need to show it for a=e_1, b=e_2 and c=e_3
+[01:52.12] <gniourf> and it's trivial
+[01:52.16] * [joker] (joker@just.phear.com) has joined channel ##math
+[01:52.23] * Zemansky (~Zorn@unaffiliated/zemansky) Quit ()
+[01:52.32] <sure> gniourf: ah yes indeed
+[01:52.35] <sure> nice
+[01:52.36] <sure> :>
+[01:52.40] <gniourf> ;)
+[01:52.52] <agd> sure; are you ignorant?
+[01:53.01] <sure> agd: yep, and not at all ashamed of it
+[01:53.04] <sure> thats why i'm learning
+[01:53.22] * Bantalon (~Bantalon@c83-251-39-36.bredband.comhem.se) has joined channel ##math
+[01:53.28] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) has joined channel ##math
+[01:53.32] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) Quit (Max SendQ exceeded)
+[01:53.38] <agd> sure; do you ever plan on marrying Z-module's to-be-born-in-the-miserable-future daughter?
+[01:53.46] * kaffeetrauma (~Thunderbi@85-22-37-153.ip.dokom21.de) Quit (Quit: kaffeetrauma)
+[01:53.49] <sure> ahah
+[01:53.55] <sure> this guy is like antonfire, without knowing any maths
+[01:53.56] * ObjectiveMatt (~Objective@23-24-149-131-static.hfc.comcastbusiness.net) has joined channel ##math
+[01:53.57] <Z-module> I have no offspring and probably won't
+[01:53.59] <sure> just pathetic
+[01:54.23] <agd> sure; do I have to be equipped with mathematical talent to be capable of conversing here?
+[01:54.34] * titankiller (67157d50@gateway/web/cgi-irc/kiwiirc.com/ip.103.21.125.80) has joined channel ##math
+[01:54.47] <sure> agd: no, but you would have to be polit
+[01:54.52] <sure> what you are not
+[01:54.54] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) Quit (Ping timeout: 272 seconds)
+[01:55.01] <sure> that's simple civism, you know
+[01:55.02] * Bantalon (~Bantalon@c83-251-39-36.bredband.comhem.se) Quit (Remote host closed the connection)
+[01:55.10] <Z-module> civility, I think you mean
+[01:55.16] <sure> civility
+[01:55.16] <sure> :>
+[01:55.24] * bb010g (uid21050@gateway/web/irccloud.com/x-tcabavemxrrmxqou) has joined channel ##math
+[01:55.29] <agd> sure; im being somewhat polite, i just inquired whether you'd like to marry Z-module's daughter or not
+[01:55.37] <krator44> civilianism
+[01:55.39] <agd> that is not offensive in any shape or way
+[01:55.45] <Z-module> (that daughter being a member of the empty set)
+[01:55.52] <oleo> welp
+[01:56.04] <tmyklebu> Cale: you should really op Z-module.
+[01:56.19] <Cale> I don't have enough privileges
+[01:56.23] <sure> agd: just so you know, your provocations are making you appear ridiculous
+[01:56.29] <tmyklebu> really?
+[01:56.30] * hiptobecubic (~john@unaffiliated/hiptobecubic) has joined channel ##math
+[01:56.32] <agd> tmyklebu; that would arguably the most horrendous decision ever taken by a man in history
+[01:56.50] <Cale> tmyklebu: Well, I could give him +o but I'm not a founder... or at least, I don't think I am
+[01:56.52] <agd> sure; why do you think that my provocations are making me look utterly ridiculous?
+[01:57.00] * ssbr_at_work (scorchsabe@python/site-packages/ssbr) Quit (Ping timeout: 256 seconds)
+[01:57.10] <sure> agd: well because it doesn't work, its free and is not even smartly done
+[01:57.18] <Cale> so it would only last until he parted the channel
+[01:57.23] <florinoo> How can i solve the limit of a series if i have inside n? Example: sum k=1 to n of 1/(n+sqrt(k^2 +1))
+[01:57.47] * arubi (~ese168@unaffiliated/arubi) has joined channel ##math
+[01:57.50] <tmyklebu> oh shit.  yeah, okay.
+[01:57.53] * Bantalon (~Bantalon@c83-251-39-36.bredband.comhem.se) has joined channel ##math
+[01:57.54] <tmyklebu> what is RichiH?
+[01:58.04] <sure> florinoo: is that the n-th partial sum ?
+[01:58.07] <Cale> I think he is
+[01:58.11] <gniourf> florinoo, this time it's not really a series, more a sequence
+[01:58.30] <tmyklebu> oh neat, some sort of freenode staff.
+[01:58.35] * _1k5 (~mdl@gtng-4d08d4a2.pool.mediaways.net) Quit (Ping timeout: 255 seconds)
+[01:58.41] <florinoo> sure yeah, i guess
+[01:58.42] * komarov (~komarov@92-100-250-188.dynamic.avangarddsl.ru) Quit (Ping timeout: 272 seconds)
+[01:59.27] <florinoo> gniourf what is the difference? I am not an english native
+[01:59.30] * Biolunar_ (Biolunar@blfd-4d024dfe.pool.mediaways.net) Quit (Quit: leaving)
+[01:59.43] <sure> well, formally there is no difference
+[01:59.44] * lukaraamu (~lukaramu@port-23160.pppoe.wtnet.de) has joined channel ##math
+[01:59.48] <sure> a serie is the sequence of its partial sum
+[02:00.11] <dude12312414> I have a question. In my intro to Quantum Mechanics class, they showed that normalized wave functions satisfying Schrodinger's equation remain normalized at all times. The crux of the proof amounts to showing that Ψ* ∂Ψ/∂x - Ψ ∂Ψ*/∂x vanishes at +- infinity
+[02:00.14] * lapnect (~empty@efp14.neoplus.adsl.tpnet.pl) has joined channel ##math
+[02:00.23] * skymaker (~skymaker@d207-6-182-98.bchsia.telus.net) Quit (Ping timeout: 264 seconds)
+[02:00.42] * komarov (~komarov@92-100-250-188.dynamic.avangarddsl.ru) has joined channel ##math
+[02:00.49] <dude12312414> And they say a sufficient condition is that |Ψ| --> 0 as |x| approaches infinity
+[02:00.54] * kexmex (~kexmex@178.136.234.6) has joined channel ##math
+[02:01.06] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) Quit (Ping timeout: 265 seconds)
+[02:01.11] <dude12312414> But I feel we need the partial derivatives to be bounded as well
+[02:01.28] <florinoo> sure ok. Any idea how to solve it?
+[02:01.41] * zex (~zex@c-98-210-59-126.hsd1.ca.comcast.net) has joined channel ##math
+[02:01.50] * struktured (~carm@172.56.19.37) has joined channel ##math
+[02:01.59] <sure> let me see again
+[02:02.59] * eatmaggot (~taiyo@c-76-20-61-145.hsd1.ca.comcast.net) Quit (Ping timeout: 252 seconds)
+[02:03.21] * lukaramu (~lukaramu@port-19091.pppoe.wtnet.de) Quit (Ping timeout: 240 seconds)
+[02:03.53] * athan (~quassel@174-16-132-33.hlrn.qwest.net) Quit (Ping timeout: 252 seconds)
+[02:04.39] <sure> florinoo: its weird that it depends on n
+[02:05.44] * math780 (4e0835b2@gateway/web/freenode/ip.78.8.53.178) Quit (Ping timeout: 246 seconds)
+[02:06.16] <sure> you have to see it as a sequence not a serie as gniourf said
+[02:06.33] * deffrag (~Dedec@unaffiliated/deffrag) Quit (Remote host closed the connection)
+[02:06.53] * deffrag (~Dedec@unaffiliated/deffrag) has joined channel ##math
+[02:07.21] * jagob (~jacob@109.57.33.211.mobile.3.dk) Quit (Ping timeout: 240 seconds)
+[02:07.30] <florinoo> sure it is the first series which i see with n inside
+[02:07.40] <x4nti> florinoo: looks like one of those problems where you're supposed to consider it as the riemann sums of some integral
+[02:07.54] <Z-module> kind of but it doesn't have that for
+[02:07.57] <Z-module> form*
+[02:08.01] <gniourf> florinoo, transform this into a Riemann sum
+[02:08.39] <UltraFly> What's the nicest way to prove the orthogonality of Legendre Polynomials?
+[02:08.39] <gniourf> florinoo, you'll get, for the limit, the integral of 1/(1+x) for x=0..1
+[02:08.39] <gniourf> i.e., ln(2)
+[02:09.45] * Bantalon (~Bantalon@c83-251-39-36.bredband.comhem.se) Quit (Remote host closed the connection)
+[02:09.59] <krator44> ..if you throw +2k under the root i think you cam ise the.. squeeze theorem to show that it diverges
+[02:10.06] <krator44> use
+[02:10.12] * ssbr_at_work (scorchsabe@python/site-packages/ssbr) has joined channel ##math
+[02:10.22] <florinoo> So i have to use integrala
+[02:10.26] <florinoo> Strange
+[02:10.29] <krator44> but i dont really know
+[02:10.33] <florinoo> Thank you
+[02:10.39] <gniourf> why strange?
+[02:10.44] <rudi93> dude12312414 there is really no condition at all. if H is self-adjoint then e^(-itH) is unitary and the solution is given by e^(-itH)psi. then ||e^(-itH)psi|| = ||psi||
+[02:11.17] * cbot_ (~FS@ool-2f12e4fc.dyn.optonline.net) has joined channel ##math
+[02:11.32] * rindolf (~Shlomi@bzq-79-183-121-149.red.bezeqint.net) Quit (Quit: ＋＋http://www.shlomifish.org/，， ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.  ( ＋＋http://is.gd/U2VvJt，， ))
+[02:12.01] <dude12312414> The norm I am talking about is the Integral_{-inf}^{+inf} |Ψ(x)|^2 dx
+[02:12.15] * petersr (~PeterSR@87-58-53-250-static.dk.customer.tdc.net) has joined channel ##math
+[02:12.17] <rudi93> yes. it's the same norm i am talking about
+[02:12.21] <gniourf> dude12312414, or, rather, its square root
+[02:12.23] <dude12312414> ah I see
+[02:12.56] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) has joined channel ##math
+[02:13.03] <dude12312414> Wait so your exponential has the H operator as argument?
+[02:13.22] <rudi93> yes. this is defined by the borel functional calculus
+[02:14.00] * cbot` (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Ping timeout: 256 seconds)
+[02:14.01] <dude12312414> Matrix exponentials. I see, the proof I was reading didn't use that. It was straightforward differentiation of the integral and use of Schrodinger's equation
+[02:14.06] <dude12312414> lemme find a link
+[02:14.08] <rudi93> if H is bounded, it's given by the exp series. but usually, H isn't bounded in QM. (physicists usually ignore this)
+[02:14.29] * pwanda1 (~pwanda@nova011-184.cust-nat.nova.is) has joined channel ##math
+[02:14.34] <rudi93> the borel functional calculus works also if H is unbounded
+[02:14.47] <sure> how does this work rudi93
+[02:14.50] * thingummywut (~thingummy@91-145-92-106.bb.dnainternet.fi) Quit (Quit: Leaving)
+[02:15.08] * mceier (~mceier@89-69-196-246.dynamic.chello.pl) Quit (Quit: leaving)
+[02:15.11] * Euclide (58a2a2c7@gateway/web/freenode/ip.88.162.162.199) Quit (Ping timeout: 246 seconds)
+[02:15.33] <rudi93> sure every self-adjoint operator is unitarily equivalent to a multiplication operator on some L^2 space
+[02:15.54] <rudi93> you can apply any borel measurable function to that multiplication operator
+[02:16.11] <dude12312414> Here: farside.ph.utexas.edu/teaching/qmech/ (Section 4.3, Normalization of the wavefunction)
+[02:16.21] <sure> ah nice, how do you prove the first thing
+[02:16.25] <rudi93> and define the new domain as the domain such that the application of that borel function to a vector is still square-integrable
+[02:16.30] <sure> i think its something i used to know without proving it
+[02:17.18] <rudi93> the proof is a little bit longer. you can find it in reed&simon vol.1 for example
+[02:17.32] * Lingo____ (~ximenean@host86-147-186-206.range86-147.btcentralplus.com) Quit (Ping timeout: 265 seconds)
+[02:17.56] * coffeeee (~coffeeee@cpe-174-103-113-161.columbus.res.rr.com) has joined channel ##math
+[02:17.59] <sure> gonna check that
+[02:17.59] <sure> :>
+[02:18.21] <rudi93> dude12312414 usually physicists only prove it for schwartz functions
+[02:18.29] <rudi93> dude12312414 because they are lazy
+[02:18.46] <dude12312414> are schwartz functions those with bounded derivatives?
+[02:19.00] * maximski (~maximski@ip4d142fe5.dynamic.kabel-deutschland.de) Quit ()
+[02:19.07] <rudi93> they even -> 0
+[02:19.21] <gniourf> faster than any power of x
+[02:19.23] <sure> they are the ones with "fast decreasing"
+[02:19.27] <rudi93> yea
+[02:19.31] <sure> that is their decrease is faster than any power of
+[02:19.31] <sure> x
+[02:19.37] <dude12312414> Well bounded would be easy enough to prove too :P
+[02:19.49] <sure> and rudi93, its not that physicist are lazy, its that they don't do the maths required to understand it
+[02:20.16] <rudi93> not all of them are stupid :p
+[02:20.17] <sure> not by lazyness, but because there is no good theoretical physics formation
+[02:20.32] <gniourf> dude12312414, bounded is not enough
+[02:20.36] * dj_pi (~dj@c-107-5-228-80.hsd1.mi.comcast.net) has joined channel ##math
+[02:20.40] * Flynnn (~Flynnn@71.8.176.243) has joined channel ##math
+[02:20.41] * PatrickRobotham (uid18270@gateway/web/irccloud.com/x-omnsinyjbqrginxs) Quit (Quit: Connection closed for inactivity)
+[02:20.44] <sure> did you major in maths rudi93 ?
+[02:21.16] <rudi93> no, but i basically taugt everything myself
+[02:21.22] <rudi93> except number theory
+[02:21.32] <sure> its ridiculus how oyu have to teach everything yourself when you follow a physics formation
+[02:21.49] <rudi93> well, usually physicists don't work in mathematical physics, so they don't need it
+[02:22.05] * lavender (~anonymous@146-115-146-205.c3-0.nwt-ubr1.sbo-nwt.ma.cable.rcn.com) Quit (Ping timeout: 256 seconds)
+[02:22.05] <sure> well, thats why one needs a "mathematical physics" field at univ
+[02:22.13] * Hasseen33 (~r_hk1234@aim.engr.arizona.edu) Quit (Ping timeout: 252 seconds)
+[02:22.13] <sure> that mixes maths and phys from first year
+[02:22.16] <sure> as russians used to do
+[02:23.40] <rudi93> well, at my uni, you could replace some physics courses by pure math courses
+[02:24.05] * MulleDK19 (MulleDK19@unaffiliated/mulledk19) has joined channel ##math
+[02:24.17] <dude12312414> gniourf: Why not? |Ψ* ∂Ψ/∂x - Ψ ∂Ψ*/∂x| <= |Ψ* ∂Ψ/∂x| + |Ψ ∂Ψ*/∂x| = 2|Ψ||∂Ψ/∂x| so if |∂Ψ/∂x| is bounded and |Ψ| approaches 0, we're done
+[02:24.18] <sure> in france you hardly can
+[02:24.20] * UltraFlyII (~UltraFlyI@173.48.203.54) has joined channel ##math
+[02:24.44] <rudi93> i probably did more math than physics :D
+[02:24.48] <gniourf> dude12312414, I was talking about the space of Schwartz functions :)
+[02:24.50] <sure> then thats nice
+[02:24.50] * leeN (~leeN@213.216.23.7) has joined channel ##math
+[02:25.01] <sure> my whole education was wasted by shitty physics course i have no use
+[02:25.30] <sure> special mention for particle physics courses
+[02:25.35] <sure> biggest hoax in physics
+[02:25.46] <rudi93> well, i also had to waste a lot of time on experimental stuff :|
+[02:25.50] * zozoR (~Morten@3205ds2-arno.0.fullrate.dk) Quit (Remote host closed the connection)
+[02:26.01] <sure> me too rudi93
+[02:26.54] <dude12312414> I wish I could learn more advanced math, but there's just too much... I taught myself group theory up to Galois Theory but I don't have much opportunity to use it so I forget the details
+[02:27.02] <sure> and then, people are surprised that most physicists are just good at computing ill defined maths stuff
+[02:27.05] <sure> and are proud of them
+[02:27.14] * germ13 (~germ13@cpe-104-33-105-125.socal.res.rr.com) has joined channel ##math
+[02:27.33] <rudi93> dude12312414 for physics, it's most useful to learn as much analysis as you can find
+[02:27.34] <gniourf> good physicists are also good at math
+[02:27.40] <gniourf> or so I like to say to myself
+[02:27.48] * mceier (~mceier@89-69-196-246.dynamic.chello.pl) has joined channel ##math
+[02:27.52] <sure> gniourf: good physicists are good at most of the times mathematicians from "formation"
+[02:28.17] * UltraFly (~UltraFlyI@173.48.203.54) Quit (Ping timeout: 255 seconds)
+[02:29.13] <sure> its not because witten has a field medals that most physicists understand what he does
+[02:29.16] * mocl4 (~mocl4@unaffiliated/mocl4) has joined channel ##math
+[02:29.37] <sure> actually, most people who are so called "string theorists" are ignorant of the maths they are supposed to understand
+[02:29.58] <dude12312414> Newton was a physicist and invented the math to go with it :P
+[02:30.09] <sure> newton was before all a mathematician
+[02:30.12] <sure> (and religious)
+[02:30.34] <krator44> or something such as +2k and -2k if you think that it converges
+[02:30.48] <krator44> but i dont think it does
+[02:30.54] <b0g> how do you guys feel about mathematica's documentation? i just snagged a copy of it from my uni and it seems really neat, but should i learn R instead?
+[02:31.01] <g0th> hmm, can someone help me with poisson brackets/algebras?
+[02:31.08] <gniourf> krator44, it does converge to ln(2). Problem was solved a long time ago
+[02:31.13] <rudi93> g0th what about it
+[02:31.17] <gniourf> g0th, ask
+[02:31.19] <g0th> how does it work if you have a graded algebra?
+[02:31.29] <g0th> I have something which looks very much like a poisson bracket
+[02:31.37] <gniourf> then you have a graded Poisson bracket
+[02:31.37] <g0th> but it is not linear/distributive or how you call it
+[02:31.49] <sure> poisson bracket is supposed to be bilinear
+[02:31.59] <sure> otherwise you don't have an algebra
+[02:32.00] <g0th> [f1+f2, g] != [f1,g] + [f2,g]
+[02:32.08] <sure> is there a sign somewhere ?
+[02:32.12] <gniourf> g0th, then it's not a PB
+[02:32.23] <sure> whats the grading
+[02:32.27] <g0th> ＋＋http://arxiv.org/abs/math/0509653，，
+[02:32.34] <g0th> its the ring of quasi modular forms
+[02:32.40] <krator44> gniourf: ok
+[02:32.41] <sure> k, can't help
+[02:32.41] <sure> :>
+[02:33.06] <g0th> it satisfies soo many properties
+[02:33.09] <g0th> it must be something nice
+[02:33.16] * florinoo (~holoirc@92.86.112.87) Quit (Ping timeout: 244 seconds)
+[02:33.21] * liquidfl0ppy (~chris@c-73-204-78-199.hsd1.fl.comcast.net) has joined channel ##math
+[02:33.28] <g0th> its defined on a filtered graded algebra
+[02:33.40] <g0th> the filtering is according to the depth
+[02:33.50] * Happzz (void@unaffiliated/ducch) has joined channel ##math
+[02:33.58] <g0th> the issue is that for "depth <= s" parts the bracket is defined depending on the "s"
+[02:34.13] <g0th> but if you split <= s parts one part might be strictly lower than s
+[02:34.30] <g0th> in which case strictly by definition the bracket for this function will have another s
+[02:34.42] * jagob (~jacob@109.57.33.211.mobile.3.dk) has joined channel ##math
+[02:34.43] <g0th> if I used the same s then it would be bilinear
+[02:34.51] <g0th> but with that different s it no longer is
+[02:34.53] * yamadapc (~yamadapc@177.141.92.20) has joined channel ##math
+[02:35.03] <g0th> so I'm missing some basic structure idea here
+[02:35.24] * Litt (~M@202-89-151-114.ue.woosh.co.nz) has joined channel ##math
+[02:35.25] <g0th> (or the authors missed it in two of their papers)
+[02:35.50] <hmmwhatsthisdo> Anyone want to check my proof? ＋＋http://i.imgur.com/djVV7Ke.png，，
+[02:35.53] * okanck (~okanck@37.72.60.9) has joined channel ##math
+[02:36.05] <sure> they call it the "rankin cohen bracket" g0th
+[02:36.15] <hmmwhatsthisdo> my math prof didn't really go over multivariable proofs that well, so I'm not sure how good it is
+[02:36.19] <sure> maybe there's an abstraction of it somewhere
+[02:36.48] <sure> ＋＋http://en.wikipedia.org/wiki/Rankin，，–Cohen_bracket
+[02:36.51] <g0th> sure: they generalized the construction from zagier
+[02:36.57] <g0th> which defined a poisson bracket
+[02:37.14] <g0th> but I don't get how their definition gives you a poisson bracket because of the issue of non-linearity
+[02:37.20] <sure> well its not
+[02:37.35] <g0th> maybe it can be fixed by looking at it the right way
+[02:37.37] <gniourf> hmmwhatsthisdo, looks good. FYI this is called Bernoulli's inequality
+[02:37.42] <sure> it has to be an algebra g0th
+[02:37.46] <g0th> maybe I have to restrict the bracket to fixed depth parts?
+[02:37.58] * OxE6|zzz is now known as OxE6
+[02:38.01] <dude12312414> Are most people here math grads?
+[02:38.09] <hmmwhatsthisdo> gniourf: yeah, I googled the equation because I got stuck more than once
+[02:38.16] <gniourf> :)
+[02:38.20] <g0th> sure: I'm not sure about the definitions of poisson brackets/etc for graded/filtered stuff
+[02:38.29] <g0th> sure: in this case we have both
+[02:38.31] <sure> i guess it has to be compatible with the grading
+[02:38.37] <hmmwhatsthisdo> the prof just sorta waved his hands over proofs involving real numbers
+[02:38.46] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) has joined channel ##math
+[02:38.51] <sure> taht is, if f is of degree d, and g of degree d', then {f,g} must be of degree d+d'
+[02:38.52] <sure> sth like that
+[02:39.09] <g0th> it satisfies properties like that
+[02:39.17] <g0th> even the leibnitz rule
+[02:39.21] <g0th> and more
+[02:39.27] <g0th> so it is for sure something interesting
+[02:39.29] <sure> yes thats because its also a derivation
+[02:39.50] <g0th> you mean the new rankin cohen bracket?
+[02:39.52] <g0th> or the old one?
+[02:39.57] <sure> i don't understand the paper
+[02:40.01] <sure> i can't help i guess
+[02:40.05] <gniourf> sure I think it's slightly more complicated than that for a graded PB
+[02:40.06] <g0th> you already helped a lot
+[02:40.26] <sure> gniourf: what would be the definition ?
+[02:40.39] * jimmyff (~jimmyff@host86-169-8-223.range86-169.btcentralplus.com) has joined channel ##math
+[02:41.03] <g0th> ＋＋http://arxiv.org/abs/1306.3634v2，，
+[02:41.22] <g0th> this is newer/clearer
+[02:41.24] * freecoder (~freecoder@49.248.160.146) Quit (Quit: Leaving)
+[02:41.33] * eatmaggot (~taiyo@c-76-20-61-145.hsd1.ca.comcast.net) has joined channel ##math
+[02:41.36] <g0th> I am asking because I'm implementing it in sage right now
+[02:41.46] * Orpheon (~Orpheon@80-219-202-147.dclient.hispeed.ch) has joined channel ##math
+[02:41.49] <g0th> I worte the two authors an email but they didn't respond
+[02:41.49] <gniourf> it's related to a Schouten bracket iirc
+[02:41.56] <g0th> I asked on math stackexchange
+[02:41.58] <g0th> no response
+[02:42.03] * wagonboi_ (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) has joined channel ##math
+[02:42.11] * wagonboi_ (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) Quit (Remote host closed the connection)
+[02:42.15] <g0th> I asked colleagues at the university but those that I asked couldn't help
+[02:42.21] <g0th> where else can I ask about it?
+[02:42.49] <sure> for an elmeentary answer i don't know
+[02:42.55] <sure> you can try mathoverflow, but i doubt they won't close your post
+[02:43.03] <sure> still one cool guy might answer it nicely
+[02:43.10] * cbot_ (~FS@ool-2f12e4fc.dyn.optonline.net) Quit (Ping timeout: 245 seconds)
+[02:43.15] * hassiktir (~schmity@174-31-176-96.tukw.qwest.net) has joined channel ##math
+[02:43.29] * ystael (~ystael@209-6-53-93.c3-0.smr-ubr1.sbo-smr.ma.cable.rcn.com) Quit (Ping timeout: 252 seconds)
+[02:43.35] <g0th> I'm sure that this is a trivial issue
+[02:43.47] <g0th> so I just need someone vaguely familiar with it
+[02:44.36] <g0th> see ＋＋http://arxiv.org/abs/math/0509653,，， after Theorem 3, Remark 4
+[02:45.15] <g0th> there they define the bracket for f,g with exact depths
+[02:45.19] * wagonboi (~wagonboi@pool-173-51-84-146.lsanca.fios.verizon.net) Quit (Ping timeout: 252 seconds)
+[02:45.50] <sure> this is complicated g0th
+[02:46.04] <sure> what do they call weight, are you working on some representation ?
+[02:46.05] * illustion (~Mr@static24-89-78-232.r.rev.accesscomm.ca) Quit (Quit: illustion)
+[03:58.13] *** Server disconnected on irc.freenode.net

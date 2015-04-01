@@ -1,0 +1,177 @@
+Session Start: Thu Mar 19 02:29:19 2015
+Session Ident: ##programming
+[02:29.19] * You have joined ##programming
+[02:29.20] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[02:29.20] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[02:29.22] Channel modes for ##programming are :+cntf ##overflow
+[02:29.22] Channel Created on: 5:23 AM 2/4/2007
+[02:29.30] <amigojapan> I see
+[02:29.35] * Ziprock (~Ziprock@drmons0505w-142134045174.dhcp-dynamic.FibreOp.ns.bellaliant.net) has joined channel ##programming
+[02:29.37] * George__ (~George__@c-24-130-139-81.hsd1.ca.comcast.net) has joined channel ##programming
+[02:29.38] * pandoxer (~bluu@ip98-164-219-234.oc.oc.cox.net) Quit (Quit: Textual IRC Client: ＋＋www.textualapp.com，，)
+[02:29.50] * L0K3 (L0K3@cpe-24-27-51-245.austin.res.rr.com) has joined channel ##programming
+[02:29.59] <ams> it is also a bit misleading to say that + is a "assembler" thing ..
+[02:30.09] <amigojapan> ams: I have fooled a bit with drracket , but hardly know anything about lisp otherwise
+[02:30.38] <ams> + is a normal function in lisp
+[02:30.42] <amigojapan> ok
+[02:31.23] <ams> which compiles down to something a bit simpler ..
+[02:31.31] <amigojapan> ams: so when we use the commandline of a lisp machine,   besides the assembler, there are also other functions , like a libary or something?
+[02:32.04] --Rochvellon-- logged out of account
+[02:32.07] * untitaker (~untitaker@178-189-205-18.adsl.highway.telekom.at) has joined channel ##programming
+[02:32.18] <ams> yes
+[02:32.29] <amigojapan> I see
+[02:32.49] <ams> so, like .. + .. (defun + (&rest numbers) ...)
+[02:33.04] * duck_cpd (~duck_cpd@207-181-235-15.c3-0.mct-ubr1.chi-mct.il.cable.rcn.com) has joined channel ##programming
+[02:33.07] <amigojapan> ams: I guess that library is what I would conside “a higher level of abstraction” over the pure assembly
+[02:33.16] <ams> that calls +-internal
+[02:34.02] <ams> which is a machine instruction
+[02:34.09] <amigojapan> ok
+[02:34.10] * moribund112 is now known as moribund112[away
+[02:34.21] <ams> defined, infact as: (defopcode add		300 (2 1 (lp fp sp pop unsigned)) :needs-tos :needs-lp :function +-internal)
+[02:34.51] <ams> for the compiler..
+[02:35.16] * avarsh (~avarsh@d-199-203-121.bootp.Virginia.EDU) Quit (Remote host closed the connection)
+[02:35.23] <amigojapan> ok
+[02:35.56] <ams> so, like .. mm.. you can't even call +-internal from lisp :)
+[02:36.26] <amigojapan> ok
+[02:36.31] <ams> well, you "can", if you compile things ..
+[02:36.46] <ams> but directly, as a function call.. it is a no, and the listener (the "shell") will barf on you
+[02:36.55] <ams> the idea on the lisp machines was that you don't need assembler
+[02:37.01] <ams> you don't really have assembler at all...
+[02:37.03] <ams> it is all lisp
+[02:37.13] <amigojapan> ams: and hte command line of a lisp machine is directly the programming language?  like BASIC is on a C64?
+[02:38.27] * duck_cpd (~duck_cpd@207-181-235-15.c3-0.mct-ubr1.chi-mct.il.cable.rcn.com) Quit (Ping timeout: 245 seconds)
+[02:38.45] <ams> it is a bit more, it is the windowing system, it is the debugger, it is the editor to some degree
+[02:39.00] <amigojapan> I see
+[02:39.12] <ams> you can change shapes of windows, resize them, create new ones ..
+[02:39.25] <ams> you can place your editor on one side, and your listener on the other
+[02:39.42] <ams> you can print objects, like images, and get the image printed
+[02:39.54] * squareit (~Clelt@h37n2-um-a32.ias.bredband.telia.com) has joined channel ##programming
+[02:39.56] <ams> so it isn't like c64, or basic .. :-)
+[02:40.02] <amigojapan> sounds a bit like tcl-tk’s “wish”, wais it wish? I forget
+[02:40.40] <ams> dunno
+[02:40.54] <ams> but maybe ..
+[02:41.02] <amigojapan> anyway, there was a tcl-tk shell which allowed to build GUI elements from the command line, or write scripts
+[02:41.07] * msmj1 (~doofie@dslb-188-097-189-005.188.097.pools.vodafone-ip.de) has joined channel ##programming
+[02:41.13] <ams> you list directories, and you get back objects that are mouse sensetive, completion sensetive, ..
+[02:41.18] * L0K3 (L0K3@cpe-24-27-51-245.austin.res.rr.com) has left ##programming ()
+[02:41.26] * L0K3 (L0K3@cpe-24-27-51-245.austin.res.rr.com) has joined channel ##programming
+[02:41.33] * L0K3 (L0K3@cpe-24-27-51-245.austin.res.rr.com) has left ##programming ()
+[02:41.51] * zadock (~zadock@muscalu.tuiasi.ro) has joined channel ##programming
+[02:42.29] <ams> the Show File command completes only on file names
+[02:42.43] <ams> Show Directory .. on directories
+[02:42.51] * ogrady (~Thunderbi@HSI-KBW-109-193-041-101.hsi7.kabel-badenwuerttemberg.de) has joined channel ##programming
+[02:43.12] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[02:43.20] <ams> Show Image will .. you guess it :)
+[02:43.22] * sbrg (~identity@unaffiliated/identity) Quit (Ping timeout: 256 seconds)
+[02:43.23] <stoopkid> how much do you guys charge/get paid for software dev.
+[02:43.32] <ams> stoopkid: 1k/h
+[02:43.43] <stoopkid> ams: holy shit
+[02:43.50] <stoopkid> is that a real number
+[02:43.53] <ams> yes
+[02:44.06] <amigojapan> stoopkid: I did some freelance where I got paid 800 dollars for a small project….    but right now, I dont have a programming job
+[02:44.19] <stoopkid> amigojapan: how long did that take you
+[02:44.29] <stoopkid> and what kind of environment
+[02:44.35] <stoopkid> (same question to you ams)
+[02:44.35] <ams> stoopkid: but you are asking the wrong question.
+[02:44.52] * msmj (~doofie@dslb-188-097-189-005.188.097.pools.vodafone-ip.de) Quit (Ping timeout: 264 seconds)
+[02:44.53] * Pritchard (~Pritchard@unaffiliated/pritchard) has joined channel ##programming
+[02:44.53] <ams> you asked about what we charge, not what we _do_
+[02:44.59] <amigojapan> stoopkid: programmign time, only like 20 hours…    but, unfortunately they had me go over for meetings which broke my proffit to time ratio completly
+[02:45.05] <stoopkid> what do you do ams
+[02:45.20] <ams> currently, telescope control software.
+[02:45.21] <amigojapan> stoopkid: I was just making a login system in PHP, backend
+[02:45.21] * Pritchard (~Pritchard@unaffiliated/pritchard) Quit (Client Quit)
+[02:45.45] <stoopkid> ams: fair enough
+[02:46.05] * sbrg (~identity@185.38.44.213) has joined channel ##programming
+[02:46.05] * sbrg (~identity@185.38.44.213) Quit (Changing host)
+[02:46.05] * sbrg (~identity@unaffiliated/identity) has joined channel ##programming
+[02:46.21] <ams> stoopkid: so, you see .. your pay depends on what kind of nische branch you are in
+[02:46.45] <stoopkid> well, i'm building a system for somebody, and trying to figure out how to charge them
+[02:47.09] <ams> what kind of a system?
+[02:47.14] <amigojapan> stoopkid: deffenetly charge by the hour, dont let them make you charge by the project, or you will never heard hte end of it
+[02:47.22] <stoopkid> it's a PLC, programmable logic controller
+[02:47.36] <ams> how much work you think it is?
+[02:47.51] <stoopkid> a lot of ridiculous work
+[02:48.04] <ams> do you want to havbe them as a client?
+[02:48.12] * thevishy (~thevishy@122.179.25.5) has joined channel ##programming
+[02:48.23] <ams> and what is a lot of ridiculous work?
+[02:48.37] <ams> 10 hours? 20? 100? 5 years?
+[02:48.55] <stoopkid> more on the range of 100 hours
+[02:48.58] * zeRez (~zeRez@93.129.241.240) has joined channel ##programming
+[02:49.26] <ams> so two weeks of work
+[02:49.28] * rgr (~user@e176186106.adsl.alicedsl.de) has joined channel ##programming
+[02:49.30] <stoopkid> but i own this intellectual property, and he needs me because i built another similar system for him and he can't find anybody else to do maintenance or tech support on that
+[02:49.41] <stoopkid> maybe 160
+[02:49.45] <stoopkid> about a month
+[02:50.23] <aidanh> stoopkid: 25 hours a week isn't bad
+[02:50.42] <stoopkid> now i have to make up some magical number that represents how much my time is worth to me
+[02:50.42] <ams> stoopkid: what did you charge him last time?
+[02:51.05] <amigojapan> stoopkid: start high, he may bargain it down
+[02:51.06] <stoopkid> i charged him $20/hr, but i was getting paid every 2 weeks unnegotiably like a standard employee (no benefits though)
+[02:51.16] <ams> (please dont' call it intellectual proprey, the term is so missleading that it isn't funny)
+[02:51.25] * Earlo (~Earlo@213.143.167.6) has joined channel ##programming
+[02:51.44] <ams> stoopkid: nod.  do that, *4 :-)
+[02:51.45] <stoopkid> ok i wont
+[02:51.58] * GPenguin (~lipzus@pD9F8B4F1.dip0.t-ipconnect.de) Quit (Quit: Leaving)
+[02:52.02] <ams> 80/h
+[02:52.18] <ams> or even 120/h
+[02:52.27] <ams> dunno what is normal where you are
+[02:52.33] * GPenguin (~lipzus@pD9F8B4F1.dip0.t-ipconnect.de) has joined channel ##programming
+[02:52.33] <amigojapan> back in the US I got 80/h for a while,  but hte ocmpany went broke
+[02:52.42] <ams> around 100/h is "normal-ish"
+[02:52.58] <stoopkid> so about $10K
+[02:52.59] <ams> for consultant work, and the more specific the work, the higher the pay.
+[02:53.10] * dstrunin (~dimeetree@162.218.22.242) Quit (Ping timeout: 256 seconds)
+[02:53.14] <ams> total,  yeah
+[02:53.28] <ams> but do bill hours .....
+[02:53.34] <stoopkid> if i went lower than this would i be low-balling myself?
+[02:53.50] <ams> i think you would
+[02:53.53] * KidBeta (~textual@hpavc/kidbeta) Quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[02:54.02] <stoopkid> cool
+[02:54.16] * DavidDudson (~DavidDuds@124-197-8-250.callplus.net.nz) has joined channel ##programming
+[02:54.16] <ams> think about it, you will need to pay taxes, health crap, employeer whatevers, and whatever on that
+[02:54.42] <ams> in sweden, that would make those 10k into 5k quickly
+[02:54.48] * jennifer (~ryra@unaffiliated/ryra) Quit (Quit: This computer has gone to sleep)
+[02:55.24] <stoopkid> now as to what i was saying about intellectual property, what i really meant is that my boss doesn't own this new software, and i don't have exclusive rights to it because part of it is copied from the old system i built for him
+[02:55.25] <ams> we love our taxes ..
+[02:55.37] <lf94> i hate taxes.
+[02:56.05] <stoopkid> and strictly speaking the way our agreement is structured, i don't have to transfer ownership of the new software to him, i can charge him royalties for using it because i own it
+[02:56.13] <amigojapan> lf94: but you like roads :)
+[02:56.23] <ams> stoopkid: if you where hired by him, then he is the copyright holder of the software.  unless you had some contract stating otherwise.
+[02:57.57] <ams> at least that is how it works in most places
+[02:57.58] <stoopkid> i'm not hired by him, and he's not the copyright holder of the software. i have neither completed nor transfered it to him for money in any kind of agreement. the agreements we do have are too vague to be held up in any court on either side of the argument. the only legal situation that i'm in is that he has "invited me to make an offer for contract"
+[02:58.13] <stoopkid> moreover, there's no copyright on the software, there is no copyright holder
+[02:58.18] * Rounin (c312c5b5@gateway/web/freenode/ip.195.18.197.181) has joined channel ##programming
+[02:58.22] <ams> stoopkid: did he pay you to do something?
+[02:58.29] <stoopkid> ams: not yet
+[02:58.35] <ams> of course there is copyright on the sioftware.
+[02:58.38] <stoopkid> ams: and an amount for me to be paid is not agreed upon
+[02:58.40] <ams> copyright existses by default
+[02:58.43] <stoopkid> oh
+[02:58.49] <ams> and no software has existed for more then 90 years
+[02:58.51] <stoopkid> well, then i have the copyright
+[02:58.54] * KidBeta (~textual@130.56.75.44) has joined channel ##programming
+[02:59.05] <stoopkid> sort of
+[02:59.16] <ams> if he is paying you to do it, he has copyright on it.  you are work for hire.
+[02:59.28] * gabriel9|work (~bojan@9-133-241-92-ptp-stat.customer.blic.net) has joined channel ##programming
+[02:59.31] <ams> unless otherwise stated on paper.  paper is good.  specially with ink.
+[02:59.44] <stoopkid> there is no agreed amount, nor agreement that the project would even be completed
+[03:00.09] <ams> irrelevant as long as you are hired to complete the work, and are getting paid.
+[03:00.27] <ams> (assuming no paper that states otherwise)
+[03:00.50] <stoopkid> there is no exact statement that i'm hired to complete this work
+[03:00.54] <ams> get it in writing.
+[03:00.54] * circ-user-659PG (~circuser-@115.117.130.166) has joined channel ##programming
+[03:01.21] <amigojapan> I have also been asked by a freidn to make him a website, and he insists on paying me for it, but I told him I would do it for free, cuase money can harm relationships
+[03:01.34] <ams> a good rule is if it is not in ink, it does not exist
+[03:01.42] <Madmallard> Thats nice of you
+[03:02.03] <ams> amigojapan: i'd take the money.
+[03:02.06] <ams> or beer.
+[03:02.10] <amigojapan> Madmallard: well, I odnt need the money to survive, that is why I can be nice
+[03:02.19] * ScriptKitty (~InternetU@cpe-66-68-244-75.rgv.res.rr.com) Quit (Quit: Leaving)
+[03:02.27] <amigojapan> ams: I told him ot teach me how ot cook in exchange :)
+[03:02.42] <stoopkid> i just went through hours researching into this and apparently the situation i'm in is an "invitation to offer to contract", the situation is basically him saying that if i build X, then he will buy X from me, for an amount as yet unspecified
+[03:02.48] * sir_galahad_ad (~sir_galah@cpe-67-255-208-231.maine.res.rr.com) has joined channel ##programming
+[03:02.54] * Seacow (~Seacow@unaffiliated/seacow) has joined channel ##programming
+[03:03.04] <ams> amigojapan: good
+[03:03.23] <stoopkid> at this point, he can make an offer to buy from me and i can accept or refuse, and i can make an offer to him and he can accept or refuse
+[03:04.11] *** Server disconnected on irc.freenode.net

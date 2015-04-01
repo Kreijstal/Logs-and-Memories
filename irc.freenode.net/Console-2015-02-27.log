@@ -1,0 +1,54 @@
+Session Start: Fri Feb 27 05:16:12 2015
+[05:16.12] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (195.148.124.79) on port 6667
+[05:16.12] -irc.freenode.net- Sending User Registration Information
+[05:16.12] --rajaniemi.freenode.net-- *** Looking up your hostname...
+[05:16.12] --rajaniemi.freenode.net-- *** Checking Ident
+[05:16.13] --rajaniemi.freenode.net-- *** Couldn't look up your hostname
+[05:16.20] -irc.freenode.net- Capabilities supported: account-notify extended-join identify-msg multi-prefix sasl
+[05:16.20] -irc.freenode.net- Capabilities requested: account-notify extended-join multi-prefix
+[05:16.20] -irc.freenode.net- Capabilities acknowledged: account-notify extended-join multi-prefix 
+[05:16.20] -rajaniemi.freenode.net- Welcome to the freenode Internet Relay Chat Network Rainb
+[05:16.20] -rajaniemi.freenode.net- Your host is rajaniemi.freenode.net[195.148.124.79/6667], running version ircd-seven-1.1.3
+[05:16.20] -rajaniemi.freenode.net- This server was created Tue Oct 21 2014 at 11:19:23 UTC
+[05:16.21] -rajaniemi.freenode.net- rajaniemi.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+[05:16.21] -rajaniemi.freenode.net- CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+[05:16.21] -rajaniemi.freenode.net- CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+[05:16.21] -rajaniemi.freenode.net- EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+[05:16.21] -rajaniemi.freenode.net- There are 175 users and 90530 invisible on 26 servers
+[05:16.21] -rajaniemi.freenode.net- There are 24 IRC Operators online
+[05:16.21] -rajaniemi.freenode.net- There are 7 unknown connection(s)
+[05:16.21] -rajaniemi.freenode.net- There are 52413 channels formed
+[05:16.21] -rajaniemi.freenode.net- I have 7102 clients and 1 servers
+[05:16.21] -rajaniemi.freenode.net- Current local users 7102, max 12001
+[05:16.21] -rajaniemi.freenode.net- Current global users 90705, max 105669
+[05:16.21] -rajaniemi.freenode.net- Highest connection count: 12002 (12001 clients) (1897142 connections received)
+[05:16.21] -rajaniemi.freenode.net- You have successfully connected to rajaniemi.freenode.net
+[05:16.21] * Your mode is now +i
+[05:44.33] ERROR: duckrabbit :No such nick/channel
+[06:06.43] ERROR: #economics ##economics :Forwarding to another channel
+[08:15.00] ERROR: OnReceivedData Exception Error:Unable to read data from the transport connection: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+[08:15.00] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Server disconnected on irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[08:15.00] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[08:15.00] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[08:15.00] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (82.96.64.4) on port 6667
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.00] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (84.240.3.129) on port 6667
+[08:15.00] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.01] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (192.186.157.43) on port 6667
+[08:15.01] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.01] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (31.13.222.109) on port 6667
+[08:15.01] -irc.freenode.net- *** Attempting to re-connect to irc.freenode.net
+[08:15.01] -irc.freenode.net- *** Attempting to connect to irc.freenode.net (162.213.39.42) on port 6667
+[08:15.01] ERROR: Exception Error: The IAsyncResult object was not returned from the corresponding asynchronous method on this class.
+[08:15.01] ERROR: Parameter name: asyncResult
+[08:15.01] -irc.freenode.net- Waiting 60 seconds to re-connect to (irc.freenode.net)
+[08:15.01] ERROR: Null Socket - Can not Connect
+[08:15.01] ERROR: Null Socket - Can not Connect
+[08:15.01] ERROR: Null Socket - Can not Connect
+[08:15.01] ERROR: Null Socket - Can not Connect

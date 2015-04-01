@@ -1,0 +1,479 @@
+Session Start: Sat Feb 21 12:36:44 2015
+Session Ident: ##programming
+[12:36.44] * You have joined ##programming
+[12:36.45] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[12:36.45] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[12:36.45] Channel modes for ##programming are :+cntf ##overflow
+[12:36.45] Channel Created on: 5:23 AM 2/4/2007
+[12:37.00] <Myrl> rindolf, Ah. I was talking about decoding.
+[12:37.02] * crunchers (~crunchers@cpe-74-137-102-18.swo.res.rr.com) has joined channel ##programming
+[12:37.20] * Church|Karate (182c2b1c@gateway/web/freenode/ip.24.44.43.28) has joined channel ##programming
+[12:37.25] <rindolf> Myrl: "decoding"? What do you mean by that?
+[12:37.45] <Myrl> rindolf, Like having a struct of 16 bytes will be faster than a struct of 11 bytes
+[12:37.47] <Church|Karate> Sup'
+[12:37.53] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) has joined channel ##programming
+[12:37.54] * FLHerne (~flh@unaffiliated/flherne) has joined channel ##programming
+[12:38.04] <DogPolice> Church|Karate: I. Did. It.
+[12:38.06] <rindolf> Myrl: ah.
+[12:38.10] <rindolf> Church|Karate: hi, sup?
+[12:38.20] <Church|Karate> DogPolice: Danke.
+[12:38.22] <Myrl> rindolf, i dunno the proper term, I just say decode for everything whch inckudes transforming balues
+[12:38.22] <Myrl> values
+[12:38.49] <Church|Karate> rindolf: Not much, watching Venture Bros.
+[12:38.54] <Church|Karate> Sup' DogPolice
+[12:38.56] <Myrl> rindolf, The term on x86 is effective addres though, I think
+[12:38.57] <DogPolice> Church|Karate: You'll never believe the craziness I've gone through. I was up to 7 AM working at my whiteboard.
+[12:39.08] * vdamewood sings Jacket
+[12:39.13] <DogPolice> Working with LQG's principles.
+[12:39.19] <Church|Karate> Heh, I was up till 2:30 playing DnD. Long ass session for once.
+[12:39.27] <vdamewood> Shallow Gravy FTW!
+[12:39.34] <rindolf> Church|Karate: ah, I hope it was enjoyable.
+[12:39.47] <Myrl> rindolf, Basically what I mean by decoding is getting the new address from the base address and the index
+[12:39.49] <Church|Karate> Yarp. Plenty of fighting, no dieing for me.
+[12:39.51] <Church|Karate> Good game.
+[12:40.00] * redjuggler (~redjuggle@203.Red-79-158-90.staticIP.rima-tde.net) has joined channel ##programming
+[12:40.02] <vdamewood> Church|Karate: Get a d20 marked with just 20s
+[12:40.12] <rindolf> Myrl: ah.
+[12:40.14] <Church|Karate> heheheh
+[12:40.18] <Church|Karate> I have one somewhere.
+[12:40.23] <rindolf> Myrl: so calculating an offset?
+[12:40.39] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) has joined channel ##programming
+[12:40.43] <rindolf> vdamewood: it won't be good for saving throws.
+[12:40.45] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) has joined channel ##programming
+[12:40.47] * liqu0rice (~niklas@aftr-109-90-233-21.unity-media.net) has joined channel ##programming
+[12:41.08] <rindolf> Church|Karate: which version of D&D did you play?
+[12:41.09] <Myrl> Though, most C implementations alignment optimize a struct. Hence why "char x; uint32_t y" struct might take 8 byte instead of 5.
+[12:41.11] <vdamewood> rindolf: In the rules system I use a 20 is good for every kind of roll I make.
+[12:41.24] <rindolf> vdamewood: ah.
+[12:41.25] <muttstuffle> in C++ is accessing an std::array equally complex to accessing a c-style array (not writing to, just reading from)?
+[12:41.25] <Myrl> rindolf, pretty much
+[12:41.28] <Church|Karate> rindolf: This campaign is in 5e.
+[12:41.35] <rindolf> Church|Karate: ah.
+[12:41.37] <DogPolice> Myrl: Alignment is pretty crucial in optimization.
+[12:41.52] <vdamewood> rindolf: Not sure about the system you use, but in Third-edition and later, d20 rolls were all changed to higher-is-better rolls.
+[12:42.06] <Church|Karate> DogPolice: Exactly, I mean Chaotic Neutral gets you nowhere. :P
+[12:42.07] <Myrl> DogPolice, true, but in embedded systems, you might prefer to save bytes rather than speed
+[12:42.25] <DogPolice> Myrl: What I mean is that you can control your alignment.
+[12:42.25] * Pie_Man (~Icedove@unaffiliated/pie-man/x-7893243) has joined channel ##programming
+[12:42.45] <Myrl> DogPolice, Ah, okay.
+[12:42.57] <vdamewood> Church|Karate: groan.
+[12:43.02] <Twey> muttstuffle: Yes, if you use operator[]
+[12:43.03] <Church|Karate> :D
+[12:43.17] <Church|Karate> Thank you, thank you. I'll be here all week.
+[12:43.21] <rindolf> vdamewood: ah, I see. :-)
+[12:43.22] <Myrl> DogPolice, though, to be exact, pretty much only x86 seems to keep you free with alignment.
+[12:43.32] <muttstuffle> Twey: Alright, also passing an std::array (without the use of a pointer obviously) will pass it by value and not by reference right?
+[12:43.41] <DogPolice> Myrl: The compiler optimizes your layout.
+[12:43.52] <Twey> muttstuffle: Yes
+[12:44.00] <muttstuffle> Twey: Sweet, thanks for clarifying that
+[12:44.12] <vdamewood> The x86 is chaotic neutral.
+[12:44.18] <DogPolice> Lol.
+[12:44.26] <Myrl> DogPolice, as I've heard, ARM is pretty strict with your alignment, and that you can't access between words, not sure though
+[12:44.42] <vdamewood> ARM is Lawful Neutral
+[12:44.50] <DogPolice> Ha
+[12:44.53] <Church|Karate> vdamewood:Stealing that for a sticker. :P
+[12:45.04] <Myrl> vdamewood, what are the different terms again?
+[12:45.14] * protist (~javery@225.236.69.111.dynamic.snap.net.nz) Quit (Quit: Konversation terminated!)
+[12:45.21] <Church|Karate> "x86 is aligned chaotic neutral."
+[12:45.24] <muttstuffle> Do any architectures actually have built-in and enforced type safety?
+[12:45.26] <DogPolice> LOL.
+[12:45.32] <vdamewood> Myrl: The first word is one of: Lawful, Neutral, Chaotic; The second word: Good, Neutral, Evil
+[12:45.33] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) has joined channel ##programming
+[12:46.02] <Myrl> vdamewood, I think x86 and Windows is Chaotic Good, actually.
+[12:46.08] <muttstuffle> x86 and AMD64 don't seem to, if they do it really sucks
+[12:46.20] <vdamewood> Uhh, no. Linux is Chaotic Good. Windows is Lawful Evil.
+[12:46.28] <Myrl> Since it tries to satisfy everyone, but resulting in a wreck in a way in the process.
+[12:46.36] <muttstuffle> vdamewood: Who is Lawful good?
+[12:46.49] <Myrl> That's just my opinion though
+[12:46.57] * Sadale (~Sadale@unaffiliated/sadale) Quit (Quit: Leaving)
+[12:47.03] <vdamewood> I'd say the BSD folks fit Lawful Good.
+[12:48.35] * snyp (~Snyp@223.29.204.2) Quit (Quit: WeeChat 1.1.1)
+[12:49.21] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 250 seconds)
+[12:50.02] <Twey> muttstuffle: Hardware architectures?
+[12:50.25] <muttstuffle> Twey: Yeah, it may seem silly but it wouldn't surprise me all that much of somebody attempted it
+[12:50.39] * _Atom_ (~jawat@108-73-1-253.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[12:51.04] <Twey> muttstuffle: There are none I know of, but there is a rich seam of research on proof-carrying code, i.e. essentially compiled code that carries proofs of its properties
+[12:51.27] <Twey> But AFAIK it's not yet been implemented in hardware
+[12:51.30] <Church|Karate> Ooh.
+[12:51.36] <Church|Karate> Twey: Got links to any papers?
+[12:51.51] <Myrl> guys what's your opinion of raspi 2?
+[12:52.04] <muttstuffle> Twey: Wouldn't proof-carrying code introduce overhead at the hardware level?
+[12:52.51] <Myrl> muttstuffle, real machines or virtual machines?
+[12:53.00] <muttstuffle> Myrl: real machines
+[12:53.09] <Myrl> Ah.
+[12:53.33] <wz1000> muttstuffle: Lawful good is a hardware parenthesis processor, blessed by RMS and designed using John McCarthy's DNA
+[12:53.36] <Twey> Church|Karate: Hmm, the only thing I'm familiar with enough to suggest is Xi HongWei's stuff on typed assembly languages.  There are plenty of papers if you search, though
+[12:53.57] <Myrl> I believe that the type of a memory value is up to the programmer to decide. So you won't be expecting one from me, I guess
+[12:54.16] <Twey> muttstuffle: Yes, of course.  There's a data overhead just from *having* the proof, and of course checking it isn't free.  But (unlike runtime checks like in the Java VM) once you've checked it you're free to throw away the proof and just execute the raw machine code.
+[12:54.20] <muttstuffle> Also I really like the idea of emscripten, I think solely because of that I'll start developing for the web at some point
+[12:54.27] <Myrl> putting memory on anything makes it sound smart. :3
+[12:54.43] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##programming
+[12:54.56] <muttstuffle> Twey: True, so any cost would probably be, relatively, minimal
+[12:55.12] <Myrl> I wonder why ARM didn't decide to shift their addresses by 4 dough
+[12:55.37] <Twey> muttstuffle: The important part that it's a one-time cost incurred only when crossing trust boundaries
+[12:55.41] <Myrl> if they won't allow non-aligned access anyway
+[12:56.18] * _jake__ (~igor@189-74-44-89.bsaco701.dsl.brasiltelecom.net.br) Quit (Ping timeout: 240 seconds)
+[12:56.36] * _jake__ (~igor@189-74-44-89.bsaco701.dsl.brasiltelecom.net.br) has joined channel ##programming
+[12:56.56] * blackb1r1 (~zack@2602:30a:c021:2ee0:754c:fe0a:2a4e:51a8) Quit (Ping timeout: 265 seconds)
+[12:57.49] * eyepatch (HydraIRC@kron1-51-52.resnet.wisc.edu) Quit (Ping timeout: 244 seconds)
+[12:57.58] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 252 seconds)
+[12:58.04] * lapide_viridi (~lapide_vi@ti0097a400-1590.bb.online.no) has joined channel ##programming
+[12:58.35] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[12:58.46] <Twey> Myrl: Just guessing, but aligned accesses don't mean you necessarily read up to the next aligned address
+[12:58.59] * strainwrld (~strainwrl@a95-95-174-16.cpe.netcabo.pt) has joined channel ##programming
+[12:59.24] <Twey> If you're aligning on 4, you might still want to read bytes 8 through 10
+[12:59.45] * oriig (~oriig@78-83-49-71.spectrumnet.bg) Quit (Ping timeout: 250 seconds)
+[12:59.59] * vdamewood (~vdamewood@75-164-231-233.ptld.qwest.net) Quit (Quit: ["Textual IRC Client: ＋＋www.textualapp.com，，"])
+[01:00.05] <Myrl> Twey, Yes, but IIRC, ARM only supports word reads.
+[01:00.06] * BearishMushroom (~BearishMu@90-231-174-194-no159.tbcn.telia.com) has joined channel ##programming
+[01:01.00] <Twey> Myrl: In hardware or assembly?
+[01:01.27] <Myrl> So to read from byte 8 to 10, you'll be reading byte 8 to 12 and then decide whether to strip off the next bytes or not.
+[01:02.08] <Twey> Does the programmer have to do that?
+[01:02.21] * BearishMushroom_ (~BearishMu@90-231-174-194-no159.tbcn.telia.com) Quit (Ping timeout: 250 seconds)
+[01:02.29] <Myrl> Twey, in both, I guess. In most cases, hardware and asm is 1-to-1, notable exclusion is nasm with their algebra magic.
+[01:02.47] <Myrl> exception*
+[01:03.08] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 245 seconds)
+[01:03.08] * Uige (~Uige@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[01:03.39] <Twey> Myrl: Usually these days the opcodes given to the programmer to play with bear fairly little relation to what the hardware actually does (… instructions are rarely executed one at a time, for a start)
+[01:04.13] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##programming
+[01:04.24] * Cewcq (~Cewcq@AToulouse-551-1-61-233.w92-146.abo.wanadoo.fr) has joined channel ##programming
+[01:04.28] <Twey> Myrl: So it wouldn't be surprising if the CPU only performed block reads, but did the processing itself to make them appear arbitrary-length to the programmer
+[01:04.43] * muttstuffle (~muttstuff@pool-173-72-156-137.clppva.fios.verizon.net) Quit (Quit: Exiting Program)
+[01:05.09] <Myrl> Twey, the book I read talked about ARM hardware, albeit it was pretty outdated. Say, ~2000.
+[01:05.27] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:06.14] * redpill (~redpill@unaffiliated/redpill) has joined channel ##programming
+[01:06.19] <Twey> Myrl: Essentially, modern CPUs do a lot of complicated stuff to attempt to recover high-level semantics from the compiled machine-code they're given, to figure out e.g. data dependencies between particular bits of code, what memory addresses will need to be available, &c.
+[01:07.19] * GeneralVagueness (~General@2601:4:1780:677:755d:2770:e436:a353) has joined channel ##programming
+[01:07.38] * Eremox (~Eremox@212.3.19.134) Quit (Ping timeout: 244 seconds)
+[01:07.39] <Myrl> tee
+[01:07.47] <Myrl> oops
+[01:08.08] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) has joined channel ##programming
+[01:08.12] <Twey> Myrl: Yes, but ‘hardware’ might mean that limitation applies to the programmer interface (in which case the programmer loses no power from bumping all the memory addresses up) or just the underlying implementation (in which case the programmer would lose access to that functionality as a result)
+[01:09.17] <Myrl> Twey, I decided to check out the book, and it supports half word access
+[01:09.29] * Cewcq (~Cewcq@AToulouse-551-1-61-233.w92-146.abo.wanadoo.fr) Quit (Ping timeout: 255 seconds)
+[01:09.50] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) has joined channel ##programming
+[01:09.57] <Myrl> perhaps I should also make my ISA 32-bit.
+[01:10.14] * UberLambda (~uber@dynamic-adsl-84-221-104-89.clienti.tiscali.it) has joined channel ##programming
+[01:11.40] * Eremox (~Eremox@c-a2d771d5.02-241-7570702.cust.bredbandsbolaget.se) has joined channel ##programming
+[01:12.34] * WizJin (~WizJinAFK@103.21.160.239) has joined channel ##programming
+[01:13.03] * Stefan0 (Stefan0@h105n2-s-oe-a15.ias.bredband.telia.com) has joined channel ##programming
+[01:13.38] <Myrl> I just realized that I'm not making an accumulator machine.
+[01:13.43] <Myrl> :|
+[01:13.51] * themanhimself (~themanhim@c-76-123-17-162.hsd1.va.comcast.net) Quit (Quit: Leaving...)
+[01:13.57] <Myrl> time to remake ISA
+[01:14.28] * Stefan0 is now known as stefan26
+[01:14.37] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) Quit (Quit: d_k)
+[01:15.14] * hugofirth is now known as hugofirth|away
+[01:15.58] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:16.02] * adqu (~adqu@AClermont-Ferrand-654-1-542-39.w86-207.abo.wanadoo.fr) has joined channel ##programming
+[01:16.29] <Church|Karate> Twey: Okay, yeah. I remember reading about typed assembly languages a while ago.
+[01:16.45] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) has joined channel ##programming
+[01:17.44] <Serpentine_> Those languages seem to be the limbo between high-level languages and low-level languages
+[01:17.44] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 264 seconds)
+[01:18.38] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:19.03] * atrx (~atrx@ppp-110-168-232-182.revip5.asianet.co.th) Quit (Read error: Connection reset by peer)
+[01:19.29] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##programming
+[01:20.17] * Moshbit (~Moshbit@p54966B46.dip0.t-ipconnect.de) has joined channel ##programming
+[01:20.57] <Myrl> Serpentine_, basically, it was created after they were partying and got drunk
+[01:20.59] * kenneth24 (~kenneth24@unaffiliated/kenneth24) Quit (Ping timeout: 250 seconds)
+[01:21.47] <Myrl> Twey, My mom gave me $80 for my birthday. I might actually make a physical implementation of my machine.
+[01:25.29] * Lausi (~Lingo@185.37.86.216) has joined channel ##programming
+[01:26.22] * hugofirth|away is now known as hugofirth
+[01:26.59] * nutzz (~kvirc@95.77.180.141) has joined channel ##programming
+[01:27.03] * Sweet_Ride_ (~Sweet@199.47.65.62) has joined channel ##programming
+[01:28.18] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 244 seconds)
+[01:28.23] * wagonboi (~wagonboi@pool-173-51-93-143.lsanca.fios.verizon.net) Quit (Ping timeout: 255 seconds)
+[01:28.46] * SopaXorzTaker (~SopaXorzT@unaffiliated/sopaxorztaker) Quit (Remote host closed the connection)
+[01:28.47] * Sweet_Ride (~Sweet@199.47.65.59) Quit (Ping timeout: 250 seconds)
+[01:28.57] * Sweet_Ride_ is now known as Sweet_Ride
+[01:30.10] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) Quit (Ping timeout: 246 seconds)
+[01:30.30] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##programming
+[01:31.19] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[01:31.46] * oujh (~vfbtgn@86.126.16.66) has joined channel ##programming
+[01:31.52] * Moshbit (~Moshbit@p54966B46.dip0.t-ipconnect.de) Quit (Ping timeout: 246 seconds)
+[01:33.42] * Serpentine_ (~chatzilla@175.156.125.140) Quit (Quit: ChatZilla 0.9.91.1 [Firefox 35.0.1/20150122214805])
+[01:34.14] * d_k (~dk@cpc68034-cmbg14-2-0-cust100.5-4.cable.virginm.net) has joined channel ##programming
+[01:34.25] * strainwrld (~strainwrl@a95-95-174-16.cpe.netcabo.pt) Quit (Quit: strainwrld)
+[01:34.36] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[01:34.54] * Zifre (~Zifre@unaffiliated/zifre) Quit (Read error: Connection reset by peer)
+[01:35.36] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 265 seconds)
+[01:35.53] * xuesheng1 (~pawelek@37-219-118-55.nat.bb.dnainternet.fi) has joined channel ##programming
+[01:35.54] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 252 seconds)
+[01:36.02] * strainwrld (~strainwrl@a95-95-174-16.cpe.netcabo.pt) has joined channel ##programming
+[01:36.31] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##programming
+[01:36.35] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) Quit (Quit: Computer has gone to sleep.)
+[01:38.19] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Ping timeout: 250 seconds)
+[01:38.55] * thecha (~cha@unaffiliated/thecha) Quit (Ping timeout: 246 seconds)
+[01:39.20] * Leftas (~leftas@91.228.84.180) Quit (Ping timeout: 250 seconds)
+[01:39.37] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Ping timeout: 250 seconds)
+[01:39.41] * perillamint^fall (~perillami@59.187.100.132) Quit (Quit: Quit - Powered by ZNC)
+[01:39.49] * Zentdayn (~Zentdayn@43.198.54.77.rev.vodafone.pt) has joined channel ##programming
+[01:39.51] * entom (~entom@85.101.38.86.static.lrtc.lt) has joined channel ##programming
+[01:40.26] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Ping timeout: 265 seconds)
+[01:40.54] * entom (~entom@85.101.38.86.static.lrtc.lt) Quit (Client Quit)
+[01:41.18] * cpt_berry is now known as ser_berry
+[01:41.20] * stefan26 (Stefan0@h105n2-s-oe-a15.ias.bredband.telia.com) Quit ()
+[01:41.21] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:42.53] * crystal77 (~crystal77@107-218-136-245.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[01:42.56] * MihaiTodor (25e4fd0e@gateway/web/freenode/ip.37.228.253.14) Quit (Quit: Page closed)
+[01:43.17] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 244 seconds)
+[01:43.55] * Yebm (~Yebm@247.5.71.86.rev.sfr.net) has joined channel ##programming
+[01:44.06] * sandlst (~textual@108-234-101-152.lightspeed.brhmal.sbcglobal.net) has joined channel ##programming
+[01:44.55] * sotram (~sotram@cblmdm72-240-214-155.buckeyecom.net) Quit (Read error: Connection reset by peer)
+[01:45.02] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##programming
+[01:46.22] * Prysm (~Prysm123@97e377cf.skybroadband.com) has joined channel ##programming
+[01:46.43] * adqu (~adqu@AClermont-Ferrand-654-1-542-39.w86-207.abo.wanadoo.fr) Quit (Ping timeout: 265 seconds)
+[01:46.55] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) has joined channel ##programming
+[01:47.08] * jitta (~jitta@95.90.246.116) Quit (Ping timeout: 264 seconds)
+[01:47.11] * STumbles (~stumbles@c-24-17-164-127.hsd1.wa.comcast.net) has joined channel ##programming
+[01:47.23] * xuesheng1 (~pawelek@37-219-118-55.nat.bb.dnainternet.fi) has left ##programming ()
+[01:47.40] * insidious15 (~insidious@2601:c:3200:b200:5e51:4fff:fe8c:2c65) has joined channel ##programming
+[01:47.41] * danemacmillan (~danemacmi@unaffiliated/danemacmillan) Quit (Ping timeout: 265 seconds)
+[01:48.19] * enitiz (~saurabh@pool-98-117-183-21.bflony.fios.verizon.net) Quit (Read error: Connection reset by peer)
+[01:50.09] * Rounin (~david@88.87.54.14) Quit (Ping timeout: 245 seconds)
+[01:53.11] * danemacmillan (~danemacmi@unaffiliated/danemacmillan) has joined channel ##programming
+[01:53.33] <Twey> Myrl: With $80?
+[01:54.37] * Roonay (~Roonay@72.27.13.77) has joined channel ##programming
+[01:54.48] <Roonay> In Oracle, after logging on as sysdba, is there a difference between "GRANT create user to student;" and "GRANT create user to student WITH ADMIN OPTION;" ?
+[01:55.51] * Rilakkuma (~textual@p2022-ipbf3407marunouchi.tokyo.ocn.ne.jp) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[01:55.59] * lifenoodles (~lifenoodl@109.255.237.77) Quit (Ping timeout: 245 seconds)
+[01:56.47] * _slade_ (~Slade@pool-98-111-219-146.pitbpa.fios.verizon.net) has joined channel ##programming
+[01:56.58] * WizJin (~WizJinAFK@103.21.160.239) Quit (Quit: Leaving)
+[01:57.33] * lifenoodles (~lifenoodl@109.255.237.77) has joined channel ##programming
+[01:58.26] <GeneralVagueness> is there a way to make Task Manager always show processes from all users?
+[01:59.01] <GeneralVagueness> also what should I be using instead of Task Manager and Windows's Services thing?
+[04:36.15] *** Server disconnected on irc.freenode.net
+[06:48.21] * You have joined ##programming
+[06:48.21] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[06:48.21] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[06:48.22] Channel modes for ##programming are :+cntf ##overflow
+[06:48.22] Channel Created on: 5:23 AM 2/4/2007
+[06:48.24] * Lencl (Lencl@ip68-106-223-14.oc.oc.cox.net) has joined channel ##programming
+[06:48.26] <Lencl> hello
+[06:48.45] * eriRca___ (~erica@h37n2-um-a32.ias.bredband.telia.com) Quit (Quit: Be back later ...)
+[06:49.22] <pipo_> I built a java app in intellij idea. when I run embedded the tomcat the app works. when I take the war and run the tomcat from command line it doesn't work anymore
+[06:49.35] * Anaphaxeton (~georgios@unaffiliated/anaphaxeton) Quit (Remote host closed the connection)
+[06:49.56] * sctskw (~sctskw@c-50-152-30-192.hsd1.co.comcast.net) Quit (Remote host closed the connection)
+[06:50.15] * Rickmasta (~Rick@pool-74-101-29-191.nycmny.fios.verizon.net) has joined channel ##programming
+[06:50.17] * bddy (~bddy@90.154.64.219) Quit (Ping timeout: 250 seconds)
+[06:50.30] * tmager (~Thunderbi@resnet-130-64-128-218.medford.tufts.edu) Quit (Ping timeout: 265 seconds)
+[06:50.32] * R40UL (~R40UL@178-119-102-102.access.telenet.be) Quit ()
+[06:51.10] * Ecil (~Ecil@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) has joined channel ##programming
+[06:51.35] * Tinfoilhat_ (~quassel@142.68.118.112) has joined channel ##programming
+[06:51.53] <Lencl> this is confusing: ＋＋http://tinypic.com/view.php?pic=2w585cn&s=8#.VOkYDy6OI8E，，
+[06:52.26] * _jake__ (~igor@189-74-44-89.bsaco701.dsl.brasiltelecom.net.br) Quit ()
+[06:52.50] * ihjaz (~qohjz@dslb-178-005-077-099.178.005.pools.vodafone-ip.de) Quit (Quit: Leaving)
+[06:52.54] <CoJaBo> People still use tinypic?
+[06:53.31] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) has joined channel ##programming
+[06:53.39] * pipo_ (b5a77c6d@gateway/web/freenode/ip.181.167.124.109) Quit (Ping timeout: 246 seconds)
+[06:54.18] <GeneralVagueness> ah, the variables refer to locations
+[06:54.21] * Pryysm (~Prysm123@97e377cf.skybroadband.com) Quit (Quit: Leaving)
+[06:54.30] <GeneralVagueness> looks like a demonstration of pointers
+[06:54.54] <Rainb> So, uhm, can you create custom keyboard layouts in windows 8
+[06:55.13] * Vtarl (~Vtarl@ARouen-651-1-289-59.w109-209.abo.wanadoo.fr) Quit (Ping timeout: 264 seconds)
+[06:55.20] <_W_> I'm sure at least keyboard manufacturers have a way
+[06:55.55] * JotaK (~Seven@unaffiliated/jotak) Quit (Quit: ChatZilla 0.9.90.1-rdmsoft [XULRunner 1.9.2.19/20110707195905])
+[06:56.21] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) Quit (Quit: Leaving)
+[06:56.43] * ScriptKitty (~InternetU@cpe-72-191-146-175.rgv.res.rr.com) has joined channel ##programming
+[06:57.24] <Rainb> uhmm? I thought it was os based
+[06:57.39] <Rainb> also msklc doesn't work in 8
+[06:57.44] * mueslo_ (~quassel@p54B417AD.dip0.t-ipconnect.de) has joined channel ##programming
+[06:58.15] * L8D (~L8D@99-156-81-153.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 265 seconds)
+[06:58.28] --fireballs-- logged in with account (fireballs)
+[06:59.27] * JohnBobSmith (~JohnBobSm@a208-98-235-2.sb.shawcable.net) Quit (Quit: Leaving)
+[07:00.01] * Betal (~Beta@unaffiliated/betal) Quit (Ping timeout: 264 seconds)
+[07:00.29] * The_DarkKnight (~textual@c-73-183-240-153.hsd1.tx.comcast.net) has joined channel ##programming
+[07:00.37] * mueslo (~quassel@p54B417AD.dip0.t-ipconnect.de) Quit (Ping timeout: 264 seconds)
+[07:02.48] --SCHAAP137-- logged in with account (SCHAAP137)
+[07:04.20] * MetatronG (~MetalHead@72.27.13.77) Quit (Ping timeout: 252 seconds)
+[07:04.30] * ashmew2 (~ashmew2@unaffiliated/ashmew2) Quit (Ping timeout: 276 seconds)
+[07:05.30] * patche (sebastianc@c-24-21-197-80.hsd1.or.comcast.net) Quit ()
+[07:05.39] * everamzah (~james@cpe-108-183-152-167.maine.res.rr.com) Quit (Quit: WeeChat 1.0.1)
+[07:06.31] * syncrow_ (syncrow@unaffiliated/syncrow) has joined channel ##programming
+[07:07.11] * chris_99 (~chris_99@unaffiliated/chris-99/x-3062929) Quit (Quit: Ex-Chat)
+[07:07.33] * syncrow (syncrow@unaffiliated/syncrow) Quit (Quit: Lost terminal)
+[07:08.17] * nso95 (~nso95@unaffiliated/nathan1995) Quit ()
+[07:09.02] * Betal (~Beta@unaffiliated/betal) has joined channel ##programming
+[07:10.25] * pfirsich (~pfirsich@ip-178-202-242-52.hsi09.unitymediagroup.de) has joined channel ##programming
+[07:10.39] * Ecil (~Ecil@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) Quit (Remote host closed the connection)
+[07:11.20] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) Quit (Ping timeout: 265 seconds)
+[07:12.20] * snhmib (~jurjen@a83-163-200-186.adsl.xs4all.nl) has joined channel ##programming
+[07:12.47] <sir_galahad_ad_> morning
+[07:12.48] * fosterbuster (~insanofle@87-104-154-204-dynamic-customer.profibernet.dk) Quit (Ping timeout: 252 seconds)
+[07:12.57] * pyon is now known as idem-pyon-tent
+[07:13.25] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) Quit (Ping timeout: 245 seconds)
+[07:13.44] * boB_K7IQ (~IceChat9@50.46.87.250) Quit (Ping timeout: 252 seconds)
+[07:14.10] * urf (~urf@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) has joined channel ##programming
+[07:14.28] * Moshbit (~Moshbit@p54966B46.dip0.t-ipconnect.de) Quit (Read error: Connection reset by peer)
+[07:14.34] * abs25 (~absof25_@141-136-172-44.dsl.iskon.hr) Quit (Quit: Leaving)
+[07:14.38] * Vodka_Gobalsky (~SL89@unaffiliated/sl89) Quit (Ping timeout: 252 seconds)
+[07:15.01] * Snake2k (~Snake2k@unaffiliated/snake2k) has joined channel ##programming
+[07:15.19] * ae (4e018410@gateway/web/freenode/ip.78.1.132.16) has joined channel ##programming
+[07:15.28] * urf (~urf@AAubervilliers-151-1-11-17.w83-114.abo.wanadoo.fr) Quit (Excess Flood)
+[07:15.42] * fuio (~fuio@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) has joined channel ##programming
+[07:15.43] * ae is now known as Guest5037
+[07:16.09] * bee_em (~manjaro-k@23-123-216-234.lightspeed.wepbfl.sbcglobal.net) has joined channel ##programming
+[07:16.35] <pfirsich> hey! I'm working on a game that's automatically records playtest sessions. I have a php-script for upload and a little webinterface ready. I'm not really sure using which language/toolkit I should program the uploader, which will be invoked when the game closes. I thought about C++/Qt, since I'm kind of familiar with it, but I really don't like shipping a 12+MB uploader tool with a ~2MB game. I quickly coded something
+[07:16.35] <pfirsich> up in Python using the integrated Tk-Bindings and urllib and it works like a charm, but as of now I only managed to generate a folder with quite a few extra files and an .exe (py2exe and cx_freeze) of about 20MB, which is definitely too big. Does anyone have any suggestions for a language/toolkit with easy to use and lightweit HTTP/GUI libraries? Preferably platform independent.
+[07:16.53] <Guest5037> {float a = -1.f; printf("%d", a);}
+[07:17.05] * fuio (~fuio@arl95-h03-89-89-55-95.dsl.sta.abo.bbox.fr) Quit (Excess Flood)
+[07:17.08] <Guest5037> the error is ""format %d expects arg. of type int, but argument 2 has type 'double'"
+[07:17.23] <Guest5037> why does it say it's of type 'double' when it's actually float?
+[07:18.07] * Gmri (~Gmri@cha92-14-88-171-192-29.fbx.proxad.net) has joined channel ##programming
+[07:18.36] * Tinfoilhat_ (~quassel@142.68.118.112) Quit (Ping timeout: 240 seconds)
+[07:19.08] * Gmri (~Gmri@cha92-14-88-171-192-29.fbx.proxad.net) Quit (Remote host closed the connection)
+[07:19.08] <Snake2k> Hello humans, robots, and other... weird... things...
+[07:19.11] * oyee (~oyee@41.251.57.249) has joined channel ##programming
+[07:19.16] * LeetHacksaw (~leethacks@unaffiliated/leethacksaw) Quit (Read error: Connection reset by peer)
+[07:19.17] <pfirsich> Guest: ＋＋http://stackoverflow.com/questions/28097564/why-does-printf-promote-a-float-to-a-double，，
+[07:19.17] <Guest5037> hello, world
+[07:19.26] <idem-pyon-tent> Snake2k: Hello.
+[07:19.26] * KiltedNinja (~KiltedNin@cpc6-dumb5-2-0-cust108.20-3.cable.virginm.net) has joined channel ##programming
+[07:19.30] * memcpy (~memcpy@unaffiliated/memcpy) has joined channel ##programming
+[07:19.32] * Roonay (~Roonay@72.27.13.77) has left ##programming ()
+[07:19.49] <Guest5037> thx
+[07:20.13] * RumpledElf (~leethacks@unaffiliated/leethacksaw) has joined channel ##programming
+[07:20.53] <idem-pyon-tent> Guest5037: ＋＋http://stackoverflow.com/a/7197619，， -- This might help.
+[07:21.14] * Snake2k hugs idem-pyon-tent without hugging idem-pyon-tent 
+[07:21.41] <idem-pyon-tent> Snake2k: Take your paraconsistency out of here!
+[07:21.52] <Rainb> how many pyons there are
+[07:22.01] <Snake2k> idem-pyon-tent: Okay :
+[07:22.02] <Snake2k> :(
+[07:22.21] <Snake2k> Rainb: As many as you can think of +1.
+[07:22.36] * rgr (~user@f054151060.adsl.alicedsl.de) Quit (Ping timeout: 245 seconds)
+[07:22.53] <idem-pyon-tent> Snake2k: That is, I am okay with IRC hugs (not RL ones, though). Just not with logical inconsistency. :-P
+[07:22.55] * WindyDays (~WindyDays@110-174-128-86.static.tpgi.com.au) has joined channel ##programming
+[07:22.57] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) has joined channel ##programming
+[07:22.58] <Snake2k> Rainb: Now you know as many as you can think of +1... Which means number of pyons is "(as many as you can think of +1) + 1"
+[07:23.15] <Snake2k> idem-pyon-tent: hahahaha lmao
+[07:24.41] <Snake2k> idem-pyon-tent: How do you express that in terms of functions again? :| f(x) = f(x) + 1?
+[07:24.54] <idem-pyon-tent> Rainb: What Snake2k meant is that the "number" of pyons is not a natural number, but, rather, a conatural "number". The "number" of pyons is the only conatural that is equal to itself plus 1.
+[07:25.24] <Snake2k> Rainb: My logic is undeniable >_>
+[07:25.32] * Vile` (~Vile@unaffiliated/vile/x-1886500) Quit (Ping timeout: 245 seconds)
+[07:25.43] <idem-pyon-tent> Snake2k: "omega = Succ omega", using the Haskell type "data CoNat = Zero | Succ CoNat". :-P
+[07:25.58] <Snake2k> idem-pyon-tent: Math Wizard >____________>
+[07:27.15] * insidious15 (~insidious@c-69-142-165-107.hsd1.pa.comcast.net) has joined channel ##programming
+[07:27.22] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) has joined channel ##programming
+[07:27.54] * ghostpl_ (~ghostpl@c203-85.icpnet.pl) Quit (Ping timeout: 250 seconds)
+[07:29.59] * Vile` (~Vile@unaffiliated/vile/x-1886500) has joined channel ##programming
+[07:30.28] * Guest5037 (4e018410@gateway/web/freenode/ip.78.1.132.16) Quit (Ping timeout: 246 seconds)
+[07:31.54] * leetplayah (~leetplaya@122.233.189.109.customer.cdi.no) Quit (Ping timeout: 252 seconds)
+[07:33.03] * rangergord (~user1@modemcable186.198-70-69.static.videotron.ca) has joined channel ##programming
+[07:33.45] --ystael-- logged in with account (ystael)
+[07:34.20] * pfirsich (~pfirsich@ip-178-202-242-52.hsi09.unitymediagroup.de) Quit (Quit: Leaving)
+[07:35.17] --_Atom_-- logged in with account (_Atom_)
+[07:35.17] * _Atom_ (~jawat@cpe-72-182-59-185.austin.res.rr.com) has joined channel ##programming
+[07:35.29] * Optional (~Beast@bcdd0536.skybroadband.com) has joined channel ##programming
+[07:38.07] * dm7freek (~dm7freek@c-73-53-4-82.hsd1.wa.comcast.net) has joined channel ##programming
+[07:41.00] * bulltrue (~root@158.140.128.131.reshall.uri.edu) Quit (Quit: Leaving)
+[07:43.15] * dm7freek (~dm7freek@c-73-53-4-82.hsd1.wa.comcast.net) Quit (Ping timeout: 250 seconds)
+[07:44.35] * Gurkenglas (~Gurkengla@dslb-178-008-024-159.178.008.pools.vodafone-ip.de) Quit (Ping timeout: 252 seconds)
+[07:44.41] * delta-nry (~delta-nry@S0106c8fb2658a55a.vc.shawcable.net) has joined channel ##programming
+[07:45.44] * idem-pyon-tent (~suckmy@unaffiliated/pyon) Quit (Quit: fix config)
+[07:46.29] * mabino-pyon (~suckmy@unaffiliated/pyon) has joined channel ##programming
+[07:46.36] * rcris01 (~rcris01@50.127.45.173) Quit (Remote host closed the connection)
+[07:47.09] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[07:47.18] * finitist-pyon (b3074a10@gateway/web/freenode/ip.179.7.74.16) Quit (Ping timeout: 246 seconds)
+[07:47.24] * druidd (~lindsey@2602:306:cda2:d3e0:1a3d:a2ff:fe2c:feb0) has joined channel ##programming
+[07:49.52] --LogUse-- logged in with account (LogUse)
+[07:50.49] <Snake2k> mabino-pyon: "[~suckmy@" lol
+[07:51.36] <mabino-pyon> Snake2k: That's just my username on my main laptop. :-|
+[07:51.54] * rcris01 (~rcris01@50.127.45.173) Quit (Ping timeout: 256 seconds)
+[07:51.55] <Snake2k> mabino-pyon: Aaahhhh okay >_>
+[07:52.18] <mabino-pyon> I should rename my hostname to dick.
+[07:52.20] --django_-- logged in with account (django_)
+[07:52.34] <mabino-pyon> And switch to bash.
+[07:52.47] <mabino-pyon> So that, when I log in, my shell says "suckmy@dick".
+[07:53.24] <mabino-pyon> But, nah... too much work, plus zsh is technically superior to bash.
+[07:54.19] * Isacco (~quassel@24-176-234-48.dhcp.atsc.ca.charter.com) has joined channel ##programming
+[07:55.02] --Niebuhr-- logged in with account (Niebuhr)
+[07:55.19] --Isacco-- logged in with account (Isacco)
+[07:56.23] * syncrow_ (syncrow@unaffiliated/syncrow) Quit (Quit: Lost terminal)
+[07:56.32] * RumpledElf (~leethacks@unaffiliated/leethacksaw) Quit (Quit: My Mac has gone to sleep. ZZZzzz…)
+[07:56.54] <jkbbwr> mabino-pyon: fish > zsh
+[07:57.01] * krabador (~krabador@unaffiliated/krabador) Quit (Quit: Sto andando via)
+[07:57.57] * blablaa (~z@unaffiliated/blablaa) Quit (Quit: Ping timeout: 260 seconds)
+[07:58.34] --gumbi-- logged in with account (Gumbi)
+[07:58.40] * DLSteve (~DLSteve@c-73-7-226-217.hsd1.ga.comcast.net) Quit (Quit: Leaving)
+[07:58.43] * oriig (~oriig@78-83-49-71.spectrumnet.bg) has joined channel ##programming
+[10:03.25] *** Server disconnected on irc.freenode.net
+[11:50.00] --asimov.freenode.net-- *** No Ident response
+[11:50.00] --NickServ-- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[11:50.06] Rainb resolved to 181.50.196.58
+[11:50.06] * You have joined ##programming
+[11:50.06] Topic: Community Chat & Programming/Computer Science Discussion | If you have a question, don't ask to ask, just ask! | Paste > 5 lines to a pastebin such as ＋＋http://ideone.com，， | Channel rules: ＋＋http://goo.gl/2eJgLL，，
+[11:50.07] Channel Topic Set by: unreal on 8:44 PM 1/11/2015
+[11:50.07] --ChanServ-- [##science] Don't ask to ask, just ask your question. | Channel rules: ＋＋https://j.mp/72ZKFnZ，，
+[11:50.07] --ChanServ-- [##physics] Don't ask to ask... ask!
+[11:50.07] --ChanServ-- [##namespace] You've been forwarded to ##namespace by attempting to join a channel which doesn't exist on freenode.  This may be because the channel has moved to the correct namespace or off the network.  Please see ＋＋http://freenode.net/policy.shtml#channelnaming，， for our channel naming policy.
+[11:50.08] --ChanServ-- [##windows] Keep it polite, reasonable, constructive. Guidelines: ＋＋http://www.freenode-windows.org/channel-guidelines，，
+[11:50.08] --ChanServ-- [##deutsch] Welcome! Ask your question and be patient :D | Willkommen! Stell deine Frage und sei geduldig :)
+[11:50.08] Channel modes for ##programming are :+cntf ##overflow
+[11:50.08] Channel Created on: 5:23 AM 2/4/2007
+[11:50.08] <Guest66212> virtual machines
+[11:50.09] <wilornel_> I'm reading along
+[11:50.09] <DogPolice> Let's not go into that.
+[11:50.13] <DogPolice> @ Guest66212.
+[11:50.36] <ezekielnoob> i don't think that is falsifiable
+[11:50.48] <DogPolice> It isn't, that's why we aren't discussing it. ;)
+[11:50.53] <wilornel_> It is computable if you make usage of summarizing those pathways as you say, which I think is very interesting
+[11:51.20] <DogPolice> wilornel_: Exactly. And the best part is that you can layer Minkowski space right on top of it all and call it good.
+[11:51.33] <DogPolice> Just make it all relative to the volumes of space involved.
+[11:51.46] <DogPolice> So the standard model feels right at home.
+[11:52.06] <DogPolice> And hey, say you wanna simulate solar systems but you don't wanna simulate all the particles?
+[11:52.08] <wilornel_> Wow
+[11:52.11] <DogPolice> Just scale the volumes up.
+[11:52.15] <wilornel_> Exactly
+[11:52.16] <DogPolice> And make your particles into planets. :)
+[11:52.21] <wilornel_> so delta_n is a function of volume
+[11:52.25] <DogPolice> Yes.
+[11:52.32] <RumpledElf> did you guys just create a new galaxy in irc?
+[11:52.38] <DogPolice> RumpledElf: I created a new universe.
+[11:52.39] <wilornel_> Whoops
+[11:52.43] <wilornel_> I think we just did
+[11:53.03] <ecogiko> don't you hate it when you accidentally an universe?
+[11:53.03] <wilornel_> DogPolice: Have you ever seen vasp.at?
+[11:53.08] --leviathaan-- logged in with account (leviathaan)
+[11:53.13] <DogPolice> It implies, also, some crazy, crazy things about the speed of light.. it's  not the fastest thing anymore. :)
+[11:53.17] <DogPolice> wilornel_: I haven't. What it be?
+[11:53.37] <mabino-pyon> RumpledElf: Anything we don't understand is on-topic. Today, it happens to be physics.
+[11:53.50] <wilornel_> "VASP computes an approximate solution to the many-body Schrödinger equation, either within density functional theory (DFT), solving the Kohn-Sham equations, or within the Hartree-Fock (HF) approximation, solving the Roothaan equations"
+[11:54.10] <DogPolice> wilornel_: Ah! So it's a wave packet simulation involving multiple isolated areas of space?
+[11:54.21] <wilornel_> They try to do simulations "from first principles"
+[11:54.37] * nitrix pats pyon c:
+[11:54.43] <DogPolice> Looks like they're succeeding. :)
+[11:54.54] <wilornel_> I'm not sure exactly what it is. I know that it is used for work with electron structure calculations and quantum-mechanical molecular dynamics
+[11:55.06] <DogPolice> Very small distances at very high accuracy.
+[11:55.17] <wilornel_> Which I think means that if we want to have something to compare to it would be them
+[11:55.26] <DogPolice> I'm aiming for very small and very large distances at varying degrees of accuracy. :)
+[11:55.32] <ezekielnoob> DogPolice why would it not be the fastest?
+[11:56.00] <DogPolice> ezekielnoob: Because that way, entanglement makes sense
+[11:56.16] <ezekielnoob> er... so instantaneous communication
+[11:56.26] <DogPolice> Not instantaneous, just faster than light, and here's why.
+[11:56.29] <wilornel_> ezekielnoob: Because the speed of light depends on space, and in the model presented by DogPolice, space is a result of smaller interactions which would have to be faster
+[11:56.32] <DogPolice> Light moves through these passages at a certain speed.
+[11:56.37] <ezekielnoob> ＋＋http://en.wikipedia.org/wiki/Gravitational-wave_observatory，， this was the observatory i was talking about
+[11:56.43] <ezekielnoob> not graviton but waves
+[11:56.56] <DogPolice> Awesome. :)
+[11:57.10] <ezekielnoob> i gotta go, thanks for the nice topic :p
+[11:57.14] <DogPolice> Did you catch my "concrete wall" example earlier, ezekielnoob?
+[11:57.19] <DogPolice> Ah, okay! Thanks for listening! :)
+[11:57.29] <ezekielnoob> i'll reread those, saving this thread
+[11:57.33] <DogPolice> Awesome. :)
+[11:57.46] <nitrix> I'm going for bed. I sadly missed what seems to be a really cool discussion. :]
+[11:57.55] <DogPolice> Also, if we're ever going to detect these small pathways, what we need is something of a "cosmic record player".
+[11:58.02] <nitrxgen> blah my neck
+[11:58.05] <DogPolice> nitrix: Cheers! And don't worry, it'll come up again. X)
+[11:58.14] <nitrxgen> ohi nitrix
+[11:58.18] * Rilakkuma (~textual@p2022-ipbf3407marunouchi.tokyo.ocn.ne.jp) has joined channel ##programming
+[11:58.20] <nitrix> nitrxgen: heya
+[11:58.24] * rcris01 (~rcris01@50.127.45.173) has joined channel ##programming
+[11:58.31] <wilornel_> nitrix: Come back for updates on Monda
+[11:58.33] <wilornel_> y
+[11:58.33] * protist (~javery@225.236.69.111.dynamic.snap.net.nz) has joined channel ##programming
+[11:58.34] --protist-- logged in with account (protist)
+[11:58.47] <nitrix> I'm playing KSP meanwhile :)
+[11:58.48] * ezekielnoob (~ezekielno@120.28.121.179) Quit (Quit: ezekielnoob)
+[11:59.10] <DogPolice> Hehe, I should get that sometime.
+[11:59.24] <nitrix> It's the game I spent the most time on.
+[11:59.43] <DogPolice> nitrix: How's it run on old systems? Unity isn't kind to hardware last I checked.
