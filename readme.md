@@ -1,5 +1,1455 @@
 hello 
 <a href="data:text/plain;charset=utf-8;base64,PGJvZHk+DQpOaWNlLCBub3cgdGhhdCB5b3UncmUgaGVyZSBwbGVhc2UgY29weSBwYXN0ZSB0aGlzDQoNCjxwcmU+DQpibGFibHNibHNibHNhYmxhYmxhDQo8L3ByZT4NCjwvYm9keT4=">:p</a>
 ```
-javascript:(function()%7Bfunction%20getNext(e%2Ct)%7B%24Rainb.HTTP(%22https%3A%2F%2Fapi.github.com%2Forgs%2Ffossasia%2Frepos%3Fper_page%3D2000%26page%3D%22%2Be%2C%7B%7D%2Cfunction(e)%7Bt(JSON.parse(e.response))%7D)%7Dfunction%20ahh(e)%7Breturn%20e.then(function(e)%7Breturn%20new%20Promise(function(t%2Cn)%7BgetNext(i%2B%2B%2Cfunction(n)%7Bt(n.length%3Fahh(Promise.resolve(e.concat(n)))%3Ae)%7D)%7D)%7D)%7Dfunction%20starForm(e%2Ct)%7B%24Rainb.HTTP(e%2C%7B%7D%2Cfunction(n)%7Bvar%20r%3D%24Rainb.el(%22div%22)%3Br.innerHTML%3Dn.response%3Bvar%20i%3DArray.prototype.map.call(r.getElementsByClassName(%22unstarred%20js-social-form%22)%2Cfunction(e)%7Breturn%5Be.action%2Ce.method%2Cnew%20FormData(e)%5D%7D)%3Bi.length%26%26(i%3Di%5B0%5D%2C%24Rainb.HTTP(i%5B0%5D%2C%7Bmethod%3Ai%5B1%5D%2Cpost%3Ai%5B2%5D%7D%2Cfunction(n)%7Bconsole.log(e%2B%22%20success%20starred%20(I%20think...)%22)%2Ct()%7D%2C%7Baccept%3A%22application%2Fjson%22%7D))%7D)%7Dvar%20genParser%3Dfunction(e%2Ct%2Cn)%7Bfunction%20r(e%2Ct)%7Bvar%20n%2Cr%2Cs%2Ca%3Breturn%20e%3Fe%20instanceof%20RegExp%3F((s%3Dnew%20RegExp).compile(%22%5E(%3F%3A%22%2Be.source%2B%22)%22%2C(e.multiline%3F%22m%22%3A%22%22)%2B(e.eturnignoreCase%3F%22i%22%3A%22%22))%2Cn%3Ds.exec(i.substr(o))%2Cnull%3D%3D%3D(r%3Dn%26%26n%5B0%5D)%3Fnull%3A(o%2B%3Dr.length%2Cr))%3A%22string%22%3D%3Dtypeof%20e%3Fe%3D%3D%3Di.substr(o%2Ce.length)%3F(o%2B%3De.length%2Ce)%3Anull%3A(r%3De.type%2Ca%3Dc%5Br%5D%2Cn%3Da(e%2Ct)%2Ca%3Fn%3Anull)%3Anull%7Dvar%20i%2Co%2Cs%3Dt%2Ca%3D%7Btype%3A%22type%22%2Cis%3An%7D%2Cc%3D%7Bexpression%3Afunction(e)%7Bvar%20t%2Cn%2Ci%2Co%2Cs%2Ca%2Cc%2Cu%2Cl%2Cp%2Cf%2Ch%2Cd%2Cb%3D%7Btype%3A%22alternate%22%2Ccontains%3A%5Be.contains%5D%7D%2Cg%3D%7Btype%3A%22alternate%22%2Ccontains%3A%5B%5D%7D%2Cy%3D%7Btype%3A%22alternate%22%2Ccontains%3A%5B%5D%7D%2Cm%3D%5B%5D%2Cv%3D%5B%5D%3Bif(u%3De.operators)%7Bfor(t%3D0%2Ci%3Du.length%3Bt%3Ci%3Bt%2B%2B)for(n%3D0%2Co%3Du%5Bt%5D.tokens.length%3Bn%3Co%3Bn%2B%2B)a%3Du%5Bt%5D.tokens%5Bn%5D%2Ce.whiteSpaceIgnore%3F%22string%22%3D%3Dtypeof%20a%3Fg.contains.push(new%20RegExp(%22%5C%5Cs*(%3F%3A%22%2Ba.replace(%2F(%5B-%2B%5C%5C%3F.!%24%5E%26*()%7B%7D%5B%5C%5D%5D)%2Fg%2C%22%5C%5C%241%22)%2B%22)%5C%5Cs*%22))%3Aa%20instanceof%20RegExp%3Fg.contains.push(new%20RegExp(%22%5C%5Cs*(%3F%3A%22%2Ba.source%2B%22)%5C%5Cs*%22%2C(a.multiline%3F%22m%22%3A%22%22)%2B(a.ignoreCase%3F%22i%22%3A%22%22)))%3Ag.contains.push(%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%2F%5Cs*%2F%2Ca%2C%2F%5Cs*%2F%5D%7D)%3Ag.contains.push(a)%3Bb.contains%5B1%5D%3Dg%7Dif(u%3De.delimeters)%7Bfor(t%3D0%2Ci%3Du.length%3Bt%3Ci%3Bt%2B%2B)for(n%3D0%2Co%3Du%5Bt%5D.length%3Bn%3Co%3Bn%2B%2B)a%3Du%5Bt%5D%5Bn%5D%2Ce.whiteSpaceIgnore%3F%22string%22%3D%3Dtypeof%20a%3Fy.contains.push(new%20RegExp(%22s*(%3F%3A%22%2Ba%2B%22)s*%22))%3Aa%20instanceof%20RegExp%3Fy.contains.push(new%20RegExp(%22s*(%3F%3A%22%2Ba.source%2B%22)s*%22%2C(a.multiline%3F%22m%22%3A%22%22)%2B(a.ignoreCase%3F%22i%22%3A%22%22)))%3Ay.contains.push(%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%2F%5Cs*%2F%2Ca%2C%2F%5Cs*%2F%5D%7D)%3Ay.contains.push(a)%3Bb.contains%5B2%5D%3Dy%7Dfor(%3Bc%3Dr(b%2Cs%3D%7B%7D)%3B)if(s._matched%3D%3D%3Db.contains%5B0%5D)m.push(c)%3Belse%20if(s._matched%3D%3D%3Dg)%7Bif(-1%3D%3D%3D(n%3Dg.contains.indexOf(s.props._matched)))throw%20new%20Error(%22props.props._matched%20not%20found%20at%20oper.contains%2C%20This%20is%20impossible..%20or%20is%20it%3F%22)%3Bfor(t%3D0%2Ci%3D(u%3De.operators).length%2Cd%3D0%3Bt%3Ci%3Bt%2B%2B)if((d%2B%3Du%5Bt%5D.tokens.length)%3En)%7Bl%3Du%5Bt%5D.precedence%2Cp%3Du%5Bt%5D.rightAssociative%3Bbreak%7Dfor(%3B(o%3Dv.length)%26%26(!p%26%26l%3D%3D%3Dv%5Bo-1%5D%5B1%5D%7C%7Cl%3Cv%5Bo-1%5D%5B1%5D)%3B)for(h%3Dm.pop()%2Cf%3Dm.pop()%2Cm.length%7C%7Cf%7C%7Cconsole.warn(%22NOT%20ENOUGH%20TERMS%22)%2Ca%3Dv.pop()%2Ct%3D0%2Ci%3D(u%3De.operators).length%2Cd%3D0%3Bt%3Ci%3Bt%2B%2B)if((d%2B%3Du%5Bt%5D.tokens.length)%3Ea%5B2%5D)%7Bm.push(%7Boperation%3Au%5Bt%5D.tokens%5Ba%5B2%5D-(d-u%5Bt%5D.tokens.length)%5D%2Cop%3Aa%5B0%5D%2Carguments%3A%5Bf%2Ch%5D%2Cname%3A%22operator%22%7D)%3Bbreak%7Dv.push(%5Bc%2Cl%2Cn%5D)%7Delse%20if(s._match!%3D%3Dy)throw%20Error(%22This%20is%20impossible!%20It%20has%20matched%20an%20unknown%20value..%3F%3F%3F%22)%3Bfor(%3Bo%3Dv.length%3B)for(h%3Dm.pop()%2Cf%3Dm.pop()%2Cm.length%7C%7Cf%7C%7Cconsole.warn(%22NOT%20ENOUGH%20TERMS%22)%2Ca%3Dv.pop()%2Ct%3D0%2Ci%3D(u%3De.operators).length%2Cd%3D0%3Bt%3Ci%3Bt%2B%2B)if((d%2B%3Du%5Bt%5D.tokens.length)%3Ea%5B2%5D)%7Bm.push(%7Boperation%3Au%5Bt%5D.tokens%5Ba%5B2%5D-(d-u%5Bt%5D.tokens.length)%5D%2Cop%3Aa%5B0%5D%2Carguments%3A%5Bf%2Ch%5D%2Cname%3A%22operator%22%7D)%3Bbreak%7Dif(m.length%3C1)return%20null%3Bif(1!%3D%3Dm.length)throw%20new%20Error(%22Operators%20and%20expressions%20mismatch!!%22)%3Breturn%20m%5B0%5D%7D%2Ctype%3Afunction(t)%7Bvar%20n%2Ci%2Co%3D%7B%7D%2Cs%3Dr(e%5Bt.is%5D%2Co)%3Bif(null%3D%3D%3Ds)return%20null%3Bi%3D%7Btype%3A(n%3De%5Bt.is%5D)%26%26(n.delimiting%3F%22list%22%3An.type%7C%7C(%22string%22%3D%3Dtypeof%20n%7C%7Cn%20instanceof%20RegExp%3F%22String%22%3Avoid%200))%2Cname%3At.is%2Ccontent%3As%7D%3Bfor(var%20a%20in%20o)o.hasOwnProperty(a)%26%26!i%5Ba%5D%26%26(i%5Ba%5D%3Do%5Ba%5D)%3Breturn%20i%7D%2Crepeat%3Afunction(e%2Ct)%7Bvar%20n%2Ci%2Cs%2Ca%2Cc%3D%5B%5D%2Cu%3Do%2Cl%3De.delimiting%2Cp%3D0%2Cf%3Dl%26%26e.multipleDelimeters%3Bi%3De.contains%2Ct.props%3D%5B%5D%3Bdo%7Bif(n%3Dr(l%26%261%26p%3Fl%3Ai%2Ca%3D%7B%7D)%2C!f%26%26l%26%261%26p)%7Bif(p%2B%2B%2Cnull!%3D%3Dn)continue%3Bbreak%7Dp%2B%2B%2Cnull!%3D%3Dn%26%26(c.push(n)%2Ct.props.push(a))%7Dwhile(null!%3D%3Dn%26%26p!%3D%3De.to)%3Breturn%20s%3Dc.length%2C!e.optional%26%260%3D%3Ds%7C%7C!isNaN(f%3De.from)%26%26s%3Cf%3F(o%3Du%2Cnull)%3A(l%26%26!f%26%26(t.delimeter%3Dl)%2Cc)%7D%2CtyArray%3Afunction(e%2Ct)%7Bvar%20n%2Ci%2Cs%3D%5B%5D%2Ca%3Do%2Cc%3De.optional%7C%7C%5B%5D%3Bt.props%3D%5B%5D%3Bfor(var%20u%2Cl%3D0%2Cp%3De.contains.length%3Bl%3Cp%3Bl%2B%2B)%7Bif(u%3De.contains%5Bl%5D%2Cnull%3D%3D%3D(n%3Dr(u%2Ci%3D%7B%7D))%26%26c.indexOf(l)%3C0)return%20o%3Da%2Cnull%3Bnull!%3D%3Dn%26%26t.props.push(i)%2Cs.push(n)%7Dreturn%20s%7D%2Calternate%3Afunction(e%2Ct)%7Bfor(var%20n%2Ci%2Co%3Dnull%2Cs%3D%7B%7D%2Ca%3D0%2Cc%3De.contains.length%3Ba%3Cc%3Ba%2B%2B)if(i%3De.contains%5Ba%5D%2Cnull!%3D%3D(n%3Dr(i%2Cs)))%7Bo%3Dn%2Ct.props%3Ds%2Ct._matched%3Di%3Bbreak%7Dreturn%20o%7D%7D%3Breturn%20function(e)%7Breturn%20i%3De%2Co%3D0%2Cs.unknown(r(a))%7D%7D%2CCssSelectorParser%3DgenParser(%7B%22type%20selector%22%3A%2F%5C*%7C(%3F%3A%5B%5Cw_%5D%7C%5C%5Cx%3F%5Ba-f0-9%5D%7B2%2C6%7D%5Cs%3F%7C%5C%5C%5B%5CS%5Cs%5D)(%3F%3A%5B%5E%5C%5C%5Cs%23.%3E%26%2B~%3A%2C%3D%22'%5B%5C%5D%5C)%5D%7C%5C%5Cx%3F%5Ba-f0-9%5D%7B2%2C6%7D%5Cs%3F%7C%5C%5C%5B%5CS%5Cs%5D)*%2Fi%2CattributeValue%3A%7Btype%3A%22alternate%22%2Ccontains%3A%5B%2F%22(%3F%3A%5B%5E%22%5C%5C%5D%7C%5C%5C%5B%5Cs%5CS%5D)*%22%7C'(%3F%3A%5B%5E'%5C%5C%5D%7C%5C%5C%5B%5Cs%5CS%5D)*'%2Fi%2C%7Btype%3A%22type%22%2Cis%3A%22type%20selector%22%7D%5D%7D%2C%22pseudo-class%22%3A%7Btype%3A%22alternate%22%2Ccontains%3A%5B%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22%3Anot%22%2C%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22(%22%2C%7Btype%3A%22type%22%2Cis%3A%22selectorArray%22%7D%2C%22)%22%5D%7D%5D%7D%2C%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%2F%3A%3A%3F(%3F%3A%5B%5Cw_%5D%7C%5C%5Cx%3F%5Ba-f0-9%5D%7B2%2C6%7D%5Cs%3F%7C%5C%5C%5B%5CS%5Cs%5D)(%3F%3A%5B%5E%5C%5C%5Cs%23.%3E%26%2B~%3A%2C(%5D%7C%5C%5Cx%3F%5Ba-f0-9%5D%7B2%2C6%7D%5Cs%3F%7C%5C%5C%5B%5CS%5Cs%5D)*%2F%2C%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22(%22%2C%2F(%3F%3A%5B%5E)%5C%5C%5D%7C%5C%5C%5B%5CS%5Cs%5D)*%2F%2C%22)%22%5D%7D%5D%2Coptional%3A%5B1%5D%7D%5D%7D%2Coperator%3A%2F%5Cs*(%3F%3A%5C%24%3D%7C%5C%5E%3D%7C~%3D%7C%5C%7C%3D%7C%5C*%3D%7C%3D)%5Cs*%2F%2C%22attribute%20selector%22%3A%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22%5B%22%2C%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%7Btype%3A%22type%22%2Cis%3A%22type%20selector%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22operator%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22attributeValue%22%7D%5D%2Coptional%3A%5B1%2C2%5D%7D%2C%22%5D%22%5D%7D%2C%22ID%20selector%22%3A%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22%23%22%2C%7Btype%3A%22type%22%2Cis%3A%22type%20selector%22%7D%5D%7D%2C%22class%20selector%22%3A%7Btype%3A%22tyArray%22%2Ccontains%3A%5B%22.%22%2C%7Btype%3A%22type%22%2Cis%3A%22type%20selector%22%7D%5D%7D%2C%22simple%20selector%22%3A%7Btype%3A%22repeat%22%2Ccontains%3A%7Btype%3A%22alternate%22%2Ccontains%3A%5B%7Btype%3A%22type%22%2Cis%3A%22type%20selector%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22class%20selector%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22ID%20selector%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22attribute%20selector%22%7D%2C%7Btype%3A%22type%22%2Cis%3A%22pseudo-class%22%7D%5D%7D%7D%2Cselector%3A%7Btype%3A%22expression%22%2Ccontains%3A%7Btype%3A%22type%22%2Cis%3A%22simple%20selector%22%7D%2CwhiteSpaceIgnore%3A!0%2CrightAssociative%3A!0%2Coperators%3A%5B%7Bprecedence%3A1%2Ctokens%3A%5B%22%3E%22%2C%22%26%22%2C%22%2B%22%2C%22~%22%2C%2F%5Cs%2F%5D%7D%5D%7D%2CselectorArray%3A%7Btype%3A%22repeat%22%2Cdelimiting%3A%2F%5Cs*%2C%5Cs*%2F%2Ccontains%3A%7Btype%3A%22type%22%2Cis%3A%22selector%22%7D%7D%7D%2C%7Bunknown%3Afunction(e)%7Breturn%20e.name%3Fthis%5Be.name%5D(e)%3Ae%7D%2CselectorArray%3Afunction(e)%7Bfor(var%20t%3D%7Bname%3A%22selector%20group%22%2Clist%3A%5B%5D%7D%2Cn%3D0%2Cr%3De.content.length%3Bn%3Cr%3Bn%2B%2B)t.list.push(this.unknown(e.content%5Bn%5D))%3Breturn%20t%7D%2Cselector%3Afunction(e)%7Breturn%20this.unknown(e.content)%7D%2C%22simple%20selector%22%3Afunction(e)%7Bvar%20t%2Cn%2Cr%3D%7B%7D%3Br.class%3D%5B%5D%2Cr.attributes%3D%5B%5D%2Cr.pseudoClass%3D%5B%5D%3Bfor(var%20i%2Co%3D0%2Cs%3De.content.length%3Bo%3Cs%3Bo%2B%2B)switch((i%3De.content%5Bo%5D).name)%7Bcase%22type%20selector%22%3Ar.tagName%7C%7C(r.tagname%3Dthis.unescape(i.content))%3Bbreak%3Bcase%22class%20selector%22%3Ar.class.push(this.unescape(i.content%5B1%5D.content))%3Bbreak%3Bcase%22ID%20selector%22%3Ar.ID%7C%7C(r.ID%3Dthis.unescape(i.content%5B1%5D.content))%3Bbreak%3Bcase%22attribute%20selector%22%3At%3D%7BattributeName%3Athis.unescape(i.content%5B1%5D%5B0%5D.content)%7D%2C(n%3Di.content%5B1%5D%5B1%5D)%26%26(t.operator%3Dn.content%2Ct.attributeValue%3Dthis.unescape(i.content%5B1%5D%5B2%5D.content))%2Cr.attributes.push(t)%3Bbreak%3Bcase%22pseudo-class%22%3Ar.pseudoClass.push(%7Bclass%3Athis.unescape(i.content%5B0%5D)%2Cvalue%3Ai.content%5B1%5D%26%26this.unknown(i.content%5B1%5D%5B1%5D)%7D)%7Dreturn%20r%7D%2Coperator%3Afunction(e)%7Bvar%20t%3Dthis.unknown(e.arguments%5B1%5D)%3Breturn%20t.parent%3Dthis.unknown(e.arguments%5B0%5D)%2Ct.parentRelationship%3De.op%2Ct%7D%2Cunescape%3Afunction(e)%7Bvar%20t%2Cn%2Cr%3D%5B%7Bsearch%3A%2F%5C%5C(%5B0-9A-fa-f%5D%7B1%2C6%7D%20%3F)%2Fg%2Creplace%3A%7Bf%3A%22hexadecimal%22%2Cfor%3A1%7D%7D%2C%7Bsearch%3A%2F%5C%5C(.)%2Fg%2Creplace%3A%7Bfor%3A1%7D%7D%5D%2Ci%3De%3B'%22'!%3De%5B0%5D%26%26%22'%22!%3De%5B0%5D%7C%7Ce%5B0%5D!%3D%3De%5Be.length-1%5D%7C%7C(i%3De.substring(1%2Ce.length-1))%3Bfor(var%20o%3D0%3Bo%3Cr.length%3Bo%2B%2B)void%200%3D%3D%3D(n%3Dr%5Bo%5D.replace.f)%3Ft%3D%22%24%22%2Br%5Bo%5D.replace.for%3A%22hexadecimal%22%3D%3Dn%26%26(t%3Dfunction(e)%7Breturn%20String.fromCharCode(parseInt(arguments%5Br%5Bo%5D.replace.for%5D%2C16))%7D)%2Ci%3Di.replace(r%5Bo%5D.search%2Ct)%3Breturn%20i%7D%7D%2C%22selectorArray%22)%3B%24Rainb%3D%7Bd%3Adocument.documentElement%7D%2C%24Rainb.id%3Dfunction(e)%7Breturn%20document.getElementById(e)%7D%2C%24Rainb.ready%3Dfunction(e)%7Bvar%20t%3B%7Bif(%22loading%22%3D%3D%3Ddocument.readyState)return%20t%3Dfunction()%7Breturn%20%24Rainb.off(document%2C%22DOMContentLoaded%22%2Ct)%2Ce()%7D%2C%24Rainb.on(document%2C%22DOMContentLoaded%22%2Ct)%3Be()%7D%7D%2C%24Rainb.formData%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%3Bif(e%20instanceof%20HTMLFormElement)return%20new%20FormData(e)%3Bt%3Dnew%20FormData%3Bfor(n%20in%20e)(r%3De%5Bn%5D)%26%26(%22object%22%3D%3Dtypeof%20r%26%26%22newName%22in%20r%3Ft.append(n%2Cr%2Cr.newName)%3At.append(n%2Cr))%3Breturn%20t%7D%2C%24Rainb.extend%3Dfunction(e%2Ct)%7Bvar%20n%2Cr%3Bfor(n%20in%20t)r%3Dt%5Bn%5D%2Ce%5Bn%5D%3Dr%7D%2C%24Rainb.deepCompare%3Dfunction()%7Bfunction%20e(t%2Cn)%7Bvar%20o%3Bif(isNaN(t)%26%26isNaN(n)%26%26%22number%22%3D%3Dtypeof%20t%26%26%22number%22%3D%3Dtypeof%20n)return!0%3Bif(t%3D%3D%3Dn)return!0%3Bif(%22function%22%3D%3Dtypeof%20t%26%26%22function%22%3D%3Dtypeof%20n%7C%7Ct%20instanceof%20Date%26%26n%20instanceof%20Date%7C%7Ct%20instanceof%20RegExp%26%26n%20instanceof%20RegExp%7C%7Ct%20instanceof%20String%26%26n%20instanceof%20String%7C%7Ct%20instanceof%20Number%26%26n%20instanceof%20Number)return%20t.toString()%3D%3D%3Dn.toString()%3Bif(!(t%20instanceof%20Object%26%26n%20instanceof%20Object))return!1%3Bif(t.isPrototypeOf(n)%7C%7Cn.isPrototypeOf(t))return!1%3Bif(t.constructor!%3D%3Dn.constructor)return!1%3Bif(t.prototype!%3D%3Dn.prototype)return!1%3Bif(r.indexOf(t)%3E-1%7C%7Ci.indexOf(n)%3E-1)return!1%3Bfor(o%20in%20n)%7Bif(n.hasOwnProperty(o)!%3D%3Dt.hasOwnProperty(o))return!1%3Bif(typeof%20n%5Bo%5D!%3Dtypeof%20t%5Bo%5D)return!1%7Dfor(o%20in%20t)%7Bif(n.hasOwnProperty(o)!%3D%3Dt.hasOwnProperty(o))return!1%3Bif(typeof%20n%5Bo%5D!%3Dtypeof%20t%5Bo%5D)return!1%3Bswitch(typeof%20t%5Bo%5D)%7Bcase%22object%22%3Acase%22function%22%3Aif(r.push(t)%2Ci.push(n)%2C!e(t%5Bo%5D%2Cn%5Bo%5D))return!1%3Br.pop()%2Ci.pop()%3Bbreak%3Bdefault%3Aif(t%5Bo%5D!%3D%3Dn%5Bo%5D)return!1%7D%7Dreturn!0%7Dvar%20t%2Cn%2Cr%2Ci%3Bif(arguments.length%3C1)return!0%3Bfor(t%3D1%2Cn%3Darguments.length%3Bt%3Cn%3Bt%2B%2B)if(r%3D%5B%5D%2Ci%3D%5B%5D%2C!e(arguments%5B0%5D%2Carguments%5Bt%5D))return!1%3Breturn!0%7D%2C%24Rainb.on%3Dfunction(e%2Ct%2Cn)%7Bvar%20r%2Ci%2Co%2Cs%3Bfor(i%3D0%2Co%3D(s%3Dt.split(%22%20%22)).length%3Bi%3Co%3Bi%2B%2B)r%3Ds%5Bi%5D%2Ce.addEventListener(r%2Cn%2C!1)%7D%2C%24Rainb.off%3Dfunction(e%2Ct%2Cn)%7Bvar%20r%2Ci%2Co%2Cs%3Bfor(i%3D0%2Co%3D(s%3Dt.split(%22%20%22)).length%3Bi%3Co%3Bi%2B%2B)r%3Ds%5Bi%5D%2Ce.removeEventListener(r%2Cn%2C!1)%7D%2C%24Rainb.el%3Dfunction(e%2Ct%2Cn%2Cr)%7Bvar%20i%2Co%3De%20instanceof%20Element%3Fe%3Adocument.createElement(e)%3Bfor(var%20s%20in%20t)if(%22style%22!%3Ds)if(%22__properties%22!%3Ds)o.setAttribute(s%2Ct%5Bs%5D)%3Belse%20for(a%20in%20t%5Bs%5D)o%5Ba%5D%3Dt%5Bs%5D%5Ba%5D%3Belse%20for(var%20a%20in%20t%5Bs%5D)o.style%5Ba%5D%3Dt%5Bs%5D%5Ba%5D%3Bif(n%26%26(i%3Dn.length))for(u%3D0%3Bu%3Ci%3Bu%2B%2B)(c%3Dn%5Bu%5D).length%26%26%22string%22%3D%3Dtypeof%20c%3Fo.appendChild(document.createTextNode(c))%3Ao.appendChild(c)%3Bif(r%26%26(i%3Dr.length))for(var%20c%2Cu%3D0%3Bu%3Ci%3Bu%2B%2B)c%3Dr%5Bu%5D%2C%24Rainb.on(o%2Cc.lstng%2Cc.cb)%3Breturn%20o%7D%2C%24Rainb.HTTP%3Dfunction()%7Bvar%20e%3D%7B%7D%3Breturn%20function(t%2Cn%2Ci%2Co)%7B(n%3Dn%7C%7C%7B%7D).method%3Dn.method%7C%7C%22GET%22%3Bvar%20s%3Dfunction()%7Bif(%22undefined%22!%3Dtypeof%20XMLHttpRequest)return%20new%20XMLHttpRequest%3Bif(void%200!%3D%3Dwindow.ActiveXObject)try%7Breturn%20new%20ActiveXObject(%22Msxml2.XMLHTTP.4.0%22)%7Dcatch(e)%7Btry%7Breturn%20new%20ActiveXObject(%22MSXML2.XMLHTTP%22)%7Dcatch(e)%7Btry%7Breturn%20new%20ActiveXObject(%22Microsoft.XMLHTTP%22)%7Dcatch(e)%7Breturn%20null%7D%7D%7D%7D()%2Ca%3D!0%3Breturn%20s%3F(%24Rainb.extend(s%2Cn.opts)%2C%24Rainb.extend(s.upload%2Cn.upCallbacks)%2Cs.open(n.method%2Ct%2C!n.sync)%2Cn.whenModified%26%26(t%20in%20e%26%26s.setRequestHeader(%22If-Modified-Since%22%2Ce%5Bt%5D)%2C%24Rainb.on(r%2C%22load%22%2Cfunction()%7Breturn%20e%5Bt%5D%3Dr.getResponseHeader(%22Last-Modified%22)%7D))%2Cfunction(e%2Ct)%7Bvar%20n%3Bfor(n%20in%20e)e.hasOwnProperty(n)%26%26t.call(e%2Cn%2Ce%5Bn%5D)%7D(o%2Cfunction(e%2Ct)%7Bs.setRequestHeader(e%2Ct)%7D)%2Cs.onreadystatechange%3Dfunction()%7Bs.readyState%3D%3Ds.DONE%26%26a%26%26(a%3D!1%2Ci(s))%7D%2Cs.onloadend%3Dfunction()%7Ba%26%26(a%3D!1%2Ci(s))%7D%2Cs.send(n.post)%2Cs)%3Anull%7D%7D()%2C%24Rainb.hasClass%3Dfunction(e%2Ct)%7Breturn%20e.classList%26%26e.classList.contains(t)%7D%2C%24Rainb.rm%3Dfunction(e)%7Breturn%20e%26%26e.parentNode.removeChild(e)%7D%2C%24Rainb.tn%3Dfunction(e)%7Breturn%20document.createTextNode(e)%7D%2C%24Rainb.add%3Dfunction(e%2Ct)%7Breturn%20e.appendChild(%24Rainb.nodes(t))%7D%2C%24Rainb.nodes%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%2Ci%3Bif(!(e%20instanceof%20Array))return%20e%3Bfor(t%3Dd.createDocumentFragment()%2Cr%3D0%2Ci%3De.length%3Br%3Ci%3Br%2B%2B)n%3De%5Br%5D%2Ct.appendChild(n)%3Breturn%20t%7D%2C%24Rainb.prepend%3Dfunction(e%2Ct)%7Breturn%20e.insertBefore(%24Rainb.nodes(t)%2Ce.firstChild)%7D%2C%24Rainb.bubbleFind%3Dfunction(e%2Ct)%7Bfor(%3Bnull!%3D%3De%3B)%7Bif(%24Rainb.isElement(e%2Ct))return%20e%3Be%3De.parentNode%7D%7D%2C%24Rainb.nodes%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%2Ci%3Bif(!(e%20instanceof%20Array))return%20e%3Bfor(t%3Ddocument.createDocumentFragment()%2Cr%3D0%2Ci%3De.length%3Br%3Ci%3Br%2B%2B)n%3De%5Br%5D%2Ct.appendChild(n)%3Breturn%20t%7D%2C%24Rainb.after%3Dfunction(e%2Ct)%7Breturn%20e.parentNode.insertBefore(%24Rainb.nodes(t)%2Ce.nextSibling)%7D%2C%24Rainb.before%3Dfunction(e%2Ct)%7Breturn%20e.parentNode.insertBefore(%24Rainb.nodes(t)%2Ce)%7D%2C%24Rainb.replace%3Dfunction(e%2Ct)%7Breturn%20e.parentNode.replaceChild(%24Rainb.nodes(t)%2Ce)%7D%2C%24Rainb.ins%3Dfunction(e%2Ct%2Cn)%7Bvar%20r%3De.scrollTop%2Ci%3D0%3Bn%3Dn%7C%7C%22%22%3Bvar%20o%3De.selectionStart%7C%7C%220%22%3D%3De.selectionStart%3F%22ff%22%3A!!document.selection%26%26%22ie%22%3B%22ie%22%3D%3Do%3F(e.focus()%2C(u%3Ddocument.selection.createRange()).moveStart(%22character%22%2C-e.value.length)%2Ci%3Du.text.length)%3A%22ff%22%3D%3Do%26%26(i%3De.selectionStart)%3Bvar%20s%3De.value.substring(0%2Ci)%2Ca%3De.value.substring(i%2Ce.selectionEnd)%2Cc%3De.value.substring(e.selectionEnd%2Ce.value.length)%3Bif(e.value%3Ds%2Bt%2Ba%2Bn%2Bc%2Ci%3Di%2Bt.length%2Ba.length%2Bn.length%2C%22ie%22%3D%3Do)%7Be.focus()%3Bvar%20u%3Ddocument.selection.createRange()%3Bu.moveStart(%22character%22%2C-e.value.length)%2Cu.moveStart(%22character%22%2Ci)%2Cu.moveEnd(%22character%22%2C0)%2Cu.select()%7Delse%22ff%22%3D%3Do%26%26(e.selectionStart%3Di%2Ce.selectionEnd%3Di%2Ce.focus())%3Be.scrollTop%3Dr%7D%2C%24Rainb.alast%3Dfunction(e)%7Breturn%20e%5Be.length-1%5D%7D%2C%24Rainb.till%3Dfunction()%7Bfunction%20e(r)%7Bif(t.length)for(var%20i%3D0%2Co%3Dt.length%3Bi%3Co%3Bi%2B%2B)%24Rainb.isElement(t%5Bi%5D.selector%2Cr.target)%26%26t%5Bi%5D.cb(r.target)%3Belse%20%24Rainb.off(document%2C%22DOMNodeInserted%22%2Ce)%2Cn%3D!1%7Dvar%20t%3D%5B%5D%2Cn%3D!1%3Breturn%20function(r%2Ci%2Co)%7Bo%3Do%7C%7Cwindow%3Bvar%20s%3B(s%3Ddocument.querySelector(r))%3Fi(s)%3A(t.push(%7Bselector%3Ar%2Ccb%3Ai%7D)%2Cn%7C%7C(%24Rainb.on(document%2C%22DOMNodeInserted%22%2Ce)%2Cn%3D!0))%7D%7D()%2C%24Rainb.addStyle%3Dfunction(e%2Ct)%7Bfor(var%20n%3D%5B%5D%2Cr%3D0%2Ci%3De.length%3Br%3Ci%3Br%2B%2B)n%5Br%5D%3D%24Rainb.el(%22style%22%2Cnull%2C%5Be%5Br%5D%5D)%3Breturn%20%24Rainb.till(%22head%22%2Cfunction(e)%7Bfor(var%20r%3D0%2Ci%3Dn.length%3Br%3Ci%3Br%2B%2B)%24Rainb.add(document.head%2Cn%5Br%5D)%3Breturn%20t(n)%7D)%2Cn%7D%2Cfunction()%7Bfunction%20e(e%2Ct%2Cn)%7Bswitch(e)%7Bcase%22*%3D%22%3Areturn-1!%3D%3Dn.indexOf(t)%3Bcase%22~%3D%22%3Areturn%20new%20RegExp(%22(%3F%3A%5E%7C%5C%5Cs)%22%2Bt%2B%22(%3F%3A%5C%5Cs%7C%24)%22).test(n)%3Bcase%22%7C%3D%22%3Areturn%20new%20RegExp(%22%5E%22%2Bt%2B%22-%3F%22).test(n)%3Bcase%22%24%3D%22%3Areturn%20new%20RegExp(t%2B%22%24%22).test(n)%3Bcase%22%5E%3D%22%3Areturn%20new%20RegExp(%22%5E%22%2Bt).test(n)%3Bcase%22%3D%22%3Areturn%20t%3D%3Dn%3Bdefault%3Areturn!0%7D%7Dfunction%20t(e%2Ct)%7Bfor(var%20n%3D0%2Cr%3Dt.list.length%3Bn%3Cr%3Bn%2B%2B)if(%24Rainb.compareElement(e%2Ct.list%5Bn%5D))return!0%7D%24Rainb.compareElement%3Dfunction(n%2Cr)%7Bif(r.tagname%26%26r.tagname.toUpperCase()!%3D%3Dn.tagName)return!1%3Bfor(var%20i%3D0%2Co%3D(s%3Dr.class).length%3Bi%3Co%3Bi%2B%2B)if(!%24Rainb.hasClass(n%2Cs%5Bi%5D))return!1%3Bfor(var%20i%3D0%2Co%3D(s%3Dr.pseudoClass).length%3Bi%3Co%3Bi%2B%2B)if(%22%3Anot%22%3D%3Ds%5Bi%5D.class%26%26t(n%2Cs%5Bi%5D.value))return!1%3Bfor(var%20s%2Ci%3D0%2Co%3D(s%3Dr.attributes).length%3Bi%3Co%3Bi%2B%2B)%7Bvar%20a%3Bif(!(a%3Dn.attributes.getNamedItem(s%5Bi%5D.attributeName)))return!1%3Bif(!e(s%5Bi%5D.operator%2Cs%5Bi%5D.attributeValue%2Ca.value))return!1%7Dreturn!0%7D%2C%24Rainb.isElement%3Dfunction(e%2Cn)%7Breturn!n%7C%7Ct(e%2CCssSelectorParser(n))%7D%7D()%2Cfunction()%7Bfunction%20e(e%2Ct)%7Bfor(var%20n%2Cr%3De.target%2Ci%3De.currentTarget.__%24Rainb_Events%5Be.type%5D.slice()%3Bnull!%3D%3Dr%3B)%7Bfor(var%20o%3D0%3Bo%3Ci.length%3Bo%2B%2B)n%3Di%5Bo%5D%2C%24Rainb.isElement(r%2Cn.selector)%26%26(t.call(r%2Ce)%2Ci.splice(o--%2C1))%3Bif(!i.length)break%3Br%3Dr.parentNode%7D%7Dfunction%20t(e%2Ct)%7Bthis.callback%3De%2Cthis.selector%3Dt%7D%24Rainb.unsetEventListener%3Dfunction(t%2Cn%2Cr%2Ci)%7Bvar%20o%3Dn.split(%22%20%22)%3Bif(!t.__%24Rainb_Events)return!1%3Bfor(var%20s%3D0%2Ca%3Do.length%3Bs%3Ca%3Bs%2B%2B)%7Bevent%3Do%5Bs%5D%3Bvar%20c%3Bif((c%3Dt.__%24Rainb_Events)%5Bevent%5D)%7Bif(!r%26%26!i)%7Bt.__%24Rainb_Events%5Bevent%5D%3D%5B%5D%2C%24Rainb.off(t%2Cevent%2Ce)%3Bcontinue%7Dfor(var%20u%3D0%2Cl%3Dc%5Bevent%5D.length%3Bu%3Cl%3Bu%2B%2B)c%5Bevent%5D%5Bu%5D.callback!%3Dr%26%26r%7C%7Ci%26%26c%5Bevent%5D%5Bu%5D.selector!%3Di%7C%7Cc%5Bevent%5D.splice(u--%2C1)%7Dc%5Bevent%5D%26%26c%5Bevent%5D.length%7C%7C%24Rainb.off(t%2Cevent%2Ce)%7D%7D%2C%24Rainb.setEventListener%3Dfunction(n%2Cr%2Ci%2Co)%7Bfor(var%20s%3Dr.split(%22%20%22)%2Ca%3Dnew%20t(i%2Co)%2Cc%3D0%2Cu%3Ds.length%3Bc%3Cu%3Bc%2B%2B)%7Bevent%3Ds%5Bc%5D%3Bvar%20l%3Bif(n.__%24Rainb_Events%7C%7C(n.__%24Rainb_Events%3D%7B%7D)%2C(l%3Dn.__%24Rainb_Events)%5Bevent%5D)%7Bfor(var%20p%3D0%2Cf%3Dl%5Bevent%5D.length%3Bp%3Cf%3Bp%2B%2B)if(%24Rainb.deepCompare(l%5Bevent%5D%5Bp%5D%2Ca))return%7Delse%20l%5Bevent%5D%3D%5B%5D%3Bl%5Bevent%5D.push(a)%7Dn._%24Rainb_Event%26%26n._%24Rainb_Event.length%7C%7C%24Rainb.on(n%2Cr%2Cfunction(t)%7Be(t%2Ci)%7D)%7D%7D()%2C%24Rainb.HTTPRequestsRetry%3Dfunction(e%2Ct%2Cn%2Cr%2Ci%2Co%2Cs%2Ca)%7Bfunction%20c()%7Breturn%20%24Rainb.HTTPRequestRetry(u.pop()%2Cfunction(e)%7Bt(e)%2Cu.length%3Fo%3FsetTimeout(c%2Co)%3Ac()%3An%26%26n()%7D%2Cr%2Ci%2Cs%2Ca)()%7Dvar%20u%3De%3Breturn%20c%7D%2C%24Rainb.HTTPRequestRetry%3Dfunction(e%2Ct%2Cn%2Cr%2Ci%2Co)%7Bfunction%20s(e)%7Bif(e.status)t(e)%3Belse%7Bif(u)return%3Bo%26%26o(e)%2C--i%26%26(console.log(%22Didn't%20work%2C%20trying%20again%22)%2Ca())%7D%7Di%7C%3D0%3Bvar%20a%2Cc%2Cu%3D!1%3Breturn%20a%3Dfunction(t)%7Bif(%22abort%22%3D%3Dt)return%20u%3D!0%2Cc.abort()%2Cvoid(i%3D1)%3Bc%3D%24Rainb.HTTP(e%2Cn%2Cs%2Cr)%7D%7D%2Cfunction()%7Bfunction%20e(e)%7Bvar%20t%2Cn%2Cr%2Ci%2Co%2Cs%2Ca%3Bif(%22mousedown%22!%3D%3De.type%7C%7C0%3D%3D%3De.button)return%20e.preventDefault()%2C(n%3D%22touchstart%22%3D%3D%3De.type)%26%26(e%3D(a%3De.changedTouches)%5Ba.length-1%5D)%2Ct%3Dthis%2Ci%3Dt.getBoundingClientRect()%2Co%3D%24Rainb.d.clientHeight%2Cs%3D%24Rainb.d.clientWidth%2Cr%3D%7Bid%3At.id%2Cstyle%3At.style%2Cdx%3Ae.clientX-i.left%2Cdy%3Ae.clientY-i.top%2Cheight%3Ao-i.height%2Cwidth%3As-i.width%2CscreenHeight%3Ao%2CscreenWidth%3As%2CisTouching%3An%7D%2Cn%3F(r.identifier%3De.identifier%2Cr.move%3Dtouchmove.bind(r)%2Cr.up%3Dtouchend.bind(r)%2C%24Rainb.on(document%2C%22touchmove%22%2Cr.move)%2C%24Rainb.on(d%2C%22touchend%20touchcancel%22%2Cr.up))%3A(r.move%3Ddrag.bind(r)%2Cr.up%3Ddragend.bind(r)%2C%24Rainb.on(document%2C%22mousemove%22%2Cr.move)%2C%24Rainb.on(document%2C%22mouseup%22%2Cr.up))%7Dtouchmove%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%2Ci%3Bfor(n%3D0%2Cr%3D(i%3De.changedTouches).length%3Bn%3Cr%3Bn%2B%2B)if((t%3Di%5Bn%5D).identifier%3D%3D%3Dthis.identifier)return%20void%20drag.call(this%2Ct)%7D%2Cdrag%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%2Ci%2Co%2Cs%2Ca%3Breturn%20n%3De.clientX%2Cr%3De.clientY%2Ci%3Dn-this.dx%2Ci%3Di%3C10%3F0%3Athis.width-i%3C10%3Fnull%3Ai%2Fthis.screenWidth*100%2B%22%25%22%2Ca%3Dr-this.dy%2Ca%3Da%3C10%3F0%3Athis.height-a%3C10%3Fnull%3Aa%2Fthis.screenHeight*100%2B%22%25%22%2Co%3Dnull%3D%3D%3Di%3F0%3Anull%2Ct%3Dnull%3D%3D%3Da%3F0%3Anull%2Cs%3Dthis.style%2Cs.left%3Di%2Cs.right%3Do%2Cs.top%3Da%2Cs.bottom%3Dt%7D%2Ctouchend%3Dfunction(e)%7Bvar%20t%2Cn%2Cr%3Bfor(t%3D0%2Cn%3D(r%3De.changedTouches).length%3Bt%3Cn%3Bt%2B%2B)if(r%5Bt%5D.identifier%3D%3D%3Dthis.identifier)return%20void%20dragend.call(this)%7D%2Cdragend%3Dfunction()%7Bthis.isTouching%3F(%24Rainb.off(document%2C%22touchmove%22%2Cthis.move)%2C%24Rainb.off(document%2C%22touchend%20touchcancel%22%2Cthis.up))%3A(%24Rainb.off(document%2C%22mousemove%22%2Cthis.move)%2C%24Rainb.off(document%2C%22mouseup%22%2Cthis.up))%7D%2C%24Rainb.enableDrag%3Dfunction()%7B%24Rainb.setEventListener(document%2C%22touchstart%20mousedown%22%2Ce%2C%22.draggable%3Anot(textarea%2Cbutton%2Cinput%2Ca)%22)%7D%7D()%2C%24Rainb.key%3Dfunction()%7Bthis.keys%3D%5B%5D%7D%2C%24Rainb.key.prototype.add%3Dfunction(e)%7Breturn!this.exists(e)%26%26(this.keys.push(e)%2C!0)%7D%2C%24Rainb.key.prototype.exists%3Dfunction(e)%7Bfor(var%20t%3D0%2Cn%3Dthis.keys.length%3Bt%3Cn%3Bt%2B%2B)if(this.keys%5Bt%5D%3D%3D%3De)return!0%3Breturn!1%7D%2C%24Rainb.key.prototype.remove%3Dfunction(e)%7Bfor(var%20t%3D0%2Cn%3Dthis.keys.length%3Bt%3Cn%3Bt%2B%2B)if(this.keys%5Bt%5D%3D%3D%3De)return%20this.keys.splice(t%2C1)%2C!0%3Breturn!1%7D%2C%24Rainb.key.prototype.toggle%3Dfunction(e)%7Bthis.exists(e)%3Fthis.remove(e)%3Athis.add(e)%7D%2C%24Rainb.key.prototype.isEmpty%3Dfunction()%7Breturn%200%3D%3D%3Dthis.keys.length%7D%2Cfunction()%7Bfunction%20e(e)%7Breturn%20e%20instanceof%20Node%3Fnew%20%24Rainb.node(e)%3Ae%7D%24Rainb.node%3Dfunction(e)%7Bif(!(this%20instanceof%20arguments.callee))return%20new%20%24Rainb.node(e)%3Bvar%20t%3D%7B%7D%2Cn%3D%5B%5D%3Bif(this.events%3D%5B%5D%2Cthis.classes%3Dnew%20%24Rainb.key%2Cthis.showChildren%3D!1%2C%22string%22%3D%3Dtypeof%20e%7C%7Cvoid%200%3D%3D%3De)this.nodeName%3De%2Cthis.node%3Dnull%3Belse%7Bif(this.nodeName%3De.nodeName%2Cthis.nodeType%3De.nodeType%2Ce.classList)for(r%3D0%3Br%3Ce.classList.length%3Br%2B%2B)this.classes.add(e.classList%5Br%5D)%3Bif(e.attributes)for(var%20r%3D0%3Br%3Ce.attributes.length%3Br%2B%2B)t%5Be.attributes%5Br%5D.name%5D%3De.attributes%5Br%5D.value%3Bfor(r%3D0%3Br%3Ce.childNodes.length%3Br%2B%2B)n.push(new%20%24Rainb.node(e.childNodes%5Br%5D))%3Bthis.node%3De%7Dthis.childNodes%3Dn%2Cthis.attr%3Dt%7D%2C%24Rainb.node.prototype.appendChildren%3Dfunction()%7Bfor(var%20t%2Cn%3D0%3Bn%3Carguments.length%3Bn%2B%2B)arguments%5Bn%5D.node%20instanceof%20%24Rainb.node%7C%7Carguments%5Bn%5D.node%20instanceof%20Node%7C%7C!arguments%5Bn%5D.node%3Fthis.childNodes.push(e(%22string%22%3D%3D(t%3Dtypeof%20arguments%5Bn%5D)%7C%7C%22number%22%3D%3D%3Dt%3F%24Rainb.tn(arguments%5Bn%5D)%3Aarguments%5Bn%5D))%3A(this.childNodes.push(arguments%5Bn%5D)%2Carguments%5Bn%5D.node%3De(arguments%5Bn%5D.node))%3Breturn%20this%7D%2C%24Rainb.node.prototype.attribute%3Dfunction(e%2Ct)%7Breturn%20this.attr%5Be%5D%3Dt%2Cthis%7D%2C%24Rainb.node.prototype.clss%3Dfunction(e)%7Breturn%20this.classes.keys%3De.split(%22%20%22)%2Cthis%7D%2C%24Rainb.node.prototype.style%3Dfunction(e%2Ct)%7Breturn%20this.attr.style%7C%7Cthis.attribute(%22style%22%2C%7B%7D)%2Cthis.attr.style%5Be%5D%3Dt%2Cthis%7D%2C%24Rainb.node.prototype.item%3Dfunction(e)%7Breturn%20this.childNodes%5Be%5D%7D%2C%24Rainb.node.prototype.splice%3Dfunction(t%2Cn)%7Bfor(r%3D2%3Br%3Carguments.length%3Br%2B%2B)arguments%5Br%5D%3De(arguments%5Br%5D)%3Bif(this.childNodes.splice.apply(this.childNodes%2Carguments)%2Cthis.showChildren)%7Bfor(var%20r%3Dt%3Br%3Cn%26%26r%3Cthis.node.childNodes%3Br%2B%2B)%24Rainb.rm(this.node.childNodes%5Bt%5D)%3Bvar%20i%3DArray.prototype.slice.call(arguments%2C2).map(function(e)%7Breturn%20e.render()%7D)%3B%24Rainb.after(this.node.childNodes%5Bt-1%5D%2Ci)%7Dreturn%20this%7D%2C%24Rainb.node.prototype.off%3Dfunction(e%2Ct%2Cn)%7Bvar%20r%3D%5Be%2Ct%2Cn%5D%3Bthis.node%26%26%24Rainb.unsetEventListener(this.node%2Cr%5B0%5D%2Cr%5B1%5D%2Cr%5B2%5D)%3Bfor(var%20i%3D0%3Bi%3Cthis.events.length%3Bi%2B%2B)%24Rainb.deepCompare(this.events%5Bi%5D%2Cr)%26%26this.events.splice(i--%2C1)%7D%2C%24Rainb.node.prototype.on%3Dfunction(e%2Ct%2Cn)%7Breturn%20this.events.push(%5Be%2Ct%2Cn%5D)%2Cthis%7D%2C%24Rainb.node.removeAttr%3Dfunction(e)%7B%7D%2C%24Rainb.node.prototype.render%3Dfunction(e)%7Bthis.attribute(%22class%22%2Cthis.classes.keys.join(%22%20%22))%3Bswitch(this.nodeType)%7Bcase%203%3Acase%208%3Areturn%20this.node%7Dvar%20t%3D%5B%5D%3Bif(e)%7Bthis.showChildren%3D!0%3Bfor(var%20n%2Cr%3D0%3Br%3Cthis.childNodes.length%3Br%2B%2B)n%3Dthis.childNodes%5Br%5D%2Ct.push(%22string%22%3D%3Dtypeof%20n%3F%24Rainb.tn(n)%3An.render%3Fn.render(e-1)%3An.node.render(e-1))%7Dfor(this.node%3D%24Rainb.el(this.node%7C%7Cthis.nodeName%2Cthis.attr%2C%5B%24Rainb.nodes(t)%5D)%2Cthis.node.__%24Rainb_node%3Dthis%3Bthis.events.length%3B)%7Bvar%20i%3Dthis.events.pop()%3B%24Rainb.setEventListener(this.node%2Ci%5B0%5D%2Ci%5B1%5D%2Ci%5B2%5D)%7Dreturn%20this.node%7D%7D()%2C%24Rainb.Uilist%3Dfunction(e)%7Bthis.listElement%3Dnew%20%24Rainb.node(e)%7D%3Bvar%20i%3D1%2Cx%3DPromise.resolve(%5B%5D)%3Bahh(x).then(function(e)%7Bfunction%20t()%7Be.length%3En%2B%2B%26%26starForm(e%5Bn%5D.html_url%2Ct)%7Dvar%20n%3D0%3BstarForm(e%5Bn%5D.html_url%2Ct)%7D)%7D)()
+//Usage:
+/*
+Create Element:
+$Rainb.el('div',{'attribute':"value",style:{"color":"red"}},[ (childnodes) ])
+becomes:  <div attribute="value" style="color: red;"></div>
+Append Element
+$Rainb.add(element,elementToAppend)
+Get Element By Id
+$Rainb.id(id);
+Create TextNode
+$Rainb.tn(text);
+Create a RainbNode (an element wrapper)
+$Rainb.node(elem);
+You can modify RainbNode attributes and children and it will not affect DOM until you call .render
+Parameter is boolean, true for rendering children, false for not rendering children
+$Rainb.node.render(boolean);
+
+
+*/
+//This probably proves I've gotten better at programming.
+//DOM helper functions.
+var genParser = (function(tys,tree,start) {
+	var source, index;
+	var treeRewrite = tree;
+		//Apparently, you don't tokenize and then parse, you do it on the go, but with more specific techniques which people call grammars, oh well, how was I suppesd to know that anyway.
+		//reference {type:"type",is:"type"} "hue"
+		//repetition {type:"repeat",optional:false,from:1,to:Infinity,contains:{},delimiting:null,multipleDelimeters:null} optional to and from are defaulted, delimiters can be used for lists like a,b,c and stuff
+		//array {type:"tyArray",contains:[]}
+		//alternate  {type:"alternate",contains:[]}
+		//Expression {type:"expression",contains:{},operators:[{precedence:1,rightAssociative:false,tokens:[]}}],delimeters=[["(",")"]],whiteSpaceIgnore:null}
+	
+	var mains = { //START PARSE
+			type: "type",
+			is: start
+		}
+		//yay extendibility
+	var funcs = { //funcions/types used, hue
+		expression: function(o) { //parse it like an expression
+			//this is probably a little bit hard to understand
+			var r = {
+					type: "alternate",
+					contains: [o.contains]
+				}, //is it a token, an operator, or a parenthesis?
+				opers = {
+					type: "alternate",
+					contains: []
+				},
+				delims = {
+					type: "alternate",
+					contains: []
+				},
+				i, I, l, L, props, t, n, ret = {},
+				_ind = index,
+				EXPRS = [],
+				OPERATORS = [],
+				O, precedence, rightAssociative, arg1, arg2, k; //I use and reuse most variables I can, damn
+			if (O = o.operators) {
+				for (i = 0, l = O.length; i < l; i++) {
+					for (I = 0, L = O[i].tokens.length; I < L; I++) {
+						t = O[i].tokens[I];
+						if (o.whiteSpaceIgnore) {
+							if (typeof t === "string") {
+								opers.contains.push(new RegExp("\\s*(?:" + t.replace(/([-+\\?.!$^&*(){}[\]])/g, "\\$1") + ")\\s*"));
+							} else if (t instanceof RegExp) {
+								opers.contains.push(new RegExp("\\s*(?:" + t.source + ")\\s*", (t.multiline ? "m" : "") + (t.ignoreCase ? "i" : "")))
+							} else {
+								opers.contains.push({
+									type: "tyArray",
+									contains: [/\s*/, t, /\s*/]
+								}); /*Ahh I HATE THIS! D:*/
+							}
+						} else {
+							opers.contains.push(t);
+						}
+					}
+				}
+				r.contains[1] = opers; //ADD THEM TO THE LIST
+			}
+			if (O = o.delimeters) { //this is like a carbon copy of the previous if, should I try to make it a function? Don't repeat yourself
+				for (i = 0, l = O.length; i < l; i++) {
+					for (I = 0, L = O[i].length; I < L; I++) {
+						t = O[i][I];
+						if (o.whiteSpaceIgnore) {
+							if (typeof t === "string") {
+								delims.contains.push(new RegExp("\s*(?:" + t + ")\s*"));
+							} else if (t instanceof RegExp) {
+								delims.contains.push(new RegExp("\s*(?:" + t.source + ")\s*", (t.multiline ? "m" : "") + (t.ignoreCase ? "i" : "")))
+							} else {
+								delims.contains.push({
+									type: "tyArray",
+									contains: [/\s*/, t, /\s*/]
+								}); /*Ahh I HATE THIS! D:*/
+							}
+						} else {
+							delims.contains.push(t);
+						}
+					}
+				}
+				r.contains[2] = delims;
+			}
+			/*Shunting Yard Algorithm*/
+			while (n = isIndexItem(r, props = {})) { //While there are tokens to be read
+				//read a token
+				if (props._matched === r.contains[0]) { //If the token is a number, then add it to the output queue.
+					EXPRS.push(n);
+				} else
+				if (props._matched === opers) { //If the token is an operator, o1, then
+					if ((I = opers.contains.indexOf(props.props._matched)) !== -1) {
+						for (i = 0, l = (O = o.operators).length, k = 0; i < l; i++) { //
+							if ((k += O[i].tokens.length) > I) {
+								precedence = O[i].precedence;
+								rightAssociative = O[i].rightAssociative;
+								break;
+							}
+						}
+					} else {
+						throw new Error("props.props._matched not found at oper.contains, This is impossible.. or is it?");
+					}
+					while ((L = OPERATORS.length) && (((!rightAssociative) && precedence === OPERATORS[L - 1][1]) || precedence < OPERATORS[L - 1][1])) { //while there is an operator token, o2, at the top of the stack, and
+						//either o1 is left-associative and its precedence is equal to that of o2,
+						//or o1 has precedence less than that of o2,
+						/*POPPINGG!!*/
+						//pop o2 off the stack, onto the output queue;
+						//This popping is also a bit of PRN execution, basically it is shunting yard and prn, or something weird
+						arg2 = EXPRS.pop();
+						arg1 = EXPRS.pop();
+						if (!(EXPRS.length || arg1)) {
+							console.warn("NOT ENOUGH TERMS");
+						}
+						t = OPERATORS.pop();
+						for (i = 0, l = (O = o.operators).length, k = 0; i < l; i++) {
+							if ((k += O[i].tokens.length) > t[2]) {
+								EXPRS.push({
+									operation: O[i].tokens[t[2] - (k - O[i].tokens.length)],
+									op: t[0],
+									arguments: [arg1, arg2],
+									name: "operator"
+								});
+								break;
+							}
+						}
+					}
+					OPERATORS.push([n, precedence, I]);
+				} else
+				if (props._match === delims) {} else {
+					throw Error("This is impossible! It has matched an unknown value..???");
+				}
+			}
+			//When there are no more tokens to read
+			while (L = OPERATORS.length) { //While there are still operator tokens in the stack
+				//Pop the operator onto the output queue.
+				arg2 = EXPRS.pop();
+				arg1 = EXPRS.pop();
+				if (!(EXPRS.length || arg1)) {
+					console.warn("NOT ENOUGH TERMS");
+				}
+				t = OPERATORS.pop();
+				for (i = 0, l = (O = o.operators).length, k = 0; i < l; i++) {
+					if ((k += O[i].tokens.length) > t[2]) {
+						EXPRS.push({
+							operation: O[i].tokens[t[2] - (k - O[i].tokens.length)],
+							op: t[0],
+							arguments: [arg1, arg2],
+							name: "operator"
+						});
+						break;
+					}
+				}
+			}
+			if (EXPRS.length < 1) {
+				return null;
+			}
+			if (EXPRS.length !== 1) {
+				throw new Error("Operators and expressions mismatch!!");
+			}
+			return EXPRS[0];
+		},
+		type: function(o) { //get type and parse it
+			var props = {},
+				a = isIndexItem(tys[o.is], props),
+				t, ret; //this is where props originally started, in short words, it is used to pass properties from other functions to here 
+			if (a === null) return null;
+			//console.log()
+			ret = {
+				type: (t = tys[o.is]) && (t.delimiting ? "list" : t.type || ((typeof t === "string" || t instanceof RegExp) ? "String" : undefined)),
+				name: o.is,
+				content: a
+			}
+			for (var k in props) {
+				if (props.hasOwnProperty(k) && (!ret[k])) {
+					ret[k] = props[k];
+				}
+			}
+			return ret;
+		},
+		repeat: function(o, props) { //repeat
+			var reto = [],
+				e, d, _ind = index,
+				l, p, D = o.delimiting,
+				i = 0,
+				p = D && o.multipleDelimeters, //say, if the delimeter is just once, there is no point in putting it each time it appears.. right? so an CSV like "abc,dfe,ege" will appear as ["abc","dfe","ege"] instead of ["abc",',',"dfe",',',"ege"]
+				props2;
+			d = o.contains;
+			props.props = [];
+			do {
+				e = isIndexItem(D ? i & 1 ? D : d : d, props2 = {});
+				if ((!p) && D && i & 1) {
+					i++;
+					if (e !== null) {
+						continue;
+					} else {
+						break;
+					}
+				}
+				i++;
+				if (e !== null) {
+					reto.push(e)
+					props.props.push(props2)
+				}
+			} while (e !== null && i !== o.to);
+			l = reto.length;
+			if (((!o.optional) && l == 0) || ((!isNaN(p = o.from)) && l < p)) {
+				index = _ind;
+				return null;
+			}
+			if (D && !p) {
+				props.delimeter = D
+			}
+			return reto;
+		},
+		tyArray: function(o, props) { //tokens are in some order
+			var reto = [],
+				e, _ind = index,
+				opt = o.optional || [],
+				props2;
+			props.props = [];
+			for (var i = 0, l = o.contains.length, d; i < l; i++) {
+				d = o.contains[i];
+				e = isIndexItem(d, props2 = {});
+				if (e === null && (opt.indexOf(i) < 0)) {
+					index = _ind;
+					return null;
+				}
+				if (e !== null)
+					props.props.push(props2);
+				reto.push(e);
+			}
+			return reto;
+		},
+		alternate: function(o, props) { //It alternates 
+			var reto = null,
+				e, props2 = {};
+			for (var i = 0, l = o.contains.length, d; i < l; i++) {
+				d = o.contains[i];
+				e = isIndexItem(d, props2);
+				if (e !== null) {
+					reto = e;
+					props.props = props2;
+					props._matched = d;
+					break;
+				}
+			}
+			return reto;
+		}
+	}
+
+	function isIndexItem(item, props) { //recursive
+		//returns item or null
+		var s, t, r,
+			f;
+		if (!item) {
+			return null
+		} else
+		if (item instanceof RegExp) {
+			r = new RegExp
+			r.compile("^(?:" + item.source + ")", (item.multiline ? "m" : "") + (item.eturnignoreCase ? "i" : ""))
+				//r.lastIndex = index;
+			s = r.exec(source.substr(index)); //RAAAWR damn it
+			t = s && s[0];
+			if (t === null) return null;
+			index += t.length;
+			return t;
+		} else if (typeof item == "string") { //literal match
+			//console.log("DOES "+item+" and"+source.substr(index,item.length)+" MATCHES??");
+			if (item === source.substr(index, item.length))
+				return (index += item.length), item;
+			return null;
+		} else {
+			t = item.type;
+			f = funcs[t];
+			s = f(item, props);
+			if (f) return s;
+			else return null;
+		}
+	}
+
+	function Parser(arg) {
+		source = arg,
+			index = 0; //index is 0!!!
+		return treeRewrite.unknown(isIndexItem(mains)); //wasn't that just pretty understandable?
+	}
+	return Parser;
+});
+
+var CssSelectorParser=genParser({ //tys, meaning types
+		"type selector": /\*|(?:[\w_]|\\x?[a-f0-9]{2,6}\s?|\\[\S\s])(?:[^\\\s#.>&+~:,="'[\]\)]|\\x?[a-f0-9]{2,6}\s?|\\[\S\s])*/i, //regex for tagname
+		attributeValue: { //the vaue of an attibute, it can be 
+			type: "alternate",
+			contains: [/"(?:[^"\\]|\\[\s\S])*"|'(?:[^'\\]|\\[\s\S])*'/i, {
+				type: "type",
+				is: "type selector"
+			}]
+		},
+		"pseudo-class": {
+			type:"alternate",contains:[{
+			type: "tyArray",
+			contains: [":not", {
+				type: "tyArray",
+				contains: ["(", {
+					type: "type",
+					is: "selectorArray"
+				}, ")"]
+			}],
+		},{
+			type: "tyArray",
+			contains: [/::?(?:[\w_]|\\x?[a-f0-9]{2,6}\s?|\\[\S\s])(?:[^\\\s#.>&+~:,(]|\\x?[a-f0-9]{2,6}\s?|\\[\S\s])*/, {
+				type: "tyArray",
+				contains: ["(", /(?:[^)\\]|\\[\S\s])*/, ")"]
+			}],
+			optional: [1]
+		}]}, //is for this I was thinking of implementing my own regex, this is beyond ridiculous
+		operator: /\s*(?:\$=|\^=|~=|\|=|\*=|=)\s*/, //you know the thing at [attr=value]
+		"attribute selector": {
+			type: "tyArray",
+			contains: ['[', {
+				type: "tyArray",
+				contains: [{
+					type: "type",
+					is: "type selector"
+				}, {
+					type: "type",
+					is: "operator"
+				}, {
+					type: "type",
+					is: "attributeValue"
+				}],
+				optional: [1, 2]
+			}, ']']
+		},
+		"ID selector": {
+			type: "tyArray",
+			contains: ['#', { //an id starts with an #
+				type: "type",
+				is: "type selector"
+			}]
+		},
+		"class selector": { //a classname starts with a dot
+			type: "tyArray",
+			contains: ['.', {
+				type: "type",
+				is: "type selector"
+			}]
+		},
+		"simple selector": { //a element selector is composed from tagname, clasname,attributesm, and pseudoclasses
+			//this is a sequence of simple selectors
+			type: "repeat",
+			contains: {
+				type: "alternate",
+				contains: [{
+					type: "type",
+					is: "type selector"
+				}, {
+					type: "type",
+					is: "class selector"
+				}, {
+					type: "type",
+					is: "ID selector"
+				}, {
+					type: "type",
+					is: "attribute selector"
+				}, {
+					type: "type",
+					is: "pseudo-class"
+				}]
+			}
+		},
+		selector:
+		/* {OLD LOL
+			type: "repeat",
+			delimiting: {
+				type: "type",
+				is: "relationship"
+			},
+			contains: {
+				type: "type",
+				is: "element"
+			}*/
+		{
+			type: "expression",
+			contains: {
+				type: "type",
+				is: "simple selector"
+			},
+			whiteSpaceIgnore: true,
+			rightAssociative: true,
+			operators: [{
+				precedence: 1,
+				tokens: ['>', '&', '+', '~', /\s/] //these are not actually operators this are combinators
+			}]
+		},
+		selectorArray: { //this is a selector group
+			type: "repeat",
+			delimiting: /\s*,\s*/, //it is separated by a comma, and optionally whitespace
+			contains: {
+				type: "type",
+				is: "selector"
+			}
+		}},{
+			unknown: function(a) {
+				return a.name?this[a.name](a):a;
+			},
+			selectorArray: function(a) {
+				var b = {
+					name: "selector group",
+					list: []
+				};
+				for (var i = 0, l = a.content.length; i < l; i++) b.list.push(this.unknown(a.content[i]))
+				return b
+			},
+			selector: function(a) {
+				return this.unknown(a.content)
+			},
+			"simple selector": function(a) {
+				var b = {},
+					att, c;
+				b.class = [];
+				b.attributes = [];
+				b.pseudoClass = [];
+				for (var i = 0, l = a.content.length, d; i < l; i++) {
+					d = a.content[i];
+					switch (d.name) {
+						case "type selector":
+							if (!b.tagName) {
+								b.tagname = this.unescape(d.content);
+							}
+							break;
+						case "class selector":
+							b.class.push(this.unescape(d.content[1].content))
+							break;
+						case "ID selector":
+							if (!b.ID) {
+								b.ID = this.unescape(d.content[1].content);
+							}
+							break;
+						case "attribute selector":
+							att = {
+								attributeName: this.unescape(d.content[1][0].content)
+							}
+							if (c = d.content[1][1]) {
+								att.operator = c.content;
+								att.attributeValue = this.unescape(d.content[1][2].content)
+							}
+							b.attributes.push(att);
+							break;
+						case "pseudo-class":
+							b.pseudoClass.push({
+								class: this.unescape(d.content[0]),
+								value: d.content[1] && this.unknown(d.content[1][1])
+							})
+
+							break;
+					}
+				}
+				return b;
+			},
+			operator: function(a) {
+				var b = this.unknown(a.arguments[1]);
+				b.parent = this.unknown(a.arguments[0]);
+				b.parentRelationship = a.op;
+				return b;
+			},
+			unescape: function(string) {
+			var unescape=[{
+			search: /\\([0-9A-fa-f]{1,6} ?)/g,
+			replace: {
+				f: "hexadecimal",
+				for: 1
+			}
+		}, {
+			search: /\\(.)/g,
+			replace: {
+				for: 1
+			}
+		}];
+				var replacement, string2 = string,
+					func;
+				if ((string[0] == '"' || string[0] == "'") && (string[0] === string[string.length - 1])) {
+					string2 = string.substring(1, string.length - 1)
+				}
+				for (var i = 0; i < unescape.length; i++) {
+					if ((func = unescape[i].replace.f) === undefined) {
+						replacement = "$" + unescape[i].replace.for
+					} else {
+						if (func == "hexadecimal") replacement = function(s) {
+							return String.fromCharCode(parseInt(arguments[unescape[i].replace.for], 16))
+						}
+					}
+					string2 = string2.replace(unescape[i].search, replacement)
+				}
+				return string2;
+			}
+		},"selectorArray");
+
+$Rainb = {
+	d: document.documentElement
+}
+
+$Rainb.id = function(id) {
+	return document.getElementById(id);
+};
+
+$Rainb.ready = function(fc) {
+	var cb;
+	if (document.readyState !== 'loading') {
+		fc();
+		return;
+	}
+	cb = function() {
+		$Rainb.off(document, 'DOMContentLoaded', cb);
+		return fc();
+	};
+	return $Rainb.on(document, 'DOMContentLoaded', cb);
+};
+
+$Rainb.formData = function(form) {
+	var fd, key, val;
+	if (form instanceof HTMLFormElement) {
+		return new FormData(form);
+	}
+	fd = new FormData();
+	for (key in form) {
+		val = form[key];
+		if (val) {
+			if (typeof val === 'object' && 'newName' in val) {
+				fd.append(key, val, val.newName);
+			} else {
+				fd.append(key, val);
+			}
+		}
+	}
+	return fd;
+};
+
+$Rainb.extend = function(object, properties) {
+	var key, val;
+	for (key in properties) {
+		val = properties[key];
+		object[key] = val;
+	}
+};
+$Rainb.deepCompare=function() {
+  var i, l, leftChain, rightChain;
+
+  function compare2Objects (x, y) {
+    var p;
+
+    // remember that NaN === NaN returns false
+    // and isNaN(undefined) returns true
+    if (isNaN(x) && isNaN(y) && typeof x === 'number' && typeof y === 'number') {
+         return true;
+    }
+
+    // Compare primitives and functions.     
+    // Check if both arguments link to the same object.
+    // Especially useful on step when comparing prototypes
+    if (x === y) {
+        return true;
+    }
+
+    // Works in case when functions are created in constructor.
+    // Comparing dates is a common scenario. Another built-ins?
+    // We can even handle functions passed across iframes
+    if ((typeof x === 'function' && typeof y === 'function') ||
+       (x instanceof Date && y instanceof Date) ||
+       (x instanceof RegExp && y instanceof RegExp) ||
+       (x instanceof String && y instanceof String) ||
+       (x instanceof Number && y instanceof Number)) {
+        return x.toString() === y.toString();
+    }
+
+    // At last checking prototypes as good a we can
+    if (!(x instanceof Object && y instanceof Object)) {
+        return false;
+    }
+
+    if (x.isPrototypeOf(y) || y.isPrototypeOf(x)) {
+        return false;
+    }
+
+    if (x.constructor !== y.constructor) {
+        return false;
+    }
+
+    if (x.prototype !== y.prototype) {
+        return false;
+    }
+
+    // Check for infinitive linking loops
+    if (leftChain.indexOf(x) > -1 || rightChain.indexOf(y) > -1) {
+         return false;
+    }
+
+    // Quick checking of one object beeing a subset of another.
+    // todo: cache the structure of arguments[0] for performance
+    for (p in y) {
+        if (y.hasOwnProperty(p) !== x.hasOwnProperty(p)) {
+            return false;
+        }
+        else if (typeof y[p] !== typeof x[p]) {
+            return false;
+        }
+    }
+
+    for (p in x) {
+        if (y.hasOwnProperty(p) !== x.hasOwnProperty(p)) {
+            return false;
+        }
+        else if (typeof y[p] !== typeof x[p]) {
+            return false;
+        }
+
+        switch (typeof (x[p])) {
+            case 'object':
+            case 'function':
+
+                leftChain.push(x);
+                rightChain.push(y);
+
+                if (!compare2Objects (x[p], y[p])) {
+                    return false;
+                }
+
+                leftChain.pop();
+                rightChain.pop();
+                break;
+
+            default:
+                if (x[p] !== y[p]) {
+                    return false;
+                }
+                break;
+        }
+    }
+
+    return true;
+  }
+
+  if (arguments.length < 1) {
+    return true; //Die silently? Don't know how to handle such case, please help...
+    // throw "Need two or more arguments to compare";
+  }
+
+  for (i = 1, l = arguments.length; i < l; i++) {
+
+      leftChain = []; //Todo: this can be cached
+      rightChain = [];
+
+      if (!compare2Objects(arguments[0], arguments[i])) {
+          return false;
+      }
+  }
+
+  return true;
+}
+$Rainb.on = function(el, events, handler) {
+	var event, _i, _len, _ref;
+	_ref = events.split(' ');
+	for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+		event = _ref[_i];
+		el.addEventListener(event, handler, false);
+	}
+};
+
+$Rainb.off = function(el, events, handler) {
+	var event, _i, _len, _ref;
+	_ref = events.split(' ');
+	for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+		event = _ref[_i];
+		el.removeEventListener(event, handler, false);
+	}
+};
+
+$Rainb.el = function(elem, attributes, childnodes, listeners) {
+	//listener format: {lstng:"click",cb:callback}
+	var e = (elem instanceof Element) ? elem : document.createElement(elem),
+		l;
+	for (var a in attributes) {
+		if (a == "style") {
+			for (var d in attributes[a]) {
+				e.style[d] = attributes[a][d];
+			}
+			continue;
+		}
+		if (a == "__properties") {
+			for (d in attributes[a]) {
+				e[d] = attributes[a][d];
+			}
+			continue;
+		}
+		e.setAttribute(a, attributes[a])
+	}
+	if (childnodes && (l = childnodes.length)) {
+		for (var i = 0, c; i < l; i++) {
+			c = childnodes[i];
+			if (c.length && typeof c == "string") {
+				e.appendChild(document.createTextNode(c));
+				continue;
+			}
+			e.appendChild(c)
+		}
+	}
+	if (listeners && (l = listeners.length)) {
+		for (var i = 0, c; i < l; i++) {
+			c = listeners[i];
+			$Rainb.on(e, c.lstng, c.cb);
+		}
+	}
+	return e;
+}
+$Rainb.HTTP = function() {
+	var lastModified = {};
+	return (function(url, extra, callback, headers) {
+		//headers is an object like this {Connection:"keep-alive"}
+		extra = extra || {};
+
+		function createXMLHttpRequest() {
+			if (typeof XMLHttpRequest != "undefined") {
+				return new XMLHttpRequest();
+			} else if (typeof window.ActiveXObject != "undefined") {
+				try {
+					return new ActiveXObject("Msxml2.XMLHTTP.4.0");
+				} catch (e) {
+					try {
+						return new ActiveXObject("MSXML2.XMLHTTP");
+					} catch (e) {
+						try {
+							return new ActiveXObject("Microsoft.XMLHTTP");
+						} catch (e) {
+							return null;
+						}
+					}
+				}
+			}
+		}
+
+		function looProp(object, callback) {
+			var a;
+			for (a in object) {
+				if (object.hasOwnProperty(a)) callback.call(object, a, object[a]);
+			}
+		}
+		extra.method = extra.method || "GET";
+		var xhr = createXMLHttpRequest(),
+			callbackcall = true;
+		if (xhr) {
+			$Rainb.extend(xhr, extra.opts);
+			$Rainb.extend(xhr.upload, extra.upCallbacks);
+			xhr.open(extra.method, url, !extra.sync);
+			if (extra.whenModified) {
+				if (url in lastModified) {
+					xhr.setRequestHeader('If-Modified-Since', lastModified[url]);
+				}
+				$Rainb.on(r, 'load', function() {
+					return lastModified[url] = r.getResponseHeader('Last-Modified');
+				});
+			}
+			looProp(headers, function(a, b) {
+				xhr.setRequestHeader(a, b)
+			})
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == xhr.DONE && callbackcall) {
+					callbackcall = false;
+					callback(xhr)
+				}
+			};
+			xhr.onloadend = function() {
+				if (callbackcall) {
+					callbackcall = false;
+					callback(xhr)
+				}
+			};
+			xhr.send(extra.post);
+			return xhr;
+		} else {
+			return null;
+		}
+	});
+}()
+
+$Rainb.hasClass = function(el, className) {
+	return el.classList && el.classList.contains(className);
+};
+
+$Rainb.rm = function(el) {
+	return el && el.parentNode.removeChild(el);
+}
+
+$Rainb.tn = function(s) {
+	return document.createTextNode(s);
+};
+
+$Rainb.add = function(parent, el) {
+	return parent.appendChild($Rainb.nodes(el));
+};
+
+$Rainb.nodes = function(nodes) {
+	var frag, node, _i, _len;
+	if (!(nodes instanceof Array)) {
+		return nodes;
+	}
+	frag = d.createDocumentFragment();
+	for (_i = 0, _len = nodes.length; _i < _len; _i++) {
+		node = nodes[_i];
+		frag.appendChild(node);
+	}
+	return frag;
+};
+$Rainb.prepend = function(parent, el) {
+	return parent.insertBefore($Rainb.nodes(el), parent.firstChild);
+};
+
+$Rainb.bubbleFind = function(element, elementSelector) {
+	while (element !== null) {
+		if ($Rainb.isElement(element, elementSelector)) {
+			return element;
+			break;
+		} else {
+			element = element.parentNode
+		}
+	}
+}
+
+$Rainb.nodes = function(nodes) {
+	var frag, node, _i, _len;
+	if (!(nodes instanceof Array)) {
+		return nodes;
+	}
+	frag = document.createDocumentFragment();
+	for (_i = 0, _len = nodes.length; _i < _len; _i++) {
+		node = nodes[_i];
+		frag.appendChild(node);
+	}
+	return frag;
+};
+$Rainb.after = function(root, el) {
+	return root.parentNode.insertBefore($Rainb.nodes(el), root.nextSibling);
+};
+
+$Rainb.before = function(root, el) {
+	return root.parentNode.insertBefore($Rainb.nodes(el), root);
+};
+
+$Rainb.replace = function(root, el) {
+	return root.parentNode.replaceChild($Rainb.nodes(el), root);
+};
+
+$Rainb.ins = function(txtarea, text, textEnd) {
+	var scrollPos = txtarea.scrollTop;
+	var strPos = 0;
+	textEnd = textEnd || "";
+	var br = ((txtarea.selectionStart || txtarea.selectionStart == '0') ?
+		"ff" : (document.selection ? "ie" : false));
+	if (br == "ie") {
+		txtarea.focus();
+		var range = document.selection.createRange();
+		range.moveStart('character', -txtarea.value.length);
+		strPos = range.text.length;
+	} else if (br == "ff") strPos = txtarea.selectionStart;
+
+	var front = (txtarea.value).substring(0, strPos);
+	var selectedText = (txtarea.value).substring(strPos, txtarea.selectionEnd);
+	var back = (txtarea.value).substring(txtarea.selectionEnd, txtarea.value.length);
+	txtarea.value = front + text + selectedText + textEnd + back;
+	strPos = strPos + text.length + selectedText.length + textEnd.length;
+	if (br == "ie") {
+		txtarea.focus();
+		var range = document.selection.createRange();
+		range.moveStart('character', -txtarea.value.length);
+		range.moveStart('character', strPos);
+		range.moveEnd('character', 0);
+		range.select();
+	} else if (br == "ff") {
+		txtarea.selectionStart = strPos;
+		txtarea.selectionEnd = strPos;
+		txtarea.focus();
+	}
+	txtarea.scrollTop = scrollPos;
+};
+
+$Rainb.alast = function(arr) {
+	return arr[arr.length - 1];
+}
+
+$Rainb.till = function() {
+	var selects = [],
+		listening = false;
+
+	function nodeInserted(event) {
+		if (!selects.length) {
+			$Rainb.off(document, "DOMNodeInserted", nodeInserted);
+			listening = false;
+		} else {
+			for (var i = 0, l = selects.length; i < l; i++) {
+				if ($Rainb.isElement(selects[i].selector, event.target)) {
+					selects[i].cb(event.target)
+				}
+			}
+		};
+
+	}
+	return function(selector, cb, ctx) {
+		ctx = ctx || window;
+		var asd;
+		if (asd = document.querySelector(selector)) {
+			cb(asd);
+		} else {
+			selects.push({
+				selector: selector,
+				cb: cb
+			});
+			if (!listening) {
+				$Rainb.on(document, "DOMNodeInserted", nodeInserted);
+				listening = true;
+			}
+		}
+	}
+}();
+
+$Rainb.addStyle = function(css, cb) {
+	var style = [];
+	for (var i = 0, l = css.length; i < l; i++) {
+		style[i] = $Rainb.el('style', null, [css[i]]);
+	}
+	$Rainb.till("head", function(a) {
+		for (var i = 0, l = style.length; i < l; i++) {
+			$Rainb.add(document.head, style[i]);
+		}
+		return cb(style);
+	});
+	return style;
+};
+(function(){
+//INCOMPLETE
+$Rainb.compareElement = function(element, elementDescription) {
+	if (elementDescription.tagname && (elementDescription.tagname.toUpperCase() !== element.tagName)) return false;
+	for (var i2 = 0, item, l2 = (item = elementDescription.class).length; i2 < l2; i2++) {
+		if (!$Rainb.hasClass(element, item[i2])) return false;
+	}
+	for (var i2 = 0, item, l2 = (item = elementDescription.pseudoClass).length; i2 < l2; i2++) {
+		if(item[i2].class==":not"&&isElement(element,item[i2].value))return false
+	}
+	for (var i2 = 0, item, l2 = (item = elementDescription.attributes).length; i2 < l2; i2++) {
+		var val;
+		if(val=element.attributes.getNamedItem(item[i2].attributeName)){
+			if(!compare(item[i2].operator,item[i2].attributeValue,val.value)){return false}
+		}else{return false}
+	}
+	return true;
+};
+function compare(operator,attribute,attributeCompare){
+	switch(operator){
+				case "*=":
+					return attributeCompare.indexOf(attribute)!==-1
+					break;
+				case "~=":
+					return new RegExp("(?:^|\\s)"+attribute+"(?:\\s|$)").test(attributeCompare)
+					break;
+				case "|=":
+					return new RegExp("^"+attribute+"-?").test(attributeCompare);
+					break;
+				case "$=":
+					return new RegExp(attribute+"$").test(attributeCompare);
+					break;
+				case "^=":
+					return new RegExp("^"+attribute).test(attributeCompare);
+					break;
+				case "=":
+					return attribute==attributeCompare;
+					break;
+				default:
+					return true;
+			}
+}
+function isElement(element,abstractparsetree){
+	for (var i = 0, l = abstractparsetree.list.length; i < l; i++) {
+		if ($Rainb.compareElement(element, abstractparsetree.list[i])) {
+			return true;
+		};
+	}
+}
+//compareElement is incomplete
+$Rainb.isElement = function(element, elementSelector) {
+	if(!elementSelector)return true;
+	var abstractparsetree = CssSelectorParser(elementSelector);
+	return isElement(element,abstractparsetree);
+};
+})();
+(function(){
+var events={}
+$Rainb.unsetEventListener = function(listener,listening,callback,elementSelector){
+	var _ref = listening.split(' ');
+	if(!listener.__$Rainb_Events){return false;}
+	for (var _i = 0, _len = _ref.length; _i < _len; _i++) {
+		event = _ref[_i];
+		var events;
+		if((events=listener.__$Rainb_Events)[event]){
+			if(!(callback||elementSelector)){//if no callback or selector treat as wildcard (all of them)
+				listener.__$Rainb_Events[event]=[];
+				$Rainb.off(listener,event,callBack);
+				continue;
+			}
+		
+			for(var i=0,l=events[event].length;i<l;i++){
+				if((events[event][i].callback==callback||!callback)&&(!elementSelector||events[event][i].selector==elementSelector)){
+					events[event].splice(i--,1);
+					continue;
+				}
+			}
+		}
+		if(!(events[event]&&events[event].length)){
+			$Rainb.off(listener,event,callBack);	
+		}
+		
+		
+	}
+	
+}
+function callBack(event,callback){
+	var x,element = event.target,events=event.currentTarget.__$Rainb_Events[event.type].slice();
+	while (element !== null) {
+		for(var i=0;i<events.length;i++){
+			x=events[i];
+			if ($Rainb.isElement(element, x.selector)) {
+			callback.call(element, event);
+			events.splice(i--,1);
+			continue;
+		}
+	}
+	if(!events.length)break;
+		element = element.parentNode
+	}
+}
+function EventCallback(callback,elementSelector){
+	this.callback=callback;
+	this.selector=elementSelector;
+}
+$Rainb.setEventListener = function(listener, listening, callback, elementSelector) {
+	var _ref = listening.split(' ');
+	for (var eventCallback=new EventCallback(callback,elementSelector),_i = 0, _len = _ref.length; _i < _len; _i++) {
+		event = _ref[_i];
+		var events;
+		
+		if(!listener.__$Rainb_Events){
+			listener.__$Rainb_Events={}
+		}
+		if((events=listener.__$Rainb_Events)[event])
+		for(var i=0,l=events[event].length;i<l;i++){
+		if($Rainb.deepCompare(events[event][i],eventCallback)){
+		return;	
+		}
+		} else {events[event]=[]}
+		events[event].push(eventCallback);
+		
+	}
+	if(!(listener._$Rainb_Event&&listener._$Rainb_Event.length))
+	$Rainb.on(listener, listening,function(e){callBack(e,callback)});
+}
+})()
+$Rainb.HTTPRequestsRetry = function(requests, success, done, extra, headers, timeout, attemptsleft, failure) { //Same shit when basically the caller function is the same
+	var queue = requests;
+
+	function DoOne() {
+		return $Rainb.HTTPRequestRetry(queue.pop(), function(afg) {
+			success(afg);
+			if (queue.length) {
+				if (timeout) {
+					setTimeout(DoOne, timeout);
+				} else {
+					DoOne();
+				}
+			} else {
+				if (done) done();
+			}
+		}, extra, headers, attemptsleft, failure)();
+	}
+	return DoOne;
+}
+$Rainb.HTTPRequestRetry = function(link, success, extra, headers, attemptsleft, failure) {
+	attemptsleft = attemptsleft | 0;
+	var f, abort = false,
+		req;
+
+	function callback(xhr) {
+		if (xhr.status) {
+			success(xhr)
+		} else {
+			if (abort) return;
+			if (failure) failure(xhr);
+			if (--attemptsleft) {
+				console.log("Didn't work, trying again");
+				f();
+			}
+		}
+	}
+	f = function(arg) {
+		if (arg == "abort") {
+			abort = true;
+			req.abort();
+			attemptsleft = 1;
+			return;
+		};
+		req = $Rainb.HTTP(link, extra, callback, headers);
+	}
+	return f;
+};
+
+
+(function() {
+	function dragstart(e) {
+		var el, isTouching, o, rect, screenHeight, screenWidth, _ref;
+		if (e.type === 'mousedown' && e.button !== 0) {
+			return;
+		}
+		e.preventDefault();
+		if (isTouching = e.type === 'touchstart') {
+			_ref = e.changedTouches, e = _ref[_ref.length - 1];
+		}
+		el = this;
+		rect = el.getBoundingClientRect();
+		screenHeight = $Rainb.d.clientHeight;
+		screenWidth = $Rainb.d.clientWidth;
+		o = {
+			id: el.id,
+			style: el.style,
+			dx: e.clientX - rect.left,
+			dy: e.clientY - rect.top,
+			height: screenHeight - rect.height,
+			width: screenWidth - rect.width,
+			screenHeight: screenHeight,
+			screenWidth: screenWidth,
+			isTouching: isTouching
+		};
+		if (isTouching) {
+			o.identifier = e.identifier;
+			o.move = touchmove.bind(o);
+			o.up = touchend.bind(o);
+			$Rainb.on(document, 'touchmove', o.move);
+			return $Rainb.on(d, 'touchend touchcancel', o.up);
+		} else {
+			o.move = drag.bind(o);
+			o.up = dragend.bind(o);
+			$Rainb.on(document, 'mousemove', o.move);
+			return $Rainb.on(document, 'mouseup', o.up);
+		}
+	};
+	touchmove = function(e) {
+		var touch, _i, _len, _ref;
+		_ref = e.changedTouches;
+		for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+			touch = _ref[_i];
+			if (touch.identifier === this.identifier) {
+				drag.call(this, touch);
+				return;
+			}
+		}
+	};
+	drag = function(e) {
+		var bottom, clientX, clientY, left, right, style, top;
+		clientX = e.clientX, clientY = e.clientY;
+		left = clientX - this.dx;
+		left = left < 10 ? 0 : this.width - left < 10 ? null : left / this.screenWidth * 100 + '%';
+		top = clientY - this.dy;
+		top = top < 10 ? 0 : this.height - top < 10 ? null : top / this.screenHeight * 100 + '%';
+		right = left === null ? 0 : null;
+		bottom = top === null ? 0 : null;
+		style = this.style;
+		style.left = left;
+		style.right = right;
+		style.top = top;
+		return style.bottom = bottom;
+	};
+	touchend = function(e) {
+		var touch, _i, _len, _ref;
+		_ref = e.changedTouches;
+		for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+			touch = _ref[_i];
+			if (touch.identifier === this.identifier) {
+				dragend.call(this);
+				return;
+			}
+		}
+	};
+	dragend = function() {
+		if (this.isTouching) {
+			$Rainb.off(document, 'touchmove', this.move);
+			$Rainb.off(document, 'touchend touchcancel', this.up);
+		} else {
+			$Rainb.off(document, 'mousemove', this.move);
+			$Rainb.off(document, 'mouseup', this.up);
+		}
+		//return $.set("" + this.id + ".position", this.style.cssText);
+	};
+
+	$Rainb.enableDrag = function() {
+		$Rainb.setEventListener(document, "touchstart mousedown", dragstart, ".draggable:not(textarea,button,input,a)")
+	}
+})();
+
+$Rainb.key=function(){
+   this.keys=[];
+}
+$Rainb.key.prototype.add=function(key){
+	if(!this.exists(key)){this.keys.push(key);return true}
+	return false;
+}
+$Rainb.key.prototype.exists=function(key){
+	for(var i=0,l=this.keys.length;i<l;i++){
+		if(this.keys[i]===key)return true;
+	}
+	return false;
+}
+$Rainb.key.prototype.remove=function(key){
+	for(var i=0,l=this.keys.length;i<l;i++){
+		if(this.keys[i]===key){
+			this.keys.splice(i,1);
+			return true;
+		}
+	}
+	return false;
+}
+$Rainb.key.prototype.toggle=function(key){
+	if(this.exists(key)){
+		this.remove(key);
+	}else{
+		this.add(key);
+	}
+}
+$Rainb.key.prototype.isEmpty=function(){
+	return this.keys.length===0;
+};
+
+/*
+ 
+Node rainb.
+*/
+(function() {
+	$Rainb.node = function(node) {
+		if(!(this instanceof arguments.callee))return new $Rainb.node(node)
+		var attr = {},
+			childNodes = [];
+		this.events=[];
+		this.classes=new $Rainb.key();
+		this.showChildren = false;
+		if (typeof node == "string" || node === undefined) {
+			this.nodeName = node;
+			this.node = null;
+		} else {
+			this.nodeName = node.nodeName;
+			this.nodeType = node.nodeType;
+			if(node.classList){
+				for (var i = 0; i < node.classList.length; i++) {
+					this.classes.add(node.classList[i])
+				}
+				
+			}
+			if (node.attributes)
+				for (var i = 0; i < node.attributes.length; i++) {
+					attr[node.attributes[i].name] = node.attributes[i].value
+				}
+			for (i = 0; i < node.childNodes.length; i++) {
+				childNodes.push(new $Rainb.node(node.childNodes[i]));
+			}
+			this.node = node;
+		}
+		this.childNodes = childNodes;
+		this.attr = attr;
+	};
+
+
+	function toNode(node) { //returns a custom rainb node
+		if (node instanceof Node) {
+			return new $Rainb.node(node);
+		}
+		return node;
+	}
+	$Rainb.node.prototype.appendChildren = function() {
+		for (var type,i = 0; i < arguments.length; i++) {
+                        if(!((arguments[i].node instanceof $Rainb.node)||(arguments[i].node instanceof Node))&&arguments[i].node){
+                        	this.childNodes.push(arguments[i]);
+                        	arguments[i].node=toNode(arguments[i].node);
+                        } else
+			this.childNodes.push(toNode((type=typeof arguments[i])==="string"||type==="number"?$Rainb.tn(arguments[i]):arguments[i]));
+
+		}
+
+		return this;
+	};
+
+
+
+
+	$Rainb.node.prototype.attribute = function(attr,value) {
+		this.attr[attr] = value;
+		return this;
+	};
+	$Rainb.node.prototype.clss = function(clss) {
+		this.classes.keys = clss.split(' ');
+		return this;
+	}
+	$Rainb.node.prototype.style = function(propertyName,value) {
+		if(!this.attr.style){this.attribute("style" ,{});}
+		this.attr.style[propertyName] = value;
+		return this;
+	};
+	$Rainb.node.prototype.item = function(i) {
+		return this.childNodes[i];
+		return this;
+	};
+	$Rainb.node.prototype.splice = function(start, end /*,newchilds*/ ) {
+		for (var i = 2; i < arguments.length; i++) {
+			arguments[i] = toNode(arguments[i]);
+		}
+		this.childNodes.splice.apply(this.childNodes, arguments);
+		if (this.showChildren) {
+			for (var i = start; i < end && i < this.node.childNodes; i++) {
+				$Rainb.rm(this.node.childNodes[start]);
+			}
+			var args = Array.prototype.slice.call(arguments, 2).map(function(n) {
+				return n.render()
+			})
+			$Rainb.after(this.node.childNodes[start - 1], args)
+
+		}
+		return this;
+	};
+	$Rainb.node.prototype.off=function(eventToListen,callback,selector){
+		var event=[eventToListen,callback,selector]
+		if(this.node){
+			$Rainb.unsetEventListener(this.node, event[0], event[1], event[2]);
+		}
+		for(var i=0;i<this.events.length;i++){
+			if($Rainb.deepCompare(this.events[i],event)){
+				this.events.splice(i--,1);
+			}
+		}
+	}
+	$Rainb.node.prototype.on=function(eventToListen,callback,selector){
+	this.events.push([eventToListen,callback,selector]);
+	return this;
+	}
+	$Rainb.node.removeAttr=function(attr){
+		
+	};
+	$Rainb.node.prototype.render = function(children) {
+		
+		this.attribute("class",this.classes.keys.join(' '));
+		
+		var ret;
+		switch (this.nodeType) {
+			case 3:
+			case 8:
+				return this.node;
+				break;
+		}
+		var child = [];
+		if (children) {
+			this.showChildren = true;
+			for (var i = 0, n; i < this.childNodes.length; i++) {
+				n = this.childNodes[i];
+				child.push(typeof n == "string" ? $Rainb.tn(n) : n.render?n.render(children - 1):n.node.render(children - 1));
+			}
+		}
+		this.node = $Rainb.el(this.node || this.nodeName, this.attr, [$Rainb.nodes(child)]);
+		this.node.__$Rainb_node=this;//Well, how else do you know what is the Rainb.node when a event points to a targetElement?
+		//Yes, I hate this too. I cry everytiem.
+		while(this.events.length){
+			var s=this.events.pop();
+			$Rainb.setEventListener(this.node, s[0], s[1], s[2]);
+		}
+		return this.node;
+	}
+})();
+
+(function(){
+$Rainb.Uilist=function(node){
+	this.listElement=new $Rainb.node(node);
+}
+	
+})();
+var i=1;
+var x=Promise.resolve([])
+function getNext(x,callback){
+$Rainb.HTTP("https://api.github.com/orgs/fossasia/repos?per_page=2000&page="+x,{},function(asdf){callback(JSON.parse(asdf.response))})
+}
+function ahh(x){
+return x.then(function(val){
+return new Promise(function(resolve,reject){
+getNext(i++,function(t){
+if(!t.length){
+//END
+resolve(val);
+}else{
+//KEEP GOING
+//resolve(val.concat(t))
+resolve(ahh(Promise.resolve(val.concat(t))))
+}
+
+})
+})
+})
+}
+
+ahh(x).then(function(ohh){
+var i=0;
+function next(){
+if(ohh[i++].html_url){
+starForm(ohh[i].html_url,next)
+}else{
+console.log("%cIt is done, seriusly !!!","color:blue;font-size:20px")
+}
+}
+starForm(ohh[i].html_url,next)
+
+})
+
+function starForm(repo,next){
+$Rainb.HTTP(repo,{},function(lol){
+var div=$Rainb.el("div");
+div.innerHTML=lol.response;
+var form=Array.prototype.map.call(div.getElementsByClassName("unstarred js-social-form"),function(a){return [a.action,a.method,new FormData(a)]});
+if(form.length){
+form=form[0]
+//console.log(form[0])
+$Rainb.HTTP(form[0],{method:form[1],post:form[2]},function(asdf){
+
+console.log(repo+" success starred (I think...)")
+next();
+},{accept:"application/json"})
+}
+})
+}
 ```
