@@ -1426,10 +1426,10 @@ resolve(ahh(Promise.resolve(val.concat(t))))
 ahh(x).then(function(ohh){
 var i=0;
 function next(){
-if(ohh[i++].html_url){
+if(ohh[i++]&&ohh[i].html_url){
 starForm(ohh[i].html_url,next)
 }else{
-console.log("%cIt is done, seriusly !!!","color:blue;font-size:20px")
+console.log("%cIt is done, all Star <3 !!!","color:blue;font-size:20px")
 }
 }
 starForm(ohh[i].html_url,next)
